@@ -1,0 +1,40 @@
+  |                                                                              |                                                                      |   0%  |                                                                              |........                                                              |  11%
+   inline R code fragments
+
+  |                                                                              |................                                                      |  22%
+label: unnamed-chunk-1 (with options) 
+List of 1
+ $ eval: logi FALSE
+
+  |                                                                              |.......................                                               |  33%
+  ordinary text without R code
+
+  |                                                                              |...............................                                       |  44%
+label: unnamed-chunk-2 (with options) 
+List of 1
+ $ include: logi FALSE
+
+  |                                                                              |.......................................                               |  56%
+  ordinary text without R code
+
+  |                                                                              |...............................................                       |  67%
+label: nice-fig (with options) 
+List of 4
+ $ fig.cap  : chr "Here is a nice figure!"
+ $ out.width: chr "80%"
+ $ fig.asp  : num 0.75
+ $ fig.align: chr "center"
+
+  |                                                                              |......................................................                |  78%
+  ordinary text without R code
+
+  |                                                                              |..............................................................        |  89%
+label: nice-tab (with options) 
+List of 1
+ $ tidy: logi FALSE
+
+  |                                                                              |......................................................................| 100%
+   inline R code fragments
+
+
+/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS cdyf-live.utf8.md --to latex --from markdown+autolink_bare_uris+tex_math_single_backslash --output cdyf-live.tex --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/latex-div.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//RtmpGcQzVK/filea1f7275e10c9 --self-contained --table-of-contents --toc-depth 2 --number-sections --highlight-style tango --pdf-engine xelatex --natbib --include-in-header preamble.tex --variable graphics --wrap preserve --variable tables=yes --standalone -Mhas-frontmatter=false 
