@@ -1,0 +1,408 @@
+# (PART) BUILDING YOUR FUTURE {-}
+
+# Debug your CV {#debugging}
+
+It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, resume or completed application form? How can you support applications with a strong personal statement or covering letter? 🐛
+
+
+```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)"}
+knitr::include_graphics("images/Features not bugs.png")
+```
+## What you will learn {#ilo7}  
+
+* Structure and style the content of CV /resume appropriately
+* Describe the context, actions and results (CAR) of your relevant experience, projects and education
+* Identify and fix bugs in CV’s
+    + Constructively criticise others CVs
+    + Ask for, listen to, and act on constructive criticism of your own CV
+* Quantify and provide evidence for any claims you make you on your CV
+
+## Beware of the black hole {#blackhole}  
+Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) shown in figure \@ref(fig:gayle-fig). Gayle is an experienced software engineer who has worked at the biggest technology employers in the world, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll come across in the [chapter on interviewing](http://www.cdyf.me/interviewing.html) Gayle refers to the employer “black hole”:
+
+```{r gayle-fig, echo = FALSE, fig.align = "center", out.width = "28%", fig.cap = "(ref:captiongayle)"}
+knitr::include_graphics("images/Gayle_Laakmann_McDowell.jpg")
+```
+(ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
+
+
+
+> Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit resumes each
+> year, with only a small fraction getting an interview. The online application system – or, as it’s more
+> appropriately nicknamed, “The Black Hole,” – is littered with so many resumes that even a top candidate
+> would struggle to stand out. --[Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) [@blackhole; @techcareer]
+
+If you're applying to big employers, you'll need to create a CV that is good enough to stand out in the black hole and persuade an employer to invite you to an interview. To get started, you will write this in an employer-agnostic way but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
+
+
+## It's not bug, its a feature
+
+It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work:
+
+> “It's not a bug, it's a feature!” ---A. Hacker [@bugorfeature]
+
+Nobody likes buggy software, but we unfortunately routinely tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
+
+In contrast, buggy CVs are rarely tolerated, they will usually end up in the bin. Even a tiny defect, like an innocent typo, can be ~~fetal~~ fatal. Most employers (particularly large and well known ones) have to triage hundreds or even thousands of CV's for any given vacancy. This means they are looking for reasons to REJECT your CV, rather than ACCEPT it, because that's a sensible strategy for shortlisting from a huge pool of candidates for interview. A buggy CV, application and covering letter could ruin your chances of being [invited to an interview](#interviewing).
+
+<!-- false positives and false negatives-->
+
+<!--see e.g. https://community.rstudio.com/t/appending-a-pre-existing-pdf-to-a-new-created-by-r-markdown/45641
+
+```{r cv-fig, fig.align="center", fig.cap="this is a caption", echo=FALSE}
+knitr::include_graphics("images/rick-urshion.pdf")
+```
+
+doesn't work for some unknown reason
+
+
+```{r marissa-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "this is a sample CV"}
+knitr::include_graphics("images/marissa.png")
+```
+-->
+
+Like writing software, the challenging part of writing a CV isn't the *creation* but in the *debugging*. Can you identify and fix the bugs before they are fatal?
+
+<!--## Debug their CV {#bugfeature}
+
+It's difficult to be objective about your own CV.-->
+
+> DISCLAIMER: If you ask three people what they think of your CV, you will get three
+> different and probably contradictory opinions. CV's can be very subjective thing. The > advice below is based on common sense, experience and ongoing conversations with
+> employers. What makes a good CV will depend on the personal
+> preferences and prejudices of your reader. There are some general rules, which are
+> described below.
+
+While referring to this guide, remember that:
+
+* The main purpose of your CV is to get an interview, not a job. Your CV should catch attention and provide talking points for an interview but not give your whole life story
+* Your CV will be assessed in seconds, rather than minutes so brevity really is key
+* Bullet points with [verbs first](#verbsfirst) will:
+  + allow your reader to quickly scan your CV ([employers don't read CVs, they scan them](https://readabilityguidelines.co.uk/content-design/how-people-read/)) [@scanning]
+  + highlight your key activities
+  + avoid long sections of prose (which the reader will probably skip anyway)
+
+## Is it a bug or a feature? {#mycv}
+
+Wherever criticism of your CV comes from, don't take it personally - it is probably one of the first you have written. Think of your current CV as an alpha or beta version that you continuously test, release and redeploy. There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this.
+
+1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See [Education](#mycved)
+1. **STYLE**: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader
+1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See [length](#length)
+1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See [structuring](#mycvst)
+1. **VERBS FIRST**: Have you talked about what you have actually done using prominent [verbs first](#verbsfirst) in bullets, rather than just what you think you know? Avoid long sections of prose.
+1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see [Context, Action & Result (CAR)](#carstart)
+
+<!--Google Inside Look: Google students
+iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
+
+
+
+## Structure your CV {#mycvst}
+
+How you structure your CV will depend on who you are and what your story is. Recruiters at Google suggest five sections, that follow a header section. Before we look at those, lets look at some general points about CVs, watch the videos shown in Figure \@ref(fig:lopez-fig).
+
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYUy1yvjHxE" frameborder="0" allowfullscreen></iframe>
+'`
+```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captiongooglerecruiters)"}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+```
+
+(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your resume.
+
+A key part of your story that you want to communicate in your CV is that you :
+
+1. take responsibility
+1. achieve things
+1. are nice to have around
+
+How can you demonstrate this? Watch the short video in Figure \@ref(fig:black-fig).
+
+<!--Remember that no applicant meets all the criteria, so 80% means you're doing really well [@topnotchcv]-->
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yjdvCHWVtE4" frameborder="0" allowfullscreen></iframe>
+'`
+```{r black-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionjonathanblack)"}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+```
+(ref:captionjonathanblack) [Jonathan Black](https://twitter.com/jonathanpblack), head of the careers service at the University of Oxford,  explains how to create a top notch CV. [@topnotchcv]
+
+
+### Your header {#mycvpd}
+
+The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in Figure \@ref(fig:turinghead-fig) for some bloke called Alan. That's it!
+
+```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncvheader)"}
+knitr::include_graphics("images/alan-turing-header.png")
+```
+
+(ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything else, will just waste space and distract the reader.
+
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) we suggest you have five sections that cover the following:
+
+1. Education
+1. Experience
+1. Projects
+1. Activities (and leadership)
+1. Awards and honours
+
+Let's look at each of these sections:  
+
+### Your education {#mycved}  
+
+Unless you have significant amount of experience, the education section of your CV is likely to be the first real section, after the header. Your education section needs to strike a balance between:
+
+* Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
+* Keeping it short and sweet, without getting bogged down in the details.
+
+You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line “*BSc Computer Science*”. You'll need to say more than [Pen Tester](#pen-tester) and [Rick Urshion](#rick-urshion) (for example) but not as much as [Mike Rokernel](#mike-rokernel), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give two decimal places (it happens). Pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
+
+### Your experience {#mycvex}  
+
+Experience is where you can talk about any paid or voluntary work experience you have. Don't discount casual labour, such as working in retail or hospitality, these demonstrate your work ethic and ability to deal with customers, often under pressure. You are more than just a techie, so anywhere you've worked in a team is experience worth mentioning.
+
+If you don't have much experience, don't worry, there are plenty of opportunities to get some.
+
+### Your projects {#mycvpj}
+
+Your projects section is for everything else, they might be personal, social or University projects, probably not paid because these might fit better under [your experience](#mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Particpating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out.
+
+If you have any open source projects
+what projects have you done. fix a bug in an open source project.
+
+You can build a mobile application, a web application, or something using open source. (FOSS) The important thing is that you are building something
+
+
+### Your skills?  {#mycvsk}
+
+You may be tempted to dedicate a whole section on your CV to skills, particularly the technical ones. Maybe it makes you feel good listing them all in one place. Don't do it! Why not? Let's imagine, that like [Rick Urshion](#rick-urshion), you include Python in a long list skills, with its own dedicated section. There are at least four problems with Rick's not so skilful approach:
+
+1. **No context** to give the reader an idea of the where he's developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don't know because he doesn't say.
+1. **No actions** or *evidence* to back up his claims of having skill with Python. So Rick claims he knows Python. So what? What did he *do* with those python skills? We don't know because he hasn't told us. Perhaps he DOES have Python skills, perhaps he DOESN'T. Is he telling lies and peddling fake news? It's difficult to tell.
+1. **No results** given for what the outcome of using the skills was. Did he save his employers some money? Did he make something more efficient? Did he learn some methodology? We will never know.
+1. **No tailoring** the skill to the job that he's applying for. Python would be valuable if he was applying to be a data scientist, software engineer, or automated tester but perhaps less relevant for a business analysis, consultancy, user experience or project management roles
+1. **No story** told for that skill. This makes for a very dull and boring read. Yawn. Next!
+
+So, this doesn't mean Rick shouldn't mention his Python skills. He needs to give us the [context, action and result (CAR)](#carstar). This will make his pythonic story much more convincing and interesting to read. Giving the CAR will improve his chances of being invited to interview.
+
+This applies to soft skills too, not just hard technical skills. Best to mention the context in which you've used any skills you mention on your CV. So, if you're going to list skills:
+
+* keep it short (one or two lines maybe) but don't dedicate a whole section to it
+* stick to your strongest and most relevant skills that you are comfortable to answer questions on in your interview
+
+If you're a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly. You can also think logically, reason, problem solve, analyse, criticise and abstract - often to tight deadlines. Again, these are future-proof skills that will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in any specific technical skills you have.
+
+## Birds eye view
+Having looked at the sections you're likely to have, we'll take a birds eye view of your whole CV. The issues in this section apply to the whole of your CV, rather than individual sections.
+
+### Your style {#pdf}
+
+Making your CV look good can take ages, but a well presented CV will stand out. While its worth making an effort to style carefully and consisistenly, you need to be be wary of the huge time sink of [typography](https://en.wikipedia.org/wiki/Typography).
+
+Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean.
+
+```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
+knitr::include_graphics("images/CV need a little work.png")
+```
+
+(ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are interviewed, so its important to spend time getting it right. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX: latex4year1](https://latex4year1.netlify.app/) if you've not used LaTeX before.
+
+### Your context, action and results {#carstar}
+
+One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction and **R**esult (CAR) sometimes called STAR (**S**ituation **T**ask **A**ction **R**esult). This method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing Python as a skill, you should tell the reader (really spell it out) more about the context in which you've used python, what you actually did with it and what the result was
+
+* **CONTEXT**: So you've used Python, but in what context? As part of your education? For a personal project? As a volunteer? In a competition?
+* **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something?
+* **RESULT**: What was the result and how can you measure it? You picked up some knew skills? You made something that was inefficient and awkward into something better, cheaper or faster?
+
+Similar to CAR and STAR, recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe things using “Accomplished [X], as measured by [Y], by doing [Z]”
+
+So instead of saying
+
+> “generated reports for end users.” -
+
+You could say
+
+> “Generated daily reconciliation report for team by automating workflow of 8 different tasks”
+
+The second is better because its more specific, captures the result (accomplishment), by quantifying it ( “as measured by”) and talks about the actions (the doing part).
+
+
+### Your length {#length}
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point. It is also advisable to [create a one page Resume](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong] At this stage in your career you should be able to fit everything on to one page. It can be challenging squeezing it all on:
+
+> “If I had more time, I would have written a shorter letter.” ---Anon
+
+It takes more time to write less. Writing a one page resume is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page resume than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
+
+```{r morefeatures-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionmorefeatures)"}
+knitr::include_graphics("images/an-engineering-state-of-mind.png")
+```
+
+(ref:captionmorefeatures) If it ain't broke it doesn't have enough features yet. Adding more features to software doesn't necessarily make it better. Likewise, adding more pages and content to your CV or resume won't always improve it. It's often better to be precise and concise, rather than bloated and potentially more buggy. [An engineering state of mind](https://bryanmmathers.com/an-engineering-state-of-mind/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+If you're struggling to fit all the information onto a one page resume, revisit each section and item carefully. Is there anything you can drop? Can you save a wasteful word here, or a lazy line there? Check for any spurious line breaks because every pixel counts. Don't throw your two page CV away, its a good store of stuff you might want to add to customised one-page resumes.
+
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0abDOKHS5T0" frameborder="0" allowfullscreen></iframe>
+'`
+```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)?"}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+```
+
+
+
+### Verbs first {#verbsfirst}
+
+A simple but effective technique for emphasising what you have done, rather than just what you know, is to start the description of it with a verb. Employers don't just want to know what you know, but what you have actually done. So, for example, instead of saying e.g.
+
+> “In my second year CS29328 software engineering module I used Java, Eclipse and
+> JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG)
+
+you could say:
+
+>  “Built and tested a large open-source codebase using Eclipse, Ant, JUnit and Jenkins ...”
+
+followed by:
+
+>  “Added and deployed new features to a Massively Multiplayer Online Role-Playing Game (MMORPG) in Java...”
+
+
+The latter examples get to the point much quicker and avoid the problem of using “I, me, my” too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression.
+
+### Your links {#links}
+
+Augmenting your CV with web links (hyperlinks) adds context, without adding too many words or taking up valuable space. It's also a great way to add evidence that says things like:
+
+*  *“Look at this thing I built, its really cool”*
+*  *“I was part a bigger thing you can find out about here”*
+* etc
+
+Links are crucial features of your CV and an interested reader *may* even follow them. Treat links with respect and they will support your goals and help your readers. Invest some time thinking about how you word the link text, and how they would be understood out of context. Make sure that:
+
+* hyperlinks are [readable and descriptive](https://readabilityguidelines.co.uk/content-design/links/) [@readable]  
+* hyperlinks are clickable in the PDF. Don't make your reader cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
+* hyperlinks are paper-proof. Some people still print CVs so the phrase "click here" won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
+
+```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
+knitr::include_graphics("images/lovelace-linkedin.png")
+```
+(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default random alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http::`, forward slashes  `//` and `www` in URLs which are distracting noise. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
+
+Besides LinkedIn you can include public profiles from [github](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), [@stackoverflow] [devpost](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank](https://www.hackerrank.com/leaderboard). You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They will Google you.
+
+<!--## Compare and contrast CV and LinkedIn-->
+
+### Robot proof your CV {#robotproof}
+
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use Application Tracing Systems (ATS) which often make use of automated software to analyse your application. These resume robots are unlikely to have arms and legs like the one in Figure \@ref{fig:machines-fig}, but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though its a good idea to remove any personal information like phone numbers etc before using free services such as:
+
+* [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
+* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV
+* [jobscan.co](https://www.jobscan.co/), a free service provided by an American company
+
+
+```{r machines-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmachines)"}
+knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png")
+```
+
+(ref:captionmachines) Although they typically struggle to get up the stairs and don't drive history the way humans do, resume robots are likely to play an important role in any decisions to invite you to a job interview. Make sure your CV is resume robot friendly. [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't identify it. Some things to check with automated CV screens:
+
+* Have you used standard headings for the sections? Non-standard sections maybe ignored or misunderstood
+* Have you used appropriate verbs to describe your actions?
+* Is your layout and design robot friendly?
+
+
+### Your references {#referees}
+
+You might be tempted to put your referees details on your resume. Don't bother because;
+
+* references waste valuable space. You can say much more interesting things about yourself than who you referees are
+* references aren't needed in the early stages of a job application. They are typically taken up much later, when you've been offered or are about to be offered the job
+* references give personal information out. Do you really want to be giving personal details out to anyone that reads your CV? It could easily be misused.
+
+It's not even worth saying "references available on request" - that just wastes space as well and is implied information on every CV anyway.
+
+<!--
+## extra-curricular / interests / leadership / awards
+
+student groups (especially leadership positions)
+Placement in coding, programming or tech related competitions 2nd out of 100 e.g.
+conference presentation
+university honors, awards or scholarships
+publications, papers or patents
+achievements or activities outside of CS
+
+## Don't tell me, SHOW ME!
+
+show me the money!-->
+
+## Discussion points
+
+Some points for discussion:
+
+* How long should your CV be?
+* Should you have a personal statement on your CV?
+* One column or two column layout?
+* Should I put education or experience first?
+* How many of my hobbies and personal interests should I list?
+* How many employers actually read cover letters?
+
+## Big Bad Bugs
+
+A quick check-list of commons bugs
+
+1. Has it been reviewed by several people?
+1. Have you reviewed other people's CV's?
+1. Does the style look good?
+1. Is there too much or too little whitespace?
+1. Is there anything irrelevant on there? e.g. personal information, swimming certificates from ten years ago
+1. Is your year of graduation, degree program, University and expected (or achieved) degree classification clear?
+1. Are there any spelling mistakes or grammatical errors?
+1. Is it in reverse chronological order?
+1. Have you used too many personal pronouns?
+1. Have you made it clear what you have actually done using prominent verbs?
+1. Have you mentioned courses you are studying now (or next semester)?
+1. Is it targeted to an employer or job description?
+1. Is it balanced, with all non-technical
+1. Does it have a good, clear structure? Typically education, experience, projects etc
+1. Have you distinguished between paid and unpaid or voluntary work?
+
+## Covering letters
+
+<!--see appending
+https://community.rstudio.com/t/appending-a-pre-existing-pdf-to-a-new-created-by-r-markdown/45641/6-->
+
+## TL;DR summary {#tldr7}
+
+[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+This chapter we've looked at how to debug your CV. It's important to try and squash any of the bugs we've described here, before an employer see's your CV.
+
+
+
+
+
+<!-- nine hallmarks of a powerful resume
+
+1. short and sweet
+2. accomplishment oriented (highlight what you did)
+3. quanitifiable results (STAR)
+4. well targeted (to product, job description or values)
+5. universally meaningful (no jargon)
+6. professional (no typos)
+7. well formatted
+8. list projects
+9. be different-->
+
+<!--
+1. socialite / socialist
+1. definitely / defiantly
+1. causal / casual
+1. heroin / heroine
+1. public / pubic -->

@@ -1,0 +1,208 @@
+# Your soft skills are hard {#communicating}
+
+Let's get straight to the point of this chapter: your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work as a team. There are very few jobs where you work on your own, and most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse members. This means that sooner or later you're going to have to master the art of working with other people. 😱
+
+```{r otherpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionotherpeople)"}
+knitr::include_graphics("images/What - other people.png")
+```
+(ref:captionotherpeople) There are very few jobs where you don't have to work as part of a team with other people. Sorry to break the bad news! This means you need to constantly improve your softer skills and provide evidence of them to potential employers. Other people sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Communicating with other people and working in teams is inherently difficult because we're all human. There is good news and bad news...
+
+* **THE GOOD NEWS** is, people can be diligent, humble, competent, honest, caring and reliable. They can be co-operative, generous, supportive, kind, thoughtful, intelligent, sensitive, understanding and professional too!
+* **THE BAD NEWS** is, unfortunately people can also be lazy, stupid, ignorant, vain, incompetent, dishonest, unreliable, greedy, egomaniacal, unpredictable and moody. They can be proud, selfish, competitive, lustful, angry, envious, mean, busy, insensitive and thoughtless. Some may even betray, exploit, misunderstand and mislead you, deliberately or otherwise. [@sevendeadly]
+
+So communicating with and understanding other people can be hard work, but don't worry, **everyone** finds this challenging, it's not just you. It doesn't matter if you're an extrovert or an introvert, we all find communication difficult, and everyone can get better at it. This chapter takes a look at the softer skills and techniques you can use to improve your communication with other people, whatever mood they are in and whosever team they are on.
+
+
+## What you will learn
+
+* Recognise the importance of written communication, both as a reader and a writer
+* Identify examples of where written communication is crucial in science and engineering
+* Improve your written communication skills using
+* Identify the importance of teamwork
+
+
+## Computing is your superpower!
+
+Studying computer science gives you an awesome superpower. We will look at some of the reasons why in the chapter on [Computing your Future](#computing). But for now, let us just acknowledge that hard technical skills like computing are highly sought after and valuable, both commercially and otherwise.
+
+```{r achilles-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionachilles)"}
+knitr::include_graphics("images/Achilles-Heel-to-Superpower.png")
+```
+(ref:captionachilles) Computing is a superpower that warriors like [Achilles](https://en.wikipedia.org/wiki/Achilles) would probably have envied. As a technical or "hard skill", computing a crucial weapon in your armoury but what are your weaker skills? What is your [Achilles' heel](https://en.wikipedia.org/wiki/Achilles%27_heel)? For some scientists and engineers, their weakness is their soft skills, such as communication and team work. This chapter looks at what you can do to improve them and convince employers that you are rounded individual with a healthy balance of soft and hard skills. [Achilles heel to superpower](https://bryanmmathers.com/achilles-heel-to-superpower/) by [Visual Thinkery](https://visualthinkery.com/s) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Your computational superpower is less powerful if it's not complemented by a broad range of softer skills. Typically, these skills are not emphasised (by repeated assessment) in most computer science degrees and they are hard to measure. This not because soft skills aren't important.
+
+For example, if I want to know how good you are at understanding the syntax and semantics of a programming language like Python, there are tried and tested techniques for doing this. However, if I want to know how good you are at using your communication skills to work in a team, negotiate, lead, resolve conflicts, persuade others, show empathy etc that's **much** harder to measure accurately.
+
+```{r allskills-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallskills)"}
+knitr::include_graphics("images/Hard and soft skills.png")
+```
+
+(ref:captionallskills) Hard skills and soft skills aren't much use without each other. You will need both to survive and thrive but your most science and engineering education focuses on your hard skills, not your soft skills. Why? Because hard skills are often much easier to measure. Hard and soft skills sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
+
+Let's look at some of low-level communication skills (I/O) that they are built on.
+
+## Communication I/0
+
+In terms of input and output, your fundamental communication skills are listening, speaking, reading and writing words in natural languages shown in table \@ref(tab:iotable). This might sound blindingly obvious, but these skills are often under-estimated or undervalued by engineers and scientists, especially undergraduates. Alongside verbal and written communication, there's also nonverbal language, or body language such as eye contact, gestures and facial expressions.
+
+
+```{r iotable, echo = FALSE}
+io_table <- tibble::tribble(
+    ~ ""                        , ~ "Input",      ~ "Output",
+  "Written natural language"    , "Reading",        "Writing",
+  "Spoken natural language"     , "Listening",      "Speaking",
+  "Nonverbal language"    , "Observing other people",      "Being observed by others",
+)
+knitr::kable(io_table, caption = "Fundamental inputs of outputs of communication ", booktabs = TRUE)
+```
+
+Engineers and scientists sometimes lack communication skills outlined in table \@ref(tab:iotable). Think of your stereotypical scientist, clad in a white coat, unable to explain the complexities of their subject to people outside their lab. Then there is the nerdy software engineer stereotype who prefers the company of computers to people. Yes, these are lazy and sometimes unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators.
+
+### The pen is mightier than the sword {#mightier}
+The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on written communication skills because:
+
+1. **Good writing and reading are crucial in job applications**: From writing CV's, covering letters, completing application forms and reading job specifications, and employer information, your ability to read and write natural languages is crucial to coding your future.
+1. **Writing gets neglected**: Written communication skills (both reading and writing) are sometimes sidelined in science and engineering degrees. This is particularly true in the “hard sciences”. For example, communicating and solving problems using code or mathematics are usually the dominant forms of assessment in computer science courses. That's understandable given the subject, but tends to push natural languages like english to the sidelines.
+1. **Good engineers are also good writers** Many engineers (and scientists) could significantly improve their written communication skills. Software engineers are notoriously bad at writing good documentation, see for example [Why Computer Science Students Need Language](https://dl.acm.org/doi/10.1145/960492.960525), *Scientists Must Write* [@scientistsmustwrite] and [The Real Reason Silicon Valley Coders Write Bad Software](https://www.theatlantic.com/national/archive/2012/10/the-real-reason-silicon-valley-coders-write-bad-software/263377/), just three examples amongst many others making exactly the same point. Employers like Google provide training (and a whole career path) for technical writers, see [developers.google.com/tech-writing](https://developers.google.com/tech-writing). However, you could argue these careers wouldn't be needed if software engineers were better at documenting and explaining their code in the first place!
+1. **Writing good english is like writing good code**. Some of the skills you already have in coding can be transferred to written communication. Just like a good function or method in code should be well-defined with a clear purpose, your writing should also be clear and coherent. Well structured writing is a lot like well architected software too, with a clear [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+1. **It is relatively easy to improve** your written communication skills, simply by reading and writing more. Reading and writing deliberately every day, will significantly improve these skills.
+
+### Natural language engineering
+If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering code, they also spend a significant amount of time engineering messages in natural languages like english. Consider the following:
+
+* email
+* instant messaging, Slack, Microsoft Teams, Discord, Zoom, Blackboard etc
+* bug reports
+* messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla and Trello
+* 'How to' and cookbook style articles and books
+* API reference material
+* The one page summary for management
+* User documentation
+* Case studies of software use
+* Frequently Asked Questions (FAQ)
+* Release notes
+* Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
+* YourPersonalDomain.com (if you have one)
+* Marketing material
+* Asking and answering questions on forums like [stackoverflow.com](https://stackoverflow.com/)
+* Commit messages in version control systems like git and mercurial
+* Architecture documentation
+* Design specifications  
+
+What do they all have in common? They're all written in natural languages like English, but without them, the software or hardware they describe and discuss would be useless.
+
+<!--
+1. **Its not just engineers that can improve** If the huge volume of literature on the importance of writing is anything to go by,  it's not just engineers and scientists that could improve their written communication skills, see for example the complete plain words. [@gowers; @writingatuni]-->
+
+
+## Improving your written communication
+Hopefully I've convinced you that written communication skills (both as a writer and reader) are important soft skills that engineers often neglect. So how can you improve?
+
+### Do Google's Tech Writing course
+Google have developed technical writing courses
+
+1. Technical Writing One: Technical Writing Fundamentals for Engineers [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
+1. Technical Writing Two: Intermediate Technical Writing for Engineers [developers.google.com/tech-writing/two](https://developers.google.com/tech-writing/two)
+
+These courses run as part of the second year course COMP2CARS at the University of Manchester, see [the course schedule for details](#scheduling)
+
+Google occasionally delivers the technical writing courses as free sessionss open to the general public. For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
+
+
+<!--### Deliberate writing-->
+
+
+<!--### Deliberate reading-->
+
+### Dogfooding {#dogfooding}
+Some companies test their products by trialling them on their own employees, this is sometimes known as [eating your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
+
+You can use a similar approach to testing your own writing, this is sometimes known simply as **Dogfooding**. Lets say you've just written a covering letter, or filled in an application form or submitted some kind of bug report. It's natural to read it over to check for errors before you send it. However, reading it aloud will pick up errors you may not have spotted by reading alone. There's something about speaking words that flushes out errors you don't pick up when you read them.
+
+You might want to choose carefully where you do this as it might look a bit strange, but it works well.
+
+### Read the friendly manual {#rtfm}
+
+You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good communicating with people by just *writing* stuff, for example in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
+
+```{r rtfm-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionalrtfm)"}
+knitr::include_graphics("images/RTFM.jpg")
+```
+
+(ref:captionalrtfm) As well as learning from other people's hard won experience, reading the friendly manual ([RTFM](https://en.wikipedia.org/wiki/RTFM)) will also improve you written communication skills. Just like you improve your coding skills by writing and reading code, improve your written communication skills by reading and writing in natural langauges like English. RTFM poster by Jeremy Keith, modified by [Atlaslowa](https://commons.wikimedia.org/wiki/User:Atlasowa)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/2.0/deed.en) on Wikimedia Commons [w.wiki/vBX](https://w.wiki/vBX)
+
+
+<!--
+```{r itcrowd-fig,echo=FALSE, fig.cap = "test caption"}
+library("vembedr")
+embed_url("https://www.youtube.com/watch?v=pGFGD5pj03M")
+```
+-->
+
+<!--
+In the best teams, members listen to one another and show sensitivity to feelings and needs. [@googleteams]-->
+
+<!--Professionalism can be defined several ways but [Robert C. Martins](https://en.wikipedia.org/wiki/Robert_C._Martin)'s definition is a good starting point. In *The Clean Coder* [@cleancoder], he defines a professional as someone who is accountable and responsible, not just taking responsibility for what they build but being responsible for their own career. Being a professional relies on both soft and hard skills.-->
+
+<<!--Employers often talk about skills gaps, skills crises [@oilandgaskills; @mindthegap] and labour shortages of various kinds. [@digitalskillscrisis; @softskillscrisis; @shadboltreview] They frequently point out that various combinations of skills can be problematic to find and develop in their employees, [@brucetulgan] and even that they fight a “war for talent” [@warfortalent]. As a science and engineering student you get lots of opportunities to develop hard skills. However, while hard technical skills are important for your future, your soft skills are just as likely to get you hired, promoted or even fired. [@nicegirls; @rocketscience; @jonathanblack; @paulredmond; @helpihaveamanager] Soft skills are hard to learn but well worth spending your time and effort to develop.-->
+
+
+<!-- employability skills via CBI and  jonathan black and
+Self-management – readiness to accept responsibility, flexibility, resilience, self-starting, appropriate assertiveness, time management, readiness to improve own performance based on feedback/
+reflective learning. -->
+
+<!-- Teamworking – respecting others, co-operating, negotiating/persuading, contributing to discussions, and awareness of
+interdependence with others. -->
+
+<!--Business and customer awareness – basic understanding of the key drivers for business success – including the importance of
+innovation and taking calculated risks – and the need to provide customer satisfaction and build customer loyalty.
+
+<!--Problem solving – analysing facts and situations and applying creative thinking to develop appropriate solutions. Communication and literacy – application of literacy, ability to produce clear, structured written work and oral literacy – including listening and questioning.-->
+
+<!--Application of numeracy – manipulation of numbers, general mathematical awareness and its application in practical contexts
+(e.g. measuring, weighing, estimating and applying formulae).-->
+
+<!--Application of information technology – basic IT skills, including familiarity with word processing, spreadsheets, file management and use of internet search engines.-->
+
+<!-- Underpinning all these attributes, the key foundation, must be a positive attitude: a ‘can-do’ approach, a readiness to take part and contribute, openness to new ideas and a drive to make these happen.-->
+
+<!--Frequently mentioned by both employers and universities is entrepreneurship/enterprise broadly, an ability to demonstrate
+an innovative approach, creativity, collaboration and risk taking. An individual with these attributes can make a huge difference
+to any business-->
+
+<!--Soft skills entrepreneurial and enterprising skills are covered in chapter xxx. Specific soft skills that will help you keep you job and get promoted are covered in chapter yyy.  -->
+
+
+<!--## Team work
+
+See video https://www.youtube.com/watch?v=pGFGD5pj03M [@theitcrowd]
+
+
+
+
+
+
+
+## Social skills
+
+Social skills are those that help you work with other people in your team, small or large. You might also see them referred to as people skills, inter-personal skills, behavioural skills [@humantouch], non-cognitive skills [@winningpersonality; @jobsofthefuture; @futureofjobs], influence [@dalecarngie], emotional intelligence [@emotionaliq] or employability skills. [@employabilityskills]
+
+
+* How can you improve your ability to work in a team? [@diverseteams]-->
+
+
+
+
+
+## TL;DR summary {#tldr4}
+
+[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+You'll need both soft and hard skills to compete in the workplace. Don't underestimate the importance of softer skills, we've looked briefly at written communication skills in this chapter but that's only the tip of the soft skills iceberg.
+
+Teamwork, negotiation and leadership are other soft skills that are important. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills. 

@@ -1,0 +1,180 @@
+# Are you experienced? {#experiencing}
+
+So, tell me, are you experienced? How can you get some more experience? Why is experience valuable and what kind of experience are employers looking for anyway? 🤔
+
+```{r 404-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:caption404)"}
+knitr::include_graphics("images/404.png")
+```
+
+(ref:caption404) Do you respond with a sheepish *experience not found* error message when people ask about your experience? Is your experience like the [classic HTTP 404](https://en.wikipedia.org/wiki/HTTP_404) page not found? The client sent you a valid request for your experience, but your server couldn't find it. Awkward. Embarrassing silence? Don't worry, there are some simple and easy ways build your experience so that instead of negative 404's, you can respond with a cheerfully positive **200 (OK)**, see the [list of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). We'll look at some of them in this chapter. Experience not found sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## What you will learn {#ilo5}
+
+By the end of this chapter you will be able to
+
+* Describe why having experience can improve your prospects
+* Identify what counts as experience and why it's valuable
+* Recognise opportunities to get more experience before you gradaute
+
+<!-- for quizzes see the learnr package
+https://rstudio.github.io/learnr/
+quiz
+ -->
+
+<!--
+## internships and placements: Pros  
+
+1. Extended interview
+1. Eliminate
+
+## Debug your experience
+
+## internships and placements: Cons  
+
+1. Difficult to get back into study
+1. Takes longer to get your degree-->
+
+
+```{r relevance-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrelevantexp)"}
+knitr::include_graphics("images/What's relevant.png")
+```
+
+(ref:captionrelevantexp) You might be surprised by which of your experiences are relevant, and what kinds of experience are relevant on your CV. What's relevant sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Getting more {#gettingmore}
+  
+When people talk about experience they often think about paid summer internships or year long placements. These are both valuable, but there are other ways to get experience which might not be immediately obvious, they include:
+
+* Competitions: participating in competitions and hackathons will make your CV stand out
+* Extracurricular activities
+* Freelance work: being self-employed
+* Insight programmes and spring weeks: work shadowing
+* Part-time jobs: casual or part-time work
+* Volunteering: Doing voluntary work is a good way to pick up new skills
+* Being involved in societies: e.g. taking responsibility for things in a student society
+
+## Big names {#bignames}
+
+It's easier than you might think to get a big name on your CV shown in figure \@ref(fig:bigname-fig). Many large employers run spring insight programmes, that typically run for one or two weeks during Easter. These are often aimed at first years, and are sometimes less competitive to get into than a longer term commitment such as a summer internship or year-long placement. A big name, can really help your CV stand out, see
+
+```{r bigname-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbigname)"}
+knitr::include_graphics("images/Big Name.png")
+```
+(ref:captionbigname) It's easier than you  might think to get a big name on your CV, sometimes these can help your application stand out from the competition. Big name sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Other ways to get a big name on your CV include joining a big name competition:
+
+*  Google has #HashCode [codingcompetitions.withgoogle.com/hashcode/](https://codingcompetitions.withgoogle.com/hashcode/) and Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/)
+* Facebook has [facebook.com/hackathon](https://en-gb.facebook.com/hackathon)
+* Microsoft hosts the Imagine Cup [imaginecup.microsoft.com](https://imaginecup.microsoft.com/)
+* there are many others like it listed at [devpost.com](https://devpost.com)
+
+<!--
+
+
+## Excuses, excuses   {#excuses}
+
+When I tell students this, I'm often given an excuses some of which are given below.
+
+
+### I missed the deadline  {#deadlines}
+
+Stuff
+
+### I'm busy waiting  {#busywaiting}
+
+
+```{r justme-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:justme)"}
+knitr::include_graphics("images/is-it-just-me.png")
+```
+(ref:justme) The biggest waste of time is the time spent being busy waiting, and not making a start. Starting a career by getting some experience can be a daunting project, but don't allow yourself to be held captive by irrational worries about the job market. Once you start a daunting project, you will begin to see it for what it is. The ideas will come and and you won't need to fear it anymore, you may even start to enjoy the process of figuring out what your career options you are most interested in. [New Project? Every time...](https://bryanmmathers.com/new-project-every-time/) sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
+### I don't know what I want to do  {#noclue}  
+
+I don't know what I want to do
+
+### I don't have any experience  
+
+Stuff
+
+
+### I do not have the grades  
+
+Whatever you are studying, its easy to fall into a trap of thinking that your grades aren't good enough. While there are some employers who really care about your grades, there are plenty who don't. These employers are more interested in what you're like as a person, so any projects, experience or other activities you've done that demonstrate will help you stand out against rival candidates with better grades.
+
+
+
+
+### I am too busy  
+
+Stuff
+
+
+### I keep getting rejected  
+
+Stuff
+
+
+### I am overwhelmed by the choices  
+
+Stuff
+
+
+### It is too competitive  
+
+Stuff
+
+
+### All my friends have found jobs already  
+
+```{r grades-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionnotverygood)"}
+knitr::include_graphics("images/not-very-good-at-this.png")
+```
+
+(ref:captionnotverygood) Do you have the grades? Not all employers care about your academic grades because they're only a small part of what you have to offer as an employee. [Academic failures – got any previous?](https://bryanmmathers.com/academic-failures/) by [Visual Thinkery](https://visualthinkery.com) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+What have you done
+
+
+### I didn't get my dream job  
+
+didn't get graduate scheme (look at graduate jobs), missed my dream job at CERN, Google, Facebook etc.
+
+```{r done-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwhathaveudone)"}
+knitr::include_graphics("images/What have you done.png")
+```
+
+(ref:captionwhathaveudone) Are you experienced? What have you done? sketch by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+-->
+<!--
+
+are you experienced panellists
+
+
+What was good about your placement?
+What could be better about your placement ?
+What advice would you give to second years looking for placements?
+What was your job search strategy?
+How do you cope with rejection?
+How did you balance job hunting with second year coursework and exams?
+What the the pros/cons of big vs small employers for placements
+
+
+--?
+
+
+
+alexandra26stefanescu26@gmail.com
+simeon.tsvetankov@student.manchester.ac.uk
+
+
+-->
+
+## TL;DR summary {#tldr5}
+
+
+[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+As you can probably tell from its length, this chapter is under construction!

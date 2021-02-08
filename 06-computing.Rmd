@@ -1,0 +1,148 @@
+# Computing Your Future {#computing}
+
+It's difficult to think of any aspect of our lives that hasn't been changed by the invention of the digital computer, just 70 short years ago. Consequently, computing is a crucial skill in a wide range of careers across every sector of business and society. You don't have to have studied Computer Science at University to take advantage of all the exciting opportunities provided by computing. This chapter looks at some of those opportunities for those with, and without, degrees in Computer Science. 👩‍💻👨‍💻
+
+```{r not-coding-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnotcoding)"}
+knitr::include_graphics("images/not just about coding.png")
+```
+(ref:captionnotcoding) Computing is much more than coding, this chapter looks at motivations how computing to compute your future. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## What you will learn {#ilo6}
+Reading this chapter and doing the activities will help you to:
+
+* Describe why computing is a stimulating and challenging subject to study in its own right
+* Identify roles where studying computer science is relevant, beyond software engineering
+* Describe why NOT studying computer science doesn't necessarily “lock you out” of doing taking on some of these roles
+
+## Computing: your future? {#copps}
+
+What role will computing play in your future career? A Professor of Computer Science at Princeton University, [Robert Sedgwick](https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)), has, like many others, argued that Computer Science should be required of all students:
+
+> Every college student needs a computer science course, and most need two or more. More and more educators are
+> beginning to recognize this truth, but we are a long way from meeting the need. --Robert Sedgwick [@robertsedgwick]
+
+<!--
+The gist of his argument is that Computer Science is too important to be left to Computer Scientists, because it influences every field of human endeavour.
+
+
+see alsoTen Reasons to Study Computer Science  https://www.nccedu.com/ten-reasons-study-computer-science/
+
+and what is computer science https://www.cs.york.ac.uk/undergraduate/what-is-cs/
+
+## Too important for Computer Scientists
+-->
+## Developers in demand
+
+Demand of software developers is high, on a par with teaching and nursing in terms of numbers. For example, in the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
+
+```{r nurses-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionball)"}
+library(ggplot2)
+nursesdata <- tribble(
+  ~profession,        ~graduates,
+  "A nurses",           9800,
+  "B marketing",        4575,
+  "C nursery & primary teachers",       4295,
+  "D software developers", 4160
+)
+
+ggplot(data = nursesdata) +
+  geom_bar(mapping = aes(x = profession, y = graduates), stat="identity")
+```
+
+(ref:captionball) The most common jobs for graduates in the UK in 2017-18, demand for software developers is high according to data taken from [@wonkyball]
+
+
+<!--
+“You can basically almost work anywhere. You
+can work for these corporate business, Microsoft,
+Google. You can work for the government, CIA,
+FBI. You can work as a computer analysis; you
+can work for the police department . . . You can
+build programs for them. You could work in their
+database and organize their files. You can analyze various things
+
+[@Hewner2013]
+
+-->
+
+<!-- reading list
+
+
+computer science starters: Code: The Hidden Language of Computer Hardware and Software https://www.amazon.co.uk/dp/0735611319
+
+
+<!-- see CS50
+
+CS50 2020 - Lecture 0 - Computational Thinking, Scratch
+https://www.youtube.com/watch?v=Tpl7k8IOT6E
+
+see
+https://cs50.harvard.edu/x/2020/
+
+CS50 2019 - Lecture 0 - Computational Thinking, Scratch
+https://www.youtube.com/watch?v=jjqgP9dpD1k
+
+-->
+
+<!--
+* Not about computers than astronomy about telescopes dijstra
+* Computing is a humanity
+* Computational social science  @Connolly2020
+* Computing is an art
+* Computing contributions to science, Some convincing and unconvincing examples at @Perkel2021
+* Computing is a biomedical science
+* Computing in chemistry
+* Computing is a physical science  
+* simon peyton jones https://www.youtube.com/watch?v=X-AIbtus9gs=-->
+
+
+
+<!--
+some good rationales bulleted below via
+https://academicworks.cuny.edu/gc_pubs/562/
+
+* Computing provides people with the ability to express themselves creatively and have voice
+*  The process of tinkering and making can lead to wonder, discovery and enjoyment
+* Creating new technologies like apps, websites or robots is fun!
+* Computing provides youth with the ability to explore their identities.
+* Computing provides many career opportunities to choose from.
+* Practices from CS might enhance student learning of traditional academic disciplines.
+* You mobilize computing tools and data to better participate in political and civic life, giving you a sense of empowerment
+* Programming can be a tool for creative self expression.
+*  to better yourself https://computinged.wordpress.com/2020/06/17/why-do-students-study-computing-especially-programming/
+* Software is eating the job market
+*  Software is eating science
+*  makes the world a better place [@GroeBlting2019]
+* got us to the moon [@4thastronaut]-->
+
+
+## TL;DR summary {#tldr6}
+
+[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+This chapter is under construction. 
+
+<!--
+
+## Google Summer of Code
+
+see
+https://developers.google.com/open-source/gsoc/help/student-advice
+
+and also
+
+look
+advice via  Bujanca:
+
+1. Read the entire GSoC site including materials
+1. What computer science subject area or specific issue or problem interests you? What are your skills? What languages do you know? What tools are you familiar with?
+1. Look through the list of organisations. There's a lot of them, it might be slightly overwhelming, but you'll need to narrow it down. Pick at most 5 of them. You won't have time to look at all of them in depth so follow your interests and gut feeling.
+1. Visit the org's site and repos. Look at the code, look at feature requests, issues and bug reports
+
+* Look at the past projects of those 5. It'll become clear that some of them are generally very competitive and usually take final year or masters students for their projects. Narrow it down to 3 organisations.
+
+1. Start engaging with mentors and other students or the community around those 3 organisations. Again, it'll become clear which projects within each organisation are the most popular. Ask for advice. Read project descriptions and draft lists of questions.
+1. By the time the student application period begins, you should know which organisation you are going for, even if you're not sure about the project yet.
+1. As soon as you picked a project, start working on your proposal, and start asking for feedback early on. You don't have to have a finished proposal to ask for feedback, mentors are more often than not willing to guide you.
+1. Your proposal has to highlight two things well: how your background and experience are relevant to the project, and your understanding of the project. The understanding of the project part is crucial: successful applicants usually have a draft timeline. Given that there are 12 weeks, you are expected to mention what you expect to be doing each week. Importantly, after each 4 weeks, you'll have a review / milestone. Make sure it's very clear what your milestones will be.
+1. Optional: if you are proposing your own project rather than picking one proposed by the organisation, you'll need to convince the organisation that your idea brings them more value than what they've already proposed. This will require a good understanding of the scope of the organisation and isn't always easy.-->

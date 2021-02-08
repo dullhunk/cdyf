@@ -1,0 +1,164 @@
+# Your job search & networks {#finding}
+
+So you've successfully [debugged your CV](#debugging). How can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? 🔭
+
+```{r yesbut-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionyesbut)"}
+knitr::include_graphics("images/Yes but how do I.png")
+```
+(ref:captionyesbut) Coding your future is all very well, but how do you actually get a job? This chapter looks at job searching and networking. Yes but... sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## What you will learn {#ilo8}
+Af the end of this chapter you will be able to:
+
+* Formulate job search strategies, by role, by sector and location
+* Describe the timing of recruitment cycles used by employers
+* Identify opportunities for finding work, online and face-to-face
+* Identify people in your existing networks who can help you
+* Identify networking opportunities and use them to your advantage
+* Apply your strategy to advertised (and unadvertised) opportunities
+
+<!--
+* Compare your values and ethics with those of employer
+* Decide, plan and compete <!--kent-->
+
+<!--* Describe what it means to be **employable**-->
+
+## Where can you for look for jobs? {#looking}
+
+The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money recruiting staff and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. I've broken resources down here into three categories:
+
+### Student and graduate specific resources
+
+These resources are specifically aimed at undergraduate students and graduates:
+
+* [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)
+*  [ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/) is a leading UK job resource for undergraduates seeking placements and internships.
+* [targetjobs.co.uk](http://www.targetjobs.co.uk/) graduate jobs, schemes and internships from the people behind [The Guardian 300 top graduate employers]
+* [milkround.com](http://www.milkround.com/), placements and graduate positions from the people behind [The Times Top 100 Graduate employers](https://digital.top100graduateemployers.com/view/153459/)
+*  [graduateland.com](https://graduateland.com/), placements and graduate positions around Europe
+*  [prospects.ac.uk](https://www.prospects.ac.uk/), a jobs board accompanied by job searching advice
+* [InsideCareers.co.uk](https://www.insidecareers.co.uk) is good if you're looking for jobs in the  financial sector
+* [varsitycareershub.co.uk](https://www.varsitycareershub.co.uk/), targeting students from [Loxbridge](https://en.wikipedia.org/wiki/Loxbridge) but many of the employers recruit much more widely
+*  [Year in Industry](https://www.etrust.org.uk/yini-vacancies) if you're looking for a year in industry
+* Your University careers service, e.g. if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/). University jobs boards are good places to look for opportunities that are specifically targeted at the University where you are studying
+
+### More general resources
+
+These resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
+
+* Google job search aggregates content from many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the sources listed above. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like **job**, **intern** or **placement** in a vanilla google search will trigger the job search product:
+
+    -[google.com/search?q=software+engineering+intern+manchester](https://www.google.com/search?q=software+engineering+intern+manchester)
+
+    -[google.com/search?q=business+analyst+intern](https://www.google.com/search?q=business+analyst+intern)
+
+    -[google.com/search?q=graduate+hardware+engineer](https://www.google.com/search?q=graduate+hardware+engineer)
+
+    -[google.com/search?q=graduate+software+job+london](https://www.google.com/search?q=graduate+software+job+london)
+
+    -[google.com/search?q=data+scientist+placement](https://www.google.com/search?q=data+scientist+placement)
+
+    -(If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/))
+
+* [LinkedIn](http://www.linkedin.com) advertises job vacancies, is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job) and you can often [apply for jobs directly on LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) (athough [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)). See [university.linkedin.com/linkedin-for-students](https://university.linkedin.com/linkedin-for-students) and [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
+* [glassdoor.co.uk](http://www.glassdoor.co.uk/) is like tripadvisor for jobs. Find out what it's *really* like to work for given employers from current and former employees. A student oriented version can be found at [glassdoor.com/Students](https://www.glassdoor.com/Students), this means you can use it without writing a review of a previous employer (which is what non-student users have to do to access the content)
+*  [HiPEAC jobs](https://www.hipeac.net/jobs) (High Performance and Embedded Architecture and Compilation) is good for jobs in hardware, supercomputing and related fields
+*  [Indeed.co.uk](http://www.indeed.co.uk), [adzuna.co.uk](https://www.adzuna.co.uk), [cwjobs.co.uk](https://www.cwjobs.co.uk/), [fish4.co.uk](https://www.fish4.co.uk), [reed.co.uk](https://www.reed.co.uk/), [totaljobs.com](https://www.totaljobs.com), [monster.co.uk](https://www.monster.co.uk), [jobs.smartrecruiters.com](https://jobs.smartrecruiters.com), [workinstartups.com](https://workinstartups.com) [cv-library.co.uk](https://www.cv-library.co.uk), [jobs.ac.uk](https://www.jobs.ac.uk) are general jobs boards that also advertise jobs for students and graduates, alongside many other vacancies.
+*  [stackoverflow.com/jobs](http://stackoverflow.com/jobs) jobs via StackOverflow. You've cut and pasted the code... they advertise technical vacancies too
+* [Otta.com](https://otta.com/) for people with 0-10 years experience. From engineering to sales, discover jobs & internships at London\'s most innovative companies.
+
+<!--Get a recruitment agency to help you, see [careers.manchester.ac.uk/findjobs/graduatejobs/agencies]. Beware that some employers don't use agencies and they may have a bad reputation: Google "Recruiters are ..." and see what the auto-complete suggests..-->
+
+
+
+<!-- timing
+
+When to Apply: the Recruitment Calendar
+https://www.graduate-jobs.com/gco/Booklet/graduate-recruitment-calendar.jsp
+
+-->
+
+<!--### More general resources-->
+
+## Job search strategies
+
+Its a good idea to have a range of different strategies for job hunting, and change the strategy during the year. So for example, at the beginning of the academic year you might target large multinational organisations. If you're not successful, switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers advertise.
+
+```{r shortcuts, echo = FALSE}
+job_table <- tibble::tribble(
+  ~ ""       , ~ "Large corporations", ~ "Small to medium sized enterprises",
+  "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
+  "When"     , "Vacancies earlier in the academic year", "Vacancies tend to be later in the academic year",
+  "Type"     , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
+  "How"      , "Multistage applications, several rounds of interviews", "Shorter application processes"
+)
+knitr::kable(job_table, caption = "Where, when and how to apply for internships, placements, graduate jobs and schemes.", booktabs = TRUE)
+```
+
+
+## Discussion points
+
+* How many jobs should you apply for?  
+* Why is it important to build you network?
+* How should you deal with recruiters?
+* How long does it take to apply for a job?
+* How can voluntary work help your career?
+
+
+## The power of weak ties {#weakties}
+
+Your close network probably won't change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist [Mark Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) calls  “weak ties”. [@granovetter]
+
+```{r bumped-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbumped)"}
+knitr::include_graphics("images/Bumped into.png")
+```
+(ref:captionbumped) It's not what you know, its who you know. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you're after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+ Weak ties are people you don't know as well, but are important for a range of reasons. Research has shown that [building networks of weak ties is good for your mental health and can give you an edge in job hunting](https://www.bbc.com/worklife/article/20200701-why-your-weak-tie-friendships-may-mean-more-than-you-think). [@weakties] Granovetter showed that many job opportunities came through weak ties, rather than strong ones. This is true not just of jobs early on in your career (like now) but also later too. So it is in your interests to foster weak connections and be open to serendipitous meetings where you bump into people, as in Figure \@ref(fig:bumped-fig). “Bumping into” here, could mean either physical or virtual.
+
+```{r net-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionnetworks)"}
+knitr::include_graphics("images/grow your networks.png")
+```
+
+(ref:captionnetworks) Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+<!-- network includes
+* Fellow students
+* Employers on campus
+* Alumni
+* Recruiters-->
+
+<!--
+
+```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbadrep)"}
+knitr::include_graphics("images/beware of the recruiter.png")
+```
+(ref:captionbadrep) The auto-complete suggestions on Google tells you to beware of recruiters. How can they help you? Is it really true that recruiters are “shady”, “incompetent trash” who are “not your friends”? Why do recruiters have such a bad reputation? Screenshot from Google.-->
+
+<!--### Academics
+
+Academics have careers too, and some will have extensive networks of contacts in industry and academia that might be useful to you. If you ask nicely, they might introduce you to people they know who can help, such as former students or collaborators.
+
+```{r teachers-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionpurveyors)"}
+knitr::include_graphics("images/teachers-purveyors-of-confidence.png")
+```
+
+(ref:captionpurveyors) Your teachers may have contacts that might be useful to you. [Teachers](https://bryanmmathers.com/teachers/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Speculative applications
+
+<!--
+https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/speculative-cover-letter-->
+
+<!--Search by
+
+* sector ### Gaming grads in games-->
+<!--
+https://www.youtube.com/watch?v=PpvdbADLJAY-->
+
+
+## TL;DR summary {#tldr8}
+
+[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+This chapter is under construction.
