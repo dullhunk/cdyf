@@ -72,24 +72,21 @@ The art of communication is a huge subject which extends far beyond the scope of
 1. **Writing good english is like writing good code**. Some of the skills you already have in coding can be transferred to written communication. Just like a good function or method in code should be well-defined with a clear purpose, your writing should also be clear and coherent. Well structured writing is a lot like well architected software too, with a clear [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 1. **It is relatively easy to improve** your written communication skills, simply by reading and writing more. Reading and writing deliberately every day, will significantly improve these skills.
 
-### Natural language engineering
+### Natural language engineering {#nle}
 If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering code, they also spend a significant amount of time engineering messages in natural languages like english. Consider the following:
 
 * email
-* instant messaging, Slack, Microsoft Teams, Discord, Zoom, Blackboard etc
-* bug reports
-* messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla and Trello
+* instant messaging, Slack, Microsoft Teams, Discord, Zoom etc
+* bug reports and messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla and Trello
 * 'How to' and cookbook style articles and books
 * API reference material
 * The one page summary for management
-* User documentation
+* User documentation, Release notes
 * Case studies of software use
 * Frequently Asked Questions (FAQ)
-* Release notes
 * Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
 * YourPersonalDomain.com (if you have one)
-* Marketing material
-* Asking and answering questions on forums like [stackoverflow.com](https://stackoverflow.com/)
+* Questions and answers on forums like [stackoverflow.com](https://stackoverflow.com/)
 * Commit messages in version control systems like git and mercurial
 * Architecture documentation
 * Design specifications  
@@ -114,21 +111,22 @@ These courses run as part of the second year course COMP2CARS at the University 
 Google occasionally delivers the technical writing courses as free sessionss open to the general public. For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
 
 
-<!--### Deliberate writing-->
+### Deliberate writing
+Another technique for improving your written communication is to write something every day, that might be a personal diary that only you read, or it could be something more public like blog.
 
-
-<!--### Deliberate reading-->
+### Deliberate reading
+Reading other people's code will improve your software engineering skills. Likewise, reading other peoples writing will improve your natural language engineering skills. There's a tonne of stuff we've cited
 
 ### Dogfooding {#dogfooding}
 Some companies test their products by trialling them on their own employees, this is sometimes known as [eating your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
 
-You can use a similar approach to testing your own writing, this is sometimes known simply as **Dogfooding**. Lets say you've just written a covering letter, or filled in an application form or submitted some kind of bug report. It's natural to read it over to check for errors before you send it. However, reading it aloud will pick up errors you may not have spotted by reading alone. There's something about speaking words that flushes out errors you don't pick up when you read them.
+You can use a similar approach to testing your own writing, known simply as **Dogfooding**. Lets say you've just written a covering letter. It's natural to read it over to check for errors before you send it. However, **reading it aloud** will pick up errors you may not have spotted by reading alone. There's something about speaking words that flushes out errors you don't pick up when you read them.
 
 You might want to choose carefully where you do this as it might look a bit strange, but it works well.
 
 ### Read the friendly manual {#rtfm}
 
-You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good communicating with people by just *writing* stuff, for example in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
+You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good communicating with people by just *writing* stuff in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases etc. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
 
 ```{r rtfm-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionalrtfm)"}
 knitr::include_graphics("images/RTFM.jpg")
@@ -199,10 +197,10 @@ Social skills are those that help you work with other people in your team, small
 
 
 
-## TL;DR summary {#tldr4}
+## Summarising  {#tldr4}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
 You'll need both soft and hard skills to compete in the workplace. Don't underestimate the importance of softer skills, we've looked briefly at written communication skills in this chapter but that's only the tip of the soft skills iceberg.
 
-Teamwork, negotiation and leadership are other soft skills that are important. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills. 
+Teamwork, negotiation and leadership are other soft skills that are important. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills.

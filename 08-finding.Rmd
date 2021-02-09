@@ -33,7 +33,7 @@ These resources are specifically aimed at undergraduate students and graduates:
 
 * [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)
 *  [ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/) is a leading UK job resource for undergraduates seeking placements and internships.
-* [targetjobs.co.uk](http://www.targetjobs.co.uk/) graduate jobs, schemes and internships from the people behind [The Guardian 300 top graduate employers]
+* [targetjobs.co.uk](http://www.targetjobs.co.uk/) graduate jobs, schemes and internships from the people behind [The Guardian 300 top graduate employers](https://targetjobs.co.uk/uk300)
 * [milkround.com](http://www.milkround.com/), placements and graduate positions from the people behind [The Times Top 100 Graduate employers](https://digital.top100graduateemployers.com/view/153459/)
 *  [graduateland.com](https://graduateland.com/), placements and graduate positions around Europe
 *  [prospects.ac.uk](https://www.prospects.ac.uk/), a jobs board accompanied by job searching advice
@@ -82,17 +82,17 @@ https://www.graduate-jobs.com/gco/Booklet/graduate-recruitment-calendar.jsp
 
 ## Job search strategies
 
-Its a good idea to have a range of different strategies for job hunting, and change the strategy during the year. So for example, at the beginning of the academic year you might target large multinational organisations. If you're not successful, switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers advertise.
+It is a good idea to have a range of different strategies for job hunting, and change the strategy during the year. So for example, at the beginning of the academic year you might target large multinational organisations. If you're not successful, switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers advertise.
 
 ```{r shortcuts, echo = FALSE}
 job_table <- tibble::tribble(
-  ~ ""       , ~ "Large corporations", ~ "Small to medium sized enterprises",
+  ~ ""       , ~ "Large corporations", ~ "SMEs",
   "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
   "When"     , "Vacancies earlier in the academic year", "Vacancies tend to be later in the academic year",
   "Type"     , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
   "How"      , "Multistage applications, several rounds of interviews", "Shorter application processes"
 )
-knitr::kable(job_table, caption = "Where, when and how to apply for internships, placements, graduate jobs and schemes.", booktabs = TRUE)
+knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, internships, placements, graduate jobs and schemes in large multinational corporations and small to medium sized enterprises (SMEs)", booktabs = TRUE)
 ```
 
 
@@ -157,8 +157,9 @@ https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/s
 https://www.youtube.com/watch?v=PpvdbADLJAY-->
 
 
-## TL;DR summary {#tldr8}
+## Summarising search {#tldr8}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
+We've looking at search techniques that will help you find opportunities you care about.
 This chapter is under construction.

@@ -87,7 +87,7 @@ lotsofgrads <- tribble(
 ggplot(data = lotsofgrads) +
   geom_bar(mapping = aes(x = year, y = percentage), stat = "identity")
 ```
-(ref:captionlotsofgrads) Percentage of young people in the UK going into higher education between 1980 and 2018. Over the last forty years, the proportion of young people going into higher education has doubled. Data taken from BBC news article on [the symbolic target of 50% at university reached](https://www.bbc.co.uk/news/education-49841620) [@lotsofgrads]
+(ref:captionlotsofgrads) Percentage of young people in the UK going into higher education between 1980 and 2018. Over the last forty years, the proportion of young people going into higher education has more than doubled from 15% in 1980 to over 50% in 2018. Data taken from BBC news article on [the symbolic target of 50% at university reached](https://www.bbc.co.uk/news/education-49841620) [@lotsofgrads]
 
 > Computing is one of the largest subject areas in UK higher education, and is taught in almost every institution, graduating around 9,000 students every year --Sally Fincher [@fincherreview]
 
@@ -231,15 +231,15 @@ Although this is a course guidebook used in the second year undergraduate teachi
 ### It's constantly updated {#updates}
 You are reading the alpha version, the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) of this guidebook. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
 
-* More quizzes
-* More videos on the [Coding your Future YouTube channe](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
+* More quizzes for better interactivity
+* More videos on the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
 * Audio podcasts in the [Coding your Future](#listening)
-* More illustrations  throughout the book
-* Improved content
-* Bug fixes
+* More illustrations throughout the book
+* Improved content, finish incomplete chapters
+* Fix bugs and typos
 * Your [suggestions for improvements and corrections, via github etc]({#joinus})
 
-This is a [Release Early, Release Often](https://en.wikipedia.org/wiki/Release_early,_release_often) [@Raymond1999] approach now popularised in agile software development. [@realagile]
+I'm taking a [Release Early, Release Often](https://en.wikipedia.org/wiki/Release_early,_release_often) [@Raymond1999] approach to publishing this guidebook, you could call it agile book development. [@realagile]
 
 ### I'm deliberately writing in first person narrative
 A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. Where relevant, I've told stories to illustrate key points.
@@ -247,7 +247,7 @@ A lot of scientific and technical writing is written in the third person or pass
 ### There is no paywall {#openaccess}
 You don't need to pay anything to read this book online because its openly available, see the [license terms](#licensing) (CC-BY-NC-ND). Publishing this guidebook online makes it findable and accessible, something that isn't true of lots of knowledge locked up inside books.
 
-Because its online, data in this book is easy to search, browse and link to whatever level you like, top level, chapter level and to every section and subsection level.  
+Because this guidebook is online, it is searchable, browsable and linkable. You can link to whatever level you like, top level, chapter level and to every section and subsection level.  
 
 <!--###
 The FAIR principles have been followed in writing this book.[@FAIR] not really interoperable or reusable?
@@ -262,12 +262,12 @@ This book is not just  words and pictures, but includes audio and video as well,
 
 1. videos produced by third parties that are worth watching
 1. audio produced by third parties that are worth listening to, either individual episodes or whole series
-1. short videos produced by me, which augment the written content of this book
+1. short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
 1. the coding your future podcast which interviews undergraduate students and
 
 ## Engage!
 
-I have tried to make this guidebook as engaging as possible. If you look at careers literature, a lot of it can unfortunately be rather dry, dull, textbooky and boring with little or no illustration. They are all part of my attempt to make this content as engaging as possible. If you think I can improve it, [let me know](#joinus). I always welcome constructive feedback, especially when it comes via a pull request.
+I have tried to make this guidebook as engaging as possible. If you look at careers literature, a lot of it can unfortunately be rather dry, dull, textbooky and boring with little or no illustration. I've tried to make the content of this book as engaging as possible. If you think it can be improved, [let me know](#joinus). I always welcome constructive feedback, especially when it comes via a pull request.
 
 <!--As [Jean Luc Picard](https://en.wikipedia.org/wiki/Jean-Luc_Picard) would say, engage! 🚀
 In contrast, *Coding Your Future* has images, cartoons, graphs, tweets, animations, emojis and videos where appropriate. There is audio and there are exercises for you to do by yourself and with others.
@@ -285,7 +285,7 @@ Each chapter in this book has a signposts section, highlighting key activities o
 What's good about *The Clean Coder* is that it is short (only 200 pages), well written and to the point. The main part of the book covers professional issues in software engineering, some of which I discuss in [your survival and promotion](#surviving), so *The Clean Coder* is an essential signpost for chapter 10 as well.
 
 
-## TL;DR summary {#tldr1}
+## Summarising this book {#tldr1}
 
 If all that was [too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR) for you, then you'll be relieved to hear that each chapter (including this one) has a TL;DR summary.
 

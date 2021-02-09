@@ -10,15 +10,17 @@ knitr::include_graphics("images/Features not bugs.png")
 ```
 ## What you will learn {#ilo7}  
 
+By the end of this chapter you will be able to
+
 * Structure and style the content of CV /resume appropriately
 * Describe the context, actions and results (CAR) of your relevant experience, projects and education
-* Identify and fix bugs in CV’s
-    + Constructively criticise others CVs
+* Identify and fix bugs in CV’s by:
+    + Constructively criticise other people's CVs
     + Ask for, listen to, and act on constructive criticism of your own CV
 * Quantify and provide evidence for any claims you make you on your CV
 
 ## Beware of the black hole {#blackhole}  
-Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) shown in figure \@ref(fig:gayle-fig). Gayle is an experienced software engineer who has worked at the biggest technology employers in the world, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll come across in the [chapter on interviewing](http://www.cdyf.me/interviewing.html) Gayle refers to the employer “black hole”:
+Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) shown in figure \@ref(fig:gayle-fig). Gayle is an experienced software engineer who has worked at the biggest technology employers in the world, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll come across in the [chapter on interviewing](interviewing.html). Gayle refers to the employer “black hole”:
 
 ```{r gayle-fig, echo = FALSE, fig.align = "center", out.width = "28%", fig.cap = "(ref:captiongayle)"}
 knitr::include_graphics("images/Gayle_Laakmann_McDowell.jpg")
@@ -378,7 +380,7 @@ A quick check-list of commons bugs
 <!--see appending
 https://community.rstudio.com/t/appending-a-pre-existing-pdf-to-a-new-created-by-r-markdown/45641/6-->
 
-## TL;DR summary {#tldr7}
+## Debugging summary {#tldr7}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 

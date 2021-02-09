@@ -83,9 +83,15 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 (ref:captionlaurie) Laurie Santos describes five coping techniques for improving wellbeing: Exercise, gratitude, sleep, getting social and meditation.
 
-So there are things you can do to help yourself, but you may also need to seek help from others.
+So there are things you can do to help yourself, but you may also need to seek help from others. Sometimes a desire to be productive by working hard has the opposite effect as shown in \@ref(fig:lizandmollie-fig)
 
-## Help is available if you need it
+```{r lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/lizandmollie/status/1231605700960432128")
+```
+
+
+## Help is available if you need it {#notalone}
 If you are affected by mental ill health, particularly anxiety or depression, it can be hard:
 
 * to recognise that you need help in the first place
@@ -94,14 +100,14 @@ If you are affected by mental ill health, particularly anxiety or depression, it
 
 Even if you don't need help, its important to recognise and understand the symptoms of mental ill health. It's quite likely that someone you know will suffer from mental health issues and as their friend or peer, it might be you that can help by encouraging them to get the help they wouldn't otherwise ask for.  
 
-Help is available if you (or your friends) need it from a wide variety of sources:
+**You are not alone**, help is available if you (or your friends) need it from a wide variety of sources:
 
 ### Your University
 There are lots of people who can help you:  
 
 * your personal tutor or other academic members of staff
-* non-academic staff in the University  
-* counselling services, for example the University of Manchester's counselling service is available online at [counsellingservice.manchester.ac.uk](https://www.counsellingservice.manchester.ac.uk/). The counselling service offers help on dealing with anxiety, depression, exam stress, confidence and other issues.
+* non-academic staff in the University, for example in Manchester contact the Student Support Office (SSO) [studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk/)
+* counselling services, for example contact [counsellingservice.manchester.ac.uk](https://www.counsellingservice.manchester.ac.uk/). The counselling service offers help on dealing with anxiety, depression, exam stress, confidence and other issues.
 * peers, flat-mates, family, friends etc. People close to you can help, although some people affected by mental health find it easier to discuss mental health with a trained professional or volunteer because of the social stigmas. There are lots of services outlined below that provide this kind of service.
 
 <!--### Anxiety UK https://www.anxietyuk.org.uk/ -->
@@ -112,7 +118,7 @@ As a student studying in the UK you are entitled to access free healthcare provi
 Your doctor can advise you on medical treatment if required.
 
 ### Nightline
-Nightline [nightline.ac.uk](https://www.nightline.ac.uk) is a confidential listening and information service run by students for students. Nightline is open 8pm till 8am every night during term time. It offers anonymous, non-judgmental and non-advisory support for students as described in Figure \@ref(fig:nightline-fig).
+Nightline [nightline.ac.uk](https://www.nightline.ac.uk) is a confidential listening and information service run by students for students. Nightline is open 8pm till 8am every night during term time. It offers anonymous, non-judgmental and non-advisory support for students as described in figure \@ref(fig:nightline-fig).
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RsfNkSZmUc8" frameborder="0" allowfullscreen></iframe>
@@ -203,7 +209,7 @@ Kwan Wai (Chinese Mental Health Service): one to one counselling in Mandarin and
 
 
 
-## Togetherall
+### Togetherall
 
 
 Togetherall is an online community for people who are stressed, anxious or feeling low. The service has an active forum with round-the-clock support from trained professionals. You can talk anonymously to other members and take part in group or 1-to-1 therapy with therapists. Togetherall is for anyone aged 16 or over who wants to improve their mental health. The service is free for many universities. Find out more at [togetherall.com](https://togetherall.com/) and in the video in figure \@ref(fig:togetherall-fig) which describes why its important to talk about student mental health.
@@ -231,7 +237,7 @@ say something about SMART goals
 
 Learning at University can be hard because you might have gone from being at (or near) the top of the class in high school to no longer being top of the class at University.
 
-Likewise the [job hunting we describe in the chapter on searching](#searching) can take a heavy toll on your mental health because repeated rejection is an ordinary part of the process. It can be time consuming, stressful and demoralising. You may find your applications disappear into a black hole, ghosted (ignored) by employers or just plain rejected by interviewers who refuse to give meaningful feedback. This could happen multiple times. This is all *par for the course*, normal and expected, and is not necessarily a reflection on your abilities or potential.
+Likewise the [job hunting we describe in the chapter on searching](#searching) can take a heavy toll on your mental health because repeated rejection is an ordinary part of the process. It can be time consuming, stressful and demoralising. You may find your applications disappear into a black hole. They will be ghosted (ignored) by employers. Interviewers will blank you and refuse to give you meaningful feedback because they're too busy. This could happen multiple times. This is all *par for the course*, normal and expected, and is not necessarily a reflection on your abilities or potential.
 
 Adopting a growth mindset can be a successful strategy for maintaining your wellbeing. If your grades aren't has good as you hoped or your search for employment is being met with repeated rejection, a growth mindset can help. Lets take rejection from potential employers as an example, there are two ways you can react to it:
 
@@ -266,7 +272,7 @@ Finally, it's well worth taking a look at [Laurie Santos](https://en.wikipedia.o
 
 <!-- santos video at https://www.youtube.com/watch?v=HStWtmSCAS8 -->
 
-## TL;DR summary {#tldr3}
+## Summarising well-being {#tldr3}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
