@@ -61,7 +61,7 @@ There are a lots of resources to help you prepare for and practice coding interv
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qkeQNNjZuQk" frameborder="0" allowfullscreen></iframe>
 '`
-```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = ""}
+```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "caption"}
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 ```
@@ -130,5 +130,7 @@ You may decide to change your mind about an offer you've already accepted. You n
 ## Summarising interviews {#tldr9}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+This chapter is incomplete but...
 
 We've looked at a range of platforms and competitions that can help you prepare for coding interviews. These won't just make you better at coding interviews, they'll make you a better engineer too.
