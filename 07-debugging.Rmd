@@ -202,7 +202,7 @@ Having looked at the sections you're likely to have, we'll take a birds eye view
 
 Making your CV look good can take ages, but a well presented CV will stand out. While its worth making an effort to style carefully and consisistenly, you need to be be wary of the huge time sink of [typography](https://en.wikipedia.org/wiki/Typography).
 
-Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean.
+Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`
 
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
@@ -373,7 +373,8 @@ A quick check-list of commons bugs
 1. Is it targeted to an employer or job description?
 1. Is it balanced, with all non-technical
 1. Does it have a good, clear structure? Typically education, experience, projects etc
-1. Have you distinguished between paid and unpaid or voluntary work?
+1. Right level of description e.g. first year team project doesn't mean much
+#1. Have you distinguished between paid and unpaid or voluntary work?
 
 ## Covering letters
 
