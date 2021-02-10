@@ -17,20 +17,13 @@ If you've got an interview, you can feel good about having a bug-free CV shown i
 So you want to ensure employers are a good match and not going to waste your time.
 
 
-
-
-```{r iamdevloper-fig,echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/Mubeeen_/status/1288115932154363905")
-```
-
-
 ## What you will learn {#ilo9}
 
 * Identify kinds of interviews you might be invited to
 * Prepare for common interview questions, technical and non-technical
 
 ## Interviews
+<!-- Add BOB YOU"RE ON MUTE!!! -->
 
 Broadly speaking there are two basic kinds of interviews
 
@@ -48,6 +41,7 @@ The rest of this chapter will focus on technical interviews, aka coding intervie
 
 ## Coding interviews
 
+
 <!-- I Cheated on My Microsoft Interview you can cheat [@cheating]
 
 
@@ -62,8 +56,19 @@ The rest of this chapter will focus on technical interviews, aka coding intervie
 Solving different coding challenges can help you become a better problem solver, master a given programming language, prepare for job interviews and learn new algorithms. It will help you become a better engineer and can provide good evidence for the experience section of your CV.-->
 
 
-There are a lots of resources to help you prepare for and practice coding interview questions, the best place to start is *Cracking the Coding Interview* by Gayle Laakmaan McDowell. [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews.
+There are a lots of resources to help you prepare for and practice coding interview questions, the best place to start is *Cracking the Coding Interview* by Gayle Laakmaan McDowell. [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, recently graduated computer science student Petia Davidova explains some of the highs and lows of technical interviews in figure \@ref(fig:petia-fig).
 
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkeQNNjZuQk" frameborder="0" allowfullscreen></iframe>
+'`
+```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = ""}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```
+
+(ref:captionpetia) My worst software engineering interview fails, failing my Facebook and Google Interviews by Petia Davidova. Petia demonstrates her [growth mindset](#growthmindset) and productive failure, she failed her interviews, but learned lots from the process and went on to work at Bloomberg.
+
+Coding interviews can be tough, but preparing for them, and doing them will make you a better engineer. So if you spectacularly wipeout in your coding interview, reflect and think how can I improve next time?
 
 ### Project Euler {#euler}
 Project Euler provides a wide range of challenges in computer science and mathematics. The challenges typically involve solving a mathematical formula or equation, see [projecteuler.net](https://projecteuler.net/)
@@ -126,4 +131,4 @@ You may decide to change your mind about an offer you've already accepted. You n
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
-We've looked at a range of platforms and competitions that can help you prepare for coding interviews.
+We've looked at a range of platforms and competitions that can help you prepare for coding interviews. These won't just make you better at coding interviews, they'll make you a better engineer too.

@@ -1,6 +1,6 @@
 # Your soft skills are hard {#communicating}
 
-Let's get straight to the point of this chapter: your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work as a team. There are very few jobs where you work on your own, and most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse members. This means that sooner or later you're going to have to master the art of working with other people. 😱
+Let's get straight to the point of this chapter: your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team. There are very few jobs where you work on your own, and most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse members. This means that sooner or later you're going to have to master the dark arts of working with other people. 😱
 
 ```{r otherpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionotherpeople)"}
 knitr::include_graphics("images/What - other people.png")
@@ -30,9 +30,9 @@ Studying computer science gives you an awesome superpower. We will look at some 
 ```{r achilles-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionachilles)"}
 knitr::include_graphics("images/Achilles-Heel-to-Superpower.png")
 ```
-(ref:captionachilles) Computing is a superpower that warriors like [Achilles](https://en.wikipedia.org/wiki/Achilles) would probably have envied. As a technical or "hard skill", computing a crucial weapon in your armoury but what are your weaker skills? What is your [Achilles' heel](https://en.wikipedia.org/wiki/Achilles%27_heel)? For some scientists and engineers, their weakness is their soft skills, such as communication and team work. This chapter looks at what you can do to improve them and convince employers that you are rounded individual with a healthy balance of soft and hard skills. [Achilles heel to superpower](https://bryanmmathers.com/achilles-heel-to-superpower/) by [Visual Thinkery](https://visualthinkery.com/s) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionachilles) Computing is a superpower that gods like [Hermes](https://en.wikipedia.org/wiki/Hermes) or heroes like [Achilles](https://en.wikipedia.org/wiki/Achilles) would probably have envied. As a technical or "hard skill", computing a crucial weapon in your armoury but what are your weaker skills? What is your [Achilles' heel](https://en.wikipedia.org/wiki/Achilles%27_heel)? For some scientists and engineers, their weakness is their soft skills, such as communication and team work. This chapter looks at what you can do to improve them and convince employers that you are rounded individual with a healthy balance of soft and hard skills. [Achilles heel to superpower](https://bryanmmathers.com/achilles-heel-to-superpower/) by [Visual Thinkery](https://visualthinkery.com/s) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Your computational superpower is less powerful if it's not complemented by a broad range of softer skills. Typically, these skills are not emphasised (by repeated assessment) in most computer science degrees and they are hard to measure. This not because soft skills aren't important.
+Your computational superpower is less powerful if isn't complemented by a broad range of softer skills. Typically, these skills are not emphasised (by repeated assessment) in most computer science degrees. This not because soft skills aren't important but because they are hard to measure accurately.
 
 For example, if I want to know how good you are at understanding the syntax and semantics of a programming language like Python, there are tried and tested techniques for doing this. However, if I want to know how good you are at using your communication skills to work in a team, negotiate, lead, resolve conflicts, persuade others, show empathy etc that's **much** harder to measure accurately.
 
@@ -75,21 +75,19 @@ The art of communication is a huge subject which extends far beyond the scope of
 ### Natural language engineering {#nle}
 If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering code, they also spend a significant amount of time engineering messages in natural languages like english. Consider the following:
 
-* email
-* instant messaging, Slack, Microsoft Teams, Discord, Zoom etc
+* email and instant messaging, Slack, Microsoft Teams, Discord, Zoom etc
 * bug reports and messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla and Trello
 * 'How to' and cookbook style articles and books
 * API reference material
 * The one page summary for management
-* User documentation, Release notes
+* User documentation, release notes
 * Case studies of software use
 * Frequently Asked Questions (FAQ)
 * Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
 * YourPersonalDomain.com (if you have one)
 * Questions and answers on forums like [stackoverflow.com](https://stackoverflow.com/)
 * Commit messages in version control systems like git and mercurial
-* Architecture documentation
-* Design specifications  
+* Architecture documentation and design specifications  
 
 What do they all have in common? They're all written in natural languages like English, but without them, the software or hardware they describe and discuss would be useless.
 
@@ -100,15 +98,15 @@ What do they all have in common? They're all written in natural languages like E
 ## Improving your written communication
 Hopefully I've convinced you that written communication skills (both as a writer and reader) are important soft skills that engineers often neglect. So how can you improve?
 
-### Do Google's Tech Writing course
-Google have developed technical writing courses
+### Try Google's Tech Writing course
+Google have developed some excellent technical writing courses including:
 
 1. Technical Writing One: Technical Writing Fundamentals for Engineers [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
 1. Technical Writing Two: Intermediate Technical Writing for Engineers [developers.google.com/tech-writing/two](https://developers.google.com/tech-writing/two)
 
 These courses run as part of the second year course COMP2CARS at the University of Manchester, see [the course schedule for details](#scheduling)
 
-Google occasionally delivers the technical writing courses as free sessionss open to the general public. For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
+Google occasionally delivers these technical writing courses as free sessions open to the general public. For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
 
 
 ### Deliberate writing
@@ -118,15 +116,15 @@ Another technique for improving your written communication is to write something
 Reading other people's code will improve your software engineering skills. Likewise, reading other peoples writing will improve your natural language engineering skills. There's a tonne of stuff we've cited
 
 ### Dogfooding {#dogfooding}
-Some companies test their products by trialling them on their own employees, this is sometimes known as [eating your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
+Some companies test their products by trialling them on their own employees, this is sometimes known as [eating your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). Tasty tasty dogfood. 🐶
 
-You can use a similar approach to testing your own writing, known simply as **Dogfooding**. Lets say you've just written a covering letter. It's natural to read it over to check for errors before you send it. However, **reading it aloud** will pick up errors you may not have spotted by reading alone. There's something about speaking words that flushes out errors you don't pick up when you read them.
+You can use a similar approach to testing your own writing, known simply as **Dogfooding**. Let's say you've just written a covering letter. It's natural to read it over to check for errors before you send it. However, **reading it aloud** will pick up errors you may not have spotted by reading alone. There's something about speaking words that flushes out errors you don't pick up when you read them.
 
-You might want to choose carefully where you do this as it might look a bit strange, but it works well.
+You might want to choose carefully where you do this as it might look a bit strange, but it works well. If you talk into a mobile phone, people won't notice you're talking to yourself. But you'll probably need some privacy as the content is likely to be personal.
 
-### Read the friendly manual {#rtfm}
+### Reading the friendly manual {#rtfm}
 
-You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good communicating with people by just *writing* stuff in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases etc. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
+You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good at communicating with people by just *writing* stuff in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases etc. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
 
 ```{r rtfm-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionalrtfm)"}
 knitr::include_graphics("images/RTFM.jpg")
@@ -197,10 +195,10 @@ Social skills are those that help you work with other people in your team, small
 
 
 
-## Summarising  {#tldr4}
+## Summarising your soft skills {#tldr4}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
 You'll need both soft and hard skills to compete in the workplace. Don't underestimate the importance of softer skills, we've looked briefly at written communication skills in this chapter but that's only the tip of the soft skills iceberg.
 
-Teamwork, negotiation and leadership are other soft skills that are important. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills.
+Teamwork, negotiation, conflict resolution, motivation and leadership are other soft skills that are important too. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills?

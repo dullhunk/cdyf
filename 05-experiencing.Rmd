@@ -6,15 +6,15 @@ So, tell me, are you experienced? Why is experience valuable and what kind of ex
 knitr::include_graphics("images/404.png")
 ```
 
-(ref:caption404) Do you respond with a sheepish *experience not found* error message when people ask about your experience? Is your experience like the [classic HTTP 404](https://en.wikipedia.org/wiki/HTTP_404) page not found? The client sent you a valid request for your experience, but your server couldn't find it. Awkward. Embarrassing silence? Don't worry, there are some simple and easy ways build your experience so that instead of negative 404's, you can respond with a cheerfully positive **200 (OK)**, see the [list of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). We'll look at some of them in this chapter. Experience not found sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:caption404) Do you respond with a sheepish *experience not found* error message when people ask about your experience? Is your experience like the [classic HTTP 404](https://en.wikipedia.org/wiki/HTTP_404) page not found? The client sent you a valid request for your experience, but your server couldn't find it. Awkward. Embarrassing silence? 😳 Don't worry, there are some simple and easy ways build your experience so that instead of negative 404's, you can respond with a cheerfully positive 200 (OK), as described in this [list of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). We'll look at some of them in this chapter. Experience not found sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## What you will learn {#ilo5}
 
 By the end of this chapter you will be able to
 
-* Describe why having experience can improve your prospects
+* Describe why having experience can improve your chances of getting interviews
 * Identify what counts as experience and why it's valuable
-* Recognise opportunities to get more experience before you gradaute
+* Recognise opportunities to get more experience before you graduate
 
 <!-- for quizzes see the learnr package
 https://rstudio.github.io/learnr/
@@ -54,7 +54,7 @@ When people talk about experience they often think about paid summer internships
 
 ## Big names {#bignames}
 
-It's easier than you might think to get a big name on your CV shown in figure \@ref(fig:bigname-fig). Many large employers run spring insight programmes, that typically run for one or two weeks during Easter. These are often aimed at first years, and are sometimes less competitive to get into than a longer term commitment such as a summer internship or year-long placement. A big name on your CV can help it stand out.
+It's easier than you might think to get a big name on your CV shown in figure \@ref(fig:bigname-fig). Many large employers run spring insight programmes, that typically run for one or two weeks during Easter. These are often aimed at first years, and are sometimes less competitive to get into than a longer term commitment such as a summer internship or year-long placement. A big name on your CV can help it stand out, as fluff bucket demonstrates on their CV shown in \@ref(fig:bigname-fig)
 
 ```{r bigname-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbigname)"}
 knitr::include_graphics("images/Big Name.png")
@@ -63,10 +63,10 @@ knitr::include_graphics("images/Big Name.png")
 
 Other ways to get a big name on your CV include joining a big name competition:
 
-*  Google has #HashCode [codingcompetitions.withgoogle.com/hashcode/](https://codingcompetitions.withgoogle.com/hashcode/) and Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/)
+* Google has #HashCode [codingcompetitions.withgoogle.com/hashcode/](https://codingcompetitions.withgoogle.com/hashcode/) and Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/)
 * Facebook has [facebook.com/hackathon](https://en-gb.facebook.com/hackathon)
 * Microsoft hosts the Imagine Cup [imaginecup.microsoft.com](https://imaginecup.microsoft.com/)
-* there are many others like it listed at [devpost.com](https://devpost.com)
+* there are many others like it listed at [devpost.com](https://devpost.com) and Major League Hacking [mlh.io](https://mlh.io/)
 
 <!--
 

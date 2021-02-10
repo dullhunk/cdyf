@@ -11,7 +11,7 @@ The first half of this book is about designing your future. So before we get sta
  * there are mountains self-help guides and courses already, YES! ☑️
  * do you really need *yet another* guidebook? YES! ☑️
 
-You should read this guidebook because it is different to all the other guidebooks! It will help you design, test, build and code your future. Come [down the rabbit hole](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) in Figure \@ref(fig:rabbit-fig) with me and let me explain...
+You should read this guidebook because it is different to all the other guidebooks! It will help you design, test, build and code your future. Come with me [down the rabbit hole](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) in Figure \@ref(fig:rabbit-fig) and let me explain... 🐇
 
 <!--```{r, echo = FALSE}
 library(tidyverse)
@@ -46,14 +46,18 @@ When [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) st
 
 > “Nobody cares about your career except you.” ---Anon [@andystanfordclark]
 
-Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK so it was probably good advice. Another, slightly more positive way of putting it is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the code).
+Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the code).
 
-At University, there are lots of people can help build your future: peers, academic staff, friends, your careers service, employers and your wider network but ultimately it is *your* responsibility to sort out whatever comes next. That might sound obvious but don't wait for somebody else to do it for you, because it probably won't happen.
+At University, there are lots of people can help design and build your future: peers, academic staff, friends, your careers service, employers and your wider network but ultimately it is *your* responsibility to sort out whatever comes next. That might sound obvious but don't wait for somebody else to do it for you, because it probably won't happen.
 
-## Your degree is not enough {#notenough}
-At some point during or after your study, you might find yourself applying for a graduate job or graduate scheme. EVERYONE applying for these opportunities will have a degree or be rapidly on their way to getting one. So having a degree isn't going to set you apart much from your competition. Even having a first class degree [@gradeinflation; @firstclass] may not distinguish you that much your competitors. Some employers would rather not know what University you went to, so your education might not make you stand out as much as you might like.
+## Your degree is not enough {#entitled}
+You've worked hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying whatever it is you are studying at University.
 
-What **will** distinguish you from your competitors will be your [experience](#experiencing), your projects and any awards or honours you might have picked up along the way. If you think that your degree will be enough to get you the job you want, bear in mind that:
+Under these circumstances, you might be tempted to believe that the world owes you something in return for your hard work. Unfortunately that's not the case.
+
+At some point during or after your study, you might find yourself applying for a graduate job or graduate scheme. EVERYONE applying for these opportunities will have a degree or be rapidly on their way to getting one. So having a degree isn't going to set you apart much from your competition. Even having a first class degree [@gradeinflation; @firstclass] may not distinguish you that much your competitors. Some employers would rather not know (or don't care) what University you went to, so your education might not make you stand out as much as you might like anyway. [@bigfour]
+
+What **will** distinguish you from your competitors will be your [experience](experiencing.html), your projects, your [communication skills](communicating.html) and any awards or honours you might have picked up along the way. If you think that your degree will be enough to get you the job you want, bear in mind that:
 
 <!--Some employers are agnostic to where your degree came from, or how you did at high school, to your academic credentials
 
@@ -119,9 +123,10 @@ That doesn't mean you have to know EXACTLY what you want to do when you finish. 
 Computer scientists call this problem search space reduction, [@searchspace] there's a [feasible region](https://en.wikipedia.org/wiki/Feasible_region) of future possibilities and one of the first things you'll need to do is narrow down the candidates. You could think of coding your future is an [optimisation problem](https://en.wikipedia.org/wiki/Optimization_problem). Start optimising now because it's too late when you graduate. 🎓
 
 
+
 ## Yes, this WILL be on the exam {#exams}
 
-Students often ask their teachers “*will this be on the exam*”?  The short answer is **YES** and **NO**! Yes, this will be on the exam, but NO the exam won't be set by your University. Unlike other courses you've done, the examinations for this course aren't set by your University but by employers.  Roughly speaking, there are three kinds of examinations that are used by employers show in Table \@ref(tab:examtable)
+Students love to ask their teachers “*will this be on the exam*”? The short answer is **YES** (and **NO**)! Yes, this will be on the exam, but NO the exam won't be set by your University. Unlike other courses you've done, the examinations for this course aren't set by your University but by employers.  Roughly speaking, there are three kinds of examinations that you'll need to get good at, shown in Table \@ref(tab:examtable)
 
 :  (\#tab:examtable) The "exams" used by employers, what gets assessed and the grades you can get
 
@@ -142,8 +147,8 @@ Students often ask their teachers “*will this be on the exam*”?  The short a
 
 So, *yes*, this will be on the exam, but *no*, the exams are obviously not set, administered, invigilated and marked by academics at your University. The exams are set by employers and the results are **brutally binary**:
 
-* PASS: you've got the interview, job or promotion or...
-* FAIL: none of the above. Next!
+* **PASS**: you've got the interview, job or promotion or...
+* **FAIL**: none of the above. Next!
 
 One of the challenging things about employers exams are, they typically do not have the bandwidth to give applicants useful feedback, other than a simple pass or fail. When it comes to job applications software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls this the "black hole". The gravitational force of employers black holes is so strong that no CV or Resume can escape, we'll say more about this in chapter on [debugging your CV](#debugging).
 
@@ -192,7 +197,7 @@ As well as being openly accessible on the web, this book is open source too.  Wh
 
 Any corrections or suggestions that get included will be fully acknowledged in the [acknowledgements](#thanks), unless you tell me otherwise. We welcome all improvements, however small.
 
-All the written content for this guidebook is licensed
+All the written content for this guidebook is licensed under CC-BY-NC-ND, see the license.
 
 ## This book is different {#thinkdifferent}
 
@@ -247,7 +252,7 @@ A lot of scientific and technical writing is written in the third person or pass
 ### There is no paywall {#openaccess}
 You don't need to pay anything to read this book online because its openly available, see the [license terms](#licensing) (CC-BY-NC-ND). Publishing this guidebook online makes it findable and accessible, something that isn't true of lots of knowledge locked up inside books.
 
-Because this guidebook is online, it is searchable, browsable and linkable. You can link to whatever level you like, top level, chapter level and to every section and subsection level.  
+Because this guidebook is online, it is searchable, browsable and linkable. You can link to whatever level you like, top level, chapter level and to every section and subsection level. Everything important has a Uniform Resource Locator ([URL](https://en.wikipedia.org/wiki/URL)).
 
 <!--###
 The FAIR principles have been followed in writing this book.[@FAIR] not really interoperable or reusable?

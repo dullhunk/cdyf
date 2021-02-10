@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [/Users/duncan/Documents/GitHub/hulled/hulld.bib, cdyf-playlist.bib, cdyf-signposts.bib, cdyf-references.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
+description: "Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
 url: 'https\://www.cdyf.me/'
 github-repo: dullhunk/cdyf
 cover-image: "images/Coding your future - Title.png"
@@ -24,7 +24,7 @@ knitr::include_graphics("images/Coding your future - Title.png")
 ```
 Welcome to Coding Your Future, the guidebook that will help you to design, build, test, debug and code your future in computing. This guidebook is aimed at students in higher education, both those studying Computer Science as part of their degree or those from other disciplines with an interest in computing.
 
-It doesn't matter what stage of your study you are at, there's something here for you. The content happens to support second year teaching at the University of Manchester, it doesn't matter what stage of your undergraduate or postgraduate study you are.
+The content happens to support second year teaching at the University of Manchester, it doesn't matter what stage of your undergraduate or postgraduate study you are, what you're studying or where you are studying it. There's something here for everybody.
 
 <!--todo check github-repo-->
 
@@ -38,7 +38,7 @@ So this guidebook tackles professional issues in computing, for those with and w
 
 <!--We will also discuss some algorithms (recipes) that you might like to try-->
 
-## What you will (and won't) learn
+## What you will (and won't) learn {#bilo}
 
 After reading this guidebook, watching the videos and doing the exercises you will be able to:
 
@@ -51,26 +51,23 @@ After reading this guidebook, watching the videos and doing the exercises you wi
 
 This book will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter six [Computing Your Future](#computing).
 
-### Prerequisites
+### Prerequisites {#prereq}
 As the title of this guidebook implies, there is a computational flavour here, but you do not have to be studying Computer Science to benefit from reading it. There are two main target audiences for this guidebook:
 
 1. Undergraduate and postgraduate students studying Computer Science as a major or minor part of their degree. This includes software engineering, artificial intelligence, human-computer interaction (HCI), information systems, health informatics, data science, gaming, cybersecurity and all the other myriad flavours of Computer Science
-1. Undergraduate and postgraduate students studying *any* subject, with little or no Computer Science at all. You are curious to know about what role computing could play in your future career.  
+1. Undergraduate and postgraduate students studying *any* subject, with little or no Computer Science at all. You are curious to know about what role computing could play in your future career. Computing is too important to be left to Computer Scientists.
 
-So the prerequisites for this book are that you are studying (or have studied) at University, probably in the United Kingdom. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
+So the prerequisites for this book are that you are studying (or have studied) at University, most likely the United Kingdom. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
 
-### Don't read this, gut it!
+### Don't read this, gut it! {#gut}
 I don't recommend you read this book from cover to cover in one sitting. Instead, I suggest you follow the advice given to historian [William Woodruff](https://en.wikipedia.org/wiki/William_Woodruff) about reading books when he was at University:
 
 > “You don't READ books, you GUT them!” [@nabend] 🐟
 
-So gut this book like a fish. Identify the chapters that are most useful to you (the flesh), and skip the rest (the guts). Which chapters are flesh and which are guts will depend on what stage of the journey you are at. This guidebook is designed to be as “guttable” as possible.  `r if (knitr::is_html_output()) '
-To aid gutting, the web based form at published at [www.cdyf.me](https://www.cdyf.me/) has a built in search, and two tables of contents:
+So gut this book like a fish. Identify the chapters that are most useful to you (the flesh), and skip the rest (the guts). Which chapters are flesh and which are guts will depend on what stage of the journey you are at. This guidebook is designed to be as “guttable” as possible.
+To aid gutting, the web based form at published at [www.cdyf.me](https://www.cdyf.me/) has a built in search.
 
-1. One for the entire guidebook, which you will see on the left hand side 👈
-1. One for the chapter you are currently in, which you will see on to the right hand side 👉'`
-
-This guidebook is split into three parts, the first part is on [designing your future](#bothering) while the second is on [building and testing your future](#debugging) which are shown in Figure \@ref(fig:map-fig). The final part is a [help](#ruling) section, supporting your future.
+This guidebook is split into three parts, the first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) which are shown in Figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, supporting your future.
 
 <!-- how to embed tweets
 ```{r echo=FALSE}
@@ -95,7 +92,7 @@ knitr::include_graphics("images/Course Map.png")
 
 ## Structure
 
-This book is divided into three parts:
+Let's look in a bit more detail at  the content of each part of this guidebook:
 
 
 ### PART I: Designing your future
@@ -117,7 +114,7 @@ The next six chapters look at building and testing your future, what engineers l
 * The eighth chapter looks at [your job search and networks](#finding), where can you look for interesting opportunities
 * The ninth chapter looks [your interviews and offers](#interviewing), how can you turn interviews to your advantage and negotiate any offers you receive
 * The tenth chapter looks at [your survival and promotion](#surviving), once you've landed a job, how will you survive and thrive outside (and after) University
-* The eleventh chapter looks at [postgraduate study](#studying) is a Masters or a PhD right for you?
+* The eleventh chapter looks at [postgraduate study](#studying) is a Masters degree or a PhD right for you?
 * The twelfth chapter looks at [your alternatives](#broadening) and encourages you to broaden your horizons. Perhaps you could be a freelancer, contractor? Maybe you want to start your own business and employ others or you'd like to work in the non-profit or public sector?
 
 ### PART III: Supporting your future
@@ -148,10 +145,17 @@ Each chapter of the book contains the following sections:
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->
 
 ## Acknowledgements {#thanks}
-The content of this book is based on hundreds of conversations I have had with (mostly) Computer Science students and their employers since 2012. I've also had significant support from academic colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)) and support staff at the University of Manchester. ([\@ManUniCareers](https://twitter.com/ManUniCareers),[\@alumniUoM](https://twitter.com/alumniUoM),[\@OfficialUoM](https://twitter.com/OfficialUoM))
+The content of this book is based on hundreds of conversations I have had with (mostly) Computer Science students and their employers since 2012. I've also had significant support from academic colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)) and support staff at the University of Manchester. ([\@ManUniCareers](https://twitter.com/ManUniCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
 
-### Thanks to students
-First and foremost, I'd like to thank all the students who have helped with this book, both directly and directly. If you have studied some flavour of Computer Science as an undergraduate at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you! I can't name everyone, but I'd especially like to thank industrial experience (IE) students who completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCS.com](https://unicsmcr.com/),  HackSoc and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've trawled through hundreds of CVs too, so if you've shown me a copy of your CV, thanks! The chapter on [debugging your CV](#debugging) is based on the most common bugs (or are they features?) I've seen in CVs and resumes.
+### Thanks to students {#students}
+First and foremost, I'd like to thank all the students who have helped with this book, both directly and directly. I can't name them all but if you have studied some flavour of Computer Science as an undergraduate at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you!
+
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
+knitr::include_graphics("images/bbcbreakfastsofa.png")
+```
+(ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning student team at the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford, Greater Manchester
+
+I'd especially like to thank industrial experience (IE) students who completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/),  HackSoc and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've trawled through hundreds of CVs too, so if you've shown me a copy of your CV, thanks! The chapter on [debugging your CV](#debugging) is based on the most common bugs (or are they features?) I've seen in CVs and resumes.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -168,7 +172,7 @@ cat(paste0(contributors$desc, collapse = ", "))
 
 Thank you students for being studious. 🙏
 
-### Thanks to employers
+### Thanks to employers {#employers}
 
 Thanks to all the employers who have employed students from the Department of Computer Science as either summer interns, year long placement students or graduates. A big chunk of this guidebook documents students experience of recruitment by and employment with these employers.
 
@@ -187,37 +191,41 @@ cat(paste0(contributors$desc, collapse = ", "))
 
 So, thanks employers for employing our students. 🙏
 
-### Thanks to colleagues
+### Thanks to colleagues {#colleagues}
 
-Thanks to my colleagues in the Department of Computer Science and the careers service at the University of Manchester who have contributed directly (or indirectly) to this book. I would like to thank [Jim Miles](https://www.linkedin.com/in/jim-miles-5b0b7919/) for encouraging me to write a book. Optimists will tell you that “everyone has a book in them...”, although pessimists say that “...in most cases that's where it should remain”. [@everyone] I am an optimist when it comes to the power of written communication.
+Thanks to my academic colleagues in the Department of Computer Science and the rest of the University of Manchester who have contributed directly (or indirectly) to this book. They include Sean Bechhofer, Gavin Brown, Barry Cheetham, Sarah Clinch, Clare Dixon, Suzanne Embury, Steve Furber, Jim Garside, Danielle George, Carole Goble, Simon Harper, Gareth Henshall, Toby Howard, Caroline Jay, Tim Morris, Colin Puleston, Paul Nutter, Steve Pettifer, Nancy Rothwell, Ulrike Sattler, Pejman Saeghe, Andrea Schalk, Robert Stevens, Tom Thomson, Markel Vigo, Louise Walker and Alex Walker.
 
-Sean Bechhofer, Suzanne Embury, Steve Furber, Carole Goble, Gareth Henshall, Toby Howard, Tim Morris, Paul Nutter, Steve Pettifer, Ulrike Sattler, Andrea Schalk, Robert Stevens and Alex Walker.
+I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. To be honest, I thought he was nuts but it turned out to be another one of Jim's great ideas. Thanks Jim. Optimists will tell you that “everyone has a book in them...”, although pessimists say that “...in most cases that's where it should remain”. [@everyone] I am an optimist when it comes to the power of natural language despite [Christoph Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) amusing and trademark cynicism shown in figure \@ref(fig:hitchens-fig).
 
-Thanks also to support staff from professional services and the alumni office: Mabel Yau, Hannah Cousins, Jez Lloyd, Ben Carter, Penney Gordon-Lanes, Dominic Laing, Alex Jones, Angela Standish, Anne Milligan, Jannine Thomas, Elizabeth Wilkinson, Andrew Whitmore, Rachel Mutters and Tammy Goldfeld.
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6MPebmQSQ0" frameborder="0" allowfullscreen></iframe>
+'`
+```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionhitch)"}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+```
+(ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
 
-So, thanks current and former colleagues at the University of Manchester for being collegiate. 🙏
+Thanks also to the fantastic support staff (past and present) from professional services who make all the academic stuff possible: Jennie Ball-Foster, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Tammy Goldfeld, Penney Gordon-Lanes, Lynn Howarth, Alex Jones, Jez Lloyd, Dominic Laing, Ruth Maddocks, Chris Page, Angela Standish, Gill Lester, Karon Mee, Anne Milligan, Melanie Price, Bernard Strutt, Jannine Thomas, Elizabeth Wilkinson, Andrew Whitmore and Mabel Yau.
 
-### Thanks to influencers
+So, thanks to colleagues at the University of Manchester for being collegiate and making work a great place to be. 🙏
+
+### Thanks to influencers {#influences}
 
 Some of the most important influences on this book are people I've only met very briefly (in person), virtually (online) or not yet.
 
-* Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for her cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and myself.
+* Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for her cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
 * Thanks to [Yihui Xie](https://yihui.org/en/about/) ([\@yihui](https://github.com/yihui)) for [bookdown.org](https://bookdown.org), the software used to produce this book alongwith the comprehensive and well-written documentation on using it. [@xie2017; @xie2015; @xie2020;]
 * Thanks to [Sally Fincher](https://scholar.google.com/citations?user=CwnKRzMAAAAJ) and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
-* Thanks to Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman))and [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) for *R for Data Science* [@r4ds] from which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
+* Thanks to Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman))and [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for her *Science of Well-being course* which was been a significant influence on this book and my personal and professional life
 * Thanks to Jonathan Black ([\@JonathanPBlack](https://twitter.com/JonathanPBlack)) for his book *Where am I Going, Can I Have a Map?*, [@jonathanblack] his *Financial Times* columns [@ft] and videos.
+* Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for her *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my priorities when they were all out of kilter
+* Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration for some of the implementation of this course. [@cs50; @cs50mcr; @cs50zoom] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017.
 
-<!--
-* Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which has inspired some of the  implementation of this course. [@cs50; @cs50mcr; @cs50zoom] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017.
 
-
-* Thanks to [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) ([\@timbray](https://twitter.com/timbray)) who's [ongoing blog](https://www.tbray.org/ongoing/) I've enjoyed reading since it started way back when. Tim's blog is an inspiring existence proof that engineers can (and should) write well. Joel Spolsky, -->
+<!--* Thanks to [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) ([\@timbray](https://twitter.com/timbray)) who's [ongoing blog](https://www.tbray.org/ongoing/) I've enjoyed reading since it started way back when. Tim's blog is an inspiring existence proof that engineers can (and should) write well. Joel Spolsky, Paul Graham, -->
 
 So, thanks influencers for being influential. 🙏
-
-
-
 
 ### Thanks to github contributors {#github}
 
@@ -249,21 +257,27 @@ Many of the illustrations for this book have been drawn by the very talented Bry
 
 Thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery. 🙏
 
+### Thanks to my friends and family {#fandf}  
+I'm not going to namecheck all my friends and family here but thanks to all my close friends and family who have supported me and kept me sane during these difficult times. I'm lucky that they have always there when I need them for emotional support.
 
-### About me
-Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I'm the author of this guidebook which I wrote for undergraduate and postgraduate students. I'm a lecturer in the [Department of Computer Science at the University of Manchester](https://www.cs.manchester.ac.uk/) and have targeted this guidebook at students who are either studying computer science or are interested in finding out more about it as a career option.
+So, thanks to all my family and friends for your love and friendship. Σε αγαπώ παρα πολύ. 🙏
 
-So what's *my* story? Like many people, my path has been what Helen Tupper and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I have worked as a paperboy, supermarket cashier, shelf stacker, factory worker, chef, dogsbody, field assistant, database administrator, secondary school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic. I've done a range of voluntary work too, serving as a competition judge, fundraiser, code club \& coderdojo leader, digital council member, school governor, curator, trainer and editor.  But as Ronnie Lane and Ronnie Wood once said:
+### About me {#duncan}
+We haven't been introduced yet have we? Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I'm the author of this guidebook which I wrote for undergraduate and postgraduate students. I'm a lecturer in the [Department of Computer Science at the University of Manchester](https://www.cs.manchester.ac.uk/) and the primary audience is students who are interested in coding their future.
 
-> I wish that I knew what I know now, when I was younger. ---Ronnie Lane [@faces]
+So what's *my* story? Like many people, my path has been what Helen Tupper and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I've been paid for work as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, chef, dogsbody, field assistant, database administrator, consultant, secondary school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
 
-This guidebook documents some of what I know now that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
+I've done a range of voluntary work too, serving as a competition judge, fundraiser, rabble rouser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, [digital council](https://www.manchesterdigital.com/) member, school governor, curator, beer drinker, wikipedia trainer and editor. But as Ronnie Lane and Ronnie Wood once said:
 
-Most of what I have learned about employment comes from advising, watching and listening to undergraduate and postgraduate students interacting with employers as they take the first steps in their careers. So reading this book will help you learn from their successes and their mistakes too.
+> “I wish that I knew what I know now, when I was younger.” ---Ronnie Lane [@faces]
+
+This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular wipeout failures, alongside some modest successes, and have included personal stories where they are relevant.
+
+Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers. I've documented some of what they taught me, so reading this book may help you learn from some of their successes and mistakes.
 
 ## Legal stuff
 
-Some legalities:
+Some legalities, I am not a lawyer [IANAL](https://en.wikipedia.org/wiki/IANAL) but any opinions expressed in this guidebook are my own and not representative of my employer, the University of Manchester. Also:
 
 ### Licensing
 This guidebook is published under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) license. This means you can copy and redistribute the written material provided that:
@@ -274,12 +288,12 @@ This guidebook is published under the [Creative Commons Attribution-NonCommercia
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-Images in this have guidebook are published different licenses, depending on the source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, others are different. Each figure caption gives details.
+Images in this guidebook are published different licenses, depending on the source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, others are different. Each figure caption gives details.
 
 ### Your privacy
 This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) to monitor website use which complies with the General Data Protection Regulation (GDPR).
 
-Some of these services use cookies. These can be disabled in your browser.
+Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)
 
 
 <!--knitr::include_url("http://www.cs.man.ac.uk/~hulld")-->

@@ -1,6 +1,6 @@
 # Your well-being {#wellbeing}
 
-It doesn't matter if you are a student, an employee or even both at the same time. To be successful at studying or working, you'll need to take your well-being seriously. By well-being, I mean your health and happiness. Your health isn't just about your physical health but also your mental health and the two are very closely linked. It's all too easy when you are busy or stressed to neglect your well-being and then **bad-stuff™** happens. This chapter looks at your well-being, and how you can nurture it. 😀
+It doesn't matter if you are a student, an employee or even both at the same time. To be successful at studying or working, you need to take your well-being seriously. By well-being, I mean your health and happiness. Your health isn't just about your physical health but also your mental health and the two are very closely linked. It's all too easy when you are busy or stressed to neglect your well-being and then **bad-stuff™** happens. This chapter looks at your well-being, and how you can nurture it. 😀
 
 ```{r turing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionturunning)"}
 knitr::include_graphics("images/alan-turing-runner.jpg")
@@ -19,7 +19,7 @@ By the end of this chapter you will be able to:
 
 ## Mental ill health {#illhealth}
 
-University is a positive experience for many people, however you may experience periods of stress, anxiety, loneliness and depression. Financial, social and academic pressures alongside concerns about employability and coronavirus can all have an impact on your wellbeing. Statistically one in four of us will being affected by mental ill health during our lifetime. Two of the most common forms of mental ill health are:
+University is a positive experience for many people, however you may also experience periods of stress, anxiety, loneliness and depression. Financial, social and academic pressures alongside concerns about employability and coronavirus can all have an impact on your wellbeing. Statistically, one in four of us will being affected by mental ill health during our lifetime. Two of the most common forms of mental ill health are:
 
 * **Anxiety**: *persistent* feelings of unease, such as worry or fear
 * **Depression**: a low mood that *lasts for a long time* and affects your everyday life
@@ -33,7 +33,7 @@ The *persistent* and *lasting a long time* are important here because while its 
 
 ### Anxiety
 
-Anxiety is one of most prevalent mental health disorders and can lead to depression, increased risk of suicide. Generalised Anxiety Disorder (GAD), a common form of anxiety is explained in the video in Figure \@ref(fig:anxious-fig). People who are affected by anxiety may struggle to function normally, and find routine everyday task difficult or impossible.
+Anxiety is one of most prevalent mental health disorders and can lead to depression, increased risk of suicide. Generalised Anxiety Disorder (GAD), a common form of anxiety is explained in the video in Figure \@ref(fig:anxious-fig) and at [nhs.uk/conditions/generalised-anxiety-disorder](https://www.nhs.uk/conditions/generalised-anxiety-disorder/). People who are affected by anxiety may struggle to function normally, and find routine everyday task difficult or impossible.
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9mPwQTiMSj8" frameborder="0" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ Psychologist Laurie Santos describes five evidence-based strategies for coping w
 1. Get social: prioritise time with friends and family, rather than turning inward or diving deeper into work
 1. Mindfulness: be mindful of emotions using the R.A.I.N technique
     * **R**ecognise: negative emotions
-    * **A**ccept: accept emotions rather than fighting
+    * **A**ccept: accept emotions rather than fighting them
     * **I**nvestigate: notice how the emotion feels inside your body
     * **N**urture: be kind to yourself
 
@@ -83,7 +83,7 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 (ref:captionlaurie) Laurie Santos describes five coping techniques for improving wellbeing: Exercise, gratitude, sleep, getting social and meditation.
 
-So there are things you can do to help yourself, but you may also need to seek help from others. Sometimes a desire to be productive by working hard has the opposite effect as shown in \@ref(fig:lizandmollie-fig)
+So there are things you can do to help yourself, but you may also need to seek help from others. Sometimes a desire to be productive by working hard has the opposite effect, because the sacrifices you make can be counter-productive.
 
 ```{r lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
@@ -115,7 +115,7 @@ There are lots of people who can help you:
 ### The National Health Service
 As a student studying in the UK you are entitled to access free healthcare provided by the National Health Service (NHS). To do so you'll need to be registered with your general practitioner (GP), see [nhs.uk: Getting medical care as a student](https://www.nhs.uk/live-well/healthy-body/getting-medical-care-as-a-student/)
 
-Your doctor can advise you on medical treatment if required.
+Your doctor can advise you on medical treatment if required, see for example [nhs.uk/conditions/antidepressants](https://www.nhs.uk/conditions/antidepressants/)
 
 ### Nightline
 Nightline [nightline.ac.uk](https://www.nightline.ac.uk) is a confidential listening and information service run by students for students. Nightline is open 8pm till 8am every night during term time. It offers anonymous, non-judgmental and non-advisory support for students as described in figure \@ref(fig:nightline-fig).
@@ -155,10 +155,10 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 
 ### Papryus
-Papyrus: A national charity for the prevention of young suicide, find out more at [papyrus-uk.org](https://www.papyrus-uk.org/) or telephone the free number 0800 068 4141.
+Suicide is the biggest killer of under 35's in the UK. Papyrus believe that many young suicides can be prevented, they are a national charity that you can find out more about at [papyrus-uk.org](https://www.papyrus-uk.org/) or telephone the free number 0800 068 4141.
 
 ### Self-help services
-Self-Help Services: A mental health charity which helps people to help themselves. 0161 226 3871 [selfhelpservices.org.uk](https://www.selfhelpservices.org.uk/)
+Self-Help services are a mental health charity which helps people to help themselves, see [selfhelpservices.org.uk](https://www.selfhelpservices.org.uk/) or phone 0161 226 3871.
 
 ### MIND
 MIND provide advice and support to empower anyone experiencing a mental health problem. They campaign to improve services, raise awareness and promote understanding of mental health issues. Find out more at [mind.org.uk](https://www.mind.org.uk) and in the video in figure \@ref(fig:stephenfry-fig)
@@ -242,7 +242,7 @@ Likewise the [job hunting we describe in the chapter on searching](#searching) c
 Adopting a growth mindset can be a successful strategy for maintaining your wellbeing. If your grades aren't has good as you hoped or your search for employment is being met with repeated rejection, a growth mindset can help. Lets take rejection from potential employers as an example, there are two ways you can react to it:
 
 1. ***Fixed mindset***: responding with a fixed mindset will mean you are likely to take rejection personally. You might even assume that this confirms that you're not good enough or that you made some fatal mistake in your applications or interviews.
-2. ***Growth mindset***: by responding to rejection with a growth mindset, you focus on what happens next. Rejection is not a failure but a "not yet" described in figure \@ref(fig:not-fig). Maybe you're not yet ready for that employer, but you'll definitely have a good idea of what you learned from the process and how can you do better next time.
+2. ***Growth mindset***: by responding to rejection with a growth mindset, you focus on what happens next. Rejection is not failure but a "not yet" described in figure \@ref(fig:not-fig). Maybe you're not yet ready for that employer, but you'll definitely have a good idea of what you learned from the process and how can you do better next time.
 
 ```{r fixedminset-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionfixedmindset)"}
 knitr::include_graphics("images/the-fixed-mindset.png")
@@ -254,9 +254,10 @@ According to psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dwec
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
 '`
-```{r not-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Psychologist Carol Dweck explains the power of not yet. "}
+```{r not-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captiondweck)"}
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
+(ref:captiondweck) Psychologist Carol Dweck explains the power of "not yet" and the growth mindset
 
 ## Wellbeing signposts {#signposts3}
 
@@ -278,6 +279,6 @@ Finally, it's well worth taking a look at [Laurie Santos](https://en.wikipedia.o
 
 Anxiety and depression are serious conditions that are very likely to affect you or somebody close to you while you are at University. There's a one in four chance that you will be affected by mental health issues at some point in your life.
 
-We've only talked about two particular mental health issues, anxiety and depression, but there are many other conditions such as obsessive-compulsive disorder (OCD), eating disorders, self-harm and more that are beyond the scope of this chapter. They do have one thing in common, and that is that talking about them is an important part of starting to develop better mental health.
+We've only talked about two particular mental health issues, anxiety and depression, but there are many other conditions such as phobias, obsessive-compulsive disorder (OCD), eating disorders, self-harm and more that are beyond the scope of this chapter. They do have one thing in common, and that is that talking about them is an important part of starting to develop better mental health.
 
-If you are affected by mental ill health, talking about it is the first place to start, but often the hardest. In this chapter, I've outlined some ways you can help yourself alongside some of the services and people you can talk to if you need to.
+If you are affected by mental ill health, talking about it is the first place to start, but often the hardest. In this chapter, I've outlined some ways you can help yourself alongside some of the services and people you can talk to if you need to. Despite how you might feel, you are not alone.
