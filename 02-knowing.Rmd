@@ -124,12 +124,12 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 ```
 
-Since first being published in 1972, over ten million copies of *[What Color is Your Parachute?](https://en.wikipedia.org/wiki/What_Color_is_Your_Parachute%3F)* have been sold. It's  has been translated into 20 languages and is used in 26 countries. What's good about *Parachute* is that it has some useful *self-inventory* exercises that go beyond the introductory ones in this guidebook, particularly in the context of your future career. While the style and examples can be U.S. centric, it's a classic self-help book that looks at a broad variety of issues around job hunting. The author, [Richard Nelson Bolles](Richard Nelson Bolles) was a chemical engineer and he explains how you can't possibly decide what to do in five years time in the video in figure \@ref{fig:bolles-fig}
+Since first being published in 1972, over ten million copies of *[What Color is Your Parachute?](https://en.wikipedia.org/wiki/What_Color_is_Your_Parachute%3F)* have been sold. It's  has been translated into 20 languages and is used in 26 countries. What's good about *Parachute* is that it has some useful *self-inventory* exercises that go beyond the introductory ones in this guidebook, particularly in the context of your future career. While the style and examples can be U.S. centric, it's a classic self-help book that looks at a broad variety of issues around job hunting. The author, [Richard Nelson Bolles](https://en.wikipedia.org/wiki/Richard_Nelson_Bolles) was a chemical engineer and he explained how you can't possibly decide what to do in five years time in the video in figure \@ref(fig:bolles-fig)
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oeP6Pm3Xf-8" frameborder="0" allowfullscreen></iframe>
 '`
-```{r bolles-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Where will you be five years from now? Dick Bolles talks at the Googleplex."}
+```{r bolles-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Where will you be five years from now? Best-selling author Dick Bolles talks at the Googleplex about the gaps between education and employment."}
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 ```
