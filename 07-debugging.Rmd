@@ -133,7 +133,7 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 ### Your header {#mycvpd}
 
-The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in Figure \@ref(fig:turinghead-fig) for some bloke called Alan. That's it!
+The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in Figure \@ref(fig:turinghead-fig) for Alan Turing. That's it!
 
 ```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncvheader)"}
 knitr::include_graphics("images/alan-turing-header.png")
@@ -168,16 +168,32 @@ Experience is where you can talk about any paid or voluntary work experience you
 knitr::include_graphics("images/What have you done.png")
 ```
 
-(ref:captionwhathaveudone) Are you experienced? What have you done? sketch by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionwhathaveudone) Are you experienced? What have you done? sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 If you don't have much experience, don't worry, there are plenty of opportunities to get some. For details, see [are you experienced](experiencing.html)?
 
 ### Your projects {#mycvpj}
 
-Your projects section is for everything else, they might be personal, social or University projects, probably not paid because these might fit better under [your experience](#mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Particpating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out.
+The word “Projects” is a great catch all description for capturing all other things you get up to. This might include
 
-If you have any open source projects what projects have you done? Perhaps you [fixed a bug in an open source project](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749)? Perhaps you've built a mobile application, a web application, or something else to scratch an engineering itch.
+* personal side projects
+* social projects
+* University projects
+
+They will most likely be unpaid because paid work fits better in [your experience](#mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, Dani Stefanovic's [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) repository is a good starting point. Building and creating new things is a great way to understand them, as [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once pointed out. \@ref(fig:feynman-fig)
+
+
+
+<!--Perhaps you've built a mobile application, a web application, or something else to scratch an engineering itch.-->
+
+```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
+knitr::include_graphics("images/feynman.png")
+```
+
+(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard. Side projects are a great way to do this. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+
+Another good source of projects is to [fix a bug in an open source project](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749). It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the toolchain being used (which might be complex) and solve problems.
 
 If you've done group projects at University, be sure to mention them. Try to be *more* descriptive than this:
 
@@ -320,7 +336,7 @@ Besides LinkedIn you can include public profiles from [github](https://docs.gith
 
 ### Robot proof your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use Application Tracing Systems (ATS) which often make use of automated software to analyse your application. These resume robots are unlikely to have arms and legs like the one in Figure \@ref{fig:machines-fig}, but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though its a good idea to remove any personal information like phone numbers etc before using free services such as:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use Application Tracing Systems (ATS) which often make use of automated software to analyse your application. These resume robots are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though its a good idea to remove any personal information like phone numbers etc before using free services such as:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 * [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV

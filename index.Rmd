@@ -155,7 +155,7 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 (ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning student team at the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford, Greater Manchester
 
-I'd especially like to thank industrial experience (IE) students who completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/),  HackSoc and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've trawled through thousands of CVs too, so if you've shown me a copy of your CV, thanks! The chapters on [debugging your CV](debugging.html) and [debugging their CV](sampling.html) are based on the most common bugs (or are they features?) I've seen in CVs and resumes.
+I'd especially like to thank industrial experience (IE) students who completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com),  [cssoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've trawled through thousands of CVs too, so if you've shown me a copy of your CV, thanks! The chapters on [debugging your CV](debugging.html) and [debugging their CV](sampling.html) are based on the most common bugs (or are they features?) I've seen in CVs and resumes.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -189,15 +189,16 @@ cat(paste0(contributors$desc, collapse = ", "))
 ```
 -->
 
+Special thanks to Sharif Salah at Google for introducing me to the Google Technical Writing course.
+
 So, thanks employers for employing our students. 🙏
 
 ### Thanks to colleagues {#colleagues}
+I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking but it turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
 
-Thanks to current and former academic colleagues and PhD students at the University of Manchester who have contributed directly (or indirectly) to this book. They include Sean Bechhofer, Andy Brass, Gavin Brown, Barry Cheetham, Sarah Clinch, Clare Dixon, Suzanne Embury, Steve Furber, Jim Garside, Danielle George, Carole Goble, Peter Green, Simon Harper, Gareth Henshall, Matthew Horridge, Toby Howard, Caroline Jay, Douglas Kell, John Latham, Phil Lord, Tim Morris, Colin Puleston, Paul Nutter, Bijan Parsia, Steve Pettifer, Nancy Rothwell, Ulrike Sattler, Pejman Saeghe, Andrea Schalk, Kieran Smallbone, Robert Stevens, Neil Swainston, Tom Thomson, Markel Vigo, Louise Walker, Alex Walker and Crystal Wu.
+Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this book and the environment it was written in. They include (in alphabetical order) Sophia Ananiadou, Sam Bail, Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Stewart Blakeway, Petrut Bogdan, Andy Brass, Gavin Brown, Angelo Cangelosi, Peter Capon, Barry Cheetham, Ke Chen, Sarah Clinch, Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Suzanne Embury, Michael Emes, Alvaro Fernandes, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Danielle George, Richard Giordano, Carole Goble, Roy Goodacre, Peter Green, Keith Gull, Robert Haines, Simon Harper, Gareth Henshall, Matthew Horridge, Toby Howard, Roger Hubbold, Daniel Jameson, Caroline Jay, John Keane, Douglas Kell, Dirk Koch, Alice Larkin, Peter Lammich, John Latham, Joshua Knowles, Kung-Kiu Lau, Dave Lester, Phil Lord, Mikel Lujan, Christoforos Moutafis, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Sarah Mohammad-Qureshi, Tim Morris, Pavlos Petoumenos, Jac Potter, Malcolm Press, Colin Puleston, Paul Nutter, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Alan Rector, Giles Reger, Graham Riley, Nancy Rothwell, William Rowe, Oliver Rhodes, Graham Riley, Ulrike Sattler, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Renate Schmidt, Jonathan Shapiro, Stian Soiland-Reyes, Liz Sheffield, Ahmed Saeed, Kieran Smallbone, Robert Stevens, Neil Swainston, Chris Taylor, Tom Thomson, Markel Vigo, Louise Walker, Alex Walker, Sarah White, Dieter Wiechart, Natalie Wood, Igor Wodiany, Chris Wroe, Crystal Wu, Viktor Yarmolenko,  Xiao-Jun Zeng, Jun Zhao, Liping Zhao and Ning Zhang.
 
-I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. To be honest, I thought he was nuts but it turned out to be another one of Jim's great ideas. Thanks Jim.
-
-Optimists will tell you that “everyone has a book in them...”, although pessimists will say that “...in most cases that's where it should remain”. [@everyone] Despite [Christoph Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) amusing cynicism shown in figure \@ref(fig:hitchens-fig), I am an optimist when it comes to the power of natural languages.  
+Optimists will tell you that “everyone has a book in them...”, although pessimists like [Christoph Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's where it should remain”. [@everyone] Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-fig), I am an optimist when it comes to the power of natural languages.
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6MPebmQSQ0" frameborder="0" allowfullscreen></iframe>
@@ -207,21 +208,21 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 (ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
 
-Thanks also to the fantastic support staff (past and present) from professional services who make all the teaching and learning magic possible: Jennie Ball-Foster, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Tammy Goldfeld, Penney Gordon-Lanes, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Karon Mee, Anne Milligan, Chris Page, Melanie Price, Chris Rhodes, Angela Standish, Bernard Strutt, Dave Thorne, Jannine Thomas, Elizabeth Wilkinson, Andrew Whitmore, Mabel Yau and Wendy.
+Thanks also to the fantastic support staff (past and present) from professional services who make all the magic of teaching and learning possible: Jennie Ball-Foster, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Tammy Goldfeld, Penney Gordon-Lanes, Iain Hart, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Karon Mee, Anne Milligan, Chris Page, Melanie Price, Chris Rhodes, Angela Standish, Bernard Strutt, Dave Thorne, Jannine Thomas, Elizabeth Wilkinson, Andrew Whitmore, Mabel Yau and Wendy.
 
 So, thank you to colleagues for being collegiate. You all make the University of Manchester a great place to be, even during a global pandemic. 🙏
 
 ### Thanks to influencers {#influences}
 
-Some of the most important influences on this book are people I've only met very briefly (in person), virtually (online) or not yet.
+Some of the most important influences on this book are people I've only met very briefly (in person), virtually (online only) or not yet.
 
 * Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for her cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
 * Thanks to [Yihui Xie](https://yihui.org/en/about/) ([\@yihui](https://github.com/yihui)) for [bookdown.org](https://bookdown.org), the software used to produce this book alongwith the comprehensive and well-written documentation on using it. [@xie2017; @xie2015; @xie2020;]
 * Thanks to [Sally Fincher](https://scholar.google.com/citations?user=CwnKRzMAAAAJ) and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
 * Thanks to Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman))and [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
-* Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a significant influence on this book and my personal and professional life
+* Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a significant influence on this book had a dramatic effect on my personal and professional life
 * Thanks to Jonathan Black ([\@JonathanPBlack](https://twitter.com/JonathanPBlack)) for his book *Where am I Going, Can I Have a Map?*, [@jonathanblack] his *Financial Times* columns [@ft] and videos.
-* Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration for some of the implementation of this course. [@cs50; @cs50mcr; @cs50zoom] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017.
+* Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration. [@cs50; @cs50mcr; @cs50zoom] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017.
 * Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for her *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my priorities when they were all out of kilter
 
 
@@ -259,23 +260,27 @@ So, thanks githubbers for committing. 🙏
 ### Thanks to Bryan Mathers {#visualthinkery}
 Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/). Bryan is an artist, visual thinker and entrepreneur, who also happens to have a Bachelors degree in Computer Science from the University of Glasgow. His combined skills in art and science made him a the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com).
 
-Thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery. 🙏
+So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery. I'm so glad we bumped into each other. 🙏
 
-### Thanks to my friends and family {#family}  
-Thanks to all my friends and family who have supported me from the beginning. To my mum, dad, brother, sister, wife, son, μαμά, μπαμπά and extended family. I'm lucky to have been taught by you and that you've always there when I needed you.
+### Thanks to my friends {#friends}  
+Thanks to my friends for your friendship. 🙏
 
-So, thanks to all my family and friends for your love and friendship. Σε αγαπώ παρα πολύ. 🙏
+### Thanks to my family {#family}  
+To my mum, dad, brother, sister, wife, son, μαμά, μπαμπά and extended family: I'm lucky to have been taught by you and that you've always there when I needed you.
+
+So, thanks to all my family for your unconditional love. Σε αγαπώ παρα πολύ. 🙏
+
 
 ### About me {#duncan}
 Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for undergraduate and postgraduate students. I'm a lecturer in the [Department of Computer Science at the University of Manchester](https://www.cs.manchester.ac.uk/).
 
-So what's *my* story? Like many people, my path has been what Helen Tupper and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, consultant, juror, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
+So what's *my* story? Like many people, my path has been what Helen Tupper and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, consultant, matchday steward, juror, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
 
 I've done a range of voluntary work too, serving as a competition judge, fundraiser, rabble rouser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/) and editor. But as Ronnie Lane and Ronnie Wood once said:
 
 > “I wish that I knew what I know now, when I was younger.” ---Ronnie Lane [@faces]
 
-This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular wipeout failures, alongside some modest successes, and have included personal stories where they are relevant.
+This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
 Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers. I've documented some of what they taught me, so reading this book may help you learn from some of their successes and mistakes.
 
