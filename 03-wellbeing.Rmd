@@ -249,7 +249,7 @@ knitr::include_graphics("images/the-fixed-mindset.png")
 ```
 (ref:captionfixedmindset) A fixed mindset is monolithic like the [Easter island statues](https://en.wikipedia.org/wiki/Moai). If you're not already, you should be wary of a fixed mindset. [Fixed mindsets](https://bryanmmathers.com/fixed-mindsets/) by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-According to psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) we can all be placed on a spectrum according to where we think our abilities come from. At one end, the fixed mindset assumes all kinds of abilities are fixed traits while at the other end, a growth mindset assumes these abilities can be developed over time. [@dweck] There is good evidence to suggest that adopting a growth mindset will make you a better learner who can cope with the inevitable failures and rejections in life better. This approach can be used in a range of different disciplines such as learning programming languages [@Cutts2010], music [@Davis2016] and job hunting.
+According to Stanford psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) we can all be placed on a spectrum according to where we think our abilities come from. At one end, the fixed mindset assumes all kinds of abilities are fixed traits while at the other end, a growth mindset assumes these abilities can be developed over time. [@dweck] There is good evidence to suggest that adopting a growth mindset will make you a better learner who can cope with the inevitable failures and rejections in life better. This approach can be used in a range of different disciplines such as learning programming languages [@Cutts2010], music [@Davis2016] and job hunting.
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
@@ -274,8 +274,7 @@ What’s good about Matt Haig’s books is they are quick and easy to read, but 
 ```{r haig-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionhaig)"}
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
-(ref:captionhaig) Two of Matt Haigs tips for good mental health include being careful of social media and reading more fiction and non-fiction books.
-
+(ref:captionhaig) Two of Matt Haigs tips for good mental health include 1. Being more careful (and mindful) of social media and 2. Reading more books because they books are good for your soul. Both fiction and non-fiction books.
 
 There’s plenty of evidence to suggest that social media can have a detrimental effect on health. [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier)’s skeptical polemic *Ten Arguments for Deleting Your Social Media Accounts Right Now* [@lanier] is a thought-provoking romp through some of the pitfalls of social media that may have you reaching for the delete or un-install button fairly quickly. If all these books are making you sleepy, neuroscientist Matthew Walker’s *[Why We Sleep: The New Science of Sleep and Dreams](https://en.wikipedia.org/wiki/Why_We_Sleep)* may change your view on the importance of a good nights sleep. [@whywesleep]
 

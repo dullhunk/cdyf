@@ -148,7 +148,7 @@ Each chapter of the book contains the following sections:
 The content of this book is based on hundreds of conversations I have had with (mostly) Computer Science students and their employers since 2012. I've also had significant support from academic colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)) and support staff at the University of Manchester. ([\@ManUniCareers](https://twitter.com/ManUniCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
 
 ### Thanks to students {#students}
-First and foremost, I'd like to thank all the students who have helped with this book, both directly and directly. I can't name them all but if you have studied some flavour of Computer Science as an undergraduate at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you!
+First and foremost, I'd like to thank all the students who have helped with this book, both directly and directly. I can't name you all but if you have studied some flavour of Computer Science as an undergraduate at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you!
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
@@ -231,7 +231,7 @@ So, thanks influencers for being influential. 🙏
 
 ### Thanks to github contributors {#github}
 
-Thanks to everyone who's contributed via github so far. We'll credit *any* github contributors here, small or large. Even the typos, it all counts.
+Thanks to everyone who's contributed via github so far. I will credit *any* github contributors here, small or large. Even the typos, it all counts.
 
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -247,6 +247,8 @@ cat(paste0(contributors$desc, collapse = ", "))
 If you'd like to contribute via github you can:  
 
 * raise an issue at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)  
+* click on the "edit this page" on any page at [http://www.cdyf.me](http://www.cdyf.me) which will initiate a pull request
+* `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
 * submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls)
 
 So, thanks githubbers for committing. 🙏
@@ -269,7 +271,7 @@ Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote thi
 
 So what's *my* story? Like many people, my path has been what Helen Tupper and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, consultant, juror, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
 
-I've done a range of voluntary work too, serving as a competition judge, fundraiser, rabble rouser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, [digital council](https://www.manchesterdigital.com/) member, school governor, curator, beer drinker, [wikipedia trainer and editor](https://wiki-loves-scientists.org.uk/). But as Ronnie Lane and Ronnie Wood once said:
+I've done a range of voluntary work too, serving as a competition judge, fundraiser, rabble rouser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/) and editor. But as Ronnie Lane and Ronnie Wood once said:
 
 > “I wish that I knew what I know now, when I was younger.” ---Ronnie Lane [@faces]
 
@@ -290,7 +292,7 @@ This guidebook is published under the [Creative Commons Attribution-NonCommercia
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-Images in this guidebook are published different licenses, depending on the source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, others are different. Each figure caption gives details.
+Images in this guidebook are published under different licenses, depending on the source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, others are different. Each figure caption gives details.
 
 ### Your privacy {#privacy}
 This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) to monitor website use which complies with the General Data Protection Regulation (GDPR).
