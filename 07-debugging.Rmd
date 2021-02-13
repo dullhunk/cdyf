@@ -144,7 +144,7 @@ knitr::include_graphics("images/alan-turing-header.png")
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have five sections that cover the following:
 
 1. Education: the formal stuff 🎓
-1. Experience: paid work 💰 
+1. Experience: paid work 💰
 1. Projects: side, social or University projects 💪
 1. Activities and leadership 👑
 1. Awards and honours 🏆
@@ -158,7 +158,7 @@ Unless you have significant amount of experience, the education section of your 
 * Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
 * Keeping it short and sweet, without getting bogged down in the details.
 
-You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line “*BSc Computer Science*”. You'll need to say more than [Pen Tester](#pen-tester) and [Rick Urshion](#rick-urshion) (for example) but not as much as [Mike Rokernel](#mike-rokernel), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give two decimal places (it happens). Pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
+You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line “*BSc Computer Science*”. You'll need to say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf) (for example) but not as much as [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give two decimal places (it happens). Pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
 
 ### Your experience {#mycvex}  
 
@@ -191,7 +191,7 @@ They will most likely be unpaid because paid work fits better in [your experienc
 knitr::include_graphics("images/feynman.png")
 ```
 
-(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard. Personal side projects and University projects are a great way to create new things in order to understand them. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard. Creating things in personal side projects are a great way to build new knowledge and help your CV stand out. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 Another good source of projects is to [fix a bug in an open source project](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749). It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the toolchain being used (which might be complex) and solve problems.
 
@@ -227,9 +227,9 @@ This applies to soft skills too, not just hard technical skills. Best to mention
 
 * keep it short (one or two lines maybe) but don't dedicate a whole section to it
 * stick to your strongest and most relevant skills that you are comfortable to answer questions on in your interview
-* Microsoft Office is *not* an interesting skill, everyone has that. Don't waste space talking about it. Who cares? It's like saying you can use a pencil!
+* Microsoft Office is *not* generally a very interesting skill because everyone has it. Don't waste space talking about it unless you've done something very advanced with it, like some complicated integration with other software.
 
-If you're a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly. You can also think logically, reason, problem solve, analyse, criticise and abstract - often to tight deadlines. Again, these are future-proof skills that will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in any specific technical skills you may have.
+If you're a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly. You can also think logically, reason, problem solve, analyse, generalise, criticise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in any specific technical skills you may or may not have.
 
 ## Birds eye view
 Having looked at the sections you're likely to have, we'll take a birds eye view of your whole CV. The issues in this section apply to the whole of your CV, rather than individual sections.
@@ -346,7 +346,7 @@ It's a good idea get feedback from as many different sources as you can on your 
 knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png")
 ```
 
-(ref:captionmachines) Although they typically struggle to get up the stairs and don't drive history the way humans do, resume robots are likely to play an important role in any decisions to invite you to a job interview. Make sure your CV is resume robot friendly. [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionmachines) Although they often struggle to get up the stairs and don't drive history the way humans do, resume robots are likely to play an important role in any decisions to invite you to a job interview, especially if you're applying to bigger companies. Make sure your CV is resume robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't identify it. Some things to check with automated CV screens:
 
@@ -411,9 +411,16 @@ A quick check-list of commons bugs
 1. Have you distinguished between paid and unpaid or voluntary work?
 
 ## Covering letters
+CV's are often accompanied by covering letters. Whereas your CV is just a bulleted list of facts and statements your CV gives you a chance to really demonstrate your written communication skills in [prose](https://en.wikipedia.org/wiki/Prose) rather than short sharp facts. Lets say you're applying for a widget engineering position at BigWidget. There are three things you need to cover in approximately this order
 
-<!--see appending
-https://community.rstudio.com/t/appending-a-pre-existing-pdf-to-a-new-created-by-r-markdown/45641/6-->
+1. Why them? Why are you applying to Big Widget
+1. Why widget engineering? There are lots of different roles at BigWidget, what is it about widget engineering that attracts you?
+1. Why you? Why should they employ you, what makes you stand out from other candidates. What is your USP?
+
+### Does anyone actually read covering letters? {#elevatorpitch}
+Some employers will read them carefully, some less so.
+
+Even if nobody reads your covering letter, its still worth writing one because it forces you to rehearse standard interview questions shown above
 
 ## Debugging summary {#tldr7}
 
