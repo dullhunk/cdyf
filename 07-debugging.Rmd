@@ -143,11 +143,11 @@ knitr::include_graphics("images/alan-turing-header.png")
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have five sections that cover the following:
 
-1. Education
-1. Experience
-1. Projects
-1. Activities (and leadership)
-1. Awards and honours
+1. Education: the formal stuff 🎓
+1. Experience: paid work 💰 
+1. Projects: side, social or University projects 💪
+1. Activities and leadership 👑
+1. Awards and honours 🏆
 
 Let's look at each of these sections:  
 
@@ -191,7 +191,7 @@ They will most likely be unpaid because paid work fits better in [your experienc
 knitr::include_graphics("images/feynman.png")
 ```
 
-(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard. Side projects are a great way to do this. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard. Personal side projects and University projects are a great way to create new things in order to understand them. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 Another good source of projects is to [fix a bug in an open source project](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749). It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the toolchain being used (which might be complex) and solve problems.
 
@@ -238,15 +238,14 @@ Having looked at the sections you're likely to have, we'll take a birds eye view
 
 Making your CV look good can take ages, but a well presented CV will stand out. While its worth making an effort to style carefully and consisistenly, you need to be be wary of the huge time sink of [typography](https://en.wikipedia.org/wiki/Typography).
 
-Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`
-
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
 ```
-
 (ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are interviewed, so its important to spend time getting it right. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX: latex4year1](https://latex4year1.netlify.app/) if you've not used LaTeX before.
+Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`
+
+It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX: LaTeX4year1](https://latex4year1.netlify.app/) if you've not used LaTeX before. [@latex4year1]
 
 ### Your context, action and results {#carstar}
 
@@ -330,7 +329,7 @@ knitr::include_graphics("images/lovelace-linkedin.png")
 ```
 (ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default random alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http::`, forward slashes  `//` and `www` in URLs which are distracting noise. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
 
-Besides LinkedIn you can include public profiles from [github](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), [@stackoverflow] [devpost](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank](https://www.hackerrank.com/leaderboard). You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They will Google you.
+Besides LinkedIn you could include public profiles from [github](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), [@stackoverflow] [devpost](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank](https://www.hackerrank.com/leaderboard). You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional.
 
 <!--## Compare and contrast CV and LinkedIn-->
 

@@ -24,15 +24,22 @@ knitr::include_graphics("images/Coding your future - Title.png")
 ```
 Welcome to Coding Your Future, the guidebook that will help you to design, build, test, debug and code your future in computing. This guidebook is aimed at students in higher education, both those studying Computer Science as part of their degree or those from other disciplines with an interest in computing.
 
-The content happens to support second year teaching at the University of Manchester, it doesn't matter what stage of your undergraduate or postgraduate study you are, what you're studying or where you are studying it. There's something here for everybody.
+The guidebook supports second year teaching at the University of Manchester, but it doesn't matter:
+
+* what *stage* of your University study you are at, from first to final
+* what *level* you are studying at, undergraduate or postgraduate
+* what *subject* you are studying, so long as you are curious about computing
+* what *institution* you are studying at, this book is University agnostic
+
+There's something here for everybody.
 
 <!--todo check github-repo-->
 
 ## Aims of this guidebook
 
-This explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
+So *coding your future* explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
 
-Alongside the practical engineering issues of *coding your future*, this book also encourages you to *design your future* by reflecting on the bigger picture. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people and what your experience is to date. As there is a computational theme, you'll also need to reflect on what your inputs and outputs ([I/O](https://en.wikipedia.org/wiki/Input/output)) are, both now and in the future. You'll also need the think about what recipes (or algorithms) you might start experimenting with.
+Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people and what your experience is to date. As there is a computational theme, you'll also need to reflect on what your inputs and outputs ([I/O](https://en.wikipedia.org/wiki/Input/output)) are, both now and in the future. You'll also need the think about what recipes (or algorithms) you might start experimenting with.
 
 So this guidebook tackles professional issues in computing, for those with and without Computer Science degrees in the early stage of their careers.
 
@@ -45,9 +52,9 @@ After reading this guidebook, watching the videos and doing the exercises you wi
 1. Improve your self-awareness by describing who you are, what motivates you and your strengths and weaknesses
 1. Decide on a job search strategy and identify employers, sectors and roles that are of interest to you		
 1. Improve your written communication skills both for job applications and collaborating with other people
-1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles.	 	
+1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
 1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
-1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals.
+1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
 
 This book will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter six [Computing Your Future](#computing).
 
@@ -148,7 +155,7 @@ Each chapter of the book contains the following sections:
 The content of this book is based on hundreds of conversations I have had with (mostly) Computer Science students and their employers since 2012. I've also had significant support from academic colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)) and support staff at the University of Manchester. ([\@ManUniCareers](https://twitter.com/ManUniCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
 
 ### Thanks to students {#students}
-First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly. I can't name you all but if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you for being ambitious, hard working, talented, fearless, creative and inspiring! It's been a pleasure and a privilege working with you all.
+First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly. I can't name you all but if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you for being ambitious, hard working, talented, fearless, creative and inspirational! It has been a pleasure and a privilege working with you all.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
@@ -194,9 +201,9 @@ Special thanks to Sharif Salah at Google for introducing me to Google's Technica
 So, thanks employers for employing our students. 🙏
 
 ### Thanks to colleagues {#colleagues}
-I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking but it turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
+I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking (about the book) but it turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
 
-Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this book and the environment it was written in. They include (in alphabetical order) Sophia Ananiadou, Sam Bail, Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Rupert Blackstone, Stewart Blakeway, Petrut Bogdan, Andy Bridge, Andy Brass, Gavin Brown, Angelo Cangelosi, Peter Capon, Andy Carpenter, Barry Cheetham, Ke Chen, Sarah Clinch, Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Suzanne Embury, Michael Emes, Alvaro Fernandes, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Chris Gilbert, Danielle George, Richard Giordano, Carole Goble, Antoon Goderis, Roy Goodacre, Bernardo Cuenca Grau, Peter Green, Keith Gull, John Gurd, Lucy Harris, Robert Haines, Guy Hanke, Simon Harper, Jonathan Heathcote, Gareth Henshall, Matthew Horridge, Ian Horrocks, Toby Howard, Roger Hubbold, Jules Irenge, Daniel Jameson, Caroline Jay, Mirantha Jayathilaka, Huw Jones, John Keane, Douglas Kell, Joshua Knowles, Dirk Koch, Alice Larkin, Peter Lammich, John Latham,  Kung-Kiu Lau, Dave Lester, Peter Li, Zewen Liu, Phil Lord, Mikel Lujan, Boris Motik, Christoforos Moutafis, Vanessa McQuillan, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Steve Oliver, Mario Ramirez Orihuela, Pavlos Petoumenos, Jac Potter, Malcolm Press, Colin Puleston, Paul Nutter, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, Graham Riley, Ulrike Sattler, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schelgel, Renate Schmidt, Jonathan Shapiro, Bushra Sikander, Stian Soiland-Reyes, Liz Sheffield, Bushra Sikander, Ahmed Saeed, Kieran Smallbone, Robert Stevens, Neil Swainston, Paul Taplin, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, Jake Vasilakes, Laura Vasques, Markel Vigo, Louise Walker, Alex Walker, Sarah White, Dieter Wiechart, Natalie Wood, Igor Wodiany, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan XuViktor Yarmolenko, Xiao-Jun Zeng, Jun Zhao, Liping Zhao and Ning Zhang.
+Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this guidebook and the environment it was written in. They include (in alphabetical order) Sophia Ananiadou, Sam Bail, Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Rupert Blackstone, Stewart Blakeway, Petrut Bogdan, Caroline Bowsher, Andy Bridge, Andy Brass, Gavin Brown, Grant Campbell, Angelo Cangelosi, Peter Capon, Andy Carpenter, Barry Cheetham, Ke Chen, Sarah Clinch, Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Suzanne Embury, Michael Emes, Alvaro Fernandes, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Chris Gilbert, Danielle George, Richard Giordano, Carole Goble, Antoon Goderis, Roy Goodacre, Bernardo Cuenca Grau, Peter Green, Keith Gull, John Gurd, Lucy Harris, Robert Haines, Guy Hanke, Simon Harper, Jonathan Heathcote, Gareth Henshall, Andrew Horn, Matthew Horridge, Ian Horrocks, Toby Howard, Roger Hubbold, Jules Irenge, Daniel Jameson, Caroline Jay, Mirantha Jayathilaka, Huw Jones, John Keane, Douglas Kell, Joshua Knowles, Dirk Koch, Alice Larkin, Peter Lammich, John Latham,  Kung-Kiu Lau, Dave Lester, Peter Li, Zewen Liu, Phil Lord, Mikel Lujan, Boris Motik, Christoforos Moutafis, Vanessa McQuillan, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Steve Oliver, Mario Ramirez Orihuela, Pavlos Petoumenos, Jac Potter, Malcolm Press, Colin Puleston, Paul Nutter, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, Graham Riley, Danielle Ryding, Ulrike Sattler, Ahmed Saeed, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schelgel, Renate Schmidt, Jonathan Shapiro, Elaine Sheehan, Liz Sheffield, Bushra Sikander, Bushra Sikander, Stian Soiland-Reyes, Kieran Smallbone, Robert Stevens, Neil Swainston, Paul Taplin, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, Jake Vasilakes, Laura Vasques, Markel Vigo, Louise Walker, Alex Walker, Sarah White, Dieter Wiechart, Natalie Wood, Igor Wodiany, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan XuViktor Yarmolenko, Xiao-Jun Zeng, Jun Zhao, Liping Zhao and Ning Zhang.
 
 
 Optimists will tell you that “everyone has a book in them...”, although pessimists like [Christoph Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's where it should remain”. [@everyone] Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-fig), I am an optimist when it comes to the power of natural languages.
@@ -209,7 +216,9 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 (ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
 
-Thanks also to the fantastic support staff (past and present) from professional services who make all the magic of teaching and learning possible: Jennie Ball-Foster, Karen Butterworth, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Iain Hart, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Karon Mee, Anne Milligan, Rachel Mutters, Chris Page, Melanie Price, Chris Rhodes, Angela Standish, Bernard Strutt, Jannine Thomas, Elizabeth Wilkinson, Sarah White, Andrew Whitmore, Mabel Yau and Wendy. We all love Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) ✊🏽
+Thanks also to the fantastic support staff (past and present) from professional services who make all the magic of teaching and learning possible: Jennie Ball-Foster, Karen Butterworth, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Iain Hart, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Karon Mee, Anne Milligan, Rachel Mutters, Chris Page, Melanie Price, Chris Rhodes, Angela Standish, Bernard Strutt, Jannine Thomas, Elizabeth Wilkinson, Sarah White, Andrew Whitmore and Mabel Yau.
+
+And Wendy, we all miss and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) ✊🏽
 
 So, thank you to colleagues for being collegiate. You all make the University of Manchester a great place to be, even during a global pandemic. 🙏
 
@@ -233,7 +242,7 @@ So, thanks influencers for being influential. 🙏
 
 ### Thanks to githubbers {#github}
 
-Thanks to everyone who's contributed via github. I will credit *any* github contributors here, small or large. Even the typos, it all counts. I've left some deliberate typos in so you can easily add yourself on the list of contributors. 😉
+Thanks to everyone who has contributed via github. I will credit *any* github contributors here, small or large. Even the typos, it all counts. I've left some deliberate mistakes in so you can easily add yourself to this roll call by correcting them. 😉
 
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -307,5 +316,5 @@ This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify
 
 Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)
 
-
+So that I've dispensed with the formalities, let's look at why should you bother reading this guidebook?
 <!--knitr::include_url("http://www.cs.man.ac.uk/~hulld")-->
