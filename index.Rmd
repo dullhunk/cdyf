@@ -72,9 +72,7 @@ I don't recommend you read this book from cover to cover in one sitting. Instead
 > “You don't READ books, you GUT them!” [@nabend] 🐟
 
 So, gut this book like a fish. Identify the chapters that are most useful to you (the flesh), and skip the rest (the guts). Which chapters are flesh and which are guts will depend on what stage of the journey you are at. This guidebook is designed to be as “guttable” as possible.
-To aid gutting, the version published at [cdyf.me](https://www.cdyf.me/) has a built in search and tables of contents.
-
-This guidebook is split into three parts, the first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) which are shown in Figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for supporting your future.
+To aid gutting, the version published at [cdyf.me](https://www.cdyf.me/) has a built in search and tables of contents. Before you can gut the fish, you'll need a map.
 
 <!-- how to embed tweets
 ```{r echo=FALSE}
@@ -92,14 +90,15 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 ```
 -->
 
+
+## Mapping your future {#mapping}
+<!-- or should it be structuring-->
+This guidebook is split into three parts, the first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) which are shown in the map in Figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for supporting your future. Let's look in a bit more detail at the content of each of the three parts of this guidebook:
+
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map.png")
 ```
 (ref:captionmapping) Mapping your future: Each yellow dot on this diagram is a chapter in *Coding Your Future*. The chapters on the left tackle design issues like *who are you*? Chapters on the right tackle the practicalities of executing and testing your career choices, such as *debugging your CV*. Mapping your Future artwork by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-## Structuring your future {#structure}
-
-Let's look in a bit more detail at the content of each of the three parts of this guidebook:
 
 
 ### Designing your future {#parti}
@@ -155,7 +154,7 @@ Each chapter of the book contains the following sections:
 The content of this book is based on hundreds of conversations I have had with (mostly) Computer Science students and their employers since 2012. I've also had significant support from academic colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)) and support staff at the University of Manchester. ([\@ManUniCareers](https://twitter.com/ManUniCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
 
 ### Thanks to students {#students}
-First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly. If you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you for being ambitious, hard working, talented, fearless, creative and inspirational! It has been a pleasure and a privilege working with you all.
+First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly. If you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a good chance you have contributed to this book. Thank you for listening, watching, being ambitious, hard working, talented, fearless, creative and inspirational! It has been my pleasure and privilege to work with you all.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
@@ -203,7 +202,7 @@ So, thanks employers for employing our students. 🙏
 ### Thanks to colleagues {#colleagues}
 I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking (about the book) but it turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
 
-Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this guidebook and the environment it was written in. They include (in alphabetical order) Sophia Ananiadou, Sam Bail, Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Rupert Blackstone, Stewart Blakeway, Petrut Bogdan, Caroline Bowsher, Andy Bridge, Andy Brass, Gavin Brown, Grant Campbell, Angelo Cangelosi, Peter Capon, Andy Carpenter, Barry Cheetham, Ke Chen, Sarah Clinch, Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Suzanne Embury, Michael Emes, Alvaro Fernandes, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Chris Gilbert, Danielle George, Richard Giordano, Birte Glimm, Carole Goble, Antoon Goderis, Roy Goodacre, Bernardo Cuenca Grau, Peter Green, Keith Gull, John Gurd, Lucy Harris, Robert Haines, Guy Hanke, Simon Harper, Jonathan Heathcote, Gareth Henshall, Andrew Horn, Matthew Horridge, Ian Horrocks, Toby Howard, Roger Hubbold, Jules Irenge, Daniel Jameson, Caroline Jay, Mirantha Jayathilaka, Huw Jones, John Keane, Douglas Kell, Joshua Knowles, Dirk Koch, Alice Larkin, Peter Lammich, John Latham, Kung-Kiu Lau, Dave Lester, Peter Li, Zewen Liu, Phil Lord, Mikel Lujan, Boris Motik, Christoforos Moutafis, Vanessa McQuillan, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Steve Oliver, Mario Ramirez Orihuela, Stuart Owen, Pavlos Petoumenos, Jac Potter, Malcolm Press, Colin Puleston, Paul Nutter, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, Graham Riley, Danielle Ryding, Ulrike Sattler, Ahmed Saeed, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schlegel, Renate Schmidt, Jonathan Shapiro, Elaine Sheehan, Liz Sheffield, Bushra Sikander, Bushra Sikander, Stian Soiland-Reyes, Kieran Smallbone, Robert Stevens, Neil Swainston, Paul Taplin, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, Jake Vasilakes, Laura Vasques, Markel Vigo, Louise Walker, Alex Walker, Dieter Wiechart, Natalie Wood, Igor Wodiany, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan Xu, Viktor Yarmolenko, Yeliz Yesilada, Serafeim Zanikolas, Xiao-Jun Zeng, Jun Zhao, Liping Zhao, Ning Zhang and Evgeny Zolin.
+Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this guidebook and the environment it was written in. They include (in alphabetical order) Sophia Ananiadou, Sam Bail, Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Rupert Blackstone, Stewart Blakeway, Petrut Bogdan, Caroline Bowsher, Andy Bridge, Andy Brass, Gavin Brown, Grant Campbell, Angelo Cangelosi, Peter Capon, Andy Carpenter, Barry Cheetham, Ke Chen, Sarah Clinch, Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Anas Elhaig, Suzanne Embury, Michael Emes, Alvaro Fernandes, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Chris Gilbert, Danielle George, Richard Giordano, Birte Glimm, Carole Goble, Antoon Goderis, Roy Goodacre, Bernardo Cuenca Grau, Peter Green, Keith Gull, John Gurd, Lucy Harris, Robert Haines, Guy Hanke, Simon Harper, Jonathan Heathcote, Gareth Henshall, Andrew Horn, Matthew Horridge, Ian Horrocks, Toby Howard, Roger Hubbold, Jules Irenge, Daniel Jameson, Caroline Jay, Mirantha Jayathilaka, Huw Jones, John Keane, Douglas Kell, Joshua Knowles, Dirk Koch, Alice Larkin, Peter Lammich, John Latham, Kung-Kiu Lau, Dave Lester, Peter Li, Zewen Liu, Phil Lord, Mikel Lujan, Boris Motik, Christoforos Moutafis, Vanessa McQuillan, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Steve Oliver, Mario Ramirez Orihuela, Stuart Owen, Pavlos Petoumenos, Jac Potter, Malcolm Press, Colin Puleston, Paul Nutter, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, Graham Riley, Danielle Ryding, Ulrike Sattler, Ahmed Saeed, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schlegel, Renate Schmidt, Jonathan Shapiro, Elaine Sheehan, Liz Sheffield, Bushra Sikander, Bushra Sikander, Stian Soiland-Reyes, Kieran Smallbone, Robert Stevens, Neil Swainston, Paul Taplin, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, [Tony Trinci](https://www.theguardian.com/science/2020/nov/10/tony-trinci-obituary), Jake Vasilakes, Laura Vasques, Markel Vigo, Andrei Voronkov, Louise Walker, Alex Walker, Dieter Wiechart, Natalie Wood, Igor Wodiany, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan Xu, Viktor Yarmolenko, Yeliz Yesilada, Serafeim Zanikolas, Xiao-Jun Zeng, Jun Zhao, Liping Zhao, Ning Zhang and Evgeny Zolin.
 
 
 Optimists will tell you that “everyone has a book in them...”, although pessimists like [Christoph Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's where it should remain”. [@everyone] Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-fig), I am an optimist when it comes to the power of natural languages.
@@ -268,9 +267,9 @@ So, thanks githubbers for pulling, adding, committing and pushing. 🙏
 
 
 ### Thanks to Bryan Mathers {#visualthinkery}
-Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/). Bryan is an artist, visual thinker and entrepreneur, who also happens to have a Bachelors degree in Computer Science from the University of Glasgow. His combined skills in art and science made him a the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com).
+Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/). Bryan is an artist, visual thinker and entrepreneur, who also happens to have a Bachelors degree in Computer Science from the University of Glasgow. His combined skills in art and science made him a the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm so glad we randomly bumped into each other at a conference.
 
-So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery. I'm so glad we bumped into each other. 🙏
+So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thanks to my friends {#friends}  
 Thanks to my friends, especially those who I've enjoyed singing, live music and dancing with. I hope we can sing and dance together to live music again before too long.
@@ -286,7 +285,7 @@ So, thanks to all my family for your unconditional love. Σε αγαπώ παρ�
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for students at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
 
-So what's *my* story? Like many people, my path has been what Helen Tupper [\@HelenTupper](HelenTupper) and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, consultant, matchday steward, juror, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
+So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “squiggly career” rather than classic linear one. [@squiggly] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, consultant, matchday steward, juror, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
 
 I've done a range of voluntary work too, serving as a competition judge, fundraiser, rabble rouser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/) and editor. But as Ronnie Lane and Ronnie Wood once said:
 
