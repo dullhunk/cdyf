@@ -28,16 +28,16 @@ knitr::include_graphics("images/Rabbit-hole.png")
 ## What you will learn {#ilo1}
 After reading this chapter you will be able to:
 
-* Decide which  parts of this book you are going to read
-*	Identify which chapters are most useful to you
+* Identify and decide which parts of this book you are going to read
 * Set your expectations for using this guidebook
+* Travel down the rabbit hole into the underworld of work
 
 
 ## Let's go down the rabbit hole {#wonderland}
 
-In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice follows a [white rabbit](https://en.wikipedia.org/wiki/White_Rabbit) down a hole. What she discovers is a strange underground world populated by weird and wonderful characters. The world of work can sometimes be like an adventure in wonderland.
+In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice follows a [white rabbit](https://en.wikipedia.org/wiki/White_Rabbit) down a hole. What she discovers is a strange underground world populated by weird and wonderful characters. The world of work can sometimes be a mysterious underworld where you adventure in wonderland accompanied by colourful characters.
 
-You will spend lots of time in this wonderland, potentially as much as 80,000 hours of your life. [@iip1; @iip2] So join us down the rabbit hole, it's fun honest, and sooner or later you'll have come down here anyway.
+You will spend lots of time in this wonderland, potentially as much as 80,000 hours of your life. [@iip1; @iip2] So join me down the rabbit hole, it's fun honest, and sooner or later you'll have come down here anyway.
 
 <!-- popular languages https://spectrum.ieee.org/at-work/tech-careers/top-programming-language-2020 -->
 
@@ -46,12 +46,12 @@ When [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) st
 
 > “Nobody cares about your career except you.” ---Anon [@andystanfordclark]
 
-Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the code).
+Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the code). The sooner you get coding the better.
 
 At University, there are lots of people can help design and build your future: peers, academic staff, friends, your careers service, employers and your wider network but ultimately it is *your* responsibility to sort out whatever comes next. That might sound obvious but don't wait for somebody else to do it for you, because it probably won't happen.
 
 ## Your degree is not enough {#entitled}
-You've worked hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying whatever it is you are studying at University.
+You've worked incredibly hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying whatever it is you are studying at University.
 
 Under these circumstances, you might be tempted to believe that the world owes you something in return for your hard work. Unfortunately that's not the case.
 
@@ -64,9 +64,9 @@ What **will** distinguish you from your competitors will be your [experience](ex
 https://www.independent.co.uk/news/education/education-news/ey-firm-says-it-will-not-longer-consider-degrees-or-a-level-results-when-assessing-employees-10436355.html
 -->
 
-1. There are more graduates, the UK for example recently passed the milestone of 50% of young people going into higher education. This compares to 15% of over 18s who stayed in higher education in 1980 [@lotsofgrads]
+1. There are more and more graduates, the UK for example recently passed the milestone of 50% of young people going into higher education. This compares to just 15% of over 18s who stayed in higher education in 1980 [@lotsofgrads]
 1. The increase in the number of graduate schemes and graduate jobs has not kept pace with this growth in graduates which means that each graduate job or graduate scheme has more and more graduates applying for it
-1. There are lots of graduates in your discipline, for example around 9,000 every year in Computer Science alone. What makes you different?
+1. There are lots of graduates in your discipline, for example around 9,000 every year in Computer Science alone in the UK. What makes you different from the other 8,999 computer scientists graduating in your year?
 
 <!--
 
@@ -95,7 +95,7 @@ ggplot(data = lotsofgrads) +
 
 > Computing is one of the largest subject areas in UK higher education, and is taught in almost every institution, graduating around 9,000 students every year --Sally Fincher [@fincherreview]
 
-Don't be disillusioned by the statistics because a degree can open doors to many careers in computing. What the data in Figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look beyond your formal education to distinguish yourself from the competition. Your degree can certainly help you start a career, but it is typically not enough by itself.
+Now, don't be disillusioned by the statistics because a degree can open doors to many careers in computing. What the data in Figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look beyond your formal education to distinguish yourself from your competition. Your degree can certainly help you start a career, but it is typically not enough by itself.
 
 ## Maximise the return on your investment {#roi}
 Studying at University is a significant investment of your time and money. Hopefully, you've picked a subject that stimulates and challenges you intellectually while allowing you to find and develop your unique talents. But there's another reason that you probably chose to study at University and that was to improve your job prospects. This guidebook will:
@@ -104,15 +104,15 @@ Studying at University is a significant investment of your time and money. Hopef
 1. Give you an overview of important professional issues that are sometimes neglected or sidelined in University curricula
 1. Highlight and review essential resources beyond this guidebook that will help with the above
 
-All of the resources that can help you are scattered around in lots of different places. There are books, videos, podcasts, websites, jobs boards, online courses, blogs, social media, newspaper columns, journal articles, marketing material and many other good resources. It can be overwhelming.
+All of the resources that can help you are scattered around in lots of different places. There are books, there are videos, there are podcasts, there are websites and jobs boards. There are online courses, blogs, social media, newspaper columns, journal articles, marketing material and many other good resources. It can be overwhelming.
 
 ## Too late when you graduate {#thisstuffmatters}
 
-You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment, exam, semester and year. Procrastination is a part of the human condition:
+You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. Procrastination is a part of the human condition:
 
 >  “I'll get my degree out of the way first then worry about jobs and careers when I finish University” --P. Crastinator
 
-It probably doesn't help that many of issues described and discussed in this book are typically not closely integrated into the curriculum in Higher Education. You'll often find them on the edges, or completely outside of, standard University curricula. Broadly speaking, the professional issues described in this book are usually covered by pastoral support systems, counselling services, careers services, student unions and their societies, trade organisations or professional societies.
+It probably doesn't help that many of issues described and discussed in this book are typically not closely integrated into the curriculum in Higher Education. You'll often find them on the edges, or completely outside of, standard University curricula. Broadly speaking, the professional issues described in this book are usually covered by pastoral support systems, counselling services, careers services, trade organisations, professional bodies, student unions and their societies,.
 
 Despite being sidelined, these issues matter and it is in your own selfish interests to start thinking about them right now. According to recent estimates by *Investors in People*, the average person spends **80,000 hours** working during their lifetime. [@iip2] So, *whatever* you end up doing after University, you'll be spending a lot of time doing it. Difficult decisions often get sidelined but it is never too early to start thinking about them and doing something. The sooner you start thinking about them the better decisions you'll make about what comes next. It's too late when you graduate.
 
@@ -246,6 +246,8 @@ You are reading the alpha version, the [Minimum Viable Product](https://en.wikip
 * Your [suggestions for improvements and corrections, via github etc]({#joinus})
 
 I'm taking a [Release Early, Release Often](https://en.wikipedia.org/wiki/Release_early,_release_often) [@Raymond1999] approach to publishing this guidebook, you could call it agile book development. [@realagile]
+
+https://twitter.com/psd/status/568324759521501184
 
 ### I'm deliberately writing in first person narrative
 A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. Where relevant, I've told stories to illustrate key points.
