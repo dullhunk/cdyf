@@ -108,7 +108,7 @@ All of the resources that can help you are scattered around in lots of different
 
 ## Too late when you graduate {#thisstuffmatters}
 
-You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. Procrastination is a part of the human condition:
+You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. Procrastination is a part of the human condition [@procrastination]:
 
 >  “I'll get my degree out of the way first then worry about jobs and careers when I finish University” --P. Crastinator
 
@@ -250,7 +250,7 @@ I'm taking a [Release Early, Release Often](https://en.wikipedia.org/wiki/Releas
 https://twitter.com/psd/status/568324759521501184
 
 ### I'm deliberately writing in first person narrative
-A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. Where relevant, I've told stories to illustrate key points.
+A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told stories to illustrate key points.
 
 ### There is no paywall {#openaccess}
 You don't need to pay anything to read this book online because its openly available, see the [license terms](#licensing) (CC-BY-NC-ND). Publishing this guidebook online makes it findable and accessible, something that isn't true of lots of knowledge locked up inside books.
@@ -277,13 +277,11 @@ This book is not just  words and pictures, but includes audio and video as well,
 
 I have tried to make this guidebook as engaging as possible. If you look at careers literature, a lot of it can unfortunately be rather dry, dull, textbooky and boring with little or no illustration. I've tried to make the content of this book as engaging as possible. If you think it can be improved, [let me know](#joinus). I always welcome constructive feedback, especially when it comes via a pull request.
 
-<!--As [Jean Luc Picard](https://en.wikipedia.org/wiki/Jean-Luc_Picard) would say, engage! 🚀
-In contrast, *Coding Your Future* has images, cartoons, graphs, tweets, animations, emojis and videos where appropriate. There is audio and there are exercises for you to do by yourself and with others.
+
 ```{r tweet-from-fonikh,echo=FALSE}
 library(tweetrmd)
 include_tweet("https://twitter.com/FonikhSoupia/status/1285742247711997954")
 ```
--->
 
 
 ## Signposts from here {#sign1}
