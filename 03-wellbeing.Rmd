@@ -54,13 +54,17 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 
 ## Look after yourself
-Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise and friends. Looking after yourself means being mindful of your feelings (or inner critic) and deliberately scheduling time to do the non-work things that matter.
+Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise and friends. Looking after yourself means at least three things:
+
+* being mindful of your feelings especially your inner critic
+* being kind to yourself
+* deliberately scheduling protected time to do the non-work things that matter.
 
 ```{r lookafter-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionlookafter)"}
 knitr::include_graphics("images/Look after yourself.png")
 ```
 
-(ref:captionlookafter) Look after yourself by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionlookafter) It's important not to neglect your body, mind, soul and social life when you're working hard. Look after yourself by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Psychologist Laurie Santos describes five evidence-based strategies for coping when times are really challenging and tough in the video in figure \@ref(fig:laurie-fig). Those strategies are:
 
@@ -68,11 +72,15 @@ Psychologist Laurie Santos describes five evidence-based strategies for coping w
 1. Gratitude: research shows that being grateful can significantly improve your mental health. One way to do this is by keeping a gratitude journal, a log you fill in everyday of things you are grateful for (either small or big)
 1. Sleep: actively developing healthier sleep patterns. Poor sleep hygiene can be both cause and effect of poor mental health. See the discussion of *Why we sleep* [@whywesleep] in the [signposts section below](#signposts3)
 1. Get social: prioritise time with friends and family, rather than turning inward or diving deeper into work
-1. Mindfulness: be mindful of emotions using the R.A.I.N technique
+1. Mindfulness: be mindful of emotions using the R.A.I.N. technique:
     * **R**ecognise: negative emotions
     * **A**ccept: accept emotions rather than fighting them
     * **I**nvestigate: notice how the emotion feels inside your body
     * **N**urture: be kind to yourself
+
+Laurie explains the R.A.I.N. technique in
+
+<!-- also woop my life     -->
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kCQim9VrnDY" frameborder="0" allowfullscreen></iframe>

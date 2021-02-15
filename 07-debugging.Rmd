@@ -201,13 +201,15 @@ If you've done group projects at University, be sure to mention them. Try to be 
 * “Second year team project”
 * “Final year project”
 
-Those project names are pretty opaque and don't give the reader much to go on. What was the [context, action and result (CAR)](#carstar) of the project? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute? This is all excellent CV fodder.
+Those project names are pretty opaque and don't give the reader much to go on. What was the [context, action and result (CAR)](#carstar) of the project? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
 
-It's often a good idea to describe what YOU did before you describe what the software or hardware did. e.g. you could reverse the order of this:
+**This is all excellent CV fodder!**
+
+It's often a good idea to describe what YOU did before you describe what the software, hardware or project did. e.g. reversing the order of this list emphasises what YOU did, rather than what the SOFTWARE did
 
 * WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client
 * Tested WidgetWasher on a range of different operating systems and devices
-* Designed and implemented the API which was build using Flask in Python, pair programming with one other collaborator for two days at a hackathon
+* Designed and implemented the API which was build using a RESTful, pair programming with one other collaborator for two days at a hackathon
 
 Your reader is likely to be more interested in what YOU did, rather than what the software (or hardware) that you built did. So in this example, I'd start with the verbs *designed*, *implemented*, *tested* before saying what WidgetWasher
 
@@ -335,7 +337,7 @@ Besides LinkedIn you could include public profiles from [github](https://docs.gi
 
 ### Robot proof your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers etc before using these free services. You might also want to check what the services privacy policy says about what they do with you data. Resume robots include: 
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers etc before using these free services. You might also want to check what the services privacy policy says about what they do with you data. Resume robots include:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 * [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV
