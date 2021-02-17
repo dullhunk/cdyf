@@ -1,0 +1,2012 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.2)  17 FEB 2021 22:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cdyf.tex
+(./cdyf.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/Users/duncan/Library/Ti
+nyTeX/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen139
+)) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks16
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks17
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.s
+ty (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.d
+ef
+File: l3backend-xetex.def 2020-01-29 L3 backend support: XeTeX
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count194
+\l__color_backend_stack_int=\count195
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-x
+etex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.st
+y
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-ge
+neric.tex))
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2
+e.sty
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) 
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count277
+\g__um_fonts_used_int=\count278
+\l__um_primecount_int=\count279
+\g__um_primekern_muskip=\muskip17
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-t
+able.tex))) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.s
+ty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys
+.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count282
+Package hyperref Info: Option `unicode' set `true' on input line 4338.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count283
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen152
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count284
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box50
+\c@Hy@AnnotLevel=\count288
+\HyField@AnnotCount=\count289
+\Fld@listcount=\count290
+\c@bookmark@seq@number=\count291
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfileche
+ck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecount
+er.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count292
+\LTcapwidth=\dimen155
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@cols=\count293
+\LT@rows=\count294
+\c@LT@tables=\count295
+\c@LT@chunks=\count296
+\LT@p@ftn=\toks21
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count297
+\@cmidlb=\count298
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count299
+\@lastruleclass=\count300
+\@thisrulewidth=\dimen168
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count303
+\calc@Cskip=\skip59
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count304
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box55
+\fn@width=\dimen171
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box56
+\UL@hyphenbox=\box57
+\UL@skip=\skip60
+\UL@hook=\toks22
+\UL@height=\dimen174
+\UL@pe=\count305
+\UL@pixel=\dimen175
+\ULC@box=\box58
+Package: ulem 2019/11/18
+\ULdepth=\dimen176
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip61
+\bibsep=\skip62
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count306
+)
+No file cdyf.aux.
+\openout1 = `cdyf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 85.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 85.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 85.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 85.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 85.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
+(fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
+(fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
+(fontspec)             \fontdimen 13\font =3.63pt\relax \fontdimen 14\font
+(fontspec)             =3.63pt\relax \fontdimen 15\font =2.89pt\relax
+(fontspec)             \fontdimen 16\font =2.47pt\relax \fontdimen 17\font
+(fontspec)             =2.47pt\relax \fontdimen 18\font =2.5pt\relax
+(fontspec)             \fontdimen 19\font =2.0pt\relax \fontdimen 22\font
+(fontspec)             =2.5pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
+ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
+.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
+t=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 85.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 85.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
+(fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
+(fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 8
+5.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 85.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 85.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 85.
+Package hyperref Info: Link coloring OFF on input line 85.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlest
+ring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count307
+)
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
+\@outlinefile=\write3
+\openout3 = `cdyf.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 87.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+7.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.0011pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00073pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 87.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 87.
+
+Overfull \hbox (177.45607pt too wide) in paragraph at lines 87--87
+ [][] 
+ []
+
+[1
+
+
+] [2
+
+]
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write4
+\openout4 = `cdyf.toc'.
+
+[3] [4
+
+]
+File: images/Coding your future - Title.png Graphic file (type bmp)
+<images/Coding your future - Title.png>
+Missing character: There is no 🌎 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🌍 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🌏 in font [lmroman10-regular]:mapping=tex-text;!
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+[6]
+
+Package natbib Warning: Citation `nabend' on page 7 undefined on input line 179
+.
+
+Missing character: There is no 🐟 in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Warning: Reference `fig:map-fig' on page 7 undefined on input line 188.
+
+File: images/Course Map.png Graphic file (type bmp)
+<images/Course Map.png>
+[7] [8] [9]
+
+Package natbib Warning: Citation `newton' on page 10 undefined on input line 29
+5.
+
+File: images/bbcbreakfastsofa.png Graphic file (type bmp)
+<images/bbcbreakfastsofa.png>
+[10]
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+
+Package natbib Warning: Citation `googling' on page 11 undefined on input line 
+320.
+
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+[11]
+
+Package natbib Warning: Citation `everyone' on page 12 undefined on input line 
+333.
+
+
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+[12]
+
+LaTeX Warning: Reference `fig:hitchens-fig' on page 13 undefined on input line 
+335.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+Package natbib Warning: Citation `everyone' on page 13 undefined on input line 
+343.
+
+
+Package natbib Warning: Citation `everyone' on page 13 undefined on input line 
+343.
+
+Missing character: There is no ✊ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🏽 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+
+Package natbib Warning: Citation `techcareer' on page 13 undefined on input lin
+e 362.
+
+
+Package natbib Warning: Citation `cracking' on page 13 undefined on input line 
+362.
+
+
+Package natbib Warning: Citation `crackingpm' on page 13 undefined on input lin
+e 362.
+
+
+Package natbib Warning: Citation `crackingthepmcareer' on page 13 undefined on 
+input line 362.
+
+
+Package natbib Warning: Citation `xie2017' on page 13 undefined on input line 3
+64.
+
+
+Package natbib Warning: Citation `xie2015' on page 13 undefined on input line 3
+64.
+
+
+Package natbib Warning: Citation `xie2020' on page 13 undefined on input line 3
+64.
+
+
+Package natbib Warning: Citation `fincherreview' on page 13 undefined on input 
+line 366.
+
+
+Package natbib Warning: Citation `r4ds' on page 13 undefined on input line 368.
+
+
+
+Package natbib Warning: Citation `lauriesantos' on page 13 undefined on input l
+ine 370.
+
+[13]
+
+Package natbib Warning: Citation `jonathanblack' on page 14 undefined on input 
+line 372.
+
+
+Package natbib Warning: Citation `ft' on page 14 undefined on input line 372.
+
+
+Package natbib Warning: Citation `cs50' on page 14 undefined on input line 374.
+
+
+
+Package natbib Warning: Citation `cs50mcr' on page 14 undefined on input line 3
+74.
+
+
+Package natbib Warning: Citation `cs50zoom' on page 14 undefined on input line 
+374.
+
+
+Package natbib Warning: Citation `regrets' on page 14 undefined on input line 3
+76.
+
+
+Package natbib Warning: Citation `milliken' on page 14 undefined on input line 
+380.
+
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 😉 in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 1275) in paragraph at lines 390--391
+[]\TU/lmr/m/n/10 Keith Mitchell ([]@apiadventures[]), Jan Machacek ([]@janm399[
+]), Zee Somji
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
+
+ []
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 399.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 399.
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+[14]
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ά in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ά in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇬 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇷 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇬 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇧 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ε in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no γ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ώ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ρ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no α in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ο in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no λ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ύ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ≈ in font [lmroman10-regular]:mapping=tex-text;!
+
+Package natbib Warning: Citation `squiggly' on page 15 undefined on input line 
+434.
+
+
+Package natbib Warning: Citation `faces' on page 15 undefined on input line 439
+.
+
+[15]
+Underfull \hbox (badness 1558) in paragraph at lines 454--455
+\TU/lmr/m/n/10 This guidebook is published under the []Creative Commons Attribu
+tion-
+ []
+
+[16] [17] [18
+
+] [19] [20]
+Chapter 1.
+Missing character: There is no ☑ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ☑ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ☑ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ☑ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ☑ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Warning: Reference `fig:rabbit-fig' on page 21 undefined on input line 50
+1.
+
+Missing character: There is no 🐇 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/Rabbit-hole.png Graphic file (type bmp)
+<images/Rabbit-hole.png>
+
+Package natbib Warning: Citation `wonderland' on page 21 undefined on input lin
+e 532.
+
+[21
+
+] [22]
+
+Package natbib Warning: Citation `iip1' on page 23 undefined on input line 534.
+
+
+
+Package natbib Warning: Citation `iip2' on page 23 undefined on input line 534.
+
+
+
+Package natbib Warning: Citation `andystanfordclark' on page 23 undefined on in
+put line 542.
+
+
+Package natbib Warning: Citation `gradeinflation' on page 23 undefined on input
+ line 556.
+
+
+Package natbib Warning: Citation `firstclass' on page 23 undefined on input lin
+e 556.
+
+
+Package natbib Warning: Citation `bigfour' on page 23 undefined on input line 5
+56.
+
+[23]
+
+Package natbib Warning: Citation `lotsofgrads' on page 24 undefined on input li
+ne 564.
+
+File: cdyf_files/figure-latex/lotsofgrads-fig-1.pdf Graphic file (type pdf)
+<use cdyf_files/figure-latex/lotsofgrads-fig-1.pdf>
+
+Package natbib Warning: Citation `lotsofgrads' on page 24 undefined on input li
+ne 577.
+
+
+Package natbib Warning: Citation `lotsofgrads' on page 24 undefined on input li
+ne 577.
+
+
+Package natbib Warning: Citation `fincherreview' on page 24 undefined on input 
+line 583.
+
+[24]
+
+LaTeX Warning: Reference `fig:lotsofgrads-fig' on page 25 undefined on input li
+ne 586.
+
+
+Package natbib Warning: Citation `procrastination' on page 25 undefined on inpu
+t line 609.
+
+[25]
+
+Package natbib Warning: Citation `iip2' on page 26 undefined on input line 617.
+
+
+
+Package natbib Warning: Citation `searchspace' on page 26 undefined on input li
+ne 621.
+
+Missing character: There is no 🎓 in font [lmroman10-regular]:mapping=tex-text;!
+
+LaTeX Warning: Reference `tab:examtable' on page 26 undefined on input line 626
+.
+
+
+Overfull \hbox (12.00005pt too wide) in alignment at lines 628--639
+ [] [] [] 
+ []
+
+
+Overfull \hbox (12.00005pt too wide) in alignment at lines 639--649
+ [] [] [] 
+ []
+
+
+Overfull \hbox (12.00005pt too wide) in alignment at lines 649--695
+ [] [] [] 
+ []
+
+[26]
+File: images/Gimme Some Credit - Sketch.png Graphic file (type bmp)
+<images/Gimme Some Credit - Sketch.png>
+[27]
+File: images/shelfie.jpg Graphic file (type bmp)
+<images/shelfie.jpg>
+[28] [29]
+Missing character: There is no 🗺 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🧭 in font [lmroman10-regular]:mapping=tex-text;!
+
+Package natbib Warning: Citation `Raymond1999' on page 30 undefined on input li
+ne 825.
+
+
+Package natbib Warning: Citation `realagile' on page 30 undefined on input line
+ 825.
+
+[30]
+
+Package natbib Warning: Citation `googler' on page 31 undefined on input line 8
+38.
+
+[31]
+Missing character: There is no 🇬 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇷 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇬 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇧 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇪 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🇺 in font [lmroman10-regular]:mapping=tex-text;!
+
+Package natbib Warning: Citation `cleancoder' on page 32 undefined on input lin
+e 881.
+
+File: images/TLDR.png Graphic file (type bmp)
+<images/TLDR.png>
+[32] [33] [34
+
+]
+Chapter 2.
+Missing character: There is no 🏆 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/goal of education.jpg Graphic file (type bmp)
+<images/goal of education.jpg>
+
+Package natbib Warning: Citation `freeyourstory' on page 35 undefined on input 
+line 942.
+
+
+Package natbib Warning: Citation `freeyourstory' on page 35 undefined on input 
+line 945.
+
+
+Package natbib Warning: Citation `regrets' on page 35 undefined on input line 9
+45.
+
+
+Package natbib Warning: Citation `parachute2020' on page 35 undefined on input 
+line 945.
+
+[35] [36]
+
+Package natbib Warning: Citation `headhearthands' on page 37 undefined on input
+ line 947.
+
+
+LaTeX Warning: Reference `fig:iki-fig' on page 37 undefined on input line 965.
+
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no き in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 甲 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 斐 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/ikigai.png Graphic file (type bmp)
+<images/ikigai.png>
+
+LaTeX Warning: Reference `fig:iki-fig' on page 37 undefined on input line 990.
+
+
+LaTeX Warning: Reference `fig:iki-fig' on page 37 undefined on input line 995.
+
+[37] [38]
+File: images/Know who you are.png Graphic file (type bmp)
+<images/Know who you are.png>
+
+Package natbib Warning: Citation `equality' on page 39 undefined on input line 
+1023.
+
+
+Package natbib Warning: Citation `inferior' on page 39 undefined on input line 
+1032.
+
+
+Package natbib Warning: Citation `damore' on page 39 undefined on input line 10
+32.
+
+
+Package natbib Warning: Citation `everydaysexism' on page 39 undefined on input
+ line 1032.
+
+
+Package natbib Warning: Citation `nottalking' on page 39 undefined on input lin
+e 1040.
+
+
+Package natbib Warning: Citation `superior' on page 39 undefined on input line 
+1040.
+
+
+Package natbib Warning: Citation `harassment' on page 39 undefined on input lin
+e 1044.
+
+
+Package natbib Warning: Citation `nosex' on page 39 undefined on input line 104
+6.
+
+[39]
+
+Package natbib Warning: Citation `regrets' on page 40 undefined on input line 1
+073.
+
+
+LaTeX Warning: Reference `fig:bronnie-fig' on page 40 undefined on input line 1
+073.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+LaTeX Warning: Reference `fig:bolles-fig' on page 40 undefined on input line 10
+99.
+
+[40]
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+Package natbib Warning: Citation `freeyourstory' on page 41 undefined on input 
+line 1110.
+
+
+Package natbib Warning: Citation `nottalking' on page 41 undefined on input lin
+e 1117.
+
+
+Package natbib Warning: Citation `inferior' on page 41 undefined on input line 
+1119.
+
+
+Package natbib Warning: Citation `classceiling' on page 41 undefined on input l
+ine 1121.
+
+
+Package natbib Warning: Citation `nosex' on page 41 undefined on input line 112
+3.
+
+
+Package natbib Warning: Citation `nosex' on page 41 undefined on input line 112
+5.
+
+
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
+[41] [42]
+Chapter 3.
+Missing character: There is no 😀 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/alan-turing-runner.jpg Graphic file (type bmp)
+<images/alan-turing-runner.jpg>
+
+Package natbib Warning: Citation `kottke' on page 43 undefined on input line 11
+52.
+
+
+Package natbib Warning: Citation `manturing' on page 43 undefined on input line
+ 1152.
+
+
+Package natbib Warning: Citation `kottke' on page 43 undefined on input line 11
+52.
+
+
+Package natbib Warning: Citation `manturing' on page 43 undefined on input line
+ 1152.
+
+
+Package natbib Warning: Citation `kottke' on page 43 undefined on input line 11
+80.
+
+[43
+
+] [44]
+
+LaTeX Warning: Reference `fig:anxious-fig' on page 45 undefined on input line 1
+198.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+LaTeX Warning: Reference `fig:sad-fig' on page 45 undefined on input line 1212.
+
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[45]
+File: images/Look after yourself.png Graphic file (type bmp)
+<images/Look after yourself.png>
+
+LaTeX Warning: Reference `fig:laurie-fig' on page 46 undefined on input line 12
+49.
+
+[46]
+
+Package natbib Warning: Citation `whywesleep' on page 47 undefined on input lin
+e 1259.
+
+
+LaTeX Warning: Reference `fig:laurie-fig' on page 47 undefined on input line 12
+78.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[47]
+Overfull \hbox (12.59201pt too wide) in paragraph at lines 1331--1333
+[]\TU/lmr/m/n/10 counselling services, for example contact []counsellingservice
+.manchester.ac.uk[].
+ []
+
+
+LaTeX Warning: Reference `fig:nightline-fig' on page 48 undefined on input line
+ 1346.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[48]
+
+Package natbib Warning: Citation `sanenewworld' on page 49 undefined on input l
+ine 1381.
+
+
+LaTeX Warning: Reference `fig:rubywax-fig' on page 49 undefined on input line 1
+381.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+LaTeX Warning: Reference `fig:stephenfry-fig' on page 49 undefined on input lin
+e 1405.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+LaTeX Warning: Reference `fig:studentminds-fig' on page 49 undefined on input l
+ine 1419.
+
+[49]
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+LaTeX Warning: Reference `fig:togetherall-fig' on page 50 undefined on input li
+ne 1433.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[50]
+
+LaTeX Warning: Reference `fig:not-fig' on page 51 undefined on input line 1459.
+
+
+File: images/the-fixed-mindset.png Graphic file (type bmp)
+<images/the-fixed-mindset.png>
+
+Package natbib Warning: Citation `dweck' on page 51 undefined on input line 147
+3.
+
+
+Package natbib Warning: Citation `Cutts2010' on page 51 undefined on input line
+ 1473.
+
+
+Package natbib Warning: Citation `Davis2016' on page 51 undefined on input line
+ 1473.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[51]
+
+Package natbib Warning: Citation `nervousplanet' on page 52 undefined on input 
+line 1495.
+
+
+Package natbib Warning: Citation `stayalive' on page 52 undefined on input line
+ 1497.
+
+
+LaTeX Warning: Reference `fig:haig-fig' on page 52 undefined on input line 1500
+.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+Package natbib Warning: Citation `bookfriends' on page 52 undefined on input li
+ne 1508.
+
+
+Package natbib Warning: Citation `bookfriends' on page 52 undefined on input li
+ne 1508.
+
+
+Package natbib Warning: Citation `lanier' on page 52 undefined on input line 15
+13.
+
+
+Package natbib Warning: Citation `whywesleep' on page 52 undefined on input lin
+e 1515.
+
+
+Package natbib Warning: Citation `lauriesantos' on page 52 undefined on input l
+ine 1517.
+
+
+Package natbib Warning: Citation `happinessny' on page 52 undefined on input li
+ne 1517.
+
+
+LaTeX Warning: Reference `fig:laurie-fig' on page 52 undefined on input line 15
+17.
+
+[52] [53] [54
+
+]
+Chapter 4.
+Missing character: There is no 😱 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/What - other people.png Graphic file (type bmp)
+<images/What - other people.png>
+[55]
+
+Package natbib Warning: Citation `sevendeadly' on page 56 undefined on input li
+ne 1553.
+
+File: images/Achilles-Heel-to-Superpower.png Graphic file (type bmp)
+<images/Achilles-Heel-to-Superpower.png>
+
+Package natbib Warning: Citation `heroes' on page 56 undefined on input line 15
+84.
+
+
+Package natbib Warning: Citation `heroes' on page 56 undefined on input line 15
+84.
+
+File: images/Hard and soft skills.png Graphic file (type bmp)
+<images/Hard and soft skills.png>
+[56] [57] [58]
+
+LaTeX Warning: Reference `tab:iotable' on page 59 undefined on input line 1609.
+
+
+
+Overfull \hbox (13.45006pt too wide) in paragraph at lines 1615--1624
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `tab:iotable' on page 59 undefined on input line 1626.
+
+
+[59]
+
+Package natbib Warning: Citation `scientistsmustwrite' on page 60 undefined on 
+input line 1641.
+
+[60]
+Missing character: There is no 🐶 in font [lmroman10-regular]:mapping=tex-text;!
+[61]
+
+LaTeX Warning: Reference `fig:rtfm-fig' on page 62 undefined on input line 1732
+.
+
+File: images/RTFM.jpg Graphic file (type bmp)
+<images/RTFM.jpg>
+[62] [63] [64
+
+]
+Chapter 5.
+Missing character: There is no 🤔 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/404.png Graphic file (type bmp)
+<images/404.png>
+Missing character: There is no 😳 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 😳 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/What's relevant.png Graphic file (type bmp)
+<images/What's relevant.png>
+
+LaTeX Warning: Reference `fig:bigname-fig' on page 65 undefined on input line 1
+814.
+
+Missing character: There is no 😻 in font [lmroman10-regular]:mapping=tex-text;!
+[65] [66]
+File: images/Big Name.png Graphic file (type bmp)
+<images/Big Name.png>
+
+Underfull \hbox (badness 1681) in paragraph at lines 1832--1834
+[]\TU/lmr/m/n/10 Google has Code Jam, HashCode and Kick Start []codingcompeti-
+ []
+
+[67] [68]
+Chapter 6.
+Missing character: There is no 👩 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ‍ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 💻 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 👨 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ‍ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 💻 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/not just about coding.png Graphic file (type bmp)
+<images/not just about coding.png>
+
+Package natbib Warning: Citation `robertsedgwick' on page 69 undefined on input
+ line 1903.
+
+[69
+
+] [70]
+
+LaTeX Warning: Reference `fig:nurses-fig' on page 71 undefined on input line 19
+09.
+
+
+Package natbib Warning: Citation `wonkyball' on page 71 undefined on input line
+ 1909.
+
+File: cdyf_files/figure-latex/nurses-fig-1.pdf Graphic file (type pdf)
+<use cdyf_files/figure-latex/nurses-fig-1.pdf>
+
+Package natbib Warning: Citation `wonkyball' on page 71 undefined on input line
+ 1917.
+
+
+Package natbib Warning: Citation `wonkyball' on page 71 undefined on input line
+ 1917.
+
+[71] [72
+
+] [73] [74]
+Chapter 7.
+Missing character: There is no 🐛 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/Features not bugs.png Graphic file (type bmp)
+<images/Features not bugs.png>
+
+LaTeX Warning: Reference `fig:gayle-fig' on page 75 undefined on input line 197
+4.
+
+
+Package natbib Warning: Citation `cracking' on page 75 undefined on input line 
+1974.
+
+File: images/Gayle_Laakmann_McDowell.jpg Graphic file (type bmp)
+<images/Gayle_Laakmann_McDowell.jpg>
+[75
+
+] [76]
+
+Package natbib Warning: Citation `blackhole' on page 77 undefined on input line
+ 1991.
+
+
+Package natbib Warning: Citation `techcareer' on page 77 undefined on input lin
+e 1991.
+
+
+Package natbib Warning: Citation `bugorfeature' on page 77 undefined on input l
+ine 2002.
+
+
+Package natbib Warning: Citation `badsoftware' on page 77 undefined on input li
+ne 2005.
+
+
+Package natbib Warning: Citation `failware' on page 77 undefined on input line 
+2005.
+
+[77]
+
+Package natbib Warning: Citation `scanning' on page 78 undefined on input line 
+2033.
+
+[78]
+
+LaTeX Warning: Reference `fig:lopez-fig' on page 79 undefined on input line 206
+6.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+LaTeX Warning: Reference `fig:black-fig' on page 79 undefined on input line 209
+2.
+
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+
+Package natbib Warning: Citation `topnotchcv' on page 79 undefined on input lin
+e 2100.
+
+
+Package natbib Warning: Citation `topnotchcv' on page 79 undefined on input lin
+e 2100.
+
+
+LaTeX Warning: Reference `fig:turinghead-fig' on page 79 undefined on input lin
+e 2108.
+
+[79]
+File: images/alan-turing-header.png Graphic file (type bmp)
+<images/alan-turing-header.png>
+Missing character: There is no 🎓 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 💰 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 💪 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 👑 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🏆 in font [lmroman10-regular]:mapping=tex-text;!
+[80]
+File: images/What have you done.png Graphic file (type bmp)
+<images/What have you done.png>
+[81]
+
+Package natbib Warning: Citation `hafb' on page 82 undefined on input line 2188
+.
+
+
+LaTeX Warning: Reference `fig:feynman-fig' on page 82 undefined on input line 2
+188.
+
+File: images/feynman.png Graphic file (type bmp)
+<images/feynman.png>
+[82] [83] [84]
+File: images/CV need a little work.png Graphic file (type bmp)
+<images/CV need a little work.png>
+
+Package natbib Warning: Citation `latex4year1' on page 85 undefined on input li
+ne 2292.
+
+[85]
+
+LaTeX Warning: Reference `fig:lopez-fig' on page 86 undefined on input line 230
+9.
+
+
+Package natbib Warning: Citation `howlong' on page 86 undefined on input line 2
+328.
+
+
+LaTeX Warning: Reference `fig:oneortwopager-fig' on page 86 undefined on input 
+line 2334.
+
+
+LaTeX Warning: Reference `fig:morefeatures-fig' on page 86 undefined on input l
+ine 2334.
+
+File: images/an-engineering-state-of-mind.png Graphic file (type bmp)
+<images/an-engineering-state-of-mind.png>
+[86]
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[87]
+
+Package natbib Warning: Citation `readable' on page 88 undefined on input line 
+2402.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2402--2404
+
+ []
+
+
+Package natbib Warning: Citation `printcv' on page 88 undefined on input line 2
+406.
+
+File: images/lovelace-linkedin.png Graphic file (type bmp)
+<images/lovelace-linkedin.png>
+
+Package natbib Warning: Citation `customlinkedin' on page 88 undefined on input
+ line 2415.
+
+
+Package natbib Warning: Citation `customlinkedin' on page 88 undefined on input
+ line 2415.
+
+
+Package natbib Warning: Citation `stackoverflow' on page 88 undefined on input 
+line 2420.
+
+[88]
+
+LaTeX Warning: Reference `fig:machines-fig' on page 89 undefined on input line 
+2425.
+
+File: images/The-inevitable-rise-of-the-machines-1280x720.png Graphic file (typ
+e bmp)
+<images/The-inevitable-rise-of-the-machines-1280x720.png>
+[89] [90] [91] [92]
+Chapter 8.
+Missing character: There is no 🔭 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/Yes but how do I.png Graphic file (type bmp)
+<images/Yes but how do I.png>
+[93
+
+] [94]
+Underfull \hbox (badness 1796) in paragraph at lines 2658--2660
+[]\TU/lmr/m/n/10 -(If you’re looking for a job AT google, they have moved from
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 2660--2662
+[][]\TU/lmr/m/n/10 LinkedIn[] advertises job vacancies, is []frequently visited
+ by re-
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 2660--2662
+\TU/lmr/m/n/10 cruiters[] and you can often []apply for jobs directly on Linked
+In[]
+ []
+
+
+Overfull \hbox (33.40999pt too wide) in paragraph at lines 2660--2662
+[]\TU/lmr/m/n/10 university.linkedin.com/linkedin-for-students[] and []linkedin
+.com/learning/learning-
+ []
+
+[95] [96]
+
+LaTeX Warning: Reference `tab:shortcuts' on page 97 undefined on input line 269
+1.
+
+
+Overfull \hbox (166.11009pt too wide) in paragraph at lines 2697--2707
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2715--2717
+
+ []
+
+
+Package natbib Warning: Citation `granovetter' on page 97 undefined on input li
+ne 2727.
+
+File: images/Bumped into.png Graphic file (type bmp)
+<images/Bumped into.png>
+
+Package natbib Warning: Citation `weakties' on page 97 undefined on input line 
+2740.
+
+
+LaTeX Warning: Reference `fig:bumped-fig' on page 97 undefined on input line 27
+40.
+
+[97] [98]
+File: images/grow your networks.png Graphic file (type bmp)
+<images/grow your networks.png>
+[99] [100
+
+]
+Chapter 9.
+Missing character: There is no 🎯 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/My CV is bug free.png Graphic file (type bmp)
+<images/My CV is bug free.png>
+
+LaTeX Warning: Reference `fig:bugfree-fig' on page 101 undefined on input line 
+2777.
+
+
+Package natbib Warning: Citation `jonathanblack' on page 101 undefined on input
+ line 2788.
+
+[101] [102]
+
+Package natbib Warning: Citation `cracking' on page 103 undefined on input line
+ 2843.
+
+
+LaTeX Warning: Reference `fig:petia-fig' on page 103 undefined on input line 28
+43.
+
+Missing character: There is no 😭 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/emptyFFFFFF-0.png Graphic file (type bmp)
+<images/emptyFFFFFF-0.png>
+[103] [104] [105] [106
+
+]
+Chapter 10.
+Missing character: There is no 🚀 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/earning-a-badge-hd.png Graphic file (type bmp)
+<images/earning-a-badge-hd.png>
+Missing character: There is no 🆗 in font [lmroman10-regular]:mapping=tex-text;!
+[107] [108]
+Missing character: There is no 💪 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 💔 in font [lmroman10-regular]:mapping=tex-text;!
+
+Package natbib Warning: Citation `dive' on page 109 undefined on input line 298
+2.
+
+
+Package natbib Warning: Citation `yourefired' on page 109 undefined on input li
+ne 2982.
+
+
+Package natbib Warning: Citation `iquit' on page 109 undefined on input line 29
+84.
+
+[109] [110
+
+]
+Chapter 11.
+
+LaTeX Warning: Reference `fig:default-user-fig' on page 111 undefined on input 
+line 2999.
+
+
+Package natbib Warning: Citation `saltnpepa' on page 111 undefined on input lin
+e 2999.
+
+Missing character: There is no 😻 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/default-user-1280x959.png Graphic file (type bmp)
+<images/default-user-1280x959.png>
+
+Package natbib Warning: Citation `outsideit' on page 111 undefined on input lin
+e 3012.
+
+
+Package natbib Warning: Citation `burninglass' on page 111 undefined on input l
+ine 3012.
+
+File: images/Sell your soul.png Graphic file (type bmp)
+<images/Sell your soul.png>
+[111] [112] [113] [114
+
+]
+Chapter 12.
+Missing character: There is no 👩 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ‍ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🔬 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 👨 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ‍ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🔬 in font [lmroman10-regular]:mapping=tex-text;!
+File: images/einstein-i-have-no-special-talents.png Graphic file (type bmp)
+<images/einstein-i-have-no-special-talents.png>
+[115] [116] [117
+
+] [118]
+Chapter 13.
+
+Package natbib Warning: Citation `Bourne2005' on page 119 undefined on input li
+ne 3101.
+
+
+Package natbib Warning: Citation `Bourne2018' on page 119 undefined on input li
+ne 3101.
+
+
+Package natbib Warning: Citation `Aicher2017' on page 119 undefined on input li
+ne 3101.
+
+
+Package natbib Warning: Citation `Searls2009' on page 119 undefined on input li
+ne 3101.
+
+
+Package natbib Warning: Citation `Roberts2015' on page 119 undefined on input l
+ine 3101.
+
+File: images/10 Simple Rules.png Graphic file (type bmp)
+<images/10 Simple Rules.png>
+[119
+
+]
+
+Package natbib Warning: Citation `teddy' on page 120 undefined on input line 31
+54.
+
+
+Underfull \vbox (badness 2932) has occurred while \output is active []
+
+[120]
+
+Package natbib Warning: Citation `henrypetroski' on page 121 undefined on input
+ line 3181.
+
+
+Package natbib Warning: Citation `failfast' on page 121 undefined on input line
+ 3181.
+
+
+Package natbib Warning: Citation `failgift' on page 121 undefined on input line
+ 3185.
+
+[121] [122]
+Chapter 14.
+[123
+
+] [124]
+Missing character: There is no 🙏 in font [lmroman10-regular]:mapping=tex-text;!
+[125] [126]
+Chapter 15.
+File: images/notjustlondon.jpg Graphic file (type bmp)
+<images/notjustlondon.jpg>
+File: images/notjustlondon.jpg Graphic file (type bmp)
+<images/notjustlondon.jpg>
+File: images/notjustlondon.jpg Graphic file (type bmp)
+<images/notjustlondon.jpg>
+
+Package natbib Warning: Citation `notjustlondon' on page 127 undefined on input
+ line 3360.
+
+
+Package natbib Warning: Citation `notjustlondon' on page 127 undefined on input
+ line 3360.
+
+[127
+
+]
+
+Package natbib Warning: Citation `hitthenorth' on page 128 undefined on input l
+ine 3370.
+
+
+Package natbib Warning: Citation `notjustlondon' on page 128 undefined on input
+ line 3370.
+
+[128]
+Chapter 16.
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+[129
+
+] [130]
+Chapter 17.
+[131
+
+] [132]
+Underfull \hbox (badness 10000) in paragraph at lines 3610--3612
+
+ []
+
+[133] [134]
+Chapter 18.
+
+Underfull \hbox (badness 2635) in paragraph at lines 3695--3696
+[]\TU/lmr/m/n/10 As with semester 1, COMP2CARS takes place in the same slot as
+ []
+
+
+Overfull \hbox (110.64pt too wide) in paragraph at lines 3709--3710
+[]\TU/lmr/m/it/10 Or \TU/lmr/m/n/10 COMP2TUT: Meet your tutor see []studentnet.
+cs.manchester.ac.uk/ugt/tutorgroups.php?level=2[] 
+ []
+
+
+Overfull \hbox (2.51201pt too wide) in paragraph at lines 3727--3728
+[]\TU/lmr/m/n/10 Adapting and optimising your job search strategy, see []cdyf.m
+e/finding.html[] 
+ []
+
+[135
+
+]
+Overfull \hbox (125.85pt too wide) in paragraph at lines 3738--3740
+[]\TU/lmr/m/it/10 Either \TU/lmr/m/n/10 COMP2TUT: Meet your tutor see []student
+net.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2[] 
+ []
+
+
+Overfull \hbox (15.37094pt too wide) in paragraph at lines 3740--3741
+[]\TU/lmr/m/it/10 OR \TU/lmr/m/n/10 COMP2CARS: Technical writing one, see see [
+]developers.google.com/tech-
+ []
+
+
+Overfull \hbox (125.85pt too wide) in paragraph at lines 3751--3753
+[]\TU/lmr/m/it/10 Either \TU/lmr/m/n/10 COMP2TUT: Meet your tutor see []student
+net.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2[] 
+ []
+
+
+Overfull \hbox (45.46202pt too wide) in paragraph at lines 3753--3754
+[]\TU/lmr/m/it/10 Or \TU/lmr/m/n/10 COMP2CARS: Technical writing one (repeated)
+, see []developers.google.com/tech-
+ []
+
+
+Overfull \hbox (15.74002pt too wide) in paragraph at lines 3762--3763
+[]\TU/lmr/m/n/10 COMP2CARS: Technical writing one (part 2) see []developers.goo
+gle.com/tech-
+ []
+
+
+Overfull \hbox (125.85pt too wide) in paragraph at lines 3789--3791
+[]\TU/lmr/m/it/10 Either \TU/lmr/m/n/10 COMP2TUT: Meet your tutor see []student
+net.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2[] 
+ []
+
+
+Overfull \hbox (125.85pt too wide) in paragraph at lines 3800--3802
+[]\TU/lmr/m/it/10 Either \TU/lmr/m/n/10 COMP2TUT: Meet your tutor see []student
+net.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2[] 
+ []
+
+[136]
+No file cdyf.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[137] (./cdyf.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `cdyf.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cdyf.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  0EC7FEF2071E56388958807F09EB8254;24238.
+ ) 
+Here is how much of TeX's memory you used:
+ 17176 strings out of 479212
+ 305384 string characters out of 5873890
+ 751168 words of memory out of 5000000
+ 36488 multiletter control sequences out of 15000+600000
+ 407547 words of font info for 74 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 98i,8n,122p,4118b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on cdyf.pdf (137 pages).

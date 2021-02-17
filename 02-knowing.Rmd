@@ -59,7 +59,7 @@ Take a sheet of paper, draw the four overlapping rings shown in Figure \@ref(fig
 * What are your values?
 * What motivates you?
 * Are there things you like doing that you aren’t particularly good at?
-* What are the things outside your ikigai?
+* Why does that make them enjoyable?
 
 ```{r know-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionknowthyself)"}
 knitr::include_graphics("images/Know who you are.png")
@@ -108,7 +108,10 @@ The signposts in the next section may help tackle some of these coding challenge
 
 ## Signposts from here on identity {#sign2}
 
-This chapter challenges you to reflect on who you are and what you're good at. One of *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] is that people wish they'd had the courage to live a life true to themselves, and not a life that others expected of them. Figuring out exactly who your authentic self is can be challenging. [Bronnie Ware's](https://en.wikipedia.org/wiki/Bronnie_Ware) book might help, it has some very moving, personal and insightful true stories of peoples regrets that will illuminate your own values and might change your life. The top five regrets, outlined in the book and figure \@ref(fig:bronnie-fig) are:
+This chapter challenges you to reflect on who you are and what you're good at.
+
+### Your dying regrets? {#regret}  
+One of *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] is that people wish they'd had the courage to live a life true to themselves, and not a life that others expected of them. Figuring out exactly who your authentic self is can be challenging. [Bronnie Ware's](https://en.wikipedia.org/wiki/Bronnie_Ware) book might help, it has some very moving, personal and insightful true stories of peoples regrets that will illuminate your own values and might change your life. The top five regrets, outlined in the book and figure \@ref(fig:bronnie-fig) are:
 
 1. I wish I’d had the courage to live a life true to myself, not the life others expected of me
 1. I wish I hadn’t worked so hard
@@ -124,7 +127,7 @@ This chapter challenges you to reflect on who you are and what you're good at. O
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 ```
-
+### Colouring your parachute {#parachute}  
 Since first being published in 1972, over ten million copies of *[What Color is Your Parachute?](https://en.wikipedia.org/wiki/What_Color_is_Your_Parachute%3F)* have been sold. It's  has been translated into 20 languages and is used in 26 countries. What's good about *Parachute* is that it has some useful *self-inventory* exercises that go beyond the introductory ones in this guidebook, particularly in the context of your future career. While the style and examples can be U.S. centric, it's a classic self-help book that looks at a broad variety of issues around job hunting. The author, [Richard Nelson Bolles](https://en.wikipedia.org/wiki/Richard_Nelson_Bolles) was a chemical engineer and he explains how you can't possibly decide what to do in five years time in the video in figure \@ref(fig:bolles-fig). Where do you see yourself in five years time? is a question some interviewers like to ask.
 
 `r if (knitr::is_html_output()) '
@@ -135,14 +138,15 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 ```
 
-
+### What's your story?
 A useful technique for developing self-awareness is to think about what your story is. Heather Box and Julian Mocine-McQueen's book *How Your Story Sets You Free* [@freeyourstory] takes a storytelling approach to help you gain a better picture of who you are and what you value. What's good about this book is its short, less than 100 pages and contains practical exercises which extend those in this chapter.
 
+### Check your privileges
 Reflecting on your identity should lead you to check any privileges you might have. Being grateful for any privileges you may have is also beneficial for your mental health which we talk about in the chapter on [your well-being](#wellbeing) So:
 
-* **If you're white** a good place to start understanding your white privileges is *[Why I'm No Longer Talking to White People About Race](https://en.wikipedia.org/wiki/Why_I'm_No_Longer_Talking_to_White_People_About_Race)* by [Reni Eddo Lodge](https://en.wikipedia.org/wiki/Reni_Eddo-Lodge) [@nottalking]
+* **If you're white** a good place to start understanding your white privileges is *[Why I'm No Longer Talking to White People About Race](https://en.wikipedia.org/wiki/Why_I'm_No_Longer_Talking_to_White_People_About_Race)* by [Reni Eddo Lodge](https://en.wikipedia.org/wiki/Reni_Eddo-Lodge) [@nottalking] and *[Superior: The Return of Race Science](https://en.wikipedia.org/wiki/Superior:_The_Return_of_Race_Science)* by [Angela Saini](https://en.wikipedia.org/wiki/Angela_Saini)
 * **If you're male** a good place to start understanding the privileges you have as a result of being a man is *[Inferior](https://en.wikipedia.org/wiki/Inferior_(book))* by [Angela Saini](https://en.wikipedia.org/wiki/Angela_Saini) [@inferior]
-* **If you're socially privileged** a good place to start understanding the privileges you have as a result of your class is *The Class Ceiling: Why it Pays to be Privileged* by Sam Friedman and Daniel Laurison [@classceiling]
+* **If you're socially privileged** a good place to start understanding the privileges you have as a result of your class is *The Class Ceiling: Why it Pays to be Privileged* by Sam Friedman and Daniel Laurison [@classceiling]. If you were privately educated in Britain you should read *[Engines of Privilege: Britain's Private School Problem ](https://en.wikipedia.org/wiki/Engines_of_Privilege)* [@nicebutdim]
 * **If you're heterosexual** a good place to start understanding the privileges you have as a result of your sexual orientation is [Ben Britton](https://en.wikipedia.org/wiki/Ben_Britton)'s presentation on *No sexuality please, we're scientists*  [@nosex] which covers bisexuality and homosexuality, including lesbian and gay.
 * **If you're gender binary** a good place to start understanding the privileges you have as a result of being [gender binary](https://en.wikipedia.org/wiki/Gender_binary) is Ben Britton's presentation [@nosex] which also covers transgender, genderqueer, non-binary and plus identities  
 

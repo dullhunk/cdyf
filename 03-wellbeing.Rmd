@@ -21,10 +21,9 @@ By the end of this chapter you will be able to:
 
 Stress can lead to many kinds of ill health. On describing his work for the government, Alan Turing said that:
 
-> I have such a stressful job that the only way I can get it out of my mind is by running hard; it’s the only way I can get some release --Alan Turing[@kottke]
+> I have such a stressful job that the only way I can get it out of my mind is by running hard; it’s the only way I can get some release --Alan Turing’s response on why he punished himself so much in training, as recounted by J F Harding, who was secretary of the Walton Athletic Club at the time [@kottke]
 
-
-University is a positive experience for many people, however like Alan, you may also experience periods of stress. This may also be accompanied by anxiety, loneliness and depression. Financial, social and academic pressures alongside concerns about employability and coronavirus can all have an impact on your wellbeing. Statistically, one in four of us will being affected by mental ill health during our lifetime. Two of the most common forms of mental ill health are:
+University is a positive experience for many people, however like Alan, you may also experience periods of stress. This may also be accompanied by anxiety, loneliness and depression. Financial, social and academic pressures alongside concerns about employability and coronavirus can all have an impact on your wellbeing. Statistically, one in four of us will be affected by mental ill health during our lifetime. Two of the most common forms of mental ill health are:
 
 * **Anxiety**: *persistent* feelings of unease, such as worry or fear
 * **Depression**: a low mood that *lasts for a long time* and affects your everyday life
@@ -59,10 +58,10 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 
 ## Look after yourself
-Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise and friends. Looking after yourself means at least three things:
+Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise, mindfulness and friendship. Looking after yourself means at least three things:
 
-* being mindful of your feelings especially your inner critic
-* being kind to yourself
+* being mindful of your feelings and learning to ignore your inner critic
+* being kind to yourself in various ways
 * deliberately scheduling protected time to do the non-work things that matter.
 
 ```{r lookafter-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionlookafter)"}
@@ -83,7 +82,7 @@ Psychologist Laurie Santos describes five evidence-based strategies for coping w
     * **I**nvestigate: notice how the emotion feels inside your body
     * **N**urture: be kind to yourself
 
-Laurie explains the R.A.I.N. technique in
+Laurie explains the R.A.I.N. technique in figure \@ref(fig:laurie-fig).
 
 <!-- also woop my life     -->
 
