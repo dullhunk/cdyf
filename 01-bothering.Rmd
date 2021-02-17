@@ -247,7 +247,11 @@ You are reading the alpha version, the [Minimum Viable Product](https://en.wikip
 
 I'm taking a [Release Early, Release Often](https://en.wikipedia.org/wiki/Release_early,_release_often) [@Raymond1999] approach to publishing this guidebook, you could call it agile book development. [@realagile]
 
-https://twitter.com/psd/status/568324759521501184
+```{r tweet-from-psd,echo=FALSE}
+library(tweetrmd)
+include_tweet("https://twitter.com/psd/status/568324759521501184")
+```
+
 
 ### I'm deliberately writing in first person narrative
 A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told stories to illustrate key points.
