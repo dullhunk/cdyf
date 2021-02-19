@@ -22,8 +22,8 @@ By the end of this chapter you will be able to
 ## Beware of the black hole {#blackhole}  
 Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) shown in figure \@ref(fig:gayle-fig). Gayle is an experienced software engineer who has worked at the biggest technology employers in the world, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll come across in the [chapter on interviewing](interviewing.html). Gayle refers to the employer “black hole”:
 
-```{r gayle-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captiongayle)"}
-knitr::include_graphics(rep("images/Gayle_Laakmann_McDowell.jpg", 3))
+```{r gayle-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "32%", fig.cap = "(ref:captiongayle)"}
+knitr::include_graphics("images/Gayle_Laakmann_McDowell.jpg")
 ```
 (ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
 
