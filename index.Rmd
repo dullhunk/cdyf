@@ -1,5 +1,5 @@
 ---
-title: "Coding Your Future: A Guidebook for Students"
+title: "Coding Your Future: a Guidebook for Students"
 author: Duncan Hull at the University of Manchester and illustrated by Bryan Mathers at Visual Thinkery
 # date: "last updated `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
@@ -18,12 +18,12 @@ knit: "bookdown::render_book"
 always_allow_html: true
 ---
 
-# Hello and welcome! {-}
+# Welcoming your future {-}
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Welcome to Coding Your Future, the guidebook that will help you to design, build, test, debug and code your future in computing. This guidebook is aimed at students in higher education, both those studying Computer Science as part of their degree or those from other disciplines with an interest in computing.
+Hello and welcome to Coding Your Future, the guidebook that will help you to design, build, test, debug and code your future in computing. This guidebook is aimed at students in higher education, both those studying Computer Science as part of their degree or those from other disciplines with an interest in computing.
 
 This guidebook supports second year teaching at the University of Manchester, but it DOES NOT MATTER:
 
@@ -31,20 +31,21 @@ This guidebook supports second year teaching at the University of Manchester, bu
 * what *level* you are studying at, foundation, undergraduate or postgraduate
 * what *subject* you are studying, provided that you are computationally curious
 * what *institution* you are studying at, this book is University and institution agnostic
-<!--* *where* in the world you are studying-->
+* *where* in the world you are studying
 
-So there is something in this guidebook for every student of computing.
+So there is something in this guidebook for every student of computing. 🌎🌍🌏
 
 ## Aims of Coding your Future {#vaccine}
 This guidebook will help you develop healthier habits of mind, body and soul using five key ingredients:
 
-1. **C**ode: Various instructions
-1. **D**ata: You need to take into consideration
+1. **C**ode: Instructions in this guidebook
+1. **D**ata: You'll need to analyse and understand data
 1. **Y**ou: This guidebook needs you to do things
-1. **F**utures: Think about the future, rather than dwelling on the past
-1. **M**e: I'm your tour guide
+1. **F**utures: Think about the future, rather than dwelling on the past.
+    + bothering with the future, knowing your future, looking after your future, communicating your future, experiencing your future, computing your future, debugging your future, finding your future, speaking your future, broadening and researching your future,
+1. **M**e: Hello, my name is Duncan. I'm your tour guide here.
 
-These ingredients are intended techniques for making decisions about your future, job searching, submitting applications and competing successfully in interviews and the workplace.
+Coding your future explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
 
 Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people and what your experience is. As there is a computational theme, you will also need to reflect on what your inputs and outputs ([I/O](https://en.wikipedia.org/wiki/Input/output)) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
 
@@ -112,35 +113,35 @@ knitr::include_graphics("images/Course Map.png")
 
 The first part of this guidebook (chapters 1 to 6) looks at what engineers call *design*. When you build anything, a bridge, a piece of software, a car or a plane you'll need to do some design. Building a career isn't that different to building anything else, you'll need to do some design work and it will probably be iterative. Designing things often involves asking tricky questions. So when you're designing your future you'll need to cover the following:
 
-* The chapter on [why bother?](bothering.html) looks at why you should bother reading any of this book
-* The chapter on [who are you?](knowing.html) challenges you to reflect on who you are, what makes you unique and why you are here
-* The chapter on [your well-being](wellbeing.html) encourages you to take care of your mental and physical health
-* The chapter on [soft skills are hard](communicating.html) explores your soft skills, and how they complement your hard skills and why employers value them so much
-* The chapter on [are you experienced?](experiencing.html) asks you to reflect on your work experience and help identify where you can improve it
-* The chapter on [computing your future](computing.html) looks at the role computing can play in your career, with or without a Computer Science degree
+* [Bothering with your future](bothering.html) looks at why you should bother reading any of this book
+* [Knowing your future](knowing.html) challenges you to reflect on who you are, what makes you unique and why you are here
+* [Looking after your future](wellbeing.html) encourages you to take care of your mental and physical health
+* [Communicating your future](communicating.html) explores your soft skills, and how they complement your hard skills and why employers value them so much
+* [Experiencing your future](experiencing.html) asks you to reflect on your work experience and help identify where you can improve it
+* [Computing your future](computing.html) looks at the role computing can play in your career, with or without a Computer Science degree
 
 
 ### Building and testing your future {#partii}
 The next six chapters look at building and testing your future, what engineers like to call *implementation* or *execution*. Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
-* The chapter [debugging your CV](debugging.html) alongside other written communication such as covering letters,  application forms and digital portfolios.
-* The chapter on [your job search and networks](finding.html), looks at where and how can you look for interesting opportunities
-* The chapter on [your interviews and offers](interviewing.html), looks how can you turn interviews to your advantage and negotiate any offers you receive
-* The chapter on [your survival and promotion](surviving.html) looks at the next steps. Once you've landed a job, how will you survive and thrive outside (and after) University
-* The chapter on [postgraduate study](studying.html) discusses if a Masters degree or a PhD right for you?
-* The chapter on [your alternatives](broadening.html) encourages you to broaden your horizons. Maybe you want to start your own business and employ others or you'd like to work in the non-profit or public sector? Perhaps you could be a freelancer or contractor? The possibilities are endless.
+* [Debugging your future](debugging.html) looks at debugging your written communication such as covering letters,  application forms and digital portfolios.
+* [Finding your future](finding.html), looks at where and how can you look for interesting opportunities
+* [Speaking your future](interviewing.html), looks how can you turn interviews to your advantage and negotiate any offers you receive
+* [Surviving your future](surviving.html) looks at the next steps. Once you've landed a job, how will you survive and thrive outside (and after) University
+* [Researching your future](studying.html) discusses if a Masters degree or a PhD right for you?
+* [Broadening your future](broadening.html) encourages you to broaden your horizons. Maybe you want to start your own business and employ others or you'd like to work in the non-profit or public sector? Perhaps you could be a freelancer or contractor? The possibilities are endless.
 
 ### Rebooting your future {#partiii}
 
 The third part of this book, contains supporting material that will help the design, build and test phases described above:
 
-* The [Ten Simple Rules for Coding your Future](ruling.html) provides an alternative summary of this book
-* The chapter on [debugging their CV](sampling.html) invites you to put yourself in the shoes of your potential employer by
-* The chapter on [Not Just London](notjustlondon.html) looks at opportunities outside of capital cities like London
-* The chapter on [listening to your future](listening.html) invites you to hear students stories of their transition from education to employment
-* The chapter on [actioning your future](verbsfirst.html) gets you to think about your actions by emphasising verbs on your job applications
-* the chapter on [scheduling your future](scheduling.html) invites you to set aside an hour each week for tackling the issues described in this book
-* The last chapter on [reading your future](references.html) provides the essential signposts alongside everything (yes, everything!) else I've cited in this guidebook
+* [Ruling your future](ruling.html) provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
+* [Reading their future](sampling.html) invites you to put yourself in the shoes of your potential employer by
+* [Moving your future](notjustlondon.html) looks at opportunities outside of capital cities like London
+* [Listening to your future](listening.html) invites you to hear students stories of their transition from education to employment
+* [Actioning your future](verbsfirst.html) gets you to think about your actions by emphasising verbs on your job applications
+* [Scheduling your future](scheduling.html) invites you to set aside an hour each week for tackling the issues described in this book
+* [Reading your future](references.html) everthing we've cited in this guidebook, because books are good for your soul
 <!--
 * algorithms?
 * A soundtrack, also available as a Spotify and YouTube playlist
@@ -152,12 +153,12 @@ Each chapter of the book contains the following sections:
 1. **What you will learn** what I expect you to learn from a given chapter
 1. **Watching your future** videos and animations for you to watch
 1. **Listening to your future** audio and podcasts for you to listen to
-1. **Speaking your future**
+1. **Speaking your future** articulating some written work
 1. **Writing your future** written exercises using natural language
-1. **Reading your future** reading exercises
+1. **Reading your future** reading exercises that are good for your soul
 1. **Quizzing and assessing your future** activities and quizzes that will be assessed either by yourself, your peers, an employer or an academic (depending on who and where you are)
 1. **Challenging your future** coding challenges are designed to take you out of your comfort zone by experiment with your thoughts, discussions and actions
-1. **Signposting your future** - seriously useful resources that I recommend you read, listen to or watch
+1. **Signposting your future** - the most useful resources that I recommend you read, listen to or watch
 <!--1. **References** - Further reading, absolutely everything we've cited, not just the essential signposts-->
 <!--in progress 1. **Quick quizzes** quick quizzes to test your knowledge-->
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->

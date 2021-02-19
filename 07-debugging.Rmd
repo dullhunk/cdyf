@@ -1,8 +1,8 @@
 # (PART) BUILDING YOUR FUTURE {-}
 
-# Debug your CV {#debugging}
+# Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, resume or completed application form? How can you support applications with a strong personal statement or covering letter? 🐛
+It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, resume or completed application form? How can you support applications with a strong personal statement or covering letter? How can you debug your future? 🐛
 
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)"}
@@ -15,18 +15,17 @@ By the end of this chapter you will be able to
 * Structure and style the content of CV /resume appropriately
 * Describe the context, actions and results (CAR) of your relevant experience, projects and education
 * Identify and fix bugs in CV’s by:
-    + Constructively criticise other people's CVs
-    + Ask for, listen to, and act on constructive criticism of your own CV
+    + Constructively criticising other people's CVs
+    + Asking for, listening to, and acting on constructive criticism of your own CV
 * Quantify and provide evidence for any claims you make you on your CV
 
 ## Beware of the black hole {#blackhole}  
 Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) shown in figure \@ref(fig:gayle-fig). Gayle is an experienced software engineer who has worked at the biggest technology employers in the world, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll come across in the [chapter on interviewing](interviewing.html). Gayle refers to the employer “black hole”:
 
-```{r gayle-fig, echo = FALSE, fig.align = "center", out.width = "28%", fig.cap = "(ref:captiongayle)"}
-knitr::include_graphics("images/Gayle_Laakmann_McDowell.jpg")
+```{r gayle-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captiongayle)"}
+knitr::include_graphics(rep("images/Gayle_Laakmann_McDowell.jpg", 3))
 ```
 (ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
-
 
 
 > Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit resumes each
