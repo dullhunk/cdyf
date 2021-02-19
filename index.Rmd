@@ -31,15 +31,20 @@ This guidebook supports second year teaching at the University of Manchester, bu
 * what *level* you are studying at, foundation, undergraduate or postgraduate
 * what *subject* you are studying, provided that you are computationally curious
 * what *institution* you are studying at, this book is University and institution agnostic
-* *where* in the world you are studying
+<!--* *where* in the world you are studying-->
 
-So there is something in this guidebook for every student of computing, young and old, experienced or not. 🌎🌍🌏
+So there is something in this guidebook for every student of computing.
 
-<!--todo check github-repo-->
+## Aims of Coding your Future {#vaccine}
+This guidebook will help you develop healthier habits of mind, body and soul using five key ingredients:
 
-## Aims of this guidebook
+1. **C**ode: Various instructions
+1. **D**ata: You need to take into consideration
+1. **Y**ou: This guidebook needs you to do things
+1. **F**utures: Think about the future, rather than dwelling on the past
+1. **M**e: I'm your tour guide
 
-*Coding your future* explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
+These ingredients are intended techniques for making decisions about your future, job searching, submitting applications and competing successfully in interviews and the workplace.
 
 Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people and what your experience is. As there is a computational theme, you will also need to reflect on what your inputs and outputs ([I/O](https://en.wikipedia.org/wiki/Input/output)) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
 
@@ -64,7 +69,7 @@ This book will NOT teach you how to write code, there's already lots of fantasti
 As the title of this guidebook implies, there is a computational flavour here, but you do not have to be studying Computer Science to benefit. There are two main target audiences for this guidebook:
 
 1. Undergraduate and postgraduate students studying Computer Science as a major or minor part of their degree. This includes software engineering, artificial intelligence, human-computer interaction (HCI), information systems, health informatics, data science, gaming, cybersecurity and all the other myriad flavours of Computer Science
-1. Undergraduate and postgraduate students studying *any* subject, with little or no Computer Science at all. You are curious to know about what role computing could play in your future career. Computing is too important to be left to Computer Scientists.
+1. Undergraduate and postgraduate students studying *any* subject, with little or no Computer Science at all. You are curious to know about what role computing could play in your future career because computing is too important to be left to Computer Scientists.
 
 So the prerequisites for this book are that you are studying (or have studied) at University where English is one of the main spoken languages. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
 
@@ -95,7 +100,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into three parts. The first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) shown in the map in Figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for supporting your future. Let's look in a bit more detail at the content of each of the three parts of this guidebook:
+This guidebook is split into three parts. The first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) shown in the map in Figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for rebooting your future. Let's look in a bit more detail at the content of each of the three parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map.png")
@@ -107,34 +112,35 @@ knitr::include_graphics("images/Course Map.png")
 
 The first part of this guidebook (chapters 1 to 6) looks at what engineers call *design*. When you build anything, a bridge, a piece of software, a car or a plane you'll need to do some design. Building a career isn't that different to building anything else, you'll need to do some design work and it will probably be iterative. Designing things often involves asking tricky questions. So when you're designing your future you'll need to cover the following:
 
-* The first chapter [why bother?](bothering.html) looks at why you should bother reading any of this book
-* The second chapter [who are you?](knowing.html) challenges you to reflect on who you are, what makes you unique and why you are here
-* The third chapter looks at [your well-being](wellbeing.html), and how to take care of your mental and physical health
-* The fourth chapter [soft skills are hard](communicating.html) explores your soft skills, how they complement your hard skills and why employers value them so much
-* The fifth chapter [are you experienced?](experiencing.html) asks you to reflect on your work experience and help identify where you can improve it
-* The sixth chapter [computing your future](computing.html) looks at the role computing can play in your career, with or without a Computer Science degree
+* The chapter on [why bother?](bothering.html) looks at why you should bother reading any of this book
+* The chapter on [who are you?](knowing.html) challenges you to reflect on who you are, what makes you unique and why you are here
+* The chapter on [your well-being](wellbeing.html) encourages you to take care of your mental and physical health
+* The chapter on [soft skills are hard](communicating.html) explores your soft skills, and how they complement your hard skills and why employers value them so much
+* The chapter on [are you experienced?](experiencing.html) asks you to reflect on your work experience and help identify where you can improve it
+* The chapter on [computing your future](computing.html) looks at the role computing can play in your career, with or without a Computer Science degree
 
 
 ### Building and testing your future {#partii}
 The next six chapters look at building and testing your future, what engineers like to call *implementation* or *execution*. Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
-* The seventh chapter helps you to [debug your CV](debugging.html) alongside other written communication such as covering letters,  application forms and digital portfolios.
-* The eighth chapter looks at [your job search and networks](finding.html), where can you look for interesting opportunities
-* The ninth chapter looks [your interviews and offers](interviewing.html), how can you turn interviews to your advantage and negotiate any offers you receive
-* The tenth chapter looks at [your survival and promotion](surviving.html), once you've landed a job, how will you survive and thrive outside (and after) University
-* The eleventh chapter looks at [postgraduate study](studying.html) is a Masters degree or a PhD right for you?
-* The twelfth chapter looks at [your alternatives](broadening.html) and encourages you to broaden your horizons. Perhaps you could be a freelancer or contractor? Maybe you want to start your own business and employ others or you'd like to work in the non-profit or public sector? The possibilities are endless.
+* The chapter [debugging your CV](debugging.html) alongside other written communication such as covering letters,  application forms and digital portfolios.
+* The chapter on [your job search and networks](finding.html), looks at where and how can you look for interesting opportunities
+* The chapter on [your interviews and offers](interviewing.html), looks how can you turn interviews to your advantage and negotiate any offers you receive
+* The chapter on [your survival and promotion](surviving.html) looks at the next steps. Once you've landed a job, how will you survive and thrive outside (and after) University
+* The chapter on [postgraduate study](studying.html) discusses if a Masters degree or a PhD right for you?
+* The chapter on [your alternatives](broadening.html) encourages you to broaden your horizons. Maybe you want to start your own business and employ others or you'd like to work in the non-profit or public sector? Perhaps you could be a freelancer or contractor? The possibilities are endless.
 
-### Supporting your future {#partiii}
+### Rebooting your future {#partiii}
 
 The third part of this book, contains supporting material that will help the design, build and test phases described above:
 
-* The thirteenth chapter summarises the whole guidebook in [Ten Simple Rules for Coding your Future](ruling.html).
-* The fourteenth chapter introduces you to some fictitious candidates and invites you to [Debug their CV](sampling.html)
-* The fifteenth chapter looks at careers outside of the capital because it's [Not Just London](notjustlondon.html)
-* The sixteenth chapter interviews students after returning from their placements in the [Coding your Future podcast](https://www.cdyf.me/listening.html)
-* The seventeenth chapter shows how to emphasising your actions on your CV by putting the [verbs first](verbs.html)
-* The [references section](references.html) provides the essential signposts alongside everything (yes, everything!) else I've cited in this guidebook
+* The [Ten Simple Rules for Coding your Future](ruling.html) provides an alternative summary of this book
+* The chapter on [debugging their CV](sampling.html) invites you to put yourself in the shoes of your potential employer by
+* The chapter on [Not Just London](notjustlondon.html) looks at opportunities outside of capital cities like London
+* The chapter on [listening to your future](listening.html) invites you to hear students stories of their transition from education to employment
+* The chapter on [actioning your future](verbsfirst.html) gets you to think about your actions by emphasising verbs on your job applications
+* the chapter on [scheduling your future](scheduling.html) invites you to set aside an hour each week for tackling the issues described in this book
+* The last chapter on [reading your future](references.html) provides the essential signposts alongside everything (yes, everything!) else I've cited in this guidebook
 <!--
 * algorithms?
 * A soundtrack, also available as a Spotify and YouTube playlist
@@ -144,10 +150,14 @@ The third part of this book, contains supporting material that will help the des
 Each chapter of the book contains the following sections:
 
 1. **What you will learn** what I expect you to learn from a given chapter
-1. **Video and audio** short videos to watch and sometimes audio to listen to
-1. **Assessments** activities and quizzes that will be assessed either by yourself, your peers, an employer or an academic (depending on who and where you are)
-1. **Coding challenges** are designed to take you out of your comfort zone by suggesting new experiments for you to try, some of these are thought experiments (think about or discuss something) others are more practical (doing something)
-1. **Essential signposts** - seriously useful resources that I recommend you read, listen to or watch
+1. **Watching your future** videos and animations for you to watch
+1. **Listening to your future** audio and podcasts for you to listen to
+1. **Speaking your future**
+1. **Writing your future** written exercises using natural language
+1. **Reading your future** reading exercises
+1. **Quizzing and assessing your future** activities and quizzes that will be assessed either by yourself, your peers, an employer or an academic (depending on who and where you are)
+1. **Challenging your future** coding challenges are designed to take you out of your comfort zone by experiment with your thoughts, discussions and actions
+1. **Signposting your future** - seriously useful resources that I recommend you read, listen to or watch
 <!--1. **References** - Further reading, absolutely everything we've cited, not just the essential signposts-->
 <!--in progress 1. **Quick quizzes** quick quizzes to test your knowledge-->
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->
@@ -209,7 +219,7 @@ I've also had significant support from academic colleagues in the Department of 
 
 I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking (about the book) but it actually turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
 
-Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this guidebook and the environment it was written in which is bound together by the [power of weak ties](#weakties) as well as stronger ones. They include (in alphabetical order) Pinar Alper, Sophia Ananiadou, Nedim Alpdemir, Constantinos Astreos, Terri Attwood, Sam Bail, [Robin Baker](https://en.wikipedia.org/wiki/Robin_Baker_(biologist)), Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Hannah Berry, Dick Benton, Helena Björn van Praagh, Rupert Blackstone, Stewart Blakeway, Petrut Bogdan, Caroline Bowsher, Nick Brown, Oscar Corcho, Brian Cox, Andy Bridge, Andy Brass, Andy Brown, Gavin Brown, Terry V. Callaghan, Grant Campbell, Angelo Cangelosi, Peter Capon, Andy Carpenter, Nicola Carrier, Barry Cheetham, Ke Chen, Sarah Clinch, Ian Cottam, Brian Derby, Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Anas Elhaig, Suzanne Embury, [Michael Emes](https://www.uoguelph.ca/mcb/people/dr-michael-j-emes), [Roland Ennos](https://www.sciencefactory.co.uk/roland-ennos), Alvaro Fernandes, Jonathan Ferns, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Chris Gilbert, Danielle George, Richard Giordano, Birte Glimm, Carole Goble, Rafael Gonçalves, Antoon Goderis, Roy Goodacre, Bernardo Cuenca Grau, Peter Green, Keith Gull, John Gurd, Luke Hakes, Lucy Harris, [Phil Harris](https://www.coventry.ac.uk/research/research-people/professor-phil-harris/), Robert Haines, Pauline Handley, [Guy Hanke](https://www.qmul.ac.uk/sbcs/staff/guyhanke.html), Simon Harper, Phil Haris, Jonathan Heathcote, Gareth Henshall, Andrew Horn, Matthew Horridge, Ian Horrocks, Toby Howard, Roger Hubbold, Jules Irenge, Daniel Jameson, Caroline Jay, Mirantha Jayathilaka, Huw Jones, Yevgeny Kazakov, John Keane, Douglas Kell, Rachel Kenyon, Joshua Knowles, Dirk Koch, Ioannis Kotsiopoulos, Alice Larkin, Peter Lammich, John A. Lee, [Margi Lennartsson Turner](https://pureportal.coventry.ac.uk/en/persons/margi-lennartsson-turner), John Latham, Kung-Kiu Lau, Dave Lester, Peter Li, Zewen Liu, Phil Lord, Mikel Lujan, Paul Mativenga, Erica McAlister, April McMahon, Simon Merrywest, Colin Morris, Norman Morrison, Georgina Moulton, Boris Motik, Christoforos Moutafis, Vanessa McQuillan, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Tim O'Brien, Steve Oliver, Mario Ramirez Orihuela, Stuart Owen, Ali Owrak, Pavlos Petoumenos, [Jackie Potter](https://www.brookes.ac.uk/ocsld/about-ocsld/staff-profiles/jackie-potter/), [Malcolm Press](https://en.wikipedia.org/wiki/Malcolm_Press), Colin Puleston, Paul Nutter, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Nilesh Patel, Norman Paton, Jeff Pepper, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, David Robertson, Jeremy Rodgers, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, David Rydeheard, Graham Riley, Daniella Ryding, Ulrike Sattler, Ahmed Saeed, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schlegel, Renate Schmidt, Jonathan Shapiro, Julian Skyrme, Elaine Sheehan, [Liz Sheffield](https://www.manchester.ac.uk/discover/governance/structure/board-governors/members/liz-sheffield/), Bushra Sikander, Stian Soiland-Reyes, Kieran Smallbone, Alastair Smith, David Spendlove, Robert Stevens, Neil Swainston, Paul Taplin, Federico Tavella, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, [Tony Trinci](https://www.theguardian.com/science/2020/nov/10/tony-trinci-obituary), Imran Uddin, Jake Vasilakes, Laura Vasques, Markel Vigo, Andrei Voronkov, Niels Walet, Alex Walker, [David Walker](https://en.wikipedia.org/wiki/David_Alan_Walker), Louise Walker, Dieter Wiechart, Natalie Wood, Igor Wodiany, Lisa Wright, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan Xu, Viktor Yarmolenko, Yeliz Yesilada, Serafeim Zanikolas, Xiao-Jun Zeng, Jun Zhao, Liping Zhao, Ning Zhang and Evgeny Zolin.
+Thanks to past and present academic colleagues, PhD students and teachers at the University of Manchester who have contributed to this guidebook and the environment it was written in which is bound together by the [power of weak ties](#weakties) as well as stronger ones. They include (in alphabetical order) Pinar Alper, Sophia Ananiadou,  Terri Attwood, Sam Bail, Robin Baker, Richard Banach, Cassie Barlow, Riza Batista-Navarro, Niall Beard, Sean Bechhofer, Helena Björn van Praagh, Stewart Blakeway, Petrut Bogdan, Caroline Bowsher, Nick Brown, Oscar Corcho, Andy Bridge, Andy Brass, Andy Brown, Gavin Brown, Terry V. Callaghan, Grant Campbell, Angelo Cangelosi, Peter Capon, Andy Carpenter, Nicola Carrier, Barry Cheetham, Ke Chen, Sarah Clinch, Ian Cottam,  Paul Dobson, Clare Dixon, Danny Dresner, Doug Edwards, Anas Elhaig, Suzanne Embury, Michael Emes, Alvaro Fernandes, Jonathan Ferns, Nick Filer, Steve Furber, Andre Freitas, Aphrodite Galata, Matthew Gamble, Jim Garside, Chris Gilbert, Danielle George, Richard Giordano, Birte Glimm, Carole Goble, Rafael Gonçalves, Antoon Goderis, Roy Goodacre, Bernardo Cuenca Grau, Peter Green, Keith Gull, John Gurd, Luke Hakes, Robert Haines, Guy Hanke, Simon Harper, Jonathan Heathcote, Gareth Henshall, Andrew Horn, Matthew Horridge, Ian Horrocks, Toby Howard, Roger Hubbold, Jules Irenge, Daniel Jameson, Caroline Jay, Mirantha Jayathilaka, Huw Jones, Yevgeny Kazakov, John Keane, Douglas Kell, Rachel Kenyon, Joshua Knowles, Dirk Koch, Ioannis Kotsiopoulos, Alice Larkin, Peter Lammich, John Latham, Kung-Kiu Lau, Dave Lester, Peter Li, Zewen Liu, Phil Lord, Mikel Lujan, Paul Mativenga, Erica McAlister, April McMahon, Simon Merrywest, Colin Morris, Norman Morrison, Georgina Moulton, Boris Motik, Christoforos Moutafis, Tingting Mu, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Tim O'Brien, Steve Oliver, Mario Ramirez Orihuela, Stuart Owen, Ali Owrak, Pavlos Petoumenos, Jackie Potter, Malcolm Press, Colin Puleston, Paul Nutter, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Jeff Pepper, Steve Pettifer, Allan Ramsay, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, David Robertson, Jeremy Rodgers, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, David Rydeheard, Graham Riley, Daniella Ryding, Ulrike Sattler, Ahmed Saeed, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schlegel, Renate Schmidt, Jonathan Shapiro, Julian Skyrme, Elaine Sheehan, [Liz Sheffield](https://www.manchester.ac.uk/discover/governance/structure/board-governors/members/liz-sheffield/), Bushra Sikander, Stian Soiland-Reyes, Kieran Smallbone, Alastair Smith, David Spendlove, Robert Stevens, Shoaib Sufi, Neil Swainston, Paul Taplin, Federico Tavella, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, [Tony Trinci](https://www.theguardian.com/science/2020/nov/10/tony-trinci-obituary), Jake Vasilakes, Laura Vasques, Delia Vazquez, Markel Vigo, Andrei Voronkov, Niels Walet, Alex Walker, David Walker, Louise Walker, Dieter Wiechart, Natalie Wood, Igor Wodiany, Lisa Wright, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan Xu, Viktor Yarmolenko, Yeliz Yesilada, Serafeim Zanikolas, Xiao-Jun Zeng, Jun Zhao, Liping Zhao, Ning Zhang and Evgeny Zolin.
 
 Optimists will tell you that “everyone has a book in them...”, but pessimists like [Christoph Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's where it should remain”. [@everyone]
 
@@ -223,11 +233,14 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 (ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
 
-Thanks also to the fantastic support staff (past and present) from professional services who make all the magic of teaching and learning possible: Jennie Ball-Foster, Christine Bowers, Karen Butterworth, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Iain Hart, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Cameron McDonald, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Chris Page, Melanie Price, Chris Rhodes, Angela Standish, Martine Storey, Bernard Strutt, Jannine Thomas, Joseph Tirone, Anna Warburton-Ball, Sarah White,  Elizabeth Wilkinson, Andrew Whitmore and Mabel Yau.
+Thanks also to the fantastic support staff (past and present) from professional services who make all the magic of teaching and learning possible: Jennie Ball-Foster, Christine Bowers, Karen Butterworth, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Iain Hart, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Cameron McDonald, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Chris Page, Melanie Price, Chris Rhodes, Martin Ross, Angela Standish, Martine Storey, Bernard Strutt, Jannine Thomas, Joseph Tirone, Anna Warburton-Ball, Sarah White, Elizabeth Wilkinson, Andrew Whitmore and Mabel Yau.
 
 And Wendy, we all miss you and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) Fight the Power! ✊🏽
 
 So, thank you to colleagues for being collegiate. You all make the University of Manchester a great place to be, even during a global pandemic. 🙏
+
+<!--### Thanks to schools {#canteach}
+Thanks to staff (particularly Stuart Ferguson and Chris Almond and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) in Dorset, [Greendown Community School](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire, and [St Annes RC High School](St Anne's RC Voluntary Academy), Stockport who helped me to improve my teaching. Thanks to Malcolm and my fellow teacher trainees Katharine Platt, Harriet Edwards, Joana Shaw, Vicky Dury at the University of Bath.-->
 
 ### Thanks to influencers {#influences}
 
@@ -303,7 +316,7 @@ Most of what I have learned about employment comes from listening to, and watchi
 
 ## Legal stuff {#legal}
 
-I am not a lawyer ([IANAL](https://en.wikipedia.org/wiki/IANAL)) but any opinions expressed in this guidebook are my own and not representative of my current employer, the University of Manchester. Also:
+I am not a lawyer ([IANAL](https://en.wikipedia.org/wiki/IANAL)) but any opinions expressed in this guidebook are my own and not representative of my current employer, the University of Manchester and therefore do not represent University policy. Also:
 
 ### Licensing  {#license}
 This guidebook is published under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) license. This means you can copy and redistribute the written material provided that:
