@@ -125,7 +125,7 @@ You might want to choose carefully where you do this as it might look a bit stra
 
 ### Reading the friendly manual {#rtfm}
 
-You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good at communicating with people by just *writing* stuff in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases etc. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
+You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good at communicating with people by just *writing* stuff in natural languages like english. You need to *read* stuff too. Books, manuals, software documentation, articles, use cases, novels, poetry, plays, joke books etc. Reading this stuff will help you learn and you'll improve your written communication skills too. This sentiment is commonly expressed in Computer Science as [read the friendly manual (RTFM)](https://en.wikipedia.org/wiki/RTFM), as shown in figure \@ref(fig:rtfm-fig)
 
 ```{r rtfm-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionalrtfm)"}
 knitr::include_graphics("images/RTFM.jpg")
