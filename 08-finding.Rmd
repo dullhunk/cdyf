@@ -46,7 +46,7 @@ These resources are specifically aimed at undergraduate students and graduates:
 
 These resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
 
-* Google job search aggregates content from many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the sources listed above. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like **job**, **intern** or **placement** in a vanilla google search will trigger the job search product:
+* Google job search aggregates content from many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the sources listed above. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in a vanilla google search will trigger the job search product:
 
     -[google.com/search?q=software+engineering+intern+manchester](https://www.google.com/search?q=software+engineering+intern+manchester)
 
@@ -109,9 +109,12 @@ knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, i
 ## Discussion points
 
 * How many jobs should you apply for?  
-* Why is it important to build you network?
-* How can recruiters help you and whose side are they on anyway?
+* Why is it important to build your network?
+* How can recruiters help you?
+* Whose side are recruiters on, yours or somebody else?
 * How long does it take to apply for a job?
+* How many jobs should I apply for?
+* Should I optimise for *quality* or *quantity* of job applications?
 
 
 ## The power of weak ties {#weakties}
