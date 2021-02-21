@@ -35,12 +35,12 @@ This guidebook supports second year teaching at the University of Manchester, bu
 
 So there is probably something in this guidebook for every student of computing around the world. 🌎🌍🌏
 
-## Aims of Coding your Future {#vaccine}
-This guidebook will help you develop healthier habits of mind, body and soul using five key ingredients:
+## Aiming at your future {#vaccine}
+This guidebook aims to help you develop healthier habits of mind, body and soul using five key ingredients:
 
 1. **C**ode: Instructions contained in this guidebook
 1. **D**ata: Facts and statistics collected together for analysis
-1. **Y**ou: This guidebook needs you to *do* things other than just reading
+1. **Y**ou: Activities for you to do in addition to reading
 1. **F**utures: Think about the future. [@thinkaboutthefuture] Try not to dwell on the past
 1. **M**e: Hello, my name is Duncan. I'm your tour guide here. If you feel a bit lost, follow me.
 
@@ -237,9 +237,7 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 Thanks also to the superb support staff (past and present) from professional services, especially the Academic Support Office (ACSO), Student Suport Office (SSO) and external affairs office. Professional services staff have made all the magic of teaching and learning possible: Jennie Ball-Foster, Christine Bowers, Karen Butterworth, Chris Connolly, Gavin Donald, Miriam Cadney, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Iain Hart, Kath Hopkins, Lynn Howarth, Radina Ivanova, Alex Jones, Mike Keeley, Jez Lloyd, Dominic Laing, Gill Lester, Ruth Maddocks, Cameron McDonald, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Chris Page, Melanie Price, Chris Rhodes, Martin Ross, Angela Standish, Martine Storey, Bernard Strutt, Jannine Thomas, Joseph Tirone, Anna Warburton-Ball, Sarah White, Elizabeth Wilkinson, Andrew Whitmore and Mabel Yau.
 
-And Wendy, we all miss you and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe)
-
-✊🏽 [Fight the Power](https://en.wikipedia.org/wiki/Fight_the_Power_(Public_Enemy_song))! ✊🏽 [@fightthepower]
+And Wendy, we all miss you and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) ✊🏽 [Fight the Power](https://en.wikipedia.org/wiki/Fight_the_Power_(Public_Enemy_song))! ✊🏽 [@fightthepower]
 
 So, thank you to colleagues for being collegiate. You all make the University of Manchester a *fantastic* place to work, even during a global pandemic. 🙏
 
@@ -253,10 +251,10 @@ Some of the most important influences on this book are people I've only met very
 * Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for her cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
 * Thanks to [Yihui Xie](https://yihui.org/en/about/) ([\@yihui](https://github.com/yihui)) for [bookdown.org](https://bookdown.org), the software used to produce this book alongwith the comprehensive and well-written documentation on using it. [@xie2017; @xie2015; @xie2020;]
 * Thanks to [Sally Fincher](https://scholar.google.com/citations?user=CwnKRzMAAAAJ) and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
-* Thanks to Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman))and [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
+* Thanks to Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) and [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a significant influence on this book had a gradual but dramatic effect on my personal and professional life
 * Thanks to Jonathan Black ([\@JonathanPBlack](https://twitter.com/JonathanPBlack)) for his book *Where am I Going, Can I Have a Map?*, [@jonathanblack] his *Financial Times* columns [@ft] and videos.
-* Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration to me and many others. [@cs50; @cs50mcr; @cs50zoom] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017.
+* Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration to me and many others. [@cs50; @cs50mcr; @cs50zoom;]<!--@cs502021--> Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017.
 * Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for her *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my priorities when they were all out of kilter
 * Thanks to Canadian web geek with a camera [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) it was good to shake your hand and say hello at the [XML Summer school](https://xmlsummerschool.com/) although I forget which year it was. I have enjoyed your [ongoing blog](https://www.tbray.org/ongoing/) for a fair few years, as an existence proof that engineers should also be good communicators
 * Thanks to [Sophie Milliken](https://twitter.com/SRS_Sophie) for *From Learner to Earner: A recruitment insider's guide for students wanting to achieve graduate* [@milliken] which draws useful distinctions between graduate jobs and graduate schemes
