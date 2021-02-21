@@ -1,6 +1,6 @@
 # Speaking your future {#interviewing}
 
-Congratulations, you've been invited to an interview. It might be a telephone, video or face-to-face, or it might even be as part of an assessment centre where you'll be asked to complete several other tasks and tests. Being invited to an interview means that the reading and writing of your CV, along with any accompanying covering letters, application forms or digital portfolios, have hit the target. BULLSEYE! 🎯
+Congratulations, you've been invited to an interview. It might be a telephone, video or face-to-face, or it might even be as part of an assessment centre where you'll be asked to complete several other tasks and tests. Being invited to an interview means that your CV, along with any accompanying covering letters, application forms or digital portfolios, have hit the target. All that reading and writing has paid off. BULLSEYE! 🎯
 
 ```{r bugfree-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbugfree)"}
 knitr::include_graphics("images/My CV is bug free.png")
@@ -35,11 +35,16 @@ Broadly speaking there are two basic kinds of interviews
 * technical or [coding interview](https://en.wikipedia.org/wiki/Coding_interview)
 * non-technical interview, sometimes called competency based interview or HR interview (human resources)
 
+These can be conducted in various modes:
+
+### Interview mode {#mode}
+
+Interviews are conducted in various modes depending
+
+
 ### Competency interviews {#hrinterview}
 
 Competency interviews are there to test your soft skills, find out what you're like, how you work in a team, if you can communicate well. For more information on non-technical interviews see:
-
-* [google.com/search?q=competency+based+interview+questions](https://www.google.com/search?q=competency+based+interview+questions)
 
 
 1. What roles can you play in a team?
@@ -54,6 +59,7 @@ Competency interviews are there to test your soft skills, find out what you're l
 1. Tell me about a time that you made a decision and then changed your mind.
 1. Tell me about a time when you achieved success even when the odds were stacked against you.
 
+* [google.com/search?q=competency+based+interview+questions](https://www.google.com/search?q=competency+based+interview+questions)
 * [careers.manchester.ac.uk/applicationsinterviews/interviews](https://www.careers.manchester.ac.uk/applicationsinterviews/interviews/)
 
 Since there's already tonnes of information The rest of this chapter will focus on technical interviews, also known as coding interviews.
