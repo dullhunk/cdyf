@@ -37,14 +37,26 @@ Broadly speaking there are two basic kinds of interviews
 
 These can be conducted in various modes:
 
-### Interview mode {#mode}
+### Modes of interview {#mode}
 
-Interviews are conducted in various modes depending
+Interviews can be conducted in various modes:
+
+```{r bobonmute-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:bobonmute)"}
+knitr::include_graphics("images/bob-youre-on-mute.png")
+```
+
+(ref:bobonmute) Remember to do the mute / unmute toggle dance if you have a teleconference interview on zoom or similar. [Bob...](https://bryanmmathers.com/bob/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
+* telephone (no visual contact)
+* pre-recorded pieces to camera (this is you talking to your webcam)
+* teleconference (zoom / teams etc) with cameras and microphones turned on
+* real-time face to face
 
 
 ### Competency interviews {#hrinterview}
 
-Competency interviews are there to test your soft skills, find out what you're like, how you work in a team, if you can communicate well. For more information on non-technical interviews see:
+Competency interviews are there to test your soft skills, find out what you're like, how you work in a team, if you can communicate well. Here are some common competency interview questions. Imagine you are going on a stage, prepare lines that answer these questions, rehearse them out loud in front of a mirror.
 
 
 1. What roles can you play in a team?
