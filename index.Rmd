@@ -18,7 +18,7 @@ knit: "bookdown::render_book"
 always_allow_html: true
 ---
 
-# Welcome to your future {-}
+# Welcome to your future {.unnumbered}
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
@@ -35,14 +35,21 @@ This guidebook supports second year teaching at the University of Manchester, bu
 
 So there is probably something in this guidebook for every student of computing around the world. 🌎🌍🌏
 
-## Aiming at your future {#vaccine}
-This guidebook aims to help you develop healthier habits of mind, body and soul using five key ingredients:
+## Visualising your future {#picturethis}
+A lot of literature about managing your future can unfortunately be rather dry, dull, textbooky and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice wonders what books are for if they don't have pictures and conversations:
 
-1. **C**ode: Instructions contained in this guidebook
-1. **D**ata: Facts and statistics collected together for analysis
-1. **Y**ou: Activities for you to do in addition to reading
-1. **F**utures: Think about the future. [@thinkaboutthefuture] Try not to dwell on the past
-1. **M**e: Hello, my name is Duncan. I'm your tour guide here. If you feel a bit lost, follow me.
+> Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” -- [gutenberg.org/files/11/11-h/11-h.htm#chap01](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01)
+
+So this book uses pictures and conversations to help you visualise your future.
+
+## Aiming at your future {#vaccine}
+To envisage your future you may need to develop healthier habits of mind, body and soul using five key ingredients:
+
+1. **Code:** Instructions contained in this guidebook
+1. **Data:** Facts, statistics and images collected together for your analysis
+1. **You:** Activities for you to do in addition to reading
+1. **Futures:** Possible futures for you to think about. Think about the future. [@thinkaboutthefuture] Try not to dwell on the past
+1. **Me:** Hello, my name is Duncan. I'm your tour guide here. If you feel a bit lost, follow me.
 
 Coding your future explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
 
@@ -66,7 +73,7 @@ After reading this guidebook, watching the videos and doing the exercises you wi
 1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
 1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
 1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
-1. Improve reading skills to search, browse and navigate large documents like this one. Think of it as a large wordbase, much like a large codebase, only this one is mostly written in natural language.
+1. Search and navigate a large wordbase (this book). much like a large codebase, only this one is mostly written in natural language.
 
 <!--codebase, documentbase, languagebase, wordbase-->
 
@@ -78,8 +85,16 @@ As the title of this guidebook implies, there is a computational flavour here, b
 
 So the prerequisites for this book are that you are studying (or have studied) at University where English is one of the main spoken languages. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
 
-### Don't read this, gut it! {#gut}
-I don't recommend you read this book from cover to cover in one sitting. Instead, I suggest you follow the advice given to historian [William Woodruff](https://en.wikipedia.org/wiki/William_Woodruff) about reading books when he was at University:
+### Don't read this book, gut it! {#gut}
+I don't recommend you read this book from cover to cover in one sitting. That would be foolish.
+
+```{r gut-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongut)"}
+knitr::include_graphics("images/fish-gutting.png")
+```
+
+(ref:captiongut) Don't read this book, gut it like a fish. Gutting fish in Isla Margarita image by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m)
+
+Instead of reading this book, I suggest you follow the advice given to historian [William Woodruff](https://en.wikipedia.org/wiki/William_Woodruff) about reading books when he was at University:
 
 > “You don't READ books, you GUT them!” [@nabend] 🐟
 
