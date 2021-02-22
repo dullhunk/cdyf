@@ -84,7 +84,7 @@ I don't recommend you read this book from cover to cover in one sitting. Instead
 > “You don't READ books, you GUT them!” [@nabend] 🐟
 
 So, gut this book like a fish. Identify the chapters that are most useful to you (the flesh), and skip the rest (the guts). Which chapters are flesh and which are guts will depend on what stage of the journey you are at. This guidebook is designed to be as “guttable” as possible.
-To aid gutting, the version published at [cdyf.me](https://www.cdyf.me/) has a built in search and tables of contents. Before you can gut the fish, you'll need a map.
+To aid gutting, the version published at [cdyf.me](https://www.cdyf.me/) has a built in search and tables of contents. Before you can gut the fish, you'll need an anatomical map shown in figure \@ref(fig:map-fig).
 
 <!--
 ```{block2, type="rmdimportant"}
@@ -98,7 +98,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into three parts. The first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) shown in the map in Figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for rebooting your future. Let's look in a bit more detail at the content of each of the three parts of this guidebook:
+This guidebook is split into three parts. The first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) shown in the map in figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for rebooting your future. Let's look in a bit more detail at the content of each of the three parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map.png")
@@ -300,7 +300,7 @@ Many of the illustrations for this book have been drawn by the very talented Bry
 knitr::include_graphics("images/self-portrait.png")
 ```
 
-(ref:captionselfportrait) [Self portrait](https://bryanmmathers.com/self-portrait/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionselfportrait) [Bryan Mathers Self portrait](https://bryanmmathers.com/self-portrait/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Bryan is an artist, visual thinker and entrepreneur, who also happens to have a Bachelors degree in Computer Science from the University of Glasgow. His combined skills in art, science and engineering made him the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm *sooo* glad we randomly bumped into each other at a conference.
 
