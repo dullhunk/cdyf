@@ -42,9 +42,11 @@ Anxiety is one of most prevalent mental health disorders and can lead to depress
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9mPwQTiMSj8" frameborder="0" allowfullscreen></iframe>
 '`
-```{r anxious-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Generalised anxiety disorder is a condition characterised by excessive, persistent and unreasonable amounts of anxiety and worry about everyday things. You'll need to click through to youtube.com to watch the full video"}
+```{r anxious-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = ""}
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
+
+(ref:captiongad) Generalised anxiety disorder is a condition characterised by excessive, persistent and unreasonable amounts of anxiety and worry about everyday things. Note that the video takes an American perspective using American terminology such as [DSM–5](https://www.psychiatry.org/psychiatrists/practice/dsm). The drugs referred to are [selective serotonin reuptake inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) are a widely used type of antidepressant. [Benzodiazepines](https://www.mind.org.uk/information-support/drugs-and-treatments/sleeping-pills-and-minor-tranquillisers/about-benzodiazepines/) are less widely used in the UK and much more addictive. 
 
 ### Depression
 

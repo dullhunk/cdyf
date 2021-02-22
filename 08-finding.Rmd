@@ -1,6 +1,6 @@
 # Finding your future {#finding}
 
-So you've successfully [debugged your CV](#debugging). How can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? 🔭
+So you've successfully [debugged your future](debugging.html). How can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? 🔭
 
 ```{r yesbut-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionyesbut)"}
 knitr::include_graphics("images/Yes but how do I.png")
@@ -58,7 +58,7 @@ These resources are aimed at a wider audience (not just students and graduates) 
 
     -[google.com/search?q=data+scientist+placement](https://www.google.com/search?q=data+scientist+placement)
 
-    -(If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/))
+    -If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/)
 
 * [LinkedIn](http://www.linkedin.com) advertises job vacancies, is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job) and you can often [apply for jobs directly on LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) (athough [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)). See [university.linkedin.com/linkedin-for-students](https://university.linkedin.com/linkedin-for-students) and [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
 * [glassdoor.co.uk](http://www.glassdoor.co.uk/) is like tripadvisor for jobs. Find out what it's *really* like to work for given employers from current and former employees. A student oriented version can be found at [glassdoor.com/Students](https://www.glassdoor.com/Students), this means you can use it without writing a review of a previous employer (which is what non-student users have to do to access the content)
@@ -84,7 +84,7 @@ https://www.graduate-jobs.com/gco/Booklet/graduate-recruitment-calendar.jsp
 
 It is a good idea to have a range of different strategies for job hunting, and change the strategy during the year. Before we look at strategies, it's important to realise that when you're reading job descriptions for vacancies, some employers will over state their requirements in the hope they get their dream candidate. You might look at the job description and think, I've only got 70% of what they're asking for, so I won't bother applying. The truth is, if you've got 75% of what they are asking for, you should definitely apply.
 
-### Over specified jobs
+### Over specified job descriptions
 Employers and recruiters routinely over-specify job descriptions. A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC), job adverts instantly appeared asking for programmers with "5 years experience in Swift"! How can anyone have five years experience in a programming language that's only just been made public? Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the employers are going to have long searching trying to find their candidate.
 
 ```{r iamdevloper-fig,echo=FALSE, fig.cap = "Job interview: sort binary tree. Job: manually update csv files ... We're looking for someone aged 22-26 with 30 years of experience "}
