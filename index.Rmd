@@ -36,7 +36,15 @@ This guidebook supports second year teaching at the University of Manchester, bu
 So there is probably something in this guidebook for every student of computing around the world. 🌎🌍🌏
 
 ## Visualising your future {#picturethis}
-A lot of literature about what comes after University can be rather dry, dull, textbook-y and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice wonders what books are for if they don't have pictures and conversations:
+A lot of literature about what comes after University can be rather dry, dull, textbook-y and boring with few illustrations and conversations.
+
+```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionalicecover)"}
+knitr::include_graphics(rep("images/Alicesadventuresinwonderland1898.jpg", 3))
+```
+(ref:captionalicecover) The cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)*. Public domain image via Wikimedia Commons [w.wiki/327E](https://w.wiki/327E)
+
+
+In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice wonders what books are for if they don't have pictures and conversations:
 
 > Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” -- See [gutenberg.org](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) [@wonderland]
 
