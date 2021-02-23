@@ -1,6 +1,6 @@
 # Looking after your future {#wellbeing}
 
-It doesn't matter if you are a student, an employee or even both at the same time. To be successful at studying or working, you need to take your well-being seriously. By well-being, I mean your health and happiness. Your health isn't just about your physical health but also your mental health and the two are very closely linked. It's all too easy when you are busy or stressed to neglect your well-being and then **bad-stuff™** happens. This chapter looks at your well-being, and how you can nurture and look after it. Because your looking after yourself is also looking after your future. 😀
+It doesn't matter if you are a student, an employee or even both at the same time. To be successful at studying or working, you need to take your well-being seriously. By well-being, I mean your health and happiness. Your health isn't just about your physical health but also your mental health and the two are very closely linked. It's all too easy when you are busy or stressed to neglect your well-being and then **bad-stuff™** happens. This chapter looks at your well-being, and how you can nurture and look after it. Because looking after yourself will also look after your future. 😀
 
 ```{r turing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionturunning)"}
 knitr::include_graphics("images/alan-turing-runner.jpg")
@@ -35,7 +35,7 @@ The *persistent* and *lasting a long time* are important here because while its 
 
 <!--https://youtu.be/RsfNkSZmUc8-->
 
-### Anxiety
+### Anxiety {#anxiety}
 
 Anxiety is one of most prevalent mental health disorders and can lead to depression, increased risk of suicide. Generalised Anxiety Disorder (GAD), a common form of anxiety is explained in the video in Figure \@ref(fig:anxious-fig) and at [nhs.uk/conditions/generalised-anxiety-disorder](https://www.nhs.uk/conditions/generalised-anxiety-disorder/). People who are affected by anxiety may struggle to function normally, and find routine everyday task difficult or impossible.
 
@@ -46,9 +46,9 @@ Anxiety is one of most prevalent mental health disorders and can lead to depress
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
 
-(ref:captiongad) Generalised anxiety disorder is a condition characterised by excessive, persistent and unreasonable amounts of anxiety and worry about everyday things. Note that the video takes an American perspective using American terminology such as [DSM–5](https://www.psychiatry.org/psychiatrists/practice/dsm). The drugs referred to are [selective serotonin reuptake inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) are a widely used type of antidepressant. [Benzodiazepines](https://www.mind.org.uk/information-support/drugs-and-treatments/sleeping-pills-and-minor-tranquillisers/about-benzodiazepines/) are less widely used in the UK and much more addictive.
+(ref:captiongad) Generalised anxiety disorder is a condition characterised by excessive, persistent and unreasonable amounts of anxiety and worry about everyday things. Note that the video takes an American perspective using American terminology such as [DSM–5](https://www.psychiatry.org/psychiatrists/practice/dsm).
 
-### Depression
+### Depression {#depression}
 
 Millions of people around the world live with depression. If you are affected by depression it can be really hard to talk about it as there are many social stigmas around mental health. Thankfully depression is largely preventable and treatable. Recognising depression and seeking help is the first and most critical step towards recovery. To mark [World Mental Health Day](https://en.wikipedia.org/wiki/World_Mental_Health_Day) writer and illustrator Matthew Johnstone tells the story of how he overcame the “black dog of depression” in the video in Figure \@ref(fig:sad-fig) made in collaboration with the World Health Organization (WHO).
 
@@ -58,6 +58,13 @@ Millions of people around the world live with depression. If you are affected by
 ```{r sad-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog"}
 knitr::include_graphics("images/emptyFFFFFF-0.png")
 ```
+
+### Drugs {#drugs}
+Sometimes the drugs don't work, they just make you worse. Medication works for some people but not for others. For example, when I was affected by depression, [selective serotonin reuptake inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) worked for me. But they don't for everybody.
+
+Some doctors prescribe [benzodiazepines](https://www.mind.org.uk/information-support/drugs-and-treatments/sleeping-pills-and-minor-tranquillisers/about-benzodiazepines/) which may be effective where SSRI's are not, but these can be addictive.
+
+It is often worth considering cognitive behavioural therapy (CBT) before taking any medication.  *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being) is an easy way to access some CBT free online. See the signposts section at the end of this chapter [@lauriesantos]
 
 ## Look after yourself
 Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise, mindfulness and friendship. Looking after yourself means at least three things:
@@ -296,7 +303,9 @@ There’s plenty of evidence to suggest that social media can have a detrimental
 
 If all these books are making you sleepy, neuroscientist Matthew Walker’s *[Why We Sleep: The New Science of Sleep and Dreams](https://en.wikipedia.org/wiki/Why_We_Sleep)* may change your view on the importance of a good nights sleep. [@whywesleep]
 
-Finally, it's well worth taking a look at [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) course on *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being). [@lauriesantos] TSOWB is the most popular course at Yale University and looks at some simple techniques you can use to improve your happiness. [@happinessny] The course will help you  increase your happiness and build more productive habits. Using the latest research, Santos describes the misconceptions about happiness and “annoying features” of your mind that can impair your well-being. The course takes about 19 hours to complete but you can spread this over a whole semester (or longer) if you choose. The short clip in figure \@ref(fig:laurie-fig) gives you a brief taster of Laurie's style and work.
+Finally, it's well worth taking a look at [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) course on *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being). [@lauriesantos] TSOWB course provides an alternative to medication as it follows the principles of cognitive behavioural therapy (CBT).
+
+TSOWB is the most popular course at Yale University and looks at some simple techniques you can use to improve your happiness. [@happinessny] The course will help you increase your happiness and build more productive habits. Using the latest research, Santos describes the misconceptions about happiness and “annoying features” of your mind that can impair your well-being. The course takes about 19 hours to complete but you can spread this over a whole semester (or longer) if you choose. The short clip in figure \@ref(fig:laurie-fig) gives you a brief taster of Laurie's style and work.
 
 
 <!-- santos video at https://www.youtube.com/watch?v=HStWtmSCAS8 -->

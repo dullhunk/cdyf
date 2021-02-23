@@ -35,8 +35,8 @@ This guidebook supports second year teaching at the University of Manchester, bu
 
 So there is probably something in this guidebook for every student of computing around the world. 🌎🌍🌏
 
-## Visualising your future {#picturethis}
-A lot of literature about what comes after University can be rather dry, dull, textbook-y and boring with few illustrations and conversations.
+## Visualising your future in wonderland {#picturethis}
+A lot of literature about what comes after University can be dry, dull, textbook-y and boring with few illustrations and conversations.
 
 ```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionalicecover)"}
 knitr::include_graphics(rep("images/Alicesadventuresinwonderland1898.jpg", 3))
@@ -48,7 +48,7 @@ In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/A
 
 > Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” -- See [gutenberg.org](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) [@wonderland]
 
-So this book uses pictures and conversations wherever possible to help you visualise your future.
+So this book uses pictures and conversations wherever possible to help you understand and  visualise your future.
 
 ## Aiming your future {#vaccine}
 To envisage your future you may need to develop healthier habits of mind, body and soul using five key ingredients:
@@ -81,7 +81,7 @@ After reading this guidebook, watching the videos and doing the exercises you wi
 1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
 1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
 1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
-1. Search and navigate a large wordbase (this book). much like a large codebase, only this one is mostly written in natural language.
+1. Search and navigate a large “wordbase” (this book). A wordbase is like a codebase, only written mostly in natural language.
 
 <!--codebase, documentbase, languagebase, wordbase-->
 
@@ -175,7 +175,7 @@ Each chapter of the book will typically contain the following recurring themes:
 1. **Watching** videos and animations for you to watch
 1. **Listening** audio and podcasts for you to listen to
 1. **Speaking** articulating written work
-1. **Discussing** points of discussion with your peers and friends
+1. **Discussing** [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) of discussion with your peers and friends, where you stop the code and think about the variables and parameters you are using
 1. **Reading** reading stuff because its good for your soul
 1. **Writing** written exercises using natural language
 1. **Quizzing** quick quizzes to be done in [real-time live scheduled sessions](scheduling.html) (synchronously) and in your own time (asynchronously)
@@ -243,7 +243,7 @@ I've also had significant support from academic colleagues in the Department of 
 
 I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking (about the book) but it actually turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
 
-I'd also like to thank the only three people in the whole world who had the misfortune to read my PhD thesis, [Robert Stevens](https://en.wikipedia.org/wiki/Robert_David_Stevens), [Anil Wipat](https://www.ncl.ac.uk/computing/staff/profile/anilwipat.html) and [Steve Pettifer](https://en.wikipedia.org/wiki/Steve_Pettifer). I suspect it was as painful for you to read as it was for me to write it. Thanks Robert for your relentless patience and giving me a well timed, well aimed kick up the arse in the [Midland Hotel, Manchester](https://en.wikipedia.org/wiki/Midland_Hotel,_Manchester) at the May ball. ⚽️🥅
+I'd also like to thank the only three people in the whole world who've had the misfortune of reading all of my PhD thesis; [Robert Stevens](https://en.wikipedia.org/wiki/Robert_David_Stevens), [Anil Wipat](https://www.ncl.ac.uk/computing/staff/profile/anilwipat.html) and [Steve Pettifer](https://en.wikipedia.org/wiki/Steve_Pettifer). I suspect it was as painful for you to read as it was for me to write it. Thanks Robert for your relentless patience and giving me a well timed, well aimed kick up the arse in the [Midland Hotel, Manchester](https://en.wikipedia.org/wiki/Midland_Hotel,_Manchester) at the May ball. ⚽️🥅
 
 <!-- back of the net alan partridge-->
 #### Thanks to academic staff {#academia}   
@@ -270,8 +270,25 @@ And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.ju
 
 So, thank you to colleagues for being collegiate. You all make the University of Manchester a *fantastic* place to work, even during a global pandemic. 🙏
 
+### Thank you Bath {#bath}
+<!--### Thanks Bath, Swindon, Shaftesbury & Stockport {#bath}-->
+As a graduate of the [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) course at the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) (graduated 2011), I have been heavily influenced by course leaders Malcolm, Caroline Padley and fellow students.
+
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbath)"}
+knitr::include_graphics("images/bath-panorama.png")
+```
+(ref:captionbath) Panormama of the City of [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset). Image cropped from Photo by David Iliff available under CC BY-SA 3.0 license via Wikimedia Commons at [w.wiki/32BS](https://w.wiki/32BS)
+
+Thanks teacher trainers for training me to teach. Thanks Bath for the [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis).
+
+### Thank you Shaftesbury {#shaftesbury}
+Thanks to Stuart Ferguson, David Booth and Chris Almond who hosted me as a PGCE student at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw keeping me awake on the long commutes to and from deepest darkest Dorset.
+
 <!--### Thanks to schools {#canteach}
-Thanks to staff (particularly Stuart Ferguson and Chris Almond and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) in Dorset, [Greendown Community School](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire, and [St Annes RC High School](St Anne's RC Voluntary Academy), Stockport who helped me to improve my teaching. Thanks to Malcolm and my fellow teacher trainees Katharine Platt, Harriet Edwards, Joana Shaw, Vicky Dury at the University of Bath.-->
+Thanks Moravian
+Thanks Stockport
+Thanks Shaftesbury
+Thanks to staff (particularly Stuart Ferguson and Chris Almond and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) in Dorset, [Greendown Community School](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire, and [St Annes RC High School](St Anne's RC Voluntary Academy), Stockport who helped me to improve my teaching. Thanks to Malcolm and
 
 ### Thanks to influencers {#influences}
 
@@ -309,7 +326,7 @@ cat(paste0(contributors$desc, collapse = ", "))
 If you'd like to contribute via github you can:  
 
 * raise an issue at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)  
-* click on the "edit this page" on any page at [cdyf.me](http://www.cdyf.me) which will initiate a pull request
+* click on the `edit this page` on any page at [cdyf.me](http://www.cdyf.me) which will initiate a pull request
 * `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
 * submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls)
 
