@@ -59,6 +59,13 @@ To envisage your future you may need to develop healthier habits of mind, body a
 1. **Futures:** Possible futures for you to think about. Think about the future. [@thinkaboutthefuture] Try not to dwell on the past
 1. **Me:** Hello, my name is Duncan. I'm your tour guide here. If you feel a bit lost, follow me.
 
+
+```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "69%", fig.cap = "(ref:captionhellomyname)"}
+knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
+```
+
+(ref:captionhellomyname) Hello my name is Duncan. Are you feeling a bit lost? Follow me. Image adapted from "Hello my name is sticker" by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
+
 Coding your future explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
 
 Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people and what your experience is. As there is a computational theme, you will also need to reflect on what your inputs and outputs ([I/O](https://en.wikipedia.org/wiki/Input/output)) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
@@ -142,7 +149,14 @@ The first part of this guidebook (chapters 1 to 6) looks at what engineers call 
 
 
 ### Building and testing your future {#partii}
-The next six chapters look at building and testing your future, what engineers like to call *implementation* or *execution*. Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
+The next six chapters look at building and testing your future, what engineers like to call *implementation*, *execution* or *construction* shown in figure \@ref(fig:bridge)
+
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
+knitr::include_graphics("images/manhattan_bridge.png")
+```
+(ref:captionbridge) Just like a bridge, your future will be hard to build until you've answered some fundamental design questions which are covered in the first part of this guidebook. [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge) under construction picture adapted from public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
+
+Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
 * [Debugging your future](debugging.html) looks at debugging your written communication such as covering letters,  application forms and digital portfolios.
 * [Finding your future](finding.html), looks at where and how can you look for interesting opportunities
@@ -271,10 +285,9 @@ And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.ju
 So, thank you to colleagues for being collegiate. You all make the University of Manchester a *fantastic* place to work, even during a global pandemic. 🙏
 
 ### Thank you Bath {#bath}
-<!--### Thanks Bath, Swindon, Shaftesbury & Stockport {#bath}-->
 As a graduate of the [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) in Science  at the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) (graduated 2011), I've been heavily influenced by the fantastic work of PGCE course leaders Caroline Padley, Steve Cooper, Malcolm and fellow students.
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbath)"}
+```{r bath-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbath)"}
 knitr::include_graphics("images/bath-panorama.png")
 ```
 (ref:captionbath) Panormama of the beautiful Georgian City of [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset). Image cropped from Photo by David Iliff available under CC BY-SA 3.0 license via Wikimedia Commons at [w.wiki/32BS](https://w.wiki/32BS)
@@ -282,7 +295,13 @@ knitr::include_graphics("images/bath-panorama.png")
 Thanks teacher trainers for training me to teach, thanks Bath for the [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotwolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)) .
 
 ### Thank you Shaftesbury {#shaftesbury}
-Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers and Clare Moss who hosted me as a PGCE student at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their knowledge through peer learning. Thanks Joan for keeping me awake on the long commutes to and from deepest darkest Dorset and sharing the heavy burden of driving.
+Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers and Clare Moss who hosted me as a PGCE student at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long commutes to and from deepest darkest Dorset and sharing the heavy burden of driving.
+
+```{r shaft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshaftesbury)"}
+knitr::include_graphics("images/shaftesbury.jpg")
+```
+
+(ref:captionshaftesbury) [Shaftesbury](https://en.wikipedia.org/wiki/Shaftesbury) is home to [Gold Hill, Shaftesbury](https://en.wikipedia.org/wiki/Gold_Hill,_Shaftesbury) and [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School).
 
 <!--### Thanks to schools {#canteach}
 Thanks Moravian

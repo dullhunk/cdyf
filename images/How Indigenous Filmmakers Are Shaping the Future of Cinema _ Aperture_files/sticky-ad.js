@@ -1,4 +1,0 @@
-(function($){$(document).ready(function(){jQuery('header.fl-builder-content').prepend(jQuery('.sticky-ad-container'));var lastScrollTop=$(window).scrollTop();$(window).scroll(function(){var scroll=$(window).scrollTop();if($('.sticky-ad-container').length&&$(window).width()>991&&scroll>=500){if(scroll>lastScrollTop){$('.sticky-ad-container').addClass('show');$("#header_main_row").addClass("conceal");}
-else{$('.sticky-ad-container').removeClass('show');$("#header_main_row").removeClass("conceal");}}
-else{$('.sticky-ad-container').removeClass('show');}
-lastScrollTop=scroll<=0?0:scroll;});});})(jQuery);
