@@ -272,7 +272,16 @@ The second is better because its more specific, captures the result (accomplishm
 
 
 ### Your length {#length}
-How long should your CV be? Many people start with a two page CV, which is a sensible starting point. It is also advisable to [create a one page Resume](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong] At this stage in your career you should be able to fit everything on to one page. It can be challenging squeezing it all on:
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point. It is also advisable to [create a one page Resume](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
+
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0abDOKHS5T0" frameborder="0" allowfullscreen></iframe>
+'`
+```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)?"}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+```
+
+At this stage in your career you should be able to fit everything on to one page. It can be challenging squeezing it all on:
 
 > “If I had more time, I would have written a shorter letter.” ---Anon
 
@@ -286,12 +295,6 @@ knitr::include_graphics("images/an-engineering-state-of-mind.png")
 
 If you're struggling to fit all the information onto a one page resume, revisit each section and item carefully. Is there anything you can drop? Can you save a wasteful word here, or a lazy line there? Check for any spurious line breaks because every pixel counts. Don't throw your two page CV away, its a good store of stuff you might want to add to customised one-page resumes.
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0abDOKHS5T0" frameborder="0" allowfullscreen></iframe>
-'`
-```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)?"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
-```
 
 
 
@@ -388,7 +391,7 @@ show me the money!-->
 
 ## Breakpoints
 
-Some breakpoints for discussion:
+Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
 
 * How long should your CV be?
 * Should you have a personal statement on your CV?
