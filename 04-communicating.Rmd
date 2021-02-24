@@ -61,7 +61,7 @@ io_table <- tibble::tribble(
 knitr::kable(io_table, caption = "Fundamental inputs of outputs of communication ", booktabs = TRUE)
 ```
 
-Engineers and scientists sometimes lack communication skills outlined in table \@ref(tab:iotable). Think of your stereotypical scientist, clad in a white coat, unable to explain the complexities of their subject to people outside their lab. Then there is the nerdy software engineer stereotype who prefers the company of computers to people. Yes, these are lazy and sometimes unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators.
+Engineers and scientists sometimes lack communication skills outlined in table \@ref(tab:iotable). Think of your stereotypical scientist, clad in a white coat, unable to explain the complexities of their subject to people inside their lab, let alone outside of it. Then there is the nerdy software engineer stereotype who prefers the company of computers to people. Yes, these are lazy and sometimes unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators.
 
 ### The pen is mightier than the sword {#mightier}
 The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on written communication skills because:
