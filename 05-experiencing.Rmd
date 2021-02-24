@@ -176,4 +176,8 @@ What the the pros/cons of big vs small employers for placements
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
-As you can probably tell from its length, this chapter is under construction!
+This chapter is under construction because I'm using agile space station development methods, see figure \@ref(fig:deathstar2-fig).
+
+```{r deathstar2-fig, echo = FALSE, fig.align = "center", out.width = "32%", fig.cap = "(ref:captiondeathstar)"}
+knitr::include_graphics("images/DeathStar2.jpg")
+```
