@@ -149,12 +149,12 @@ The first part of this guidebook (chapters 1 to 6) looks at what engineers call 
 
 
 ### Building and testing your future {#partii}
-The next six chapters look at building and testing your future, what engineers like to call *implementation*, *execution* or *construction* shown in figure \@ref(fig:bridge)
+The next six chapters look at building and testing your future, what engineers like to call *implementation*, *execution* or *construction* shown in figure \@ref(fig:manhattan-fig)
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
+```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
 knitr::include_graphics("images/manhattan_bridge.png")
 ```
-(ref:captionbridge) Just like a bridge, your future will be hard to build until you've answered some fundamental design questions which are covered in the first part of this guidebook. [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge) under construction picture adapted from public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
+(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've started to answer some fundamental design questions which are covered in the first part of this guidebook on [designing your future](bothering.html). Manhattan bridge under construction picture adapted from public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
 
 Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
@@ -292,18 +292,30 @@ knitr::include_graphics("images/bath-panorama.png")
 ```
 (ref:captionbath) Panormama of the beautiful Georgian City of [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset). Image cropped from Photo by David Iliff available under CC BY-SA 3.0 license via Wikimedia Commons at [w.wiki/32BS](https://w.wiki/32BS)
 
-Thanks teacher trainers for training me to teach, thanks Bath for the [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotwolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)) .
+Thanks teacher trainers for training me to teach, thanks Bath for all the medicinal [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotwolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)) .
 
 ### Thank you Shaftesbury {#shaftesbury}
-Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers and Clare Moss who hosted me as a PGCE student at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long commutes to and from deepest darkest Dorset and sharing the heavy burden of driving.
+Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers and Caroline Moss who hosted my first PGCE student placement at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long commutes to and from deepest darkest Dorset and sharing the heavy burden of driving.
 
 ```{r shaft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshaftesbury)"}
 knitr::include_graphics("images/shaftesbury.jpg")
 ```
 
-(ref:captionshaftesbury) [Shaftesbury](https://en.wikipedia.org/wiki/Shaftesbury) is the home of [Gold Hill](https://en.wikipedia.org/wiki/Gold_Hill,_Shaftesbury) and [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School).
+(ref:captionshaftesbury) [Shaftesbury](https://en.wikipedia.org/wiki/Shaftesbury) is the home of [Gold Hill](https://en.wikipedia.org/wiki/Gold_Hill,_Shaftesbury) and [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Image of Gold Hill by Sean Davis via Wikimedia Commons [w.wiki/32gw](https://w.wiki/32gW) adapted using the [Wikipedia application](https://apps.apple.com/us/app/wikipedia/id324715238).
+
+### Thank you Swindon {#swindon}
+Thanks to staff and students at [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) for hosting my second PGCE placement.
 
 <!--### Thanks to schools {#canteach}
+
+* https://www.writhlington.org.uk/ orchid school
+* http://thebicesterschool.org.uk/
+* https://www.didcotgirls.oxon.sch.uk/
+
+* https://www.oasisacademybrislington.org/
+* https://www.redlandgreen.bristol.sch.uk/
+* https://www.cheltladiescollege.org/ I hope you can forgive me, I was so desperate for a job that I turned to the dark side
+
 Thanks Moravian
 Thanks Stockport
 Thanks Shaftesbury
