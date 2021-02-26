@@ -67,7 +67,7 @@ io_table <- tibble::tribble(
   "Spoken natural language"     , "Listening",      "Speaking",
   "Nonverbal language"    , "Observing other people",      "Being observed by others",
 )
-knitr::kable(io_table, caption = "Fundamental inputs of outputs of communication ", booktabs = TRUE)
+knitr::kable(io_table, caption = "The inputs and outputs of the fundamental assembly languages of human communication ", booktabs = TRUE)
 ```
 
 Engineers and scientists sometimes lack communication skills outlined in table \@ref(tab:iotable). Think of your stereotypical scientist, clad in a white coat, unable to explain the complexities of their subject to people inside their lab, let alone outside of it. Then there is the nerdy software engineer stereotype who prefers the company of computers to people. Yes, these are lazy and sometimes unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators.
