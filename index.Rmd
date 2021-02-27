@@ -162,7 +162,7 @@ The next six chapters look at building and testing your future, what engineers l
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
 knitr::include_graphics("images/manhattan_bridge.png")
 ```
-(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've started to answer some fundamental design questions which are covered in the first part of this guidebook on [designing your future](bothering.html). Manhattan bridge under construction picture adapted from public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
+(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've started to answer some fundamental design questions which are covered in the first part of this guidebook on [designing your future](bothering.html). Manhattan bridge under construction in 1909 picture adapted from public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
 
 Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
@@ -175,7 +175,12 @@ Once you've started to answer the design questions in the first part, you can st
 
 ### Supporting your future {#partiii}
 
-The third part of this book, contains supporting material that will help the design, build and test phases described above:
+The third part of this book, contains supporting material that will help the design, build and test phases described above. You'll need good support to help with the stresses and strains of building your future shown in \@ref(fig:clifton-fig)
+
+```{r clifton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclifton)"}
+knitr::include_graphics("images/clifton.png")
+```
+(ref:captionclifton) The [Clifton Suspension Bridge](https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge) in Bristol has chains which can move when  heavy loads pass over the bridge. Clifton suspension bridge picture adapted from original by Nic Trott via Wikimedia commons [w.wiki/32tu](https://w.wiki/32tu)
 
 * [Ruling your future](ruling.html) provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
 * [Reading their future](sampling.html) invites you to put yourself in the employers shoes by reading some CVs
@@ -312,7 +317,7 @@ knitr::include_graphics("images/shaftesbury.jpg")
 (ref:captionshaftesbury) [Shaftesbury](https://en.wikipedia.org/wiki/Shaftesbury) is the home of [Gold Hill](https://en.wikipedia.org/wiki/Gold_Hill,_Shaftesbury) and [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Image of Gold Hill by Sean Davis via Wikimedia Commons [w.wiki/32gw](https://w.wiki/32gW) adapted using the [Wikipedia application](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 ### Thank you Swindon {#swindon}
-Thanks to Clive Zimmerman, his staff, the head of science (MC), Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about waves using [Alom Shaha](https://twitter.com/alomshaha)s jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
+Thanks to [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his staff, Mr M. Carter <!--m.c.-->, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about waves using [Alom Shaha](https://twitter.com/alomshaha)'s jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
 
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VE520z_ugcU" frameborder="0" allowfullscreen></iframe>
