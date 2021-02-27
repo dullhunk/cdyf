@@ -312,7 +312,18 @@ knitr::include_graphics("images/shaftesbury.jpg")
 (ref:captionshaftesbury) [Shaftesbury](https://en.wikipedia.org/wiki/Shaftesbury) is the home of [Gold Hill](https://en.wikipedia.org/wiki/Gold_Hill,_Shaftesbury) and [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School). Image of Gold Hill by Sean Davis via Wikimedia Commons [w.wiki/32gw](https://w.wiki/32gW) adapted using the [Wikipedia application](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 ### Thank you Swindon {#swindon}
-Thanks to Clive Zimmerman,  his staff, the head of science (MC), Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE placement.
+Thanks to Clive Zimmerman, his staff, the head of science (MC), Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about waves using [Alom Shaha](https://twitter.com/alomshaha)s jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
+
+`r if (knitr::is_html_output()) '
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VE520z_ugcU" frameborder="0" allowfullscreen></iframe>
+'`
+
+```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "1%", fig.cap = "(ref:captionshaha)"}
+knitr::include_graphics("images/emptyFFFFFF-0.png")
+```
+
+(ref:captionshaha) Alom Shaha Wave Machine Demonstration. Physics and jelly babies. What's not to like?
+
 
 <!--### Thanks for the no thanks {#canteach}
 
