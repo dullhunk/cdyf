@@ -8,7 +8,7 @@ knitr::include_graphics("images/Yes but how do I.png")
 (ref:captionyesbut) Coding your future is all very well, but how do you actually get a job? This chapter looks at job searching and networking. Yes but... sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## What you will learn {#ilo8}
-Af the end of this chapter you will be able to:
+At the end of this chapter you will be able to:
 
 * Formulate job search strategies, by role, by sector and location
 * Describe the timing of recruitment cycles used by employers
@@ -85,12 +85,14 @@ https://www.graduate-jobs.com/gco/Booklet/graduate-recruitment-calendar.jsp
 It is a good idea to have a range of different strategies for job hunting, and change the strategy during the year. Before we look at strategies, it's important to realise that when you're reading job descriptions for vacancies, some employers will over state their requirements in the hope they get their dream candidate. You might look at the job description and think, I've only got 70% of what they're asking for, so I won't bother applying. The truth is, if you've got 75% of what they are asking for, you should definitely apply.
 
 ### Over specified job descriptions
-Employers and recruiters routinely over-specify job descriptions. A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC), job adverts instantly appeared asking for programmers with "5 years experience in Swift"! How can anyone have five years experience in a programming language that's only just been made public? Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the employers are going to have long searching trying to find their candidate.
+Employers and recruiters routinely over-specify job descriptions. A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC), job adverts instantly appeared asking for programmers with `5 years experience in Swift`! How can *anyone* have five years experience in a programming language that's only just been made public?! Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the recruiters and employers are going to have *long* search trying to find their unicorn. It will probably take them at least five years! 🦄
 
 ```{r iamdevloper-fig,echo=FALSE, fig.cap = "Job interview: sort binary tree. Job: manually update csv files ... We're looking for someone aged 22-26 with 30 years of experience "}
 library(tweetrmd)
 include_tweet("https://twitter.com/Mubeeen_/status/1288115932154363905")
 ```
+
+The moral of the Apple story above is, if you don't meet all the criteria on a job spec, that shouldn't stop you applying. Most job specifications are over-specified as wishful employers dream up their ideal candidate.
 
 At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you can switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers advertise.
 
@@ -108,7 +110,7 @@ knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, i
 
 ## Breakpoints
 
-Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
+Take a pause and check the values of your parameters and variables. Here are some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for reflection and discussion:
 
 * How many jobs should you apply for?  
 * Why is it important to build your network?
