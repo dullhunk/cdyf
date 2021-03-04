@@ -76,7 +76,7 @@ This guidebook tackles professional issues in computing, for those with and with
 
 ## What you won't learn {#nilo}
 
-This book will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter on [computing your future](#computing).
+This guidebook will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter on [computing your future](#computing).
 
 ## What you will learn {#bilo}
 
@@ -88,7 +88,7 @@ After reading this guidebook, watching the videos and doing the exercises you wi
 1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
 1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
 1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
-1. Search and navigate a large “wordbase” (this book). A wordbase is like a codebase, only written mostly in natural language.
+1. Search and navigate a large “wordbase” (this guidebook and the work it cites). A wordbase is like a codebase, only written predominantly in natural language.
 
 <!--codebase, documentbase, languagebase, wordbase-->
 
@@ -331,24 +331,26 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 (ref:captionshaha) Alom Shaha Wave Machine Demonstration. Physics and jelly babies. What's not to like?
 
-### Thank you schools {#nothanks}
-Thanks to all the schools who interviewed (but rejected me) for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system. A good example of productive failure:
+So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway). 🙏
+
+### Thank you schools {#productivefailure}
+Thanks to all the schools who interviewed (but rejected me) for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. Although tough, these interviews were very productive failures:
 
 * [Wrightlington School](https://en.wikipedia.org/wiki/Writhlington_School), Radstock, Somerset, see their amazing Orchid project [wsbeorchids.org](https://wsbeorchids.org/thirty-years-of-the-writhlington-schools-orchid-project-a-teachers-view-by-simon-pugh-jones/) run by [Simon Pugh-Jones](https://www.bristol.ac.uk/graduation/honorary-degrees/honorary-graduates-2019/simon-pugh-jones/)
 * The [Cooper School, Bicester](https://en.wikipedia.org/wiki/Cooper_School,_Bicester), Oxon see their [teacher in my pocket](https://www.youtube.com/watch?v=XdywHl2ZA-I) project
 * [St John's Marlborough](https://en.wikipedia.org/wiki/St_John%27s_Marlborough), Wiltshire - not to be confused its famous next door neighbour [Marlborough College](https://en.wikipedia.org/wiki/Marlborough_College)
 * [Oasis Academy, Brislington](https://en.wikipedia.org/wiki/Oasis_Academy_Brislington), Bristol
-* [Redland Green School](https://en.wikipedia.org/wiki/Redland_Green_School), Bristol
+* [Redland Green School](https://en.wikipedia.org/wiki/Redland_Green_School), Redland, Bristol
 * [The John of Gaunt School](https://en.wikipedia.org/wiki/The_John_of_Gaunt_School), Trowbridge, Wiltshire
 * [Didcot Girls School](https://en.wikipedia.org/wiki/Didcot_Girls%27_School), Oxon
-* [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Gloucestershire^[As a newly trained Jedi knight, freshly armed with a PGCE qualification, I was anxious for my first teaching job and momentarily considered using my pedagogical powers on the “dark side” of the force (a.k.a. private education). [@nicebutdim] Forgive me for I have sinned!]
+* [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Gloucestershire^[As a newly trained Jedi knight, freshly armed with a PGCE, I was anxious for my first teaching job and momentarily considered using my pedagogical powers on the “dark side” of the force (a.k.a. private education). [@nicebutdim] Forgive me for I have sinned!]
 * [Blackburn College](https://en.wikipedia.org/wiki/Blackburn_College_(Blackburn_with_Darwen)), Lancashire  “I read the news today, oh boy! Four thousand holes in Blackburn, Lancashire” [@adayinthelife]
 
 So thanks schools, for schooling. 🙏
 
 ### Thank you Stockport {#stockport}
 
-Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Keith Doran and other members of the *alternative staff room* for your emotional, moral and practical support throughout the year. The *Manchester Evening News* has dubbed St. Anne's “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
+Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Keith Doran and other members of the *alternative staff room* for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
 
 ```{r st-annes-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstannes)"}
 knitr::include_graphics("images/st-annes-rc-high-school.jpg")
@@ -356,10 +358,10 @@ knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 
 (ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Annes, and the hundreds of children they educate every year, need help from skilled people like you. Why not serve your local community as a school governor? Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So thanks Stockport for being Stockport, and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters. Stockport Hatters. 🙏
+So thanks Stockport for being Stockport, and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! All that matters, Stockport Hatters. 🙏
 
 ### Thank you Moravians {#moravians}
-Thanks to Thsespal Kundan, Principal at the [Moravian Institute in Rajpur](https://moravianinstitute.com/), [Dehradun](https://en.wikipedia.org/wiki/Dehradun), Uttar Pradesh, India for hosting me and my friend Doug fresh out of high school on a gap year. We learnt heaps as visiting supply teachers of English and Maths, thanks to an introduction from a mutual contact Angus Barker.
+Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learnt heaps as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker.
 
 ```{r moravian-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmoravian)"}
 knitr::include_graphics("images/moravian-insitute.jpg")
