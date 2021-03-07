@@ -44,14 +44,14 @@ knitr::include_graphics(rep("images/Alicesadventuresinwonderland1898.jpg", 3))
 (ref:captionalicecover) The cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)*. Public domain image via Wikimedia Commons [w.wiki/327E](https://w.wiki/327E)
 
 
-In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice wonders what books are for if they don't have pictures and conversations:
+In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice is looking at book her sister is reading:
 
 > Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” -- See [gutenberg.org](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) [@wonderland]
 
-So this book uses pictures and conversations wherever possible to help you understand and  visualise your future.
+So this book uses pictures and conversations wherever possible to help you understand and visualise your future.
 
 ## Aiming your future {#vaccine}
-To envisage and aim your future you may need to develop healthier habits of mind, body and soul using five key ingredients:
+This guidebook will help aim your future by developing stronger habits of mind, body and soul using five key ingredients:
 
 1. **Code:** Instructions contained in this guidebook
 1. **Data:** Facts, statistics and images collected together for your analysis
@@ -101,7 +101,7 @@ As the title of this guidebook implies, there is a computational flavour here, b
 So the prerequisites for this book are that you are studying (or have studied) at University where English is one of the main spoken languages. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
 
 ### Gutting your future {#gut}
-Don't read this book, gut it! I don't recommend you read this book from cover to cover in one sitting. That would be foolish.
+Don't read this book, gut it! Reading this book from cover to cover like a novel is not recommended. That would be foolish.
 
 ```{r gut-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongut)"}
 knitr::include_graphics("images/fish-gutting.png")
@@ -270,7 +270,7 @@ I've also had significant support from academic colleagues in the Department of 
 
 I would especially like to thank [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after he offered me a job. I thought he was joking (about the book) but it actually turned out to be another one of Jim's great ideas. Thanks Jim. 🙏
 
-I'd also like to thank the only three people in the whole world who've had the misfortune of reading all of my PhD thesis; [Robert Stevens](https://en.wikipedia.org/wiki/Robert_David_Stevens), [Anil Wipat](https://www.ncl.ac.uk/computing/staff/profile/anilwipat.html) and [Steve Pettifer](https://en.wikipedia.org/wiki/Steve_Pettifer). I suspect it was as painful for you to read as it was for me to write it. Thanks Robert for your relentless patience and giving me a well timed, well aimed kick up the arse in the [Midland Hotel, Manchester](https://en.wikipedia.org/wiki/Midland_Hotel,_Manchester) at the May ball. ⚽️
+I'd also like to thank the only three people in the whole world who've had the misfortune of reading all of my PhD thesis; [Robert Stevens](https://en.wikipedia.org/wiki/Robert_David_Stevens), [Anil Wipat](https://www.ncl.ac.uk/computing/staff/profile/anilwipat.html) and [Steve Pettifer](https://en.wikipedia.org/wiki/Steve_Pettifer). I suspect it was as painful for you to read as it was for me to write it. Thanks Robert for your relentless patience and giving me a well timed, well aimed kick up the arse (to write this book) in the [Midland Hotel, Manchester](https://en.wikipedia.org/wiki/Midland_Hotel,_Manchester) at the May ball. ⚽️
 
 <!-- back of the net alan partridge-->
 #### Thanks to academic staff {#academia}   
@@ -331,14 +331,14 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 (ref:captionshaha) Alom Shaha Wave Machine Demonstration. Physics and jelly babies. What's not to like?
 
-So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway). 🙏
+So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in Wiltshire . 🙏
 
 ### Thank you schools {#productivefailure}
 Thanks to all the schools who interviewed (but rejected me) for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. Although I failed, these interviews were very productive failures:
 
 * [Wrightlington School](https://en.wikipedia.org/wiki/Writhlington_School), Radstock, Somerset, see their amazing Orchid project [wsbeorchids.org](https://wsbeorchids.org/thirty-years-of-the-writhlington-schools-orchid-project-a-teachers-view-by-simon-pugh-jones/) run by [Simon Pugh-Jones](https://www.bristol.ac.uk/graduation/honorary-degrees/honorary-graduates-2019/simon-pugh-jones/)
 * The [Cooper School, Bicester](https://en.wikipedia.org/wiki/Cooper_School,_Bicester), Oxon see their [teacher in my pocket](https://www.youtube.com/watch?v=XdywHl2ZA-I) project
-* [St John's Marlborough](https://en.wikipedia.org/wiki/St_John%27s_Marlborough), Wiltshire - not to be confused its famous next door neighbour [Marlborough College](https://en.wikipedia.org/wiki/Marlborough_College)
+* [St John's Marlborough](https://en.wikipedia.org/wiki/St_John%27s_Marlborough), Wiltshire - not to be confused its posher and more famous next door neighbour [Marlborough College](https://en.wikipedia.org/wiki/Marlborough_College)
 * [Oasis Academy, Brislington](https://en.wikipedia.org/wiki/Oasis_Academy_Brislington), Bristol
 * [Redland Green School](https://en.wikipedia.org/wiki/Redland_Green_School), Redland, Bristol
 * [The John of Gaunt School](https://en.wikipedia.org/wiki/The_John_of_Gaunt_School), Trowbridge, Wiltshire

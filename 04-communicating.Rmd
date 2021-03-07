@@ -1,6 +1,6 @@
 # Writing your future {#communicating}
 
-Let's get straight to the point of this chapter: your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Your soft skills are hard. There are very few jobs where you work on your own, and most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse membership. This means that sooner or later you're going to have to master the dark arts of working with other people by deploying your softer skills. 😱
+Let's get straight to the point of this chapter: your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Your soft skills are hard. There are very few jobs where you work on your own, and most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse membership. This means that sooner or later you're going to have to master the dark arts of *working with other people* by deploying your softer skills. 😱
 
 <!-- where does written comm fit?
 
@@ -75,8 +75,8 @@ Engineers and scientists sometimes lack communication skills outlined in table \
 ### The pen is mightier than the sword {#mightier}
 The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on written communication skills because:
 
-1. **Good writing and reading are crucial in applications for employment and further study**: From writing CV's, covering letters, completing application forms and reading job specifications, and employer or course information, your ability to read and write natural languages is crucial to coding your future.
-1. **Writing gets neglected**: Written communication skills (both reading and writing) are sometimes sidelined in science and engineering degrees. This is particularly true in the “hard sciences”. For example, communicating and solving problems using code or mathematics are usually the dominant forms of assessment in computer science courses. That's understandable given the subject, but tends to push natural languages like english to the sidelines.
+1. **Good writing and reading are crucial in applications** for employment and further study. From writing CV's, covering letters, completing application forms and reading job specifications, and employer or course information, your ability to read and write natural languages is crucial to coding your future.
+1. **Writing often gets neglected**: Written communication skills (both reading and writing) are sometimes sidelined in science and engineering degrees. This is particularly true in the “hard sciences”. For example, communicating and solving problems using code or mathematics are usually the dominant forms of assessment in computer science courses. That's understandable given the subject, but tends to push natural languages like english to the sidelines.
 1. **Good engineers are also good writers** Many engineers (and scientists) could significantly improve their written communication skills. Software engineers are notoriously bad at writing good documentation, see for example [Why Computer Science Students Need Language](https://dl.acm.org/doi/10.1145/960492.960525), [@Beaubouef2003] *Scientists Must Write* [@scientistsmustwrite] and [The Real Reason Silicon Valley Coders Write Bad Software](https://www.theatlantic.com/national/archive/2012/10/the-real-reason-silicon-valley-coders-write-bad-software/263377/), [@writebadsoftware] just three examples amongst many others making exactly the same point. Employers like Google provide training (and a whole career path) for technical writers, see [developers.google.com/tech-writing](https://developers.google.com/tech-writing). However, I'm arguing that these careers wouldn't be needed if software engineers were better at documenting, explaining and communication about their code in the first place!
 1. **Writing good english is like writing good code**. Some of the skills you already have in coding can be transferred to written communication. Just like a good function or method in code should be well-defined with a clear purpose, your writing should also be clear and coherent. Well structured writing is a lot like well architected software too, with a clear [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 1. **It is relatively easy to improve** your written communication skills, simply by reading and writing more. Reading and writing deliberately every day, will significantly improve these skills.
@@ -85,24 +85,26 @@ The art of communication is a huge subject which extends far beyond the scope of
 If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering code, they also spend a significant amount of time engineering messages in natural languages like english. Consider the following:
 
 * email and instant messaging, Slack, Microsoft Teams, Discord, Zoom etc
+* Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
 * bug reports and messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla and Trello
 * 'How to' and cookbook style articles and books
 * API reference material
 * in-code documentation `# comments in code`
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code)
-* [Literate programming](https://en.wikipedia.org/wiki/Literate_programming) logical explanations
 * Executable specifications in test suites like [cucumber.io](https://en.wikipedia.org/wiki/Cucumber_(software))
-* [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together
 * Laboratory manuals and laboratory notebooks
 * The one page summary for management
 * User documentation, release notes
 * Case studies of software use
 * Frequently Asked Questions (FAQ)
-* Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
 * YourPersonalDomain.com (if you have one)
 * Questions and answers on forums like [stackoverflow.com](https://stackoverflow.com/)
 * Commit messages in version control systems like git and mercurial
-* Architecture documentation and design specifications  
+* Architecture documentation and design specifications
+* [Literate programming](https://en.wikipedia.org/wiki/Literate_programming) natural language descriptions of a computational logic [@knuthlit]
+* [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together
+* [bookdown.org](https://bookdown.org/) mixes code and natural language
+
 
 What do they all have in common? They're all written in natural languages like English, but without them, the software or hardware they describe and discuss would be useless.
 
