@@ -343,20 +343,20 @@ Besides LinkedIn you could include public profiles from [github](https://docs.gi
 
 <!--## Compare and contrast CV and LinkedIn-->
 
-### Robot proof your CV {#robotproof}
+### Robot proofing your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers etc before using these free services. You might also want to check what the services privacy policy says about what they do with you data. Resume robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different robotic systems, though it is a good idea to remove any personal information like phone numbers etc before using these free services. You might also want to check what the services privacy policy says about what they do with you personal data. Resume robots include:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 * [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV
-* [jobscan.co](https://www.jobscan.co/), a free service provided by an American company
+* [jobscan.co](https://www.jobscan.co), a free service provided by an American company
 
 
 ```{r machines-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmachines)"}
 knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png")
 ```
 
-(ref:captionmachines) Although they often struggle to get up the stairs and don't drive history the way humans do, resume robots are likely to play an important role in any decisions to invite you to a job interview, especially if you're applying to bigger companies. Make sure your CV is resume robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionmachines) Although they often struggle to get up the stairs, resume robots are likely to play an important role in any decisions to invite you to a job interview, especially if you're applying to bigger companies. Make sure your CV is resume robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't identify it. Some things to check with automated CV screens:
 
