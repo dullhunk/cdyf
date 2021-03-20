@@ -30,7 +30,12 @@ see [@innovatorsdilemma]-->
 
 ## With great code comes great responsibility {#greatcode}
 
-With great power comes great responsibility. [@spiderman] With great code comes great responsibility. [@responsiblecs] Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so?
+Computer scientists wield tremendous power in the twenty first century:
+
+* With great power comes great responsibility [@spiderman]
+* With great code comes great responsibility [@responsiblecs] 
+
+Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so?
 
 ```{r soul-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsoul)"}
 knitr::include_graphics("images/Sell your soul.png")
