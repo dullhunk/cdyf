@@ -5,11 +5,11 @@
 
 The first half of this book is about designing your future. So before we get started, let's tackle a fundamental design issue. Why the hell would you want to bother with your future? Why should you bother with reading this pesky guidebook when you have so many other things on your plate right now:
 
- * you are a busy person, YES! ☑️
- * your time is a precious and finite resource, YES! ☑️
- * you could be spending that precious time right now in lots of other ways, YES! ☑️
- * there are mountains of self-help guides and courses already, YES! ☑️
- * do you really need *yet another* guidebook? YES! ☑️
+ * You are a busy person, YES! ☑️
+ * Your time is a precious and finite resource, YES! ☑️
+ * You could be spending that precious time right now in lots of other ways, YES! ☑️
+ * There are mountains of self-help guides and courses already, YES! ☑️
+ * Do you really need *yet another* guidebook? YES! ☑️
 
 You need this guidebook because it is different to all the other guidebooks! It will help you design, test, build, code and debug your future in computing. Come with me [down the rabbit-hole](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) in Figure \@ref(fig:rabbit-fig) and let me explain... 🐇
 
@@ -36,7 +36,7 @@ After reading this chapter you will be able to:
 
 In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice follows a [white rabbit](https://en.wikipedia.org/wiki/White_Rabbit) down a hole. What she discovers is a strange underground world populated by weird and wonderful characters. The world of work can sometimes be a mysterious underworld where you adventure in wonderland accompanied by colourful characters.
 
-You will spend lots of time in this wonderland, potentially as much as 80,000 hours of your life. [@iip1; @iip2] So join me down the rabbit hole, it's fun honest, and sooner or later you'll have come down here anyway.
+You will spend lots of time in this wonderland, potentially as much as 80,000 hours of your life. [@iip1; @iip2] So join me down the rabbit hole, it's fun (honest), and sooner or later you'll have come down here anyway.
 
 <!-- popular languages https://spectrum.ieee.org/at-work/tech-careers/top-programming-language-2020 -->
 
@@ -50,6 +50,7 @@ Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK 
 At University, there are lots of people can help design and build your future: peers, academic staff, friends, your careers service, employers and your wider network but ultimately it is *your* responsibility to sort out whatever comes next. That might sound obvious but don't wait for somebody else to do it for you, because it probably won't happen.
 
 ## Your degree is not enough {#entitled}
+<!--Luke comments: One thing I would add in this section that you don't really think about until you go through it is the difference between going for a CS job and that job you really want. Most grads will get a job in CS, but few will get those really prized ones that they really enjoy.-->
 You've worked incredibly hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying whatever it is you are studying at University.
 
 Under these circumstances, you might be tempted to believe that the world owes you something in return for your hard work. Unfortunately that's not the case.
@@ -174,6 +175,7 @@ knitr::include_graphics("images/shelfie.jpg")
 Lots of professional advice is readily available, but how will you navigate it? This book signposts you to what I think are the most important resources, each chapter has a signposts section, and they are all gathered together in the signpost at the end alongside everything (yes, EVERYTHING!) that this guidebook cites in the [References](#references).
 
 ## Crediting your future {#joinus}
+<!-- section needs moving, doesn't fit here-->
 Get credit for your contributions. As well as being openly accessible on the web, this book is open source too.  What this means is, you can contribute in several ways
 
 * View the entire book source on github at [github.com/dullhunk/cdyf](https://github.com/dullhunk/cdyf)
@@ -257,12 +259,12 @@ They're not ready yet-->
 
 
 ### Your future has audio & video {#av}
-This book is not just words and pictures, but includes audio and video as well, especially
+This book is not just words and pictures, but includes audio and video as well, especially:
 
 1. videos produced by third parties that are worth watching
 1. audio produced by third parties that are worth listening to, either individual episodes or whole series
 1. short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
-1. the coding your future podcast which interviews undergraduate students and
+1. the coding your future podcast which interviews undergraduate students
 
 ## Engaging your future
 I've tried to make the content of this book as engaging as possible by including pictures and conversations. *Your future* is deliberately playful and light-hearted. If you think it can be improved, [let me know](#joinus). I always welcome constructive feedback, especially when it comes via a pull request.
