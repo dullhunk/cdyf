@@ -291,11 +291,12 @@ Optimists will tell you that “everyone has a book in them...”, but pessimist
 
 Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-fig), I am an optimist when it comes to the power of natural languages.
 
+<!--this is hacky
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6MPebmQSQ0" frameborder="0" allowfullscreen></iframe>
-'`
-```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionhitch)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+'`-->
+```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionhitch)"}
+knitr::include_graphics("images/hitch.png")
 ```
 (ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
 
