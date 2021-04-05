@@ -295,8 +295,8 @@ Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-f
 `r if (knitr::is_html_output()) '
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6MPebmQSQ0" frameborder="0" allowfullscreen></iframe>
 '`-->
-```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionhitch)"}
-knitr::include_graphics("images/hitch.png")
+```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhitch)"}
+knitr::include_graphics("images/youtube-hitch.png")
 ```
 (ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
 
@@ -316,7 +316,7 @@ Beyond Manchester there is a wider academic community that have influenced this 
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a significant influence on this book had a gradual but dramatic effect on my personal and professional life
 * Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to Athene Donald at [Occams Typewriter](http://occamstypewriter.org/athenedonald/) and Stephen Curry at [Reciprocal Space](https://occamstypewriter.org/scurry/) for writing entertaining and inspiring blogs
-* Thanks to [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for inspiration 
+* Thanks to [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for inspiration
 * Thanks to Jonathan Black ([\@JonathanPBlack](https://twitter.com/JonathanPBlack)) for his book *Where am I Going, Can I Have a Map?*, [@jonathanblack] his *Financial Times* columns [@ft] and videos.
 * Thanks to [David Alan Walker](https://en.wikipedia.org/wiki/David_Alan_Walker) for his book *Energy, Plants & Man* which inspired the conversations and pictures idea behind this book.
 
@@ -346,15 +346,12 @@ So thanks Shaftesbury for lessons on top of Gold Hill and the Hovis Advert, one 
 ### Thank you Swindon {#swindon}
 Thanks to headteacher [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his team of staff, Mr M. Carter <!--m.c.-->, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about waves using [Alom Shaha](https://twitter.com/alomshaha)'s jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VE520z_ugcU" frameborder="0" allowfullscreen></iframe>
-'`
 
-```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "1%", fig.cap = "(ref:captionshaha)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionshaha)"}
+knitr::include_graphics("images/youtube-alom.png")
 ```
 
-(ref:captionshaha) Alom Shaha Wave Machine Demonstration. Physics and jelly babies. What's not to like?
+(ref:captionshaha) A wave machine demonstration by Alom Shaha with Physics and jelly babies. What's not to like? [@youtube-alom]
 
 So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of Wiltshire . 🙏
 

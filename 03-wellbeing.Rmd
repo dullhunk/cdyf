@@ -40,24 +40,19 @@ The *persistent* and *lasting a long time* are important here because while its 
 
 Anxiety is one of most prevalent mental health disorders and can lead to depression, increased risk of suicide. Generalised Anxiety Disorder (GAD), a common form of anxiety is explained in the video in Figure \@ref(fig:anxious-fig) and at [nhs.uk/conditions/generalised-anxiety-disorder](https://www.nhs.uk/conditions/generalised-anxiety-disorder/). People who are affected by anxiety may struggle to function normally, and find routine everyday task difficult or impossible.
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9mPwQTiMSj8" frameborder="0" allowfullscreen></iframe>
-'`
-```{r anxious-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captiongad)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```{r anxious-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongad)"}
+knitr::include_graphics("images/youtube-anxiety.png")
 ```
 
-(ref:captiongad) Generalised anxiety disorder is a condition characterised by excessive, persistent and unreasonable amounts of anxiety and worry about everyday things. Note that the video takes an American perspective using American terminology such as [DSM–5](https://www.psychiatry.org/psychiatrists/practice/dsm).
+(ref:captiongad) Generalised anxiety disorder is a condition characterised by excessive, persistent and unreasonable amounts of anxiety and worry about everyday things. [@youtube-anxiety] Note that the video takes an American perspective using American terminology such as [DSM–5](https://www.psychiatry.org/psychiatrists/practice/dsm).
 
 ### Depression {#depression}
 
 Millions of people around the world live with depression. If you are affected by depression it can be really hard to talk about it as there are many social stigmas around mental health. Thankfully depression is largely preventable and treatable. Recognising depression and seeking help is the first and most critical step towards recovery. To mark [World Mental Health Day](https://en.wikipedia.org/wiki/World_Mental_Health_Day) writer and illustrator Matthew Johnstone tells the story of how he overcame the “black dog of depression” in the video in Figure \@ref(fig:sad-fig) made in collaboration with the World Health Organization (WHO).
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XiCrniLQGYc" frameborder="0" allowfullscreen></iframe>
-'`
-```{r sad-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r sad-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog [@youtube-blackdog]"}
+knitr::include_graphics("images/youtube-blackdog.png")
 ```
 
 ### Drugs {#drugs}
@@ -96,14 +91,11 @@ Laurie explains the R.A.I.N. technique in figure \@ref(fig:laurie-fig).
 
 <!-- also woop my life     -->
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kCQim9VrnDY" frameborder="0" allowfullscreen></iframe>
-'`
-```{r laurie-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionlaurie))"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r laurie-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlaurie)"}
+knitr::include_graphics("images/youtube-santos.png")
 ```
 
-(ref:captionlaurie) Laurie Santos describes five coping techniques for improving wellbeing: Exercise, gratitude, sleep, getting social and meditation.
+(ref:captionlaurie) Laurie Santos describes five coping techniques for improving wellbeing: Exercise, gratitude, sleep, getting social and meditation [@youtube-santos].
 
 So there are things you can do to help yourself, but you may also need to seek help from others.
 
@@ -144,11 +136,8 @@ Your doctor can advise you on medical treatment if required, see for example [nh
 ### Nightline
 Nightline [nightline.ac.uk](https://www.nightline.ac.uk) is a confidential listening and information service run by students for students. Nightline is open 8pm till 8am every night during term time. It offers anonymous, non-judgmental and non-advisory support for students as described in figure \@ref(fig:nightline-fig).
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RsfNkSZmUc8" frameborder="0" allowfullscreen></iframe>
-'`
-```{r nightline-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Students explain in their own words how calling Nightline helped them whilst at university."}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r nightline-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Students explain in their own words how calling Nightline helped them whilst at university. [@youtube-nightline]"}
+knitr::include_graphics("images/youtube-nightline.png")
 
 ```
 
@@ -170,11 +159,8 @@ Students Against Depression (SAD) acknowledge the devastating impact that depres
 Actor [Ruby Wax](https://en.wikipedia.org/wiki/Ruby_Wax) has written about mental health and how the “internal critics” in our minds can send us mad in her book *Sane New World*. [@sanenewworld] She is interviewed by Students Against Depression in the video in figure \@ref(fig:rubywax-fig) about using mindfulness to “dodge the bullets” of depression.
 
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7TCCLY_lV6M" frameborder="0" allowfullscreen></iframe>
-'`
-```{r rubywax-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Ruby Wax describes being affected by depression in her childhood and how mindfulness and cognitive behavioural therapy (CBT) provided an alternative to medical treatment of her condition"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r rubywax-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Ruby Wax describes being affected by depression in her childhood and how mindfulness and cognitive behavioural therapy (CBT) provided an alternative to medical treatment enabling her to dodge the bullets of mental health. [@youtube-wax]"}
+knitr::include_graphics("images/youtube-wax.png")
 
 ```
 
@@ -188,11 +174,8 @@ Self-Help services are a mental health charity which helps people to help themse
 MIND provide advice and support to empower anyone experiencing a mental health problem. They campaign to improve services, raise awareness and promote understanding of mental health issues. Find out more at [mind.org.uk](https://www.mind.org.uk) and in the video in figure \@ref(fig:stephenfry-fig)
 
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPxHTZRwXX8" frameborder="0" allowfullscreen></iframe>
-'`
-```{r stephenfry-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Stephen Fry, President of Mind, describes how MIND tackles misconceptions around mental health and social stigmas. "}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r stephenfry-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Stephen Fry, President of Mind, describes how MIND tackles misconceptions around mental health and social stigmas. [@youtube-we-are-mind] "}
+knitr::include_graphics("images/youtube-we-are-mind.png")
 
 ```
 
@@ -201,11 +184,9 @@ knitr::include_graphics("images/emptyFFFFFF-0.png")
 
 Student Minds empowers students to look after their own mental health, support others and create change, find out more at [studentminds.org.uk](https://www.studentminds.org.uk) and in the video in Figure \@ref(fig:studentminds-fig) which describes why its important to talk about student mental health.
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PiqcSSDwvvY" frameborder="0" allowfullscreen></iframe>
-'`
-```{r studentminds-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "Talking about mental health is a crucial part of helping those who are suffering from it"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```{r studentminds-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Talking about mental health is a crucial part of helping those who are suffering from it [@youtube-student-minds]"}
+knitr::include_graphics("images/youtube-student-minds.png")
 
 ```
 <!-- to do
@@ -238,11 +219,9 @@ Kwan Wai (Chinese Mental Health Service): one to one counselling in Mandarin and
 
 Togetherall is an online community for people who are stressed, anxious or feeling low. The service has an active forum with round-the-clock support from trained professionals. You can talk anonymously to other members and take part in group or 1-to-1 therapy with therapists. Togetherall is for anyone aged 16 or over who wants to improve their mental health. The service is free for many universities. Find out more at [togetherall.com](https://togetherall.com/) and in the video in figure \@ref(fig:togetherall-fig) which describes why its important to talk about student mental health.
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mXEbpaU9YjU" frameborder="0" allowfullscreen></iframe>
-'`
-```{r togetherall-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "A quick look inside togetherall, an online community for people who are stressed, anxious or feeling low."}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```{r togetherall-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "A quick look inside togetherall, an online community for people who are stressed, anxious or feeling low. [@youtube-togetherall]"}
+knitr::include_graphics("images/youtube-togetherall.png")
 
 ```
 
@@ -276,13 +255,11 @@ Adopting a growth mindset can be a successful strategy for maintaining your well
 
 According to Stanford psychologist [Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck) we can all be placed on a spectrum according to where we think our abilities come from. At one end, the fixed mindset assumes all kinds of abilities are fixed traits while at the other end, a growth mindset assumes these abilities can be developed over time. [@dweck] There is good evidence to suggest that adopting a growth mindset will make you a better learner who can cope with the inevitable failures and rejections in life better. This approach can be used in a range of different disciplines such as learning programming languages [@Cutts2010], music [@Davis2016] and job hunting.
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
-'`
-```{r not-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captiondweck)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```{r not-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondweck)"}
+knitr::include_graphics("images/youtube-dweck.png")
 ```
-(ref:captiondweck) Psychologist Carol Dweck explains the power of "not yet" and the growth mindset
+(ref:captiondweck) Psychologist Carol Dweck explains the power of "not yet" and the growth mindset [@youtube-dweck]
 
 ## Wellbeing signposts {#signposts3}
 
@@ -293,13 +270,10 @@ This chapter has looked at your wellbeing and especially the role that both your
 
 What’s good about Matt Haig’s books is they are quick and easy to read, but give plenty of first-hand insight into what mental ill-health can do to people (including you). Matt describes his top five tips for good mental health in figure \@ref(fig:haig-fig)
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMm5kiiMjTM" frameborder="0" allowfullscreen></iframe>
-'`
-```{r haig-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionhaig)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r haig-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhaig)"}
+knitr::include_graphics("images/youtube-haig.png")
 ```
-(ref:captionhaig) Two of Matt Haig's top five tips for good mental health include 1. Being more careful (and mindful) of social media and 2. Reading more books because books are good for your soul. Not just his book. Any book. Books are good for you. Trust me on this. [@bookfriends]
+(ref:captionhaig) Two of Matt Haig's top five tips for good mental health [@youtube-haig] include 1. Being more careful (and mindful) of social media and 2. Reading more books because books are good for your soul. Not just his book. Any book. Books are good for you. Trust me on this. [@bookfriends]
 
 There’s plenty of evidence to suggest that social media can have a detrimental effect on health. [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier)’s skeptical polemic *Ten Arguments for Deleting Your Social Media Accounts Right Now* [@lanier] is a thought-provoking romp through some of the pitfalls of social media that may have you reaching for the delete or un-install button fairly quickly.
 
