@@ -102,14 +102,11 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 How you structure your CV will depend on who you are and what your story is. Recruiters at Google suggest five sections, that follow a header section. Before we look at those, lets look at some general points about CVs, watch the videos shown in Figure \@ref(fig:lopez-fig).
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BYUy1yvjHxE" frameborder="0" allowfullscreen></iframe>
-'`
-```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captiongooglerecruiters)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
+knitr::include_graphics("images/youtube-google-recruiters.png")
 ```
 
-(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your resume.
+(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your resume. [@youtube-google-recruiters]
 
 As Jonathan Black, director of the careers service at the University of Oxford has pointed out,[@topnotchcv] a key part of your story that you want to communicate in your CV is that you :
 
@@ -120,11 +117,8 @@ As Jonathan Black, director of the careers service at the University of Oxford h
 How can you demonstrate this? Watch the short video in Figure \@ref(fig:black-fig).
 
 <!--Remember that no applicant meets all the criteria, so 80% means you're doing really well [@topnotchcv]-->
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yjdvCHWVtE4" frameborder="0" allowfullscreen></iframe>
-'`
-```{r black-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionjonathanblack)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+```{r black-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionjonathanblack)"}
+knitr::include_graphics("images/youtube-jonathan-black.png")
 ```
 (ref:captionjonathanblack) [Jonathan Black](https://twitter.com/jonathanpblack), head of the careers service at the University of Oxford,  explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. [@topnotchcv]
 
@@ -274,11 +268,9 @@ The second is better because its more specific, captures the result (accomplishm
 ### Your length {#length}
 How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-fig). It is also advisable to [create a one page Resume](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0abDOKHS5T0" frameborder="0" allowfullscreen></iframe>
-'`
-```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)?"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)?"}
+knitr::include_graphics("images/youtube-resume-or-cv.png")
 ```
 
 At this stage in your career you should be able to fit everything on to one page. It can be challenging squeezing it all on:

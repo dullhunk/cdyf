@@ -97,15 +97,13 @@ Solving different coding challenges can help you become a better problem solver,
 
 There are a lots of resources to help you prepare for and practice coding interview questions, the best place to start is *Cracking the Coding Interview* by Gayle Laakmaan McDowell. [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, University of Manchester Computer Science graduate Petia Davidova explains in figure \@ref(fig:petia-fig) what she learned from failing several coding interviews at big technology companies. 😭
 
-`r if (knitr::is_html_output()) '
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qkeQNNjZuQk" frameborder="0" allowfullscreen></iframe>
-'`
-```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "0.1%", fig.cap = "(ref:captionpetia)"}
-knitr::include_graphics("images/emptyFFFFFF-0.png")
+
+```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpetia)"}
+knitr::include_graphics("images/youtube-petia.png")
 
 ```
 
-(ref:captionpetia) My worst software engineering interview fails, failing my Facebook and Google Interviews by Petia Davidova. Petia demonstrates her [growth mindset](#growthmindset) and productive failure. Although she failed her interviews, she learned lots from the process and went on to get a job she wanted.
+(ref:captionpetia) Petia describes her worst software engineering interview failures. [@youtube-petia] Petia demonstrates her [growth mindset](#growthmindset) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted.
 
 Coding interviews can be tough, but preparing for them, and doing them will make you a better engineer. So if you spectacularly wipeout in your coding interview, reflect and think how can you improve next time? Perhaps you need to
 
