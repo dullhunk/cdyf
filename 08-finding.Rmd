@@ -25,9 +25,9 @@ At the end of this chapter you will be able to:
 
 ## Where can you for look for jobs? {#looking}
 
-The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money recruiting staff and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. I've broken resources down here into three categories:
+The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money recruiting staff and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. I've broken resources down here into three categories, student specific, more general resources and recruiters.
 
-### Student and graduate specific resources
+### Student and graduate specific resources {#studentjobs}
 
 These resources are specifically aimed at undergraduate students and graduates:
 
@@ -42,7 +42,7 @@ These resources are specifically aimed at undergraduate students and graduates:
 *  [Year in Industry](https://www.etrust.org.uk/yini-vacancies) if you're looking for a year in industry
 * Your University careers service, e.g. if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/). University jobs boards are good places to look for opportunities that are specifically targeted at the University where you are studying
 
-### More general resources
+### More general resources {#generaljobs}
 
 These resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
 
@@ -67,8 +67,21 @@ These resources are aimed at a wider audience (not just students and graduates) 
 *  [stackoverflow.com/jobs](http://stackoverflow.com/jobs) jobs via StackOverflow. You've cut and pasted the code... they advertise technical vacancies too
 * [Otta.com](https://otta.com/) for people with 0-10 years experience. From engineering to sales, discover jobs & internships at London\'s most innovative companies.
 
-<!--Get a recruitment agency to help you, see [careers.manchester.ac.uk/findjobs/graduatejobs/agencies]. Beware that some employers don't use agencies and they may have a bad reputation: Google "Recruiters are ..." and see what the auto-complete suggests..-->
+### Recruiters {#recruiters}
 
+Recruiters can help you find work and they operate in every industry sector. There are two basic kinds of recruiters that can help you:
+
+1. Recruiters employed directly by an employer, for example in the human resources (HR) department of a given organisation.
+1. Recruiters who are self-employed or work for a recruitment agency
+
+Recruiters are not always technical people, so don't expect them to have lots of knowledge about software engineering (for example) - that isn't necessarily their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
+
+```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionrecruiter)"}
+knitr::include_graphics("images/recruiters-are.png")
+```
+(ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid recruiters, just be careful how you use them.
+
+Some recruiters are very good and can help you, but it's worth remembering that they work primarily for their clients (employers) not you. Having said that, there are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you.
 
 
 <!-- timing
@@ -115,7 +128,7 @@ Take a pause and check the values of your parameters and variables. Here are som
 * How many jobs should you apply for?  
 * Why is it important to build your network?
 * How can recruiters help you?
-* Whose side are recruiters on, yours or somebody else?
+* Why do recruiters have a bad reputation?
 * How long does it take to apply for a job?
 * Should I optimise for *quality* or *quantity* of job applications?
 * How can you deal with the inevitable rejections that come during job hunting?
@@ -144,12 +157,6 @@ knitr::include_graphics("images/grow your networks.png")
 * Alumni
 * Recruiters-->
 
-<!--
-
-```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbadrep)"}
-knitr::include_graphics("images/beware of the recruiter.png")
-```
-(ref:captionbadrep) The auto-complete suggestions on Google tells you to beware of recruiters. How can they help you? Is it really true that recruiters are “shady”, “incompetent trash” who are “not your friends”? Why do recruiters have such a bad reputation? Screenshot from Google.-->
 
 <!--### Academics
 
