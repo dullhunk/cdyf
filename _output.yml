@@ -4,17 +4,18 @@ bookdown::bs4_book:
   repo: https://github.com/dullhunk/cdyf
 
 
-bookdown::gitbook:
-  config:
-    toc:
-      collapse: section
-      before: |
-        <li><a href="./">Coding Your Future</a></li>
-    edit:
-      link: https://github.com/dullhunk/cdyf/edit/master/%s
-      text: "Edit"
-    sharing: no
-  css: r4ds.css
+# gitbook not needed but it does work
+# bookdown::gitbook:
+#  config:
+#    toc:
+#      collapse: section
+#      before: |
+#        <li><a href="./">Coding Your Future</a></li>
+#    edit:
+#      link: https://github.com/dullhunk/cdyf/edit/master/%s
+#      text: "Edit"
+#    sharing: no
+#  css: r4ds.css
 
 bookdown::pdf_book:
   latex_engine: "xelatex"
