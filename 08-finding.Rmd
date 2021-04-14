@@ -72,16 +72,16 @@ These resources are aimed at a wider audience (not just students and graduates) 
 Recruiters can help you find work and they operate in every industry sector. There are two basic kinds of recruiters that can help you:
 
 1. Recruiters employed directly by an employer, for example in the human resources (HR) department of a given organisation.
-1. Recruiters who are self-employed or work for a recruitment agency
+1. Recruiters who are self-employed or work for a recruitment agency. They typically earn money from the number of interview candidates and successful hires they provide for their clients.
 
-Recruiters are not always technical people, so don't expect them to have lots of knowledge about software engineering (for example) - that isn't necessarily their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
+Recruiters are not always technical people, so don't expect them to have lots of knowledge about software engineering (for example) - that isn't usually their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
 
 ```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionrecruiter)"}
 knitr::include_graphics("images/recruiters-are.png")
 ```
 (ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid recruiters, just be careful how you use them.
 
-Some recruiters are very good and can help you, but it is worth remembering that they work primarily for their clients (employers) not you. Having said that, there are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you.
+Some recruiters are very good and can help you. For example, there are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you. However some recruiters are not very good, and don't provide a valued service for employers or potential employees like you. This is why you sometimes see `no recruiters` or `no agencies` on job adverts. So be wary of recruiters, but it is worth remembering that some recruiters work primarily for their clients (employers) not you. 
 
 
 <!-- timing

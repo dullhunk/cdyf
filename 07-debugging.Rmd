@@ -160,7 +160,7 @@ Experience is where you can talk about any paid or voluntary work experience you
 knitr::include_graphics("images/What have you done.png")
 ```
 
-(ref:captionwhathaveudone) Are you experienced? What have you done? sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionwhathaveudone) Are you experienced? What have you done outside of your formal academic education? Experience sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 If you don't have much experience, don't worry, there are plenty of opportunities to get some. For details, see [are you experienced](experiencing.html)?
@@ -184,7 +184,7 @@ They will most likely be unpaid because paid work fits better in [your experienc
 knitr::include_graphics("images/feynman.png")
 ```
 
-(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](California Institute of Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating things in personal side projects is a great way to build new knowledge and help your CV stand out like a sore thumb 👍. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](California Institute of Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new knowledge and help your CV stand out like a sore thumb (in a good way) 👍. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 Another good source of projects is to [fix a bug in an open source project](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749). It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the toolchain being used (which might be complex) and solve problems.
 
@@ -202,17 +202,17 @@ Those project names are pretty opaque and don't give the reader much to go on. W
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former, so instead of saying:
 
-* WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client
-* Tested WidgetWasher on a range of different operating systems and devices
-* Designed and implemented the API which was built using a RESTful approach while pair programming with one other collaborator for two days at a hackathon
+* `WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client`
+* `Tested WidgetWasher on a range of different operating systems and devices`
+* `Designed and implemented an API which was built using a RESTful approach while pair programming with one other collaborator for two days at a hackathon`
 
 You could reverse the order to change the emphasis like this:
 
-* Designed and implemented the API which was built using a RESTful approach while pair programming with one other collaborator for two days at a hackathon
-* Tested WidgetWasher on a range of different operating systems and devices
-* WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client
+* `Designed and implemented an API which was built using a RESTful approach while pair programming with one other collaborator for two days at a hackathon`
+* `Tested WidgetWasher on a range of different operating systems and devices`
+* `WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client`
 
-The latter has all the same information, but by leading with the verbs, it's much clearer what the 
+The latter has all the same information, but by leading with the verbs, more emphasis is given to what the writer did, rather than what the software did.
 
 ### Your skills?  {#mycvsk}
 
@@ -250,7 +250,7 @@ Whatever your typographical style is, portable document format (PDF) is the safe
 
 It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX: LaTeX4year1](https://latex4year1.netlify.app/) if you've not used LaTeX before. [@latex4year1]
 
-### Your context, action and result story {#carstar}
+### What's your story? {#carstar}
 
 One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction and **R**esult (CAR) sometimes called STAR (**S**ituation **T**ask **A**ction **R**esult) to tell your stories. This method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing Python as a skill, you should tell the reader (really spell it out) more about the context in which you've used python, what you actually did with it and what the result was
 
