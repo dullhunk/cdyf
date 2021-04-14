@@ -131,7 +131,7 @@ The first thing in your CV is the header, a simple section giving your name, ema
 knitr::include_graphics("images/alan-turing-header.png")
 ```
 
-(ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything else, will just waste space and distract the reader.
+(ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything else, will waste valuable space and distract the reader.
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have five sections that cover the following:
 
@@ -200,19 +200,21 @@ Those project names are pretty opaque and don't give the reader much to go on. W
 
 **This is all excellent CV fodder!**
 
-It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former. Let's say you've developed a piece of software called `WidgetWasher`: instead of saying:
+It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
-* `WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client`
+* `WidgetWasher is a web service that takes widgets and washes them before painting them a random colour `
 * `Tested WidgetWasher on a range of different operating systems and devices`
-* `Designed and implemented an API which was built using a RESTful approach while pair programming with one other collaborator for two days at a hackathon`
+* `Collaborated with one other contributor for two days at a hackathon using pair programming`
+* `Designed and implemented an API using a RESTful approach `
 
-You could reverse the order to change the emphasis like this:
+Instead, you could reverse the order to change the emphasis like this:
 
-* `Designed and implemented an API which was built using a RESTful approach while pair programming with one other collaborator for two days at a hackathon`
+* `Designed and implemented an API using a RESTful approach`
+* `Collaborated with one other contributor for two days at a hackathon using pair programming`
 * `Tested WidgetWasher on a range of different operating systems and devices`
-* `WidgetWasher is a web service that takes random widgets and washes them before painting them a random colour and returning them to the client`
+* `WidgetWasher is a web service that takes widgets and washes them before painting them a random colour`
 
-The latter has all the same information, but by reversing the order, more emphasis is given to what you did, rather than what the software did.
+The latter has all the same information, but by reversing the order, you've emphasised what *you* did, rather than what the software did.
 
 ### Your skills?  {#mycvsk}
 
