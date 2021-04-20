@@ -21,17 +21,14 @@ Many technology jobs exist outside of technology companies, [@outsideit] because
 
 <!--
 Entrepreneur, commercial skills
-
 * What does it mean to be enterprising?
 * What is entrepreneurial?
 * Saving money
+* include parttime work
+* what is enterprise https://www.youtube.com/watch?v=YCfMcFR3sGE
+* see [@innovatorsdilemma]
 
-* include part-time work
-
-what is enterprise
-https://www.youtube.com/watch?v=YCfMcFR3sGE
-
-see [@innovatorsdilemma]-->
+-->
 
 ## With great code comes great responsibility {#greatcode}
 
@@ -49,35 +46,24 @@ knitr::include_graphics("images/Sell your soul.png")
 (ref:captionsoul) Do you need to sell your soul to your employer? If so, how much can you get for it? What percentage stake of your soul will they ask for and how much are you willing to give? How do your values align with those of your employer? Soul dialog box sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 <!--
-## Silicon Fen
+* Silicon Fen
+* https://www.cst.cam.ac.uk/ring/awards
+* https://www.cst.cam.ac.uk/supporters-club/recruitment-fair
+* Selfemployment {#selfie}
+* Contract {#contract}
+* Freelance {#freelance}
+* Parttime {#parttime}
+* heading Creating your future
+*  Startup {#startup}
+*  https://bryanmmathers.com/its-not-the-only-way/
+*  Small or medium? {#sme}   
+* Science careers {#scareer}
+* CERN, should go here or Computing your future  
+-->
 
-https://www.cst.cam.ac.uk/ring/awards
+<!--
 
-https://www.cst.cam.ac.uk/supporters-club/recruitment-fair
-
-## Self-employment {#selfie}
-
-## Contract {#contract}
-
-## Freelance {#freelance}
-
-## Part-time {#parttime}
-
-
-## Creating your future
-
-Startup {#startup}
-
-https://bryanmmathers.com/its-not-the-only-way/
-
-## Small or medium? {#sme}   
-
-
-## Science careers {#scareer}
-
-CERN, should go here or Computing your future  
-
-## Teaching: coding their future
+* Teaching: coding their future
 
 The computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains why teachers of computing are crucial from primary school through to secondary school and beyond. Can you inspire the next generation with your knowledge of computing? ,
 https://www.youtube.com/watch?v=SwV3QyVc-go
@@ -88,7 +74,9 @@ Teaching is not a delivery system, it's an art form.
 knitr::include_graphics("images/ken-robinson-teaching.png")
 ```
 
-(ref:captionkenrob) According to [Ken Robinson](https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist)), teaching is an art form. [@kills1; @kills2] Are you an artist? There is significant demand for artists like you who can teach computing to the next generation. You don't even need to have studied Computer Science to become a teacher of computing. [What teaching is not](https://bryanmmathers.com/what-teaching-is-not/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)-->
+(ref:captionkenrob) According to [Ken Robinson](https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist)), teaching is an art form. [@kills1; @kills2] Are you an artist? There is significant demand for artists like you who can teach computing to the next generation. You don't even need to have studied Computer Science to become a teacher of computing. [What teaching is not](https://bryanmmathers.com/what-teaching-is-not/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+-->
 
 ## Summarising your alternatives {#tldr11}
 
@@ -96,6 +84,10 @@ knitr::include_graphics("images/ken-robinson-teaching.png")
 
 This chapter is under construction because I'm using agile space station development methods, see figure \@ref(fig:deathstar8-fig).
 
+<!-- hello world test for epub 3-->
+
 ```{r deathstar8-fig, echo = FALSE, fig.align = "center", out.width = "32%", fig.cap = "(ref:captiondeathstar)"}
 knitr::include_graphics("images/DeathStar2.jpg")
 ```
+
+<!-- hello world test for epub 2-->
