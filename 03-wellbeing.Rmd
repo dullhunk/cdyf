@@ -51,12 +51,20 @@ knitr::include_graphics("images/youtube-anxiety.png")
 
 Millions of people around the world live with depression. If you are affected by depression it can be really hard to talk about it as there are many social stigmas around mental health. Thankfully depression is largely preventable and treatable. Recognising depression and seeking help is the first and most critical step towards recovery. To mark [World Mental Health Day](https://en.wikipedia.org/wiki/World_Mental_Health_Day) writer and illustrator Matthew Johnstone tells the story of how he overcame the “black dog of depression” in the video in Figure \@ref(fig:sad-fig) made in collaboration with the World Health Organization (WHO).
 
-```{r sad-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog [@youtube-blackdog]"}
+```{r sad-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionblackdog)"}
 knitr::include_graphics("images/youtube-blackdog.png")
 ```
 
+(ref:captionblackdog) Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog [@youtube-blackdog]
+
 ### Drugs {#drugs}
-Sometimes the drugs don't work, they just make you worse. [@drugsdontwork] Medication can help some people with their mental health. For example, when I was affected by depression, [selective serotonin reuptake inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) worked for me. But they don't for everybody.
+Medication can help some people with their mental health. For example, when I was affected by depression, [selective Serotonin Reuptake Inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) worked for me, shown in Figure \@ref(fig:citalopram-fig), but they don't for everybody. Sometimes the drugs don't work, they just make you worse. [@drugsdontwork]
+
+```{r citalopram-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captioncitalopram)"}
+knitr::include_graphics("images/citalopram.jpg")
+```
+
+(ref:captioncitalopram) [Citalopram](https://www.nhs.uk/medicines/citalopram/) is a type of antidepressant known as a Selective Serotonin Reuptake Inhibitor (SSRI). SSRI's can help some people who have been affected by depression. They work for some people (including me) but they don't for everybody. Skeletal formulae of Citalopram by Vaccinationist via Wikimedia Commons [w.wiki/3Ddn](https://w.wiki/3Ddn) adapted using the Wikipedia app.
 
 Some doctors prescribe [benzodiazepines](https://www.mind.org.uk/information-support/drugs-and-treatments/sleeping-pills-and-minor-tranquillisers/about-benzodiazepines/) for anxiety, which may be effective where SSRI's are not, but these can be addictive and have big side effects.
 
