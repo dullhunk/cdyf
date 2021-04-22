@@ -20,7 +20,7 @@ By the end of this chapter you will be able to:
 
 ## Mental ill health {#illhealth}
 
-Stress can lead to many kinds of ill health. Turing was being put under lots of stress by his government bosses, people like [Alastair Denniston](https://en.wikipedia.org/wiki/Alastair_Denniston) and [Stewart Menzies](https://en.wikipedia.org/wiki/Stewart_Menzies). [@imitationgame] On describing his work for the government and why he punished himself so much in training, Alan Turing said:
+Stress can lead to many kinds of ill health. Turing was put under lots of stress by his government bosses, people like [Alastair Denniston](https://en.wikipedia.org/wiki/Alastair_Denniston) and [Stewart Menzies](https://en.wikipedia.org/wiki/Stewart_Menzies). [@imitationgame] On describing his work for the government and why he punished himself so much in training, Alan Turing said:
 
 > “I have such a stressful job that the only way I can get it out of my mind is by running hard; it’s the only way I can get some release” --Alan Turing.  [@kottke]
 
@@ -58,7 +58,7 @@ knitr::include_graphics("images/youtube-blackdog.png")
 (ref:captionblackdog) Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog [@youtube-blackdog]
 
 ### Drugs {#drugs}
-Medication can help some people with their mental health. For example, when I was affected by depression, [selective Serotonin Reuptake Inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) worked for me, shown in Figure \@ref(fig:citalopram-fig), but they don't for everybody. Sometimes the drugs don't work, they just make you worse. [@drugsdontwork]
+Prescription medication can help some people with their mental health. For example, when I was affected by depression, [Selective Serotonin Reuptake Inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) worked for me, shown in Figure \@ref(fig:citalopram-fig), but they don't for everybody. Sometimes the drugs don't work, they just make you worse. [@drugsdontwork]
 
 ```{r citalopram-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captioncitalopram)"}
 knitr::include_graphics("images/citalopram.jpg")
@@ -73,7 +73,7 @@ It is often worth considering cognitive behavioural therapy (CBT) before taking 
 ## Look after yourself
 Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise, mindfulness and friendship. Looking after yourself means at least three things:
 
-* being mindful of your feelings and learning to ignore your inner critic
+* being mindful of your feelings and learning to manage your inner critic
 * being kind to yourself in various ways
 * deliberately scheduling protected time to do the non-work things that matter.
 
@@ -93,9 +93,10 @@ Harvard Psychologist [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._San
     * **R**ecognise: negative emotions
     * **A**ccept: accept emotions rather than fighting them
     * **I**nvestigate: notice how the emotion feels inside your body
-    * **N**urture: be kind to yourself
+    * **N**urture: be kind to yourself, step away from your emotions by distancing yourself from them.
 
-Laurie explains the R.A.I.N. technique in figure \@ref(fig:laurie-fig).
+
+It can help to think of negative emotions as coming from another person, an inner critic, rather than yourself. You are not your emotions and thoughts. Laurie explains the R.A.I.N. technique in figure \@ref(fig:laurie-fig).
 
 <!-- also woop my life     -->
 
