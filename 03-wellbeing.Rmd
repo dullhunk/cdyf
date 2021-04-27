@@ -1,6 +1,6 @@
-# Looking after your future {#wellbeing}
+# Nurturing your future {#wellbeing}
 
-It doesn't matter if you are a student, an employee or even both at the same time. To be successful at studying or working, you need to take your well-being seriously. By well-being, I mean your health and happiness. Your health isn't just about your physical health but also your mental health and the two are very closely linked. It's all too easy when you are busy or stressed to neglect your well-being and then **bad-stuff™** happens. This chapter looks at your well-being, and how you can nurture and look after it. Because looking after yourself now is also looking after your future. 😀
+It doesn't matter if you are a student, an employee or even both at the same time. To be successful at studying or working, you need to take your well-being seriously. By well-being, I mean your health and happiness. Your health isn't just about your physical health but also your mental health and the two are very closely linked. It's all too easy when you are busy or stressed to neglect your well-being and then **bad-stuff™** happens. This chapter looks at your well-being, and how you can nurture it. Because nurturing and caring for yourself now will also nurture your future. 😀
 
 ```{r turing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionturunning)"}
 knitr::include_graphics("images/alan-turing-runner.jpg")
@@ -284,7 +284,13 @@ knitr::include_graphics("images/youtube-haig.png")
 ```
 (ref:captionhaig) Two of Matt Haig's top five tips for good mental health [@youtube-haig] include 1. Being more careful (and mindful) of social media and 2. Reading more books because books are good for your soul. Not just his book. Any book. Books are good for you. Trust me on this. [@bookfriends]
 
-There’s plenty of evidence to suggest that social media can have a detrimental effect on health. [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier)’s skeptical polemic *Ten Arguments for Deleting Your Social Media Accounts Right Now* [@lanier] is a thought-provoking romp through some of the pitfalls of social media that may have you reaching for the delete or un-install button fairly quickly.
+There’s plenty of evidence to suggest that social media can have a detrimental effect on health. [Jaron Lanier](https://en.wikipedia.org/wiki/Jaron_Lanier)’s skeptical polemic *Ten Arguments for Deleting Your Social Media Accounts Right Now* [@lanier] is a thought-provoking romp through some of the pitfalls of social media that may have you reaching for the delete or un-install button fairly quickly. You don't have to be on social media, see figure \@ref(fig:socialmedia-fig).
+
+```{r socialmedia-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionsocialmedia)"}
+knitr::include_graphics(rep("images/you-dont-have-to-be-on-social-media.png", 3))
+```
+
+(ref:captionsocialmedia) Social media like LinkedIn clearly has its uses (see [debugging your links](https://www.cdyf.me/debugging.html?q=linkedin#links)) but you you don't *have* to be on it. Mental health is just one reason to be wary of social media, for nine other reasons read Jaron Lanier's polemic. [@lanier] You don't have to be on social media by [andy-leek.com](http://www.andy-leek.com/) photographed by [Duncan Cumming](https://www.flickr.com/photos/duncan/51014540593)
 
 If all these books are making you sleepy, neuroscientist Matthew Walker’s *[Why We Sleep: The New Science of Sleep and Dreams](https://en.wikipedia.org/wiki/Why_We_Sleep)* may change your view on the importance of a good nights sleep. [@whywesleep]
 
