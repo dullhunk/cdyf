@@ -14,14 +14,3 @@ The following objects are masked from 'package:base':
 
 output file: cdyf.knit.md
 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.85 \begin{document}
-
-Error: LaTeX failed to compile cdyf.tex. See https://yihui.org/tinytex/r/#debugging for debugging tips. See cdyf.log for more info.
-In addition: Warning message:
-In has_crop_tools() : 
-Tool(s) not installed or not in PATH: pdfcrop
--> As a result, figure cropping will be disabled.
-Execution halted

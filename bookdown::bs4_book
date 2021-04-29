@@ -98,7 +98,7 @@ List of 4
 
   ordinary text without R code
 
-  |                                                                              |.......                                                               |  10%
+  |                                                                              |.......                                                               |   9%
 label: goldengate-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -106,10 +106,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captiongoldengate)"
 
-
+  |                                                                              |.......                                                               |  10%
   ordinary text without R code
 
-  |                                                                              |........                                                              |  11%
+
 label: unnamed-chunk-2 (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -117,30 +117,30 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionbbcsofa)"
 
-
+  |                                                                              |........                                                              |  11%
   ordinary text without R code
 
-  |                                                                              |........                                                              |  12%
+
 label: unnamed-chunk-3 (with options) 
 List of 3
  $ results: chr "asis"
  $ echo   : logi FALSE
  $ message: logi FALSE
 
-  |                                                                              |.........                                                             |  12%
+  |                                                                              |........                                                              |  12%
   ordinary text without R code
 
-  |                                                                              |.........                                                             |  13%
+  |                                                                              |.........                                                             |  12%
 label: unnamed-chunk-4 (with options) 
 List of 3
  $ results: chr "asis"
  $ echo   : logi FALSE
  $ message: logi FALSE
 
-
+  |                                                                              |.........                                                             |  13%
    inline R code fragments
 
-  |                                                                              |..........                                                            |  14%
+
 label: hitchens-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -148,10 +148,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionhitch)"
 
-
+  |                                                                              |..........                                                            |  14%
   ordinary text without R code
 
-  |                                                                              |..........                                                            |  15%
+
 label: bath-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -159,10 +159,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionbath)"
 
-  |                                                                              |...........                                                           |  15%
+  |                                                                              |..........                                                            |  15%
   ordinary text without R code
 
-  |                                                                              |...........                                                           |  16%
+  |                                                                              |...........                                                           |  15%
 label: shaft-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -170,10 +170,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionshaftesbury)"
 
-
+  |                                                                              |...........                                                           |  16%
   ordinary text without R code
 
-  |                                                                              |............                                                          |  17%
+
 label: shaha-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -181,10 +181,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionshaha)"
 
-
+  |                                                                              |............                                                          |  17%
   ordinary text without R code
 
-  |                                                                              |............                                                          |  18%
+
 label: st-annes-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -192,10 +192,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionstannes)"
 
-  |                                                                              |.............                                                         |  18%
+  |                                                                              |............                                                          |  18%
   ordinary text without R code
 
-  |                                                                              |.............                                                         |  19%
+  |                                                                              |.............                                                         |  18%
 label: moravian-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -206,17 +206,17 @@ List of 4
 
   ordinary text without R code
 
-  |                                                                              |..............                                                        |  20%
+  |                                                                              |.............                                                         |  19%
 label: unnamed-chunk-5 (with options) 
 List of 3
  $ results: chr "asis"
  $ echo   : logi FALSE
  $ message: logi FALSE
 
-
+  |                                                                              |..............                                                        |  19%
   ordinary text without R code
 
-
+  |                                                                              |..............                                                        |  20%
 label: selfportrait-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -224,10 +224,10 @@ List of 4
  $ out.width: chr "75%"
  $ fig.cap  : chr "(ref:captionselfportrait)"
 
-  |                                                                              |...............                                                       |  21%
+
   ordinary text without R code
 
-
+  |                                                                              |...............                                                       |  21%
 label: rabbit-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -235,10 +235,10 @@ List of 4
  $ out.width: chr "70%"
  $ fig.cap  : chr "(ref:captionrabbit)"
 
-  |                                                                              |...............                                                       |  22%
+
   ordinary text without R code
 
-  |                                                                              |................                                                      |  22%
+  |                                                                              |...............                                                       |  22%
 label: lotsofgrads-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -246,10 +246,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionlotsofgrads)"
 
-  |                                                                              |................                                                      |  23%
+  |                                                                              |................                                                      |  22%
   ordinary text without R code
 
-
+  |                                                                              |................                                                      |  23%
 label: exam-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -257,10 +257,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captiongimme)"
 
-  |                                                                              |.................                                                     |  24%
+
   ordinary text without R code
 
-
+  |                                                                              |.................                                                     |  24%
 label: shelfie-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -268,26 +268,26 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionshelfie)"
 
-  |                                                                              |.................                                                     |  25%
+
   ordinary text without R code
 
-  |                                                                              |..................                                                    |  25%
+  |                                                                              |.................                                                     |  25%
 label: tweet-from-psd (with options) 
 List of 1
  $ echo: logi FALSE
 
-  |                                                                              |..................                                                    |  26%
+  |                                                                              |..................                                                    |  25%
   ordinary text without R code
 
-
+  |                                                                              |..................                                                    |  26%
 label: tweet-from-fonikh (with options) 
 List of 1
  $ echo: logi FALSE
 
-  |                                                                              |...................                                                   |  27%
+
   ordinary text without R code
 
-
+  |                                                                              |...................                                                   |  27%
 label: tldr-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -295,10 +295,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captiontldr)"
 
-  |                                                                              |...................                                                   |  28%
+
   ordinary text without R code
 
-  |                                                                              |....................                                                  |  28%
+
 label: goal-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -306,7 +306,7 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionwhoareyou)"
 
-  |                                                                              |....................                                                  |  29%
+  |                                                                              |....................                                                  |  28%
   ordinary text without R code
 
 
@@ -317,10 +317,10 @@ List of 4
  $ out.width: chr "80%"
  $ fig.cap  : chr "(ref:captioniki)"
 
-  |                                                                              |.....................                                                 |  30%
+  |                                                                              |....................                                                  |  29%
   ordinary text without R code
 
-
+  |                                                                              |.....................                                                 |  29%
 label: know-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -328,7 +328,7 @@ List of 4
  $ out.width: chr "50%"
  $ fig.cap  : chr "(ref:captionknowthyself)"
 
-  |                                                                              |......................                                                |  31%
+  |                                                                              |.....................                                                 |  30%
   ordinary text without R code
 
 
@@ -339,10 +339,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "Palliative care nurse Bronnie Ware explains the top five regrets of the dying. [@youtube-bronnie] Bronnie learn"| __truncated__
 
-  |                                                                              |......................                                                |  32%
+  |                                                                              |......................                                                |  31%
   ordinary text without R code
 
-  |                                                                              |.......................                                               |  32%
+
 label: bolles-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -350,10 +350,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "Where will you be five years from now? Best-selling author Dick Bolles talks at the Googleplex about the gaps b"| __truncated__
 
-  |                                                                              |.......................                                               |  33%
+  |                                                                              |......................                                                |  32%
   ordinary text without R code
 
-
+  |                                                                              |.......................                                               |  32%
 label: turing-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -361,7 +361,7 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionturunning)"
 
-  |                                                                              |........................                                              |  34%
+  |                                                                              |.......................                                               |  33%
   ordinary text without R code
 
 
@@ -372,16 +372,27 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captiongad)"
 
-  |                                                                              |........................                                              |  35%
+  |                                                                              |........................                                              |  34%
   ordinary text without R code
 
-  |                                                                              |.........................                                             |  35%
+
 label: sad-fig (with options) 
 List of 4
  $ echo     : logi FALSE
  $ fig.align: chr "center"
  $ out.width: chr "99%"
- $ fig.cap  : chr "Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog [@youtube-blackdog]"
+ $ fig.cap  : chr "(ref:captionblackdog)"
+
+  |                                                                              |........................                                              |  35%
+  ordinary text without R code
+
+  |                                                                              |.........................                                             |  35%
+label: citalopram-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "99%"
+ $ fig.cap  : chr "(ref:captioncitalopram)"
 
   |                                                                              |.........................                                             |  36%
   ordinary text without R code
@@ -394,10 +405,10 @@ List of 4
  $ out.width: chr "50%"
  $ fig.cap  : chr "(ref:captionlookafter)"
 
-  |                                                                              |..........................                                            |  37%
+  |                                                                              |..........................                                            |  36%
   ordinary text without R code
 
-
+  |                                                                              |..........................                                            |  37%
 label: laurie-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -405,7 +416,7 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionlaurie)"
 
-  |                                                                              |..........................                                            |  38%
+
   ordinary text without R code
 
   |                                                                              |...........................                                           |  38%
@@ -414,10 +425,10 @@ List of 2
  $ echo   : logi FALSE
  $ fig.cap: chr "test caption"
 
-  |                                                                              |...........................                                           |  39%
+
   ordinary text without R code
 
-
+  |                                                                              |...........................                                           |  39%
 label: nightline-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -425,10 +436,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "Students explain in their own words how calling Nightline helped them whilst at university. [@youtube-nightline]"
 
-  |                                                                              |............................                                          |  40%
+  |                                                                              |............................                                          |  39%
   ordinary text without R code
 
-
+  |                                                                              |............................                                          |  40%
 label: rubywax-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -494,7 +505,7 @@ List of 4
   |                                                                              |................................                                      |  45%
   ordinary text without R code
 
-  |                                                                              |................................                                      |  46%
+
 label: haig-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -502,10 +513,21 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionhaig)"
 
-
+  |                                                                              |................................                                      |  46%
   ordinary text without R code
 
+  |                                                                              |.................................                                     |  46%
+label: socialmedia-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.show : chr "hold"
+ $ out.width: chr "32%"
+ $ fig.cap  : chr "(ref:captionsocialmedia)"
+
   |                                                                              |.................................                                     |  47%
+  ordinary text without R code
+
+
 label: otherpeople-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -513,10 +535,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionotherpeople)"
 
-
+  |                                                                              |..................................                                    |  48%
   ordinary text without R code
 
-  |                                                                              |.................................                                     |  48%
+
 label: achilles-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -524,10 +546,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionachilles)"
 
-  |                                                                              |..................................                                    |  48%
+  |                                                                              |..................................                                    |  49%
   ordinary text without R code
 
-  |                                                                              |..................................                                    |  49%
+  |                                                                              |...................................                                   |  49%
 label: allskills-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -535,15 +557,15 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionallskills)"
 
-
+  |                                                                              |...................................                                   |  50%
   ordinary text without R code
 
-  |                                                                              |...................................                                   |  50%
+
 label: iotable (with options) 
 List of 1
  $ echo: logi FALSE
 
-
+  |                                                                              |...................................                                   |  51%
   ordinary text without R code
 
   |                                                                              |....................................                                  |  51%
@@ -554,19 +576,19 @@ List of 4
  $ out.width: chr "90%"
  $ fig.cap  : chr "(ref:captionalrtfm)"
 
-
+  |                                                                              |....................................                                  |  52%
   ordinary text without R code
 
-  |                                                                              |....................................                                  |  52%
+
 label: itcrowd-fig (with options) 
 List of 2
  $ echo   : logi FALSE
  $ fig.cap: chr "test caption"
 
-  |                                                                              |.....................................                                 |  52%
+  |                                                                              |.....................................                                 |  53%
   ordinary text without R code
 
-  |                                                                              |.....................................                                 |  53%
+
 label: deathstar-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -574,7 +596,7 @@ List of 4
  $ out.width: chr "32%"
  $ fig.cap  : chr "(ref:captiondeathstar)"
 
-
+  |                                                                              |.....................................                                 |  54%
   ordinary text without R code
 
   |                                                                              |......................................                                |  54%
@@ -585,10 +607,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:caption404)"
 
-
+  |                                                                              |......................................                                |  55%
   ordinary text without R code
 
-  |                                                                              |......................................                                |  55%
+
 label: relevance-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -654,7 +676,7 @@ List of 4
 
   ordinary text without R code
 
-
+  |                                                                              |..........................................                            |  61%
 label: deathstar2-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -665,7 +687,7 @@ List of 4
   |                                                                              |...........................................                           |  61%
   ordinary text without R code
 
-
+  |                                                                              |...........................................                           |  62%
 label: not-coding-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -673,10 +695,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionnotcoding)"
 
-  |                                                                              |...........................................                           |  62%
+
   ordinary text without R code
 
-  |                                                                              |............................................                          |  62%
+  |                                                                              |............................................                          |  63%
 label: joker-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -684,10 +706,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionjoker)"
 
-  |                                                                              |............................................                          |  63%
+
   ordinary text without R code
 
-
+  |                                                                              |............................................                          |  64%
 label: nurses-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -772,10 +794,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionjonathanblack)"
 
-  |                                                                              |..................................................                    |  71%
+  |                                                                              |.................................................                     |  71%
   ordinary text without R code
 
-
+  |                                                                              |..................................................                    |  71%
 label: turinghead-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -786,7 +808,7 @@ List of 4
   |                                                                              |..................................................                    |  72%
   ordinary text without R code
 
-  |                                                                              |...................................................                   |  72%
+
 label: done-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -805,10 +827,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionfeynman)"
 
-  |                                                                              |....................................................                  |  74%
+
   ordinary text without R code
 
-
+  |                                                                              |....................................................                  |  74%
 label: cvwork-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -816,10 +838,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionworkcv)"
 
-  |                                                                              |....................................................                  |  75%
+
   ordinary text without R code
 
-  |                                                                              |.....................................................                 |  75%
+  |                                                                              |....................................................                  |  75%
 label: oneortwopager-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -827,10 +849,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "How long should your CV be? Should you write a two page European style CV or an American style resume (one page"| __truncated__
 
-  |                                                                              |.....................................................                 |  76%
+  |                                                                              |.....................................................                 |  75%
   ordinary text without R code
 
-
+  |                                                                              |.....................................................                 |  76%
 label: morefeatures-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -838,10 +860,10 @@ List of 4
  $ out.width: chr "98%"
  $ fig.cap  : chr "(ref:captionmorefeatures)"
 
-  |                                                                              |......................................................                |  77%
+
   ordinary text without R code
 
-
+  |                                                                              |......................................................                |  77%
 label: lovelace-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -849,10 +871,10 @@ List of 4
  $ out.width: chr "98%"
  $ fig.cap  : chr "(ref:captionlovelace)"
 
-  |                                                                              |......................................................                |  78%
+
   ordinary text without R code
 
-  |                                                                              |.......................................................               |  78%
+  |                                                                              |......................................................                |  78%
 label: machines-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -860,10 +882,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionmachines)"
 
-  |                                                                              |.......................................................               |  79%
+  |                                                                              |.......................................................               |  78%
   ordinary text without R code
 
-
+  |                                                                              |.......................................................               |  79%
 label: yesbut-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -871,10 +893,10 @@ List of 4
  $ out.width: chr "90%"
  $ fig.cap  : chr "(ref:captionyesbut)"
 
-  |                                                                              |........................................................              |  80%
+
   ordinary text without R code
 
-
+  |                                                                              |........................................................              |  80%
 label: recruiter-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -885,13 +907,13 @@ List of 4
 
   ordinary text without R code
 
-  |                                                                              |.........................................................             |  81%
+  |                                                                              |........................................................              |  81%
 label: iamdevloper-fig (with options) 
 List of 2
  $ echo   : logi FALSE
  $ fig.cap: chr "Job interview: sort binary tree. Job: manually update csv files ... We're looking for someone aged 22-26 with 3"| __truncated__
 
-
+  |                                                                              |.........................................................             |  81%
   ordinary text without R code
 
   |                                                                              |.........................................................             |  82%
@@ -899,10 +921,10 @@ label: shortcuts (with options)
 List of 1
  $ echo: logi FALSE
 
-  |                                                                              |..........................................................            |  82%
+
   ordinary text without R code
 
-  |                                                                              |..........................................................            |  83%
+  |                                                                              |..........................................................            |  82%
 label: bumped-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -910,10 +932,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionbumped)"
 
-
+  |                                                                              |..........................................................            |  83%
   ordinary text without R code
 
-  |                                                                              |...........................................................           |  84%
+
 label: net-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -921,10 +943,10 @@ List of 4
  $ out.width: chr "50%"
  $ fig.cap  : chr "(ref:captionnetworks)"
 
-
+  |                                                                              |...........................................................           |  84%
   ordinary text without R code
 
-  |                                                                              |...........................................................           |  85%
+
 label: teachers-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -932,10 +954,10 @@ List of 4
  $ out.width: chr "80%"
  $ fig.cap  : chr "(ref:captionpurveyors)"
 
-  |                                                                              |............................................................          |  85%
+  |                                                                              |...........................................................           |  85%
   ordinary text without R code
 
-  |                                                                              |............................................................          |  86%
+  |                                                                              |............................................................          |  85%
 label: deathstar5-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -943,10 +965,10 @@ List of 4
  $ out.width: chr "32%"
  $ fig.cap  : chr "(ref:captiondeathstar)"
 
-
+  |                                                                              |............................................................          |  86%
   ordinary text without R code
 
-  |                                                                              |.............................................................         |  87%
+
 label: bugfree-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -954,10 +976,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionbugfree)"
 
-
+  |                                                                              |.............................................................         |  87%
   ordinary text without R code
 
-  |                                                                              |.............................................................         |  88%
+
 label: bobonmute-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -965,10 +987,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:bobonmute)"
 
-  |                                                                              |..............................................................        |  88%
+  |                                                                              |.............................................................         |  88%
   ordinary text without R code
 
-  |                                                                              |..............................................................        |  89%
+  |                                                                              |..............................................................        |  88%
 label: petia-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -976,10 +998,10 @@ List of 4
  $ out.width: chr "99%"
  $ fig.cap  : chr "(ref:captionpetia)"
 
-
+  |                                                                              |..............................................................        |  89%
   ordinary text without R code
 
-  |                                                                              |...............................................................       |  90%
+
 label: deathstar6-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -987,10 +1009,10 @@ List of 4
  $ out.width: chr "32%"
  $ fig.cap  : chr "(ref:captiondeathstar)"
 
-
+  |                                                                              |...............................................................       |  90%
   ordinary text without R code
 
-  |                                                                              |................................................................      |  91%
+
 label: default-user-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -998,10 +1020,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captiondefaultuser)"
 
-
+  |                                                                              |...............................................................       |  91%
   ordinary text without R code
 
-  |                                                                              |................................................................      |  92%
+  |                                                                              |................................................................      |  91%
 label: soul-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -1009,10 +1031,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionsoul)"
 
-  |                                                                              |.................................................................     |  92%
+
   ordinary text without R code
 
-  |                                                                              |.................................................................     |  93%
+  |                                                                              |................................................................      |  92%
 label: teach-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -1020,10 +1042,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionkenrob)"
 
-
+  |                                                                              |.................................................................     |  92%
   ordinary text without R code
 
-  |                                                                              |..................................................................    |  94%
+  |                                                                              |.................................................................     |  93%
 label: deathstar8-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -1034,7 +1056,7 @@ List of 4
 
   ordinary text without R code
 
-  |                                                                              |..................................................................    |  95%
+  |                                                                              |..................................................................    |  94%
 label: while-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -1042,10 +1064,10 @@ List of 4
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captionbadges)"
 
-  |                                                                              |...................................................................   |  95%
+
   ordinary text without R code
 
-  |                                                                              |...................................................................   |  96%
+  |                                                                              |..................................................................    |  95%
 label: deathstar7-fig (with options) 
 List of 4
  $ echo     : logi FALSE
@@ -1053,16 +1075,25 @@ List of 4
  $ out.width: chr "32%"
  $ fig.cap  : chr "(ref:captiondeathstar)"
 
-
+  |                                                                              |...................................................................   |  95%
   ordinary text without R code
 
-  |                                                                              |....................................................................  |  97%
+  |                                                                              |...................................................................   |  96%
 label: einstein-fig (with options) 
 List of 4
  $ echo     : logi FALSE
  $ fig.align: chr "center"
  $ out.width: chr "100%"
  $ fig.cap  : chr "(ref:captioneinstein)"
+
+
+  ordinary text without R code
+
+  |                                                                              |....................................................................  |  97%
+label: gavinbrown-fig (with options) 
+List of 2
+ $ echo   : logi FALSE
+ $ fig.cap: chr "test caption"
 
 
   ordinary text without R code
@@ -1101,4 +1132,4 @@ List of 4
    inline R code fragments
 
 
-/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS cdyf.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output cdyf.html --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/latex-div.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//RtmppfeTTw/filecef52623cb07 --wrap preserve --standalone --section-divs --template /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/templates/bs4_book.html --highlight-style pygments --number-sections --include-in-header /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//RtmppfeTTw/rmarkdown-strcef573481d34.html --mathjax --citeproc 
+/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS cdyf.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output cdyf.html --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/latex-div.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//Rtmpm2C0cr/file5853ee3381d --wrap preserve --standalone --section-divs --template /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/templates/bs4_book.html --highlight-style pygments --number-sections --include-in-header /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//Rtmpm2C0cr/rmarkdown-str5853243ed30e.html --mathjax --citeproc 
