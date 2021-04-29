@@ -1,6 +1,6 @@
 ---
 title: "Coding Your Future: A Guidebook for Students"
-author: Duncan Hull and illustrated by Bryan Mathers
+author: Duncan Hull and Bryan Mathers
 # date: "last updated `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -23,17 +23,15 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test, debug and code your future in computing. This guidebook is aimed at students in higher education, both those studying Computer Science and those who are *computationally curious*.
-
-This guidebook ([cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub)) supports teaching at the University of Manchester, but it DOES NOT MATTER:
+Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test, debug and *code* your future in computing. This guidebook (published at [cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub)) supports teaching at the University of Manchester, but is aimed at all students in higher education. So it DOES NOT MATTER:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
-* what *subject* you are studying, provided that you are computationally curious
+* what *subject* you are studying, as long as you are *computationally curious*
 * what *institution* you are studying at, this book is University and institution agnostic
 * *where* in the world you are studying
 
-So there is probably something in this guidebook for *any* student of computing. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👨🏿‍💻
+There is probably something in this guidebook for *any* student of computing, both inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👨🏿‍💻
 
 
 ## Visualising your future {#picturethis}
@@ -385,7 +383,7 @@ knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters, Stockport Hatters. 🙏
 
 ### Thank you Moravians {#moravians}
-Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learnt heaps as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker.
+Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learned loads as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker.
 
 ```{r moravian-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmoravian)"}
 knitr::include_graphics("images/moravian-insitute.jpg")
