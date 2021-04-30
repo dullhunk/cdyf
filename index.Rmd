@@ -23,7 +23,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test, debug and *code* your future in computing. This guidebook (published at [cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub)) supports teaching at the University of Manchester, but is aimed at all students in higher education. So it DOES NOT MATTER:
+Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test and *code* your future in computing. Published at [cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), it is aimed at ALL students in higher education. Although this guide supports teaching at the University of Manchester, it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -31,7 +31,7 @@ Hello and welcome to *Coding Your Future*, the guidebook that will help you to d
 * what *institution* you are studying at, this book is University and institution agnostic
 * *where* in the world you are studying
 
-There is something in this guidebook for *any* student of computing, both inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
+There is something in this guidebook for *any* student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
 ## Visualising your future {#picturethis}
 A lot of self-help literature can be dry, dull, textbooky and boring with few illustrations and conversations.
@@ -146,7 +146,7 @@ knitr::include_graphics("images/brooklyn-bridge-blueprint.png")
 
 Building a career isn't that different to building anything else, you'll need to do some design work and it will probably be iterative. Designing things often involves asking tricky questions. So when you're designing your future you'll need to cover the following:
 
-1. [Surveying your future](bothering.html) looks at why you should bother reading any of this guidebook
+1. [Surveying your future](bothering.html) discusses why you should bother reading any of this guidebook
 1. [Knowing your future](knowing.html) challenges you to reflect on who you are, what makes you unique and why you are here
 1. [Nurturing your future](wellbeing.html) encourages you to take care of your mental and physical health
 1. [Writing your future](communicating.html) explores your soft skills, and how they complement your hard skills and why employers value them so much
@@ -332,7 +332,7 @@ knitr::include_graphics("images/bath-panorama.png")
 Thanks Bath for the initial teacher training (ITT), the medicinal [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotwolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)). 🙏
 
 ### Thank you Shaftesbury {#shaftesbury}
-Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers, Caroline Moss and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement. Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their hard won knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long and winding west country highways to and from deepest darkest Dorset. Thanks for sharing the heavy burden of driving too.
+Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers, Caroline Moss and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement. Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their hard won knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long and winding west country roads to and from deepest darkest Dorset. Thanks for sharing the heavy burden of driving too.
 
 ```{r shaft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshaftesbury)"}
 knitr::include_graphics("images/shaftesbury.jpg")
@@ -343,16 +343,16 @@ knitr::include_graphics("images/shaftesbury.jpg")
 So thanks Shaftesbury for lessons on top of Gold Hill and the Hovis Advert, one of Britain's best-loved adverts. [@hovisadvert] 🍞
 
 ### Thank you Swindon {#swindon}
-Thanks to headteacher [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his team of staff, Mr M. Carter <!--m.c.-->, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about waves using [Alom Shaha](https://twitter.com/alomshaha)'s jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
+Thanks to headteacher [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his team of staff, Mr M. Carter <!--m.c.-->, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about waves using Alom Shaha's jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
 
 
 ```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionshaha)"}
 knitr::include_graphics("images/youtube-alom.png")
 ```
 
-(ref:captionshaha) A wave machine demonstration by Alom Shaha with Physics and jelly babies. What's not to like? [@youtube-alom]
+(ref:captionshaha) Alom Shaha ([\@alomshaha](https://twitter.com/alomshaha)) demonstrates his awesome wave machine. Physics and jelly babies, what's not to like? [@youtube-alom]
 
-So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of Wiltshire . 🙏
+So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of Wiltshire. 🙏
 
 ### Thank you schools {#productivefailure}
 Thanks to all the schools who interviewed (but rejected me) for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. Although unsuccessful, these interviews were very productive failures:
@@ -377,7 +377,7 @@ Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/2013120217
 knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 ```
 
-(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the hundreds of children they educate every year, need help from skilled people on their governing boards. For the older readers of this guidebook, why not serve your local community as a “[critical friend](https://schoolgovernors.thekeysupport.com/governor-training/induction-maintained-school-governors/governance-practice/how-be-critical-friend/)” on the governing board of a school? Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the hundreds of children they educate every year, need help from skilled people on their governing boards. Why not serve your local community as a “[critical friend](https://schoolgovernors.thekeysupport.com/governor-training/induction-maintained-school-governors/governance-practice/how-be-critical-friend/)” on the governing board of a school? All ages are welcome, but especially younger governors. [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters, Stockport Hatters. 🙏
 
