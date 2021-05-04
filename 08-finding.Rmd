@@ -94,14 +94,14 @@ https://www.graduate-jobs.com/gco/Booklet/graduate-recruitment-calendar.jsp
 
 <!--### More general resources-->
 
-### Beware of the job scammers
+### Beware of the job scammers {#scams}
 You are vulnerable when you are job hunting, and you may become more vulnerable over time if you are getting repeated rejections (remember: repeated rejection is quite normal). Unfortunately there are some shady characters out there looking to exploit your vulnerability through various kinds of [employment fraud](https://en.wikipedia.org/wiki/Employment_fraud). [@jobscammers] You should be wary of anyone asking you for:
 
 * Money up front - be very suspicious
 * Excessive personal data such birth dates, passport numbers and bank details. These could be used for identity theft, fraud or other criminal activities
 * See for example [google.com/search?q=job+scams](https://www.google.com/search?q=job+scams)
 
-### Beware of unpaid internships
+### Beware of unpaid internships {#unpaid}
 In the United Kingdom, it is illegal to employ people without paying them a salary. However, there are exceptions which can allow employers to take on unpaid interns depending on how they classify their employment status. See for example:
 
 * Employment rights and pay for interns [gov.uk/employment-rights-for-interns](https://www.gov.uk/employment-rights-for-interns)
@@ -111,11 +111,11 @@ In the United Kingdom, it is illegal to employ people without paying them a sala
 
 In science, technology and engineering, unpaid internships are much less common than in other sectors as demand for skilled engineers and scientists is generally high. Some employers, particularly startups, may offer company equity (e.g. shares) as an alternative to a salary - again you should be wary of this. Like many people, I don't endorse unpaid internships, and I'd avoid them completely.
 
-## Job search strategies
+## Job search strategies {#strategies}
 
 It is a good idea to have a range of different strategies for job hunting, and change the strategy during the year. Before we look at strategies, it's important to realise that when you're reading job descriptions for vacancies, some employers will over state their requirements in the hope they get their dream candidate. You might look at the job description and think, I've only got 70% of what they're asking for, so I won't bother applying. The reality is, if you've got 75% of what they are asking for, you should definitely apply.
 
-### Over specified job descriptions
+### Over specified job descriptions {#overspec}
 Employers and recruiters routinely over-specify job descriptions. A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC) in California, job adverts instantly appeared asking for programmers with `5 years experience in Swift`! How can *anyone* have five years experience in a programming language that's only just been made public?! Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the recruiters and employers are going to have *long* search trying to find their unicorn. It will probably take them at least five years! 🦄
 
 ```{r iamdevloper-fig,echo=FALSE, fig.cap = "Job interview: sort binary tree. Job: manually update csv files ... We're looking for someone aged 22-26 with 30 years of experience "}
