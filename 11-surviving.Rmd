@@ -1,11 +1,11 @@
 # Surviving your future {#surviving}
 
-Congratulations, you've just accepted an offer of employment. You nailed that interview (or interviews) and you're just about to embark on the exciting journey from the world of study to the world of employment. This *might* be your first SERIOUS job, so what do you need to survive? Even better, how can you thrive in your new role and take on the challenges that are coming your way? How will you optimise your trajectory to reach new heights? 🚀
+Congratulations, you've just accepted an offer of employment. You nailed that interview (or interviews) and you're just about to embark on the exciting journey from the world of study to the world of employment. This *might* be your first SERIOUS job, so what do you need to survive and become a professional? Even better, how can you thrive in your new role and take on the challenges that are coming your way? How will you optimise your trajectory to reach new heights? 🚀
 
 ```{r while-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbadges)"}
 knitr::include_graphics("images/earning-a-badge-hd.png")
 ```
-(ref:captionbadges) Your education doesn't finish when you start work, it should be a loop where you constantly acquire knowledge and skills during your career. You don't stop learning when you leave University. [Computing Badges](https://bryanmmathers.com/computing-badges/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionbadges) Your education doesn't finish when you start work, it should be a loop where you constantly acquire knowledge and skills during your career. You don't stop learning when you leave University, surviving and thriving in the workplace is dependent on your constantly acquiring new skills and knowledge, some of which will be badged. [Computing Badges](https://bryanmmathers.com/computing-badges/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## What you will learn {#ilo10}
 
@@ -55,7 +55,7 @@ All employers have procedures for making sure that you can agree on work that su
 ## Managing your manager {#manager}
 Building a good relationship with your manager(s) will be key to determining which of the *dive, survive or thrive* scenarios above plays out. At University, you didn't have a manager. Yes you had deadlines, but you didn't have a boss. That changes when you're an employee so it's in your interests to understand what your boss expects of you.
 
-Julia Evans has written a lovely zine called [HELP! I have manager](https://wizardzines.com/zines/manager/) [@helpihaveamanager] you might find useful. It will help you understand your managers job better so that you can work together more effectively (survive and thrive). It covers:
+Julia Evans has authored a series of programming [zines](https://en.wikipedia.org/wiki/Zine), there's one called [HELP! I have manager](https://wizardzines.com/zines/manager/) [@helpihaveamanager] you might find useful. It will help you understand your managers job better so that you can work together more effectively It will help you survive and thrive, not dive because it covers:
 
 * understanding your manager's job
 * setting clear expectations
@@ -68,7 +68,7 @@ library(tweetrmd)
 include_tweet("https://twitter.com/b0rk/status/1043277965394681856")
 ```
 
-The zine has the benefit of being written by a software engineer so is aimed at people just like you. Thoroughly recommended! 
+The zine has the benefit of being written by a software engineer so is aimed at people just like you. Thoroughly recommended! You might also enjoy Julia's other more technical zines such as *HTTP: learn your browser's language* [@browserslanguage] and *Oh Shit, Git!*. [@ohshitgit]
 
 ## Placement visits {#visits}
 
