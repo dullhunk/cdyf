@@ -12,11 +12,12 @@ knitr::include_graphics("images/earning-a-badge-hd.png")
 <!--If you want to get ahead get a hat-->
 At the end of this chapter you will be able to
 
-* Survive in a workplace environment
-* Thrive in a workplace environment
-* Avoid diving in a workplace environment
-* Manage your manager
-
+* Manage your manager so that you can:
+    + Survive the workplace
+    + Thrive in the workplace
+    + Avoid diving in a workplace environment
+* Collect evidence of new workplace skills and knowledge that you develop <!--WWW-->
+* Reflect on new workplace skills and knowledge that you need to develop <!--EBI-->
 
 <!--Unconcious mistakes people make that sabotage their careers [@nicegirls]
 
@@ -70,8 +71,38 @@ include_tweet("https://twitter.com/b0rk/status/1043277965394681856")
 
 The zine has the benefit of being written by a software engineer so is aimed at people just like you. Thoroughly recommended! You might also enjoy Julia's other more technical zines such as *[HTTP: learn your browser's language](https://wizardzines.com/zines/http/)* [@browserslanguage] and *[Oh Shit, Git!](https://wizardzines.com/zines/oh-shit-git/)*. [@ohshitgit]
 
+## Surviving, thriving and evidencing {#badging}
+As you gain new skills and knowledge at work, it is a good idea to collect evidence of what you've done. Whatever your career path, you'll need to keep your CV updated. One way to think of the evidence is as badges, digital or otherwise. Your employer may already have training schemes that recognise and reward your accomplishments. Figure \@ref(fig:badgetype-fig) shows different kinds of evidence to look out for.
+
+```{r badgetype-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionbadgetype)"}
+knitr::include_graphics("images/badge-taxonomy-v2.png")
+```
+(ref:captionbadgetype) Keep a record of evidence you have for any skills or knowledge you gain on the job. These include membership, participation, capability and mastery. [Badge taxonomy](https://bryanmmathers.com/badge-taxonomy-v0-2/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Evidence can be classified into four categories:
+
+1. **Membership** are there professional organisations you can join? Do informal groups exist within the organisation that you can join? Are there committees you can become a member of?
+1. **Participation** what communities or activities are you involved in?
+1. **Capability** what skills and knowledge can you demonstrate capability of? What professional accreditation exist for these?
+1. **Mastery** in the longer term, how can you demonstrate mastery of particular skills and knowledge?
+
+These badges may be generic or specific to the particular sector you are working in. Some examples of technical badges include:
+
+* Microsoft Certifications [docs.microsoft.com/en-us/learn/certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+* Amazon Web Services Certification [aws.amazon.com/certification](https://aws.amazon.com/certification/)
+* Google Cloud Certification [cloud.google.com/certification](https://cloud.google.com/certification)
+
+Just three examples, there are many others covering both technical and non-technical skills. In many cases, your employer will encourage and possibly pay for you to get these certifications. There are many online platforms for doing so, some examples include:
+
+1. [coursera.org](https://www.coursera.org)
+1. [edx.org](https://www.edx.org)
+1. [linkedin.com/learning](https://www.linkedin.com/learning)
+1. [pluralsight.com](https://www.pluralsight.com)
+1. [udemy.com](https://www.udemy.com)
+
+
 ## Reflective practice {#visits}
-As well as managing your manager, you need to manage yourself too. A good way to do this is to periodically reflect on your work. Your employer may have procedures to help you do this, such as one-to-ones with your manager on a regular basis. Whatever the setup, you will benefit from taking to to reflect on:
+Besides collecting evidence and managing your manager, you need to manage yourself too. A proven way to do this is to periodically reflect on your work. Your employer may have procedures to help you do this, such as performance reviews or one-to-ones with your manager on a regular basis. Whatever the setup, you will benefit from taking to to reflect on:
 <!--During your placement you will be visited by an academic member of staff who will meet with you and your manager at the same time. If you want to meet with your academic tutor without your manager being around, please let your tutor know] The visit is a good opportunity to reflect on what progress you have made during the year alongside areas you need to improve. You will probably already have had similar meetings with your manager or managers, for examples as part of your personal development review (or whatever your employer calls performance reviews). There are three basic questions your tutor will ask you:-->
 
 
@@ -81,7 +112,7 @@ As well as managing your manager, you need to manage yourself too. A good way to
 1. EBI: Even Better If?
 
 ### What have you been doing?
-Briefly describe your roles and responsibilities. What projects have you worked on? What were the main technologies that you used?
+Briefly describe your roles and responsibilities. What projects have you worked on? What were the main technologies that you used? As well as describing this to colleagues, you should aim to communicate this with non-specialists, people outside your field. How would you describe your job to your friends and family and terms they would understand?
 
 ### WWW: What went well?
 Are there any projects you are particularly proud of? What new knowledge or skills have your learnt or improved? Remember to include both non-technical as well as technical aspects of your job. Non-technical skills include organisation, time-management, confidence, communication etc.
@@ -100,7 +131,6 @@ Both your tutor and you need to fill in the placement report, no more than two p
 
 <!--## Badges
 Professional qualifications, such as [Microsoft certifications(https://docs.microsoft.com/en-us/learn/certifications/). Your employer will often pay for these. Then there are the MOOCs, these are great for plugging . Which courses are worth doing will depend on the particular sector you are working in.-->
-
 
 <!--## Administrivia
 https://www.gov.uk/income-tax
