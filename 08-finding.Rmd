@@ -11,11 +11,13 @@ knitr::include_graphics("images/Yes but how do I.png")
 At the end of this chapter you will be able to:
 
 * Formulate job search strategies, by role, by sector, time and location
-* Describe some of the problems with recruitment, both for employers and yourself
 * Identify opportunities for finding work, online and face-to-face
 * Identify people in your existing networks who can help you
 * Grow your networks and use them to your advantage
 * Apply your search strategies to advertised (and unadvertised) opportunities
+* Evaluate what employers have on offer
+* Describe some of the problems with recruitment, both for employers and yourself
+
 
 <!--
 * Compare your values and ethics with those of employer
@@ -25,7 +27,23 @@ At the end of this chapter you will be able to:
 
 ## Where can you for look for jobs? {#looking}
 
-The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. I've broken resources down here into three categories, student specific, more general resources and recruiters.
+The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. I've broken resources down here into three categories, student specific, more general resources and recruiters. Before we look at those, we need to define some terms.
+
+### Job Terminology {#jobterms}
+Employers use terms to describe jobs for undergraduates and graduates inconsistently. In this book we use the following terms shown in Table \@ref(tab:jobterms).
+
+```{r jobterms, echo = FALSE}
+jobterm_table <- tibble::tribble(
+  ~ "Name", ~ "Job contract",
+  "Insight", "One to three weeks, sometimes known as “work experience”, “work shadowing”, “spring weeks”, “vacation schemes” or even “externship”. Usually unpaid, no job contract but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for example",
+  "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, may be an assessed part of a degree award",
+  "Placement", "Fixed term contract, typically 12 months long and an assessed part of a degree. In America these are [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
+  "Graduate job", "Full-time permanent contract typically working in one department of an employer",
+  "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier scheme, up to two years, often rotating round different departments"
+)
+knitr::kable(jobterm_table, caption = "How we use terms for jobs in this guidebook", booktabs = TRUE)
+```
+Now that we've defined terms for jobs we can look at resources for finding them.
 
 ### Student and graduate specific resources {#studentjobs}
 
@@ -74,7 +92,7 @@ Recruiters can help you find work and they operate in every industry sector. The
 1. Recruiters employed directly by an employer, for example in the human resources (HR) department of a given organisation.
 1. Recruiters who are self-employed or work for a recruitment agency. They typically earn money from the number of interview candidates and successful hires they provide for their clients.
 
-Recruiters are not always technical people, so don't expect them to have lots of knowledge about software engineering (for example) - that isn't usually their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
+Recruiters are usually not technical people, so don't expect them to have lots of knowledge about software engineering (for example) - that isn't usually their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
 
 ```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionrecruiter)"}
 knitr::include_graphics("images/recruiters-are.png")
@@ -141,7 +159,7 @@ knitr::include_graphics("images/fakenews.jpeg")
 
 There's two kinds of overselling in the marketplace:
 
-1. Employers overselling themselves. Recruitment can be a beauty contest, with everyone trying to show you their best side. Some employers may make promises they can't deliver. A quick look on sites like [glassdoor.com](https://www.glassdoor.com) can be revealing. Even better, talk directly with actual employees of the organisation, both current and former. Is their employer really as good as they say they are?
+1. Employers overselling themselves. Recruitment can be a beauty contest, with everyone trying to show you their best side. Some employers may make promises they can't deliver but a quick look on sites like [glassdoor.com](https://www.glassdoor.com) will help you evaluate employers. Even better, talk directly with actual employees of the organisation, both current and former. Is their employer really as good as they say they are?
 1. You exaggerate your achievements: It can be tempting to overstate your case to sell your services in the marketplace. A good reader or interviewer will be able to spot your fake news and find you out, see the [debugging chapter](https://www.cdyf.me/debugging.html)
 
 You should be wary of both. Likewise, you should make sure you don't undersell yourself. Know your value (financial), know who you are and try to understand how that fits with a given employer. It is easy to find out about salaries, for example see [technical intern salaries in the UK](https://github.com/IgWod/interns-salaries-uk-2018) [@igwod] and [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk). [@michaelgrove] Salaries in the UK for interns range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k, with everything in between.
