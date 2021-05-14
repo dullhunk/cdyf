@@ -34,8 +34,8 @@ Employers use terms to describe jobs for undergraduates and graduates inconsiste
 
 ```{r jobterms, echo = FALSE}
 jobterm_table <- tibble::tribble(
-  ~ "Name", ~ "Job contract",
-  "Insight", "One to three weeks, sometimes known as “work experience”, “work shadowing”, “spring weeks”, “vacation schemes” or even “externship”. Usually unpaid, no job contract but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for example",
+  ~ "Name", ~ "Employment contract",
+  "Insight", "Usually no contract. One to three weeks, sometimes known as work experience, work shadowing, spring weeks, vacation schemes or even “externships”. Usually unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for examples",
   "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, may be an assessed part of a degree award",
   "Placement", "Fixed term contract, typically 12 months long and an assessed part of a degree. In America these are [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
   "Graduate job", "Full-time permanent contract typically working in one department of an employer",
