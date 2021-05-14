@@ -41,13 +41,13 @@ jobterm_table <- tibble::tribble(
   "Graduate job", "Full-time permanent contract typically working in one department of an employer",
   "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier scheme, up to two years, often rotating round different departments"
 )
-knitr::kable(jobterm_table, caption = "How we use terms for jobs in this guidebook", booktabs = TRUE)
+knitr::kable(jobterm_table, caption = "Terms used in this guidebook to describe employment opportunities for undergraduates and graduates", booktabs = TRUE)
 ```
 Now that we've defined terms for jobs we can look at resources for finding them.
 
 ### Student and graduate specific resources {#studentjobs}
 
-These resources are specifically aimed at undergraduate students and graduates:
+The following job finding resources are specifically aimed at undergraduate students and graduates:
 
 * [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)
 *  [ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/) is a leading UK job resource for undergraduates seeking placements and internships.
@@ -62,20 +62,15 @@ These resources are specifically aimed at undergraduate students and graduates:
 
 ### More general resources {#generaljobs}
 
-These resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
+These following job finding resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
 
 * Google job search aggregates content from many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the sources listed above. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in an regular google search will trigger the job search product:
 
     -[google.com/search?q=software+engineering+intern+manchester](https://www.google.com/search?q=software+engineering+intern+manchester)
-
     -[google.com/search?q=business+analyst+intern](https://www.google.com/search?q=business+analyst+intern)
-
     -[google.com/search?q=graduate+hardware+engineer](https://www.google.com/search?q=graduate+hardware+engineer)
-
     -[google.com/search?q=graduate+software+job+london](https://www.google.com/search?q=graduate+software+job+london)
-
     -[google.com/search?q=data+scientist+placement](https://www.google.com/search?q=data+scientist+placement)
-
     -If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/)
 
 * [LinkedIn](http://www.linkedin.com) advertises job vacancies, is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job) and you can often [apply for jobs directly on LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) (athough [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)). See [university.linkedin.com/linkedin-for-students](https://university.linkedin.com/linkedin-for-students) and [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
