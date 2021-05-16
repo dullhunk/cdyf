@@ -35,11 +35,11 @@ and what is computer science https://www.cs.york.ac.uk/undergraduate/what-is-cs/
 
 But why should everyone be studying computing? There are social and economic arguments:
 
-### Computing is creative {#creative}
+### Computing is creative and expressive {#creative}
 
-At school, EVERYONE studies maths and a natural language, starting with their native tongue, for example the English language:
+At school, everyones learns to read, write and do maths:
 
-* Why did you study English? Was it so that you could become a professional writer?
+* Why did you learn to read and write? Was it so that you could become a professional writer?
 * Why did you study Mathematics? Was it so that you could become a professional mathematician?
 
 Of course not. You studied English because it's a tool that helps you express yourself and communicate with others. You studied maths so that you could develop numeracy, reason about the world around you, analyse data and solve problems.
@@ -63,7 +63,7 @@ knitr::include_graphics("images/Market_Capitalisation.png")
 ```
 (ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be difficult for Apple, Microsoft, Amazon, Google and Facebook to exist without computing. The economic weight of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) graphic by YBSLE on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU)
 
-Even if you don't want to work for any of these monopolies, their success is good news for all students of computing. For example, demand for software developers is high, comparable to teaching and nursing in terms of numbers. In the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
+Even if you don't want to work for any of these monopolies, their success is good news for *all* students of computing because it shows how important the subject is to society, both commercially and otherwise. For example, demand for software developers is high, comparable to teaching and nursing in terms of numbers. In the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
 
 ```{r nurses-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionball)"}
 library(ggplot2)
