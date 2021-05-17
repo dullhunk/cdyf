@@ -71,7 +71,7 @@ Some doctors prescribe [benzodiazepines](https://www.mind.org.uk/information-sup
 
 It is often worth considering cognitive behavioural therapy (CBT) before taking any medication.  *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being) is an easy way to access some CBT free online. See the signposts section at the end of this chapter [@lauriesantos]
 
-## Look after yourself
+## Look after yourself {#lays}
 Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise, mindfulness and friendship. Looking after yourself means at least three things:
 
 * being mindful of your feelings and learning to manage your inner critic
@@ -128,7 +128,7 @@ Even if you don't need help, its important to recognise and understand the sympt
 
 **You are not alone**, help is available if you (or your friends) need it from a wide variety of sources:
 
-### Your University
+### Your University {#unihelp}
 There are lots of people who can help you:  
 
 * your personal tutor or other academic members of staff
@@ -138,12 +138,12 @@ There are lots of people who can help you:
 
 <!--### Anxiety UK https://www.anxietyuk.org.uk/ -->
 
-### The National Health Service
+### The National Health Service {#nhs}
 As a student studying in the UK you are entitled to access free healthcare provided by the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS) of the United Kingdom. To do so you'll need to be registered with your general practitioner (GP), see [nhs.uk: Getting medical care as a student](https://www.nhs.uk/live-well/healthy-body/getting-medical-care-as-a-student/)
 
 Your doctor can advise you on medical treatment if required, see for example [nhs.uk/conditions/antidepressants](https://www.nhs.uk/conditions/antidepressants/)
 
-### Nightline
+### Nightline {#nightline}
 Nightline [nightline.ac.uk](https://www.nightline.ac.uk) is a confidential listening and information service run by students for students. Nightline is open 8pm till 8am every night during term time. It offers anonymous, non-judgmental and non-advisory support for students as described in figure \@ref(fig:nightline-fig).
 
 ```{r nightline-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "Students explain in their own words how calling Nightline helped them whilst at university. [@youtube-nightline]"}
@@ -153,7 +153,7 @@ knitr::include_graphics("images/youtube-nightline.png")
 
 Manchester students can contact nightline at [nightmail@nightline.manchester.ac.uk](mailto:nightmail@nightline.manchester.ac.uk) and expect a reply within 48 hours. See [manchester.nightline.ac.uk](https://manchester.nightline.ac.uk/) for details.
 
-### The Samaritans
+### The Samaritans {#samaritans}
 The [Samaritans](https://en.wikipedia.org/wiki/Samaritans_(charity)) are a charity who provide emotional support to anyone in the the United Kingdom and Ireland that:
 
 * is suffering from emotional distress
@@ -162,7 +162,7 @@ The [Samaritans](https://en.wikipedia.org/wiki/Samaritans_(charity)) are a chari
 
 The name of the charity comes from the [Parable of the Good Samaritan](https://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan) although the organisation itself is not religious. The Samaritans are available 24 hours a day, seven days a week, to talk confidentially about any problem, however big or small. See [samaritans.org](https://www.samaritans.org/) or telephone 116 123.
 
-### Students Against Depression
+### Students Against Depression {#sad}
 
 Students Against Depression (SAD) acknowledge the devastating impact that depression can have on those experiencing it, as well as on their friends, family and supporters. For further help in understanding and coping with suicidal thoughts, and emergency contacts in a crisis, visit  [studentsagainstdepression.org](https://www.studentsagainstdepression.org/)
 
@@ -174,13 +174,13 @@ knitr::include_graphics("images/youtube-wax.png")
 
 ```
 
-### Papryus
+### Papryus {#papryus}
 Suicide is the biggest killer of under 35's in the UK. Papyrus believe that many young suicides can be prevented, they are a national charity that you can find out more about at [papyrus-uk.org](https://www.papyrus-uk.org/) or telephone the free number 0800 068 4141.
 
-### Self-help services
+### Self-help services {#selfhelp}
 Self-Help services are a mental health charity which helps people to help themselves, see [selfhelpservices.org.uk](https://www.selfhelpservices.org.uk/) or phone 0161 226 3871.
 
-### MIND
+### MIND {#mindhelp}
 MIND provide advice and support to empower anyone experiencing a mental health problem. They campaign to improve services, raise awareness and promote understanding of mental health issues. Find out more at [mind.org.uk](https://www.mind.org.uk) and in the video in figure \@ref(fig:stephenfry-fig)
 
 
@@ -190,7 +190,7 @@ knitr::include_graphics("images/youtube-we-are-mind.png")
 ```
 
 
-### Student minds
+### Student minds {#studentminds}
 
 Student Minds empowers students to look after their own mental health, support others and create change, find out more at [studentminds.org.uk](https://www.studentminds.org.uk) and in the video in Figure \@ref(fig:studentminds-fig) which describes why its important to talk about student mental health.
 
@@ -224,7 +224,7 @@ Kwan Wai (Chinese Mental Health Service): one to one counselling in Mandarin and
 
 
 
-### Togetherall
+### Togetherall {#togetherall}
 
 
 Togetherall is an online community for people who are stressed, anxious or feeling low. The service has an active forum with round-the-clock support from trained professionals. You can talk anonymously to other members and take part in group or 1-to-1 therapy with therapists. Togetherall is for anyone aged 16 or over who wants to improve their mental health. The service is free for many universities. Find out more at [togetherall.com](https://togetherall.com/) and in the video in figure \@ref(fig:togetherall-fig) which describes why its important to talk about student mental health.
