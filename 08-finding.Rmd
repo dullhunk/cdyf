@@ -36,10 +36,10 @@ Employers use terms to describe jobs for undergraduates and graduates inconsiste
 jobterm_table <- tibble::tribble(
   ~ "Name", ~ "Employment contract",
   "Insight", "Usually no contract. One to three weeks, sometimes known as work experience, work shadowing, spring weeks, vacation schemes or even “externships”. Usually unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for examples",
-  "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, may be an assessed part of a degree award",
+  "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree",
   "Placement", "Fixed term contract, typically 12 months long and an assessed part of a degree. In America these are [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
-  "Graduate job", "Full-time permanent contract typically working in one department of an employer",
-  "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier scheme, up to two years, often rotating round different departments"
+  "Graduate job", "Full-time permanent contract typically working in one department of an organisation",
+  "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier scheme, up to two years, often rotating round different departments in an organisation"
 )
 knitr::kable(jobterm_table, caption = "Terms used in this guidebook to describe employment opportunities for undergraduates and graduates", booktabs = TRUE)
 ```
@@ -64,7 +64,7 @@ The following job finding resources are specifically aimed at undergraduate stud
 
 These following job finding resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
 
-* Google job search aggregates content from many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the sources listed above. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in an regular google search will trigger the job search product:
+* Google job search indexes jobs advertised by many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the resources mentioned in this chapter. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in an regular google search will trigger the job search product:
 
     -[google.com/search?q=software+engineering+intern+manchester](https://www.google.com/search?q=software+engineering+intern+manchester)
 
