@@ -1,9 +1,22 @@
+# WEB version at https://cdyf.me default main version
 bookdown::bs4_book:
   includes:
     in_header: [header.html]
   theme:
     primary: "#637238"
   repo: https://github.com/dullhunk/cdyf
+
+# PDF version at https://cdyf.me/cdyf.pdf
+bookdown::pdf_book:
+  latex_engine: "xelatex"
+  citation_package: natbib
+  keep_tex: yes
+
+# EPUB version at https://cdyf.me/cdyf.epub
+bookdown::epub_book: default
+
+# handy for cross-checking word count
+bookdown::word_document2: default
 
 # gitbook not needed but it does work
 # bookdown::gitbook:
@@ -17,10 +30,3 @@ bookdown::bs4_book:
 #      text: "Edit"
 #    sharing: no
 #  css: r4ds.css
-
-bookdown::pdf_book:
-  latex_engine: "xelatex"
-  citation_package: natbib
-  keep_tex: yes
-
-bookdown::epub_book: default
