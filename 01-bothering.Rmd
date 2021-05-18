@@ -30,7 +30,7 @@ After reading this chapter you will be able to:
 
 * Identify and decide which parts of this book you are going to read
 * Set your expectations for using this guidebook
-* Travel down the rabbit hole into the underworld of work
+* Travel down the rabbit hole into the underworld of employment
 
 ## Let's go down the rabbit hole {#wonderland}
 
@@ -151,7 +151,7 @@ So, *yes*, this will be on the exam, but *no*, the exams are obviously not set, 
 * **PASS**: you've got the interview, job or promotion or...
 * **FAIL**: none of the above. Next!
 
-One of the challenging things about employers exams are, they typically do not have the bandwidth to give applicants useful feedback, other than a simple pass or fail. When it comes to job applications software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls this the "black hole". The gravitational force of employers black holes is so strong that no CV or Resume can escape, we'll say more about this in chapter on [debugging your CV](#debugging).
+One of the challenging things about employers exams are, they typically do not have the bandwidth to give applicants useful feedback, other than a simple pass or fail. When it comes to job applications software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls this the "black hole". The gravitational force of employers black holes is so strong that no CV or Resume can escape, we'll say more about this in chapter \@ref(debugging) on debugging your future.
 
 ```{r exam-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongimme)"}
 knitr::include_graphics("images/Gimme Some Credit - Sketch.png")
@@ -172,17 +172,17 @@ knitr::include_graphics("images/shelfie.jpg")
 ```
 (ref:captionshelfie) There are tonnes of resources out there offering advice on the huge range of professional issues. You can't read them all, but this guide will help you navigate the resources that will be most interesting and useful to you
 
-Lots of professional advice is readily available, but how will you navigate it? This book signposts you to what I think are the most important resources, each chapter has a signposts section, and they are all gathered together in the signpost at the end alongside everything (yes, EVERYTHING!) that this guidebook cites in the [references](https://www.cdyf.me/reading.html).
+Lots of professional advice is readily available, but how will you navigate it? This book signposts you to what I think are the most important resources, each chapter has a signposts section, and they are all gathered together in the signpost at the end alongside everything (yes, EVERYTHING!) that this guidebook cites in the references, chapter \@ref(reading).
 
 ## Crediting your future {#joinus}
 <!-- section needs moving, doesn't fit here-->
 Get credit for your contributions. As well as being openly accessible on the web, this book is open source too.  What this means is, you can contribute in several ways
 
-* Click the **Edit this page**, which appears on the right hand side of every web page at cdyf.me
+* Click the **Edit this page**, which appears on the right hand side of every page of this guidebook published at [cdyf.me](https://www.cdyf.me)
 * Raise an issue [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests, see [makeapullrequest.com](http://makeapullrequest.com/)
-* Suggest changes to the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx) - the text is all there (but the pagination and graphic placement isn't always pretty). Make sure you've turned on [track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a)
-* If you don't want to use github and all else fails just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Suggest changes via the (old school) Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the pagination and graphic placement isn't always pretty. Don't say I didn't warn you. Make sure you've turned on [track changes](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) if Word is your weapon of choice.
+* If you don't want to use github or word and all else fails just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 
 Any corrections or suggestions that get included will be fully acknowledged in the [acknowledgements](#thanks), unless you tell me otherwise. We welcome all improvements, however small.
@@ -212,7 +212,7 @@ Scientists call this **citation**, rather than signposting. I've signposted and 
 1. Check and verify any facts and claims I make in this book for yourself
 1. Go and consult the original sources if you think they might be useful
 
-While this guidebook cites lots of resources, some of them are more important than others. Each chapter summarises these in a signposts section. You'll find everything else in the [references](#referencing) section. The University of Manchester has physical and electronic copies of many (but sadly not all) of the books listed here.
+While this guidebook cites lots of resources, some of them are more important than others. Each chapter summarises these in a signposts section. You'll find everything else in the references, chapter \@ref(reading). The University of Manchester has physical and electronic copies of many (but sadly not all) of the books listed here.
 
 <!--If you're studying at the University of Manchester, these signposts are available as a library reading list at [library.manchester.ac.uk/search-resources/reading-lists](https://www.library.manchester.ac.uk/search-resources/reading-lists).-->
 
