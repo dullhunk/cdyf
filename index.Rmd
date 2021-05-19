@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test and *code* your future in computing. Published at [cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), it is aimed at ALL students in higher education. Although this guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
+Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test and *code* your future in computing. Published at [cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), it is aimed at ALL students in higher education. This guide supports undergraduate teaching at the University of Manchester, but it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -74,7 +74,7 @@ This guidebook tackles professional issues in computing, for those with and with
 <!--We will also discuss some algorithms (recipes) that you might like to try-->
 
 ## What you won't learn {#nilo}
-This guidebook will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter \@ref{coding} on *computing your future*.
+This guidebook will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter \@ref(computing) on *computing your future*.
 
 ## Learning your future {#bilo}
 
@@ -141,7 +141,7 @@ The first six chapters of this guidebook look at what engineers call *design*. W
 ```{r brooklyn-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblueprint)"}
 knitr::include_graphics("images/brooklyn-bridge-blueprint.png")
 ```
-(ref:captionblueprint) Designing your future is about drawing up a [blueprint](https://en.wikipedia.org/wiki/Blueprint), like this one for the elevation of the [Brooklyn Bridge](https://en.wikipedia.org/wiki/Brooklyn_Bridge) in New York. What does your blueprint look like? The chapters on [designing your future](bothering.html) will help you fill in the details.
+(ref:captionblueprint) Designing your future is about drawing up a [blueprint](https://en.wikipedia.org/wiki/Blueprint), like this one for the elevation of the [Brooklyn Bridge](https://en.wikipedia.org/wiki/Brooklyn_Bridge) in New York. What does your blueprint look like? Chapter's \@ref(bothering) through to \@ref(computing) will help you design your future.
 
 
 Building a career isn't that different to building anything else, you'll need to do some design work and it will probably be iterative. Designing things often involves asking tricky questions. So when you're designing your future you'll need to cover the following:
@@ -154,8 +154,8 @@ Building a career isn't that different to building anything else, you'll need to
 * Chapter \@ref(computing): *Computing your future* looks at the role computing can play in your career, especially if Computer Science is not a major part of your degree
 
 
-### Building and testing your future {#partii}
-The next six chapters look at building and testing your future, what engineers like to call *implementation*, *execution* or *construction* shown in figure \@ref(fig:manhattan-fig)
+### Building your future {#partii}
+The next six chapters look at building (and testing) your future, what engineers like to call *implementation* or *execution* shown in figure \@ref(fig:manhattan-fig).
 
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
 knitr::include_graphics("images/manhattan_bridge.png")
@@ -225,7 +225,7 @@ If you'd like to contribute this guidebook, I welcome constructive feedback. The
 * Click the **Edit this page**, which appears on the right hand side of every page of this guidebook published at [cdyf.me](https://www.cdyf.me)
 * Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests, see [makeapullrequest.com](http://makeapullrequest.com/)
 * `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
-* Suggest changes via the (old school) Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the pagination and graphic placement isn't always pretty.^[Don't say I didn't warn you!] Make sure you've turned on [track changes](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) if you suggest changes via Word.
+* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is soley for editing purposes. The text is all there, but the pagination and graphic placement isn't always pretty.^[Don't say I didn't warn you!] Make sure you've turned on [track changes](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) if you want to suggest changes via Word.
 * If you don't want to use github or Word, just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions that get included will be fully acknowledged in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, however small.
@@ -233,7 +233,7 @@ Any corrections or suggestions that get included will be fully acknowledged in t
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. I've also spoken to many of their employers too.
 
-### Standing on the shoulders of students {#students}
+### Thank you students {#students}
 First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly.
 
 > “If I have seen further it is by [standing on the shoulders of students](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).” [@newton]
@@ -245,7 +245,7 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 (ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning student team at the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford, Greater Manchester
 
-I'd especially like to thank industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish and Petia Davidova. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. The chapters on [debugging your future](debugging.html) (self assessment) and [reading their future](sampling.html) (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
+I'd especially like to thank industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish and Petia Davidova. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(sampling) on *Reading their future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -429,7 +429,7 @@ So, thanks influencers for being influential. 🙏
 
 ### Thank you githubbers {#github}
 
-Thanks to everyone who has contributed via github. I will credit *any* github contributors here, small or large. Even the typos, it all counts. You can easily add yourself to this roll call (see section \ref{contributing}) by correcting my delibreate mitsakes. 😉
+Thanks to everyone who has contributed via github. I will credit *any* github contributors here, small or large. Even the typos, it all counts. You can easily add yourself to this roll call (see section \@ref(contributing)) by correcting my delibreate mitsakes. 😉
 
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -491,7 +491,7 @@ Most of what I have learned about employment comes from listening to, and watchi
 I am not a lawyer ([IANAL](https://en.wikipedia.org/wiki/IANAL)) but any opinions expressed in this guidebook are my own and not representative of my current employer, the University of Manchester and therefore do not represent University policy. Also:
 
 ### Licensing  {#license}
-This guidebook is published under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) license. This means you can copy and redistribute the written material provided that:
+The *text* of this guidebook is published under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) license. This means you can copy and redistribute the written material provided that:
 
 * You provide full attribution by linking directly to the original source <!--so that we can benefit from the [Google juice](https://en.wikipedia.org/wiki/Google_juice)-->
 * You do not use the material for commercial purposes
@@ -499,10 +499,16 @@ This guidebook is published under the [Creative Commons Attribution-NonCommercia
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-Images in this guidebook are published under different licenses, depending on the source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, others are different. Each figure caption gives details.
+The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under CC-BY or CC-BY-SA or public domain. Each figure caption gives details of its licence.
+
+```{r kapow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkapow)"}
+knitr::include_graphics("images/CC-attribution-1.png")
+```
+(ref:captionkapow) Images in this guidebook are published under different licences, see each figures caption for details. Bryan Mathers illustrations are licensed CC-BY-ND, which means you should link to the original artwork, the creator profile and the licence terms. [CC attribution](https://bryanmmathers.com/cc-attribution/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 ### Your privacy {#privacy}
-This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) to monitor website use which complies with the General Data Protection Regulation (GDPR).
+This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) and [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) to monitor use, both of which comply with the General Data Protection Regulation (GDPR).
 
 Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)
 

@@ -15,7 +15,8 @@ bookdown::pdf_book:
 # EPUB version at https://cdyf.me/cdyf.epub
 bookdown::epub_book: default
 
-# handy for cross-checking word count
+# WORD version at https://cdyf.me/cdyf.docx
+# Pagination is horrible but good for editing sometimes
 bookdown::word_document2: default
 
 # gitbook not needed but it does work

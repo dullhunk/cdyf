@@ -1,1135 +1,0 @@
-  |                                                                              |                                                                      |   0%
-   inline R code fragments
-
-  |                                                                              |.                                                                     |   1%
-label: cdyf-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr ""
-
-
-  ordinary text without R code
-
-  |                                                                              |.                                                                     |   2%
-label: aiw-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.show : chr "hold"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captionalicecover)"
-
-  |                                                                              |..                                                                    |   2%
-  ordinary text without R code
-
-  |                                                                              |..                                                                    |   3%
-label: hello-my-name-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "69%"
- $ fig.cap  : chr "(ref:captionhellomyname)"
-
-
-  ordinary text without R code
-
-  |                                                                              |...                                                                   |   4%
-label: gut-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiongut)"
-
-
-  ordinary text without R code
-
-  |                                                                              |...                                                                   |   5%
-label: unnamed-chunk-1 (with options) 
-List of 2
- $ type  : chr "rmdimportant"
- $ engine: chr "block2"
-
-  |                                                                              |....                                                                  |   5%
-  ordinary text without R code
-
-  |                                                                              |....                                                                  |   6%
-label: map-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionmapping)"
-
-
-  ordinary text without R code
-
-  |                                                                              |.....                                                                 |   7%
-label: brooklyn-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionblueprint)"
-
-
-  ordinary text without R code
-
-  |                                                                              |.....                                                                 |   8%
-label: manhattan-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionbridge)"
-
-  |                                                                              |......                                                                |   8%
-  ordinary text without R code
-
-  |                                                                              |......                                                                |   9%
-label: clifton-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionclifton)"
-
-
-  ordinary text without R code
-
-  |                                                                              |.......                                                               |   9%
-label: goldengate-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiongoldengate)"
-
-  |                                                                              |.......                                                               |  10%
-  ordinary text without R code
-
-
-label: unnamed-chunk-2 (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionbbcsofa)"
-
-  |                                                                              |........                                                              |  11%
-  ordinary text without R code
-
-
-label: unnamed-chunk-3 (with options) 
-List of 3
- $ results: chr "asis"
- $ echo   : logi FALSE
- $ message: logi FALSE
-
-  |                                                                              |........                                                              |  12%
-  ordinary text without R code
-
-  |                                                                              |.........                                                             |  12%
-label: unnamed-chunk-4 (with options) 
-List of 3
- $ results: chr "asis"
- $ echo   : logi FALSE
- $ message: logi FALSE
-
-  |                                                                              |.........                                                             |  13%
-   inline R code fragments
-
-
-label: hitchens-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionhitch)"
-
-  |                                                                              |..........                                                            |  14%
-  ordinary text without R code
-
-
-label: bath-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionbath)"
-
-  |                                                                              |..........                                                            |  15%
-  ordinary text without R code
-
-  |                                                                              |...........                                                           |  15%
-label: shaft-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionshaftesbury)"
-
-  |                                                                              |...........                                                           |  16%
-  ordinary text without R code
-
-
-label: shaha-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionshaha)"
-
-  |                                                                              |............                                                          |  17%
-  ordinary text without R code
-
-
-label: st-annes-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionstannes)"
-
-  |                                                                              |............                                                          |  18%
-  ordinary text without R code
-
-  |                                                                              |.............                                                         |  18%
-label: moravian-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionmoravian)"
-
-
-  ordinary text without R code
-
-  |                                                                              |.............                                                         |  19%
-label: unnamed-chunk-5 (with options) 
-List of 3
- $ results: chr "asis"
- $ echo   : logi FALSE
- $ message: logi FALSE
-
-  |                                                                              |..............                                                        |  19%
-  ordinary text without R code
-
-  |                                                                              |..............                                                        |  20%
-label: selfportrait-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "75%"
- $ fig.cap  : chr "(ref:captionselfportrait)"
-
-
-  ordinary text without R code
-
-  |                                                                              |...............                                                       |  21%
-label: rabbit-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "70%"
- $ fig.cap  : chr "(ref:captionrabbit)"
-
-
-  ordinary text without R code
-
-  |                                                                              |...............                                                       |  22%
-label: lotsofgrads-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionlotsofgrads)"
-
-  |                                                                              |................                                                      |  22%
-  ordinary text without R code
-
-  |                                                                              |................                                                      |  23%
-label: exam-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiongimme)"
-
-
-  ordinary text without R code
-
-  |                                                                              |.................                                                     |  24%
-label: shelfie-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionshelfie)"
-
-
-  ordinary text without R code
-
-  |                                                                              |.................                                                     |  25%
-label: tweet-from-psd (with options) 
-List of 1
- $ echo: logi FALSE
-
-  |                                                                              |..................                                                    |  25%
-  ordinary text without R code
-
-  |                                                                              |..................                                                    |  26%
-label: tweet-from-fonikh (with options) 
-List of 1
- $ echo: logi FALSE
-
-
-  ordinary text without R code
-
-  |                                                                              |...................                                                   |  27%
-label: tldr-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiontldr)"
-
-
-  ordinary text without R code
-
-
-label: goal-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionwhoareyou)"
-
-  |                                                                              |....................                                                  |  28%
-  ordinary text without R code
-
-
-label: iki-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "80%"
- $ fig.cap  : chr "(ref:captioniki)"
-
-  |                                                                              |....................                                                  |  29%
-  ordinary text without R code
-
-  |                                                                              |.....................                                                 |  29%
-label: know-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "50%"
- $ fig.cap  : chr "(ref:captionknowthyself)"
-
-  |                                                                              |.....................                                                 |  30%
-  ordinary text without R code
-
-
-label: bronnie-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "Palliative care nurse Bronnie Ware explains the top five regrets of the dying. [@youtube-bronnie] Bronnie learn"| __truncated__
-
-  |                                                                              |......................                                                |  31%
-  ordinary text without R code
-
-
-label: bolles-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "Where will you be five years from now? Best-selling author Dick Bolles talks at the Googleplex about the gaps b"| __truncated__
-
-  |                                                                              |......................                                                |  32%
-  ordinary text without R code
-
-  |                                                                              |.......................                                               |  32%
-label: turing-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionturunning)"
-
-  |                                                                              |.......................                                               |  33%
-  ordinary text without R code
-
-
-label: anxious-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captiongad)"
-
-  |                                                                              |........................                                              |  34%
-  ordinary text without R code
-
-
-label: sad-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionblackdog)"
-
-  |                                                                              |........................                                              |  35%
-  ordinary text without R code
-
-  |                                                                              |.........................                                             |  35%
-label: citalopram-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captioncitalopram)"
-
-  |                                                                              |.........................                                             |  36%
-  ordinary text without R code
-
-
-label: lookafter-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "50%"
- $ fig.cap  : chr "(ref:captionlookafter)"
-
-  |                                                                              |..........................                                            |  36%
-  ordinary text without R code
-
-  |                                                                              |..........................                                            |  37%
-label: laurie-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionlaurie)"
-
-
-  ordinary text without R code
-
-  |                                                                              |...........................                                           |  38%
-label: lizandmollie-fig (with options) 
-List of 2
- $ echo   : logi FALSE
- $ fig.cap: chr "test caption"
-
-
-  ordinary text without R code
-
-  |                                                                              |...........................                                           |  39%
-label: nightline-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "Students explain in their own words how calling Nightline helped them whilst at university. [@youtube-nightline]"
-
-  |                                                                              |............................                                          |  39%
-  ordinary text without R code
-
-  |                                                                              |............................                                          |  40%
-label: rubywax-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "Ruby Wax describes being affected by depression in her childhood and how mindfulness and cognitive behavioural "| __truncated__
-
-
-  ordinary text without R code
-
-  |                                                                              |.............................                                         |  41%
-label: stephenfry-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "Stephen Fry, President of Mind, describes how MIND tackles misconceptions around mental health and social stigm"| __truncated__
-
-
-  ordinary text without R code
-
-  |                                                                              |.............................                                         |  42%
-label: studentminds-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "Talking about mental health is a crucial part of helping those who are suffering from it [@youtube-student-minds]"
-
-  |                                                                              |..............................                                        |  42%
-  ordinary text without R code
-
-  |                                                                              |..............................                                        |  43%
-label: togetherall-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "A quick look inside togetherall, an online community for people who are stressed, anxious or feeling low. [@you"| __truncated__
-
-
-  ordinary text without R code
-
-  |                                                                              |...............................                                       |  44%
-label: fixedminset-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "90%"
- $ fig.cap  : chr "(ref:captionfixedmindset)"
-
-
-  ordinary text without R code
-
-  |                                                                              |...............................                                       |  45%
-label: not-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captiondweck)"
-
-  |                                                                              |................................                                      |  45%
-  ordinary text without R code
-
-
-label: haig-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionhaig)"
-
-  |                                                                              |................................                                      |  46%
-  ordinary text without R code
-
-  |                                                                              |.................................                                     |  46%
-label: socialmedia-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.show : chr "hold"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captionsocialmedia)"
-
-  |                                                                              |.................................                                     |  47%
-  ordinary text without R code
-
-
-label: otherpeople-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionotherpeople)"
-
-  |                                                                              |..................................                                    |  48%
-  ordinary text without R code
-
-
-label: achilles-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionachilles)"
-
-  |                                                                              |..................................                                    |  49%
-  ordinary text without R code
-
-  |                                                                              |...................................                                   |  49%
-label: allskills-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionallskills)"
-
-  |                                                                              |...................................                                   |  50%
-  ordinary text without R code
-
-
-label: iotable (with options) 
-List of 1
- $ echo: logi FALSE
-
-  |                                                                              |...................................                                   |  51%
-  ordinary text without R code
-
-  |                                                                              |....................................                                  |  51%
-label: rtfm-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "90%"
- $ fig.cap  : chr "(ref:captionalrtfm)"
-
-  |                                                                              |....................................                                  |  52%
-  ordinary text without R code
-
-
-label: itcrowd-fig (with options) 
-List of 2
- $ echo   : logi FALSE
- $ fig.cap: chr "test caption"
-
-  |                                                                              |.....................................                                 |  53%
-  ordinary text without R code
-
-
-label: deathstar-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |.....................................                                 |  54%
-  ordinary text without R code
-
-  |                                                                              |......................................                                |  54%
-label: 404-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:caption404)"
-
-  |                                                                              |......................................                                |  55%
-  ordinary text without R code
-
-
-label: relevance-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionrelevantexp)"
-
-  |                                                                              |.......................................                               |  55%
-  ordinary text without R code
-
-  |                                                                              |.......................................                               |  56%
-label: not-just-grades-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiongrades)"
-
-
-  ordinary text without R code
-
-  |                                                                              |........................................                              |  57%
-label: bigname-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionbigname)"
-
-
-  ordinary text without R code
-
-  |                                                                              |........................................                              |  58%
-label: paperboy-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "50%"
- $ fig.cap  : chr "(ref:captionpaperboy)"
-
-  |                                                                              |.........................................                             |  58%
-  ordinary text without R code
-
-  |                                                                              |.........................................                             |  59%
-label: justme-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:justme)"
-
-
-  ordinary text without R code
-
-  |                                                                              |..........................................                            |  60%
-label: grades-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "80%"
- $ fig.cap  : chr "(ref:captionnotverygood)"
-
-
-  ordinary text without R code
-
-  |                                                                              |..........................................                            |  61%
-label: deathstar2-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |...........................................                           |  61%
-  ordinary text without R code
-
-  |                                                                              |...........................................                           |  62%
-label: not-coding-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionnotcoding)"
-
-
-  ordinary text without R code
-
-  |                                                                              |............................................                          |  63%
-label: joker-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionjoker)"
-
-
-  ordinary text without R code
-
-  |                                                                              |............................................                          |  64%
-label: nurses-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionball)"
-
-  |                                                                              |.............................................                         |  64%
-  ordinary text without R code
-
-
-label: deathstar3-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |.............................................                         |  65%
-  ordinary text without R code
-
-  |                                                                              |..............................................                        |  65%
-label: bugfeature-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify"| __truncated__
-
-  |                                                                              |..............................................                        |  66%
-  ordinary text without R code
-
-
-label: gayle-fig (with options) 
-List of 5
- $ echo     : logi FALSE
- $ fig.show : chr "hold"
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiongayle)"
-
-  |                                                                              |...............................................                       |  67%
-  ordinary text without R code
-
-
-label: cv-fig (with options) 
-List of 3
- $ fig.align: chr "center"
- $ fig.cap  : chr "this is a caption"
- $ echo     : logi FALSE
-
-  |                                                                              |...............................................                       |  68%
-  ordinary text without R code
-
-  |                                                                              |................................................                      |  68%
-label: marissa-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "this is a sample CV"
-
-  |                                                                              |................................................                      |  69%
-  ordinary text without R code
-
-
-label: lopez-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captiongooglerecruiters)"
-
-  |                                                                              |.................................................                     |  70%
-  ordinary text without R code
-
-
-label: black-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionjonathanblack)"
-
-  |                                                                              |.................................................                     |  71%
-  ordinary text without R code
-
-  |                                                                              |..................................................                    |  71%
-label: turinghead-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "98%"
- $ fig.cap  : chr "(ref:captioncvheader)"
-
-  |                                                                              |..................................................                    |  72%
-  ordinary text without R code
-
-
-label: done-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionwhathaveudone)"
-
-  |                                                                              |...................................................                   |  73%
-  ordinary text without R code
-
-
-label: feynman-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionfeynman)"
-
-
-  ordinary text without R code
-
-  |                                                                              |....................................................                  |  74%
-label: cvwork-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionworkcv)"
-
-
-  ordinary text without R code
-
-  |                                                                              |....................................................                  |  75%
-label: oneortwopager-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "How long should your CV be? Should you write a two page European style CV or an American style resume (one page"| __truncated__
-
-  |                                                                              |.....................................................                 |  75%
-  ordinary text without R code
-
-  |                                                                              |.....................................................                 |  76%
-label: morefeatures-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "98%"
- $ fig.cap  : chr "(ref:captionmorefeatures)"
-
-
-  ordinary text without R code
-
-  |                                                                              |......................................................                |  77%
-label: lovelace-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "98%"
- $ fig.cap  : chr "(ref:captionlovelace)"
-
-
-  ordinary text without R code
-
-  |                                                                              |......................................................                |  78%
-label: machines-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionmachines)"
-
-  |                                                                              |.......................................................               |  78%
-  ordinary text without R code
-
-  |                                                                              |.......................................................               |  79%
-label: yesbut-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "90%"
- $ fig.cap  : chr "(ref:captionyesbut)"
-
-
-  ordinary text without R code
-
-  |                                                                              |........................................................              |  80%
-label: recruiter-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "90%"
- $ fig.cap  : chr "(ref:captionrecruiter)"
-
-
-  ordinary text without R code
-
-  |                                                                              |........................................................              |  81%
-label: iamdevloper-fig (with options) 
-List of 2
- $ echo   : logi FALSE
- $ fig.cap: chr "Job interview: sort binary tree. Job: manually update csv files ... We're looking for someone aged 22-26 with 3"| __truncated__
-
-  |                                                                              |.........................................................             |  81%
-  ordinary text without R code
-
-  |                                                                              |.........................................................             |  82%
-label: shortcuts (with options) 
-List of 1
- $ echo: logi FALSE
-
-
-  ordinary text without R code
-
-  |                                                                              |..........................................................            |  82%
-label: bumped-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionbumped)"
-
-  |                                                                              |..........................................................            |  83%
-  ordinary text without R code
-
-
-label: net-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "50%"
- $ fig.cap  : chr "(ref:captionnetworks)"
-
-  |                                                                              |...........................................................           |  84%
-  ordinary text without R code
-
-
-label: teachers-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "80%"
- $ fig.cap  : chr "(ref:captionpurveyors)"
-
-  |                                                                              |...........................................................           |  85%
-  ordinary text without R code
-
-  |                                                                              |............................................................          |  85%
-label: deathstar5-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |............................................................          |  86%
-  ordinary text without R code
-
-
-label: bugfree-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionbugfree)"
-
-  |                                                                              |.............................................................         |  87%
-  ordinary text without R code
-
-
-label: bobonmute-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:bobonmute)"
-
-  |                                                                              |.............................................................         |  88%
-  ordinary text without R code
-
-  |                                                                              |..............................................................        |  88%
-label: petia-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "99%"
- $ fig.cap  : chr "(ref:captionpetia)"
-
-  |                                                                              |..............................................................        |  89%
-  ordinary text without R code
-
-
-label: deathstar6-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |...............................................................       |  90%
-  ordinary text without R code
-
-
-label: default-user-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiondefaultuser)"
-
-  |                                                                              |...............................................................       |  91%
-  ordinary text without R code
-
-  |                                                                              |................................................................      |  91%
-label: soul-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionsoul)"
-
-
-  ordinary text without R code
-
-  |                                                                              |................................................................      |  92%
-label: teach-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionkenrob)"
-
-  |                                                                              |.................................................................     |  92%
-  ordinary text without R code
-
-  |                                                                              |.................................................................     |  93%
-label: deathstar8-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-
-  ordinary text without R code
-
-  |                                                                              |..................................................................    |  94%
-label: while-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captionbadges)"
-
-
-  ordinary text without R code
-
-  |                                                                              |..................................................................    |  95%
-label: deathstar7-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |...................................................................   |  95%
-  ordinary text without R code
-
-  |                                                                              |...................................................................   |  96%
-label: einstein-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captioneinstein)"
-
-
-  ordinary text without R code
-
-  |                                                                              |....................................................................  |  97%
-label: gavinbrown-fig (with options) 
-List of 2
- $ echo   : logi FALSE
- $ fig.cap: chr "test caption"
-
-
-  ordinary text without R code
-
-  |                                                                              |....................................................................  |  98%
-label: deathstar9-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captiondeathstar)"
-
-  |                                                                              |..................................................................... |  98%
-  ordinary text without R code
-
-  |                                                                              |..................................................................... |  99%
-label: ten-simple-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.align: chr "center"
- $ out.width: chr "100%"
- $ fig.cap  : chr "(ref:captiontensimple)"
-
-
-  ordinary text without R code
-
-  |                                                                              |......................................................................| 100%
-label: northern-fig (with options) 
-List of 4
- $ echo     : logi FALSE
- $ fig.show : chr "hold"
- $ out.width: chr "32%"
- $ fig.cap  : chr "(ref:captionnojustlondon)"
-
-
-   inline R code fragments
-
-
-/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS cdyf.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output cdyf.html --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/latex-div.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//Rtmpm2C0cr/file5853ee3381d --wrap preserve --standalone --section-divs --template /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/templates/bs4_book.html --highlight-style pygments --number-sections --include-in-header /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//Rtmpm2C0cr/rmarkdown-str5853243ed30e.html --mathjax --citeproc 

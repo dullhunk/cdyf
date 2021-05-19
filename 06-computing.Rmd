@@ -47,7 +47,7 @@ Of course not, that would be ludicrous! You learned to read and write because th
 
 So why should everyone learn about computing? Is it so that everyone can become software engineers? Again, this is ludicrous.
 
-You should study computing for the same reasons you studied maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Arron puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
+You should study computing for the same reasons you studied maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [onic-pi.net](https://sonic-pi.net/), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
 
 ```{r sonicpi-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsonicpi)"}
 knitr::include_graphics("images/youtube-sonicpi.png")
