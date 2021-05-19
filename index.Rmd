@@ -74,7 +74,7 @@ This guidebook tackles professional issues in computing, for those with and with
 <!--We will also discuss some algorithms (recipes) that you might like to try-->
 
 ## What you won't learn {#nilo}
-This guidebook will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter on [computing your future](#computing).
+This guidebook will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter \@ref{coding} on *computing your future*.
 
 ## Learning your future {#bilo}
 
@@ -216,6 +216,19 @@ knitr::include_graphics("images/goldengate.png")
 <!--1. **References** - Further reading, absolutely everything we've cited, not just the essential signposts-->
 <!--in progress 1. **Quick quizzes** quick quizzes to test your knowledge-->
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->
+
+
+## Contributing to your future {#contributing}
+If you'd like to contribute this guidebook, I welcome constructive feedback. There are lots of ways you can contribute to this guide:  
+
+* Raise an issue [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
+* Click the **Edit this page**, which appears on the right hand side of every page of this guidebook published at [cdyf.me](https://www.cdyf.me)
+* Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests, see [makeapullrequest.com](http://makeapullrequest.com/)
+* `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
+* Suggest changes via the (old school) Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the pagination and graphic placement isn't always pretty.^[Don't say I didn't warn you!] Make sure you've turned on [track changes](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) if you suggest changes via Word.
+* If you don't want to use github or Word, just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
+
+Any corrections or suggestions that get included will be fully acknowledged in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, however small.
 
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. I've also spoken to many of their employers too.
@@ -416,7 +429,7 @@ So, thanks influencers for being influential. 🙏
 
 ### Thank you githubbers {#github}
 
-Thanks to everyone who has contributed via github. I will credit *any* github contributors here, small or large. Even the typos, it all counts. You can easily add yourself to this roll call by correcting my delibreate mitsakes. 😉
+Thanks to everyone who has contributed via github. I will credit *any* github contributors here, small or large. Even the typos, it all counts. You can easily add yourself to this roll call (see section \ref{contributing}) by correcting my delibreate mitsakes. 😉
 
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -428,13 +441,6 @@ contributors <- contributors %>%
   )
 cat(paste0(contributors$desc, collapse = ", "))
 ```
-
-If you'd like to contribute via github you can:  
-
-* raise an issue at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)  
-* click on the `edit this page` on any page at [cdyf.me](http://www.cdyf.me) which will initiate a pull request
-* `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
-* submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls)
 
 So, thanks githubbers for cloning, forking, pulling, adding, committing and pushing. 🙏
 
