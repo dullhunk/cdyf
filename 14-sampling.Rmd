@@ -29,25 +29,25 @@ Imagine the person is real, what would you tell them about their CV if they'd gi
 
 ## Sample CVs
 
+Reading at other people's CVs will help you understand how to make yours better. Here are some samples:
+
 ### Penelope Tester {#pen-tester}
 
-Penny Tester, or Pen as her friends call her, loves cybersecurity and reverse engineering. She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a *hacker*, she hates that horribly overloaded word.
+Penny Tester, or Pen as her friends call her, loves cybersecurity and reverse engineering. She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a *[hacker](https://en.wikipedia.org/wiki/Hacker_(disambiguation))*, she hates that horribly overloaded word, see \@ref(fig:pentester-fig).
 
-```{r pentester-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r pentester-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpentester)"}
 knitr::include_graphics("images/pen_tester.png")
 ```
-
-See [cdyf.me/Penelope_Tester.pdf](https://www.cdyf.me/Penelope_Tester.pdf)
+(ref:captionpentester) Penny Tester's full CV can be viewed at [cdyf.me/Penelope_Tester.pdf](https://www.cdyf.me/Penelope_Tester.pdf)  
 
 ### Rick Urshion {#rick-urshion}
 
-Rick is a big fan of functional programming and loves expressing himself using languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy.
+Rick is a big fan of functional programming and loves expressing himself using languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figurte \@ref(fig:rickurshion-fig).
 
-```{r rickurshion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r rickurshion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrick)"}
 knitr::include_graphics("images/rick_urshion.png")
 ```
-
-See [cdyf.me/Rick_Urshion.pdf](https://www.cdyf.me/Rick_Urshion.pdf)
+(ref:captionrick) Rick Urshion's full CV can be viewed at [cdyf.me/Rick_Urshion.pdf](https://www.cdyf.me/Rick_Urshion.pdf)
 
 ### Marge Conflict {#marge-conflict}
 
@@ -57,33 +57,32 @@ Marge loves version control and her superpower is resolving people's differences
 
 ### Michael Rokernel {#mike-rokernel}
 
-Mike loves operating systems, but not if they get too bloated.
+Mike loves operating systems, but not if they get too bloated, see figure \@ref(fig:mikrokernel-fig).
 
-```{r mikrokernel-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r mikrokernel-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmike)"}
 knitr::include_graphics("images/mike_rokernel.png")
 ```
 
-See [cdyf.me/Mike_Rokernel.pdf](https://www.cdyf.me/Mike_Rokernel.pdf)
+(ref:captionmike) Mike Rokernel's full CV can be viewed at [cdyf.me/Mike_Rokernel.pdf](https://www.cdyf.me/Mike_Rokernel.pdf)
 
 ### Florence Ting-Point {#flo-ting-point}
 
-Flo loves maths and is a particularly big fan of [floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic).
+Flo loves maths and is a particularly big fan of [floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic), see figure \@ref(fig:floatingpoint-fig).
 
-```{r floatingpoint-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r floatingpoint-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionflo)"}
 knitr::include_graphics("images/flo_ting_point.png")
 ```
-
-See [cdyf.me/Flo_Ting-Point.pdf](https://www.cdyf.me/Flo_Ting-Point.pdf)
+(ref:captionflo) Flo Ting-Point's full CV can be viewed at [cdyf.me/Flo_Ting-Point.pdf](https://www.cdyf.me/Flo_Ting-Point.pdf)
 
 ### Peter Byte {#peter-byte}
 
-Peter and his twin sister Peta, both love big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with nine siblings, Deca, Hector, Kilo, Mega, Giga, Terry, Exa, Zita and Yotta. They are wildly ambitious, but critics say the Byte family have been terribly over-hyped.
+Peter and his twin sister Peta, both love big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with nine siblings, Deca, Hector, Kilo, Mega, Giga, Terry, Exa, Zita and Yotta. They are wildly ambitious, but critics say the Byte family have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
 
-```{r peterbyte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r peterbyte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpeter)"}
 knitr::include_graphics("images/peter_byte.png")
 ```
 
-See [cdyf.me/Peter_Byte.pdf](https://www.cdyf.me/Peter_Byte.pdf)
+(ref:captionpeter) Peter Byte's full CV can be viewed at [cdyf.me/Peter_Byte.pdf](https://www.cdyf.me/Peter_Byte.pdf)
 
 ### Polina Morphism {#polly-morphism}
 
@@ -93,25 +92,21 @@ Polly loves object-oriented programming. She has lots of siblings, and a cousin 
 
 ### Neil Pointer {#neil-pointer}
 
-Neil is a mature student who loves the C programming language. The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. He has a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers Java  
+Neil is a mature student who loves the C programming language, see figure \@ref(fig:neilpointer-fig). The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. He has a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers Java .
 
-```{r neilpointer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r neilpointer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionneil)"}
 knitr::include_graphics("images/neil_pointer.png")
 ```
-
-See [cdyf.me/Neil_Pointer.pdf](https://www.cdyf.me/Neil_Pointer.pdf)
+(ref:captionneil) Neil Pointer's full CV can be viewed at [cdyf.me/Neil_Pointer.pdf](https://www.cdyf.me/Neil_Pointer.pdf)
 
 ### Bryn Hanby-Roberts {#bryn}
 
-The last CV is a real one. Bryn kindly gave his permission to share it with you. He graduated in 2016, his CV is longer as he has five years of experience under his belt but it provides a useful counterpoint to the examples above.
+The last CV is a real one. Bryn kindly gave his permission to share it with you, see figure \@ref(fig:bryn-fig). Bryn graduated in 2016, his CV is longer as he has five years of experience under his belt but it provides a useful counterpoint to the examples above. Thanks Bryn. 🙏
 
-```{r bryn-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
+```{r bryn-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbryn)"}
 knitr::include_graphics("images/bryn.png")
 ```
-
-See [cdyf.me/bryn.pdf](https://www.cdyf.me/bryn.pdf) a snapshot taken in 2021 from [bryn.co.uk](http://bryn.co.uk)
-
-Thanks Bryn. 🙏
+(ref:captionbryn) Bryn Hanby-Roberts full CV can be viewed at [cdyf.me/bryn.pdf](https://www.cdyf.me/bryn.pdf) a snapshot taken in 2021 from [bryn.co.uk](http://bryn.co.uk)
 
 
 ## Sample CoolTech Job advert {#cooltech}

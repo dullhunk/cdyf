@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.29)  19 MAY 2021 07:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.29)  19 MAY 2021 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1583,22 +1583,32 @@ tex-text;!
 ]
 File: images/pen_tester.png Graphic file (type bmp)
 <images/pen_tester.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 4449--4449
+[]\TU/lmr/m/n/10 Figure 14.1: []Penny Tester’s full CV can be viewed at
+ []
+
 File: images/rick_urshion.png Graphic file (type bmp)
 <images/rick_urshion.png>
 [170]
 File: images/mike_rokernel.png Graphic file (type bmp)
 <images/mike_rokernel.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 4488--4488
+[]\TU/lmr/m/n/10 Figure 14.3: []Mike Rokernel’s full CV can be viewed at
+ []
+
 File: images/flo_ting_point.png Graphic file (type bmp)
 <images/flo_ting_point.png>
+[171]
 File: images/peter_byte.png Graphic file (type bmp)
 <images/peter_byte.png>
-[171]
 File: images/neil_pointer.png Graphic file (type bmp)
 <images/neil_pointer.png>
-File: images/bryn.png Graphic file (type bmp)
-<images/bryn.png>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
 tex-text;!
+File: images/bryn.png Graphic file (type bmp)
+<images/bryn.png>
 [172] [173] [174
 
 ]
@@ -1618,29 +1628,31 @@ Underfull \vbox (badness 1102) has occurred while \output is active []
 
 [179] [180]
 Chapter 17.
+File: images/your-actions.png Graphic file (type bmp)
+<images/your-actions.png>
 [181
 
-] [182] [183]
-Underfull \hbox (badness 10000) in paragraph at lines 4931--4933
+] [182] [183] [184]
+Underfull \hbox (badness 10000) in paragraph at lines 4954--4956
 
  []
 
-[184] [185] [186
-
-]
+[185] [186]
 Chapter 18.
 
-Underfull \hbox (badness 7064) in paragraph at lines 5025--5026
+Underfull \hbox (badness 7064) in paragraph at lines 5048--5049
 []\TU/lmr/m/n/10 COMP2CARS complements the second year tutorials (COMP2TUT)
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 5025--5026
+Underfull \hbox (badness 1584) in paragraph at lines 5048--5049
 \TU/lmr/m/n/10 at the University of Manchester and takes place in the same slot
  as
  []
 
-[187]
+[187
+
+]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
 tex-text;!
 (./cdyf.bbl [188] [189
@@ -1656,13 +1668,13 @@ file.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `cdyf.out' has not changed.
-(rerunfilecheck)             Checksum: 4BBBA498F8023FF185453025AE59F7C3;23798.
+(rerunfilecheck)             Checksum: D14DB5462B435230186D485A82CACE1E;24024.
  ) 
 Here is how much of TeX's memory you used:
- 17760 strings out of 478918
- 323768 string characters out of 5865867
- 817006 words of memory out of 5000000
- 37297 multiletter control sequences out of 15000+600000
+ 17780 strings out of 478918
+ 324173 string characters out of 5865867
+ 818671 words of memory out of 5000000
+ 37316 multiletter control sequences out of 15000+600000
  407555 words of font info for 75 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  98i,8n,122p,4659b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
