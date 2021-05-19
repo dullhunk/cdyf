@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Coding your future 
 
 You can use the [editor on GitHub](https://github.com/dullhunk/cdyf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
