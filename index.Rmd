@@ -219,15 +219,24 @@ knitr::include_graphics("images/goldengate.png")
 
 
 ## Contributing to your future {#contributing}
-If you'd like to contribute this guidebook, I welcome constructive feedback. There are lots of ways you can contribute to this guide:  
+If you'd like to contribute this guidebook, I welcome constructive feedback. There are lots of ways you can contribute to this guide, depending on how comfortable you are with Git:
+
+### For techies {#techies}
+
+If you're familiar with the tools used to create this book you can:
 
 * Raise an issue [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the **Edit this page** link, which appears on the right hand side of every page published at [cdyf.me](https://www.cdyf.me)
-* Add comments by annotating the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [email it to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests, see [makeapullrequest.com](http://makeapullrequest.com/)
 * `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
-* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.^[Don't say I didn't warn you!] Make sure you've turned on [track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that corrections are easily identified.
-* If you don't want to use the [github.com](https://github.com/), PDF or Word versions, just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
+
+### For everyone else {#elseif}
+
+If you don't want to use Git or [github.com](https://github.com/) then you can:
+
+* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [email it to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that corrections are easily identified.
+* Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions that get included will be listed in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, however small.
 
