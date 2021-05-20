@@ -83,9 +83,9 @@ Wherever criticism of your CV comes from, don't take it personally - it is proba
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See [Education](#mycved)
 1. **STYLE**: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See [your length](#length)
-1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See [structuring](#mycvst)
+1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent [verbs first](#verbsfirst) in bullets, rather than just what you think you know? Avoid long sections of prose.
-1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see [Context, Action & Result (CAR)](#carstar)
+1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see Context, Action & Result (CAR) in section \@ref(carstar)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -102,7 +102,7 @@ knitr::include_graphics("images/youtube-google-recruiters.png")
 
 (ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your resume. [@youtube-google-recruiters] The image in this figure is a screenshot, you can [watch the eight minute resume tips video here](https://www.youtube.com/watch?v=BYUy1yvjHxE).
 
-As Jonathan Black, director of the careers service at the University of Oxford has pointed out,[@topnotchcv] a key part of your story that you want to communicate in your CV is that you :
+As Jonathan Black, director of the careers service at the University of Oxford has pointed out, [@topnotchcv] a key part of your story that you want to communicate in your CV is that you :
 
 1. take responsibility
 1. achieve things
@@ -127,13 +127,13 @@ knitr::include_graphics("images/alan-turing-header.png")
 
 (ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything additional information risks wasting valuable space and distracting the reader.
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have five sections that cover the following:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have about five sections that cover the following:
 
-1. Education: the formal stuff 🎓
-1. Experience: paid work 💰
-1. Projects: side, social or University projects 💪
-1. Activities and leadership 👑
-1. Awards and honours 🏆
+1. 🎓 Education: the formal stuff
+1. 💰 Experience: paid work
+1. 💪 Projects: side, social or University projects
+1. 👑 Activities and leadership
+1. 🏆 Awards and honours
 
 Let's look at each of these sections:  
 
@@ -178,7 +178,7 @@ They will most likely be unpaid because paid work fits better in [your experienc
 knitr::include_graphics("images/feynman.png")
 ```
 
-(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new knowledge and help your CV stand out like a sore thumb (in a good way) 👍. Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new knowledge and help your CV stand out like a sore thumb (in a good way). Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 Another good source of projects is to [fix a bug in an open source project](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749). It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the toolchain being used (which might be complex) and solve problems.
 
@@ -227,11 +227,11 @@ The latter has all the same information, but by reversing the order, you've emph
 
 You may be tempted to dedicate a whole section on your CV to skills, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. Don't do it! Why not? Let's imagine, that like [Rick Urshion](Rick_Urshion.pdf), you include Python in a long list skills, with its own dedicated section. There are at least four problems with Rick's not so skilful approach:
 
-1. **No context** to give the reader an idea of the where he's developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don't know because he doesn't say.
-1. **No actions** or *evidence* to back up his claims of having skill with Python. So Rick claims he knows Python. So what? What did he *do* with those python skills? We don't know because he hasn't told us. Perhaps he DOES have Python skills, perhaps he DOESN'T. Is he telling lies and peddling fake news? It's difficult to tell.
-1. **No results** given for what the outcome of using the skills was. Did he save his employers some money? Did he make something more efficient? Did he learn some methodology? We will never know.
-1. **No tailoring** the skill to the job that he's applying for. Python would be valuable if he was applying to be a data scientist, software engineer, or automated tester but perhaps less relevant for a business analysis, consultancy, user experience or project management roles
-1. **No story** told for that skill. This makes for a very dull and boring read. Yawn. NEXT!
+1. ❎ **No context** to give the reader an idea of where he's developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don't know because he doesn't say.  
+1. ❎ **No actions** or *evidence* to back up his claims of having skill with Python. So Rick claims he knows Python. So what? What did he *do* with those python skills? We don't know because he hasn't told us. Perhaps he DOES have Python skills, perhaps he DOESN'T. Is he telling lies and peddling fake news? It's difficult to tell.  
+1. ❎ **No results** given for what the outcome of using the skills was. Did he save his employers some money? Did he make something more efficient? Did he learn some methodology? We will never know.  
+1. ❎ **No tailoring** the skill to the job that he's applying for. Python would be valuable if he was applying to be a data scientist, software engineer, or automated tester but perhaps less relevant for a business analysis, consultancy, user experience or project management roles  
+1. ❎ **No story** told for that skill. This makes for a very dull and boring read. Yawn. NEXT!  
 
 So, this doesn't mean Rick shouldn't mention his Python skills. He needs to give us the context, action and result (CAR) described in section \@ref(carstar). This will make his pythonic story much more convincing and interesting to read. Giving the CAR will improve his chances of being invited to interview.
 
@@ -434,21 +434,23 @@ Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
 
 A quick check-list of commons bugs
 
-1. Has it been reviewed by several people?
-1. Have you reviewed other people's CV's?
-1. Does the style look good?
-1. Is there too much or too little whitespace?
-1. Is there anything irrelevant on there? e.g. personal information, swimming certificates from ten years ago
-1. Is your year of graduation, degree program, University and expected (or achieved) degree classification clear?
-1. Are there any spelling mistakes or grammatical errors?
-1. Is it in reverse chronological order?
-1. Have you used too many personal pronouns? `# I, me, my ... everywhere?`
-1. Have you made it clear what you have actually done using prominent verbs?
-1. Have you mentioned courses you are studying now (or next semester)?
-1. Is it targeted to an employer or job description?
-1. Is it balanced, with all non-technical
-1. Does it have a good, clear structure? Typically education, experience, projects etc
-1. Have you distinguished between paid and unpaid or voluntary work?
+1. ✅ Has it been reviewed by several people? Given enough eyeballs all bugs are shallow
+1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(sampling)
+1. ✅ Has a resume robot checked it? See section \@ref(robotproof)
+1. ✅ Does the style look good? Is it easy on the eye?
+1. ✅ Is there adequate whitespace (not too much or too little)?
+1. ✅ Is everything relevant? e.g. no swimming certificates from ten years ago?
+1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear?
+1. ✅ Have you spell-checked both manually and with software?
+1. ✅ Have you added context using relevant hyperlinks? See section \@ref(links)
+1. ✅ Is it in reverse chronological order?
+1. ✅ Have you avoided using too many personal pronouns? `# I, me, my ... everywhere?`
+1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
+1. ✅ Have you mentioned courses you are studying now (or next semester)?
+1. ✅ Is it targeted to an employer or job description?
+1. ✅ Is it balanced, including technical and non-technical soft skills? See section \@ref(casual)
+1. ✅ Does it have a good, clear structure? Not too many headings see section \@ref(mycvpd)?
+1. ✅ Have you clearly distinguished between paid and unpaid or voluntary work?
 
 ## Covering letters & personal statements {#we3qs}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). Let's say you're applying for a widget engineering position at BigWidget Inc. There are three things you need to cover in approximately this order

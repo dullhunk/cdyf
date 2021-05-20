@@ -80,7 +80,7 @@ ggplot(data = nursesdata) +
   geom_bar(mapping = aes(x = profession, y = graduates), stat="identity")
 ```
 
-(ref:captionball) The most common jobs for graduates in the UK in 2017-18, demand for software developers is high according to data taken from [@wonkyball]
+(ref:captionball) The most common jobs for graduates in the UK in 2017-18, demand for software developers is high according to data published by Charlie Ball [@wonkyball]
 
 So there's lots of choice and lots on offer, wherever you are in the world.
 
