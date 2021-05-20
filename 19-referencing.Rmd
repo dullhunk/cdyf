@@ -1,9 +1,23 @@
-`r if (knitr::is_html_output()) '
 # Reading your future {#reading}
 <!-- was References -->
-If you want to have your future read, you can read about in books, journals, websites, magazines and anywhere else you find the written word.
 
-There is no need to gaze into any [crystal balls](https://en.wikipedia.org/wiki/Crystal_ball)! Get reading your future now, because reading is good for your mind, body and soul.
+If you want to have your future read, hit the library. You can read about your future in books, journals, websites, magazines and anywhere else you find the written word. There is no need to gaze into any [crystal balls](https://en.wikipedia.org/wiki/Crystal_ball)! Get reading your future now, because reading is good for your mind, body and soul. Libraries give us power, see figure \@ref(fig:library-power-fig).
+
+```{r library-power-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionlibpower)"}
+knitr::include_graphics("images/Libraries_Give_Us_Power.jpeg")
+```
+(ref:captionlibpower) Libraries give us power. The British Museum Reading Room panorama by David Iliff on Wikimedia Commons [w.wiki/3BEs](https://w.wiki/3BEs)
+
+
 
 This chapter lists everything (and I mean *everything*) cited in this book which you might find overwhelming. For a more easily digestible versions see the signposts section of any chapter in this book.
+
+<!--`r if (knitr::is_html_output()) '
+was like this see
+LaTeX or HTML output
+https://bookdown.org/yihui/rmarkdown-cookbook/latex-html.html
+'`-->
+
+`r if (knitr::is_latex_output())'
+You are reading the pdf version, all the references can be found in the bibliography section following this page.
 '`
