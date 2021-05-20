@@ -42,6 +42,46 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -409,7 +449,12 @@ This guidebook aims to help you build a bridge from where you are now to where y
 \hypertarget{contributing}{%
 \section{Contributing to your future}\label{contributing}}
 
-If you'd like to contribute this guidebook, I welcome constructive feedback. There are lots of ways you can contribute to this guide:
+If you'd like to contribute this guidebook, I welcome constructive feedback. There are lots of ways you can contribute to this guide, depending on how comfortable you are with Git:
+
+\hypertarget{techies}{%
+\subsection{For techies}\label{techies}}
+
+If you're familiar with the tools used to create this book you can:
 
 \begin{itemize}
 \tightlist
@@ -418,15 +463,24 @@ If you'd like to contribute this guidebook, I welcome constructive feedback. The
 \item
   Click on the \textbf{Edit this page} link, which appears on the right hand side of every page published at \href{https://www.cdyf.me}{cdyf.me}
 \item
-  Add comments by annotating the \href{https://www.cdyf.me/cdyf.pdf}{cdyf.pdf} using your weapon of choice (iPad, \href{https://en.wikipedia.org/wiki/ReMarkable}{reMarkable} or whatever) and \href{http://www.cs.man.ac.uk/~hulld/contact.html}{email it to me}
-\item
   Submit a pull request \href{https://github.com/dullhunk/cdyf/pulls}{github.com/dullhunk/cdyf/pulls}, If you're not familiar with pull requests, see \href{http://makeapullrequest.com/}{makeapullrequest.com}
 \item
   \texttt{git\ clone\ https://github.com/dullhunk/cdyf.git} the repository to submit pull requests from your setup
+\end{itemize}
+
+\hypertarget{elseif}{%
+\subsection{For everyone else}\label{elseif}}
+
+If you don't want to use Git or \href{https://github.com/}{github.com} then you can:
+
+\begin{itemize}
+\tightlist
 \item
-  Suggest changes via the Microsoft Word version at \href{http://cdyf.me/cdyf.docx}{cdyf.docx}, which is solely for editing purposes. The text is all there, but the pagination and graphic placement as good as the pdf version.\footnote{Don't say I didn't warn you!} Make sure you've turned on \href{https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a}{track changes} if you want to suggest changes via Word.
+  Add comments by annotating \href{https://www.cdyf.me/cdyf.pdf}{cdyf.pdf} using your weapon of choice (iPad, \href{https://en.wikipedia.org/wiki/ReMarkable}{reMarkable} or whatever) and \href{http://www.cs.man.ac.uk/~hulld/contact.html}{email it to me}
 \item
-  If you don't want to use the \href{https://github.com/}{github.com}, PDF or Word versions, just \href{http://www.cs.man.ac.uk/~hulld/contact.html}{email me suggestions for improvements}
+  Suggest changes via the Microsoft Word version at \href{http://cdyf.me/cdyf.docx}{cdyf.docx}, which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.\footnote{Don't say I didn't warn you!} Make sure you've \href{https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a}{turned on track changes in Word} so that corrections are easily identified.
+\item
+  Just \href{http://www.cs.man.ac.uk/~hulld/contact.html}{email me suggestions for improvements}
 \end{itemize}
 
 Any corrections or suggestions that get included will be listed in the acknowledgements section \ref{thanks}, unless you tell me otherwise. I welcome all improvements, however small.
@@ -2159,7 +2213,7 @@ You don't get good at communicating with computers (coding) by just \emph{writin
 
 }
 
-\caption{Reading The Friendly Manual(s) (\href{https://en.wikipedia.org/wiki/RTFM}{RTFM}) some of it you will love, some of it you won't. Either way, reading allows you to learn from other people's hard won experience \emph{and} improve your own written communication skills. Just like you improve your coding skills by writing and reading code, you will improve your written communication skills by reading and writing in natural langauges like English. \href{https://bryanmmathers.com/the-motivation-for-reading/}{The motivation for reading} by \href{https://visualthinkery.com/}{Visual Thinkery} is licenced under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND} with help from \href{https://en.wikipedia.org/wiki/Michael_Rosen}{Michael Rosen}}\label{fig:rtfm-fig}
+\caption{Read The Friendly Manual (\href{https://en.wikipedia.org/wiki/RTFM}{RTFM}), some of it you will love, some of it you won't. Either way, reading allows you to learn from other people's hard won experience whilst also improving your own written communication skills. Just like you improve your coding skills by writing and reading code, you will improve your written communication skills by reading and writing in natural languages. \href{https://bryanmmathers.com/the-motivation-for-reading/}{The motivation for reading} by \href{https://visualthinkery.com/}{Visual Thinkery} is licenced under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND} with help from \href{https://en.wikipedia.org/wiki/Michael_Rosen}{Michael Rosen}}\label{fig:rtfm-fig}
 \end{figure}
 
 
@@ -2479,7 +2533,7 @@ You should study computing for the same reasons you studied maths and english at
 
 }
 
-\caption{Sam Aaron puts the creative case for computing by discussing programming as performance in his TEDx talk from 2016. \citep{youtube-sonicpi} The image in this figure is a screenshot, \href{https://www.youtube.com/watch?v=0lTZ8Tuyu5I}{watch the 18 minute video on programming as performance here}.}\label{fig:sonicpi-fig}
+\caption{Sam Aaron puts the creative case for computing by discussing programming as performance in his TEDx talk. \citep{youtube-sonicpi} The image in this figure is a screenshot, \href{https://www.youtube.com/watch?v=0lTZ8Tuyu5I}{watch the 18 minute video on programming as performance here}.}\label{fig:sonicpi-fig}
 \end{figure}
 
 
@@ -2841,35 +2895,25 @@ Those project names are pretty opaque and don't give the reader much to go on. W
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former. Let's imagine you've developed a piece of software called \texttt{WidgetWasher}. You might describe it like this:
 
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  WidgetWasher is a web service that takes widgets and washes them before painting them a random colour
-\item
-  Tested WidgetWasher on a range of different operating systems and devices
-\item
-  Collaborated with one other contributor for two days at a hackathon using pair programming
-\item
-  Designed and implemented an API using a RESTful approach
-\end{itemize}
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\SpecialStringTok{* }\NormalTok{WidgetWasher is a web service that washes widgets}
+\SpecialStringTok{* }\NormalTok{Tested WidgetWasher on a range of different operating systems}
+\SpecialStringTok{* }\NormalTok{Collaborated with one other contributor for two days at a hackathon using pair programming}
+\SpecialStringTok{* }\NormalTok{Designed and implemented an API using a RESTful approach}
+\end{Highlighting}
+\end{Shaded}
 
 Instead, you could reverse the order to change the emphasis like this:
 
-\begin{quote}
-\begin{itemize}
-\tightlist
-\item
-  Designed and implemented an API using a RESTful approach
-\item
-  Collaborated with one other contributor for two days at a hackathon using pair programming
-\item
-  Tested WidgetWasher on a range of different operating systems and devices
-\item
-  WidgetWasher is a web service that takes widgets and washes them before painting them a random colour
-\end{itemize}
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\SpecialStringTok{* }\NormalTok{Designed and implemented an API using a RESTful approach}
+\SpecialStringTok{* }\NormalTok{Collaborated with one other contributor for two days at a hackathon using pair programming}
+\SpecialStringTok{* }\NormalTok{Tested WidgetWasher on a range of different operating systems}
+\SpecialStringTok{* }\NormalTok{WidgetWasher is a web service that washes widgets}
+\end{Highlighting}
+\end{Shaded}
 
 The latter has all the same information, but by reversing the order, you've emphasised what \emph{you} did, rather than what the software did.
 
@@ -2953,15 +2997,19 @@ Similar to CAR and STAR, recruiters at Google (see Figure \ref{fig:lopez-fig}) a
 
 So instead of saying
 
-\begin{quote}
-``generated reports for end users.'' -
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\SpecialStringTok{* }\NormalTok{generated reports for end users.}
+\end{Highlighting}
+\end{Shaded}
 
 You could say
 
-\begin{quote}
-``Generated daily reconciliation report for team by automating workflow of 8 different tasks''
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\SpecialStringTok{* }\NormalTok{Generated daily reconciliation report for team by automating workflow of 8 different tasks}
+\end{Highlighting}
+\end{Shaded}
 
 The second is better because its more specific, captures the result (accomplishment), by quantifying it ( ``as measured by'') and talks about the actions (the doing part).
 
@@ -3007,22 +3055,28 @@ If you're struggling to fit all the information onto a one page resume, revisit 
 
 A simple but effective technique for emphasising what you have done, rather than just what you know, is to start the description of it with a verb. Employers don't just want to know what you know, but what you have actually done. So, for example, instead of saying e.g.
 
-\begin{quote}
-``In my second year CS29328 software engineering module I used Java, Eclipse and
-JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG)
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{In my second year CS29328 software engineering module I used Java, Eclipse and}
+\NormalTok{JUnit to test and build an open source Massively Multiplayer Online Role{-}Playing Game (MMORPG)}
+\end{Highlighting}
+\end{Shaded}
 
 you could say:
 
-\begin{quote}
-``Built and tested a large open-source codebase using Eclipse, Ant, JUnit and Jenkins \ldots{}''
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Built and tested a large open{-}source codebase using Eclipse, Ant, JUnit and Jenkins ...”}
+\end{Highlighting}
+\end{Shaded}
 
 followed by:
 
-\begin{quote}
-``Added and deployed new features to a Massively Multiplayer Online Role-Playing Game (MMORPG) in Java\ldots{}''
-\end{quote}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{Added and deployed new features to a Massively Multiplayer Online Role{-}Playing Game (MMORPG) in Java...}
+\end{Highlighting}
+\end{Shaded}
 
 The latter examples get to the point much quicker and avoid the problem of using ``I, me, my'' too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression.
 
@@ -4322,7 +4376,7 @@ Build your network, use all the people you can, because people can help you. Rem
 
 }
 
-\caption{Your network can help you before, during and after your employment, so be sure to grow your network when you can. This includes both the stronger ties of trusted friends alongside the the weaker ties too, described in section \ref{weakties}. Both are important. \href{https://bryanmmathers.com/its-all-about-people/}{It's all about people} by \href{https://visualthinkery.com/}{Visual Thinkery} is licensed under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:allpeople-fig}
+\caption{Your network can help you before, during and after your employment, so be sure to grow your network when you can. This includes both the stronger ties of trusted friends alongside the weaker ties too, described in section \ref{weakties}. Both are important. \href{https://bryanmmathers.com/its-all-about-people/}{It's all about people} by \href{https://visualthinkery.com/}{Visual Thinkery} is licensed under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:allpeople-fig}
 \end{figure}
 
 
@@ -4738,7 +4792,7 @@ Employers are often more interested in what you have \emph{done}, rather than ju
 \hypertarget{impact}{%
 \section{Your actions define your impact}\label{impact}}
 
-Your actions define your impact, see figure \ref{fig:action-fig}. When writing job applications, think about the stories you can tell with your actions.ß What was the context, action and result (CAR) we discussed in section \ref{carstar}?
+Your actions define your impact, see figure \ref{fig:action-fig}. When writing job applications, think about the stories you can tell and the verbs you can use to describe your actions to date. What was the context, action and result (CAR) we discussed in section \ref{carstar}?
 
 \begin{figure}
 
@@ -4746,7 +4800,7 @@ Your actions define your impact, see figure \ref{fig:action-fig}. When writing j
 
 }
 
-\caption{What actions have you taken and what stories can you tell about the results and your impact? \href{https://bryanmmathers.com/your-actions-define-your-impact/}{Your actions define your impact} by \href{https://visualthinkery.com/}{Visual Thinkery} is licenced under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:action-fig}
+\caption{What actions have you taken and what stories can you tell about the results and your impact? What are the best verbs for highlighting your actions? \href{https://bryanmmathers.com/your-actions-define-your-impact/}{Your actions define your impact} by \href{https://visualthinkery.com/}{Visual Thinkery} is licenced under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:action-fig}
 \end{figure}
 
 
@@ -5120,7 +5174,7 @@ If you want to have your future read, hit the library. You can read about your f
 
 }
 
-\caption{Libraries give us power. The British Museum Reading Room panorama by David Iliff on Wikimedia Commons \href{https://w.wiki/3BEs}{w.wiki/3BEs}}\label{fig:library-power-fig}
+\caption{Libraries give you power, the power to read your future. The British Museum Reading Room panorama by David Iliff on Wikimedia Commons \href{https://w.wiki/3BEs}{w.wiki/3BEs}}\label{fig:library-power-fig}
 \end{figure}
 
 

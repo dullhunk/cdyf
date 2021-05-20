@@ -99,7 +99,7 @@ Figure 7.1: Is that a bug or a feature in your CV? To stand a chance of being in
 <p>By the end of this chapter you will be able to</p>
 <ul>
 <li>Structure and style the content of your CV and resume appropriately</li>
-<li>Describe your story<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;actually a collection of short stories&lt;/p&gt;"><sup>4</sup></a> of your relevant experience, projects and education etc</li>
+<li>Describe your story<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;actually a collection of short stories&lt;/p&gt;"><sup>5</sup></a> of your relevant experience, projects and education etc</li>
 <li>Identify and fix bugs in CV’s by:
 <ul>
 <li>Constructively criticising other people’s CVs</li>
@@ -164,7 +164,7 @@ doesn't work for some unknown reason
 <ul>
 <li>The main purpose of your CV is to get an interview, not a job. Your CV should catch attention and provide talking points for an interview but not give your whole life story</li>
 <li>Your CV will be assessed in seconds, rather than minutes so brevity really is key</li>
-<li>Bullet points with <a href="debugging.html#verbsfirst">verbs first</a> will:
+<li>Bullet points with verbs first (see section <a href="debugging.html#verbsfirst">7.6.4</a>) will:
 <ul>
 <li>allow your reader to quickly scan your CV (<a href="https://readabilityguidelines.co.uk/content-design/how-people-read/">employers don’t read CVs, they scan them</a>) <span class="citation">(<a href="reading.html#ref-scanning" role="doc-biblioref">Richards 2019a</a>)</span>
 </li>
@@ -239,7 +239,7 @@ Figure 7.5: Keep the header of your CV simple. Just your name, email phone numbe
 </p>
 </div>
 
-<p>Your header doesn’t need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;what you look like should &lt;em&gt;not&lt;/em&gt; be a factor in an employers decision to interview you&lt;/p&gt;"><sup>5</sup></a> and home address aren’t relevant and you don’t need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they’ll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After <a href="debugging.html#mycvpd">your header</a> I suggest you have five sections that cover the following:</p>
+<p>Your header doesn’t need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;what you look like should &lt;em&gt;not&lt;/em&gt; be a factor in an employers decision to interview you&lt;/p&gt;"><sup>6</sup></a> and home address aren’t relevant and you don’t need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they’ll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After <a href="debugging.html#mycvpd">your header</a> I suggest you have five sections that cover the following:</p>
 <ol style="list-style-type: decimal">
 <li>Education: the formal stuff 🎓</li>
 <li>Experience: paid work 💰</li>
@@ -297,31 +297,23 @@ Figure 7.7: Richard Feynman once chalked “What I cannot create, I do not under
 <p>Another good source of projects is to <a href="https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749">fix a bug in an open source project</a>. It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the toolchain being used (which might be complex) and solve problems.</p>
 <!-- see open source motivations https://bryanmmathers.com/open-source-motivations/ -->
 <p>If you’ve done group projects at University, be sure to mention them. Try to be <em>more</em> descriptive than this:</p>
-<ul>
-<li>“First year team project”</li>
-<li>“Second year team project”</li>
-<li>“Final year project”</li>
-</ul>
-<p>Those project names are pretty opaque and don’t give the reader much to go on. What was the <a href="debugging.html#carstar">context, action and result (CAR)</a> of the project? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb1-1"><a href="debugging.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>First year team project</span></code></pre></div>
+<p>or</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb2-1"><a href="debugging.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Second year team project</span></code></pre></div>
+<p>or even just</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb3-1"><a href="debugging.html#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Final year project</span></code></pre></div>
+<p>Those project names are pretty opaque and don’t give the reader much to go on. What was the story (the context, action and result (CAR) we described in section <a href="debugging.html#carstar">7.6.2</a>) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?</p>
 <p><strong>This is all excellent CV fodder!</strong></p>
 <p>It’s often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former. Let’s imagine you’ve developed a piece of software called <code>WidgetWasher</code>. You might describe it like this:</p>
-<blockquote>
-<ul>
-<li>WidgetWasher is a web service that takes widgets and washes them before painting them a random colour</li>
-<li>Tested WidgetWasher on a range of different operating systems and devices</li>
-<li>Collaborated with one other contributor for two days at a hackathon using pair programming</li>
-<li>Designed and implemented an API using a RESTful approach</li>
-</ul>
-</blockquote>
+<div class="sourceCode" id="cb4"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb4-1"><a href="debugging.html#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>WidgetWasher is a web service that washes widgets</span>
+<span id="cb4-2"><a href="debugging.html#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Tested WidgetWasher on a range of different operating systems</span>
+<span id="cb4-3"><a href="debugging.html#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Collaborated with one other contributor for two days at a hackathon using pair programming</span>
+<span id="cb4-4"><a href="debugging.html#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Designed and implemented an API using a RESTful approach</span></code></pre></div>
 <p>Instead, you could reverse the order to change the emphasis like this:</p>
-<blockquote>
-<ul>
-<li>Designed and implemented an API using a RESTful approach</li>
-<li>Collaborated with one other contributor for two days at a hackathon using pair programming</li>
-<li>Tested WidgetWasher on a range of different operating systems and devices</li>
-<li>WidgetWasher is a web service that takes widgets and washes them before painting them a random colour</li>
-</ul>
-</blockquote>
+<div class="sourceCode" id="cb5"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb5-1"><a href="debugging.html#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Designed and implemented an API using a RESTful approach</span>
+<span id="cb5-2"><a href="debugging.html#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Collaborated with one other contributor for two days at a hackathon using pair programming</span>
+<span id="cb5-3"><a href="debugging.html#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Tested WidgetWasher on a range of different operating systems</span>
+<span id="cb5-4"><a href="debugging.html#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>WidgetWasher is a web service that washes widgets</span></code></pre></div>
 <p>The latter has all the same information, but by reversing the order, you’ve emphasised what <em>you</em> did, rather than what the software did.</p>
 </div>
 <div id="mycvsk" class="section level3" number="7.5.5">
@@ -341,7 +333,7 @@ Figure 7.7: Richard Feynman once chalked “What I cannot create, I do not under
 <li>
 <strong>No story</strong> told for that skill. This makes for a very dull and boring read. Yawn. NEXT!</li>
 </ol>
-<p>So, this doesn’t mean Rick shouldn’t mention his Python skills. He needs to give us the <a href="debugging.html#carstar">context, action and result (CAR)</a>. This will make his pythonic story much more convincing and interesting to read. Giving the CAR will improve his chances of being invited to interview.</p>
+<p>So, this doesn’t mean Rick shouldn’t mention his Python skills. He needs to give us the context, action and result (CAR) described in section <a href="debugging.html#carstar">7.6.2</a>. This will make his pythonic story much more convincing and interesting to read. Giving the CAR will improve his chances of being invited to interview.</p>
 <p>This applies to soft skills too, not just hard technical skills. Best to mention the context in which you’ve used any skills you mention on your CV. So, if you’re going to have a skill section:</p>
 <ul>
 <li>keep it short (one or two lines maybe) but don’t dedicate a whole section to it</li>
@@ -386,13 +378,9 @@ Figure 7.8: Does your CV need a little work? The truth is your CV is never finis
 </ul>
 <p>Similar to CAR and STAR, recruiters at Google (see Figure <a href="debugging.html#fig:lopez-fig">7.3</a>) advise candidates to describe things using “Accomplished [X], as measured by [Y], by doing [Z]”</p>
 <p>So instead of saying</p>
-<blockquote>
-<p>“generated reports for end users.” -</p>
-</blockquote>
+<div class="sourceCode" id="cb6"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb6-1"><a href="debugging.html#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>generated reports for end users.</span></code></pre></div>
 <p>You could say</p>
-<blockquote>
-<p>“Generated daily reconciliation report for team by automating workflow of 8 different tasks”</p>
-</blockquote>
+<div class="sourceCode" id="cb7"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb7-1"><a href="debugging.html#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Generated daily reconciliation report for team by automating workflow of 8 different tasks</span></code></pre></div>
 <p>The second is better because its more specific, captures the result (accomplishment), by quantifying it ( “as measured by”) and talks about the actions (the doing part).</p>
 </div>
 <div id="length" class="section level3" number="7.6.3">
@@ -426,18 +414,11 @@ Figure 7.10: If it ain’t broke it doesn’t have enough features yet. Adding m
 <span class="header-section-number">7.6.4</span> Verbs first<a class="anchor" aria-label="anchor" href="#verbsfirst"><i class="fas fa-link"></i></a>
 </h3>
 <p>A simple but effective technique for emphasising what you have done, rather than just what you know, is to start the description of it with a verb. Employers don’t just want to know what you know, but what you have actually done. So, for example, instead of saying e.g.</p>
-<blockquote>
-<p>“In my second year CS29328 software engineering module I used Java, Eclipse and
-JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG)</p>
-</blockquote>
+<div class="sourceCode" id="cb8"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb8-1"><a href="debugging.html#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>In my second year CS29328 software engineering module I used Java, Eclipse and JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG)</span></code></pre></div>
 <p>you could say:</p>
-<blockquote>
-<p>“Built and tested a large open-source codebase using Eclipse, Ant, JUnit and Jenkins …”</p>
-</blockquote>
+<div class="sourceCode" id="cb9"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb9-1"><a href="debugging.html#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Built and tested a large open-source codebase using Eclipse, Ant, JUnit and Jenkins”</span></code></pre></div>
 <p>followed by:</p>
-<blockquote>
-<p>“Added and deployed new features to a Massively Multiplayer Online Role-Playing Game (MMORPG) in Java…”</p>
-</blockquote>
+<div class="sourceCode" id="cb10"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb10-1"><a href="debugging.html#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Added and deployed new features to a Massively Multiplayer Online Role-Playing Game (MMORPG) in Java</span></code></pre></div>
 <p>The latter examples get to the point much quicker and avoid the problem of using “I, me, my” too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression.</p>
 </div>
 <div id="links" class="section level3" number="7.6.5">
@@ -453,16 +434,13 @@ Figure 7.11: Adding links is a good way to augment your CV. If you’re adding L
 </div>
 
 <p>Links are also a great way to add evidence and substantiate any claims that you make. They allow your reader to <em>read between the lines</em> and make inferences from the information you’ve provided them with. For example, you might says things like:</p>
-<ul>
-<li>
-<em>“Built a thing”</em> reading between the lines: “I like building things. Look at this thing I built just for fun, its really cool”</li>
-<li>
-<em>“Joined an organisation called bla”</em> reading between the lines: “I was part a bigger thing you might not have heard about but you can find out about here”</li>
-<li>
-<em>“Competed this event called bla”</em> reading between the lines: “I really enjoy learning from other people by going to hackathons”</li>
-<li>etc</li>
-</ul>
-<p>Links are crucial features of your CV and an interested reader <em>may</em> even follow them. Treat links with respect and they will support your goals and help your readers. Invest some time thinking about how you word the link text, and how they would be understood out of context. Make sure that:</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb11-1"><a href="debugging.html#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Built a thing called example.com</span></code></pre></div>
+<p>Reading between the lines: “I like building things. Look at this thing I built just for fun, its really cool.” Or you might say:</p>
+<div class="sourceCode" id="cb12"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb12-1"><a href="debugging.html#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>elected as a representative for hacksoc.com</span></code></pre></div>
+<p>Reading between the lines: “I was part a bigger thing you might not have heard about but you can find out about here.” You might also say:</p>
+<div class="sourceCode" id="cb13"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb13-1"><a href="debugging.html#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>Competed at hack-to-the-future.com part III</span></code></pre></div>
+<p>Reading between the lines: “I really enjoy learning from other people by going to hackathons and competitions”</p>
+<p>… and so on. So links are crucial features of your CV and an interested reader <em>may</em> even follow them. Treat links with respect and they will support your goals and help your readers. Invest some time thinking about how you word the link text, and how they would be understood out of context. Make sure that:</p>
 <ul>
 <li>hyperlinks are <a href="https://readabilityguidelines.co.uk/content-design/links/">readable and descriptive</a> <span class="citation">(<a href="reading.html#ref-readable" role="doc-biblioref">Richards 2019b</a>)</span><br>
 </li>
@@ -554,7 +532,8 @@ show me the money!-->
 <li>Is your year of graduation, degree program, University and expected (or achieved) degree classification clear?</li>
 <li>Are there any spelling mistakes or grammatical errors?</li>
 <li>Is it in reverse chronological order?</li>
-<li>Have you used too many personal pronouns?</li>
+<li>Have you used too many personal pronouns? <code># I, me, my ... everywhere?</code>
+</li>
 <li>Have you made it clear what you have actually done using prominent verbs?</li>
 <li>Have you mentioned courses you are studying now (or next semester)?</li>
 <li>Is it targeted to an employer or job description?</li>
@@ -581,7 +560,7 @@ show me the money!-->
 <span class="header-section-number">7.9.1</span> Does anyone actually READ covering letters?<a class="anchor" aria-label="anchor" href="#elevatorpitch"><i class="fas fa-link"></i></a>
 </h3>
 <p>Some employers will read them very carefully, some less so. It’s not clear which employers will bother and which won’t.</p>
-<p>Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. <a href="https://www.careers.manchester.ac.uk/applicationsinterviews/cl/">www.careers.manchester.ac.uk/applicationsinterviews/cl/</a> for further information. Think of it as practicing your <a href="https://en.wikipedia.org/wiki/Elevator_pitch">elevator pitch</a>.</p>
+<p>Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. <a href="https://www.careers.manchester.ac.uk/applicationsinterviews/cl/">www.careers.manchester.ac.uk/applicationsinterviews/cl</a> for further information. Think of it as practicing your <a href="https://en.wikipedia.org/wiki/Elevator_pitch">elevator pitch</a>.</p>
 </div>
 </div>
 <div id="tldr7" class="section level2" number="7.10">

@@ -234,11 +234,12 @@ If you're familiar with the tools used to create this book you can:
 
 If you don't want to use Git or [github.com](https://github.com/) then you can:
 
-* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [email it to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that corrections are easily identified.
+* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
-Any corrections or suggestions that get included will be listed in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, however small.
+Any corrections or suggestions will be thankfully noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. I've also spoken to many of their employers too.
@@ -407,7 +408,7 @@ So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](htt
 
 Thanks to Greater Mancunians Paul Bason, Martin Bryant, Darren Dancey, Shaun Fensom, Tony Foggett, Katie Gallagher, Emma Grant, Ross Keeping, Tony McGrath, Chris Marsh, Geraint North, Martyn Spink, Julian Star, Rachel Thompson, Wesley Verne, Paul Vlissidis, Travis Walton for friendly Northern support and advice.
 
-So thanks Manchester for being Mancunian. 🙏
+So thanks Manchester^[Manc-you very much. Sorry, I can't resist...] for being Mancunian. 🙏
 
 ### Thank you Moravians {#moravians}
 Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learned loads as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker.
@@ -518,7 +519,7 @@ knitr::include_graphics("images/CC-attribution-1.png")
 
 
 ### Your privacy {#privacy}
-This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) and [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) to monitor use, both of which comply with the General Data Protection Regulation (GDPR).
+This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) (server side) and [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics) (client side) to understand our audience better. Both comply with the General Data Protection Regulation (GDPR). If you want to, you can opt out using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/)
 
 Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)
 
