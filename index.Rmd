@@ -199,7 +199,7 @@ This guidebook aims to help you build a bridge from where you are now to where y
 ```{r goldengate-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongoldengate)"}
 knitr::include_graphics("images/goldengate.png")
 ```
-(ref:captiongoldengate) This guidebook will help you build a big bridge to your future. Picture of the iconic [Golden Gate Bridge](https://en.wikipedia.org/wiki/Golden_Gate_Bridge) in California adapted from an original by Frank Schulenburg (CC BY-SA) on Wikimedia Commons [w.wiki/37kY](https://w.wiki/37kY)
+(ref:captiongoldengate) This guidebook will help you build a bridge to your future. Picture of the iconic [Golden Gate Bridge](https://en.wikipedia.org/wiki/Golden_Gate_Bridge) in California adapted from an original by Frank Schulenburg (CC BY-SA) on Wikimedia Commons [w.wiki/37kY](https://w.wiki/37kY)
 
 
 1. **Learning** your future: What you will learn from any given chapter
@@ -225,9 +225,10 @@ If you'd like to contribute this guidebook, I welcome constructive feedback. The
 
 If you're familiar with the tools used to create this book you can:
 
-* Raise an issue [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
+* Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the **Edit this page** link, which appears on the right hand side of every page published at [cdyf.me](https://www.cdyf.me)
-* Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests, see [makeapullrequest.com](http://makeapullrequest.com/)
+* Help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
+* Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests yet, see [makeapullrequest.com](http://makeapullrequest.com/)
 * `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
 
 ### For everyone else {#elseif}
@@ -239,7 +240,7 @@ If you don't want to use Git or [github.com](https://github.com/) then you can:
 * Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
-Any corrections or suggestions will be thankfully noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
+Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. I've also spoken to many of their employers too.
@@ -320,7 +321,7 @@ Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-f
 ```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhitch)"}
 knitr::include_graphics("images/youtube-hitch.png")
 ```
-(ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir [@everyone]
+(ref:captionhitch) Christopher Hitchens explains the difference between autobiography and memoir. [@everyone] The image in the figure is a screenshot, you can [watch the full 13 second clip here](https://www.youtube.com/watch?v=D6MPebmQSQ0).
 
 #### Thank you professional services staff {#psstaff}   
 

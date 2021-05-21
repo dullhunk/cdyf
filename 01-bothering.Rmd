@@ -5,11 +5,11 @@
 
 The first part of this book is about designing your future. So before we get started, let's tackle a fundamental design issue. Why the hell would you want to bother surveying your future? Why should you bother with reading this pesky guidebook when you have so many other things to do right now:
 
- * You are a busy person, YES! ☑️
- * Your time is a precious and finite resource, YES! ☑️
- * You could be spending that precious time right now in lots of other ways, YES! ☑️
- * There are mountains of self-help guides and courses already, YES! ☑️
- * Do you really need *yet another* guidebook? YES! ☑️
+ * ✅  You are a busy person, YES!
+ * ✅  Your time is a precious and finite resource, YES!
+ * ✅  You could be spending that precious time right now in lots of other ways, YES!
+ * ✅  There are mountains of self-help guides and courses already, YES!
+ * ✅  Do you really need *yet another* guidebook? YES!
 
 You need this guidebook because it is different to all the other guidebooks! It will help you design, test, build, code and debug your future in computing. Come with me down the rabbit-hole in Figure \@ref(fig:rabbit-fig) and let me explain... 🐇
 
@@ -207,7 +207,7 @@ While this guidebook cites lots of resources, some of them are more important th
 
 We're not suggesting that you read *all* these books right now, but that if a particular chapter has piqued your interest, these signposts are good places to keep going, if you haven't already read them. I hope you'll find these signposts handy for navigating the mountains of advice. Not all who wander are lost. 🗺️🧭
 
-### Guiding your future  {#study}
+### Your future is guided  {#study}
 This guidebook to your future accompanies a course that has been co-designed by students for students, with input from academics and employers. It unites several disparate themes into one coherent story, from fundamental questions about identity and wellbeing through to more applied and practical advice on job hunting, career progression and life after University. Resources that do this are typically scattered around in many different places. There is usually no narrative to tie them all together to help students navigate the mountains of advice as embark on the first stages of their careers.
 
 Although this is a course guidebook used in the second year undergraduate teaching, you don't need to be enrolled on the course to benefit from reading it, watching the videos and doing the exercises and coding challenges.
@@ -231,7 +231,7 @@ include_tweet("https://twitter.com/psd/status/568324759521501184")
 ```
 
 
-### I'm deliberately writing in first person narrative {#firstperson}
+### Your future is first person {#firstperson}
 A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told stories to illustrate key points.
 
 ### Your future has no paywall {#openaccess}
@@ -254,8 +254,8 @@ This book is not just words and pictures, but includes audio and video as well, 
 1. short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
 1. the coding your future podcast which interviews undergraduate students
 
-## Engaging your future
-I've tried to make the content of this book as engaging as possible by including pictures and conversations. *Your future* is deliberately playful and light-hearted. If you think it can be improved, [let me know](#joinus). I always welcome constructive feedback, especially when it comes via a pull request.
+## Engaging with your future
+I've tried to make the content of this book as engaging as possible by including pictures and conversations. *Your future* is deliberately playful and light-hearted. If you think it can be improved, let me know via the mechanisms described in section \@ref(joinus). I always welcome constructive feedback, especially when it comes via a pull request.
 
 
 ```{r tweet-from-fonikh,echo=FALSE}
@@ -268,7 +268,7 @@ include_tweet("https://twitter.com/FonikhSoupia/status/1285742247711997954")
 
 Each chapter in this book has a signposts section, highlighting key reading, watching or listening you could do next. This chapter has addressed the question of **why should you bother coding your future**? The answer is that your future is your responsibility and no-one elses. There are lots of people can help shape your future, but none more than yourself. Software engineer [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) argues this point in his book *The Clean Coder: A Code of Conduct for Professional Programmers*. [@cleancoder]
 
-What's good about *The Clean Coder* is that it is short (only 200 pages), well written and to the point. The main part of the book covers professional issues in software engineering, some of which I discuss in [surviving your future](surviving.html), so *The Clean Coder* is an essential signpost for chapter 10 as well.
+What's good about *The Clean Coder* is that it is short (only 200 pages), well written and to the point. The main part of the book covers professional issues in software engineering, some of which I discuss further in chapter \@ref(surviving), *surviving your future*.
 
 
 ## Summarising your future {#tldr1}

@@ -2,7 +2,7 @@
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, resume or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are your future so how can you debug your future? 🐛
+It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, resume or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
 
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)"}
@@ -102,6 +102,7 @@ knitr::include_graphics("images/youtube-google-recruiters.png")
 
 (ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your resume. [@youtube-google-recruiters] The image in this figure is a screenshot, you can [watch the eight minute resume tips video here](https://www.youtube.com/watch?v=BYUy1yvjHxE).
 
+<!-- this doesn't really fit here in structure, is there somewhere better? -->
 As Jonathan Black, director of the careers service at the University of Oxford has pointed out, [@topnotchcv] a key part of your story that you want to communicate in your CV is that you :
 
 1. take responsibility
@@ -116,6 +117,25 @@ knitr::include_graphics("images/youtube-jonathan-black.png")
 ```
 (ref:captionjonathanblack) [Jonathan Black](https://twitter.com/jonathanpblack), head of the careers service at the University of Oxford,  explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. [@topnotchcv] The image in this figure is a screenshot, you can [watch the 11 minute video on creating a top notch CV here](https://www.youtube.com/watch?v=yjdvCHWVtE4).
 
+Quantify and provide evidence of any claims you make. This can turn meaningless assertions described in figure \@ref(fig:black-fig) into meaningful evidence. So for example:
+
+```md
+* Achieved excellent results
+```
+
+...is a bit vague, what were the results exactly, can you measure them somehow? Or at least describe them?
+
+```md
+* Worked in a team
+```
+
+So you worked in a team. Worked is vague. What was your role and contribution? How long did the project last? How many people were on your team?  
+
+```md
+* Awarded scholarship / prize
+```
+
+Congratulations but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given?
 
 ### Your header {#mycvpd}
 
@@ -144,7 +164,7 @@ Unless you have significant amount of experience, the education section of your 
 * Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
 * Keeping it short and sweet, without getting bogged down in the details.
 
-You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line “*BSc Computer Science*”. You'll need to say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf) (for example) but not as much as [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give two decimal places (it happens). Pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
+You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf) (for example) but not as much as [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give two decimal places (it happens). Pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
 
 ### Your experience {#mycvex}  
 
@@ -156,8 +176,7 @@ knitr::include_graphics("images/What have you done.png")
 
 (ref:captionwhathaveudone) Are you experienced? What have you done outside of your formal academic education? Experience sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-
-If you don't have much experience, don't worry, there are plenty of opportunities to get some. For details, see [are you experienced](experiencing.html)?
+If you don't have much experience, don't worry, there are plenty of opportunities to get some. For details, see chapter \ref(experiencing) *experiencing your future*.
 
 ### Your projects {#mycvpj}
 
@@ -168,7 +187,7 @@ The word “Projects” is a powerful catch-all description for capturing all ot
 * entrepreneurial projects
 * University projects
 
-They will most likely be unpaid because paid work fits better in [your experience](#mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, Dani Stefanovic's [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) repository is a good starting point. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in \@ref(fig:feynman-fig).
+They will most likely be unpaid because paid work fits better under the heading experience, see section \@ref(mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, Dani Stefanovic's [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) repository is a good starting point. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in \@ref(fig:feynman-fig).
 
 
 
@@ -189,7 +208,7 @@ If you've done group projects at University, be sure to mention them. Try to be 
 ```md
 * First year team project
 ```
-or
+or perhaps
 ```md
 * Second year team project
 ```
@@ -198,7 +217,7 @@ or even just
 * Final year project
 ```
 
-Those project names are pretty opaque and don't give the reader much to go on. What was the story (the context, action and result (CAR) we described in section \@ref(carstar)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
+By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. Your projects are important because they differentiate you from everyone else in your year group. What was the story (the context, action and result (CAR) we described in section \@ref(carstar)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
 
 **This is all excellent CV fodder!**
 
@@ -206,18 +225,20 @@ It's often better to describe what YOU did before you describe what the software
 
 ````md
 * WidgetWasher is a web service that washes widgets
+* Makes use of an HTTP API using secret keys
 * Tested WidgetWasher on a range of different operating systems
-* Collaborated with one other contributor for two days at a hackathon using pair programming
-* Designed and implemented an API using a RESTful approach
+* Collaborated with one other contributor over two days
+* Designed and implemented an API
 ````
 
 
 Instead, you could reverse the order to change the emphasis like this:
 
 ````md
-* Designed and implemented an API using a RESTful approach
-* Collaborated with one other contributor for two days at a hackathon using pair programming
+* Designed and implemented an API
+* Collaborated with one other contributor over two days
 * Tested WidgetWasher on a range of different operating systems
+* Makes use an HTTP API using secret keys
 * WidgetWasher is a web service that washes widgets
 ````
 
@@ -255,7 +276,7 @@ knitr::include_graphics("images/CV need a little work.png")
 ```
 (ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are interviewed, so its important to spend time getting it right. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`
+Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`.
 
 It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX: LaTeX4year1](https://latex4year1.netlify.app/) if you've not used LaTeX before (or you need to refresh your memory). [@latex4year1]
 
@@ -308,10 +329,7 @@ knitr::include_graphics("images/an-engineering-state-of-mind.png")
 
 If you're struggling to fit all the information onto a one page resume, revisit each section and item carefully. Is there anything you can drop? Can you save a wasteful word here, or a lazy line there? Check for any spurious line breaks because every pixel counts. Don't throw your two page CV away, it is still a good store of stuff you might want to add to customised one-page resumes.
 
-
-
-
-### Verbs first {#verbsfirst}
+### Verbs first: lead with your actions {#verbsfirst}
 
 A simple but effective technique for emphasising what you have done, rather than just what you know, is to start the description of it with a verb. Employers don't just want to know what you know, but what you have actually done. So, for example, instead of saying e.g.
 
@@ -332,7 +350,7 @@ followed by:
 ````
 
 
-The latter examples get to the point much quicker and avoid the problem of using “I, me, my” too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression.
+The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression.
 
 ### Your links {#links}
 
@@ -432,22 +450,22 @@ Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
 
 ## Big Bad Buglist {#checklist}
 
-A quick check-list of commons bugs
+A quick debugging check-list for your CV before you send it to anyone:
 
 1. ✅ Has it been reviewed by several people? Given enough eyeballs all bugs are shallow
 1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(sampling)
 1. ✅ Has a resume robot checked it? See section \@ref(robotproof)
-1. ✅ Does the style look good? Is it easy on the eye?
+1. ✅ Does the style look good? Is it easy on the eye? See section \ref(pdf)
 1. ✅ Is there adequate whitespace (not too much or too little)?
 1. ✅ Is everything relevant? e.g. no swimming certificates from ten years ago?
-1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear?
+1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you spell-checked both manually and with software?
 1. ✅ Have you added context using relevant hyperlinks? See section \@ref(links)
 1. ✅ Is it in reverse chronological order?
-1. ✅ Have you avoided using too many personal pronouns? `# I, me, my ... everywhere?`
+1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
 1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
 1. ✅ Have you mentioned courses you are studying now (or next semester)?
-1. ✅ Is it targeted to an employer or job description?
+1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref()
 1. ✅ Is it balanced, including technical and non-technical soft skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings see section \@ref(mycvpd)?
 1. ✅ Have you clearly distinguished between paid and unpaid or voluntary work?
