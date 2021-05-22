@@ -894,6 +894,15 @@ The first part of this book is about designing your future. So before we get sta
 
 You need this guidebook because it is different to all the other guidebooks! It will help you design, test, build, code and debug your future in computing. Come with me down the rabbit-hole in Figure \ref{fig:rabbit-fig} and let me explain\ldots{} 🐇
 
+\textbf{RStudio Tip}: There are two convenient ways to create a new app in RStudio:
+
+\begin{itemize}
+\item
+  Create a new directory and an \texttt{app.R} file containing a basic app in one step by clicking \textbf{File \textbar{} New Project}, then selecting \textbf{New Directory} and \textbf{Shiny Web Application}.
+\item
+  If you've already created the \texttt{app.R} file, you can quickly add the app boilerplate by typing ``shinyapp'' and pressing Shift+Tab.
+\end{itemize}
+
 \begin{figure}
 
 {\centering \includegraphics[width=0.7\linewidth]{images/Rabbit-hole} 
@@ -2660,7 +2669,7 @@ By the end of this chapter you will be able to
 \hypertarget{blackhole}{%
 \section{Beware of the black hole}\label{blackhole}}
 
-Before we get started, let's consider some advice from software engineer \href{https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell}{Gayle Laakmann McDowell} shown in figure \ref{fig:gayle-fig}. Gayle is an experienced software engineer who has worked at the biggest technology employers in the world, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly \emph{Cracking the Coding Interview} \citep{cracking} which we'll come across in the \href{interviewing.html}{chapter on interviewing}. Gayle refers to the employer ``black hole'':
+Before we get started, let's consider some advice from software engineer \href{https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell}{Gayle Laakmann McDowell} shown in figure \ref{fig:gayle-fig}. Gayle is an experienced software engineer who has worked at the \href{https://en.wikipedia.org/wiki/Big_Tech}{biggest technology employers in the world}, Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly \emph{Cracking the Coding Interview} \citep{cracking} which we'll come across in the \href{interviewing.html}{chapter on interviewing}. Gayle refers to the employer ``black hole'':
 
 \begin{figure}
 
@@ -2697,9 +2706,11 @@ In contrast, buggy CVs are rarely tolerated, they will usually end up in the bin
 
 Like writing software, the challenging part of writing a CV isn't the \emph{creation} but in the \emph{debugging}. Can you identify and fix the bugs before they are fatal?
 
-\begin{quote}
+::: \{.rmdnote\}
+
 DISCLAIMER: If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's can be very subjective thing. The advice below is based on common sense, experience and ongoing conversations with employers. What makes a good CV will depend on the personal preferences and prejudices of your reader. There are some general rules, which are described below.
-\end{quote}
+
+:::
 
 While referring to this guide, remember that:
 
@@ -3700,7 +3711,7 @@ Congratulations, you've been invited to an interview. It might be a telephone, v
 
 
 
-Having passed the first stage, you move onto speaking and listening which you'll do in a live interview. One of your goals is to convince the interviewers that you can articulate yourself clearly, and communicate well using spoken natural language, while listening carefully to questions that they ask. Remember this is part of fundamental skill we talked about in \protect\hyperlink{communication-i0}{communication I/O}
+Having passed the first stage, you move onto speaking and listening which you'll do in a live interview. One of your goals is to convince the interviewers that you can articulate yourself clearly, and communicate well using spoken natural language, while listening carefully to questions that they ask. This is fundamental skill discussed in section \ref{communication-i0} on communication I/O.
 
 If you've got an interview, you can feel good about having a bug-free CV shown in Figure \ref{fig:bugfree-fig}. But now you have a new set of problems. How can you prepare for the interview? What kinds of interviews exist and what questions might you be asked? If they offer you a job, how will you negotiate the terms, conditions and salary? Do you \emph{really} want the job anyway and are they the kind of people you actually want to work with everyday? You'll be giving this employer:
 
@@ -4230,7 +4241,7 @@ There are many online platforms for building your skills and knowledge, some exa
   \href{https://www.youtube.com/}{youtube.com}
 \end{enumerate}
 
-The choice of online learning can be bewildering. Some platforms provide free resources, others do not, but your employer may subscribe to these services making them free to you while you are an employee. If that's the case, make good use of the services while you can. There's a \href{https://www.businessinsider.com/online-learning-platform-comparison-udemy-skillshare-lynda-coursera}{good comparison of four different online learning platforms here}. \citep{udemy}
+The choice of online learning can be bewildering. Some platforms provide free resources, others do not, but your employer may subscribe to these services making them free to you while you are an employee. If that's the case, make good use of the services while you can. There's a \href{https://www.businessinsider.com/online-learning-platform-comparison-udemy-skillshare-lynda-coursera}{useful comparison of four different online learning platforms here}. \citep{udemy}
 
 \hypertarget{othertrain}{%
 \subsection{Other training course}\label{othertrain}}
@@ -4536,7 +4547,7 @@ There's at leat three solutions to this problem:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  \protect\hyperlink{dogfooding}{dogfooding} we've already talked about, read your work ALOUD
+  \protect\hyperlink{dogfooding}{Dogfooding} we've already talked about in section \ref{dogfooding}, read your work ALOUD
 \item
   ``I'll show you mine if you show me yours.''
 
