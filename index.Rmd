@@ -223,19 +223,19 @@ If you'd like to contribute this guidebook, I welcome constructive feedback. The
 
 ### For techies {#techies}
 
-If you're familiar with the tools used to create this book you can:
+If you're familiar with git and markdown you can:
 
 * Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the **Edit this page** link, which appears on the right hand side of every page published at [cdyf.me](https://www.cdyf.me)
 * Help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests yet, see [makeapullrequest.com](http://makeapullrequest.com/)
-* `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
+* From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
 
 ### For everyone else {#elseif}
 
 If you don't want to use Git or [github.com](https://github.com/) then you can:
 
-* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (tablet, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as in the pdf version.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
@@ -353,7 +353,7 @@ knitr::include_graphics("images/bath-panorama.png")
 ```
 (ref:captionbath) Panorama of the world heritage site and Georgian City of [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset). Image cropped from an original by David Iliff available under CC BY-SA 3.0 license via Wikimedia Commons at [w.wiki/32BS](https://w.wiki/32BS)
 
-Thanks Bath for the initial teacher training (ITT), the medicinal [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotwolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)). 🙏
+Thanks Bath for the initial teacher training (ITT), the medicinal [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotswolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)). 🙏
 
 ### Thank you Shaftesbury {#shaftesbury}
 Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers, Caroline Moss and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement. Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their hard won knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long and winding west country roads to and from deepest darkest Dorset. Thanks for sharing the heavy burden of driving too.
