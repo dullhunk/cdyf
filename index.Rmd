@@ -126,7 +126,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into three parts. The first part is on [designing your future](bothering.html) while the second is on [building and testing your future](debugging.html) shown in the map in figure \@ref(fig:map-fig). The final part is a [help](ruling.html) section, for rebooting your future. Let's look in a bit more detail at the content of each of the three parts of this guidebook:
+This guidebook is split into three parts. The first part (Chapters \@ref(bothering) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(studying)) are on building and testing your future shown in the map in figure \@ref(fig:map-fig). The final part is a help section for supporting your future from chapters \@ref(ruling) to \@ref(reading). Let's look in a bit more detail at the content of each of the three parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map.png")
@@ -209,7 +209,7 @@ knitr::include_graphics("images/goldengate.png")
 1. **Discussing** your future: [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) invite you to stop your code from executing and think about the variables and parameters you are using. Can they be improved? Reflect and discuss.
 1. **Reading** your future: reading stuff because its good for your mind, body and soul. Read The Friendly Manual. [RTFM](https://en.wikipedia.org/wiki/RTFM). Read THIS Friendly Manual.
 1. **Writing** your future: written exercises using natural language
-1. **Quizzing** your future: quick quizzes to be done in [real-time live scheduled sessions](scheduling.html) (synchronously) and in your own time (asynchronously)
+1. **Quizzing** your future: quick quizzes to be done in real-time live scheduled sessions described in chapter \@ref(scheduling) (synchronously) and in your own time (asynchronously)
 1. **Assessing** your future: activities to be assessed by yourself, your peers, an employer or an academic (depending on who and where you are)
 1. **Challenging** your future: coding challenges are designed to take you out of your comfort zone by encouraging you to experiment with your thoughts, discussions and actions
 1. **Signposting** your future: the most useful resources that I recommend you read, listen to or watch
@@ -227,9 +227,9 @@ If you're familiar with git and markdown you can:
 
 * Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the **Edit this page** link, which appears on the right hand side of every page published at [cdyf.me](https://www.cdyf.me)
-* Help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
+* Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests yet, see [makeapullrequest.com](http://makeapullrequest.com/)
-* From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository to submit pull requests from your setup
+* From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your setup
 
 ### For everyone else {#elseif}
 
@@ -243,7 +243,7 @@ If you don't want to use Git or [github.com](https://github.com/) then you can:
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
 ## Acknowledgements {#thanks}
-The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. I've also spoken to many of their employers too.
+The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. It is also based on conversations I've had with many of their employers too.
 
 ### Thank you students {#students}
 First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly.
