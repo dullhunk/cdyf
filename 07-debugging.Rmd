@@ -293,21 +293,25 @@ One way to structure descriptions of items within each section of your CV is to 
 * **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something?
 * **RESULT**: What was the result and how can you measure it? You picked up some knew skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster?
 
-Similar to CAR and STAR, recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe things using “Accomplished [X], as measured by [Y], by doing [Z]”
+Similar to CAR and STAR, recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe things using this pattern:
 
-So instead of saying
+````md
+* Accomplished [X], as measured by [Y], by doing [Z]
+````
+
+So instead of just saying:
 
 ````md
 * generated reports for end users.
 ````
 
-You could say
+You could say:
 
 ````md
 * Generated daily reconciliation report for team by automating workflow of 8 different tasks
 ````
 
-The second is better because its more specific, captures the result (accomplishment), by quantifying it ( “as measured by”) and talks about the actions (the doing part).
+The latter is better because it is more specific, captures the result (accomplishment), by quantifying it ( “as measured by”) and talks about the actions (the doing part).
 
 
 ### Your length {#length}
@@ -450,7 +454,7 @@ Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
 * Should you have a personal statement on your CV?
 * One column or two column layout?
 * Should I put education or experience first?
-* How many of my hobbies and personal interests should I list?
+* How many of my [hobbies and personal interests should I list](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv)?
 * How many employers actually read cover letters?
 
 ## Big Bad Buglist {#checklist}
@@ -469,7 +473,7 @@ A quick debugging check-list for your CV before you send it to anyone:
 1. ✅ Is it in reverse chronological order?
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
 1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
-1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref({mycved)
+1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref(mycved)
 1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
 1. ✅ Is it balanced, including both technical and non-technical (soft) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings see section \@ref(mycvpd)?
