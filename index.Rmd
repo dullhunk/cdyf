@@ -511,7 +511,7 @@ The *text* of this guidebook is published under the [Creative Commons Attributio
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed CC-BY-ND, see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under CC-BY or CC-BY-SA or public domain. Each figure caption gives details of its licence.
+The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details of its licence.
 
 ```{r kapow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkapow)"}
 knitr::include_graphics("images/CC-attribution-1.png")
