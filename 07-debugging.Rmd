@@ -208,7 +208,7 @@ Another good source of projects is to [fix a bug in an open source project](http
 
 <!-- see open source motivations https://bryanmmathers.com/open-source-motivations/ -->
 
-If you've done group projects at University, be sure to mention them. Try to be *more* descriptive than this:
+If you've done group projects at University, be sure to mention them. Your projects are important because they differentiate you from everyone else in your year group. Try to be *more* descriptive than this:
 
 ```md
 * First year team project
@@ -222,7 +222,7 @@ or even just
 * Final year project
 ```
 
-By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. Your projects are important because they differentiate you from everyone else in your year group. What was the story (the context, action and result (CAR) we described in section \@ref(carstar)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
+By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. What was the story (the context, action and result (CAR) we described in section \@ref(carstar)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
 
 **This is all excellent CV fodder!**
 
@@ -230,7 +230,7 @@ It's often better to describe what YOU did before you describe what the software
 
 ````md
 * WidgetWasher is a web service that washes widgets
-* Makes use of an HTTP API using secret keys
+* Makes use of an HTTP API and secret keys
 * Tested WidgetWasher on a range of different operating systems
 * Collaborated with one other contributor over two days
 * Designed and implemented an API
@@ -243,7 +243,7 @@ Instead, you could reverse the order to change the emphasis like this:
 * Designed and implemented an API
 * Collaborated with one other contributor over two days
 * Tested WidgetWasher on a range of different operating systems
-* Makes use an HTTP API using secret keys
+* Makes use of an HTTP API and secret keys
 * WidgetWasher is a web service that washes widgets
 ````
 
@@ -265,7 +265,7 @@ This applies to soft skills too, not just hard technical skills. Best to mention
 
 * keep it short (one or two lines maybe) but don't dedicate a whole section to it
 * stick to your strongest and most relevant skills that you are comfortable to answer questions on in your interview
-* Microsoft Office is *not* generally a very interesting skill because everyone has it. Don't waste space talking about it unless you've done something very advanced with it, like some complicated integration with other software.
+* Microsoft Office is *not* generally a very interesting skill because everyone has it. Don't waste space talking about it unless you've done something advanced with it, like some complicated integration with other software.
 
 If you're a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly. You can also think logically, reason, problem solve, analyse, generalise, criticise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in any specific technical skills you may or may not have.
 
@@ -283,7 +283,7 @@ knitr::include_graphics("images/CV need a little work.png")
 
 Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web or email. PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`.
 
-It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before (or you need to refresh your memory). [@latex4year1]
+It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
 
 ### What's your story, coding glory? {#carstar}
 
@@ -469,9 +469,9 @@ A quick debugging check-list for your CV before you send it to anyone:
 1. ✅ Is it in reverse chronological order?
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
 1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
-1. ✅ Have you mentioned courses you are studying now (or next semester)?
+1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref({mycved)
 1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
-1. ✅ Is it balanced, including technical and non-technical soft skills? See section \@ref(casual)
+1. ✅ Is it balanced, including both technical and non-technical (soft) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings see section \@ref(mycvpd)?
 1. ✅ Have you clearly distinguished between paid and unpaid or voluntary work?
 
