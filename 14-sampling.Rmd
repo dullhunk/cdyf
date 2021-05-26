@@ -4,6 +4,15 @@
 
 It's very easy to overlook mistakes in your own writing. That's true of any written communication such as a covering letter, personal statement, email or message that you write. Overlooked mistakes are particularly common in CVs (or resumes) because you can spend *hours* carefully honing the words and the formatting but not see a fatal error at the top of page one.
 
+<!-- CVs todo
+
+* miscellaneous section
+* too much colour e.g. https://www.overleaf.com/latex/templates/infographics-cv/hdgkztmhztph
+* marge conflict
+* polina morphism
+-->
+
+
 ## Debug their CV
 
 There's at leat three solutions to this problem:
@@ -13,7 +22,7 @@ There's at leat three solutions to this problem:
     + Debug a friends or peers CV by swapping with them.
 1. Debug the fictitious CVs below
 
-So, here are some fictitious CVs for you to debug, from students of Computer Science. They are based on CVs I've seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can you debug their CV against the sample job description at CoolTech below? Can you find their future?
+So, here are some fictitious CVs for you to debug, from students of Computer Science. They are based on CVs I've seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can you debug their CV against the sample job description at CoolTech in section \@ref(cooltech)? Can you find their future?
 
 Special thanks to [Toby Howard](https://en.wikipedia.org/wiki/Toby_Howard) and [Sean Bechhofer](https://personalpages.manchester.ac.uk/staff/sean.bechhofer/) for coming up with some of these names. Please direct any complaints about the terrible geeky puns to Toby and Sean! Thanks also Ben Carter and Penny Gordon Lanes in the careers service at the University of Manchester, some of these CVs are based on examples they have collected and anonymised. 🙏
 
@@ -76,7 +85,7 @@ knitr::include_graphics("images/flo_ting_point.png")
 
 ### Peter Byte {#peter-byte}
 
-Peter and his twin sister Peta, both love big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with nine siblings, Deca, Hector, Kilo, Mega, Giga, Terry, Exa, Zita and Yotta. They are wildly ambitious, but critics say the Byte family have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
+Peter and his [twin sister Peta](https://en.wikipedia.org/wiki/Peta_(given_name)), both love big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with nine siblings, Deca, Hector, Kilo, Megan, Giga, Terry, Exa, Zita and Yotta. They are wildly ambitious, but critics say the Byte family have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
 
 ```{r peterbyte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpeter)"}
 knitr::include_graphics("images/peter_byte.png")

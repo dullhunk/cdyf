@@ -36,7 +36,7 @@ Employers use terms to describe jobs for undergraduates and graduates inconsiste
 jobterm_table <- tibble::tribble(
   ~ "Name", ~ "Employment contract",
   "Insight", "Usually no contract. One to three weeks, sometimes known as work experience, work shadowing, spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Usually unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
-  "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree",
+  "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree.",
   "Placement", "Fixed term contract, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as “sandwich” years because they typically take place somewhere around the middle of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
   "Graduate job", "Full-time permanent contract typically working in one department of an organisation",
   "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier scheme, up to two years, often rotating round different departments in an organisation"
@@ -62,9 +62,9 @@ The following job finding resources are specifically aimed at undergraduate stud
 
 ### More general resources {#generaljobs}
 
-These following job finding resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
+The following job finding resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
 
-* Google job search indexes jobs advertised by many ([but not all](https://www.bbc.co.uk/news/technology-44853472)) of the resources mentioned in this chapter. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in an regular google search will trigger the job search product:
+* Google job search indexes jobs advertised by many of the resources mentioned in this chapter. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) based on [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in an regular google search will trigger the job search product:
 
     -[google.com/search?q=software+engineering+intern+manchester](https://www.google.com/search?q=software+engineering+intern+manchester)
 
@@ -76,7 +76,7 @@ These following job finding resources are aimed at a wider audience (not just st
 
     -[google.com/search?q=data+scientist+placement](https://www.google.com/search?q=data+scientist+placement)
 
-    -If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/)
+    -Google job search is an impressive product, but it doesn't index *everything*. See [Google's job hunting service comes to UK](https://www.bbc.co.uk/news/technology-44853472) [@noindeed] If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/), see also section \@ref(bignames)
 
 * [LinkedIn](http://www.linkedin.com) advertises job vacancies, is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job) and you can often [apply for jobs directly on LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) (athough [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)). See [university.linkedin.com/linkedin-for-students](https://university.linkedin.com/linkedin-for-students) and [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
 * [glassdoor.co.uk](http://www.glassdoor.co.uk/) is like tripadvisor for jobs. Find out what it's *really* like to work for given employers from current and former employees. A student oriented version can be found at [glassdoor.com/Students](https://www.glassdoor.com/Students), this means you can use it without writing a review of a previous employer (which is what non-student users have to do to access the content)
@@ -127,7 +127,7 @@ Most job adverts are legitimate but you are vulnerable when you are job hunting.
 * Excessive personal data such birth dates, passport numbers and bank details. These could be used for identity theft, fraud or other criminal activities
 * See for example [google.com/search?q=job+scams](https://www.google.com/search?q=job+scams)
 
-Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track. 
+Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track.
 
 ### Beware of over-specified jobs {#overspec}
 Employers and recruiters routinely over-specify job descriptions. A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC) in California, job adverts instantly appeared asking for programmers with `5 years experience in Swift`! How can *anyone* have five years experience in a programming language that's only just been made public?! Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the recruiters and employers must have had a *long* search trying to find their candidate. It must have taken them at least five years!

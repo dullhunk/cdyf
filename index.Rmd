@@ -126,7 +126,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into three parts. The first part (Chapters \@ref(bothering) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(studying)) are on building and testing your future shown in the map in figure \@ref(fig:map-fig). The final part is a help section for supporting your future from chapters \@ref(ruling) to \@ref(reading). Let's look in a bit more detail at the content of each of the three parts of this guidebook:
+This guidebook is split into three parts. The first part (Chapters \@ref(rebooting) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(studying)) are on building and testing your future shown in the map in figure \@ref(fig:map-fig). The final part is a help section for supporting your future (chapters \@ref(ruling) to \@ref(reading)). Let's look in a bit more detail at the content of each of the three parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map.png")
@@ -141,12 +141,12 @@ The first six chapters of this guidebook look at what engineers call *design*. W
 ```{r brooklyn-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblueprint)"}
 knitr::include_graphics("images/brooklyn-bridge-blueprint.png")
 ```
-(ref:captionblueprint) Designing your future is about drawing up a [blueprint](https://en.wikipedia.org/wiki/Blueprint), like this one for the elevation of the [Brooklyn Bridge](https://en.wikipedia.org/wiki/Brooklyn_Bridge) in New York. What does your blueprint look like? Chapter's \@ref(bothering) through to \@ref(computing) will help you design your future.
+(ref:captionblueprint) Designing your future is about drawing up a [blueprint](https://en.wikipedia.org/wiki/Blueprint), like this one for the elevation of the [Brooklyn Bridge](https://en.wikipedia.org/wiki/Brooklyn_Bridge) in New York. What does your blueprint look like? Chapter's \@ref(rebooting) through to \@ref(computing) will help you design your future.
 
 
 Building a career isn't that different to building anything else, you'll need to do some design work and it will probably be iterative. Designing things often involves asking tricky questions. So when you're designing your future you'll need to cover the following:
 
-* Chapter \@ref(bothering): *Surveying your future* discusses why you should bother reading any of this guidebook
+* Chapter \@ref(rebooting): *Rebooting your future* discusses why you should bother reading this guidebook
 * Chapter \@ref(knowing): *Knowing your future* challenges you to reflect on who you are, what makes you unique and why you are here
 * Chapter \@ref(wellbeing): *Nurturing your future* encourages you to take care of your mental and physical health
 * Chapter \@ref(communicating): *Writing your future* explores your soft skills, and how they complement your hard skills and why employers value them so much
@@ -160,7 +160,7 @@ The next six chapters look at building (and testing) your future, what engineers
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
 knitr::include_graphics("images/manhattan_bridge.png")
 ```
-(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've done some design. You don't need a grand design with tonnes of details, a simple sketch will do. Design questions are covered in the first part of this guidebook: [designing your future](bothering.html). Picture of the Manhattan bridge under construction in 1909 adapted from a public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
+(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've done some design. You don't need a grand design with tonnes of details, a simple sketch will do. Design questions are covered in the first part of this guidebook on designing your future. Picture of the Manhattan bridge under construction in 1909 adapted from a public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
 
 Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
@@ -182,7 +182,7 @@ knitr::include_graphics("images/clifton.png")
 
 * Chapter \@ref(ruling): *Ruling your future* provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
 * Chapter \@ref(sampling): *Reading their future* invites you to put yourself in the employers shoes by reading some CVs
-* Chapter \@ref(notjustlondon): *Moving your future* looks at opportunities outside of capital cities like London
+* Chapter \@ref(moving): *Moving your future* looks at opportunities outside of capital cities like London
 * Chapter \@ref(listening): *Hearing your future* invites you to listen to students stories of their transition from education to employment
 * Chapter \@ref(actioning): *Actioning your future* gets you to think about your actions by emphasising verbs on your job applications
 * Chapter \@ref(scheduling): *Scheduling your future* is the live synchronous sessions for this course, if you're not participating in these, schedule a time every day or week for personal development

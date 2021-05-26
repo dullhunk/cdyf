@@ -78,7 +78,7 @@ While referring to this guide, remember that:
 * Bullet points with verbs first (see section \@ref(verbsfirst)) will:
   + allow your reader to quickly scan your CV ([employers don't read CVs, they scan them](https://readabilityguidelines.co.uk/content-design/how-people-read/)) [@scanning]
   + highlight your key activities
-  + avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose) (which the reader will very probably skip anyway)
+  + avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose) (which the reader will very probably skip anyway) you can use your beautiful prose on your covering letter, see section \@ref(we3qs)
 
 ## Is it a bug or a feature? {#mycv}
 
@@ -169,7 +169,7 @@ Unless you have significant amount of experience, the education section of your 
 * Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
 * Keeping it short and sweet, without getting bogged down in the details.
 
-You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf) (for example) but not as much as [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give two decimal places (it happens). Pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
+You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf) (for example) but not as much as [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give your result to FOUR significant figures (it happens). Two significant figures will do just fine. You might like to pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
 
 ### Your experience {#mycvex}  
 
@@ -293,7 +293,7 @@ One way to structure descriptions of items within each section of your CV is to 
 * **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something?
 * **RESULT**: What was the result and how can you measure it? You picked up some knew skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster?
 
-Similar to CAR and STAR, recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe things using this pattern:
+Similar to CAR and STAR, recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe your experience and projects using this simple pattern:
 
 ````md
 * Accomplished [X], as measured by [Y], by doing [Z]
@@ -311,7 +311,7 @@ You could say:
 * Generated daily reconciliation report for team by automating workflow of 8 different tasks
 ````
 
-The latter is better because it is more specific, captures the result (accomplishment), by quantifying it ( “as measured by”) and talks about the actions (the doing part).
+The latter is better because it is more specific, captures the result (accomplishment), by quantifying it ( “as measured by”) and talks about the actions (the doing part). Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
 
 
 ### Your length {#length}
@@ -359,7 +359,7 @@ followed by:
 ````
 
 
-The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression.
+The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, but too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
 
 ### Your links {#links}
 
@@ -402,7 +402,7 @@ Besides LinkedIn you could include public profiles from [github](https://docs.gi
 
 ### Robot proofing your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different robotic systems, though it is a good idea to remove any personal information like phone numbers etc before using these free services. You might also want to check what the services privacy policy says about what they do with you personal data. Resume robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with you personal data. Resume robots include:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 * [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV
@@ -470,12 +470,12 @@ Here is a quick debugging check-list for your CV before you send it off to an em
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you spell-checked both manually and with software?
 1. ✅ Have you added context using relevant hyperlinks? See section \@ref(links)
-1. ✅ Is it in reverse chronological order?
+1. ✅ Is it in reverse chronological order? Most recent things first.
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
 1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
 1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref(mycved)
 1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
-1. ✅ Is it balanced, including both technical and non-technical (soft) skills? See section \@ref(casual)
+1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings see section \@ref(mycvpd)?
 1. ✅ Have you clearly distinguished between paid and unpaid or voluntary work?
 
