@@ -38,23 +38,23 @@ But why should everyone be studying computing? There are social and economic arg
 
 ### Computing is creative and expressive {#creative}
 
-At school, everyone learns to the read, write and do maths, sometimes known as [the three Rs](https://en.wikipedia.org/wiki/The_three_Rs). But:
+At school, everyone learns to the read, write and do maths. These are sometimes known as [the three Rs](https://en.wikipedia.org/wiki/The_three_Rs) but:
 
 * Why did you learn to read and write? Was it so that you could become a professional writer?
 * Why did you study mathematics? Was it so that you could become a professional mathematician?
 
 Of course not, that would be ludicrous! You learned to read and write because they are fundamental tools for expressing yourself and communicating with other people. You studied maths so that you could develop numeracy, reason about the world around you, analyse data and solve problems.
 
-So why should everyone learn about computing? Is it so that everyone can become software engineers? Again, this is ludicrous.
+So why should everyone learn about computing? Is it so that everyone can become software engineers? Why should you learn about computing? Is it so that you can become a software engineer? Again, this is ludicrous.
 
-You should study computing for the same reasons you studied maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](hhttps://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
+Everyone should study computing for the same reasons everyone studies maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](hhttps://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
 
 ```{r sonicpi-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsonicpi)"}
 knitr::include_graphics("images/youtube-sonicpi.png")
 ```
 (ref:captionsonicpi) Sam Aaron puts the creative case for computing by discussing programming as performance in his TEDx talk. [@youtube-sonicpi] The image in this figure is a screenshot, [watch the 18 minute video on programming as performance here](https://www.youtube.com/watch?v=0lTZ8Tuyu5I).
 
-Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. Have a look at Silvio Peroni's free [comp-think](https://comp-think.github.io/) book, on computational thinking and programming skills for people with a background in the humanities. [@peroni]
+Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. Have a look at Silvio Peroni's free [comp-think](https://comp-think.github.io/) book, on computational thinking and programming skills for people with a background in the humanities instead. [@peroni]
 
 ### Computing is eating the world {#eating}
 Besides the social arguments, there are also strong economic reasons for studying computing. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) argued that [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). [@eatingtheworld] It's actually the combination of software *and* hardware that dominates the list of the world's largest corporations by market capitalisation, shown in figure \@ref(fig:market-fig). So it's not just software that's eating the world but computing.

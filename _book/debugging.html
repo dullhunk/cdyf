@@ -180,20 +180,21 @@ doesn't work for some unknown reason
 <span class="header-section-number">7.4</span> Is it a bug or a feature?<a class="anchor" aria-label="anchor" href="#mycv"><i class="fas fa-link"></i></a>
 </h2>
 <p>Wherever criticism of your CV comes from, don’t take it personally - it is probably one of the first you have written. Think of your current CV as an alpha or beta version that you continuously test, release and redeploy. There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV’s are a common example of this.</p>
+<!-- this repeats the checklist at the end and needs moving-->
 <ol style="list-style-type: decimal">
 <li>
-<strong>EDUCATION</strong>: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See <a href="debugging.html#mycved">Education</a>
+<strong>EDUCATION</strong>: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section <a href="debugging.html#mycved">7.5.2</a>
 </li>
 <li>
 <strong>STYLE</strong>: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don’t just rely on a spellchecker, some typos can only be <del>spitted</del> spotted by a human reader</li>
 <li>
-<strong>LENGTH</strong>: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See <a href="debugging.html#length">your length</a>
+<strong>LENGTH</strong>: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section <a href="debugging.html#length">7.6.3</a>
 </li>
 <li>
 <strong>STRUCTURE</strong>: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section <a href="debugging.html#mycvst">7.5</a>
 </li>
 <li>
-<strong>VERBS FIRST</strong>: Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? Avoid long sections of prose. See section <a href="debugging.html#verbsfirst">7.6.4</a>
+<strong>VERBS FIRST</strong>: Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? Avoid long sections of prose, see section <a href="debugging.html#verbsfirst">7.6.4</a>
 </li>
 <li>
 <strong>RESULTS</strong>: Have you also demonstrated and <em>quantified</em> the outcomes of your actions where possible, see Context, Action &amp; Result (CAR) in section <a href="debugging.html#carstar">7.6.2</a>
@@ -245,8 +246,8 @@ Figure 7.4: <a href="https://twitter.com/jonathanpblack">Jonathan Black</a>, hea
 <p>The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in Figure <a href="debugging.html#fig:turinghead-fig">7.5</a> for Alan Turing. That’s it!</p>
 <div class="figure" style="text-align: center">
 <span id="fig:turinghead-fig"></span>
-<img src="images/alan-turing-header.png" alt="Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything additional information risks wasting valuable space and distracting your reader." width="98%"><p class="caption">
-Figure 7.5: Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything additional information risks wasting valuable space and distracting your reader.
+<img src="images/alan-turing-header.png" alt="Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader." width="98%"><p class="caption">
+Figure 7.5: Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 </p>
 </div>
 
@@ -254,7 +255,7 @@ Figure 7.5: Keep the header of your CV simple. Just your name, email phone numbe
 <ol style="list-style-type: decimal">
 <li>🎓 Education: the formal stuff</li>
 <li>💰 Experience: paid work</li>
-<li>💪 Projects: side, social or University projects</li>
+<li>💪 Projects: personal, social, side or University projects</li>
 <li>👑 Activities and leadership</li>
 <li>🏆 Awards and honours</li>
 </ol>
@@ -488,7 +489,8 @@ Figure 7.12: Although they often struggle to get up the stairs, resume robots ar
 <ul>
 <li>Have you used standard headings for the sections? Non-standard sections maybe ignored or misunderstood</li>
 <li>Have you used appropriate verbs to describe your actions?</li>
-<li>Is your layout and design robot friendly?</li>
+<li>Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see <a href="https://www.jobscan.co/blog/resume-tables-columns-ats/">What Happens to Resume Tables and Columns in an ATS</a> <span class="citation">(<a href="reading.html#ref-jobscan" role="doc-biblioref">Shields 2019</a>)</span>
+</li>
 </ul>
 </div>
 <div id="referees" class="section level3" number="7.6.7">
@@ -534,23 +536,21 @@ show me the money!-->
 </div>
 <div id="checklist" class="section level2" number="7.8">
 <h2>
-<span class="header-section-number">7.8</span> Big Bad Buglist<a class="anchor" aria-label="anchor" href="#checklist"><i class="fas fa-link"></i></a>
+<span class="header-section-number">7.8</span> Checklist: Big Bad Bugs<a class="anchor" aria-label="anchor" href="#checklist"><i class="fas fa-link"></i></a>
 </h2>
-<p>Here is a quick debugging check-list for your CV before you send it off to an employer:</p>
+<p>Here is a quick check-list for debugging your CV before you send it off to an employer:</p>
 <ol style="list-style-type: decimal">
 <li>✅ Has it been reviewed by several people? Because according to <a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus’s law</a> “given enough eyeballs all bugs are shallow”</li>
 <li>✅ Have you reviewed other people’s CV’s? This will help you write a better CV, see chapter <a href="sampling.html#sampling">14</a>
 </li>
 <li>✅ Has a “resume robot” checked it? See section <a href="debugging.html#robotproof">7.6.6</a> 🤖</li>
-<li>✅ Does the style look good? Is it easy on the eye? See section <a href="debugging.html#pdf">7.6.1</a>
-</li>
-<li>✅ Is there adequate whitespace (not too much or too little)? <!-- merge with previous-->
+<li>✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace (not too much or too little)? See section <a href="debugging.html#pdf">7.6.1</a> <!-- merge with previous-->
 </li>
 <li>✅ Is everything relevant? e.g. no swimming certificates from ten years ago?</li>
 <li>✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section <a href="debugging.html#mycved">7.5.2</a>
 </li>
 <li>✅ Have you spell-checked both manually and with software?</li>
-<li>✅ Have you added context using relevant hyperlinks? See section <a href="debugging.html#links">7.6.5</a>
+<li>✅ Have you added context using relevant hyperlinks than an interested reader can click on? See section <a href="debugging.html#links">7.6.5</a>
 </li>
 <li>✅ Is it in reverse chronological order? Most recent things first.</li>
 <li>✅ Have you avoided using too many personal pronouns? <code>I, me, my ...</code> everywhere?</li>
@@ -562,8 +562,10 @@ show me the money!-->
 </li>
 <li>✅ Is it balanced, including both technical and non-technical (softer) skills? See section <a href="experiencing.html#casual">5.3.4</a>
 </li>
-<li>✅ Does it have a good, clear structure? Not too many headings see section <a href="debugging.html#mycvpd">7.5.1</a>?</li>
-<li>✅ Have you clearly distinguished between paid and unpaid or voluntary work?</li>
+<li>✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section <a href="debugging.html#mycvpd">7.5.1</a>?</li>
+<li>✅ Have you clearly distinguished between paid, unpaid and voluntary experience?</li>
+<li>✅ Does it fit comfortably on exactly one page (resume) or a two pages (CV)? Not 1.5 pages or more than two? See section <a href="debugging.html#length">7.6.3</a>
+</li>
 </ol>
 </div>
 <div id="we3qs" class="section level2" number="7.9">
@@ -583,8 +585,8 @@ show me the money!-->
 <h3>
 <span class="header-section-number">7.9.1</span> Does anyone actually READ covering letters?<a class="anchor" aria-label="anchor" href="#elevatorpitch"><i class="fas fa-link"></i></a>
 </h3>
-<p>Some employers will read them very carefully, some less so. It’s not clear which employers will bother and which won’t.</p>
-<p>Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. <a href="https://www.careers.manchester.ac.uk/applicationsinterviews/cl/">www.careers.manchester.ac.uk/applicationsinterviews/cl</a> for further information. Think of it as practicing your <a href="https://en.wikipedia.org/wiki/Elevator_pitch">elevator pitch</a>.</p>
+<p>Some employers will read your covering letter very carefully, others less so. It’s not clear which employers will bother and which won’t.</p>
+<p>Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. <a href="https://www.careers.manchester.ac.uk/applicationsinterviews/cl/">www.careers.manchester.ac.uk/applicationsinterviews/cl</a> for further information. Think of it as practicing the lines of your <a href="https://en.wikipedia.org/wiki/Elevator_pitch">elevator pitch</a>.</p>
 </div>
 </div>
 <div id="tldr7" class="section level2" number="7.10">
@@ -646,7 +648,7 @@ show me the money!-->
 </ul>
 </li>
 <li><a class="nav-link" href="#breakpoints"><span class="header-section-number">7.7</span> Breakpoints</a></li>
-<li><a class="nav-link" href="#checklist"><span class="header-section-number">7.8</span> Big Bad Buglist</a></li>
+<li><a class="nav-link" href="#checklist"><span class="header-section-number">7.8</span> Checklist: Big Bad Bugs</a></li>
 <li>
 <a class="nav-link" href="#we3qs"><span class="header-section-number">7.9</span> Covering letters &amp; personal statements</a><ul class="nav navbar-nav"><li><a class="nav-link" href="#elevatorpitch"><span class="header-section-number">7.9.1</span> Does anyone actually READ covering letters?</a></li></ul>
 </li>

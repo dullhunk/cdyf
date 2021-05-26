@@ -1,6 +1,6 @@
 # Writing your future {#writing}
 
-Your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Your soft skills are hard. There are very few jobs where you work on your own, and most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse membership. This means that sooner or later you're going to have to master the dark arts of *working with other people* by deploying your softer skills. 😱
+Your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Your soft skills are hard. There are very few jobs where you work on your own in complete isoltion. For example, most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse membership. This means that sooner or later you're going to have to master the dark arts of *working with other people* by developing and deploying your softer skills. 😱
 
 <!-- where does written comm fit?
 
@@ -32,7 +32,7 @@ So communicating with and understanding other people can be hard work, but don't
 * Identify the importance of teamwork
 
 
-## Computing is your superpower!
+## Computing is your superpower! {#superpower}
 
 Studying computer science gives you an awesome superpower. We will look at some of the reasons why in chapter \@ref(computing) on *Computing your Future*. But for now, let us just acknowledge that hard technical skills like computing are highly sought after and valuable, both commercially and otherwise.
 
@@ -55,7 +55,7 @@ knitr::include_graphics("images/Hard and soft skills.png")
 
 Let's look at some of low-level communication skills (I/O) that they are built on.
 
-## Communication I/0
+## Communication I/0 {#cio}
 
 In terms of input and output, your fundamental communication skills are listening, speaking, reading and writing words in natural languages shown in table \@ref(tab:iotable). These are the “[assembly languages](https://en.wikipedia.org/wiki/Assembly_language)” of human communication. This might sound blindingly obvious, but these skills are often under-estimated or undervalued by engineers and scientists, especially undergraduates. Alongside verbal and written communication, there's also nonverbal language, or body language such as eye contact, gestures and facial expressions.
 
@@ -86,14 +86,14 @@ If you stop to think about it, engineers and scientists spend a *lot* time commu
 
 * email and instant messaging, Slack, Microsoft Teams, Discord, Zoom etc
 * Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
-* bug reports and messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla and Trello
+* bug reports and messages in [issue trackers](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) like Jira, BugZilla, Github, Gitlab and Trello etc
 * 'How to' and cookbook style articles and books
 * API reference material
 * in-code documentation `# comments in code`
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code) self descriptive code
 * Executable specifications in test suites like [cucumber.io](https://en.wikipedia.org/wiki/Cucumber_(software))
 * Laboratory manuals and laboratory notebooks
-* The one page summary for management
+* The one or two page summary for management
 * User documentation, release notes
 * Case studies of software use
 * Frequently Asked Questions (FAQ)

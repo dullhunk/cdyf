@@ -84,11 +84,12 @@ While referring to this guide, remember that:
 
 Wherever criticism of your CV comes from, don't take it personally - it is probably one of the first you have written. Think of your current CV as an alpha or beta version that you continuously test, release and redeploy. There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this.
 
-1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See [Education](#mycved)
+<!-- this repeats the checklist at the end and needs moving-->
+1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(mycved)
 1. **STYLE**: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader
-1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See [your length](#length)
+1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
-1. **VERBS FIRST**: Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? Avoid long sections of prose. See section \@ref(verbsfirst)
+1. **VERBS FIRST**: Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? Avoid long sections of prose, see section \@ref(verbsfirst)
 1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see Context, Action & Result (CAR) in section \@ref(carstar)
 
 <!--Google Inside Look: Google students
@@ -150,13 +151,13 @@ The first thing in your CV is the header, a simple section giving your name, ema
 knitr::include_graphics("images/alan-turing-header.png")
 ```
 
-(ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Anything additional information risks wasting valuable space and distracting your reader.
+(ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have about five sections that cover the following:
 
 1. 🎓 Education: the formal stuff
 1. 💰 Experience: paid work
-1. 💪 Projects: side, social or University projects
+1. 💪 Projects: personal, social, side or University projects
 1. 👑 Activities and leadership
 1. 🏆 Awards and honours
 
@@ -419,7 +420,7 @@ Besides providing feedback on the content of your CV, using these systems can he
 
 * Have you used standard headings for the sections? Non-standard sections maybe ignored or misunderstood
 * Have you used appropriate verbs to describe your actions?
-* Is your layout and design robot friendly?
+* Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see [What Happens to Resume Tables and Columns in an ATS](https://www.jobscan.co/blog/resume-tables-columns-ats/) [@jobscan]
 
 
 ### Your references {#referees}
@@ -457,27 +458,27 @@ Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
 * How many of my [hobbies and personal interests should I list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
 * How many employers actually read cover letters?
 
-## Big Bad Buglist {#checklist}
+## Checklist: Big Bad Bugs {#checklist}
 
-Here is a quick debugging check-list for your CV before you send it off to an employer:
+Here is a quick check-list for debugging your CV before you send it off to an employer:
 
 1. ✅ Has it been reviewed by several people? Because according to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow”
 1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(sampling)
 1. ✅ Has a “resume robot” checked it? See section \@ref(robotproof) 🤖
-1. ✅ Does the style look good? Is it easy on the eye? See section \@ref(pdf)
-1. ✅ Is there adequate whitespace (not too much or too little)? <!-- merge with previous-->
+1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace (not too much or too little)? See section \@ref(pdf) <!-- merge with previous-->
 1. ✅ Is everything relevant? e.g. no swimming certificates from ten years ago?
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you spell-checked both manually and with software?
-1. ✅ Have you added context using relevant hyperlinks? See section \@ref(links)
+1. ✅ Have you added context using relevant hyperlinks than an interested reader can click on? See section \@ref(links)
 1. ✅ Is it in reverse chronological order? Most recent things first.
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
 1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
 1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref(mycved)
 1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
 1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
-1. ✅ Does it have a good, clear structure? Not too many headings see section \@ref(mycvpd)?
-1. ✅ Have you clearly distinguished between paid and unpaid or voluntary work?
+1. ✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
+1. ✅ Have you clearly distinguished between paid, unpaid and voluntary experience?
+1. ✅ Does it fit comfortably on exactly one page (resume) or a two pages (CV)? Not 1.5 pages or more than two? See section \@ref(length)
 
 ## Covering letters & personal statements {#we3qs}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). Let's say you're applying for a widget engineering position at BigWidget Inc. There are three things you need to cover in approximately this order
@@ -487,9 +488,9 @@ Applications and CV's are often accompanied by covering letters or include some 
 1. **Why you?** Why should they employ you? What makes you stand out from all the other widget engineering candidates? What is your Unique Selling Point (USP) or points?
 
 ### Does anyone actually READ covering letters? {#elevatorpitch}
-Some employers will read them very carefully, some less so. It's not clear which employers will bother and which won't.
+Some employers will read your covering letter very carefully, others less so. It's not clear which employers will bother and which won't.
 
-Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/) for further information. Think of it as practicing your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
+Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/) for further information. Think of it as practicing the lines of your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
 
 ## Debugging summary {#tldr7}
 
