@@ -181,7 +181,7 @@ knitr::include_graphics("images/clifton.png")
 (ref:captionclifton) Huge supporting chains on the [Clifton Suspension Bridge](https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge) in Bristol allow heavy loads pass over the Avon valley bridge. You'll need good support to cope with the stresses and strains of building your future. Clifton suspension bridge picture adapted from original by Nic Trott via Wikimedia commons [w.wiki/32tu](https://w.wiki/32tu)
 
 * Chapter \@ref(ruling): *Ruling your future* provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
-* Chapter \@ref(sampling): *Reading their future* invites you to put yourself in the employers shoes by reading some CVs
+* Chapter \@ref(sampling): *Reviewing their future* invites you to put yourself in the employers shoes by reading some CVs
 * Chapter \@ref(moving): *Moving your future* looks at opportunities outside of capital cities like London
 * Chapter \@ref(hearing): *Hearing your future* invites you to listen to students stories of their transition from education to employment
 * Chapter \@ref(actioning): *Actioning your future* gets you to think about your actions by emphasising verbs on your job applications
@@ -227,6 +227,7 @@ If you're familiar with git and markdown you can:
 
 * Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen
+* Most of the book is generated from the `*.Rmd` files, so these are the files to edit
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests yet, see [makeapullrequest.com](http://makeapullrequest.com/)
 * From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your setup
@@ -257,7 +258,7 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 (ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning student team at the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford, Greater Manchester
 
-I'd especially like to thank industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish and Petia Davidova. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(sampling) on *Reading their future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
+I'd especially like to thank industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish and Petia Davidova. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(sampling) on *Reviewing their future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
