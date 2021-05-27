@@ -226,8 +226,8 @@ If you'd like to contribute this guidebook, I welcome constructive feedback. The
 If you're familiar with git and markdown you can:
 
 * Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
-* Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen
-* Most of the book is generated from the `*.Rmd` files, so these are the files to edit
+* Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
+* Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org/wiki/Markdown) (`*.Rmd`) files, so these are the files to edit because they generate everything else including the `*.html`, `*.pdf`,`*.epub` and `*.docx`  
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls), If you're not familiar with pull requests yet, see [makeapullrequest.com](http://makeapullrequest.com/)
 * From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your setup
@@ -243,7 +243,25 @@ If you don't want to use Git or [github.com](https://github.com/) then you can:
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
-<!--### contributions welcome email to toby, learning objectives, mixed metaphors -->
+### Specific contributions sought {#dontbeshy}
+
+I'm looking for all kinds of constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend). This includes small things (like typos and grammatical errors) through to bigger issues for each chapter such as:
+
+* Does the chapter make sense, is it clear?
+* Does it have the right tone, is it pitched at the right level? Not patronising?
+* Is it too long and waffly or too short?
+* Are there too many (or too few) pictures?
+* Is it well scoped? Too broad or too narrow?
+* Are the stated learning objectives met by the chapter?
+* Are the activities clear? Can students understand why the activities are recommended?
+* Will it make sense to global readers e.g. some students come from China and India may not understand the quirks and idioms of English language
+* Are there too many metaphors? Mixed metaphors? Confusing analogies?
+* What's missing?
+* Where are the unstated assumptions? Where is the unconscious bias?
+* Any issues with equality, diversity and inclusion?
+* What should be cut out?
+
+All suggestions welcome! Don't be shy.
 
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. It is also based on conversations I've had with many of their employers too.
@@ -404,7 +422,7 @@ Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/2013120217
 knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 ```
 
-(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the hundreds of children they educate every year, need help from skilled people on their governing boards. Why not serve your local community as a “[critical friend](https://schoolgovernors.thekeysupport.com/governor-training/induction-maintained-school-governors/governance-practice/how-be-critical-friend/)” on the governing board of a school? All ages are welcome, but especially younger governors. [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the hundreds of children they educate every year, need help from skilled people on their governing boards. Why not serve your local community as a “[critical friend](https://en.wikipedia.org/wiki/Critical_friend)” on the governing board of a school? All ages are welcome, but especially younger governors. [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters, Stockport Hatters. 🙏
 
@@ -514,7 +532,7 @@ The *text* of this guidebook is published under the [Creative Commons Attributio
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details of its licence.
+The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/), [fair use](https://en.wikipedia.org/wiki/Fair_use) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details of the pictures licence.
 
 ```{r kapow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkapow)"}
 knitr::include_graphics("images/CC-attribution-1.png")
