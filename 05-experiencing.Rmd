@@ -81,7 +81,7 @@ Other ways to get a big name on your CV include joining a big name competition o
 * Facebook has hackathons, see [facebook.com/hackathon](https://en-gb.facebook.com/hackathon) and [developers.facebook.com](https://developers.facebook.com/)
 * Google hosts several events including:
     + Code Jam, HashCode and Kick Start [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/)
-    + Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/)
+    + Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) [@gsoc]
     + Developer Student Club Leads [developers.google.com/community/dsc/leads](https://developers.google.com/community/dsc/leads)
     + Inside Look [buildyourfuture.withgoogle.com/programs/inside-look](https://buildyourfuture.withgoogle.com/programs/inside-look/)
 * IBM hosts the annual Call for Code [developer.ibm.com/callforcode](https://developer.ibm.com/callforcode) unlike other competitions, these have a [corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR) themes for the benefit of society at large
@@ -100,7 +100,7 @@ Another good source of experience is open source software projects. Find a piece
 1. Raise an issue via the projct's issue tracker, such as [github issues](https://guides.github.com/features/issues/) [@githubissues]
 1. [Fix a bug](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749). [@fixabug] It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the architecture and toolchain being used (which might be complex) and solve problems. Github has a `good first issue` tag which helps new contributors identify starting points, see [goodfirstissue.dev](https://goodfirstissue.dev/) for some examples.
 
-There are lots of different motivations for getting involved in open source, shown in figure \@ref(fig:opensource-fig). Whatever your motivation, contributing to open source software is fun, you'll learn heaps and it will look great on your CV.
+There are lots of different motivations for getting involved in open source, shown in figure \@ref(fig:opensource-fig). Whatever your motivation, contributing to open source software is fun, you'll learn heaps and it will look great on your CV. Open source software is widely used by, so contributing is a great way to get some real world experience of software development. You can get paid to develop open source software and many open source projects are funded by employers both large and small. [@gsoc] 
 
 ```{r opensource-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionopensource)"}
 knitr::include_graphics("images/OS-contribution-motivations-1200x675.png")
