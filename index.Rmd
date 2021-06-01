@@ -166,8 +166,8 @@ Once you've started to answer the design questions in the first part, you can st
 
 * Chapter \@ref(debugging): *Debugging your future* looks at debugging your written communication such as covering letters,  application forms and digital portfolios.
 * Chapter \@ref(finding): *Finding your future* looks at where and how can you look for interesting opportunities
-* Chapter \@ref(speaking): *Speaking your future* looks how can you turn interviews to your advantage and negotiate any offers you receive
 * Chapter \@ref(broadening): *Broadening your future* encourages you to broaden your horizons. What are the possibilities beyond the obvious?
+* Chapter \@ref(speaking): *Speaking your future* looks how can you turn interviews to your advantage and negotiate any offers you receive
 * Chapter \@ref(surviving): *Surviving your future* looks at the next steps. Once you've landed a job, how will you survive and thrive outside (and after) University
 * Chapter \@ref(researching): *Researching your future* discusses if a Masters degree or a PhD right for you?
 
@@ -229,7 +229,7 @@ If you're familiar with git and markdown you can:
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
 * Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org/wiki/Markdown) (`*.Rmd` files), so these are the only files you need to edit because they generate everything else including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
-* Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your forking skills see [makeapullrequest.com](http://makeapullrequest.com/)
+* Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your pulling skills see [makeapullrequest.com](http://makeapullrequest.com/)
 * From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your setup
 
 ### For everyone else {#elseif}

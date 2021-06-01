@@ -167,7 +167,16 @@ There's two kinds of overselling that are common in the jobs marketplace:
 You should be wary of both. Likewise, you should make sure you don't undersell yourself. Know your value (financial), know who you are and try to understand how that fits with a given employer. It is easy to find out about salaries, for example see [technical intern salaries in the UK](https://github.com/IgWod/interns-salaries-uk-2018) [@igwod] and [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk). [@michaelgrove] Salaries in the UK for interns range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k, with everything in between.
 
 ### Beware of rejection {#rejection}
-Repeated rejections are a normal part of job searching. They can take a heavy toll on your mental health described in chapter \@ref(nurturing) and it can be a struggle. Some employers won't even reply, welcome to the black hole described in section \@ref(blackhole). If you're getting too many rejections it might be Because
+Repeated rejections are a normal part of applying for jobs. They can take a heavy toll on your mental health described in chapter \@ref(nurturing) and for most people, it's a struggle. Some employers won't even bother to reply to reject you, welcome to the black hole described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
+
+```{r blackhole-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionblackhole)"}
+knitr::include_graphics("images/blackhole.jpg")
+```
+
+(ref:captionblackhole) Rejection is a normal part of applying for jobs, some of your application may disappear without trace into employers black holes, especially if they are large and have a strong gravitational force on job applicants. CC-BY image of the core the black hole in [Messier 87](https://en.wikipedia.org/wiki/Messier_87) by the [Event Horizon Telescope](Event Horizon Telescope) team via Wikimedia Commons [w.wiki/3RCa](https://w.wiki/3RCa)
+
+
+If you're getting too many rejections or all your applications are sucked into black holes, it might be because:
 
 * you need to debug your CV again, see chapter \@ref(debugging)
 * you need to change your job search strategy
