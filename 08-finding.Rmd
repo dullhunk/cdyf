@@ -58,7 +58,7 @@ The following job finding resources are specifically aimed at undergraduate stud
 * [InsideCareers.co.uk](https://www.insidecareers.co.uk) is good if you're looking for jobs in the  financial sector
 * [varsitycareershub.co.uk](https://www.varsitycareershub.co.uk/), targeting students from [Loxbridge](https://en.wikipedia.org/wiki/Loxbridge) but many of the employers recruit much more widely
 *  [Year in Industry](https://www.etrust.org.uk/yini-vacancies) if you're looking for a year in industry
-* Your University careers service, e.g. if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html). University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying.
+* Your University careers service. University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying. So if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html)
 
 ### More general resources {#generaljobs}
 
@@ -167,7 +167,7 @@ There's two kinds of overselling that are common in the jobs marketplace:
 You should be wary of both. Likewise, you should make sure you don't undersell yourself. Know your value (financial), know who you are and try to understand how that fits with a given employer. It is easy to find out about salaries, for example see [technical intern salaries in the UK](https://github.com/IgWod/interns-salaries-uk-2018) [@igwod] and [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk). [@michaelgrove] Salaries in the UK for interns range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k, with everything in between.
 
 ### Beware of rejection {#rejection}
-Repeated rejections are a normal part of applying for jobs. They can take a heavy toll on your mental health described in chapter \@ref(nurturing) and for most people, it's a struggle. Some employers won't even bother to reply to reject you, welcome to the black hole described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
+Repeated rejections are a normal part of applying for jobs. They can take a heavy toll on your mental health described in chapter \@ref(nurturing) and for most people, it's a struggle. Some employers won't even bother to reply to reject you, welcome to the employer black hole described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
 
 ```{r blackhole-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionblackhole)"}
 knitr::include_graphics("images/blackhole.jpg")
@@ -179,9 +179,10 @@ knitr::include_graphics("images/blackhole.jpg")
 If you're getting too many rejections or all your applications are sucked into black holes, it might be because:
 
 * you need to debug your CV again, see chapter \@ref(debugging)
-* you need to change your job search strategy
+* you need to develop a better job search strategy
+* you need to broaden your search see chapter \@ref(broadening)
 
-So, lets looks at job search strategies you can use.
+Before we talk about broadening, lets looks at some basic job search strategies you can use to get started.
 
 ## Job search strategies {#strategies}
 Now that you're aware of some pitfalls you need to think about developing a range of different strategies for job hunting, and change the strategy during the year. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers advertise.

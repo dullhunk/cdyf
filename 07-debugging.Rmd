@@ -135,13 +135,13 @@ Quantify and provide evidence of any claims you make. This can turn meaningless 
 * Worked in a team
 ```
 
-So you worked in a team. Worked is vague. What was your role and contribution? How long did the project last? How many people were on your team?  
+So you worked in a team? Worked is vague. What was your role and contribution? How long did the project last? How many people were on your team?  
 
 ```md
 * Awarded scholarship / prize
 ```
 
-Congratulations but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given?
+Congratulations but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known.
 
 ### Your header {#mycvpd}
 
@@ -153,7 +153,7 @@ knitr::include_graphics("images/alan-turing-header.png")
 
 (ref:captioncvheader) Keep the header of your CV simple. Just your name, email phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After [your header](#mycvpd) I suggest you have about five sections that cover the following:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
 
 1. 🎓 Education: the formal stuff
 1. 💰 Experience: paid work
@@ -161,14 +161,14 @@ Your header doesn't need to include any more information than your name, email, 
 1. 👑 Activities and leadership
 1. 🏆 Awards and honours
 
-Let's look at each of these sections:  
+Let's look at each of these sections in turn:  
 
 ### Your education {#mycved}  
 
 Unless you have significant amount of experience, the education section of your CV is likely to be the first real section, after the header. Your education section needs to strike a balance between:
 
 * Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
-* Keeping it short and sweet, without getting bogged down in the details.
+* Keeping it short and sweet and avoiding getting bogged down in the details.
 
 You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf) (for example) but not as much as [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree. You don't need to name every single module and give a mark for each. Neither do you need to give your result to FOUR significant figures (it happens). Two significant figures will do just fine. You might like to pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
 
@@ -389,8 +389,8 @@ Reading between the lines: “I really enjoy learning from other people by going
 ... and so on. So links are crucial features of your CV and an interested reader *may* even follow them. Treat links with respect and they will support your goals and help your readers. Invest some time thinking about how you word the link text, and how they would be understood out of context. Make sure that:
 
 * hyperlinks are [readable and descriptive](https://readabilityguidelines.co.uk/content-design/links/) [@readable]  
-* hyperlinks are clickable in the PDF. Don't make your reader cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
-* hyperlinks are paper-proof. Some people still print CVs so the phrase "click here" won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
+* hyperlinks are clickable in the PDF. Don't expect your reader to cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
+* hyperlinks are paper-proof. Some people still print CVs so the phrase `click here` won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
 
 Besides LinkedIn you could include public profiles from [github](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c) [@stackoverflow]. You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a previous chapter, [be wary of social media](https://www.cdyf.me/wellbeing.html?q=social+media#signposts3).
 
