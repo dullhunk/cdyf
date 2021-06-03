@@ -227,10 +227,11 @@ If you're familiar with git and markdown you can:
 
 * Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
-* Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org/wiki/Markdown) (that's the `*.Rmd` files). Markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your pulling skills see [makeapullrequest.com](http://makeapullrequest.com/)
 * From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your own setup
+
+Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org/wiki/Markdown) (that's the `*.Rmd` files). Markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
 
 ### For everyone else {#elseif}
 
@@ -457,6 +458,7 @@ Some of the most important influences on this guidebook are people I've only met
     + [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) at [paulgraham.com](http://paulgraham.com/)
     + [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
     + Neil Saunders at [What you're doing is rather desperate](https://nsaunders.wordpress.com/blog/)
+    + Greg Wilson at [third-bit.com](https://third-bit.com/)
 * Thanks to [Sophie Milliken](https://twitter.com/SRS_Sophie) for *From Learner to Earner: A recruitment insider's guide for students wanting to achieve graduate job success* [@milliken] which draws useful distinctions between graduate jobs and graduate schemes
 
 So, thanks influencers for being influential. 🙏

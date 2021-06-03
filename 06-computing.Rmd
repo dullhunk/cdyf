@@ -45,7 +45,7 @@ At school, everyone learns to the read, write and do maths. These are sometimes 
 
 Of course not, that would be ludicrous! You learned to read and write because they are fundamental tools for expressing yourself and communicating with other people. You studied maths so that you could develop numeracy, reason about the world around you, analyse data and solve problems.
 
-So why should everyone learn about computing? Is it so that everyone can become software engineers? Why should you learn about computing? Is it so that you can become a software engineer? Again, this is ludicrous.
+So why should everyone learn about computing? Is it so that everyone can become software engineers? Why should *you* learn about computing? Is it so that *you* can become a software engineer? Again, this is ludicrous.
 
 Everyone should study computing for the same reasons everyone studies maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](hhttps://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
 
@@ -64,7 +64,7 @@ knitr::include_graphics("images/Market_Capitalisation.png")
 ```
 (ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be impossible for Apple, Microsoft, Amazon, Google and Facebook to exist without computing. The economic weight of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) graphic by YBSLE on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU)
 
-Even if you don't want to work for any of these global monopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. For example, demand for software developers is high, comparable to teaching and nursing in terms of numbers. In the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
+Even if you don't want to work for any of these global monopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. For example, demand for software developers is high, comparable to teaching and nursing in terms of raw numbers. In the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
 
 ```{r nurses-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionball)"}
 library(ggplot2)
