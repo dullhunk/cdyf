@@ -219,7 +219,30 @@ knitr::include_graphics("images/goldengate.png")
 
 
 ## Contributing to your future {#contributing}
-If you'd like to contribute this guidebook, I welcome constructive feedback. There are lots of ways you can contribute, depending on how comfortable you are with Git:
+If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend).
+
+### Contributions sought {#dontbeshy}
+
+I'm looking for feedback on smaller things (like typos and grammatical errors) through to bigger issues for each chapter such as:
+
+* Spotting typos, grammatical errors, spelling mistakes etc
+* Does the chapter make sense, is it clear?
+* Does it strike the right tone, is it pitched at the right level? Not patronising? Too many platitudes?
+* Where is it too long and waffly or too short?
+* Are there too many (or too few) pictures? What needs more illustration?
+* Is it well scoped? Too broad or too narrow?
+* Are the stated learning objectives met by the chapter?
+* Are the activities clear? Can students understand why the activities are recommended? What other activities could be added?
+* Will it make sense to global readers e.g. will students from China and India understand the quirks and idioms of English language and culture
+* Are there too many metaphors? Mixed metaphors? Confusing analogies?
+* Too many citations? Not enough citations? Missed any key citations?
+* What's missing?
+* Where are the unstated assumptions? Where is the unconscious bias?
+* What are the issues with equality, diversity and inclusion?
+* Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike a light hearted and playful tone to improve readability 😜
+* What else should be ruthlessly edited out?
+
+All suggestions welcome! Don't be shy. There are several ways you can contribute, depending on how comfortable you are with Git:
 
 ### For git contributors {#techies}
 
@@ -239,32 +262,12 @@ If you don't want to use Git or [github.com](https://github.com/) then you can:
 
 * Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (tablet, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as good as the pdf version created with LaTeX.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
+* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as anything like as good as the pdf version created from [cdyf.tex](https://cdyf.me/cdyf.tex) using LaTeX.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
-### Contributions sought {#dontbeshy}
 
-I'm looking for all kinds of constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend). This includes small things (like typos and grammatical errors) through to bigger issues for each chapter such as:
-
-* Does the chapter make sense, is it clear?
-* Does it strike the right tone, is it pitched at the right level? Not patronising? Too many platitudes?
-* Where is it too long and waffly or too short?
-* Are there too many (or too few) pictures? What needs more illustration?
-* Is it well scoped? Too broad or too narrow?
-* Are the stated learning objectives met by the chapter?
-* Are the activities clear? Can students understand why the activities are recommended? What other activities could be added?
-* Will it make sense to global readers e.g. will students from China and India understand the quirks and idioms of English language and culture
-* Are there too many metaphors? Mixed metaphors? Confusing analogies?
-* Too many citations? Not enough citations? Missed any key citations?
-* What's missing?
-* Where are the unstated assumptions? Where is the unconscious bias?
-* What are the issues with equality, diversity and inclusion?
-* Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike a light hearted and playful tone to improve readability 😜
-* What else should be ruthlessly edited out?
-
-All suggestions welcome! Don't be shy.
 
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. It is also based on conversations I've had with many of their employers too.
@@ -336,7 +339,7 @@ Pinar Alper, Sophia Ananiadou, Mikel Egaña Aranguren, Constantinos Astreos, Ter
 
 Optimists will tell you that “everyone has a book in them...”, but pessimists like [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's exactly where it should remain”. [@everyone]
 
-Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-fig), I am an optimist when it comes to the power of natural languages.
+Despite Hitchens amusing trademark cynicism shown in figure \@ref(fig:hitchens-fig), I am optimistic about the power of natural languages.
 
 <!--this is hacky
 `r if (knitr::is_html_output()) '
@@ -433,7 +436,7 @@ So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](htt
 
 Thanks to Greater Mancunians Paul Bason, Martin Bryant, Darren Dancey, Shaun Fensom, Tony Foggett, Katie Gallagher, Emma Grant, Ross Keeping, Tony McGrath, Chris Marsh, Geraint North, Martyn Spink, Julian Star, Rachel Thompson, Wesley Verne, Paul Vlissidis, Travis Walton for friendly Northern support and advice.
 
-So thanks Manchester^[Manc-you very much. Sorry, can't resist. I'll get my coat..] for being Mancunian. 🙏
+So thanks Manchester for being Mancunian.^[Manc-you very much. Sorry, can't resist. I'll get my coat..] 🙏
 
 ### Thank you Moravians {#moravians}
 Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learned loads as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker.
