@@ -258,16 +258,14 @@ Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org
 
 ### For everyone else {#elseif}
 
-If you don't want to use Git or [github.com](https://github.com/) then you can:
+If you don't want to (or can't) use Git or [github.com](https://github.com/) then you can:
 
 * Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (tablet, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as anything like as good as the pdf version created from [cdyf.tex](https://cdyf.me/cdyf.tex) using LaTeX.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
+* Suggest changes via the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx), which is solely for editing purposes. The text is all there, but the pagination and graphic placement in Word isn't as anything like as good as the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) version created from [cdyf.tex](https://cdyf.me/cdyf.tex) using LaTeX.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
-
-
 
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. It is also based on conversations I've had with many of their employers too.
@@ -362,7 +360,7 @@ So, thank you colleagues for being collegiate. You make the University of Manche
 Beyond Manchester there is a wider academic community of scientists, engineers and scholars that have influenced this guidebook:
 
 * Thanks to [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher) and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
-* Thanks to [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Nicola Looker](https://www.gla.ac.uk/pgrs/nicolalooker/) and [Jane Waite](http://eecs.qmul.ac.uk/profiles/waitejanelisa.html) for helping me setup and run [SIGCSE journal club](https://sigcse.cs.manchester.ac.uk/). Thanks to all the [journal clubbers](https://sigcse.cs.manchester.ac.uk/who/) too, many of our journal club conversations have fed directly into the content of this guidebook
+* Thanks to [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/) and [Jane Waite](http://eecs.qmul.ac.uk/profiles/waitejanelisa.html) for helping me setup and run [SIGCSE journal club](https://sigcse.cs.manchester.ac.uk/). Thanks to all the [journal clubbers](https://sigcse.cs.manchester.ac.uk/who/) too, both regular and irregular including [Brett Becker](https://www.brettbecker.com/), [Colin Johnson](Colin Johnson) and [Nicola Looker](https://www.gla.ac.uk/pgrs/nicolalooker/). Many of our journal club conversations have fed directly into the content of this guidebook
 * Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration to me and many others. [@cs50;  @cs50zoom; @CS502021] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017 which was a great introduction to David's work [@cs50mcr]
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a significant influence on this book had a gradual but dramatic effect on my personal and professional life
 * Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
@@ -405,6 +403,18 @@ knitr::include_graphics("images/youtube-alom.png")
 
 So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of Wiltshire. 🙏
 
+### Thank you Stockport {#stockport}
+
+Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Keith Doran and other members of the *alternative staff room* for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
+
+```{r st-annes-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstannes)"}
+knitr::include_graphics("images/st-annes-rc-high-school.jpg")
+```
+
+(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the hundreds of children they educate every year, need help from skilled people on their governing boards. Why not serve your local community as a “[critical friend](https://en.wikipedia.org/wiki/Critical_friend)” on the governing board of a school? All ages are welcome, but especially younger governors. [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters, Stockport Hatters. 🙏
+
 ### Thank you schools {#productivefailure}
 Thanks to all the schools who interviewed (but rejected me) for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. Although unsuccessful, these interviews were very productive failures:
 
@@ -419,18 +429,6 @@ Thanks to all the schools who interviewed (but rejected me) for my [Newly Qualif
 * [Blackburn College](https://en.wikipedia.org/wiki/Blackburn_College_(Blackburn_with_Darwen)), Lancashire  “I read the news today, oh boy! Four thousand holes in Blackburn, Lancashire” [@adayinthelife]
 
 So thanks schools, for schooling. 🙏
-
-### Thank you Stockport {#stockport}
-
-Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Keith Doran and other members of the *alternative staff room* for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
-
-```{r st-annes-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstannes)"}
-knitr::include_graphics("images/st-annes-rc-high-school.jpg")
-```
-
-(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the hundreds of children they educate every year, need help from skilled people on their governing boards. Why not serve your local community as a “[critical friend](https://en.wikipedia.org/wiki/Critical_friend)” on the governing board of a school? All ages are welcome, but especially younger governors. [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/33Xs](https://w.wiki/33Xs) made with the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
-
-So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters, Stockport Hatters. 🙏
 
 ### Thank you Manchester {#mancs}
 
@@ -554,6 +552,7 @@ Some of these services use cookies. These can be disabled in your browser, see [
 
 So now that we've dispensed with the formalities, let's look at why should you bother reading this guidebook in the first place.
 
+<!-- rmarkdown::render_site(output_format = 'bookdown::bs4_book', encoding = 'UTF-8') -->
 <!-- 2021-05-18 word count data -->
 <!--WORDS ps2ascii cdyf.pdf | wc -w 59,672 Word says 37,453-->
 <!--LINES ps2ascii cdyf.pdf | wc -l 4,292  Word says 3,796 -->
