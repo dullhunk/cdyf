@@ -47,7 +47,7 @@ Interviews can be conducted in various modes:
 knitr::include_graphics("images/bob-youre-on-mute.png")
 ```
 
-(ref:bobonmute) Remember to do the mute / unmute toggle dance if you have a teleconference interview on zoom or similar. [Bob...](https://bryanmmathers.com/bob/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:bobonmute) Remember to toggle your mute / unmute settings if you have a teleconference interview on zoom or similar. [Bob...](https://bryanmmathers.com/bob/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 * telephone (no visual contact)
@@ -64,7 +64,7 @@ Competency interviews are there to test your soft skills, find out what you're l
 1. Tell me about a time when you showed integrity and professionalism
 1. Can you give an example of a situation where you solved a problem in a creative way?
 1. Tell me about a big decision you've made recently. How did you go about it?
-1. Give an example of a time you handled conflict in the workplace
+1. Give an example of a time you handled or resolved conflict
 1. How do you maintain healthy working relationships with your colleagues?
 1. Describe a project where you had to use different leadership styles to reach your goal
 1. Give me an example of a challenge you faced and tell me how you overcame it
@@ -77,10 +77,10 @@ For more examples of non-technical questions see:
 * [google.com/search?q=competency+based+interview+questions](https://www.google.com/search?q=competency+based+interview+questions)
 * [careers.manchester.ac.uk/applicationsinterviews/interviews](https://www.careers.manchester.ac.uk/applicationsinterviews/interviews/)
 
-Since there's already tonnes of information The rest of this chapter will focus on technical interviews, also known as coding interviews.
+Since there's already tonnes of information on competency based interviews, the rest of this chapter will focus on technical interviews, also known as [coding interviews](https://en.wikipedia.org/wiki/Coding_interview).
 
 ### Coding interviews {#codinginterview}
-Many employers using technical or coding interviews to assess your harder skills. Not every employer does, but they are widely used by larger employers. Preparing for coding interviews is a good way to become a better engineer, so even if you don't have to face a series of really tough coding interviews, it is worth knowing about them.
+Many employers using technical or coding interviews to assess your harder skills. Not every employer does, but they are widely used by employers. Preparing for coding interviews is a good way to become a better engineer, so even if you don't have to face a series of really tough coding interviews, it is worth knowing about them.
 
 <!-- I Cheated on My Microsoft Interview you can cheat [@cheating]
 
@@ -96,7 +96,7 @@ Many employers using technical or coding interviews to assess your harder skills
 Solving different coding challenges can help you become a better problem solver, master a given programming language, prepare for job interviews and learn new algorithms. It will help you become a better engineer and can provide good evidence for the experience section of your CV.-->
 
 
-There are a lots of resources to help you prepare for and practice coding interview questions, the best place to start is *Cracking the Coding Interview* by Gayle Laakmaan McDowell. [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, University of Manchester Computer Science graduate Petia Davidova explains in figure \@ref(fig:petia-fig) what she learned from failing several coding interviews at big technology companies. 😭
+There are a lots of resources to help you prepare for and practice coding interview questions, the best place to start is *Cracking the Coding Interview* by [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, University of Manchester Computer Science graduate Petia Davidova explains in figure \@ref(fig:petia-fig) what she learned from failing several coding interviews at big technology companies. 😭
 
 
 ```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpetia)"}
@@ -146,7 +146,7 @@ More than 50,000 students worldwide from more than 3,000 universities in 111 cou
 > fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each
 > other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world. [@icpc]
 
-ICPC is organised by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM), a global organisation which advances computing as a science and a profession.
+ICPC is organised by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM), a global community which advances computing as a science and a profession.
 
 There are subregional contests for ICPC, so in the UK there is the United Kingdom and Ireland Programming Competition (UKIEPC) which is part of the Northwestern Europe European Regional Contest (NWERC).
 

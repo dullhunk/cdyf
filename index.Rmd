@@ -19,7 +19,7 @@ always_allow_html: true
 # output: word_document
 ---
 
-# Welcome to your future {.unnumbered}
+# Welcome to your future {.unnumbered #welcome}
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
@@ -28,7 +28,7 @@ Hello and welcome to *Coding Your Future*, the guidebook that will help you to d
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
-* what *subject* you are studying, as long as you are *computationally curious*
+* what *subject* you are studying, as long as you are **computationally curious**
 * what *institution* you are studying at, this book is University and institution agnostic
 * *where* in the world you are studying
 
@@ -40,7 +40,7 @@ A lot of self-help literature can be dry, dull, textbooky and boring with few il
 ```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionalicecover)"}
 knitr::include_graphics(rep("images/Alicesadventuresinwonderland1898.jpg", 3))
 ```
-(ref:captionalicecover) The cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)*. Public domain image via Wikimedia Commons [w.wiki/327E](https://w.wiki/327E)
+(ref:captionalicecover) The cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)*. Public domain image via Wikimedia Commons [w.wiki/3S4C](https://w.wiki/3S4C)
 
 
 In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice is looking at book her sister is reading:
@@ -63,7 +63,7 @@ This guidebook aims to help you develop stronger habits of mind, body and soul u
 knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 ```
 
-(ref:captionhellomyname) Hello my name is Duncan. If you're feeling a bit lost, follow me. Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
+(ref:captionhellomyname) Hello my name is [Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me. Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
 
 Coding your future explores techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace.
 
@@ -229,7 +229,7 @@ If you're familiar with git and markdown you can:
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your pulling skills see [makeapullrequest.com](http://makeapullrequest.com/)
-* From the command line `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your own setup
+* From the command line type `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your own setup
 
 Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org/wiki/Markdown) (that's the `*.Rmd` files). Markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
 
@@ -244,7 +244,7 @@ If you don't want to use Git or [github.com](https://github.com/) then you can:
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
-### Specific contributions sought {#dontbeshy}
+### Contributions sought {#dontbeshy}
 
 I'm looking for all kinds of constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend). This includes small things (like typos and grammatical errors) through to bigger issues for each chapter such as:
 
@@ -257,10 +257,11 @@ I'm looking for all kinds of constructive feedback from [critical friends](https
 * Are the activities clear? Can students understand why the activities are recommended? What other activities could be added?
 * Will it make sense to global readers e.g. will students from China and India understand the quirks and idioms of English language and culture
 * Are there too many metaphors? Mixed metaphors? Confusing analogies?
+* Too many citations? Not enough citations? Missed any key citations?
 * What's missing?
 * Where are the unstated assumptions? Where is the unconscious bias?
 * What are the issues with equality, diversity and inclusion?
-* Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike a light hearted and playful tone to make it readable 😜
+* Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike a light hearted and playful tone to improve readability 😜
 * What else should be ruthlessly edited out?
 
 All suggestions welcome! Don't be shy.
@@ -357,7 +358,7 @@ So, thank you colleagues for being collegiate. You make the University of Manche
 ### Thank you scientists {#scientists}   
 Beyond Manchester there is a wider academic community of scientists, engineers and scholars that have influenced this guidebook:
 
-* Thanks to [Sally Fincher](https://scholar.google.com/citations?user=CwnKRzMAAAAJ) and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
+* Thanks to [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher) and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
 * Thanks to [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Nicola Looker](https://www.gla.ac.uk/pgrs/nicolalooker/) and [Jane Waite](http://eecs.qmul.ac.uk/profiles/waitejanelisa.html) for helping me setup and run [SIGCSE journal club](https://sigcse.cs.manchester.ac.uk/). Thanks to all the [journal clubbers](https://sigcse.cs.manchester.ac.uk/who/) too, many of our journal club conversations have fed directly into the content of this guidebook
 * Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which continues to be an inspiration to me and many others. [@cs50;  @cs50zoom; @CS502021] Thanks to [Cristian Bodnar](https://crisbodnar.github.io/) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017 which was a great introduction to David's work [@cs50mcr]
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a significant influence on this book had a gradual but dramatic effect on my personal and professional life
