@@ -75,6 +75,15 @@ knitr::include_graphics("images/Sell your soul.png")
 -->
 
 <!--
+product manager
+
+```{r gaylepm-fig,echo=FALSE, fig.cap = "Gayle"}
+library(tweetrmd)
+include_tweet("https://twitter.com/gayle/status/1353907210535886848")
+```
+-->
+
+<!--
 
 * Teaching: coding their future
 

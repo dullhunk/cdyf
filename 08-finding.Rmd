@@ -30,18 +30,18 @@ At the end of this chapter you will be able to:
 The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. I've broken resources down here into three categories, student specific, more general resources and recruiters. Before we look at those, we need to define some terms.
 
 ### Job terminology {#jobterms}
-Employers use terms to describe jobs for undergraduates and graduates inconsistently. In this book we use the following terms shown in Table \@ref(tab:jobterms).
+Employers use terms to describe jobs for undergraduates and graduates inconsistently. In this book we use the following terms shown in table \@ref(tab:jobterms).
 
 ```{r jobterms, echo = FALSE}
 jobterm_table <- tibble::tribble(
   ~ "Name", ~ "Employment contract",
   "Insight", "Usually no contract. One to three weeks, sometimes known as work experience, work shadowing, spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Usually unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
   "Internship", "Fixed term contract, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree.",
-  "Placement", "Fixed term contract, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as “sandwich” years because they typically take place somewhere around the middle of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
+  "Placement", "Fixed term contract, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as “sandwich” or “industrial experience” year because they typically take place in the penultimate year of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
   "Graduate job", "Full-time permanent contract typically working in one department of an organisation",
   "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier managerial scheme, in your first two years, you'll probably rotate around different departments in an organisation"
 )
-knitr::kable(jobterm_table, caption = "Terms used in this guidebook to describe employment opportunities for undergraduates and graduates", booktabs = TRUE)
+knitr::kable(jobterm_table, caption = "Employment terminology used in this guidebook and their definitions", booktabs = TRUE)
 ```
 Now that we've defined terms for jobs we can look at resources for finding them.
 
@@ -97,7 +97,7 @@ Recruiters are usually not technical people, so don't expect them to have lots o
 ```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionrecruiter)"}
 knitr::include_graphics("images/recruiters-are.png")
 ```
-(ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid them completely, just be careful how you use them and remember who they work for. 
+(ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid them completely, just be careful how you use them and remember who they work for.
 
 Some recruiters are very good and can help you. For example, there are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you. However some recruiters are not very good, and don't provide a valued service for employers or potential employees like you. This is why you sometimes see `no recruiters` or `no agencies` on job adverts. So be wary of recruiters, and remember that some recruiters work primarily for their clients (employers) not you.
 
@@ -179,7 +179,7 @@ Repeated rejections are a normal part of applying for jobs. They can take a heav
 knitr::include_graphics("images/blackhole.jpg")
 ```
 
-(ref:captionblackhole) Rejection is a normal part of applying for jobs, some of your applications may disappear without trace into employers “black holes”, especially if they are large and have a strong gravitational force on job applicants. CC-BY image of the supermassive black hole in [Messier 87](https://en.wikipedia.org/wiki/Messier_87) by the [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope) team via Wikimedia Commons [w.wiki/3RCa](https://w.wiki/3RCa)
+(ref:captionblackhole) Rejection is a normal part of applying for jobs, some of your applications may disappear without trace into employers “black holes”, especially if they are large and have a strong gravitational force on job applicants like you. CC-BY image of the supermassive black hole in [Messier 87](https://en.wikipedia.org/wiki/Messier_87) created using the [CHIRP algorithm](https://en.wikipedia.org/wiki/CHIRP_(algorithm)) by the [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope) team via Wikimedia Commons [w.wiki/3RCa](https://w.wiki/3RCa)
 
 
 If you're getting too many rejections or all your applications are sucked into black holes, it might be because you need to :
