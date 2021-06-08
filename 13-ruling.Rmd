@@ -13,7 +13,7 @@ knitr::include_graphics("images/10 Simple Rules.png")
 
 ## Know who you are {#mybrand}
 
-There is a lot more to you than your degree. Yes, you've spent three or four years getting your degree. identify your weaknesses and work out how to improve them.
+There is a lot more to you than your degree. Yes, you've spent three or four years getting your degree. Identify your weaknesses and work out how to improve them.
 
 
 <!--understand your brand your values, another word for brand is reputation. do people like you. The better you know yourself, the better-->
@@ -65,9 +65,15 @@ Mistakes and failure are inevitable in life, but productive mistakes are going t
 
 In a growth mindset, mistakes can be good, but the fear of making them is not. You are more likely to take more chances when you're unafraid to fail, and this will improve your chances of success.
 
-Many education systems around the world don't teach people how to fail, because they put too much emphasis on success (top grades) rather than progress and learning. [@failgift] So as Ester Dyson says,
+Many education systems around the world don't teach people how to fail, because they put too much emphasis on success (top grades) rather than progress and learning. [@failgift] So as the angel investor [Esther Dyson](https://en.wikipedia.org/wiki/Esther_Dyson) once said, “Always make new mistakes”, see figure \@ref(fig:esther-dyson-fig)
 
-Always make new mistakes
+```{r esther-dyson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionestherdyson)"}
+knitr::include_graphics("images/esther-dyson-always-make-new-mistakes.jpeg")
+```
+
+(ref:captionestherdyson) Mistakes are inevitable in life, so there's no shame in making them especially if they are new. Making *new* mistakes can be a form of productive failure that you learn from rather than a source of unproductive failure that you repeat (old mistakes). Esther Dyson picture Christopher Michel CC BY-SA on Wikimedia commons [w.wiki/3TEY](https://w.wiki/3TEY) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238).
+
+So:
 
 * If you've got some harsh feedback on your CV, how can you make less buggy in the future?
 * If you've applied to lots of companies and not even had a reply yet, how you improve your job search strategy?
@@ -85,13 +91,13 @@ Join a team by helping someone, be a team player, help others, thank others for 
 
 ## Look beyond the obvious {#beyond}
 
-Be flexible in approach. Not just big employers, there are startups, SME's you've never heard of. It's not just London, and other big cities. Look beyond graduate schemes, look beyond graduate jobs.
+Be flexible in approach. Not just big employers, there are startups, SME's you've never heard of. It's not just London (see chapter \@ref(moving)), and other big cities. Look beyond graduate schemes, look beyond graduate jobs. Broaden your horizons and your job search, see chapter \@ref(broadening).
 
 You are not just a techie, Either.
 
 ## Stay in school {#lifelonglearning}
 
-Never stop learning.
+Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University. Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Never stop learning.
 
 
 ## Step outside your comfort zone {#comfy}
