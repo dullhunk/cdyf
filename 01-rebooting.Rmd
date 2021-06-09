@@ -45,9 +45,13 @@ You will spend lots of time in this wonderland, potentially as much as 80,000 ho
 <!-- popular languages https://spectrum.ieee.org/at-work/tech-careers/top-programming-language-2020 -->
 
 ## Your future is your responsibility {#responsibility}
-When [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) started working at IBM, fresh out of University, his boss gave him the following advice:
+When [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) started working at IBM, fresh out of University, his boss gave him the career advice shown in figure \@ref(fig:andysc-fig):
 
-> “Nobody cares about your career except you.” ---Anon [@andystanfordclark]
+```{r andysc-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionandysc)"}
+knitr::include_graphics("images/nobody-cares-about-your-career-except-you.jpeg")
+```
+(ref:captionandysc) Nobody cares about your career except you. Anonymous quotation via Andy Stanford-Clark [@andystanfordclark]
+
 
 Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the code). The sooner you get coding the better.
 
