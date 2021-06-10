@@ -70,7 +70,7 @@ include_tweet("https://twitter.com/b0rk/status/1043277965394681856")
 The zine has the benefit of being aimed aimed at engineers just like you. Thoroughly recommended! You might also enjoy Julia's other more technical zines such as [HTTP: learn your browser's language](https://wizardzines.com/zines/http/) [@browserslanguage] and [Oh Shit, Git!](https://wizardzines.com/zines/oh-shit-git/) [@ohshitgit]
 
 ## Stay in school {#badging}
-As you develop new skills and knowledge at work, it is a good idea to collect evidence of what you've done. Whatever your career path, you'll need to keep your CV updated. One way to think of the evidence is as *badges*, digital or otherwise. Your employer may already have training schemes that recognise and reward your accomplishments. Figure \@ref(fig:badgetype-fig) shows different kinds of evidence to look out for.
+As you develop new skills and knowledge at work, it is a good idea to collect evidence of what you've done. Whatever your career path, you'll need to keep your CV updated. One way to think of the evidence is as *badges*, digital or otherwise. Your employer may already have training schemes that recognise and reward your accomplishments. Figure \@ref(fig:badgetype-fig) shows some of the different kinds of evidence to look out for.
 
 ```{r badgetype-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionbadgetype)"}
 knitr::include_graphics("images/badge-taxonomy-v2.png")

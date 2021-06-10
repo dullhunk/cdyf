@@ -27,9 +27,13 @@ By the end of this chapter you will be able to:
 
 ## Mental ill health {#illhealth}
 
-Stress can lead to many kinds of ill health. Turing was put under lots of stress by his government bosses, people like [Alastair Denniston](https://en.wikipedia.org/wiki/Alastair_Denniston) and [Stewart Menzies](https://en.wikipedia.org/wiki/Stewart_Menzies). [@imitationgame] On describing his work for the government and why he punished himself so much in training, Alan Turing said:
+Stress can lead to many kinds of ill health. Turing was put under lots of stress by his government bosses, people like [Alastair Denniston](https://en.wikipedia.org/wiki/Alastair_Denniston) and [Stewart Menzies](https://en.wikipedia.org/wiki/Stewart_Menzies). [@imitationgame] When asked why he punished himself so much in training, Alan Turing's reply is shown in figure \@ref(fig:turing-stress-fig).
 
-> “I have such a stressful job that the only way I can get it out of my mind is by running hard; it’s the only way I can get some release” --Alan Turing.  [@kottke]
+```{r turing-stress-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionturingstress)"}
+knitr::include_graphics("images/turunning-machine.jpeg")
+```
+(ref:captionturingstress) “I have such a stressful job that the only way I can get it out of my mind is by running hard; it’s the only way I can get some release”. Like many, Turing found running a relief from the mental pressure he was under in his job. [@kottke] Public domain portrait of Alan Turing via Wikimedia Commons [w.wiki/oZx](https://w.wiki/oZx)
+
 
 University is a positive experience for many people, however like Alan, you may also experience periods of stress. This may also be accompanied by anxiety, loneliness and depression. Financial, social and academic pressures alongside concerns about employability and an ongoing pandemic of COVID-19 can all have an impact on your wellbeing. Statistically, one in four of us will be affected by mental ill health during our lifetime. Two of the most common forms of mental ill health are:
 
