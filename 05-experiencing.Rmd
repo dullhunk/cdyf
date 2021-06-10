@@ -58,10 +58,10 @@ So what counts as experience? In its broadest sense (paid and voluntary) experie
 
 * Insight programmes and spring weeks: work shadowing
 * Part-time jobs: casual or part-time work
-* Getting involved in open source software
+* Getting involved in open source software, section \@ref(opensource)
 * Summer internships or year-long placements
 * Being self-employed, working as a freelancer or starting a small business
-* Voluntary work, not necessarily technical
+* Voluntary work, both technical and non-technical
 
 <!--* Competitions: participating in competitions and hackathons will make your CV stand out-->
 
@@ -76,7 +76,7 @@ knitr::include_graphics("images/Big Name.png")
 
 Other ways to get a big name on your CV include joining a big name competition or event, for example:
 
-* Amazon hosts the Alexa challenge, see [developer.amazon.com/alexaprize](https://developer.amazon.com/alexaprize/challenges/current-challenge/rules)
+* Amazon hosts the Alexa challenge, see [developer.amazon.com/alexaprize](https://developer.amazon.com/alexaprize/challenges/current-challenge/rules) and the AWS Educate Challenge [aws.amazon.com/education/awseducate/university-challenge](https://aws.amazon.com/education/awseducate/university-challenge/)
 * Apple hosts the Swift Student Challenge [developer.apple.com/wwdc21/swift-student-challenge](https://developer.apple.com/wwdc21/swift-student-challenge/)
 * Facebook has hackathons, see [facebook.com/hackathon](https://en-gb.facebook.com/hackathon) and [developers.facebook.com](https://developers.facebook.com/)
 * Google hosts several events including:
@@ -95,10 +95,10 @@ Big names can look good on your CV, but they are not the only way to make your C
 Any experience will help your CV stand out. Smaller employers have the advantage that they tend to be less picky than big names so it is often easier to get a foot in the door. It might not be what you see yourself doing for long, but the experience gained in a small company can be invaluable.
 
 ### Open source experience {#opensource}
-Open source software projects are a great way to get some experience. There's two ways to get started:
+Open source software projects are a great way to get some solid experience of software engineering. There's two ways to get started:
 
 1. Raise a new issue via the project's issue tracker, such as [github issues](https://guides.github.com/features/issues/) [@githubissues]
-1. [Fix a bug](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749) by picking existing issues. [@fixabug] It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the architecture and toolchain being used (which might be complex) and solve problems. Github has a `<good first issue>` tag which helps new contributors identify starting points, see [goodfirstissue.dev](https://goodfirstissue.dev/) for some aggregated examples.
+1. [Fix a bug](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749) by picking existing issues. [@fixabug] It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the architecture and toolchain being used (which might be complex) and solve problems. See [firstcontributions.github.io](https://firstcontributions.github.io/) and the `<good first issue>` tag which helps new contributors identify starting points, see [goodfirstissue.dev](https://goodfirstissue.dev/) for some aggregated examples.
 
 There are lots of different motivations for getting involved in open source, shown in figure \@ref(fig:opensource-fig). Whatever your motivation, contributing to open source software is fun, you'll learn heaps and it will look *great* on your CV. Open source software is widely used by, so contributing is a great way to get some real world experience of software development. Many open source projects are funded by employers both large and small, and you can get paid to develop open source software through projects like Google's Summer of Code. [@gsoc]
 
@@ -141,7 +141,7 @@ I've often spoken to students who have neglected to tell me about their work in 
 ```{r budgens-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbudgens)"}
 knitr::include_graphics("images/budgens.jpeg")
 ```
-(ref:captionbudgens) Casual work in hospitality or retail, such as a supermarket like [Budgens](https://en.wikipedia.org/wiki/Budgens) where I used to work as a teenager, is worth mentioning on your CV. If you have any experience of this kind, make sure you mention it and describe the skills you developed. Think carefully about the verbs can you use to describe casual experience, see chapter \@ref(actioning).
+(ref:captionbudgens) Early in your career, casual work in hospitality or retail, such as a supermarket like [Budgens](https://en.wikipedia.org/wiki/Budgens) where I used to work as a teenager, is worth mentioning on your CV. If you have any experience of this kind, make sure you mention it and describe the skills you developed. Think carefully about the verbs can you use to describe casual experience, see chapter \@ref(actioning).
 
 <!-- BUDGENS -->
 <!--

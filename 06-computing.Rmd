@@ -45,7 +45,7 @@ At school, everyone learns to read, write and do maths. These are sometimes know
 
 Of course not, that would be ludicrous! You learned to read and write because they are fundamental tools for expressing yourself and communicating with other people. You studied maths so that you could develop numeracy, reason about the world around you, analyse data and solve problems.
 
-So why should everyone learn about computing? Is it so that everyone can become software engineers? Why should *you* learn about computing? Is it so that *you* can become a software engineer? Again, this is ludicrous.
+So why should everyone learn about computing? Is it so that everyone can become software engineers? Again, this is patently ludicrous.
 
 Everyone should study computing for the same reasons everyone studies maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](hhttps://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
 
@@ -57,7 +57,7 @@ knitr::include_graphics("images/youtube-sonicpi.png")
 Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. Have a look at Silvio Peroni's free computational thinking and programming book at [comp-think.github.io](https://comp-think.github.io/)  which is written for people with a background in the humanities. [@peroni]
 
 ### Computing is eating the world {#eating}
-Besides the social arguments, there are also strong economic reasons for studying computing. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) argued that [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). [@eatingtheworld] It's actually the combination of software *and* hardware that dominates the list of the world's largest corporations by market capitalisation, shown in figure \@ref(fig:market-fig). So it's not just software that's eating the world but computing.
+Besides the social arguments, there are also strong economic reasons for studying computing. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) argued that [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). [@eatingtheworld] It's actually the combination of software *and* hardware that dominates the list of the world's largest corporations by [market capitalisation](https://en.wikipedia.org/wiki/Market_capitalization), shown in figure \@ref(fig:market-fig). So it's not just software that's eating the world but computing.
 
 ```{r market-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarket)"}
 knitr::include_graphics("images/Market_Capitalisation.png")
