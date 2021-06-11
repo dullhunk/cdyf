@@ -260,9 +260,9 @@ Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org
 
 If you don't want to (or can't) use Git or [github.com](https://github.com/) then you can:
 
-* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your weapon of choice (tablet, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your personal weapon of choice (tablet, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Suggest changes by editing the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination algorithms in Word aren't anything like as good as the LaTeX ones used to create [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) from [cdyf.tex](https://cdyf.me/cdyf.tex).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
+* Suggest changes by editing the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the LaTeX ones used to create [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) from [cdyf.tex](https://cdyf.me/cdyf.tex).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a) so that your corrections are easily identified.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
@@ -275,7 +275,7 @@ First and foremost, I'd like to thank all the students who have helped with this
 
 > “If I have seen further it is by [standing on the shoulders of students](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).” [@newton]
 
-So, if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a high probability you have contributed to this book. Thank you for having the courage to tell me your stories. Thank you for being ambitious, hard working, talented, fearless, creative, inspirational and listening to me. It has been my pleasure and privilege to work with you all.
+So, if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a high probability you have contributed to this book. Thank you for having the courage to tell me your stories. Thank you for being ambitious, hard working, talented, fearless, creative, inspirational and listening to me (sometimes). It has been my pleasure and privilege to work with you all.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
@@ -521,7 +521,7 @@ I've done a range of voluntary work too, serving as a competition judge, fundrai
 ```{r faces-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfaces)"}
 knitr::include_graphics("images/faces.jpeg")
 ```
-(ref:captionfaces) Hindsight is a great teacher. I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)) [@faces] I've written some of what I know now in this guidebook,
+(ref:captionfaces) Hindsight is a great teacher. I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)) [@faces] I've written some of what I know now in this guidebook, I hope you find it useful.
 
 This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
