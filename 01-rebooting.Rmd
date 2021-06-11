@@ -53,7 +53,7 @@ knitr::include_graphics("images/nobody-cares-about-your-career-except-you.jpeg")
 (ref:captionandysc) Nobody cares about your career except you. Unattributed quotation via [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) [@andystanfordclark]
 
 
-Andy is now Master Inventor and Chief Technology Officer (CTO) at IBM in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the code). The sooner you get coding the better.
+Andy is now Chief Technology Officer (CTO) and [IBM Master inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the `code`). The sooner you get coding the better.
 
 At University, there are lots of people can help design and build your future: peers, friends, academic staff, your careers service, employers and your wider social and professional networks but ultimately it is *your* responsibility to sort out whatever comes next. That might sound obvious but don't wait for somebody else to do it for you, because it probably won't happen.
 
@@ -116,9 +116,13 @@ All of the resources that can help you are scattered around in lots of different
 
 ## It's too late when you graduate {#thisstuffmatters}
 
-You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. Procrastination is a part of the [human condition](https://en.wikipedia.org/wiki/Human_condition). There is [good and bad procrastination](http://paulgraham.com/procrastination.html) [@procrastination].
+You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. Procrastination is a part of the [human condition](https://en.wikipedia.org/wiki/Human_condition). There is [good and bad procrastination](http://paulgraham.com/procrastination.html), see figure \@ref(fig:procrastination-fig) [@procrastination].
 
->  “I'll get my degree out of the way first then worry about jobs and careers when I finish University” --Pro Crastinator
+```{r procrastination-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionprocrastination)"}
+knitr::include_graphics("images/procrastinator.jpeg")
+```
+
+(ref:captionprocrastination) The attitude “I’ll get my degree out of the way first then worry about jobs and careers when I finish University” is bad procrastination. It's too late when you graduate to start thinking about what comes next [@procrastination] Stresssed procrastinator picture by MismibaTinasheMadando on Wikimedia Commons [w.wiki/3TXo](https://w.wiki/3TXo)
 
 Postponing decisions about your career is usually bad procrastination. It probably doesn't help that many of issues described and discussed in this book are typically not closely integrated into the curriculum in Higher Education. You'll often find them on the edges, or completely outside of, standard University curricula. Broadly speaking, the professional issues described in this book are usually covered by pastoral support systems, counselling services, careers services, trade organisations, professional bodies, student unions and their societies.
 

@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future*, the guidebook that will help you to design, build, test and `code` your future in computing. Published at [cdyf.me](https://www.cdyf.me), [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), it is aimed at ALL students in higher education. This guide supports undergraduate teaching at the University of Manchester, but it doesn't actually matter:
+Hello and welcome to *Coding Your Future*: [cdyf.me](https://www.cdyf.me) the guidebook that will help you to design, build, test and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. This guide supports undergraduate teaching at the University of Manchester, but it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -86,7 +86,7 @@ So what *will* you learn from this guidebook? After reading this guidebook, watc
 1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
 1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
 1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
-1. Search and navigate a large “wordbase” (this guidebook and the work it cites). A wordbase is like a [codebase](https://en.wikipedia.org/wiki/Codebase), only written predominantly in natural language.
+1. Search and navigate a large “wordbase” (this guidebook and the work it cites). A wordbase is like a `[codebase](https://en.wikipedia.org/wiki/Codebase)`, only written predominantly in natural language.
 
 <!--codebase, documentbase, languagebase, wordbase-->
 
@@ -514,7 +514,7 @@ So, thanks to all my family for your unconditional love. Σε αγαπώ παρ�
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for undergraduate and postgraduate students as part of my job at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
 
-So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](amazingif.com)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
+So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
 
 I've done a range of voluntary work too, serving as a competition judge, fundraiser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, rabble rouser, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, librarian, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/), [journal clubber](https://sigcse.cs.manchester.ac.uk/) and editor. But as Ronnie Lane and Ronnie Wood once said, see figure \@ref(fig:faces-fig):
 

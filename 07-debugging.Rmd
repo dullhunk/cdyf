@@ -31,9 +31,14 @@ If you're applying to big employers, you'll need to create a CV that is good eno
 
 ## It's not bug, its a feature
 
-It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work:
+It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig)
 
-> “It's not a bug, it's a feature!” ---A. Hacker [@bugorfeature]
+```{r notabug-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionnotabug)"}
+knitr::include_graphics("images/notabug.jpeg")
+```
+
+(ref:captionnotabug) Do you have bugs or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or resume? Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA 4.0 via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62)
+
 
 Nobody likes buggy software, but we unfortunately routinely tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
 
