@@ -326,9 +326,13 @@ knitr::include_graphics("images/youtube-resume-or-cv.png")
 
 (ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)? [@youtube-resume-or-cv] The image in the figure is a screenshot, you can [watch the five minute video on how long your CV should be here](https://www.youtube.com/watch?v=0abDOKHS5T0).
 
-At this stage in your career you *should* be able to fit everything on to one page. However, it can be challenging squeezing it all on:
+At this stage in your career you *should* be able to fit everything on to one page. However, it can be challenging and time consuming squeezing it all on, see figure \@ref(fig:shorterletter-fig).
 
-> “If I had more time, I would have written a shorter letter.” ---Anon
+```{r shorterletter-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionshorterletter)"}
+knitr::include_graphics("images/shorterletter.jpeg")
+```
+
+(ref:captionshorterletter) I would have written a shorter ~~letter~~ CV but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale in his  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter] Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn)
 
 It takes more time to write less. Writing a one page resume is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page resume than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
 
@@ -365,7 +369,7 @@ The latter examples get to the point much quicker and avoid the problem of using
 
 ### Your links {#links}
 
-Augmenting your CV with web links (hyperlinks) can add important context to your story, without adding too many words or taking up valuable space as shown in figure \@ref(fig:lovelace-fig)
+Augmenting your CV with web links (hyperlinks) can add important context to your story, without adding too many words or taking up valuable space. An example using LinkedIn is shown in figure \@ref(fig:lovelace-fig)
 
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
 knitr::include_graphics("images/lovelace-linkedin.png")
@@ -464,7 +468,7 @@ Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion:
 Here is a quick check-list for debugging your CV before you send it off to an employer:
 
 1. ✅ Has it been reviewed by several people? Because according to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999]
-1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(reviewing)
+1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(hacking)
 1. ✅ Have you got a second opinion from a “resume robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much or too little? See section \@ref(pdf) <!-- merge with previous-->
 1. ✅ Is *everything* relevant? e.g. no swimming certificates from ten years ago?

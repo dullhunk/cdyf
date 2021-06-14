@@ -1,8 +1,13 @@
 <!--# (APPENDIX) Appendix {-}-->
 
-# Reviewing their future {#reviewing}
+# Hacking your future {#hacking}
 
-It's very easy to overlook mistakes in your own writing. That's true of any written communication such as a covering letter, personal statement, email or message that you write. Overlooked mistakes are particularly common in CVs (or resumes) because you can spend *hours* carefully honing the words and the formatting but not see a fatal error at the top of page one.
+It's very easy to overlook mistakes in your own writing. That's true of any written communication such as a covering letter, personal statement, email or any message that you write. Mistakes are particularly common in CVs (or resumes) because you can spend *hours* carefully honing the words and the formatting but not see a fatal error at the top of page one. You may need hack your CV and those of your peers, which could involve [kludges](https://en.wikipedia.org/wiki/Kludge) like the one shown in figure \@ref(fig:kludge-fig).
+
+```{r kludge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkludge)"}
+knitr::include_graphics("images/bridge-kludge-hack.png")
+```
+(ref:captionkludge) Your CV is a bridge which enables you to cross from where you are now to where you'd like to be in the future. The CV's in this chapter are all broken in some way, can you fix them? You may need to use [kludges](https://en.wikipedia.org/wiki/Kludge) and other ingenious hacks like the one shown here on the [Million Dollar Bridge](https://en.wikipedia.org/wiki/Miles_Glacier_Bridge) in Alaska. Public domain image of kludgy repairs by [Jet Lowe](https://en.wikipedia.org/wiki/Jet_Lowe) on Wikimedia Commons [w.wiki/3Uvn](https://w.wiki/3Uvn)
 
 <!-- CVs todo
 
@@ -13,16 +18,16 @@ It's very easy to overlook mistakes in your own writing. That's true of any writ
 -->
 
 
-## Debug their CV
+## Hack their CV
 
-There's at two kinds solutions to this problem, that involve [dogfooding](#dogfooding), we've already talked about in section \@ref(dogfooding):
+A useful hacking technique is to take somebody elses stuff and fix or improve it. That works for writing as well as actual `code`. The [dogfooding](#dogfooding) technique, we've already talked about in section \@ref(dogfooding) is a useful hacking technique which you can use by:
 
-1. Eat your *own* dogfood by reading your own written work ALOUD <!--self assess using the rubric-->
-1. Eat *somebody elses* dogfood by:
-    - Debugging a friends or peers CV by swapping with them and giving them constructive feedback
-    - Debugging the fictitious CVs below by ranking them against a job advert. Who would you want to interview and why?
+1. Eating your *own* dogfood by reading your own written work ALOUD <!--self assess using the rubric-->
+1. Eating *somebody elses* dogfood by:
+    - Hacking a friends or peers CV by swapping with them and giving them constructive feedback
+    - Hacking the fictitious CVs below by ranking them against a job advert. Who would you want to interview and why?
 
-So, here are some fictitious CVs for you to debug, from students of Computer Science. They are based on CVs I've seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can you debug their CV and work out which candidate is best for the sample job description at CoolTech in section \@ref(cooltech)?
+So, here are some fictitious CVs for you to hack, from students of Computer Science. They are based on CVs I've seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can fix their CVs and work out which candidate is best for the sample job description at CoolTech in section \@ref(cooltech)?
 
 Special thanks to [Toby Howard](https://en.wikipedia.org/wiki/Toby_Howard) and [Sean Bechhofer](https://personalpages.manchester.ac.uk/staff/sean.bechhofer/) for coming up with some of these silly names. Please direct any complaints about the terrible geeky puns to Toby and Sean! Thanks also Ben Carter and Penny Gordon Lanes in the careers service at the University of Manchester, some of these CVs are based on examples they have collected and anonymised. 🙏
 
@@ -31,7 +36,7 @@ Special thanks to [Toby Howard](https://en.wikipedia.org/wiki/Toby_Howard) and [
 Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion, when you read these CVs make a note of:
 
 1. **What Went Well?** (WWW) What do you like about any given CV, what have they done well?
-1. **Even Better If?** (EBI) What could be improved
+1. **Even Better If?** (EBI) What could be fixed or improved
 1. **Their Rank** Who is top of your list to interview? Who is going in the bin and why?
 
 <!-- also use the CV rubric and CV checklist-->
@@ -40,7 +45,7 @@ Imagine the person is real, what would you tell them about their CV if they'd gi
 
 ## Sample CVs
 
-Reading other people's CVs will help you improve your own because you're putting yourself in the shoes of your reader. Here are some samples:
+Reading and hacking other people's CVs will help you improve your own because you're putting yourself in the shoes of your reader. Here are some samples:
 
 ### Penelope Tester {#pen-tester}
 
@@ -87,7 +92,7 @@ knitr::include_graphics("images/flo_ting_point.png")
 
 ### Peter Byte {#peter-byte}
 
-Peter and his [twin sister Peta](https://en.wikipedia.org/wiki/Peta_(given_name)), both love big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with nine siblings, Deca, Hector, Kilo, Megan, Giga, Terry, Exa, Zita and Yotta. They are wildly ambitious, but critics say the Byte family have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
+Peter and his [twin sister Peta](https://en.wikipedia.org/wiki/Peta_(given_name)), both love big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with nine siblings, [Deca](https://en.wikipedia.org/wiki/Deca-), [Hector](https://en.wikipedia.org/wiki/Hecto-), [Kilo](https://en.wikipedia.org/wiki/Kilo-), [Megan](https://en.wikipedia.org/wiki/Mega-), [Giga](https://en.wikipedia.org/wiki/Giga-), [Terry](https://en.wikipedia.org/wiki/Tera-), [Exa](https://en.wikipedia.org/wiki/Exa-), [Zita](https://en.wikipedia.org/wiki/Zetta-) and [Yotta](https://en.wikipedia.org/wiki/Yotta-). They are wildly ambitious, but critics say the Byte family have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
 
 ```{r peterbyte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpeter)"}
 knitr::include_graphics("images/peter_byte.png")

@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future*: [cdyf.me](https://www.cdyf.me) the guidebook that will help you to design, build, test and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. This guide supports undergraduate teaching at the University of Manchester, but it doesn't actually matter:
+Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, build, test and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. This guide supports undergraduate teaching at the University of Manchester, but it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -35,17 +35,13 @@ Hello and welcome to *Coding Your Future*: [cdyf.me](https://www.cdyf.me) the gu
 There is something in this guidebook for *any* student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
 ## Visualising your future {#picturethis}
-A lot of self-help literature can be dry, dull, textbooky and boring with few illustrations and conversations.
+A lot of self-help literature can be dry, dull, textbooky and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland] shown in figure \@ref(fig:aiw-fig), the protagonist Alice wonders why her sister is reading a book without pictures.
 
-```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionalicecover)"}
-knitr::include_graphics(rep("images/Alicesadventuresinwonderland1898.jpg", 3))
+
+```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionalicecover)"}
+knitr::include_graphics("images/alicequotation.jpeg")
 ```
-(ref:captionalicecover) The cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)*. Public domain image via Wikimedia Commons [w.wiki/3S4C](https://w.wiki/3S4C)
-
-
-In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the heroine Alice is looking at book her sister is reading:
-
-> Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?” -- See [gutenberg.org](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01) [@wonderland]
+(ref:captionalicecover) Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations? [@wonderland] Public domain image of the cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland) via Wikimedia Commons [w.wiki/3S4C](https://w.wiki/3S4C)
 
 So this book uses pictures and conversations wherever possible to help you understand and visualise your future.
 
@@ -86,11 +82,11 @@ So what *will* you learn from this guidebook? After reading this guidebook, watc
 1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
 1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
 1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
-1. Search and navigate a large “wordbase” (this guidebook and the work it cites). A wordbase is like a `[codebase](https://en.wikipedia.org/wiki/Codebase)`, only written predominantly in natural language.
+1. Search and navigate a large “wordbase” (this guidebook and the work it cites). A wordbase is like a [codebase](https://en.wikipedia.org/wiki/Codebase), only written predominantly in natural language.
 
 <!--codebase, documentbase, languagebase, wordbase-->
 
-### Your future prerequisites {#prereq}
+### Your future requirements {#prereq}
 As the title of this guidebook implies, there is a computational flavour here, but you do not have to be studying Computer Science to benefit. There are two main target audiences for this guidebook:
 
 1. Undergraduate and postgraduate students studying Computer Science as a major or minor part of their degree. This includes software engineering, artificial intelligence, human-computer interaction (HCI), information systems, health informatics, data science, gaming, cybersecurity and all the other myriad flavours of Computer Science
@@ -181,7 +177,7 @@ knitr::include_graphics("images/clifton.png")
 (ref:captionclifton) Huge supporting chains on the [Clifton Suspension Bridge](https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge) in Bristol allow heavy loads pass over the Avon valley bridge. You'll need good support to cope with the stresses and strains of building your future. Clifton suspension bridge picture adapted from original by Nic Trott via Wikimedia commons [w.wiki/32tu](https://w.wiki/32tu)
 
 * Chapter \@ref(ruling): *Ruling your future* provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
-* Chapter \@ref(reviewing): *Reviewing their future* invites you to put yourself in the employers shoes by reviewing other people's CVs
+* Chapter \@ref(hacking): *Hacking your future* invites you to put yourself in the employers shoes by hacking other people's CVs
 * Chapter \@ref(moving): *Moving your future* looks at opportunities outside of capital cities like London
 * Chapter \@ref(hearing): *Hearing your future* invites you to listen to students stories of their transition from education to employment
 * Chapter \@ref(actioning): *Actioning your future* gets you to think about your actions by emphasising verbs on your job applications
@@ -219,11 +215,7 @@ knitr::include_graphics("images/goldengate.png")
 
 
 ## Contributing to your future {#contributing}
-If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend).
-
-### Contributions sought {#dontbeshy}
-
-I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
+If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend). I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
 
 * Does the chapter make sense, is it clear?
 * Does it strike the right tone, is it pitched at the right level? Not patronising? Too many platitudes?
@@ -239,7 +231,7 @@ I'm looking for feedback and contributions on everything in this guidebook from 
 * What's missing?
 * Where are the unstated assumptions? Where is the unconscious bias?
 * What are the issues with equality, diversity and inclusion?
-* Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike a light hearted and playful tone to improve readability 😜
+* Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike an irreverent, light-hearted and playful tone to improve readability 😜
 * What else should be ruthlessly edited out?
 
 All suggestions welcome! Don't be shy. There are several ways you can contribute, depending on how comfortable you are with Git:
@@ -271,18 +263,17 @@ Any corrections or suggestions will be gratefully received and noted in the ackn
 The content of this book is based on hundreds of conversations I have had with students of (mainly) Computer Science and Maths with some Physics and Engineering, since 2012. It is also based on conversations I've had with many of their employers too.
 
 ### Thank you students {#students}
-First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly.
+First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly see figure \@ref(fig:giants-fig)
 
-> “If I have seen further it is by [standing on the shoulders of students](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).” [@newton]
+```{r giants-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongiants)"}
+knitr::include_graphics("images/standing-on-the-shoulders-of-students.png")
+```
+(ref:captiongiants) If I have seen further it is by [standing on the shoulders of ~~giants~~ students](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants). [@newton] Public domain image of Orion carrying his servant Cedalion on his shoulders via Wikimedia Commons [w.wiki/_zZ2E](https://w.wiki/_zZ2E)
 
 So, if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a high probability you have contributed to this book. Thank you for having the courage to tell me your stories. Thank you for being ambitious, hard working, talented, fearless, creative, inspirational and listening to me (sometimes). It has been my pleasure and privilege to work with you all.
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
-knitr::include_graphics("images/bbcbreakfastsofa.png")
-```
-(ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning student team at the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford, Greater Manchester
 
-I'd especially like to thank industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish and Petia Davidova. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(reviewing) on *Reviewing their future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
+I'd especially like to thank industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish and Petia Davidova. In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(hacking) on *Hacking your future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -295,6 +286,12 @@ contributors <- contributors %>%
 cat(paste0(contributors$desc, collapse = ", "))
 ```
 -->
+
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
+knitr::include_graphics("images/bbcbreakfastsofa.png")
+```
+(ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning student team at the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford, Greater Manchester
+
 
 So, thank you students for being studious. 🙏
 
@@ -485,7 +482,7 @@ So, thanks githubbers for cloning, forking, pulling, adding, committing and push
 <!-- also sharifsalah,Sharif Salah,https://github.com/sharifsalah and njall,Niall Beard,https://github.com/njall-->
 
 ### Thank you Wikipedians {#wikipedians}
-Thanks Wikipedians Daria Cybulska, Melissa Highton, [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), Ewan McAndrew, Richard Nevell, Bhavesh Patel, Sara Thomas, [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for [inspiration](https://duncan.hull.name/2019/12/10/glasgow/), [support](https://wiki-loves-scientists.org.uk/2020/05/21/wiki1000/) and guidance on some of the issues of equality, diversity and inclusion, especially gender and race.
+Thanks Wikipedians Caroline Ball, Daria Cybulska, Melissa Highton, [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), Ewan McAndrew, Richard Nevell, Bhavesh Patel, Sara Thomas, [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for [inspiration](https://duncan.hull.name/2019/12/10/glasgow/), [support](https://wiki-loves-scientists.org.uk/2020/05/21/wiki1000/) and guidance on some of the issues of equality, diversity and inclusion, especially gender and race.
 
 So, thanks Wikipedians for being Wikipedia. 🙏
 
@@ -516,7 +513,7 @@ Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote thi
 
 So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
 
-I've done a range of voluntary work too, serving as a competition judge, fundraiser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, rabble rouser, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, librarian, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/), [journal clubber](https://sigcse.cs.manchester.ac.uk/) and editor. But as Ronnie Lane and Ronnie Wood once said, see figure \@ref(fig:faces-fig):
+I've done a range of voluntary work too, serving as a competition judge, fundraiser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, rabble rouser, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, librarian, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/), [journal clubber](https://sigcse.cs.manchester.ac.uk/) and editor. But as Ronnie Lane and Ronnie Wood (figure \@ref(fig:faces-fig)) once said:
 
 ```{r faces-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfaces)"}
 knitr::include_graphics("images/faces.jpeg")
