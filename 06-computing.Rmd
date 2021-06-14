@@ -16,27 +16,11 @@ Reading this chapter and doing the activities will help you to:
 <!--* Describe why computing is a stimulating and challenging subject to study in its own right
 * Identify creative opportunities in computing, whatever your background-->
 
-## Computing: your future? {#copps}
 
-What role will computing play in your future career? A Professor of Computer Science at Princeton University, [Robert Sedgwick](https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)), has, like many others, argued that Computer Science should be required of all students:
-
-> Every college student needs a computer science course, and most need two or more. More and more educators are
-> beginning to recognize this truth, but we are a long way from meeting the need. --Robert Sedgwick [@robertsedgwick]
-
-<!--
-The gist of his argument is that Computer Science is too important to be left to Computer Scientists, because it influences every field of human endeavour.
-
-
-see alsoTen Reasons to Study Computer Science  https://www.nccedu.com/ten-reasons-study-computer-science/
-
-and what is computer science https://www.cs.york.ac.uk/undergraduate/what-is-cs/
-
-## Too important for Computer Scientists
--->
 
 But why should everyone be studying computing? There are social and economic arguments:
 
-### Computing is creative and expressive {#creative}
+### Computing your future {#creative}
 
 At school, everyone learns to read, write and do maths. These are sometimes known as [the three Rs](https://en.wikipedia.org/wiki/The_three_Rs) but:
 
@@ -56,8 +40,31 @@ knitr::include_graphics("images/youtube-sonicpi.png")
 
 Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. Have a look at Silvio Peroni's free computational thinking and programming book at [comp-think.github.io](https://comp-think.github.io/)  which is written for people with a background in the humanities. [@peroni]
 
+## Software is eating the world {#seating}
+
+Whatever world you enter into after you graduate, there's a good chance it has already been changed by software and will continue to be in the future. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) argued that [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/), see figure \@ref(fig:eating-fig).
+
+```{r eating-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioneating)"}
+knitr::include_graphics("images/software-is-eating-the-world.jpeg")
+```
+(ref:captioneating) Whatever world you enter after you graduate, software has either eaten it, currently eating it or working out how to do so. [@eatingtheworld] Picture of Marc Andreessen by JD Lasica on Wikimedia Commons [w.wiki/3V48](https://w.wiki/3V48)
+
+Unfortunately, many people lack the digital skills required to take advantage of all the opportunities provided by software. [Robert Sedgwick](https://en.wikipedia.org/wiki/Robert_Sedgewick_(computer_scientist)) at Princeton University has, like many others, argued that Computer Science should be required of all undergraduate students. [@robertsedgwick] We're not there yet because computing is a subject that has historically been siloed in Computer Science Departments, but this is changing as we'll see in this chapter. It's not that everyone should jump ship to Computer Science, but that computing is too important a subject to be left to Computer Scientists alone.
+
+
+<!--
+The gist of his argument is that Computer Science is too important to be left to Computer Scientists, because it influences every field of human endeavour.
+
+
+see alsoTen Reasons to Study Computer Science  https://www.nccedu.com/ten-reasons-study-computer-science/
+
+and what is computer science https://www.cs.york.ac.uk/undergraduate/what-is-cs/
+
+## Too important for Computer Scientists
+-->
+
 ### Computing is eating the world {#eating}
-Besides the social arguments, there are also strong economic reasons for studying computing. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) argued that [software is eating the world](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). [@eatingtheworld] It's actually the combination of software *and* hardware that dominates the list of the world's largest corporations by [market capitalisation](https://en.wikipedia.org/wiki/Market_capitalization), shown in figure \@ref(fig:market-fig). So it's not just software that's eating the world but computing.
+Besides the social arguments, there are also strong economic reasons for studying computing. It's not just software that's eating the world, but  its combination with hardware that dominates the list of the world's largest corporations by [market capitalisation](https://en.wikipedia.org/wiki/Market_capitalization), shown in figure \@ref(fig:market-fig). So it's not just software that's eating the world but computing.
 
 ```{r market-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarket)"}
 knitr::include_graphics("images/Market_Capitalisation.png")
