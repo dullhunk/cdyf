@@ -21,11 +21,16 @@ Reading this chapter and doing the activities will help you to
 
 ## What's your story, coding glory? {#story}
 
-> “If you are human, you love stories. Why? We're hardwired to love stories because they help us understand
->  our world and are essential to our evolution. We use stories to organise and communicate our surroundings
-> and our past, present and future” ---Heather Box and Julian Mocine-McQueen [@freeyourstory]
+We're hardwired to love storytelling because it help us understand our world, see figure \@ref(fig:storytelling-fig). We use stories to organise and communicate, so knowing your story is a crucial part of knowing who you are. What's your story?
 
-Self-awareness, understanding who you are, is important for leading a healthy and happy life, and likely to be an important factor in your future success. One way to develop self-awareness is to think about what your story is. [@freeyourstory] How did you get here, where are you going, what has inspired you? Who is the authentic you? [@regrets] What are your hopes and dreams? By starting to answer these questions you will gain a better understanding of who you are. This includes strengths, weaknesses, motivation and values. [@parachute2020]
+```{r storytelling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstorytelling)"}
+knitr::include_graphics("images/storytelling.jpeg")
+```
+(ref:captionstorytelling) [Storytelling](https://en.wikipedia.org/wiki/Storytelling) is an ancient art. Who doesn't love a good story? What's your story, coding glory? As a species *Homo sapiens*, we need to tell and hear stories to understand the world around us. Public domain image of a painting by John Everett Millais, with a seafarer telling the story of what happened out at sea, via Wikimedia Commons [w.wiki/3VHM](https://w.wiki/3VHM)
+
+Self-awareness, understanding who you are, is important for leading a healthy and happy life, and likely to be an important factor in your future success. One way to develop self-awareness is to think about the finer details of your story. [@freeyourstory] How did you get here, where are you going, what has inspired you? Who is the authentic you? [@regrets] What are your hopes and dreams? By starting to answer these questions you will gain a better understanding of who you are. This includes strengths, weaknesses, motivation and values. [@parachute2020]
+
+Your story is probably complex but you need to know it so you can distill the details of it into *much* shorter stories on your job applications described in section \@ref(mycvst).
 
 [comment]: <> (picneeded head, heart hands)
 
@@ -150,7 +155,7 @@ Reflecting on your identity should lead you to check any privileges you might ha
 
 * **If you're white** a good place to start understanding your white privileges is *[Why I'm No Longer Talking to White People About Race](https://en.wikipedia.org/wiki/Why_I'm_No_Longer_Talking_to_White_People_About_Race)* by [Reni Eddo Lodge](https://en.wikipedia.org/wiki/Reni_Eddo-Lodge) [@nottalking] and *[Superior: The Return of Race Science](https://en.wikipedia.org/wiki/Superior:_The_Return_of_Race_Science)* by [Angela Saini](https://en.wikipedia.org/wiki/Angela_Saini)
 * **If you're male** a good place to start understanding the privileges you have as a result of being a man is *[Inferior](https://en.wikipedia.org/wiki/Inferior_(book))* by [Angela Saini](https://en.wikipedia.org/wiki/Angela_Saini) [@inferior]
-* **If you're socially privileged** a good place to start understanding the privileges you have as a result of your class is *The Class Ceiling: Why it Pays to be Privileged* by Sam Friedman and Daniel Laurison [@classceiling]. If you were privately educated in Britain (or elsewhere) you should read *[Engines of Privilege: Britain's Private School Problem ](https://en.wikipedia.org/wiki/Engines_of_Privilege)* [@nicebutdim]
+* **If you're socially privileged** a good place to start understanding the privileges you have as a result of your class is *The Class Ceiling: Why it Pays to be Privileged* by Sam Friedman and Daniel Laurison [@classceiling]. If you were privately (or selectively) educated in Britain (or elsewhere) you should read *[Engines of Privilege: Britain's Private School Problem ](https://en.wikipedia.org/wiki/Engines_of_Privilege)* [@nicebutdim]
 * **If you're heterosexual** a good place to start understanding the privileges you have as a result of your sexual orientation is [Ben Britton](https://en.wikipedia.org/wiki/Ben_Britton)'s presentation on *No sexuality please, we're scientists*  [@nosex] which covers bisexuality and homosexuality, including lesbian and gay homosexuality
 * **If you're gender binary** a good place to start understanding the privileges you have as a result of being [gender binary](https://en.wikipedia.org/wiki/Gender_binary) is Ben Britton's presentation [@nosex] which also covers transgender, genderqueer, non-binary and plus identities  
 
