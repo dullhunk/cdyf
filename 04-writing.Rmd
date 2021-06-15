@@ -120,7 +120,7 @@ Hopefully I've convinced you that written communication skills (both as a writer
 ### Dogfooding {#dogfooding}
 
 <!-- similar to rubber duck debugging https://en.wikipedia.org/wiki/Rubber_duck_debugging-->
-Many companies test their products by trialling them on their own employees, this is known as [eating your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) shown in figure \@ref(fig:dogfooding-fig). Tasty, tasty dogfood. 🐶
+Many employers test their products by trialling them on their own employees, this is known as [eating your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) shown in figure \@ref(fig:dogfooding-fig). Tasty, tasty dogfood. 🐶
 
 ```{r dogfooding-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondogfooding)"}
 knitr::include_graphics("images/dogfooding-eating-your-own-dogfood.jpeg")
