@@ -174,15 +174,24 @@ Likewise, you should make sure you don't undersell yourself. Know your value (fi
 Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between.
 
 ### Beware of the time sink {#timesink}
-Finding employers that you are interested in and submitting high quality job applications takes time. Many students under-estimate the time needed to job hunt. Even if you have managed to:
+Finding employers that you are interested in and submitting high quality job applications takes time. Many students under estimate the time needed to job hunt. It can be a very time consuming process for job hunters like you and employers too, see figure \@ref(fig:timesink-fig).
 
-1. Identify your skills, knowledge and what you're interested in (see chapter \@ref(knowing)) 
-1. Updated your CV, see chapter \@ref(debugging)
-1. Worked out where to apply
+```{r timesink-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captiontimesink)"}
+knitr::include_graphics("images/timesink.jpeg")
+```
+(ref:captiontimesink) Playing the game of job hunting can be a big drain on your time and a certain amount of time wasting is unfortunately inevitable. Employers will waste some of your valuable time and you'll waste some of theirs aswell. Beware of the recruitment [time sink](https://en.wikipedia.org/wiki/Time_sink). Public domain image of a DualShock PlayStation controller by [Evan Amos](https://en.wikipedia.org/wiki/Evan_Amos) on Wikimedia Commons [w.wiki/3VFp](https://w.wiki/3VFp)
 
-.. the actual business of applying can be very bureaucratic. Any interviews you have will take time to prepare for (see chapter \@ref(speaking)) and you've got loads of other calls on your time like studying and having a social life.
+Even after you have managed to:
 
-One way to tackle this problem is to schedule some time every week when you work on applications, see chapter \@ref(scheduling). However, there's no getting away from the fact that finding a job will be time consuming. Beware of the [time sink](https://en.wikipedia.org/wiki/Time_sink).
+1. Identify and articulate your skills and knowledge, see chapter \@ref(knowing)
+1. Understand what you're interested in, see chapter \@ref(knowing)
+1. Update your CV, see chapter \@ref(debugging)
+1. Consider all your options, see chapter \@ref(broadening)
+1. Target employers or sectors of interest
+
+.. the actual business of applying described in this chapter can be very bureaucratic. Any interviews you have will take time to prepare for (see chapter \@ref(speaking)) and you've got loads of other calls on your time like studying and having a social life.
+
+One way to tackle this problem is to schedule some time every week when you work on applications, see chapter \@ref(scheduling). However, there's no getting away from the fact that finding a job will be time consuming. Beware of the time sink.
 
 ### Beware of rejection {#rejection}
 For most people, repeated rejections are a normal part of applying for jobs. Rejection can take a heavy toll on your mental health described in chapter \@ref(nurturing) and it is usually a struggle. Some employers won't even bother to reply to reject you, welcome to the employer black hole described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
