@@ -75,7 +75,6 @@ https://www.independent.co.uk/news/education/education-news/ey-firm-says-it-will
 1. There are more and more graduates, the UK for example recently passed the milestone of 50% of young people going into higher education. This compares to just 15% of over 18s who stayed in higher education in 1980 [@lotsofgrads]
 1. The increase in the number of graduate schemes and graduate jobs has not kept pace with this growth in graduates which means that each graduate job or graduate scheme has more and more graduates applying for it
 1. There are lots of graduates in your discipline. In the UK, for example, around 9,000 students graduate every year in Computer Science. If you're studying in the UK, what makes you different from the other 8,999 computer scientists graduating in your year?
-
 <!--
 
 library(ggplot2)
@@ -116,7 +115,7 @@ All of the resources that can help you are scattered around in lots of different
 
 ## It's too late when you graduate {#thisstuffmatters}
 
-You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. Procrastination is a part of the [human condition](https://en.wikipedia.org/wiki/Human_condition). There is [good and bad procrastination](http://paulgraham.com/procrastination.html), see figure \@ref(fig:procrastination-fig) [@procrastination].
+You might be tempted to postpone making difficult career decisions. I'll do it tomorrow. I'll do it next week. I'll do it next year. I'll finish this assignment. I'll finish this exam. I'll finish this semester. I'll finish my degree first. Procrastination is a part of the [human condition](https://en.wikipedia.org/wiki/Human_condition). There is [good and bad procrastination](http://paulgraham.com/procrastination.html), see figure \@ref(fig:procrastination-fig) [@procrastination].
 
 ```{r procrastination-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionprocrastination)"}
 knitr::include_graphics("images/procrastinator.jpeg")
@@ -126,14 +125,16 @@ knitr::include_graphics("images/procrastinator.jpeg")
 
 Postponing decisions about your career is usually bad procrastination. It probably doesn't help that many of issues described and discussed in this book are typically not closely integrated into the curriculum in Higher Education. You'll often find them on the edges, or completely outside of, standard University curricula. Broadly speaking, the professional issues described in this book are usually covered by pastoral support systems, counselling services, careers services, trade organisations, professional bodies, student unions and their societies.
 
-Despite being sidelined, these issues matter and it is in your own self interests to start thinking about them right now. According to recent estimates by *Investors in People*, the average person spends **80,000 hours** working during their lifetime. [@iip2] So, *whatever* you end up doing after University, you'll be spending a lot of time doing it. Difficult decisions often get sidelined but it is never too early to start thinking about them and doing something. The sooner you start thinking about them the better decisions you'll make about what comes next. It's too late when you graduate.
+Despite being sidelined, these issues matter and it is in your own self interests to start thinking about them right now. According to recent estimates by *Investors in People*, the average person spends **80,000 hours** working during their lifetime. [@iip2] So, *whatever* you end up doing after University, you'll be spending a lot of time doing it. Difficult decisions often get sidelined but it is never too early to start thinking about them and doing something.
+
+If you want to work for a big name like those in section \@ref(bignames) or \@ref(studentjobs), many of the larger graduate employers expect you to have *some* experience (see chapter \@ref(experiencing)) *before* you graduate. A large chunk of vacancies on graduate schemes are filled people who have already been employed as interns or placement students within that (or another) organisation. So the sooner you start investigating employers by getting some experience the better decisions you'll be able to make about what comes next. It's too late when you graduate.
 
 That doesn't mean you have to know EXACTLY what you want to do when you finish. Lots of students don't and I certainly didn't when I graduated. I'd done a gap year teaching in India, two summer internships (in Sweden and the United States) and a year-in-industry in the UK and I *still* graduated with **no clue** as to what I wanted to do next! The important thing is that you make a start, and sometimes knowing what you **don't** want to do is just as valuable as knowing what you want to do.
+
 
 <!--See the [I don't know what I want to do](#noclue) section.-->
 
 Computer scientists call this problem “search space reduction”, [@searchspace] because you have a [feasible region](https://en.wikipedia.org/wiki/Feasible_region) of future possibilities and you need to narrow down the candidates. You could think of coding your future as an [optimisation problem](https://en.wikipedia.org/wiki/Optimization_problem). Start optimising now because it's too late when you graduate. 🎓
-
 
 
 ## Yes, this WILL be on the exam {#exams}
