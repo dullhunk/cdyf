@@ -55,6 +55,6 @@ http://pgbovine.net/PhD-memoir.htm-->
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar9-fig).
 
-```{r deathstar9-fig, echo = FALSE, fig.align = "center", out.width = "32%", fig.cap = "(ref:captiondeathstar)"}
+```{r deathstar9-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
 knitr::include_graphics("images/DeathStar2.jpg")
 ```

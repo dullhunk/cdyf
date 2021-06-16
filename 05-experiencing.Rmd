@@ -119,7 +119,7 @@ Experience as a section of your CV usually means *paid* work. However, experienc
 ### Casual experience {#casual}
 You may already have experience of paid employment as a casual or part-time worker. This could include jobs such as waiting tables, serving in a bar or working in other areas of hospitality or retail, for example as a Saturday job.
 
-```{r paperboy-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionpaperboy)"}
+```{r paperboy-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpaperboy)"}
 knitr::include_graphics("images/Titanic-paperboy-crop.jpeg")
 ```
 (ref:captionpaperboy) Casual and part-time work tell an important story about you on your CV. For example, from the age of 11, I was a paperboy, delivering newspapers door to door to paying customers. This demonstrates reliability and work ethic, because I did this in all weathers (sun, wind, rain, snow, hangovers etc) for seven years, man and boy! If you have casual experience, don't forget to include it in your CV. Public domain image of the Titanic paperboy, Ned Parfett selling newspapers in London via Wikimedia Commons at [w.wiki/35HA](https://w.wiki/35HA)
@@ -243,6 +243,6 @@ What the the pros/cons of big vs small employers for placements
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar2-fig).
 
-```{r deathstar2-fig, echo = FALSE, fig.align = "center", out.width = "32%", fig.cap = "(ref:captiondeathstar)"}
+```{r deathstar2-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
 knitr::include_graphics("images/DeathStar2.jpg")
 ```

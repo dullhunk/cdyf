@@ -2,7 +2,7 @@
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, resume or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
+It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
 
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)"}
@@ -72,12 +72,14 @@ Like writing software, the challenging part of writing a CV isn't the *creation*
 
 While referring to this guide, remember that:
 
-* The main purpose of your CV is to get an interview, not a job. Your CV should catch attention and provide talking points for an interview but not give your whole life story
+* The main purpose of your CV is to get an interview, not a job. Your CV should catch attention and provide talking points for an interview
 * Your CV will be assessed in seconds, rather than minutes so brevity really is key
 * Bullet points with verbs first (see section \@ref(verbsfirst)) will:
   + allow your reader to quickly scan your CV ([employers don't read CVs, they scan them](https://readabilityguidelines.co.uk/content-design/how-people-read/)) [@scanning]
   + highlight your key activities
   + avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose) (which the reader will very probably skip anyway) you can use your beautiful prose on your covering letter, see section \@ref(we3qs)
+
+You're not trying to tell your *whole* life story from section \@ref(story) but to distill the essentials into several short stories which can be summarised into a handful of bullets or sentences. It's a bit like the blurb or synopsis on the back of novel, can you entice the reader into wanting to find out more?
 
 ## Is it a bug or a feature? {#mycv}
 
@@ -332,17 +334,17 @@ At this stage in your career you *should* be able to fit everything on to one pa
 knitr::include_graphics("images/shorterletter.jpeg")
 ```
 
-(ref:captionshorterletter) I would have written a shorter ~~letter~~ CV but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale in his  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter] Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn)
+(ref:captionshorterletter) I would have written a shorter ~~letter~~, ~~CV~~, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale in his  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter] Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn)
 
-It takes more time to write less. Writing a one page resume is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page resume than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
+It takes more time to write less. Writing a one page résumé is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page résumé than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
 
 ```{r morefeatures-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionmorefeatures)"}
 knitr::include_graphics("images/an-engineering-state-of-mind.png")
 ```
 
-(ref:captionmorefeatures) If it ain't broke it doesn't have enough features yet. Adding more features to software doesn't necessarily make it better. Likewise, adding more pages and content to your CV or resume won't always improve it. It's often better to be precise and concise, rather than bloated and potentially more buggy. [An engineering state of mind](https://bryanmmathers.com/an-engineering-state-of-mind/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), with help from Dilbert cartoonist [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams)
+(ref:captionmorefeatures) If it ain't broke it doesn't have enough features yet. Adding more features to software doesn't necessarily make it better. Likewise, adding more pages and content to your CV or résumé won't always improve it. It's often better to be precise and concise, rather than bloated and potentially more buggy. [An engineering state of mind](https://bryanmmathers.com/an-engineering-state-of-mind/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), with help from Dilbert cartoonist [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams)
 
-If you're struggling to fit all the information onto a one page resume, revisit each section and item carefully. Is there anything you can drop? Can you save a wasteful word here, or a lazy line there? Check for any spurious line breaks because every pixel counts. Don't throw your two page CV away, it is still a good store of stuff you might want to add to customised one-page resumes.
+If you're struggling to fit all the information onto a one page résumé, revisit each section and item carefully. Is there anything you can drop? Can you save a wasteful word here, or a lazy line there? Check for any spurious line breaks because every pixel counts. Don't throw your two page CV away, it is still a good store of stuff you might want to add to customised one-page résumés.
 
 ### Verbs first: lead with your actions {#verbsfirst}
 
@@ -408,7 +410,7 @@ Besides LinkedIn you could include public profiles from [github.com](https://doc
 
 ### Robot proofing your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “resume robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with you personal data. Resume robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “résumé robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with you personal data. Résumé robots include:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 * [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV
@@ -419,7 +421,7 @@ It's a good idea get feedback from as many different sources as you can on your 
 knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png")
 ```
 
-(ref:captionmachines) Although they often struggle to get up the stairs, resume robots are likely to play an important role in any decisions to invite you to a job interview, especially if you're applying to bigger companies. Make sure your CV is resume robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionmachines) Although they often struggle to get up the stairs, résumé robots are likely to play an important role in any decisions to invite you to a job interview, especially if you're applying to bigger companies. Make sure your CV is résumé robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't identify it. Some things to check with automated CV screens:
 
@@ -430,7 +432,7 @@ Besides providing feedback on the content of your CV, using these systems can he
 
 ### Your references {#referees}
 
-You might be tempted to put your referees details on your resume. Don't bother because;
+You might be tempted to put your referees details on your résumé. Don't bother because;
 
 * references waste valuable space. You can say much more interesting things about yourself than who you referees are
 * references aren't needed in the early stages of a job application. They are typically taken up much later, when you've been offered or are about to be offered the job
@@ -469,7 +471,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 
 1. ✅ Has it been reviewed by several people? Because according to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999]
 1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(hacking)
-1. ✅ Have you got a second opinion from a “resume robot”? Is it robot proof? See section \@ref(robotproof) 🤖
+1. ✅ Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much or too little? See section \@ref(pdf) <!-- merge with previous-->
 1. ✅ Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
@@ -483,7 +485,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
 1. ✅ Have you clearly distinguished between paid, unpaid and voluntary experience?
-1. ✅ Does it fit comfortably on exactly one page (resume) or a two pages (CV)? Not one-and-a-half pages or more than two? See section \@ref(length)
+1. ✅ Does it fit comfortably on exactly one page (résumé) or a two pages (CV)? Not one-and-a-half pages or more than two? See section \@ref(length)
 
 ## Covering letters & personal statements {#we3qs}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to have a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for ages without providing any evidence. Usually this kind of information is better in your covering letter.

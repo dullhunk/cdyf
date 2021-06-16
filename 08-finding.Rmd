@@ -157,7 +157,7 @@ When people try to sell you things, you should be wary of overselling and fake n
 ```{r fakenews-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfakenews)"}
 knitr::include_graphics("images/fakenews.jpeg")
 ```
-(ref:captionfakenews) Beware of fake news in the jobs marketplace. Are employers *really* as good as they say they are? Are *you* as good as you say you are? Public domain cartoon by Frederick Burr Opper via Wikimedia Commons [w.wiki/3KKt](https://w.wiki/3KKt)
+(ref:captionfakenews) Beware of [fake news](https://en.wikipedia.org/wiki/Fake_news) and misleading information in the jobs marketplace. Are employers *really* as good as they say they are? Are *you* as good as you say you are? Public domain cartoon by Frederick Burr Opper via Wikimedia Commons [w.wiki/3KKt](https://w.wiki/3KKt)
 
 There's two kinds of overselling that are common in the jobs marketplace:
 
@@ -173,13 +173,22 @@ Likewise, you should make sure you don't undersell yourself. Know your value (fi
 
 Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between.
 
+### Beware of the rollercoaster
+There are highs and lows in job hunting, you will ride the job search rollercoaster shown in figure \@ref(fig:rollercoaster-fig). There will be highs, you'll be invited to interviews, but there will be also be lows too, such as rejection in section \@ref(rejection). It will be a rollercoaster, which ends on the high of a job offer you accept. Enjoy the ride and good luck with your applications and interviews! ☘️
+
+```{r rollercoaster-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionrollercoaster)"}
+knitr::include_graphics("images/Rollercoaster-ride.png")
+```
+(ref:captionrollercoaster) Are you ready to ride the emotional rollercoaster of job hunting?  [A tech project is like...](https://bryanmmathers.com/rollercoaster-ride) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
 ### Beware of the time sink {#timesink}
-Finding employers that you are interested in and submitting high quality job applications takes time. Many students under estimate the time needed to job hunt. It can be a very time consuming process for job hunters like you and employers too, see figure \@ref(fig:timesink-fig).
+Finding employers that you are interested in and submitting high quality job applications takes time. Many students under estimate the time needed to job hunt. It can be a very time consuming process for everyone, both employers and candidates like you too, see figure \@ref(fig:timesink-fig).
 
 ```{r timesink-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captiontimesink)"}
 knitr::include_graphics("images/timesink.jpeg")
 ```
-(ref:captiontimesink) Playing the game of job hunting can be a big drain on your time and a certain amount of time wasting is unfortunately inevitable. Employers will waste some of your valuable time and you'll waste some of theirs aswell. Beware of the recruitment [time sink](https://en.wikipedia.org/wiki/Time_sink). Public domain image of a DualShock PlayStation controller by [Evan Amos](https://en.wikipedia.org/wiki/Evan_Amos) on Wikimedia Commons [w.wiki/3VFp](https://w.wiki/3VFp)
+(ref:captiontimesink) Playing the game of job hunting can be a big drain on your time and some time wasting is unfortunately inevitable. Employers will waste some of your valuable time and you'll probably waste some of theirs too. Beware of the recruitment [time sink](https://en.wikipedia.org/wiki/Time_sink). Public domain image of a DualShock PlayStation controller by [Evan Amos](https://en.wikipedia.org/wiki/Evan_Amos) on Wikimedia Commons [w.wiki/3VFp](https://w.wiki/3VFp) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 Even after you have managed to:
 
@@ -201,7 +210,6 @@ knitr::include_graphics("images/blackhole.jpg")
 ```
 
 (ref:captionblackhole) Rejection is a normal part of applying for jobs, some of your applications may disappear without trace into employers “black holes”, especially if they are large and have a strong gravitational force on job applicants like you. CC-BY image of the supermassive black hole in [Messier 87](https://en.wikipedia.org/wiki/Messier_87) created using the [CHIRP algorithm](https://en.wikipedia.org/wiki/CHIRP_(algorithm)) by the [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope) team via Wikimedia Commons [w.wiki/3RCa](https://w.wiki/3RCa)
-
 
 If you're getting too many rejections or all your applications are sucked into black holes, it might be because you need to :
 
@@ -294,7 +302,7 @@ We've looking at search techniques that will help you find opportunities you car
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar5-fig).
 
-```{r deathstar5-fig, echo = FALSE, fig.align = "center", out.width = "32%", fig.cap = "(ref:captiondeathstar)"}
+```{r deathstar5-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
 knitr::include_graphics("images/DeathStar2.jpg")
 ```
 <!--
