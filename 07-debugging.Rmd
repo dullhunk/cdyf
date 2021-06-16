@@ -12,7 +12,7 @@ knitr::include_graphics("images/Features not bugs.png")
 
 By the end of this chapter you will be able to
 
-* Structure and style the content of your CV and resume appropriately
+* Structure and style the content of your CV and résumé appropriately
 * Describe your story^[actually a collection of short stories] of your relevant experience, projects and education etc
 * Identify and fix bugs in CV’s by:
     + Constructively criticising other people's CVs
@@ -25,7 +25,7 @@ Before we get started, let's consider some advice from software engineer [Gayle 
 ```{r gayle-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongayle)"}
 knitr::include_graphics("images/gayle-black-hole.jpeg")
 ```
-(ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit resumes each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, *The Black Hole*, – is littered with so many resumes that even a top candidate would struggle to stand out.” [@blackhole; @techcareer] Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
+(ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit résumés each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, *The Black Hole*, – is littered with so many résumés that even a top candidate would struggle to stand out.” [@blackhole; @techcareer] Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
 
 If you're applying to big employers, you'll need to create a CV that is good enough to stand out before it disappears over the event horizon and into the employment black hole. It needs to be good enough to persuade an employer to invite you to an interview. To get started, you will write this in an employer-agnostic way but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
 
@@ -37,7 +37,7 @@ It's an age old trope in Computer Science that engineers use to cover their mist
 knitr::include_graphics("images/notabug.jpeg")
 ```
 
-(ref:captionnotabug) Do you have bugs or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or resume? Although tolerated in software, bugs in your CV or resume can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA 4.0 via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62)
+(ref:captionnotabug) Do you have bugs or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV or résumé can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA 4.0 via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62)
 
 
 Nobody likes buggy software, but we unfortunately routinely tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
@@ -106,7 +106,7 @@ How you structure your CV will depend on who you are and what your story is. Rec
 knitr::include_graphics("images/youtube-google-recruiters.png")
 ```
 
-(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your resume. [@youtube-google-recruiters] The image in this figure is a screenshot, you can [watch the eight minute resume tips video here](https://www.youtube.com/watch?v=BYUy1yvjHxE).
+(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your résumé. [@youtube-google-recruiters] The image in this figure is a screenshot, you can [watch the eight minute résumé tips video here](https://www.youtube.com/watch?v=BYUy1yvjHxE).
 
 <!-- this doesn't really fit here in structure, is there somewhere better? -->
 As Jonathan Black, director of the careers service at the University of Oxford has pointed out, [@topnotchcv] a key part of your story that you want to communicate in your CV is that you :
@@ -319,14 +319,14 @@ The latter is better because it is more specific, captures the result (`accompli
 
 
 ### Your length {#length}
-How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-fig). It is also advisable to [create a one page Resume](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-fig). It is also advisable to [create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
 
 
 ```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
 knitr::include_graphics("images/youtube-resume-or-cv.png")
 ```
 
-(ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style resume (one pager)? [@youtube-resume-or-cv] The image in the figure is a screenshot, you can [watch the five minute video on how long your CV should be here](https://www.youtube.com/watch?v=0abDOKHS5T0).
+(ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? [@youtube-resume-or-cv] The image in the figure is a screenshot, you can [watch the five minute video on how long your CV should be here](https://www.youtube.com/watch?v=0abDOKHS5T0).
 
 At this stage in your career you *should* be able to fit everything on to one page. However, it can be challenging and time consuming squeezing it all on, see figure \@ref(fig:shorterletter-fig).
 
@@ -334,7 +334,7 @@ At this stage in your career you *should* be able to fit everything on to one pa
 knitr::include_graphics("images/shorterletter.jpeg")
 ```
 
-(ref:captionshorterletter) I would have written a shorter ~~letter~~, ~~CV~~, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale in his  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter] Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn)
+(ref:captionshorterletter) I would have written a shorter ~~letter~~, ~~CV~~, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale's  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter]. Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn) 🇫🇷
 
 It takes more time to write less. Writing a one page résumé is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page résumé than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
 
