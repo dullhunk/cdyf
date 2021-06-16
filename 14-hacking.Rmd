@@ -2,12 +2,12 @@
 
 # Hacking your future {#hacking}
 
-It's very easy to overlook mistakes in your own writing. That's true of any written communication such as a covering letter, personal statement, email or any message that you write. Mistakes are particularly common in CVs (or resumes) because you can spend *hours* carefully polishing the words and the formatting but not see a fatal error at the top of page one. Hacking other people's CV's will help you improve your own. You may need to use ingenious hacks like the one on the bridge in figure \@ref(fig:kludge-fig). Returning to the bridge analogy from section \@ref(parti), fixing other peoples bridges will help you improve your own bridges. You'll build better bridges to more ambitious destinations.
+It's very easy to overlook mistakes in your own writing. That's true of any written communication such as a covering letter, personal statement, email or any message that you write. Mistakes are particularly common in CVs (or resumes) because you can spend *hours* carefully polishing the words and the formatting but not see a fatal error at the top of page one. Hacking^[The term [Hacking](https://en.wikipedia.org/wiki/Hacker_(disambiguation)) is a horribly overloaded word but I'm using it here to mean an “ingenious temporary solution to a problem”] other people's CV's will help you improve your own. You may need to use ingenious hacks like the one on the bridge in figure \@ref(fig:kludge-fig). Returning to the bridge analogy from section \@ref(parti), fixing other peoples bridges will help you improve your own bridges. You'll build better bridges to more ambitious destinations.
 
 ```{r kludge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkludge)"}
 knitr::include_graphics("images/bridge-kludge-hack.png")
 ```
-(ref:captionkludge) Your CV is a bridge which enables you to cross from where you are now to where you'd like to be in the future. Like the bridge in this picture, the CV's in this chapter are all faulty in some way, can you fix them? You may need to use ingenious hacks and [kludges](https://en.wikipedia.org/wiki/Kludge) like the one shown on the [Million Dollar Bridge](https://en.wikipedia.org/wiki/Miles_Glacier_Bridge) in Alaska. Public domain image of kludgy repairs adapted from an original by [Jet Lowe](https://en.wikipedia.org/wiki/Jet_Lowe) on Wikimedia Commons [w.wiki/3Uvn](https://w.wiki/3Uvn)
+(ref:captionkludge) Your CV is a bridge which enables you to cross from where you are now to where you'd like to be in the future. Like the bridge in this picture, the CV's in this chapter are all faulty in some way, can you fix them? You may need to use ingenious hacks and [kludges](https://en.wikipedia.org/wiki/Kludge) like the one shown here on the [Million Dollar Bridge](https://en.wikipedia.org/wiki/Miles_Glacier_Bridge) in Alaska . Public domain image of kludgy repairs adapted from an original by [Jet Lowe](https://en.wikipedia.org/wiki/Jet_Lowe) on Wikimedia Commons [w.wiki/3Uvn](https://w.wiki/3Uvn)
 
 <!-- CVs todo
 
@@ -38,7 +38,7 @@ Special thanks to [Toby Howard](https://en.wikipedia.org/wiki/Toby_Howard) and [
 Some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for discussion, when you read these CVs make a note of:
 
 1. **What Went Well?** (WWW) What do you like about any given CV, what have they done well?
-1. **Even Better If?** (EBI) What could be fixed or improved
+1. **Even Better If?** (EBI) What could be fixed or improved, can you hack it?
 1. **Their Rank** Who is top of your list to interview? Who is going in the bin and why?
 
 <!-- also use the CV rubric and CV checklist-->
@@ -51,7 +51,7 @@ Reading and hacking other people's CVs will help you improve your own because yo
 
 ### Penelope Tester {#pen-tester}
 
-Penny Tester, or Pen as her friends call her, loves cybersecurity and reverse engineering. She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a [hacker](https://en.wikipedia.org/wiki/Hacker_(disambiguation)), she hates that horribly overloaded word, see \@ref(fig:pentester-fig).
+Penny Tester, or Pen as her friends call her, loves cybersecurity and reverse engineering. She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a hacker she hates that word, see \@ref(fig:pentester-fig).
 
 ```{r pentester-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpentester)"}
 knitr::include_graphics("images/pen_tester.png")
