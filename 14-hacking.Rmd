@@ -47,11 +47,11 @@ Imagine the person is real, what would you tell them about their CV if they'd gi
 
 ## Sample CVs
 
-Reading and hacking other people's CVs will help you improve your own because you're putting yourself in the shoes of your reader. Here are some samples:
+Hacking other people's CVs will help you improve your own because you're putting yourself in the shoes of your reader. Here are some samples:
 
 ### Penelope Tester {#pen-tester}
 
-Penny Tester, or Pen as her friends call her, loves cybersecurity and reverse engineering. She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a hacker she hates that word, see \@ref(fig:pentester-fig).
+Penny Tester, or Pen as her friends call her, loves cybersecurity and [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering). She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a hacker she hates that word, see \@ref(fig:pentester-fig).
 
 ```{r pentester-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpentester)"}
 knitr::include_graphics("images/pen_tester.png")
