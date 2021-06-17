@@ -97,7 +97,7 @@ Recruiters are usually not technical people, so don't expect them to have lots o
 ```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionrecruiter)"}
 knitr::include_graphics("images/recruiters-are.png")
 ```
-(ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid them completely, just be careful how you use them and remember who they work for.
+(ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid recruiters completely, just be careful how you use them and remember who they work for.
 
 Some recruiters are very good and can help you. For example, there are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you. However some recruiters are not very good, and don't provide a valued service for employers or potential employees like you. This is why you sometimes see `no recruiters` or `no agencies` on job adverts. So be wary of recruiters, and remember that some recruiters work primarily for their clients (employers) not you.
 
@@ -116,7 +116,7 @@ https://www.graduate-jobs.com/gco/Booklet/graduate-recruitment-calendar.jsp
 When you're looking for job you're acting as both a buyer *and* a seller.
 
 1. **SELLING**: You're selling your services in a marketplace, for the best price you can get
-1. **BUYING**: You're buying into the culture and values of an employer, who are trying to sell themselves to you.
+1. **BUYING**: You're buying into the culture and values of an employer (see section \@ref(soul)), who are trying to sell themselves to you.
 
 When you’re buying, you should be wary of the following:
 
@@ -157,7 +157,7 @@ When people try to sell you things, you should be wary of overselling and fake n
 ```{r fakenews-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfakenews)"}
 knitr::include_graphics("images/fakenews.jpeg")
 ```
-(ref:captionfakenews) Beware of [fake news](https://en.wikipedia.org/wiki/Fake_news) and misleading information in the jobs marketplace. Are employers *really* as good as they say they are? Are *you* as good as you say you are? Public domain cartoon by Frederick Burr Opper via Wikimedia Commons [w.wiki/3KKt](https://w.wiki/3KKt)
+(ref:captionfakenews) Beware of false or misleading information ([fake news](https://en.wikipedia.org/wiki/Fake_news)) in the jobs marketplace. Are employers *really* as good as they say they are? Are *you* as good as you say you are? Public domain cartoon by Frederick Burr Opper via Wikimedia Commons [w.wiki/3KKt](https://w.wiki/3KKt)
 
 There's two kinds of overselling that are common in the jobs marketplace:
 
@@ -210,7 +210,7 @@ If you're getting too many rejections or all your applications are sucked into b
 * pay attention to your mental health, rejections can make you anxious and depressed (see \@ref(nurturing))
 
 ### Beware of the rollercoaster
-There are highs and lows in job hunting, you will ride the job search rollercoaster shown in figure \@ref(fig:rollercoaster-fig). There will be highs, you'll be invited to interviews, but there will be also be lows too, such as the inevitable rejections we discussed in the previous section \@ref(rejection). It will be a rollercoaster, which ends on the high of a job offer you accept. Enjoy the ride and good luck with your applications and interviews! ☘️
+There are highs and lows in job hunting, you will ride the job search rollercoaster shown in figure \@ref(fig:rollercoaster-fig). There will be highs, you'll be invited to interviews, but there will be also be lows too, such as the inevitable rejections we discussed in the previous section \@ref(rejection). It will be a rollercoaster, which ends on the high of a job offer you accept. Fasten your seatbelt, enjoy the ride and good luck with your applications and interviews! ☘️
 
 ```{r rollercoaster-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionrollercoaster)"}
 knitr::include_graphics("images/Rollercoaster-ride.png")
@@ -234,7 +234,7 @@ knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, i
 ```
 
 
-## Breakpoints
+## Breakpoints {#bp8}
 
 Take a pause and check the values of your parameters and variables. Here are some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for reflection and discussion:
 

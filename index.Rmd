@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, build, test, hack and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. This guide supports undergraduate teaching at the University of Manchester, but it doesn't actually matter:
+Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, build, test, hack and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -101,7 +101,7 @@ Don't read this book, gut it! Reading this book from cover to cover like a novel
 knitr::include_graphics("images/fish-gutting.jpeg")
 ```
 
-(ref:captiongut) Don't read this book, gut it like a fish. [Disembowel it](https://en.wikipedia.org/wiki/Disembowelment). Eviscerate it. You will need to decide which parts are flesh and which are guts. CC0 Public domain image of fish gutting by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captiongut) Don't read this book, gut it like a fish. [Disembowel it](https://en.wikipedia.org/wiki/Disembowelment). Eviscerate it. Which parts are nourishing flesh and which are less appetising gastrointestinal tract will depend on who you are and where you're at. CC0 Public domain image of fish gutting by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 Instead of reading this book, I suggest you follow the advice given to historian [William Woodruff](https://en.wikipedia.org/wiki/William_Woodruff) about reading books when he was at University:
 
@@ -246,7 +246,7 @@ If you're familiar with git and markdown you can [github.com/join](https://githu
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your pulling skills see [makeapullrequest.com](http://makeapullrequest.com/)
 * From the command line type `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your own setup
 
-Most of the guidebook is generated from the [RMarkdown](https://en.wikipedia.org/wiki/Markdown) (that's the `*.Rmd` files). Markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
+Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wiki/Markdown), that's [all the `*.Rmd` files](https://github.com/dullhunk/cdyf/search?l=RMarkdown). So markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
 
 ### For everyone else {#elseif}
 
@@ -512,7 +512,7 @@ So, thanks to all my family for your unconditional love. Σε αγαπώ παρ�
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for undergraduate and postgraduate students as part of my job at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
 
-So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and academic.
+So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and scholar.
 
 I've done a range of voluntary work too, serving as a competition judge, fundraiser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, rabble rouser, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, librarian, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/), [journal clubber](https://sigcse.cs.manchester.ac.uk/) and editor. But as Ronnie Lane and Ronnie Wood (figure \@ref(fig:faces-fig)) once said:
 
