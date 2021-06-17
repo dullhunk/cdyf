@@ -28,7 +28,7 @@ saying yes, saying no [@cleancoder]
 be yourself at work [@batmaneffect]-->
 
 ## Survive, thrive or dive? {#scenarios}
-Starting a new job is a bit like starting a new relationship, except that it is professional rather than personal. You've searched for and found a partner. You've been through the courtship of recruitment, this might have been quick or may have had many rounds of first and second “dates” (interviews). Once you start employment, you are both committed to each other in a serious relationship. Simply put, there are three scenarios for you as a new employee. You'll survive, thrive or dive.
+Starting a new job is a bit like starting a new relationship, except that it is professional rather than romantic. You've searched for and found a partner. You've been through the courtship of recruitment, this might have been quick or may have had many rounds of first and second “dates” (interviews). Once you start employment, you are both committed to each other in a serious relationship. Simply put, there are three scenarios for you as a new employee. You'll survive, thrive or dive.
 
 ### Survive {#survive}
 It will go OK, you'll meet the expectations of your employer and become and valued employee. If your employer has a probationary period, you'll pass your probationary review without any problems. Most employees probably fit in to this category. 🆗
@@ -40,7 +40,15 @@ You're doing really well if you can impress your manager. Some lucky people make
 
 ### Dive {#dive}
 
-It will go badly, you will struggle to fit in and won't meet the expectations of your employer. Once you were [star-crossed lovers](https://en.wikipedia.org/wiki/Star-crossed), but the relationship has turned sour and may end in tragedy. [@romeo; @goblewroe] There are several relationship problems that could lead to you breaking up with (or being dumped by) your newly estranged lover. 💔
+It will go badly, you will struggle to fit in and won't meet the expectations of your employer. Once you were [star-crossed lovers](https://en.wikipedia.org/wiki/Star-crossed), (see figure \@ref(fig:romeo-fig)) but the relationship has turned sour and may end diving into tragedy. [@romeo; @goblewroe]
+
+```{r romeo-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionromeo)"}
+knitr::include_graphics("images/star-crossed-lovers.jpeg")
+```
+
+(ref:captionromeo) Your relationship with your employer is a professional one rather than a romantic one, but that doesn't mean it can't end in tragedy like Shakespeare's [star-crossed lovers](https://en.wikipedia.org/wiki/Star-crossed) Romeo and Juliet. [@romeo] What can you do to keep your relationship with your employer healthy and happy? Public domain image of a painting of Romeo and Juliet by Frank Dicksee via Wikimedia Commons [w.wiki/3DfJ](https://w.wiki/3DfJ) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+There are several relationship problems that could lead to you breaking up with (or being dumped by) your newly estranged lover. 💔
 
 * **Relationship problems**: Your relationship with your manager(s) is not going well. You've tried solving problems informally by talking to your manager but you’re not satisfied with the response and want to [raise a formal grievance complaint in writing](https://www.gov.uk/raise-grievance-at-work). [@grievance]
 * **It's not you, it's me**: You might ultimately decide to you want to [hand in your notice](https://www.gov.uk/handing-in-your-notice) to terminate your contract of employment and leave. [@iquit]

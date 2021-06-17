@@ -16,7 +16,6 @@ knitr::include_graphics("images/default-user-1280x959.png")
 
 Many technology jobs exist outside of technology companies, [@outsideit] because a lot of software is written to be used rather than sold. Consequently, many employers create bespoke software to fit their own business needs. The people who build it are often employees that given organisation, rather than people employed by a technology company. In the United States for example, ninety percent of IT jobs are outside the traditional tech industry. Technical jobs outside the technology sector often have the advantage of being more accessible than those within a very competitive technology sector. [@burninglass]
 
-
 ## What you will learn {#ilo11}
 * Describe the less obvious careers that computer science can lead to, besides software engineering, including:
     + Starting a business or joining a startup
@@ -67,13 +66,21 @@ knitr::include_graphics("images/with-great-code-comes-great-responsibility.jpeg"
 Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? Do computer scientists need to sell their soul to the highest bidder?
 
 ## Do I need to sell my soul? {#soul}
-You'll sometimes hear people saying you need to sell your soul to your employer:
+You'll sometimes hear people saying you need to sell your soul to get a job, shownn in figure \@ref(fig:diabolical-fig).
+
+```{r diabolical-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondevildeal)"}
+knitr::include_graphics("images/deal-with-the-devil.jpeg")
+```
+
+(ref:captiondevildeal) In european folklore, doing a [deal with the devil](https://en.wikipedia.org/wiki/Deal_with_the_Devil) is a cultural and artistic motif. Wealth and power are just two of the diabolical deals that can be done in exchange for a persons soul. Public domain image of a painting of diabolical dealing by Michael Pacher on Wikimedia Commons at [w.wiki/3VvX](https://w.wiki/3VvX) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+See for example:
 
 * [Am I Selling My Soul to Work for My Company?](https://www.thevectorimpact.com/selling-your-soul/)
 * [So You Want to Make a Deal With the Devil](https://www.penguinrandomhouse.com/articles/so-you-want-to-make-a-deal-with-the-devil)
 * [Soul sold for less than £12](http://news.bbc.co.uk/1/hi/england/2051061.stm)
 
-When you're searching for jobs and finding out about employers, one of the first things you need to find out is what the values and ethical principles of an employer are see section \@ref(beware). It's a quick way to evaluate what makes an organisation who they are. Most employers publish their values and ethics openly, here's a small selection to give you a flavour:
+So when you're searching for jobs and researching potential employers, one of the first things you need to find out is what the values and ethical principles of an employer are see section \@ref(beware). It's a quick way to evaluate what makes an organisation who they are. Most employers publish their values and ethics openly, here's a small selection to give you a flavour:
 
 * Amazon [amazon.jobs/en/principles](https://www.amazon.jobs/en/principles)
 * Microsoft [microsoft.com/en-us/about/corporate-values](https://www.microsoft.com/en-us/about/corporate-values)
@@ -106,7 +113,7 @@ Let's take a break. Here are some [breakpoints](https://en.wikipedia.org/wiki/Br
 * Is there anything missing?
 * Are there any unwritten rules? What an employers *says* and *does* may be contradictory. Actions speak louder than words.
 
-Once you've thought about these questions, you stand a much better chance of working out if a given employer is a good match for you. So do you have to sell your soul as shown in figure \@ref(fig:soul-fig)? It depends on what's in your soul if an employer shares those values with you.
+Once you've thought about these questions, you stand a much better chance of working out if a given employer is a good match for you. So do you have to sell your soul as shown in figure \@ref(fig:soul-fig)? It depends on what you value and if an employer shares those values with you.
 
 ```{r soul-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsoul)"}
 knitr::include_graphics("images/Sell your soul.png")
