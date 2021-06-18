@@ -35,7 +35,7 @@ Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the g
 There is something in this guidebook for *any* student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
 ## Visualising your future {#picturethis}
-A lot of self-help literature can be dry, dull, textbooky and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland] shown in figure \@ref(fig:aiw-fig), the protagonist Alice wonders why her sister is reading a book without pictures.
+A lot of self-help literature can be dry, dull, textbooky, generic and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland] shown in figure \@ref(fig:aiw-fig), the protagonist Alice wonders why her sister is reading a book without pictures.
 
 
 ```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionalicecover)"}
@@ -90,7 +90,7 @@ So what *will* you learn from this guidebook? After reading this guidebook, watc
 As the title of this guidebook implies, there is a computational flavour here, but you do not have to be studying Computer Science to benefit. There are two main target audiences for this guidebook:
 
 1. Undergraduate and postgraduate students studying Computer Science as a major or minor part of their degree. This includes software engineering, artificial intelligence, human-computer interaction (HCI), information systems, health informatics, data science, gaming, cybersecurity and all the other myriad flavours of Computer Science
-1. Undergraduate and postgraduate students studying *any* subject, with little or no Computer Science at all. You are curious to know about what role computing could play in your future career because computing is too important to be left to Computer Scientists.
+1. Undergraduate and postgraduate students studying *any* subject, with little or no Computer Science at all. You are curious to know about what role computing could play in your future career because computing is too important to be left to Computer Scientists, see chapter \@ref(computing) on *Computing your Future*
 
 So the prerequisites for this book are that you are studying (or have studied) at University where English is one of the main spoken languages. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
 
@@ -101,7 +101,7 @@ Don't read this book, gut it! Reading this book from cover to cover like a novel
 knitr::include_graphics("images/fish-gutting.jpeg")
 ```
 
-(ref:captiongut) Don't read this book, gut it like a fish. [Disembowel it](https://en.wikipedia.org/wiki/Disembowelment). Eviscerate it. Which parts are nourishing flesh and which are less appetising gastrointestinal tract will depend on who you are and where you're at. CC0 Public domain image of fish gutting by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captiongut) Don't read this book, gut it like a fish. [Disembowel it](https://en.wikipedia.org/wiki/Disembowelment). Eviscerate it. Enjoy the nourishing flesh and discard the less appetising organs of the gastrointestinal tract. You'll need to decide which is which. CC0 Public domain image of fish gutting by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 Instead of reading this book, I suggest you follow the advice given to historian [William Woodruff](https://en.wikipedia.org/wiki/William_Woodruff) about reading books when he was at University:
 
@@ -151,7 +151,7 @@ Building a career isn't that different to building anything else, you'll need to
 
 
 ### Building your future {#partii}
-The next six chapters look at building (and testing) your future, what engineers like to call *implementation* or *execution* shown in figure \@ref(fig:manhattan-fig).
+The next seven chapters look at building (and testing) your future, what engineers like to call *implementation* or *execution* shown in figure \@ref(fig:manhattan-fig).
 
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
 knitr::include_graphics("images/manhattan_bridge.png")
@@ -165,6 +165,7 @@ Once you've started to answer the design questions in the first part, you can st
 * Chapter \@ref(broadening): *Broadening your future* encourages you to broaden your horizons. What are the possibilities beyond the obvious?
 * Chapter \@ref(speaking): *Speaking your future* looks how can you turn interviews to your advantage and negotiate any offers you receive
 * Chapter \@ref(surviving): *Surviving your future* looks at the next steps. Once you've landed a job, how will you survive and thrive outside (and after) University
+* Chapter \@ref(badging): *Badging your future* looks at evidence you should collect of your learning and development using various kinds of badges, digital and otherwise
 * Chapter \@ref(researching): *Researching your future* discusses if a Masters degree or a PhD right for you?
 
 ### Supporting your future {#partiii}
@@ -410,7 +411,7 @@ Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/2013120217
 knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 ```
 
-(ref:captionstannes) Good governance is crucial to good schools. Many schools like St. Anne's, and the thousands of children in the UK they educate every year, need help from skilled people like you on their governing boards. Why not serve your local community as a “[critical friend](https://en.wikipedia.org/wiki/Critical_friend)” on the governing board of a school? All ages are welcome, but especially younger governors, see [Where are all the young school governors?](https://www.theguardian.com/teacher-network/2015/mar/11/young-people-school-governors) [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/3Swt](https://w.wiki/3Swt) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionstannes) Good governance is crucial to good schools. Many forgotten schools like St. Anne's, and the thousands of children in the UK they educate every year, need help from skilled people like you on their governing boards. Why not serve your local community as a “[critical friend](https://en.wikipedia.org/wiki/Critical_friend)” on the governing board of a school? All ages are welcome, but especially younger governors, see [where are all the young school governors?](https://www.theguardian.com/teacher-network/2015/mar/11/young-people-school-governors) [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/3Swt](https://w.wiki/3Swt) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.)! It's all that matters, Stockport Hatters. 🙏
 
@@ -443,7 +444,7 @@ knitr::include_graphics("images/moravian-insitute.jpg")
 ```
 (ref:captionmoravian) The Moravian Institute lies in the foothills of the Himalayas between [Dehradun](https://en.wikipedia.org/wiki/Dehradun) in the [Doon Valley](https://en.wikipedia.org/wiki/Doon_Valley) and the hill station of [Mussoorie](https://en.wikipedia.org/wiki/Mussoorie). Situated between the [Yamuna](https://en.wikipedia.org/wiki/Yamuna) and [Ganges](https://en.wikipedia.org/wiki/Ganges), the institute was founded in 1963 by the late Reverend Eliyah Thsetsan Phuntsog in [Ladakh](https://en.wikipedia.org/wiki/Ladakh), [Jammu & Kashmir state](https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(state)) to provide education for [Tibetan refugees](https://en.wikipedia.org/wiki/Tibetan_diaspora) fleeing from their homeland across the Himalayas.
 
-So thanks Moravians (and Angus) for a life changing and formative experience. 🙏
+So thanks Moravians (and Angus) for life changing and formative experiences. 🙏
 
 ### Thank you influencers {#influences}
 
@@ -483,7 +484,7 @@ So, thanks githubbers for cloning, forking, pulling, adding, committing and push
 <!-- also sharifsalah,Sharif Salah,https://github.com/sharifsalah and njall,Niall Beard,https://github.com/njall-->
 
 ### Thank you Wikipedians {#wikipedians}
-Thanks Wikipedians Caroline Ball, John Byrne, Daria Cybulska, Melissa Highton, [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), Andy Mabbett ([Pigsonthewing](https://commons.wikimedia.org/wiki/User:Pigsonthewing)), Ewan McAndrew, Richard Nevell, Bhavesh Patel, Martin Poulter, Sara Thomas, [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for [inspiration](https://duncan.hull.name/2019/12/10/glasgow/), [support](https://wiki-loves-scientists.org.uk/2020/05/21/wiki1000/) and guidance on some of the issues of equality, diversity and inclusion, especially gender and race.
+Thanks Wikipedians Caroline Ball, John Byrne, Daria Cybulska, Melissa Highton, [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), Andy Mabbett ([Pigsonthewing](https://commons.wikimedia.org/wiki/User:Pigsonthewing)), Ewan McAndrew, Joshua Minor, Richard Nevell, Bhavesh Patel, Martin Poulter, Sara Thomas, [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for [inspiration](https://duncan.hull.name/2019/12/10/glasgow/), [support](https://wiki-loves-scientists.org.uk/2020/05/21/wiki1000/) and guidance on some of the issues of equality, diversity and inclusion, especially gender and race.
 
 So, thanks Wikipedians for being Wikipedia. 🙏
 

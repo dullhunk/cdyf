@@ -27,7 +27,7 @@ knitr::include_graphics("images/gayle-black-hole.jpeg")
 ```
 (ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit résumés each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, *The Black Hole*, – is littered with so many résumés that even a top candidate would struggle to stand out.” [@blackhole; @techcareer] Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
 
-If you're applying to big employers, you'll need to create a CV that is good enough to stand out before it disappears over the event horizon and into the employment black hole. It needs to be good enough to persuade an employer to invite you to an interview. To get started, you will write this in an employer-agnostic way but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
+If you're applying to big employers, you'll need to create a CV that is good enough to stand out before it disappears over the event horizon and into the employment black hole. It needs to be good enough to persuade an employer to invite you to an interview. You can start with an employer-agnostic CV but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
 
 ## It's not bug, its a feature
 
@@ -91,7 +91,7 @@ Wherever criticism of your CV comes from, don't take it personally - it is proba
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? Avoid long sections of prose, see section \@ref(verbsfirst)
-1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see Context, Action & Result (CAR) in section \@ref(carstar)
+1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see Context, Action, Result \& Evidence (CARE) in section \@ref(care)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -213,7 +213,7 @@ or even just
 * Final year project
 ```
 
-By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. What was the story (the context, action and result (CAR) we described in section \@ref(carstar)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
+By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. What was the story (the context, action, result and evidence (CARE) we described in section \@ref(care)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute?
 
 **This is all excellent CV fodder!**
 
@@ -257,13 +257,13 @@ If you have anything else you want to highlight besides your `education`, `exper
 
 You may be tempted to dedicate a whole section on your CV to skills, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you're going to have a `skills` section, keep it short. Why? Let's imagine, that like [Rick Urshion](Rick_Urshion.pdf), you include Python in a long list skills, with its own dedicated section. There are at least four problems with Rick's not so skilful approach:
 
-1. ❎ **No context** to give the reader an idea of where he's developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don't know because he doesn't say.  
-1. ❎ **No actions** or *evidence* to back up his claims of having skill with Python. So Rick claims he knows Python. So what? What did he *do* with those python skills? We don't know because he hasn't told us. Perhaps he DOES have Python skills, perhaps he DOESN'T. Is he telling lies and peddling fake news? It's difficult to tell.  
-1. ❎ **No results** given for what the outcome of using the skills was. Did he save his employers some money? Did he make something more efficient? Did he learn some methodology? We will never know.  
-1. ❎ **No tailoring** the skill to the job that he's applying for. Python would be valuable if he was applying to be a data scientist, software engineer, or automated tester but perhaps less relevant for a business analysis, consultancy, user experience or project management roles  
-1. ❎ **No story** told for that skill. This makes for a very dull and boring read. Yawn. NEXT!  
+1. ❎ **No `Context`** to give the reader an idea of where he's developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don't know because he doesn't say.  
+1. ❎ **No `Actions`** or *evidence* to back up his claims of having skill with Python. So Rick claims he knows Python. So what? What did he *do* with those python skills? We don't know because he hasn't told us.
+1. ❎ **No `Results`** given for what the outcome of using the skills was. Did he save his employers some money? Did he make something more efficient? Did he learn some methodology? We will never know.  
+1. ❎ **No `Evidence`** to support his claims. Perhaps he DOES have Python skills, perhaps he DOESN'T. Is he telling lies and peddling fake news (see section \@ref(oversell))? It's difficult to tell.
+1. ❎ **No `C.A.R.E.` No `story`** told for that skill. This makes for a very dull and boring read. Yawn. NEXT! 🥱
 
-So, this doesn't mean Rick shouldn't mention his Python skills. He needs to give us the context, action and result (CAR) described in section \@ref(carstar). This will make his Python story much more convincing and interesting to read. Giving the CAR will improve his chances of being invited to interview.
+So, this doesn't mean Rick shouldn't mention his Python skills. Where he can, he needs to give us the context, action, result and evidence (C.A.R.E.) described in section \@ref(care). This will make his Python story much more convincing and interesting to read. Showing C.A.R.E. will improve his chances of being invited to interview.
 
 This applies to soft skills too, not just hard technical skills. Best to mention the context in which you've used any skills you mention on your CV. So, if you're going to have a skill section:
 
@@ -289,15 +289,16 @@ Whatever your typographical style is, portable document format (PDF) is the safe
 
 It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
 
-### What's your story, coding glory? {#carstar}
+### What's your story, coding glory? {#care}
 
-One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction and **R**esult (CAR) sometimes called STAR (**S**ituation **T**ask **A**ction **R**esult) to tell your stories. This method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing `Python` as a skill, you should tell the reader more about the context in which you've used python, what you actually did with it and what the result was. You really need to spell it out.
+One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction, **R**esult and **E**vidence (C.A.R.E.) to tell your stories. This method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing `Python` as a skill, you should tell the reader more about the context in which you've used python, what you actually did with it and what the result was. You really need to spell it out.
 
 * **CONTEXT**: So you've used Python, but in what context? As part of your education? For a personal project? As a volunteer? In a competition?
 * **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something?
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
+* **EVIDENCE**: Where evidence exists, you should point to it. It might be a certificate, a badge (see chapter \@ref(badging)) or the actual software itself
 
-Similar to CAR and STAR, recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe their experience and projects using this simple pattern:
+Similar to C.A.R.E., recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe their experience and projects using this simple pattern:
 
 ````md
 * Accomplished [X], as measured by [Y], by doing [Z]

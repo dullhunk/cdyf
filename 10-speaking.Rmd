@@ -115,13 +115,16 @@ Coding interviews can be tough, but preparing for them, and doing them will make
 All of these things will help both your general professional development and your chances of success in future technical interviews.
 
 ### Project Euler {#euler}
-Project Euler provides a wide range of challenges in computer science and mathematics. The challenges typically involve solving a mathematical formula or equation, see [projecteuler.net](https://projecteuler.net/)
+Project Euler provides a wide range of challenges in computer science and mathematics. The challenges typically involve solving a mathematical formula or equations, see [projecteuler.net](https://projecteuler.net/) and figure \@ref(fig:euler-fig)
 
+```{r euler-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captioneuler)"}
+knitr::include_graphics("images/project-euler.jpeg")
 
-### Hacker Rank {#hackerrank}
-Hacker rank allows developers to practice their coding skills, prepare for interviews and get hired. HackerRank allows users to submit applications and apply to jobs by solving company-sponsored coding challenges.
+```
 
-Hacker Rank provide a discussion and leaderboard for every challenge, and most challenges come with an editorial that explains more about the challenge, see [hackerrank.com](https://www.hackerrank.com/)
+(ref:captioneuler) Since its creation in 2001 by Colin Hughes [projecteuler.net](https://projecteuler.net/) has become internationally popular, with new problems added approximately every two weeks. [@colinhughes] Public domain image of a painting of [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) by 	
+[Jakob Emanuel Handmann](https://en.wikipedia.org/wiki/Jakob_Emanuel_Handmann) on Wikimedia Commmons [w.wiki/3WAV](https://w.wiki/3WAV) adapted using the Wikipedia app.
+
 
 ### Topcoder
 TopCoder is a platform for competitive programming online. You can complete on your own directly online using their code editor. Single Round Matches are offered a few times per month at a specific time where you compete against others to solve challenges against the clock, see [topcoder.com](https://www.topcoder.com/)
@@ -134,17 +137,32 @@ Codewars allows you to challenge yourself on [kata](https://en.wikipedia.org/wik
 ### Leetcode
 LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interview see [leetcode.com](https://leetcode.com).
 
+### HackerRank {#hackerrank}
+HackerRank allows developers to practice their coding skills, prepare for interviews and get hired. HackerRank allows users to submit applications and apply to jobs by solving company-sponsored coding challenges.
+
+Hacker Rank provide a discussion and leaderboard for every challenge, and most challenges come with an editorial that explains more about the challenge, see [hackerrank.com](https://www.hackerrank.com/) and figure \@ref(fig:hackerrank-fig)
+
+```{r hackerrank-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhackerrank)"}
+knitr::include_graphics("images/hackerrank.jpeg")
+```
+
+(ref:captionhackerrank) HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, JavaScript) and span multiple computer science domains. HackerRank logo from Wikimedia Commons at [w.wiki/3WAP](https://w.wiki/3WAP) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238).
+
+
 ### Pramp
 
 Pramp offers free mock technical interviewing platform for engineers. Pramp, **Pra**ctice **m**akes **p**erfect, was founded in 2015 by Rafi Zikavashvili and David Glauber. As engineers, they were frustrated by the lack of resources to help them prepare for coding interviews. Find out more at [pramp.com](https://www.pramp.com)
 
 ### ICPC
 
-More than 50,000 students worldwide from more than 3,000 universities in 111 countries participate in over 400 on-site competitions as part of the International Collegiate Programming Contest (ICPC) see [icpc.global](https://icpc.global/). In it's own words the ICPC is:
+More than 50,000 students worldwide from more than 3,000 universities in 111 countries participate in over 400 on-site competitions as part of the International Collegiate Programming Contest (ICPC) see [icpc.global](https://icpc.global/) and figure \@ref(fig:icpc-fig).
 
-> an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems,
-> fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each
-> other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world. [@icpc]
+```{r icpc-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionicpc)"}
+knitr::include_graphics("images/International-Collegiate-Programming-Contest.jpeg")
+
+```
+
+(ref:captionicpc) In their own words, ICPC is “an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.” [@icpc]
 
 ICPC is organised by the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM), a global community which advances computing as a science and a profession.
 

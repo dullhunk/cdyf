@@ -1,11 +1,11 @@
 # Surviving your future {#surviving}
 
-Congratulations, you've just accepted an offer of employment. You nailed that interview (or interviews) and you're just about to embark on the exciting journey from the world of study to the world of employment. This *might* be your first SERIOUS job, so what do you need to survive and become a professional? Even better, how can you thrive in your new role and take on the challenges that are coming your way? How will you optimise your trajectory to reach new heights? 🚀
+Congratulations, you've just accepted an offer of employment. You nailed that interview (or interviews) and you're just about to embark on the exciting journey from the world of study the jungle of employment. This *might* be your first SERIOUS job, so what do you need to survive and become a professional? What surival skills will you need, see figure \@ref(fig:survival-fig). Even better, how can you thrive in your new role and take on the challenges that are coming your way? How will you optimise your trajectory to reach new heights? 🚀
 
-```{r while-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbadges)"}
-knitr::include_graphics("images/earning-a-badge-hd.png")
+```{r survival-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsurvival)"}
+knitr::include_graphics("images/survival-kit.jpeg")
 ```
-(ref:captionbadges) Your education doesn't finish when you start work, it should be a loop where you constantly acquire knowledge and skills during your career. You don't stop learning when you leave University. Surviving and thriving in the workplace will be dependent on your ability to constantly acquire new skills and knowledge, some of which will be *badged* in various ways. [Computing Badges](https://bryanmmathers.com/computing-badges/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionsurvival) The world of employment can be a bit of a jungle where you struggle for existence. What survival skills will you need and how can you go beyond merely surviving to positively thriving as a professional? Public domain image of jungle survival lessons by United States Army on Wikimedia Commons [w.wiki/3WBj](https://w.wiki/3WBj) adapted using the Wikipedia app.
 
 ## What you will learn {#ilo10}
 
@@ -76,22 +76,8 @@ include_tweet("https://twitter.com/b0rk/status/1043277965394681856")
 
 The zine has the benefit of being aimed aimed at engineers just like you. Thoroughly recommended! You might also enjoy Julia's other more technical zines such as [HTTP: learn your browser's language](https://wizardzines.com/zines/http/) [@browserslanguage] and [Oh Shit, Git!](https://wizardzines.com/zines/oh-shit-git/) [@ohshitgit]
 
-## Stay in school {#badging}
-As you develop new skills and knowledge at work, it is a good idea to collect evidence of what you've done. Whatever your career path, you'll need to keep your CV updated. One way to think of the evidence is as *badges*, digital or otherwise. Your employer may already have training schemes that recognise and reward your accomplishments. Figure \@ref(fig:badgetype-fig) shows some of the different kinds of evidence to look out for.
-
-```{r badgetype-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionbadgetype)"}
-knitr::include_graphics("images/badge-taxonomy-v2.png")
-```
-(ref:captionbadgetype) Keep a record of evidence you have for any skills or knowledge you gain on the job. These include membership, participation, capability and mastery. [Badge taxonomy](https://bryanmmathers.com/badge-taxonomy-v0-2/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-Evidence of your professional development can be classified into four categories:
-
-1. **Membership** are there professional organisations you can join? Do informal groups exist within the organisation that you can join? Are there committees you can serve on?
-1. **Participation** what communities or activities are you involved in?
-1. **Capability** what skills and knowledge can you demonstrate capability of? What professional accreditations exist for these skills?
-1. **Mastery** in the longer term, how can you demonstrate mastery of particular skills and knowledge?
-
-These badges may be generic or specific to the particular sector you are working in.
+## Stay in school {#neverstoplearning}
+As you develop new skills and knowledge at work, it is a good idea to collect evidence of what you've done. Whatever your career path, you'll need to keep your CV updated. One way to think of the evidence is as *badges*, digital or otherwise. Your employer may already have training schemes that recognise and reward your accomplishments.  These badges may be generic or specific to the particular sector you are working in. See chapter \@ref(badging) on *Badging your future* for more details.
 
 ### Technical badges {#techie}
 Some examples of technical badges include:
