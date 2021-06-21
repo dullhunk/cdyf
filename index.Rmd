@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [/Users/duncan/Documents/GitHub/hulled/hulld.bib, cdyf-playlist.bib, cdyf-signposts.bib, cdyf-references.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Welcome to coding your future. This guidebook will teach you how to design, build, test, hack and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
+description: "Welcome to coding your future. This guidebook will teach you how to design, build, engineer, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
 url: 'https\://www.cdyf.me/'
 github-repo: dullhunk/cdyf
 cover-image: "images/Coding your future - Title.png"
@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, build, test, hack and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
+Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, build, engineer, test and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -101,7 +101,7 @@ Don't read this book, gut it! Reading this book from cover to cover like a novel
 knitr::include_graphics("images/fish-gutting.jpeg")
 ```
 
-(ref:captiongut) Don't read this book, gut it like a fish. [Disembowel it](https://en.wikipedia.org/wiki/Disembowelment). Eviscerate it. Enjoy the nourishing flesh and discard the less appetising organs of the gastrointestinal tract. You'll need to decide which is which. CC0 Public domain image of fish gutting by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captiongut) Don't read this book. [Disembowel it](https://en.wikipedia.org/wiki/Disembowelment). Eviscerate it. Gut it like a fish. Enjoy the nourishing flesh and discard the less appetising organs of the gastrointestinal tract. You'll need to decide which is which. CC0 Public domain image of fish gutting by Wilfredor via Wikimedia commons [w.wiki/_23m](https://w.wiki/_23m) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 Instead of reading this book, I suggest you follow the advice given to historian [William Woodruff](https://en.wikipedia.org/wiki/William_Woodruff) about reading books when he was at University:
 
@@ -216,7 +216,17 @@ knitr::include_graphics("images/goldengate.png")
 
 
 ## Contributing to your future {#contributing}
-If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend). I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
+If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig).
+
+
+```{r critical-friend-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncriticalfriend)"}
+knitr::include_graphics("images/critical-friend.jpeg")
+```
+
+(ref:captioncriticalfriend) Can you provide some critical friendship? Public domain image of a painting by Friendship by [Petrona Viera](https://en.wikipedia.org/wiki/Petrona_Viera) via Wikimedia Commons [w.wiki/3WjY](https://w.wiki/3WjY) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+
+ I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
 
 * Does the chapter make sense, is it clear?
 * Does it strike the right tone, is it pitched at the right level? Not patronising? Too many platitudes?
