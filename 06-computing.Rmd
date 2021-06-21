@@ -42,7 +42,7 @@ Computing is also an intellectually stimulating and challenging subject to study
 
 ## Software is eating your future {#seating}
 
-Whatever future world you enter into after you graduate, there's a good chance it has already been eaten by software. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) (figure \@ref(fig:eating-fig)) outlined why (in his opinion) software is eating the world, in *The Wall Street Journal* [@eatingtheworld].
+Whatever future world you enter into after you graduate, there's a good chance it has already been eaten by software. In 2011, the software engineer and billionaire investor [Marc Andreesen](https://en.wikipedia.org/wiki/Marc_Andreessen) outlined why (in his opinion, figure \@ref(fig:eating-fig)) software is eating the world, in *The Wall Street Journal* [@eatingtheworld].
 
 ```{r eating-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioneating)"}
 knitr::include_graphics("images/software-is-eating-the-world.jpeg")
