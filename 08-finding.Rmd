@@ -61,8 +61,15 @@ The following job finding resources are specifically aimed at undergraduate stud
 * Your University careers service. University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying. So if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html)
 
 ### More general resources {#generaljobs}
+The following job finding tools are aimed at a wider audience (not just students and graduates) but are like to be useful to you nonetheless.
 
-The following job finding resources are aimed at a wider audience (not just students and graduates) but are useful nonetheless.
+```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
+knitr::include_graphics("images/google-job-search.jpeg")
+```
+(ref:captiongooglejobsearch) Keywords like `job` and `intern` in an ordinary google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. See the text below for examples. CC BY-SA picture of the Googleplex by The Pancake of Heaven via Wikimedia Commons [w.wiki/3X4t](https://w.wiki/3X4t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+Google job search shown in figure \@ref(fig:googlejobs-fig) is a good starting point. It doesn't index *every* job listings site, see [google's job hunting service comes to UK](https://www.bbc.co.uk/news/technology-44853472) [@noindeed], but its a pretty good place to start.
+
 
 * Google job search indexes jobs advertised by many of the resources mentioned in this chapter. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) structured with [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job`, `intern` and `placement` in an ordinary google search will trigger the job search product, some examples:
 
@@ -74,9 +81,9 @@ The following job finding resources are aimed at a wider audience (not just stud
 
     -[google.com/search?q=graduate+software+job+london](https://www.google.com/search?q=graduate+software+job+london)
 
-    -[google.com/search?q=data+scientist+placement](https://www.google.com/search?q=data+scientist+placement)
+    -[google.com/search?q=data+scientist+intern](https://www.google.com/search?q=data+scientist+intern)
 
-    -Google job search is an impressive product, see [grow.google/job-seekers](https://grow.google/job-seekers) but it doesn't index *everything*. See [Google's job hunting service comes to UK](https://www.bbc.co.uk/news/technology-44853472) [@noindeed] If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/), see also section \@ref(bignames)
+    -Google job search is an impressive product, see [grow.google/job-seekers](https://grow.google/job-seekers) but it doesn't index *everything*. If you're looking for a job AT google, they have moved from [jobs.google.com](https://jobs.google.com/about/) to [careers.google.com](https://careers.google.com/), see also section \@ref(bignames)
 
 * [LinkedIn](http://www.linkedin.com) advertises job vacancies, is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job) and you can often [apply for jobs directly on LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) (although [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)). See [university.linkedin.com/linkedin-for-students](https://university.linkedin.com/linkedin-for-students) and [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
 * [glassdoor.co.uk](http://www.glassdoor.co.uk/) is like tripadvisor for jobs. Find out what it's *really* like to work for given employers from current and former employees. A student oriented version can be found at [glassdoor.com/Students](https://www.glassdoor.com/Students), this means you can use it without writing a review of a previous employer (which is what non-student users have to do to access the content)
@@ -244,9 +251,11 @@ knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, i
 
 
 ## Breakpoints {#bp8}
+(ref:breakpoint)
 
-Take a pause and check the values of your parameters and variables. Here are some [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) for reflection and discussion:
 
+* What are your current job search strategies?
+* How could they be improved or tuned?
 * How many jobs should you apply for?  
 * Why is it important to build your network?
 * How can recruiters help you?

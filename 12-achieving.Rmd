@@ -1,11 +1,11 @@
 # Achieving your future {#achieving}
 
-Learning is a life-long process, a [`while` loop](https://en.wikipedia.org/wiki/While_loop) in which you continuously develop new skills and knowledge. As you loop the loop, you will collect evidence of your personal and professional achievements. Some of these achievements can be certified or “badged” in various ways. This evidence can be collected as part of your professional identity and reputation, the jar called `ME` in figure \@ref(fig:while-learning-fig).
+Learning is a lifelong process, a [`while` loop](https://en.wikipedia.org/wiki/While_loop) in which you continuously develop new skills and knowledge. As you loop the loop, you will collect evidence of your personal and professional achievements. Some of these achievements can be certified or “badged” in various ways. This evidence can be collected as part of your professional identity and reputation, the jar called `ME` in figure \@ref(fig:while-learning-fig).
 
 ```{r while-learning-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionunibadges)"}
 knitr::include_graphics("images/earning-a-badge-hd.png")
 ```
-(ref:captionunibadges) Lifelong learning is a loop where you constantly acquire knowledge and skills during your career. You'll collect evidence of your learning and will earn badges of various kinds during and after University.  [Computing Badges](https://bryanmmathers.com/computing-badges/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionunibadges) Learning is a lifelong loop where you constantly acquire knowledge and skills during your career. You'll collect evidence of your learning and will earn badges of various kinds during and after University.  [Computing Badges](https://bryanmmathers.com/computing-badges/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Evidence is a key part of your “Context, Action, Result and Evidence” (CARE) story described in section \@ref(care). So what evidence can you collect and how you can certify or badge it? 📛
 
@@ -56,7 +56,6 @@ knitr::include_graphics("images/old-school-vs-new-school-credentials-v2.png")
 (ref:captionoldschool) old school repetition-->
 
 ## Digital badges {#digibadge}
-
 Digital badges provide a solution to this problem, just like your degree certificate is a verified badge of your achievements, a digital badge does the same but in a digital way. Rather than being physical, a digital badge is virtual and transferable. It's just a `*.png` graphic file which has been digitally signed and contains metadata. This means it can be displayed on your CV, on social media such as LinkedIn or “stacked” into a digital portfolio collection as shown in figure \@ref(fig:badge-properties-fig).
 
 The [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) have defined an open standard for digital badges [@openbadges] so that badges can be issued, hosted and certified by different organisations. [@belshaw]
@@ -70,7 +69,7 @@ knitr::include_graphics("images/Properties-of-Open-Badges.png")
 A digital badge has certified data locked inside (shown in figure \@ref(fig:data-inside-fig))  which details the achievement it has been awarded for including:
 
 * `recipient` that's you!
-* `issuer` the organisation awarding the badge, e.g. The University of Poppleton
+* `issuer` the organisation awarding the badge, e.g. [Poppleton University](https://en.wikipedia.org/wiki/Poppleton_University)
 * `badge name` e.g. PASS leader badge (see figure \@ref(fig:pass-leader-fig))
 * `badge image` e.g. a digital logo
 * `evidence URL` a link to evidence
@@ -127,6 +126,13 @@ knitr::include_graphics("images/amazon-badge.png")
 (ref:captionamazonbadge) An example of an [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) badge awarded by [credly.com](https://info.credly.com/) for an [AWS certified developer](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate).
 
 We have focussed on technical achievements here, but there are non-technical achievements too.
+
+## Breakpoints {#bpach}
+(ref:breakpoint)
+
+* Besides the badges and certifications already discussed, what others exist?
+* Where are the gaps in own skills or knowledge?
+* How can you work towards achieving certifications, badges or other evidence that you have these skills or knowledge?
 
 ## Summarising your achievements {#tldrb}
 

@@ -99,8 +99,10 @@ Some of your characteristics are protected. The Equality Act of 2010^[\url{http:
 * How might you be discriminated against during employment?
 * How might you be discriminated against in education?-->
 
-## Coding challenges {#goals}
+## Breakpoint {#bp2}
 <!--luke: I'm not sure of the link to coding challenges here.-->
+(ref:breakpoint)
+
 This chapter has looked at some big issues around identity, by inviting you to think about some fundamental questions. Another way to think about these questions is as coding challenges. They are non-trivial questions to answer, it might take you weeks, months or even years to answer some of them. But they are worth spending time thinking about
 
 * What are your values?
@@ -108,6 +110,7 @@ This chapter has looked at some big issues around identity, by inviting you to t
 * What do you want to get from your time at University?
 * What do you want after University?
 * Where do you see yourself in `x` years time?
+* What are your privileges (if any), see section \@ref(privileged)
 
 The signposts in the next section may help tackle some of these coding challenges.
 
@@ -150,7 +153,7 @@ knitr::include_graphics("images/youtube-bolles.png")
 ### What's your story?
 A useful technique for developing self-awareness is to think about what your story is. Heather Box and Julian Mocine-McQueen's book *How Your Story Sets You Free* [@freeyourstory] takes a storytelling approach to help you gain a better picture of who you are and what you value. What's good about this book is its short, less than 100 pages and contains practical exercises which extend those in this chapter.
 
-### Check your privileges
+### Check your privileges {#privileged}
 Reflecting on your identity should lead you to check any privileges you might have. Being grateful for any privileges you may have is also beneficial for your mental health which we talk about in chapter \@ref(nurturing) so:
 
 * **If you're white** a good place to start understanding your white privileges is *[Why I'm No Longer Talking to White People About Race](https://en.wikipedia.org/wiki/Why_I'm_No_Longer_Talking_to_White_People_About_Race)* by [Reni Eddo Lodge](https://en.wikipedia.org/wiki/Reni_Eddo-Lodge) [@nottalking] and *[Superior: The Return of Race Science](https://en.wikipedia.org/wiki/Superior:_The_Return_of_Race_Science)* by [Angela Saini](https://en.wikipedia.org/wiki/Angela_Saini)
@@ -173,8 +176,7 @@ There is a lot more to your identity than your race, class, gender and sexual or
 
 
 ## Summarising self awareness {#tldr2}
-
-[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:  
+(ref:tldr)
 
 This chapter has looked at who you are. Being self aware, understanding your strengths and weaknesses is key to getting what you want from your career. Questions about your identity are non-trivial, hopefully this chapter has started you thinking about who you are, what motivates you and what you want out of life. You need to keep thinking about your identity because some aspects of your identity may be constantly changing.
 

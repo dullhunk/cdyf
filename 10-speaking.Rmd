@@ -104,7 +104,7 @@ knitr::include_graphics("images/youtube-petia.png")
 
 ```
 
-(ref:captionpetia) Petia describes her worst software engineering interview failures. [@youtube-petia] Petia demonstrates her [growth mindset](#growthmindset) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted. The image above is a screenshot, you can [watch the full 16 minute video on software engineering fails here](https://www.youtube.com/watch?v=qkeQNNjZuQk).
+(ref:captionpetia) Petia describes her worst software engineering interview failures. [@youtube-petia] Petia demonstrates her growth mindset ( section \@ref(growthmindset)) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted. The image above is a screenshot, you can [watch the full 16 minute video on software engineering fails here](https://www.youtube.com/watch?v=qkeQNNjZuQk).
 
 Coding interviews can be tough, but preparing for them, and doing them will make you a better engineer. So if you spectacularly wipeout in your coding interview, reflect and think how can you improve next time? Perhaps you need to
 
@@ -224,9 +224,7 @@ You should find out as much as you can about your potential employer before the 
 <!-- see e.g. https://www.thebalancecareers.com/how-to-turn-down-a-job-offer-you-already-accepted-2061404 -->
 
 ## Summarising interviews {#tldr9}
-
-[Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
-
+(ref:tldr)
 
 We've looked at a range of platforms and competitions that can help you prepare for coding interviews. These won't just make you better at coding interviews, they'll make you a better engineer too, whatever stage you're at.
 
