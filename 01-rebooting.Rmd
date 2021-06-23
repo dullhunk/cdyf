@@ -281,14 +281,20 @@ This book is not just words and pictures, but includes audio and video as well, 
 1. the coding your future podcast which interviews undergraduate students
 
 ## Engaging with your future
-I've tried to make the content of this book as engaging as possible by including pictures and conversations. *Your future* is deliberately playful and light-hearted. If you think it can be improved, let me know via the mechanisms described in section \@ref(contributing). I always welcome constructive feedback, especially when it comes via a pull request.
+I've tried to make the content of this book as engaging as possible by including pictures and conversations. *Your future* is deliberately playful and light-hearted. If you think this guidebook can be improved, let me know via the mechanisms described in section \@ref(contributing). I always welcome constructive feedback, especially when it comes via a pull request. Engage, see figure \@ref(fig:startrek-fig).
 
-
-```{r tweet-from-fonikh,echo=FALSE}
-library(tweetrmd)
-include_tweet("https://twitter.com/FonikhSoupia/status/1285742247711997954")
+```{r startrek-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstartrek)"}
+knitr::include_graphics("images/captain-jean-luc-picard.jpeg")
 ```
 
+(ref:captionstartrek) This is Captain [Jean-Luc Picard](https://en.wikipedia.org/wiki/Jean-Luc_Picard), engage with your future. Make it so. Fair use image of actor Patrick Stewart adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+
+
+<!--```{r tweet-from-fonikh,echo=FALSE}
+library(tweetrmd)
+include_tweet("https://twitter.com/FonikhSoupia/status/1285742247711997954")
+```-->
 
 ## Signposting your future {#sign1}
 
