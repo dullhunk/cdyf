@@ -563,8 +563,8 @@ Some of these services use cookies. These can be disabled in your browser, see [
 
 So now that we've dispensed with the formalities, let's look at why should you bother reading this guidebook in the first place.
 
-<!--boilerplate text-->
-(ref:breakpoint) Let's pause, insert a [breakpoint](https://en.wikipedia.org/wiki/Breakpoint) and step through your `code` to examine the values of your variables and parameters.
+<!--boilerplate text that gets re-used throughout-->
+(ref:breakpoint) Let's pause, insert a [breakpoint](https://en.wikipedia.org/wiki/Breakpoint) in your `code` and slowly step through to examine the values of your variables and parameters.
 
 (ref:tldr) Too long, didn’t read ([TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read))? Here’s a summary:
 
