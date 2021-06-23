@@ -1,8 +1,8 @@
-# (PART) BUILDING YOUR FUTURE {-}
+# (PART) BUILDING  {-}
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *build* and *test* it. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
+It's all very well *designing* your future but now you need to actually engineer it by *building* and *testing*. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
 
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)"}
@@ -459,12 +459,20 @@ show me the money!-->
 
 (ref:breakpoints)
 
+```md
+* PAUSE ⏸️
+```
+
 * How long is your CV? How long should it be?
 * Should you have a personal statement on your CV, like [Mike Rokernel](https://www.cdyf.me/Mike_Rokernel.pdf) has for example?
 * One column or two column layout?
 * Should you put education or experience first? Which is most important?
 * How many of my [hobbies and personal interests should I list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
 * How many employers actually read cover letters?
+
+```md
+* RESUME ▶️
+```
 
 ## Checklist: Big Bad Bugs {#checklist}
 
@@ -478,7 +486,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you spell-checked both manually and with software?
 1. ✅ Have you added context using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
-1. ✅ Is it in reverse chronological order? Most recent things first.
+1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, e.g. all dates left or right aligned for easy reading?
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
 1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
 1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref(mycved)
@@ -491,10 +499,10 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 ## Covering letters & personal statements {#we3qs}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to have a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for ages without providing any evidence. Usually this kind of information is better in your covering letter.
 
-Let's say you're applying for a widget engineering position at BigWidget Inc. There are three things you need to cover in approximately this order:
+Let's say you're applying for a widget engineering position at `Widget.com`. There are three things you need to cover in approximately this order:
 
-1. **Why them?** Why are you applying to BigWidget Inc.
-1. **Why that role?**  BigWidget Inc. employees have many roles and responsibilities, so what is it about widget engineering that attracts you?
+1. **Why them?** Why are you applying to `Widget.com`
+1. **Why that role?**  `Widget.com` employees have many roles and responsibilities, so what is it about widget engineering that attracts you?
 1. **Why you?** Why should they employ you? What makes you stand out from all the other widget engineering candidates? What is your Unique Selling Point (USP) or points?
 
 ### Does anyone actually READ covering letters? {#elevatorpitch}

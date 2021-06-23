@@ -105,13 +105,23 @@ Look at these values carefully, or choose the values of another employer you're 
 ## Breakpoints {#bp9}
 (ref:breakpoint)
 
+```md
+* PAUSE ⏸️
+```
+
 * How closely do a given employers values align with your own? You may need to revisit section \@ref(no42).
     + You might not get a 100% match but you're unlikely to enjoy working for an employer where your values don't match very well at all
 * Are the stated values of an employer the whole story?
 * Is there anything missing?
 * Are there any unwritten rules? What an employers *says* and *does* may be contradictory. Actions speak louder than words.
 
+```md
+* RESUME ▶️
+```
+
 Once you've thought about these questions, you stand a much better chance of working out if a given employer is a good match for you. So do you have to sell your soul as shown in figure \@ref(fig:soul-fig)? It depends on what you value and if an employer shares those values with you.
+
+
 
 ```{r soul-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsoul)"}
 knitr::include_graphics("images/Sell your soul.png")
