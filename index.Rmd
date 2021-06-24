@@ -493,7 +493,15 @@ So, thanks githubbers for cloning, forking, pulling, adding, committing and push
 <!-- also sharifsalah,Sharif Salah,https://github.com/sharifsalah and njall,Niall Beard,https://github.com/njall-->
 
 ### Thank you Wikipedians {#wikipedians}
-Thanks Wikipedians Caroline Ball, John Byrne, Daria Cybulska, Melissa Highton, [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), Andy Mabbett ([Pigsonthewing](https://commons.wikimedia.org/wiki/User:Pigsonthewing)), Ewan McAndrew, Joshua Minor, Richard Nevell, Bhavesh Patel, Martin Poulter, Dario Taraborelli, Sara Thomas, [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade) for [inspiration](https://duncan.hull.name/2019/12/10/glasgow/), [support](https://wiki-loves-scientists.org.uk/2020/05/21/wiki1000/), [software](https://apps.apple.com/us/app/wikipedia/id324715238), [data](https://www.wikidata.org/), [pictures](https://commons.wikimedia.org/) and guidance on some of the issues of equality, diversity and inclusion, especially gender and race.
+Thanks to all the [thousands of editors](https://en.wikipedia.org/wiki/Wikipedia:Wikipedians), administrators and engineers (see figure \@ref(fig:wikipedians-fig)) that make Wikipedia one of the greatest triumphs of the internet.
+
+```{r wikipedians-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionwikipedians)"}
+knitr::include_graphics("images/some-wikipedians-at-wikimania.png")
+```
+
+(ref:captionwikipedians) A small fraction of the community that makes Wikipedia a world in which every single person on the planet is given free access to the sum of all human knowledge. Some Wikipedians gathered at the annual [Wikimania conference](https://en.wikipedia.org/wiki/Wikimania) 2019 in Stockholm, Sweden by Patricia Costillo, adapted from an original on Wikimedia Commons [wiki/3XxG](https://w.wiki/3XxG)
+
+Thanks Wikipedians Caroline Ball, [Alex Bateman](https://en.wikipedia.org/wiki/Alex_Bateman), Dan Brickley, John Byrne, Daria Cybulska, Andrew Davidson, Paul Gardner, Melissa Highton, Darren Logan, [Magnus Manske](https://en.wikipedia.org/wiki/Magnus_Manske), Andy Mabbett ([Pigsonthewing](https://commons.wikimedia.org/wiki/User:Pigsonthewing)), Ewan McAndrew, Joshua Minor, [Peter Murray-Rust](https://en.wikipedia.org/wiki/Peter_Murray-Rust), Richard Nevell, Bhavesh Patel, Mike Peel, Martin Poulter, [Joseph Reagle](https://en.wikipedia.org/wiki/Joseph_M._Reagle_Jr.), Dario Taraborelli, Sara Thomas, [Denny Vrandečić](https://en.wikipedia.org/wiki/Denny_Vrande%C4%8Di%C4%87), [Jessica Wade](https://en.wikipedia.org/wiki/Jess_Wade), [Taha Yasseri](https://en.wikipedia.org/wiki/Taha_Yasseri) for [inspiration](https://duncan.hull.name/2019/12/10/glasgow/), [support](https://wiki-loves-scientists.org.uk/2020/05/21/wiki1000/), [software](https://apps.apple.com/us/app/wikipedia/id324715238), [data](https://www.wikidata.org/), [pictures](https://commons.wikimedia.org/) and guidance. Thanks for help on issues of equality, diversity and inclusion, especially gender and race.
 
 So, thanks Wikipedians for being Wikipedia. 🙏
 
