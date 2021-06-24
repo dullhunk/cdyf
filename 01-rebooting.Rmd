@@ -230,10 +230,10 @@ knitr::include_graphics("images/signposting.jpeg")
 
 Scientists call signposting **citation**, so I've signposted and cited sources in this guidebook so that you can :
 
+1. Follow them if the destinations are interesting or useful
 1. Check and verify any facts and claims I make in this book for yourself
-1. Go and consult the original sources if you think they might be useful
 
-While this guidebook cites lots of resources, some of them are more important than others. Each chapter summarises these in a signposts section. You'll find everything else in the references, chapter \@ref(reading). The University of Manchester has physical and electronic copies of many (but sadly not all) of the books listed here.
+While this guidebook cites lots of resources, some of them are more important than others. Each chapter summarises these in a signposts section. You'll find everything else in the references, chapter \@ref(reading). University and public libraries may also have physical and electronic copies of some of the books listed here.
 
 <!--If you're studying at the University of Manchester, these signposts are available as a library reading list at [library.manchester.ac.uk/search-resources/reading-lists](https://www.library.manchester.ac.uk/search-resources/reading-lists).-->
 
@@ -261,7 +261,7 @@ I'm taking a [release early, release often](https://en.wikipedia.org/wiki/Releas
 knitr::include_graphics("images/agile-vs-waterfall.jpeg")
 ```
 
-(ref:captionagile) [Agile software developers](https://en.wikipedia.org/wiki/Agile_software_development) make it up as they go along, whereas [waterfalling software developers](Waterfall model) make it all up at the beginning and then live with the consequences. It's the same with natural language engineering (books). I'm making it up as I go along, using agile book development methods. Women who code image by Justice Okai Allotey via Wikimedia Commons [w.wiki/3Xnk](https://w.wiki/3Xnk) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionagile) [Agile software developers](https://en.wikipedia.org/wiki/Agile_software_development) make it up as they go along, whereas [waterfalling software developers](https://en.wikipedia.org/wiki/Waterfall_model) make it all up at the beginning and then live with the consequences. It's the same with natural language engineering (books). I'm making it up as I go along, using agile book development methods. Women who code image by Justice Okai Allotey via Wikimedia Commons [w.wiki/3Xnk](https://w.wiki/3Xnk) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 <!--original idea by ```{r tweet-from-psd,echo=FALSE}
 library(tweetrmd)
@@ -291,7 +291,7 @@ This book is not just words and pictures, but includes audio and video as well, 
 1. short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
 1. the coding your future podcast which interviews undergraduate students
 
-## Engaging with your future
+## Engaging with your future {#engage}
 I've tried to make the content of this book as engaging as possible by including pictures and conversations. *Your future* is deliberately playful and light-hearted. If you think this guidebook can be improved, let me know via the mechanisms described in section \@ref(contributing). I always welcome constructive feedback, especially when it comes via a pull request. Engage, see figure \@ref(fig:startrek-fig).
 
 ```{r startrek-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstartrek)"}
