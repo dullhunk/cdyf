@@ -41,7 +41,7 @@ A lot of self-help literature can be dry, dull, textbooky, generic and boring wi
 ```{r aiw-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionalicecover)"}
 knitr::include_graphics("images/alicequotation.jpeg")
 ```
-(ref:captionalicecover) Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations? [@wonderland] Public domain image of the cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* via Wikimedia Commons [w.wiki/3S4C](https://w.wiki/3S4C)
+(ref:captionalicecover) Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations? [@wonderland] Public domain image of the cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* via Wikimedia Commons [w.wiki/3S4C](https://w.wiki/3S4C) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 So this book uses pictures and conversations wherever possible to help you understand and visualise your future.
 
@@ -564,7 +564,7 @@ Some of these services use cookies. These can be disabled in your browser, see [
 So now that we've dispensed with the formalities, let's look at why should you bother reading this guidebook in the first place.
 
 <!--boilerplate text that gets re-used throughout-->
-(ref:breakpoint) Let's pause, insert a [breakpoint](https://en.wikipedia.org/wiki/Breakpoint) in your `code` and slowly step through to examine the values of your variables and parameters.
+(ref:breakpoint) Let's pause here. Insert a [breakpoint](https://en.wikipedia.org/wiki/Breakpoint) in your `code` and slowly step through it so we can examine the values of your variables and parameters.
 
 (ref:tldr) Too long, didn’t read ([TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read))? Here’s a summary:
 

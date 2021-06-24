@@ -90,7 +90,7 @@ Wherever criticism of your CV comes from, don't take it personally - it is proba
 1. **STYLE**: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
-1. **VERBS FIRST**: Have you talked about what you have actually done using prominent verbs, rather than just what you think you know? Avoid long sections of prose, see section \@ref(verbsfirst)
+1. **VERBS FIRST**: Have you talked about what you have actually done using prominent `verbs`, rather than just what you think you know? Avoid long sections of prose, see section \@ref(verbsfirst)
 1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see Context, Action, Result \& Evidence (CARE) in section \@ref(care)
 
 <!--Google Inside Look: Google students
@@ -193,10 +193,10 @@ They will most likely be unpaid because paid work fits better under the heading 
 
 
 ```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
-knitr::include_graphics("images/feynman.png")
+knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
 ```
 
-(ref:captionfeynman) Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new knowledge and help your CV stand out like a sore thumb (in a good way). Public domain image via Dani Stefanovic [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out. Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3X) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) see also [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 
 Any longer projects you've done at University are worth mentioning. Your projects are important because they differentiate you from everyone else in your year group. Try to be *more* descriptive than this:
@@ -269,7 +269,7 @@ This applies to soft skills too, not just hard technical skills. Best to mention
 
 * keep it short (one or two lines maybe) but personally I'd avoid dedicating a whole section to it
 * stick to your strongest and most relevant skills that you are comfortable to answer questions on in your interview, rather than an exhaustive encyclopædic inventory
-* Microsoft Office is *not* generally a very interesting skill because everyone has it. Don't waste space talking about it unless you've done something interesting with it, like some advanced integration with other software.
+* avoid listing `Microsoft Office` products as a skill, they are *not* generally very interesting skill because everyone has them. Don't waste space talking about it unless you've done something interesting with it, like some advanced integration with other software.
 
 If you're a computer scientist, you also have demonstrable “meta” skills like the ability to learn things quickly. You can also think logically, reason, problem solve, analyse, generalise, criticise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these “meta” capabilities and your potential than in any specific technical skills you may or may not have.
 
@@ -482,18 +482,18 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(hacking)
 1. ✅ Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much or too little? See section \@ref(pdf) <!-- merge with previous-->
-1. ✅ Have you eaten your own dogood (see section \@ref(dogfooding))? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
+1. ✅ Have you eaten your own dogood, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you spell-checked both manually and with software?
 1. ✅ Have you added context using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, e.g. all dates left or right aligned for easy reading?
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
-1. ✅ Have you made it clear what you have actually done using prominent verbs? See chapter \@ref(actioning)
+1. ✅ Have you made it clear what you have actually done using prominent `verbs`? See chapter \@ref(actioning)
 1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref(mycved)
 1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
 1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
-1. ✅ Have you clearly distinguished between paid, unpaid and voluntary experience? Have you included all of your experience including casual work (see section \@ref(casual))?
+1. ✅ Have you clearly distinguished between paid, unpaid and voluntary experience? Have you included all of your experience including casual work, see section \@ref(casual)?
 1. ✅ Does it fit comfortably on exactly one page (résumé) or a two pages (CV)? Not one-and-a-half pages or more than two? See section \@ref(length)
 
 ## Covering letters & personal statements {#we3qs}
