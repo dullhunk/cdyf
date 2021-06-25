@@ -12,7 +12,6 @@ Evidence is a key part of your “Context, Action, Result and Evidence” (CARE)
 ## What you will learn {#ilob}
 After reading this chapter you will be able to:
 
-<!--* Identify and decide which parts of this book you are going to read-, this fits in introducting you future -->
 * Describe some the evidence you can collect and badge to show your achievements:
     + during University
     + after University and throughout your professional career
@@ -49,11 +48,6 @@ knitr::include_graphics("images/broad-brushstrokes.png")
 ```
 (ref:captionfinegrain) What kind of picture would you like to paint of your professional identity? [Open Badges paint a better picture…](https://bryanmmathers.com/open-badges-paint-a-better-picture/)  by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-<!--
-```{r old-school-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionoldschool)"}
-knitr::include_graphics("images/old-school-vs-new-school-credentials-v2.png")
-```
-(ref:captionoldschool) old school repetition-->
 
 ## Digital badges {#digibadge}
 Digital badges provide a solution to this problem, just like your degree certificate is a verified badge of your achievements, a digital badge does the same but in a digital way. Rather than being physical, a digital badge is virtual and transferable. It's just a `*.png` graphic file which has been digitally signed and contains metadata. This means it can be displayed on your CV, on social media such as LinkedIn or “stacked” into a digital portfolio collection as shown in figure \@ref(fig:badge-properties-fig).
@@ -103,12 +97,6 @@ knitr::include_graphics("images/badge-taxonomy-v2.png")
 ```
 (ref:captionbadgetype) There are many different achievements which badges can be awarded for including membership, participation, capability and mastery. [Badge taxonomy](https://bryanmmathers.com/badge-taxonomy-v0-2/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-<!--
-* What are badges
-* What are we doing with them: providing badges for things they are doing already (e.g. PASS leader)
-* What next? Open source, portfolios, more consultation with students, more consultation with employers
-
--->
 
 ## Other digital badges {#otherbadges}
 There are other digital badges for evidencing your achievements besides the open ones described in this chapter. Like open badges, they also provide certifiable evidence of professional and personal achievements, see figure \@ref(fig:amazon-badge-fig):

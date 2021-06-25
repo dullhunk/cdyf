@@ -4,7 +4,7 @@ Do you feel like the *weird edge case* pictured in Figure \@ref(fig:default-user
 
 * use your technical skills responsibly and ethically to make the world a better place?
 * start your own business and make money for yourself, rather than other people?
-* work in computing in roles outside of classic software engineering?
+* work in computing in roles beyond software engineering?
 
 Broadening your initial job search described in chapter \@ref(finding) will open up more opportunities on your horizon. This chapter will broaden those horizons and get you to think about some of the less obvious options, because I *love* weird edge cases and you should too. 😻
 
@@ -25,28 +25,30 @@ Many technology jobs exist outside of technology companies, [@outsideit] because
 * Recognise the social responsibility accompanying the power held by computer scientists
 * Match and critically evaluate the values of an employer with your own values and ethics
 
-<!--
-Entrepreneur, commercial skills
-* What does it mean to be enterprising?
-* What is entrepreneurial?
-* Saving money
-* include parttime work
-* what is enterprise https://www.youtube.com/watch?v=YCfMcFR3sGE
-* see [@innovatorsdilemma]
+## Beyond software engineering {#otheroles}
+The phrase software engineering has been around since [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) (figure \@ref(fig:hamilton-fig)) wrote code for NASA's Apollo program, and the practice of software engineering has been around even longer.
+<!--Ada Lovelace is often credited as being the worlds first software engineer-->
 
--->
+```{r hamilton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhamilton)"}
+knitr::include_graphics("images/margaret-hamilton.jpeg")
+```
 
-<!--
-might fit better in computing your future but:
+(ref:captionhamilton) The role of software engineer has been around for a long time but there are plenty of other roles for computer scientists beyond software engineering. [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) in 1969 standing next to the (printed) navigation software that she and her MIT team produced for the Apollo program. Public domain image via Wikimedia Commons [w.wiki/3YJW](https://w.wiki/3YJW) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Computer programs deeply transform science. Beyond every recent scientific discovery there is digital data and programs to analyze, store, make sense of reality through computers. NumPY is one such computer program that has been developed over the last decade, becoming an essential instrument for key discoveries in astronomy, chemistry or biology.
-https://cacm.acm.org/blogs/blog-cacm/252759-science-changing-code/fulltext
+Software engineers (or software developers) are one of the most popular roles for graduates (see e.g. figure \@ref(fig:nurses-fig)) but there are plenty of affiliated roles that computer scientists go into besides software engineering.
 
-and
-Ten computer codes that transformed science
-https://www.nature.com/articles/d41586-021-00075-2
+* Data scientist
+* Product manager or owner  
+* Project manager
+* Software achitect
+* Business analyst
+* Test engineer (QA)
+* Usability engineer (HCI)
+* Security engineer, penetration testing
+* DevOps / sysadmin
+* Consultant
 
--->
+What do these roles entail?
 
 ## With great code comes great responsibility {#peterparker}
 
@@ -54,8 +56,6 @@ Computer scientists wield tremendous power in the twenty first century.  We know
 
 * With great power comes great responsibility [@spiderman]
 * With great code comes great responsibility [@responsiblecs]
-
-
 
 ```{r spiderman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionspiderman)"}
 knitr::include_graphics("images/with-great-code-comes-great-responsibility.jpeg")
@@ -68,9 +68,9 @@ Given the growing power of computing in the twenty-first century, computer scien
 ## Do you need to sell your soul? {#soul}
 You'll sometimes hear people saying you need to sell your soul to get a job, shown in figure \@ref(fig:diabolical-fig). See for example:
 
-* [Soul sold for less than £12](http://news.bbc.co.uk/1/hi/england/2051061.stm)
+* [Soul sold for less than £12](http://news.bbc.co.uk/1/hi/england/2051061.stm) [@bbcsoul]
 * [google.com/search?q=selling+your+soul](https://www.google.com/search?q=selling+your+soul)
-* [Am I Selling My Soul to Work for My Company?](https://www.thevectorimpact.com/selling-your-soul/)
+* [Am I Selling My Soul to Work for My Company?](https://www.thevectorimpact.com/selling-your-soul/) [@sellmysoul]
 
 ```{r diabolical-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondevildeal)"}
 knitr::include_graphics("images/deal-with-the-devil.jpeg")
@@ -97,7 +97,7 @@ Let's look at Morgan Stanley (figure \@ref(fig:morgan-stanley-fig)) as an exampl
 1. Do the right thing: act with integrity
 1. Put clients first: listen to what the client is saying and needs
 1. Lead with exceptional ideas: win by breaking new ground
-1. Commit to Diversity \& Inclusion: value individual and cultural differences
+1. Commit to Diversity and Inclusion: value individual and cultural differences
 1. Give back: serve communities generously with expertise, time and money
 
 Look at these values carefully, or choose the values of another employer you're interested in. What do they mean to you?
@@ -122,54 +122,12 @@ Look at these values carefully, or choose the values of another employer you're 
 Once you've thought about these questions, you stand a much better chance of working out if a given employer is a good match for you. So do you have to sell your soul as shown in figure \@ref(fig:soul-fig)? It depends on what you value and if an employer shares those values with you.
 
 
-
 ```{r soul-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsoul)"}
 knitr::include_graphics("images/Sell your soul.png")
 ```
 
 (ref:captionsoul) Do you need to sell your soul to your employer? If so, how much can you get for it? What percentage stake of your soul will they ask for and how much are you willing to give? How do your values align with those of your employer? Soul dialog box sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-<!--
-* Silicon Fen
-* https://www.cst.cam.ac.uk/ring/awards
-* https://www.cst.cam.ac.uk/supporters-club/recruitment-fair
-* Selfemployment {#selfie}
-* Contract {#contract}
-* Freelance {#freelance}
-* Parttime {#parttime}
-* heading Creating your future
-*  Startup {#startup}
-*  https://bryanmmathers.com/its-not-the-only-way/
-*  Small or medium? {#sme}   
-* Science careers {#scareer}
-* CERN, should go here or Computing your future  
--->
-
-<!--
-product manager
-
-```{r gaylepm-fig,echo=FALSE, fig.cap = "Gayle"}
-library(tweetrmd)
-include_tweet("https://twitter.com/gayle/status/1353907210535886848")
-```
--->
-
-<!--
-
-* Teaching: coding their future
-
-The computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains why teachers of computing are crucial from primary school through to secondary school and beyond. Can you inspire the next generation with your knowledge of computing? ,
-https://www.youtube.com/watch?v=SwV3QyVc-go
-
-Teaching is not a delivery system, it's an art form.
-
-```{r teach-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkenrob)"}
-knitr::include_graphics("images/ken-robinson-teaching.png")
-```
-
-(ref:captionkenrob) According to [Ken Robinson](https://en.wikipedia.org/wiki/Ken_Robinson_(educationalist)), teaching is an art form. [@kills1; @kills2] Are you an artist? There is significant demand for artists like you who can teach computing to the next generation. You don't even need to have studied Computer Science to become a teacher of computing. [What teaching is not](https://bryanmmathers.com/what-teaching-is-not/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
--->
 
 ## Summarising your alternatives {#tldr11}
 
@@ -177,10 +135,6 @@ knitr::include_graphics("images/ken-robinson-teaching.png")
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar8-fig).
 
-<!-- hello world test for epub 3-->
-
 ```{r deathstar8-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
 knitr::include_graphics("images/DeathStar2.jpg")
 ```
-
-<!-- hello world test for epub 2-->

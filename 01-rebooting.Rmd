@@ -1,6 +1,5 @@
 # (PART) DESIGNING {-}
 
-
 # Rebooting your future {#rebooting}
 
 The first part of this book is about designing your future. So before we get started, we need to reboot and tackle a fundamental design issue. Why the hell would you want to bother with your future? Why should read this guidebook when you have so many other things to do right now? So:
@@ -15,12 +14,6 @@ You need this guidebook because it is different to all the other guidebooks! It 
 
 Before we do that, we need to reboot. Come with me down the rabbit hole in figure \@ref(fig:rabbit-fig) and let me explain... 🐇
 
-<!--```{r, echo = FALSE}
-library(tidyverse)
-ggplot2::ggplot(data = ggplot2::mpg) +
-  geom_point(mapping = aes(x = displ, y = hwy, color = class))
-```-->
-
 ```{r rabbit-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap = "(ref:captionrabbit)"}
 knitr::include_graphics("images/Rabbit-hole.png")
 ```
@@ -30,7 +23,6 @@ knitr::include_graphics("images/Rabbit-hole.png")
 ## What you will learn {#ilo1}
 After reading this chapter you will be able to:
 
-<!--* Identify and decide which parts of this book you are going to read-, this fits in introducting you future -->
 * Reboot your future by
     + Setting your expectations for using this guidebook, and open some doors to your future
     + Travelling down the rabbit hole into the underworld of employment
@@ -41,8 +33,6 @@ After reading this chapter you will be able to:
 In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland], the protagonist Alice follows a [white rabbit](https://en.wikipedia.org/wiki/White_Rabbit) down a hole. What she discovers is a strange underground world populated by weird and wonderful characters. The world of work can sometimes be a mysterious underworld where you adventure in wonderland accompanied by colourful characters.
 
 You will spend lots of time in this wonderland, potentially as much as 80,000 hours of your life. [@iip1; @iip2] So join me down the rabbit hole, it's fun (honest), and sooner or later you'll have to come down here anyway. So open up the door to the new possibilities in your future.
-
-<!-- popular languages https://spectrum.ieee.org/at-work/tech-careers/top-programming-language-2020 -->
 
 ## Opening your future {#opening}
 Studying at University opens new doors to your future, some of which will take you down rabbit holes. As the poet [Lemn Sissay](https://en.wikipedia.org/wiki/Lemn_Sissay) once said (figure \@ref(fig:lemn-fig)):
@@ -60,7 +50,6 @@ As well as opening your future, studying at University about *investing* in your
 1. Highlight and review essential resources beyond this guidebook that will help with the above
 
 All of the resources that can help you are scattered around in lots of different places. There are books, there are videos, there are podcasts, there are websites and jobs boards. There are online courses, blogs, social media, newspaper columns, journal articles, marketing material and many other good resources. It is overwhelming.
-
 
 ## Your future is your responsibility {#responsibility}
 When Andy Stanford-Clark started working at IBM, fresh out of University, his boss gave him the career advice shown in figure \@ref(fig:andysc-fig):
@@ -81,12 +70,11 @@ You've worked incredibly hard to get the grades you needed to get into Universit
 
 Under these circumstances, you might be tempted to believe that the world owes you something in return for all your hard work. Unfortunately that's not the case.
 
-At some point during or after your study, you might find yourself applying for a graduate job or graduate scheme. EVERYONE applying for these opportunities will have a degree or be rapidly on their way to getting one. So having a degree isn't going to set you apart much from your competition. Even having a first class degree [@gradeinflation; @firstclass] may not distinguish you that much your competitors. Some employers would rather not know (or don't care) what University you went to, so your education might not make you stand out as much as you might like anyway. [@bigfour]
+At some point during or after your study, you might find yourself applying for a graduate job or graduate scheme. EVERYONE applying for these opportunities will have a degree or be rapidly on their way to getting one. So having a degree isn't going to set you apart much from your competition. Even having a first class degree [@gradeinflation; @firstclass] may not distinguish you that much your competitors. Some employers would rather not know (or don't care) what University you went to, so your education might not make you stand out as much as you might like anyway. [@bigfour; @eyfirm]
 
 What **will** distinguish you from your competitors will be your experience (see chapter \@ref(experiencing)), your projects (see section \@ref(mycvpj)), your communication skills (see chapter \@ref(writing)) and any awards or honours you might have picked up along the way. If you think that your degree will be enough to get you the job you want, bear in mind that:
 
 <!--Some employers are agnostic to where your degree came from, or how you did at high school, to your academic credentials
-
 https://www.independent.co.uk/news/education/education-news/ey-firm-says-it-will-not-longer-consider-degrees-or-a-level-results-when-assessing-employees-10436355.html
 -->
 
@@ -140,8 +128,6 @@ If you want to work for a big name like those in section \@ref(bignames) or \@re
 
 That doesn't mean you have to know EXACTLY what you want to do when you finish. Lots of students don't and I certainly didn't when I graduated. I'd done a gap year teaching in India, two summer internships (in Sweden and the United States) and a year-in-industry in the UK and I *still* graduated with **no clue** as to what I wanted to do next! The important thing is that you make a start, and sometimes knowing what you **don't** want to do is just as valuable as knowing what you want to do.
 
-<!--See  I don't know what I want to do, section \@ref(noclue) -->
-
 Computer scientists call this problem “search space reduction”, [@searchspace] because you have a [feasible region](https://en.wikipedia.org/wiki/Feasible_region) of future possibilities and you need to narrow down the candidates. You could think of coding your future as an [optimisation problem](https://en.wikipedia.org/wiki/Optimization_problem). Start optimising now because it's too late when you graduate. 🎓
 
 
@@ -162,15 +148,18 @@ Students love to ask their teachers “*will this be on the exam*”? The short 
 | Interview           | - Should we offer you a job?               | pass/fail|
 |                     | - Can you communicate well verbally?       |          |
 |                     | - Can you communicate well nonverbally?    |          |
-|                     | - See chapter \@ref(speaking)              |          |
+|                     | - (ref:captionchapters2)                   |          |
 +---------------------+--------------------------------------------+----------+
 | Employee performance| - Should we promote you?                   | pass/fail|
 |                     | - Should we give you a pay rise?           |          |
 |                     | - Should we extend your contract?          |          |
-|                     | - See chapter \@ref(surviving)             |          |
+|                     | - (ref:captionchapters3)                   |          |
 +---------------------+--------------------------------------------+----------+
 
-(ref:captionchapters) See chapters \@ref(writing), \@ref(experiencing) and \@ref(debugging)
+<!--putting ref directly in table above causes bug in epub-->
+(ref:captionchapters) See chapters \@ref(writing) and \@ref(debugging)
+(ref:captionchapters2) See chapter \@ref(speaking)
+(ref:captionchapters3) See chapter \@ref(surviving)
 
 So, *yes*, this will be on the exam, but *no*, the exams are obviously not set, administered, invigilated and marked by academics at your University. The exams are set by employers and the results are **brutally binary**:
 
@@ -220,13 +209,13 @@ I wrote this guidebook because I needed a resource for students to help them des
 This book aims to combine these perspectives and to be different from existing resources in the following ways:
 
 ### Your future is signposted {#signposted}
-Some career resources claim (or imply) that they are the *all you will need* to solve a particular problem or worse: solve *all of your problems*! Just buy this book, do this course, watch this video, listen to this podcast and all your problems will go away!  Rather than continue this trend, this book **signposts** some of the most useful resources, see figure \@ref(fig:signposting-fig). <!--We don't want to re-invent the wheel but signpost useful wheels that other people have already made. -->
+Some career resources claim (or imply) that they are the *all you will need* to solve a particular problem or worse: solve *all of your problems*! Just buy this book, do this course, watch this video, listen to this podcast and all your problems will go away!  Rather than continue this trend, this book **signposts** some of the most useful resources, see figure \@ref(fig:signposting-fig).
 
 ```{r signposting-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsignposting)"}
 knitr::include_graphics("images/signposting.jpeg")
 ```
 
-(ref:captionsignposting) I've signposted the resources that will help you navigate the start of your employment journey. Which route will you take? Picture of a signpost in the [Åland Islands](https://en.wikipedia.org/wiki/%C3%85land_Islands), Finland by Sal via Wikimedia Commons [w.wiki/3Xop](https://w.wiki/3Xop) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionsignposting) Wondering which way to go next? I've signposted the resources that will help you navigate the start of your professional journey. Which route will you take? Picture of a signpost in the [Åland Islands](https://en.wikipedia.org/wiki/%C3%85land_Islands), Finland by Sal via Wikimedia Commons [w.wiki/3Xop](https://w.wiki/3Xop) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Scientists call signposting **citation**, so I've signposted and cited sources in this guidebook so that you can :
 
@@ -263,11 +252,6 @@ knitr::include_graphics("images/agile-vs-waterfall.jpeg")
 
 (ref:captionagile) [Agile software developers](https://en.wikipedia.org/wiki/Agile_software_development) make it up as they go along, whereas [waterfalling software developers](https://en.wikipedia.org/wiki/Waterfall_model) make it all up at the beginning and then live with the consequences. It's the same with natural language engineering (books). I'm making it up as I go along, using agile book development methods. Women who code image by Justice Okai Allotey via Wikimedia Commons [w.wiki/3Xnk](https://w.wiki/3Xnk) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-<!--original idea by ```{r tweet-from-psd,echo=FALSE}
-library(tweetrmd)
-include_tweet("https://twitter.com/psd/status/568324759521501184")
-```-->
-
 ### Your future is personal {#firstperson}
 A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told personal stories to illustrate key points.
 
@@ -299,13 +283,6 @@ knitr::include_graphics("images/captain-jean-luc-picard.jpeg")
 ```
 
 (ref:captionstartrek) This is Captain [Jean-Luc Picard](https://en.wikipedia.org/wiki/Jean-Luc_Picard) of the Starship *Enterprise*. Engage! Fair use image of actor [Patrick Stewart](https://en.wikipedia.org/wiki/Patrick_Stewart) performing in *Star Trek* adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238). Make it so.
-
-
-
-<!--```{r tweet-from-fonikh,echo=FALSE}
-library(tweetrmd)
-include_tweet("https://twitter.com/FonikhSoupia/status/1285742247711997954")
-```-->
 
 ## Signposting your future {#sign1}
 
