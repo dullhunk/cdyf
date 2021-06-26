@@ -90,7 +90,15 @@ Written communication skills are important because:
 1. **It is relatively easy to improve** your written communication skills, simply by reading and writing more. Reading and writing deliberately every day, will significantly improve these skills.
 
 ### Natural language engineering {#nle}
-If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering code, they also spend a significant amount of time engineering messages in natural languages like english. Consider the following:
+As a species, we've been writing stuff down for millenia in order to communicate with each other, see figure \@ref(fig:rosetta-fig). If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering `code`, they also spend a significant amount of time engineering messages in natural languages like english.
+
+```{r rosetta-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrosetta)"}
+knitr::include_graphics("images/rosetta-stone.jpeg")
+```
+
+(ref:captionrosetta) Have you ever noticed how when people become serious about communication, they want it in [writing](https://en.wikipedia.org/wiki/Writing)? CC BY-SA image of words written on the [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) by [Hans Hillewaert](https://commons.wikimedia.org/wiki/Category:Photographs_by_Hans_Hillewaert) on Wikimedia commons [w.wiki/3Ycn](https://w.wiki/3Ycn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+Consider the following:
 
 * email and instant messaging, Slack, Microsoft Teams, Discord, Zoom etc
 * Posting on social media: LinkenIn, Facebook, WhatsApp, Twitter, blogs, Medium.com etc
@@ -116,7 +124,7 @@ If you stop to think about it, engineers and scientists spend a *lot* time commu
 
 What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless.
 
-Making software isn't all about what you can do as an individual but rather how you contribute to a team. It's easy to get carried away with your ego. Remember that most jobs require *lots* of softer people skills and collaboration, written communication is a huge part of that, see for example [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ). [@Fitzpatrick]
+Making software isn't all about what you can do as an individual but rather how you communicate with and contribute to your team. It's easy to get carried away with your ego. Remember that most jobs require *lots* of softer people skills and collaboration, written communication is a huge part of that, see for example [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ). [@Fitzpatrick]
 
 <!--
 1. **Its not just engineers that can improve** If the huge volume of literature on the importance of writing is anything to go by,  it's not just engineers and scientists that could improve their written communication skills, see for example the complete plain words. [@gowers; @writingatuni]-->

@@ -157,9 +157,13 @@ Students love to ask their teachers “*will this be on the exam*”? The short 
 +---------------------+--------------------------------------------+----------+
 
 <!--putting ref directly in table above causes bug in epub-->
-(ref:captionchapters) See chapters \@ref(writing) and \@ref(debugging)
-(ref:captionchapters2) See chapter \@ref(speaking)
-(ref:captionchapters3) See chapter \@ref(surviving)
+(ref:captionchapters) Chapters \@ref(writing) and \@ref(debugging)
+
+(ref:captionchapters2) Chapter \@ref(speaking)
+
+(ref:captionchapters3) Chapter \@ref(surviving)
+
+<!--needs a linebreak between each one-->
 
 So, *yes*, this will be on the exam, but *no*, the exams are obviously not set, administered, invigilated and marked by academics at your University. The exams are set by employers and the results are **brutally binary**:
 
