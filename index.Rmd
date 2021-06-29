@@ -254,7 +254,10 @@ If you're familiar with git and markdown you can [github.com/join](https://githu
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your pulling skills see [makeapullrequest.com](http://makeapullrequest.com/)
-* From the command line type `git clone https://github.com/dullhunk/cdyf.git` the repository and submit pull requests from your own setup
+* From the command line, clone the repository and submit pull requests from your own setup:
+````md
+git clone https://github.com/dullhunk/cdyf.git
+````
 
 Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wiki/Markdown), that's [all the `*.Rmd` files](https://github.com/dullhunk/cdyf/search?l=RMarkdown). So markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
 
@@ -345,9 +348,9 @@ Pinar Alper, Sophia Ananiadou, Mikel Egaña Aranguren, Constantinos Astreos, Ter
 ```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhitch)"}
 knitr::include_graphics("images/everyone-has-a-book-inside-them.jpeg")
 ```
-(ref:captionhitch) Optimists will tell you that “everyone has a book in them...”, but pessimists like [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's exactly where it should remain”. [@everyone] Despite Hitchens amusing trademark scepticism, I am optimistic about the power of natural languages. CC BY portrait of Christopher Hitchens by ensceptico via Wikimedia Commons [w.wiki/3YK7](https://w.wiki/3YK7) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionhitch) Optimists will tell you that “everyone has a book in them...”, but pessimists like [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) will add that “...in most cases that's exactly where it should remain”. [@everyone] Despite Hitchens amusing trademark scepticism, I am optimistic about the power of natural languages, especially in books. CC BY portrait of Christopher Hitchens by ensceptico via Wikimedia Commons [w.wiki/3YK7](https://w.wiki/3YK7) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So thanks academics for being sceptical (figure \@ref(fig:hitchens-fig)) and academic. 🙏
+So thanks academics for being even more sceptical that Christopher Hitchens, see figure \@ref(fig:hitchens-fig). Thanks academics for being academic. 🙏
 
 #### Thank you professional services staff {#psstaff}   
 
