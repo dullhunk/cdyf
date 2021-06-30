@@ -64,6 +64,7 @@ jobterm_table <- tibble::tribble(
   ~ "Experience", ~ "Description",
   "Casual", "Part-time or casual work, for example in hospitality or retail etc",
   "Voluntary", "Unpaid, both in technical and non-technical roles",
+  "Self", "Self-employment or entrepreneurial ventures",  
   "Insight", "Usually no contract of employment. One to three weeks, sometimes known as work experience, work shadowing, spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Usually unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
   "Internship", "Fixed term contract of employment, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree.",
   "Placement", "Fixed term contract of employment, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as a “sandwich” or “industrial experience” years because they typically take place in the penultimate year of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
@@ -119,7 +120,7 @@ Big names can look good on your CV, but they are not the only way to make your C
 Any experience will help your CV stand out. Smaller employers have the advantage that they tend to be less picky than big names so it is often easier to get a foot in the door. It might not be what you see yourself doing for long, but the experience gained in a small company can be invaluable.
 
 ### Open source experience {#opensource}
-Open source software projects are a great way to get some solid experience of software engineering. There's two ways to get started:
+Open source software projects are a great way to get some solid experience of software engineering, see for example [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext). [@Spinellis] There's two ways to get started:
 
 1. Raise a new issue via the project's issue tracker, such as [github issues](https://guides.github.com/features/issues/) [@githubissues]
 1. [Fix a bug](https://dev.to/rose/fixing-a-bug-on-my-open-source-project-from-start-to-finish-1749) by picking existing issues. [@fixabug] It might sound trivial, but fixing a bug demonstrates that you can collaborate with others, understand the architecture and toolchain being used (which might be complex) and solve problems. See [firstcontributions.github.io](https://firstcontributions.github.io/) and the `<good first issue>` tag which helps new contributors identify starting points, see [goodfirstissue.dev](https://goodfirstissue.dev/) for some aggregated examples.
@@ -130,6 +131,16 @@ There are lots of different motivations for getting involved in open source, sho
 knitr::include_graphics("images/OS-contribution-motivations-1200x675.png")
 ```
 (ref:captionopensource) There are lots of good reasons for getting involved in open source software, gaining skills and experience of real software engineering in the wild is just one of them. [Open Source Motivations](https://bryanmmathers.com/open-source-motivations) by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+If you're looking for a project to get stuck into, here are [Diomidis Spinellis](Dhttps://en.wikipedia.org/wiki/Diomidis_Spinellis) tips for getting started [@Spinellis]:
+
+1. Choose a project with several active contributors, so that there is a community to help you
+1. Choose a relatively popular project (with some GitHub stars) so that you can avoid abandoned software but...
+1. ... Avoid “blockbuster”  projects like [tensorflow](https://github.com/tensorflow) or [vscode](https://github.com/microsoft/vscode) , so that your contributions will not get lost in the noise
+1. Verify that you can build and run the project from your own setup
+1. Ensure the project regularly accepts pull requests from outsiders, so that yours contributions will have a chance of being accepted
+1. Contribute a trivial fix to start with to test your ability use the project's workflows
+
 
 ### Voluntary experience {#volunteering}
 

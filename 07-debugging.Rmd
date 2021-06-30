@@ -5,9 +5,13 @@
 It's all very well *designing* your future but now you need to actually engineer it by *building* and *testing*. An obvious place to start is with your CV, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
 
 
-```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)"}
+```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
 knitr::include_graphics("images/Features not bugs.png")
 ```
+
+(ref:captionbuggingcv) Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)  
+
+
 ## What you will learn {#ilo7}  
 
 By the end of this chapter you will be able to
@@ -298,13 +302,13 @@ One way to structure descriptions of items within each section of your CV is to 
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
 * **EVIDENCE**: Where evidence exists, you should point to it. It might be a certificate, a badge (see chapter \@ref(achieving)) or the actual software itself
 
-Similar to C.A.R.E., recruiters at Google (see Figure \@ref(fig:lopez-fig)) advise candidates to describe their experience and projects using this simple pattern:
+You don't have to stick rigidly to the order C.A.R.E. as long as they appear somewhere. For example, recruiters at Google (see figure \@ref(fig:lopez-fig)) advise candidates to describe their experience and projects using this simple pattern:
 
 ````md
 * Accomplished [X], as measured by [Y], by doing [Z]
 ````
 
-So instead of just saying:
+Where *accomplished* is `Result`, *measured by* is `Evidence` and *doing* is the `Action`. So instead of just saying:
 
 ````md
 * Generated reports for end users
@@ -316,7 +320,7 @@ You could say:
 * Generated daily reconciliation report for team by automating workflow of 8 different tasks
 ````
 
-The latter is better because it is more specific, captures the result (`accomplishment`), by quantifying it (`as measured by`) and talks about the actions (the `doing` part). Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
+The latter is better because it is more specific, captures the result (`accomplishment`), by giving evidence (`8 different tasks`) and talks about the actions (the `doing` part). Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
 
 
 ### Your length {#length}
