@@ -13,32 +13,37 @@ knitr::include_graphics("images/10 Simple Rules.png")
 
 ## Know who you are {#mybrand}
 
-There is a lot more to you than your degree. Yes, you've spent three or four years getting your degree. Identify your weaknesses and work out how to improve them.
+There is a lot more to you than your degree. Yes, you've spent (or will be spending) three or four years getting your degree. Use this time to identify your weaknesses and work out how to improve them. Knowing your future depends on knowing who you are now, see chapter \@ref(knowing) and figure \@ref(fig:knowing-fig).
 
+```{r knowing-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionknowmyself)"}
+knitr::include_graphics("images/Know who you are.png")
+```
+(ref:captionknowmyself) How well do *really* you know yourself? Know who you are sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 <!--understand your brand your values, another word for brand is reputation. do people like you. The better you know yourself, the better-->
 
 
 ## Look after yourself {#onlyhuman}
-Look after yourself mentally and physically.
-
-Choose your reference points carefully, try not to compare yourself to the person at the top of the class. Ask yourself, am I doing better than last time?
+Look after yourself mentally and physically. Studying at University can be enjoyable but it can also make you stressed, anxious and depressed. Choose your reference points carefully, try not to compare yourself to the person at the top of the class. Ask yourself, am I doing better than last time? Be kind to yourself because nurturing yourself now will nurture your future, see chapter \@ref(nurturing).
 
 
 ## Use what you have {#gregwilson}
 
-This rule is borrowed from software engineer Greg Wilson [\@gvwilson](https://github.com/gvwilson), who probably adapted it from a quote frequently misattributed to President Theodore Roosevelt [@teddy]. The full quote is  
+This rule is borrowed from software engineer Greg Wilson [\@gvwilson](https://github.com/gvwilson) in figure \@ref(fig:greg-wilson-fig), who probably adapted it from a quote frequently misattributed to President Theodore Roosevelt [@teddy].
 
-> Start where you are, use what you have, help who you can, see https://third-bit.com
+```{r greg-wilson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongregwilson)"}
+knitr::include_graphics("images/greg-wilson-software-carpentry.jpeg")
+```
 
+(ref:captiongregwilson) “Start where you are, use what you have, help who you can.” —Greg Wilson at [third-bit.com](https://third-bit.com/) and [software-carpentry.org](https://software-carpentry.org/). CC BY Portrait of Greg Wilson by Chris Fournier on Wikimedia Commons [w.wiki/3Zy6](https://w.wiki/3Zy6)
 
-<!--What is the next step?
+When you're job hunting you can sometimes think that:
 
-if i had a better, different degree from a better different university?
+* “If I had a better, different degree from a different university, I'd do better...”
+* “If I had more experience, more voluntary work, more internships, I'd stand a better chance...”
+* “If I'd done more extra-curricular activities...” etc
 
-if i had more experiences, more voluntary work, more internships
-
-If i'd done more extra-curricular activities-->
+This is all nonsense from your inner critic that you can safely ignore. Start from where you are, use whatever you have and help who you can.
 
 ## Build your networks {#networking}
 
