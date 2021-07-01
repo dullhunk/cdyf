@@ -35,13 +35,13 @@ If you're applying to big employers, you'll need to create a CV that is good eno
 
 ## It's not bug, its a feature
 
-It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig)
+It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig).
 
 ```{r notabug-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionnotabug)"}
 knitr::include_graphics("images/notabug.jpeg")
 ```
 
-(ref:captionnotabug) Do you have bugs or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV or résumé can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA 4.0 via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62)
+(ref:captionnotabug) Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62)
 
 
 Nobody likes buggy software, but we unfortunately routinely tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
@@ -200,8 +200,7 @@ They will most likely be unpaid because paid work fits better under the heading 
 knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
 ```
 
-(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out. Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3X) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) see also [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
-
+(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked “What I cannot create, I do not understand” on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) while teaching the [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@Way2017] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out see [github.com/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x). Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3X) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Any longer projects you've done at University are worth mentioning. Your projects are important because they differentiate you from everyone else in your year group. Try to be *more* descriptive than this:
 
