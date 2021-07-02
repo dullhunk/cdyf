@@ -57,14 +57,12 @@ Your experience tells a story about who you are and what you're capable of.
 
 So what counts as experience? Employers use terms to describe jobs and experience for undergraduates and graduates inconsistently. So I've defined and outlined terms for relevant kinds of experience shown in table \@ref(tab:jobterms) and we'll use these definitions throughout the book.
 
-<!--* Being self-employed, working as a freelancer or starting a small business-->
-
 ```{r jobterms, echo = FALSE}
 jobterm_table <- tibble::tribble(
   ~ "Experience", ~ "Description",
   "Casual", "Part-time or casual work, for example in hospitality or retail etc",
   "Voluntary", "Unpaid, both in technical and non-technical roles",
-  "Entrepreneurial", "Self-employment, contracting, “moonlighting” in a [side job](https://en.wikipedia.org/wiki/Side_job) or starting a small business",  
+  "Entrepreneurial", "Self-employment, freelancing, contracting, “moonlighting” in a [side job](https://en.wikipedia.org/wiki/Side_job) or starting as a [sole-trader](https://en.wikipedia.org/wiki/Sole_proprietorship) or small business",  
   "Insight", "Usually no contract of employment. One to three weeks, sometimes known as work experience, work shadowing, spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Usually unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
   "Internship", "Fixed term contract of employment, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree.",
   "Placement", "Fixed term contract of employment, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as a “sandwich” or “industrial experience” years because they typically take place in the penultimate year of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
@@ -78,7 +76,7 @@ Some of the experience outlined in table \@ref(tab:jobterms) was probably what y
 
 1. **Voluntary work**: Any kind of work where you've given your time and labour to a community. That could be non-technical (working for a charity) or technical, such as contributing to open-source software, see section \@ref(opensource) and figure \@ref(fig:volunthero-fig)
 2. **Casual work**: Working in hospitality or retail (etc) is often overlooked by students as an important source of relevant experience. It doesn't have to be technical to be relevant to employers, see section \@ref(casual)
-3. **Student societies** Your student union will have hundreds of societies you can get involved in. As well as helping you develop new or existing interests, these societies give you an opportunity to serve a particular community of interest. Many societies seek members to take on positions of responsibility, above and beyond merely participating in their events
+3. **Student societies** Your students' union will have hundreds of official societies you can get involved in, and they'll be plenty of unofficial fringe communities too. As well as helping you develop new or existing interests, these societies give you an opportunity to serve a particular community of interest. Many societies seek members to take on positions of responsibility, above and beyond merely participating in their events
 
 ```{r volunthero-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionvolunthero)"}
 knitr::include_graphics("images/volunthero.jpeg")

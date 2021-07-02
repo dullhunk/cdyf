@@ -29,7 +29,7 @@ Look after yourself mentally and physically. Studying at University can be enjoy
 
 ## Use what you have {#gregwilson}
 
-This rule is borrowed from software engineer Greg Wilson [\@gvwilson](https://github.com/gvwilson) in figure \@ref(fig:greg-wilson-fig), who probably adapted it from a quote frequently misattributed to President Theodore Roosevelt [@teddy].
+This rule is borrowed from software engineer Greg Wilson [\@gvwilson](https://github.com/gvwilson) in figure \@ref(fig:greg-wilson-fig), who probably adapted it from a quote frequently misattributed to Theodore Roosevelt [@teddy].
 
 ```{r greg-wilson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongregwilson)"}
 knitr::include_graphics("images/greg-wilson-software-carpentry.jpeg")
@@ -37,17 +37,21 @@ knitr::include_graphics("images/greg-wilson-software-carpentry.jpeg")
 
 (ref:captiongregwilson) “Start where you are, use what you have, help who you can.” —Greg Wilson at [third-bit.com](https://third-bit.com/) and [software-carpentry.org](https://software-carpentry.org/). CC BY Portrait of Greg Wilson at [The Carpentries](https://en.wikipedia.org/wiki/The_Carpentries) via Wikimedia Commons [w.wiki/3a6V](https://w.wiki/3a6V) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238).
 
-When you're job hunting you can sometimes fall into thinking:
+When you're job hunting, it can be competitive and cut-throat. You can sometimes fall into poor habits of mind:
 
-* “If I had a better, different degree from a different university, I'd be more successful...” see section \@ref(entitled)
-* “If I had more experience, more voluntary work, more internships, I'd stand a better chance...” see section \@ref(areuexperienced)
-* “If I'd done more projects and extra-curricular activities...” etc see section \@ref(mycvpj)
+* “*If I had a better degree from a different university, I'd be more successful...*” see section \@ref(entitled)
+* “*If I had more experience, more voluntary work, more internships, I'd stand a better chance...*” see section \@ref(areuexperienced)
+* “*If I'd done more projects and extra-curricular activities...*” etc see section \@ref(mycvpj)
+* “*If I'd got better grades at school and Uni... *” see section \@ref(academentia)
+* “*If only I'd worked harder... *” see \@ref(regret)
+* “*If I was more confident at speaking and interviews ... *” see chapter \@ref(speaking) on *Speaking your future*
+* “*If I'd been to a different school, I could be more successful...*” see the [93percent.club](https://www.93percent.club/)
 
-This is all nonsense from your inner critic that you can safely ignore, see section \@ref(lays). Start from where you are, use whatever you have and help who you can.
+Coulda. Woulda. Shoulda. This is all nonsense from your inner critic that you can safely ignore, see section \@ref(lays). Start from where you are, use whatever you have and help who you can.
 
 ## Build your networks {#networking}
 
-Build your networks, use all the people you can, because people can help you. Remember that the weaker ties in your network may be more important than your stronger ties, especially when it comes to finding jobs.
+Build your networks, use all the people you can, because people can help you. Remember that the weaker ties in your network (see section \@ref(weakties)) may be more important than your stronger ties, especially when it comes to finding jobs.
 
 ```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
 knitr::include_graphics("images/its-all-about-people-2.png")
@@ -66,7 +70,7 @@ You can classify your mistakes and failures into two categories:
 1. Unproductive mistakes: those you didn't learn anything from (and risk repeating)
 
 
-Mistakes and failure are inevitable in life, but productive mistakes are going to help you much more that unproductive ones [@henrypetroski]. That doesn't just mean  you should “fail fast, fail often” [@failfast] or “move fast and break things”, but to conciously learn from any mistakes you make so that you don't repeat them.  One way to turn unproductive mistakes into productive ones is deliberately and conciously reflect on why you made them. This is part of the growth mindset we discussed in chapter \@ref(nurturing).
+Mistakes and failure are inevitable in life, but productive mistakes are going to help you much more that unproductive ones [@henrypetroski]. That doesn't just mean  you should “*fail fast, fail often*” [@failfast] or “*move fast and break things*”, but to conciously learn from any mistakes you make so that you don't repeat them.  One way to turn unproductive mistakes into productive ones is deliberately and conciously reflect on why you made them. This is part of the growth mindset we discussed in chapter \@ref(nurturing).
 
 In a growth mindset, mistakes can be good, but the fear of making them is not. You are more likely to take more chances when you're unafraid to fail, and this will improve your chances of success.
 
@@ -102,7 +106,7 @@ You are not just a techie, Either.
 
 ## Stay in school {#lifelonglearning}
 
-Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University. Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Never stop learning.
+Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University. Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Never stop learning, see chapter \@ref(achieving).
 
 
 ## Step outside your comfort zone {#comfy}
