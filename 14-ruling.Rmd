@@ -123,7 +123,13 @@ This takes courage, but that's often when you learn most. So step outside your c
 
 <!--APPLY, bouncing back. It's tempting to shutdown and give up. Don't be tempted, reboot, regroup, reflect and keep going.-->
 
-Learn to live with rejection, don't take it personally
+Job hunting is hard. Job hunting is stressful. Some employers will waste your valuable time, see section \@ref(timesink). Some employers will reject you but don't take it personally, see \@ref(rejection). The important thing is to not give up, see figure \@ref(fig:katebush-fig).
+
+```{r katebush-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkatebush)"}
+knitr::include_graphics("images/dont-give-up-bush-gabriel.jpeg")
+```
+(ref:captionkatebush) You were taught to fight, taught to win, perhaps you never thought you could fail. Don't give up, because you have friends. Don't give up, you're not beaten yet. [Don't give up, I know you can make it good](https://en.wikipedia.org/wiki/Don%27t_Give_Up_(Peter_Gabriel_and_Kate_Bush_song)). [@dontgiveup]
+
 
 <!--Don't give up learning either, stay in school. Science and engineering are fast moving fields with constant change. While your degree has hopefully armed you with a range of fundamental generic skills that will last your lifetime, you will constantly need to learn new things.-->
 
