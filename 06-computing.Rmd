@@ -73,9 +73,16 @@ Besides the social arguments, there are also strong economic reasons for studyin
 ```{r market-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarket)"}
 knitr::include_graphics("images/Market_Capitalisation.png")
 ```
-(ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be impossible for Apple, Microsoft, Amazon, Google and Facebook to exist without computing. The economic weight of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) graphic by YBSLE on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU), note that [Saudi Aramco](https://en.wikipedia.org/wiki/Saudi_Aramco) has mistakenly been left of this map. The Visual Capitalist gives a more complete picture. [@visualcap]
+(ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be impossible for Apple, Microsoft, Amazon, Google and Facebook to exist without computing. The economic weight of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) graphic by YBSLE on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU)
 
-Even if you don't want to work for any of these global monopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. For example, demand for software developers is high, comparable to teaching and nursing in terms of raw numbers. In the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
+Even if you don't want to work for any of these global monopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. Another visualisation of data in figure \@ref(fig:market-fig) is shown in figure \@ref(fig:market-again-fig).
+
+```{r market-again-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarketagain)"}
+knitr::include_graphics("images/Biggest-Companies-in-the-World.jpeg")
+```
+(ref:captionmarketagain) The Biggest Companies in the World based on market capitalisation data from PriceWaterhouseCoopers (PwC), as well as the countries and sectors they are from. Again, note the dominance of software and hardware: Apple, Microsoft, Google (Alphabet), Facebook and Amazon. Visualisation from [The Biggest Companies in the World in 2021](https://www.visualcapitalist.com/the-biggest-companies-in-the-world-in-2021/)[@visualcap]
+
+What figure \@ref(fig:market-fig) and figure \@ref(fig:market-again-fig) show is that commercial demand for software developers is high, comparable to teaching and nursing in terms of raw numbers. In the UK, the most common jobs for graduates from 2017-18 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2021](https://wonkhe.com/blogs/what-might-the-graduate-labour-market-look-like-in-2021/) [@wonkyball]
 
 ```{r nurses-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionball)"}
 library(ggplot2)
