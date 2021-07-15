@@ -23,15 +23,35 @@ By the end of this chapter you will be able to
     + Asking for, listening to, and acting on constructive criticism of your own CV
 * Quantify and provide evidence for any claims you make you on your CV
 
+
+
 ## Beware of the black hole {#blackhole}  
 Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). Gayle is an experienced software engineer who has worked at the [biggest technology employers in the world](https://en.wikipedia.org/wiki/Big_Tech), Apple, Microsoft and Google. She's also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll discusses in chapter \@ref(speaking). Gayle refers to the employer “black hole” described in figure \@ref(fig:gayle-fig).
 
 ```{r gayle-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongayle)"}
 knitr::include_graphics("images/gayle-black-hole.jpeg")
 ```
-(ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit résumés each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, *The Black Hole*, – is littered with so many résumés that even a top candidate would struggle to stand out.” [@blackhole; @techcareer] Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu)
+(ref:captiongayle) Beware of what software engineer [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) calls the employer “Black Hole”, especially if you're applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit résumés each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, *The Black Hole*, – is littered with so many résumés that even a top candidate would struggle to stand out.” [@blackhole; @techcareer] Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons [w.wiki/wiu](https://w.wiki/wiu) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 If you're applying to big employers, you'll need to create a CV that is good enough to stand out before it disappears over the event horizon and into the employment black hole. It needs to be good enough to persuade an employer to invite you to an interview. You can start with an employer-agnostic CV but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
+
+## The CV is dead, long live the CV! {#dead}  
+Résumés and CV's have reigned supreme in employment for many years but their demise has often been predicted, see figure \@ref(fig:longlive-fig).
+
+```{r longlive-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlonglive)"}
+knitr::include_graphics("images/the-king-is-dead.jpeg")
+```
+(ref:captionlonglive) The seemingly contradictory phrase [The king is dead, long live the king!](https://en.wikipedia.org/wiki/The_king_is_dead,_long_live_the_king!) simultaneously announces the death of the current monarch and the accession of a new one. The death of the CV (and résumé) has long been hailed but it keeps coming back to reign again. The CV is dead, long live the CV! The résumé is dead, long live the résumé! Public domain image of a painting of [Charles VII of France](https://en.wikipedia.org/wiki/Charles_VII_of_France) by Jean Fouquet on Wikimedia Commons [w.wiki/3e3K](https://w.wiki/3e3K) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+While it is true that some employers don't accept CVs or favour online application forms, it is still worth writing one because:
+
+* It provides a record for you of relevant things you've done
+* It enables you to get your story straight, see section \@ref(story)
+* It forces you to articulate who you are and what you want, see chapter \@ref(knowing)
+* Some employers will still ask you for one, see section \@ref(robotproof) and figure \@ref(fig:longlive-fig)
+* It helps you script and practice your “lines” for interviews, see chapter \@ref(speaking)
+
+Even if an employer never asks you for your CV, you'll frequently want to use the *content* of your CV in applications and interviews. So this chapter looks at how you can debug your written applications, whatever the mechanism is for submitting them.
 
 ## It's not bug, its a feature
 
@@ -41,10 +61,9 @@ It's an age old trope in Computer Science that engineers use to cover their mist
 knitr::include_graphics("images/notabug.jpeg")
 ```
 
-(ref:captionnotabug) Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62)
+(ref:captionnotabug) Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-
-Nobody likes buggy software, but we unfortunately routinely tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
+Nobody likes buggy software, but unfortunately we routinely have to tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
 
 In contrast, buggy CVs are rarely tolerated, they will usually end up in the bin. Even a tiny defect, like an innocent typo, can be ~~fetal~~ fatal. Most employers (particularly large and well known ones) have to triage hundreds or even thousands of CV's for any given vacancy. This means they are looking for reasons to REJECT your CV, rather than ACCEPT it, because that's a sensible strategy for shortlisting from a huge pool of candidates for interview. A buggy CV, application and covering letter could ruin your chances of being invited to an interview, see chapter \@ref(speaking).
 
@@ -344,7 +363,7 @@ At this stage in your career you *should* be able to fit everything on to one pa
 knitr::include_graphics("images/shorterletter.jpeg")
 ```
 
-(ref:captionshorterletter) I would have written a shorter ~~letter~~, ~~CV~~, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale's  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter]. Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn) 🇫🇷
+(ref:captionshorterletter) I would have written a shorter ~~letter~~, ~~CV~~, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale's  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter]. Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇫🇷
 
 It takes more time to write less. Writing a one page résumé is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page résumé than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
 
