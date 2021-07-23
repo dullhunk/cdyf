@@ -1,30 +1,30 @@
 # Speaking your future {#speaking}
 
-Congratulations, you've been invited to an interview. It might be a telephone, video or face-to-face, or it might even be as part of an assessment centre where you'll be asked to complete several other tasks and tests. Being invited to an interview means that your CV, along with any accompanying covering letters, application forms or digital portfolios, have hit the target. All that reading and writing has paid off. BULLSEYE! 🎯
+Congratulations, you've been invited to an interview. It might be by telephone, video link, in person or as part of an assessment centre where you'll be asked to complete several other tasks and tests. Being invited to an interview means that your written application (CV, covering letters, application forms or digital portfolios) has hit the target. All that reading and writing has paid off. BULLSEYE! 🎯
 
 ```{r bugfree-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbugfree)"}
 knitr::include_graphics("images/My CV is bug free.png")
 ```
 (ref:captionbugfree) If you have got an interview, then you have proved that your CV is bug free. That doesn't mean your CV is perfect, it just means that it is good enough to get you an interview with that particular employer. Congratulations! What comes next? Bug free sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Having passed the first stage, you move onto speaking and listening which you'll do in a live interview. One of your goals is to convince the interviewers that you can articulate yourself clearly, and communicate well using spoken natural language, while listening carefully to questions that they ask. This is fundamental skill discussed in section \@ref(cio) on communication I/O.
+Having passed the first stage of *reading and writing*, you move onto *listenign and speaking* stage of interviewing. One of your goals is to convince the interviewers that you can articulate yourself clearly, and communicate well by listening carefully to their questions and answering with spoken natural language. These are fundamental communication skills discussed in section \@ref(cio) on communication I/O.
 
-If you've got an interview, you can feel good about having a bug-free CV shown in Figure \@ref(fig:bugfree-fig). But now you have a new set of problems. How can you prepare for the interview? What kinds of interviews exist and what questions might you be asked? If they offer you a job, how will you negotiate the terms, conditions and salary? Do you *really* want the job anyway and are they the kind of people you actually want to work with everyday? You'll be giving this employer:
+If you've got an interview, you can feel good about having a bug-free CV shown in figure \@ref(fig:bugfree-fig). Now you have a new set of problems to tackle. How can you prepare for the interview? What kinds of interviews exist and what questions might you be asked? If they offer you a job, how will you negotiate the terms, conditions and salary? Do you *really* want the job and are they the kind of people you actually want to work with everyday? If successful, you will be giving this employer:
 
 * most of the hours of your day
 * most of the days of your week
 * most of the weeks of your year
-* something like the next two years of your life [@jonathanblack] as the first part of up to 80,000 hours
 
-So you want to ensure employers are a good match and not going to waste your time.
+This job will take a significant chunk of the next few months, year or even up to two years (and more) for a graduate scheme [@jonathanblack]. It's  the start of a much longer journey of up to [80,000 hours](https://80000hours.org/) that you'll spend in employment during your life.
 
+So you want to ensure employers are a good match and not going to waste your time. You'll be interviewing them, as well as them interviewing you, so it will pay to have some questions prepared alongside your answers to questions you can anticipate.
 
 ## What you will learn {#ilo9}
 
 By the end of this chapter you will be able to:
 
 * Identify kinds of interviews you might be invited to
-* Anticipate common interview questions, technical and non-technical
+* Anticipate common interview questions, both technical and non-technical
 * Prepare questions for your interviewer by researching the employer
 * Formulate strategies for negotiating job offers
 * Calm your interview nerves
@@ -34,8 +34,8 @@ By the end of this chapter you will be able to:
 
 Broadly speaking there are two basic kinds of interviews
 
-* technical or [coding interview](https://en.wikipedia.org/wiki/Coding_interview).
-* non-technical interview, sometimes called competency based interview or HR interview (human resources)
+* technical style or [coding interview](https://en.wikipedia.org/wiki/Coding_interview).
+* non-technical interview, sometimes called competency based interview or human resources (HR) style interview
 
 These can be conducted in various modes:
 
@@ -51,7 +51,7 @@ knitr::include_graphics("images/bob-youre-on-mute.png")
 
 
 * telephone (no visual contact)
-* pre-recorded pieces to camera (this is you talking to your webcam)
+* pre-recorded pieces to camera, you talking to your webcam
 * teleconference (zoom / teams etc) with cameras and microphones turned on
 * real-time face to face
 
