@@ -1329,7 +1329,7 @@ Although this is a course guidebook used in the second year undergraduate teachi
 \hypertarget{version}{%
 \subsection{Your future is constantly updated}\label{version}}
 
-You are reading the alpha version, the \href{https://en.wikipedia.org/wiki/Minimum_viable_product}{Minimum Viable Product} (MVP) of this guidebook, last updated on 02 August, 2021. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
+You are reading the alpha version, the \href{https://en.wikipedia.org/wiki/Minimum_viable_product}{Minimum Viable Product} (MVP) of this guidebook, last updated on 03 August, 2021. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
 
 \begin{itemize}
 \tightlist
@@ -4718,15 +4718,16 @@ By the end of this chapter you will be able to:
 \hypertarget{interviews}{%
 \section{Interviews}\label{interviews}}
 
-Broadly speaking there are two basic kinds of interviews
+Broadly speaking there are two basic kinds of interviews:
 
-\begin{itemize}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  technical style or \href{https://en.wikipedia.org/wiki/Coding_interview}{coding interview}.
+  non-technical interview, sometimes called competency based interview or human resources (HR) style interview, see \ref{hrinterview}
 \item
-  non-technical interview, sometimes called competency based interview or human resources (HR) style interview
-\end{itemize}
+  technical style or \href{https://en.wikipedia.org/wiki/Coding_interview}{coding interview}, see section \ref{codinginterview}
+\end{enumerate}
 
 These can be conducted in various modes:
 
@@ -4761,7 +4762,22 @@ Interviews can be conducted in various modes:
 \hypertarget{hrinterview}{%
 \subsection{Competency interviews}\label{hrinterview}}
 
-Competency interviews are there to test your soft skills, find out what you're like, how you work in a team, if you can communicate well. Here are some common competency interview questions. Imagine you are going on a stage, prepare lines that answer these questions, rehearse them out loud in front of a mirror (or a critical friend).
+Competency interviews test some of your softer skills, find out what you're like, how you work in a team and if you can communicate well. A good interview strategy for any interview is to talk about what you are doing (and what you have done) as in figure \ref{fig:overthinking-fig}. It might even help to have a checklist in your head of things you'd like to talk about e.g.~one work experience (see chapter \ref{experiencing}), one personal project and two uni projects, see section \ref{mycvpj}. If you can, make sure you've mentioned everything on your checklist by the end of the interview.
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.99\linewidth]{images/Marketing-rule-No1} 
+
+}
+
+\caption{During an interview, you are marketing yourself to an employer while they market themselves to you. It can be easy to overthink your marketing. A simple marketing technique is to just talk about stuff you're doing, projects you've worked on (inside and outside University), your experience and any other relevant activities. \href{https://bryanmmathers.com/the-1-rule-of-marketing/}{The number 1 rule of marketing} by \href{https://visualthinkery.com/}{Visual Thinkery} is licensed under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:overthinking-fig}
+\end{figure}
+
+
+
+Here are some common competency interview questions.
+
+Imagine you are going on a stage, prepare lines that answer these questions, rehearse them out loud in front of a mirror (or a critical friend).
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -4796,8 +4812,6 @@ For more examples of non-technical questions see:
 \tightlist
 \item
   \href{https://www.google.com/search?q=competency+based+interview+questions}{google.com/search?q=competency+based+interview+questions}
-\item
-  \href{https://www.careers.manchester.ac.uk/applicationsinterviews/interviews/}{careers.manchester.ac.uk/applicationsinterviews/interviews}
 \end{itemize}
 
 Since there's already tonnes of information on competency based interviews, the rest of this chapter will focus on technical interviews, also known as \href{https://en.wikipedia.org/wiki/Coding_interview}{coding interviews}.
@@ -4807,6 +4821,10 @@ Since there's already tonnes of information on competency based interviews, the 
 
 Many employers using technical or coding interviews to assess your harder skills. Not every employer does, but they are widely used by employers. Preparing for coding interviews is a good way to become a better engineer, so even if you don't have to face a series of really tough coding interviews, it is worth knowing about them.
 
+⚠️ \textbf{Coding Caution} ⚠️
+
+The competitive coding and technical interviews described in this chapter test a narrow set of algorithmic skills. While it's important to prepare for technical interviews, \href{https://www.quora.com/What-are-some-common-criticisms-of-Cracking-the-Coding-interview}{they have well documented limitations}. \citep{murashenkov} Skills required for software engineering go beyond the purely technical ones. For example, your (soft) communication skills outlined in chapter \ref{writing}, and many other broader skills, are just as important as your (hard) technical abilities.
+
 There are a lots of resources to help you prepare for and practice coding interview questions, the best place to start is \emph{Cracking the Coding Interview} by \href{https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell}{Gayle Laakmaan McDowell}. \citep{cracking} As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, University of Manchester Computer Science graduate Petia Davidova explains in figure \ref{fig:petia-fig} what she learned from failing several coding interviews at big technology companies. 😭
 
 \begin{figure}
@@ -4815,7 +4833,7 @@ There are a lots of resources to help you prepare for and practice coding interv
 
 }
 
-\caption{Petia describes her worst software engineering interview failures. \citep{youtube-petia} Petia demonstrates her growth mindset ( section \ref{growthmindset}) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted. The image above is a screenshot, you can \href{https://www.youtube.com/watch?v=qkeQNNjZuQk}{watch the full 16 minute video on software engineering fails here}.}\label{fig:petia-fig}
+\caption{Petia describes her worst software engineering interview failures. \citep{youtube-petia} Petia demonstrates a growth mindset (section \ref{growthmindset}) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted. The image above is a screenshot, you can \href{https://www.youtube.com/watch?v=qkeQNNjZuQk}{watch the full 16 minute video on software engineering fails here}.}\label{fig:petia-fig}
 \end{figure}
 
 
