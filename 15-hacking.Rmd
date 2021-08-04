@@ -108,18 +108,18 @@ knitr::include_graphics("images/peter_byte.png")
 
 ### Polina Morphism {#polly-morphism}
 
-Polly loves object-oriented programming. She has lots of siblings, and a cousin called, Isa. Instead of a CV or résumé, she's put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure \@ref(fig:polly-fig). 
+Polly loves object-oriented programming. She has lots of siblings, and [https://en.wikipedia.org/wiki/Isomorphism](a cousin called Isa). Instead of a CV or résumé, Polly has put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure \@ref(fig:polly-fig).
 
 
 ```{r polly-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpolly)"}
 knitr::include_graphics("images/polly-morphism.png")
 ```
 
-(ref:captionpolly) A pdf of Polina Morphism's LinkedIn profile can be found at [cdyf.me/Polly_Morphism.pdf](https://www.cdyf.me/Polly_Morphism.pdf), the original can be found at [linkedin.com/in/pollymorphism](https://www.linkedin.com/in/pollymorphism/) (login may be required)
+(ref:captionpolly) A pdf of Polina Morphism's LinkedIn profile can be found at [cdyf.me/Polly_Morphism.pdf](https://www.cdyf.me/Polly_Morphism.pdf), the original can be found at [linkedin.com/in/pollymorphism](https://www.linkedin.com/in/pollymorphism/) (you may be asked to login to see her profile)
 
 ### Neil Pointer {#neil-pointer}
 
-Neil is a mature student who loves the C programming language, see figure \@ref(fig:neilpointer-fig). The [Pointer family](https://en.wikipedia.org/wiki/The_Pointer_Sisters) are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. He has a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers Java .
+Neil is a mature student who loves the C programming language, see figure \@ref(fig:neilpointer-fig). The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as [his famous sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters), he has a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers Java .
 
 ```{r neilpointer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionneil)"}
 knitr::include_graphics("images/neil_pointer.png")
