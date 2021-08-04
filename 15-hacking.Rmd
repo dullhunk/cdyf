@@ -108,9 +108,14 @@ knitr::include_graphics("images/peter_byte.png")
 
 ### Polina Morphism {#polly-morphism}
 
-Polly loves object-oriented programming. She has lots of siblings, and a cousin called, Isa.
+Polly loves object-oriented programming. She has lots of siblings, and a cousin called, Isa. Instead of a CV or résumé, she's put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure \@ref(fig:polly-fig). 
 
-*(Polina is currently working on her CV)*
+
+```{r polly-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpolly)"}
+knitr::include_graphics("images/polly-morphism.png")
+```
+
+(ref:captionpolly) A pdf of Polina Morphism's LinkedIn profile can be found at [cdyf.me/Polly_Morphism.pdf](https://www.cdyf.me/Polly_Morphism.pdf), the original can be found at [linkedin.com/in/pollymorphism](https://www.linkedin.com/in/pollymorphism/) (login may be required)
 
 ### Neil Pointer {#neil-pointer}
 
