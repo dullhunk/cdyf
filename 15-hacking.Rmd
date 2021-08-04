@@ -69,7 +69,7 @@ knitr::include_graphics("images/rick_urshion.png")
 
 ### Marge Conflict {#marge-conflict}
 
-Marge loves version control and her superpower is resolving people's differences, see figure \@ref(fig:margeconflict-fig)
+Marjorie loves version control and her superpower is resolving people's differences, see figure \@ref(fig:margeconflict-fig).
 
 ```{r margeconflict-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarge)"}
 knitr::include_graphics("images/marge_conflict.png")
@@ -108,7 +108,7 @@ knitr::include_graphics("images/peter_byte.png")
 
 ### Polina Morphism {#polly-morphism}
 
-Polly loves object-oriented programming. She has lots of siblings, and [https://en.wikipedia.org/wiki/Isomorphism](a cousin called Isa). Instead of a CV or résumé, Polly has put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure \@ref(fig:polly-fig).
+Polly loves object-oriented programming. She has lots of siblings, and [a cousin called Isa](https://en.wikipedia.org/wiki/Isomorphism). Instead of a CV or résumé, Polly has put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure \@ref(fig:polly-fig).
 
 
 ```{r polly-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpolly)"}
