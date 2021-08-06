@@ -437,7 +437,29 @@ Reading between the lines: “I really enjoy learning from other people by going
 
 Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c) [@stackoverflow]. You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), be wary of social media.
 
-<!--## Compare and contrast CV and LinkedIn-->
+::: {.rmdnote}
+(ref:codingcomment)
+
+LinkedIn is more than a tool for publishing your CV or Résumé because it also allows you to connect with professionals and recruiters while searching for jobs. We look at job searching in more detail in chapter \@ref(finding), for now note the similarities and differences between LinkedIn and CV's outlined in table \@ref(tab:linkedintable)
+
+:::
+
+
+```{r linkedintable, echo = FALSE}
+linkedin_table <- tibble::tribble(
+    ~ "LinkedIn"                        , ~ "CV or résumé",     
+  "Static document, providing a snapshot that can't be updated once you've  sent it"    , "Dynamic document that you can constantly update",       
+  "Generally, no length limit"     , "(ref:lengthcell)",
+  "Public or semi-public document, more like social media"    , "Private document, should only be seen by those employers you send it to (anti-social media if you like)",      
+  "Only one profile, you can't easily transfer connections if you open more than one account"    , "You might create multiple CV's that emphasise different skills and knowledge, or have different lengths e.g. one page résumé and two page CV",  
+  "Generic, allows employers and recruiters to target you"    , "Can be targeted to specific employers or vacancies",  
+)
+knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional CV's and résumés. The two mediums have a lot in common but also provide different communication channels which can be complementary, e.g. you include your LinkedIn profile on your CV to augment it.", booktabs = TRUE)
+```
+
+<!--this is a nasty hack to get references into table cells-->
+(ref:lengthcell) Limited length, typically one or two pages (for a graduate), see section \@ref(length)  
+
 
 ### Robot proofing your CV {#robotproof}
 

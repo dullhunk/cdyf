@@ -124,7 +124,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 This guidebook is split into three parts. The first part (Chapters \@ref(rebooting) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(researching)) is on building and testing your future shown in the map in figure \@ref(fig:map-fig). The final part is a help section for supporting your future (chapters \@ref(ruling) to \@ref(reading)). Let's look in a bit more detail at the content of each of the three parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
-knitr::include_graphics("images/Course Map.png")
+knitr::include_graphics("images/Course Map V2.png")
 ```
 (ref:captionmapping) Mapping your future: Each yellow dot on this diagram is a chapter in *Coding Your Future*. The chapters on the left tackle design issues like *who are you*? Chapters on the right tackle the practicalities of executing and testing your career choices, such as *debugging your CV*. Mapping your Future artwork by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
@@ -259,7 +259,7 @@ If you're familiar with git and markdown you can [github.com/join](https://githu
 git clone https://github.com/dullhunk/cdyf.git
 ````
 
-Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wiki/Markdown), that's [all the `*.Rmd` files](https://github.com/dullhunk/cdyf/search?l=RMarkdown). So markdown files are the only ones you should need to edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
+Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wiki/Markdown), that's [all the `*.Rmd` files](https://github.com/dullhunk/cdyf/search?l=RMarkdown). So markdown files are the only ones you should edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
 
 ### For everyone else {#elseif}
 
@@ -267,7 +267,7 @@ If you don't want to (or can't) use Git and [github.com](https://github.com/) th
 
 * Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your personal weapon of choice (tablet, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Suggest changes by editing the  Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the LaTeX ones used to create the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) output from the [cdyf.tex](https://cdyf.me/cdyf.tex) input.^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a). Track changes is Microsoft Word's [killer feature](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
+* Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the LaTeX ones used to create the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) (output) from the [cdyf.tex](https://cdyf.me/cdyf.tex) (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a). Track changes is Microsoft Word's [killer feature](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
@@ -579,7 +579,7 @@ So now that we've dispensed with the formalities, let's look at why should you b
 
 (ref:codingcaution) ⚠️ **Coding Caution** ⚠️  
 
-(ref:codingcomment) ℹ️ **Coding Comment** ℹ️
+(ref:codingcomment) ℹ️  **Coding Comment** ℹ️
 
 
 
