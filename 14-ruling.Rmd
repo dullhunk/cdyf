@@ -49,7 +49,7 @@ knitr::include_graphics("images/greg-wilson-software-carpentry.jpeg")
 
 (ref:captiongregwilson) “Start where you are, use what you have, help who you can.” —Greg Wilson at [third-bit.com](https://third-bit.com/) and [software-carpentry.org](https://software-carpentry.org/). CC BY Portrait of Greg Wilson at [The Carpentries](https://en.wikipedia.org/wiki/The_Carpentries) via Wikimedia Commons [w.wiki/3a6V](https://w.wiki/3a6V) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238).
 
-When you're job hunting, it can be competitive and cut-throat. You can sometimes fall into poor habits of mind:
+When you're job hunting, it can be competitive and cut-throat. You might find yourself falling into poor habits of mind:
 
 * “*If I had a better degree from a different university, I'd be more successful...*” see section \@ref(entitled)
 * “*If I had more experience, more voluntary work, more internships, I'd stand a better chance...*” see section \@ref(areuexperienced)
@@ -61,25 +61,16 @@ When you're job hunting, it can be competitive and cut-throat. You can sometimes
 
 Coulda. Woulda. Shoulda. This is all the usual dialogue you can expect from your inner critic. Acknowledge these thoughts, see section \@ref(lays), then try distance yourself from them. Start from where you are, use whatever you have and help who you can.
 
-## Build your networks {#networking}
+## Grow your networks {#networking}
 
-Build your networks, make use of all the people you can, because people can help you, see figure \@ref(fig:yournetwork-fig)
+Grow your networks, make use of all the contacts you have and foster new connections where you can. People can help you, even those you're not particularly close to, see figure \@ref(fig:yournetwork-fig)
 
 ```{r yournetwork-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionyournetwork)"}
 knitr::include_graphics("images/Grow your networks.png")
 ```
 (ref:captionyournetwork) Grow and use your network, both the strong ties and the weak ties described in section \@ref(weakties). Grow your network by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Remember that the weaker ties in your network (see section \@ref(weakties)) may be more important than your stronger ties, especially when it comes to finding jobs.
-
-```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
-knitr::include_graphics("images/its-all-about-people-2.png")
-```
-
-(ref:captionallaboutpeople) Your network can help you before, during and after your employment, so be sure to grow your network when you can. This includes both the stronger ties of trusted friends alongside the weaker ties too, described in section \@ref(weakties). Both are important. [It's all about people](https://bryanmmathers.com/its-all-about-people/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-
-[It's not (just) what you know, but *who* you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know).
+Remember that the weaker ties in your network (see section \@ref(weakties)) may be more important than your stronger ties, especially when it comes to finding jobs. [It's not (just) what you know, but *who* you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know).
 
 ## Always make new mistakes {#estherdyson}
 
@@ -123,20 +114,40 @@ Join a team by helping someone, be a team player, help others, thank others for 
 
 ## Look beyond the obvious {#beyond}
 
-Be flexible in approach. Not just big employers, there are startups, SME's you've never heard of. It's not just London (see chapter \@ref(moving)), and other big cities. Look beyond graduate schemes, look beyond graduate jobs. Broaden your horizons and your job search, see chapter \@ref(broadening).
+Be flexible in approach. Don't just big employers that you've heard of, there are plenty of startups and smaller organisations you've never heard of who have lots to offer, see figure \@ref(fig:binoculars-fig)
+
+```{r binoculars-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionbinoculars)"}
+knitr::include_graphics("images/Look beyond the obvious.png")
+```
+(ref:captionbinoculars) Look beyond the obvious, don't restrict your job search to employers everyone has heard of as there are many more opportunities on offer. Binoculars by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+It's not just London (see chapter \@ref(moving)), and other big cities. Look beyond graduate schemes, look beyond graduate jobs. Broaden your horizons and your job search, see chapter \@ref(broadening).
 
 You are not just a techie, Either.
 
 ## Stay in school {#lifelonglearning}
 
-Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University. Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Never stop learning, see chapter \@ref(achieving).
+Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University, see figure \@ref(fig:stayinschool-fig) chapter \@ref(achieving)
+
+```{r stayinschool-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionstayinschool)"}
+knitr::include_graphics("images/Stay in school.png")
+```
+(ref:captionstayinschool) Stay in school because learning is a lifelong process, a `while loop` in which you continuously develop new skills and knowledge. Stay in school sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Never stop learning, see chapter \@ref(achieving).
+
+
 
 
 ## Step outside your comfort zone {#comfy}
 
-Am I being insensitive asking people to step outside their comfort zone when we've all be stretched beyond breaking point during COVID-19?
+Am I being insensitive asking people to step outside their comfort zone when we've all be stretched beyond breaking point during COVID-19? We're all going to need to continue to step outside of our respective comfort zones in order to meet the challenges we face around the world, see figure \@ref(fig:comfortzone-fig).
 
-We're going to need to continue to step outside of our respective comfort zones in order to meet the challenges we face around the world.
+```{r comfortzone-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captioncomfortzone)"}
+knitr::include_graphics("images/Step outside your comfort zone.png")
+```
+(ref:captioncomfortzone) You learn and grow more when you step outside your comfort zone. Comfort zone sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 This takes courage, but that's often when you learn most. So step outside your comfort zone if you're feeling brave enough to learn.
 

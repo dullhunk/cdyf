@@ -168,6 +168,7 @@ Another technique for improving your written communication is to write something
 * public web log or [blog](https://en.wikipedia.org/wiki/Blog)
 * [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal) see section \@ref(lays)
 * private diary or personal laboratory notebook
+* morning pages, a unedited stream of conciousness that can help you become more creative [@cameron;@burkeman]
 * [bullet journal](https://en.wikipedia.org/wiki/Bullet_journal). Some people swear by it, see [bulletjournal.com](https://bulletjournal.com/)
 <!--* contributing to Wikipedia-->
 
@@ -279,7 +280,14 @@ Social skills are those that help you work with other people in your team, small
 
 You'll need both soft and hard skills to compete in the workplace. Don't underestimate the importance of softer skills, we've looked briefly at written communication skills in this chapter but that's only the tip of the soft skills iceberg.
 
-Teamwork, negotiation, conflict resolution, public speaking, motivating others and leadership are also important soft skills too. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills?
+Teamwork, negotiation, conflict resolution, public speaking, motivating others and leadership are also important soft skills too. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills? Your technical skills are of limited use without people skills, see figure \@ref(fig:allpeople-fig).
+
+```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
+knitr::include_graphics("images/its-all-about-people-2.png")
+```
+
+(ref:captionallaboutpeople) Your network can help you before, during and after your employment, so be sure to grow your network when you can. This includes both the stronger ties of trusted friends alongside the weaker ties too, described in section \@ref(weakties). Both are important. [It's all about people](https://bryanmmathers.com/its-all-about-people/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar-fig).
 
