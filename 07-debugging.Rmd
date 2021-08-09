@@ -440,7 +440,7 @@ Besides LinkedIn you could include public profiles from [github.com](https://doc
 ::: {.rmdnote}
 (ref:codingcomment)
 
-LinkedIn is more than a tool for publishing your CV or Résumé because it also allows you to connect with professionals and recruiters while searching for jobs. We look at job searching in more detail in chapter \@ref(finding), for now note the similarities and differences between LinkedIn and CV's outlined in table \@ref(tab:linkedintable)
+LinkedIn is much more than a tool for publishing your CV or résumé because it also allows you to connect with professionals and recruiters while searching for jobs. Chapter \@ref(finding) looks at job searching in more detail but for now just note the similarities and differences between LinkedIn and CV's outlined in table \@ref(tab:linkedintable). Some of these differences also apply to other places online where you might augment your CV with extra information such as github, devpost and others mentioned in section \@ref(links).
 
 :::
 
@@ -449,10 +449,10 @@ LinkedIn is more than a tool for publishing your CV or Résumé because it also 
 linkedin_table <- tibble::tribble(
     ~ "LinkedIn"                        , ~ "CV or résumé",     
   "Static document, providing a snapshot that can't be updated once you've  sent it"    , "Dynamic document that you can constantly update",       
-  "Generally, no length limit"     , "(ref:lengthcell)",
+  "Generally speaking, no length limit"     , "(ref:lengthcell)",
   "Public or semi-public document, more like social media"    , "Private document, should only be seen by those employers you send it to (anti-social media if you like)",      
-  "Only one profile, you can't easily transfer connections if you open more than one account"    , "You might create multiple CV's that emphasise different skills and knowledge, or have different lengths e.g. one page résumé and two page CV",  
-  "Generic, allows employers and recruiters to target you"    , "Can be targeted to specific employers or vacancies",  
+  "Only one profile, you can't easily transfer connections if you open more than one account"    , "You might create multiple CV's that emphasise different skills and knowledge, or have different lengths such as a one page résumé and two page CV",  
+  "Generic, allows employers and recruiters to target you"    , "Specific, can be targeted to a given employer or vacancy",  
 )
 knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional CV's and résumés. The two mediums have a lot in common but also provide different communication channels which can be complementary, e.g. you include your LinkedIn profile on your CV to augment it.", booktabs = TRUE)
 ```
@@ -474,7 +474,7 @@ It's a good idea get feedback from as many different sources as you can on your 
 knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png")
 ```
 
-(ref:captionmachines) Although they often struggle to get up the stairs, résumé robots are likely to play an important role in any decisions to invite you to a job interview, especially if you're applying to bigger companies. Make sure your CV is résumé robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionmachines) Although they often struggle to get up the stairs, résumé robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you're applying to bigger companies. Make sure your CV is résumé robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't identify it. Some things to check with automated CV screens:
 
@@ -530,7 +530,7 @@ show me the money!-->
 
 Here is a quick check-list for debugging your CV before you send it off to an employer:
 
-1. ✅ Has it been reviewed by several people? Because according to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999]
+1. ✅ Has it been reviewed by several people? According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999]
 1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(hacking)
 1. ✅ Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much or too little? See section \@ref(pdf) <!-- merge with previous-->

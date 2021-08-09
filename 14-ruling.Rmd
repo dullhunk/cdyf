@@ -34,6 +34,13 @@ knitr::include_graphics("images/Look after yourself.png")
 
 ## Use what you have {#gregwilson}
 
+It's too easy to fall into a trap of thikning *if I had...* when job hunting. Use what you already have, see figure \@ref(fig:usewhatyouhave-fig).
+
+```{r usewhatyouhave-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionusewhatyouhave)"}
+knitr::include_graphics("images/Use what you have.png")
+```
+(ref:captionusewhatyouhave) Use whatever resources you have at your disposal rather than thinking about the resources you don't have. Use what you have by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
 This rule is borrowed from software engineer Greg Wilson [\@gvwilson](https://github.com/gvwilson) in figure \@ref(fig:greg-wilson-fig), who probably adapted it from a quote frequently misattributed to Theodore Roosevelt [@teddy].
 
 ```{r greg-wilson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongregwilson)"}
@@ -47,16 +54,23 @@ When you're job hunting, it can be competitive and cut-throat. You can sometimes
 * “*If I had a better degree from a different university, I'd be more successful...*” see section \@ref(entitled)
 * “*If I had more experience, more voluntary work, more internships, I'd stand a better chance...*” see section \@ref(areuexperienced)
 * “*If I'd done more projects and extra-curricular activities...*” etc see section \@ref(mycvpj)
-* “*If I'd got better grades at school and Uni... *” see section \@ref(academentia)
-* “*If only I'd worked harder... *” see \@ref(regret)
+* “*If I'd got better grades at school and Uni...*” see section \@ref(academentia)
+* “*If only I'd worked harder...*” see \@ref(regret)
 * “*If I was more confident at speaking and interviews ... *” see chapter \@ref(speaking) on *Speaking your future*
 * “*If I'd been to a different school, I could be more successful...*” see the [93percent.club](https://www.93percent.club/) [@93bbc; @93guardian]
 
-Coulda. Woulda. Shoulda. This is all nonsense from your inner critic that you should acknowledge, see section \@ref(lays), then distance yourself from. Start from where you are, use whatever you have and help who you can.
+Coulda. Woulda. Shoulda. This is all the usual dialogue you can expect from your inner critic. Acknowledge these thoughts, see section \@ref(lays), then try distance yourself from them. Start from where you are, use whatever you have and help who you can.
 
 ## Build your networks {#networking}
 
-Build your networks, use all the people you can, because people can help you. Remember that the weaker ties in your network (see section \@ref(weakties)) may be more important than your stronger ties, especially when it comes to finding jobs.
+Build your networks, make use of all the people you can, because people can help you, see figure \@ref(fig:yournetwork-fig)
+
+```{r yournetwork-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionyournetwork)"}
+knitr::include_graphics("images/Grow your networks.png")
+```
+(ref:captionyournetwork) Grow and use your network, both the strong ties and the weak ties described in section \@ref(weakties). Grow your network by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Remember that the weaker ties in your network (see section \@ref(weakties)) may be more important than your stronger ties, especially when it comes to finding jobs.
 
 ```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
 knitr::include_graphics("images/its-all-about-people-2.png")
@@ -73,7 +87,6 @@ You can classify your mistakes and failures into two categories:
 
 1. Productive mistakes: those you learnt from
 1. Unproductive mistakes: those you didn't learn anything from (and risk repeating)
-
 
 Mistakes and failure are inevitable in life, but productive mistakes are going to help you much more that unproductive ones [@henrypetroski]. That doesn't just mean  you should “*fail fast, fail often*” [@failfast] or “*move fast and break things*”, but to conciously learn from any mistakes you make so that you don't repeat them.  One way to turn unproductive mistakes into productive ones is deliberately and conciously reflect on why you made them. This is part of the growth mindset we discussed in chapter \@ref(nurturing).
 
@@ -98,7 +111,12 @@ So:
 
 ## Help and thank who you can {#gratitude}
 
-There are good reasons to be grateful, showing gratitude doesn't just help other people, it helps you too.
+There are good reasons to be grateful, showing gratitude doesn't just help other people, it helps you too see figure \@ref(fig:helpandthank-fig)
+
+```{r helpandthank-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionhelp)"}
+knitr::include_graphics("images/Help and Thank.png")
+```
+(ref:captionhelp) Help and thank who you can. Help by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Join a team by helping someone, be a team player, help others, thank others for their help.
 
