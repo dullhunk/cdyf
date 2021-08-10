@@ -231,7 +231,7 @@ knitr::include_graphics("images/Rollercoaster-ride.png")
 So beware of the rollercoaster, it has ups and down. Before we move on to talk about broadening your options, lets looks at some basic job search strategies you can use to get started.
 
 ## Job search strategies {#strategies}
-Now that you're aware of some pitfalls you need to think about developing a range of different strategies for job hunting, and change the strategy during the year. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers advertise.
+Now that you're aware of some pitfalls you need to think about developing a range of different strategies for job hunting, and change the strategy during the year. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) shows summarises some of the when and where some employers typically advertise.
 
 ```{r shortcuts, echo = FALSE}
 job_table <- tibble::tribble(
@@ -244,6 +244,17 @@ job_table <- tibble::tribble(
 knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, internships, placements, graduate jobs and schemes in large multinational corporations and small to medium sized enterprises (SMEs)", booktabs = TRUE)
 ```
 
+Armed with this knowledge you can start to target employers. What will your strategy, should you go optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
+
+```{r blunderbuss-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblunderbuss)"}
+knitr::include_graphics("images/Blunderbuss.png")
+```
+(ref:captionblunderbuss) As you target employers, what will your strategy be? At one extreme you could optimise the *quantity* of your applications, aiming to do as many as you can. This is shown in the left of the picture by the [blunderbuss](https://en.wikipedia.org/wiki/Blunderbuss) (or scattergun) strategy. You make lots of applications but don't target or tailor them much in the hope that *some* will hit the target if you point your weapon the right general direction. At the other extreme you could emphasise the *quality* of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Figure \@ref(fig:blunderbuss-fig) shows two extreme approaches to job hunting, in reality you'll probably want to strike a balance between *quality* and *quantity*. If you find yourself
+
+* Making a small number of applications, you may need to consider applying more widely and spending *less time* on each application
+* Making a large number of applications, you may need to consider applying less and spending  *more time* on each application
 
 ## Breakpoints {#bp8}
 (ref:breakpoint)
