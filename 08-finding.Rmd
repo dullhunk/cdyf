@@ -235,13 +235,14 @@ Now that you're aware of some pitfalls you need to think about developing a rang
 
 ```{r shortcuts, echo = FALSE}
 job_table <- tibble::tribble(
-  ~ ""       , ~ "Large corporations", ~ "SMEs",
+  ~ ""       , ~ "Large employers", ~ "SMEs",
   "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
-  "When"     , "Vacancies earlier in the academic year", "Vacancies tend to be later in the academic year",
-  "Type"     , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
-  "How"      , "Multistage applications, several rounds of interviews", "Shorter application processes"
+  "When"     , "Vacancies open earlier in the academic year", "Vacancies tend to open later in the academic year",
+  "How"      , "Typically multistage applications, several rounds of interviews", "Typically shorter application and interview processes",
+  "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
+  "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
 )
-knitr::kable(job_table, caption = "Where, when and how to apply for vacancies, internships, placements, graduate jobs and schemes in large multinational corporations and small to medium sized enterprises (SMEs)", booktabs = TRUE)
+knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
 ```
 
 Armed with knowledge of *when* to apply you can start to target employers. What will your strategy be? Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
