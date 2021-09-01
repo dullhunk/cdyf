@@ -41,7 +41,7 @@ Résumés and CV's have reigned supreme in kingdom of employment and recruitment
 ```{r longlive-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlonglive)"}
 knitr::include_graphics("images/the-king-is-dead.jpeg")
 ```
-(ref:captionlonglive) The seemingly contradictory phrase [the king is dead, long live the king](https://en.wikipedia.org/wiki/The_king_is_dead,_long_live_the_king!) simultaneously announces the death of the previous monarch and the accession of a new one. Likewise, the death of the CV (and résumé) has long been hailed but they keep coming back to reign again. The CV is dead, long live the CV! The résumé is dead, long live the résumé! Public domain image of a painting of [Charles VII of France](https://en.wikipedia.org/wiki/Charles_VII_of_France) by Jean Fouquet on Wikimedia Commons [w.wiki/3e3K](https://w.wiki/3e3K) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionlonglive) The seemingly contradictory phrase [the king is dead, long live the king](https://en.wikipedia.org/wiki/The_king_is_dead,_long_live_the_king!) simultaneously announces the death of the previous monarch and the accession of a new one. Likewise, the death of the CV (and résumé) has long been hailed but it keeps coming back to reign again. The CV is dead, long live the CV! The résumé is dead, long live the résumé! Public domain image of a painting of [Charles VII of France](https://en.wikipedia.org/wiki/Charles_VII_of_France) by Jean Fouquet on Wikimedia Commons [w.wiki/3e3K](https://w.wiki/3e3K) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 While it is true that some employers don't accept CVs or favour online application forms, it is still worth writing one because:
 
@@ -53,7 +53,7 @@ While it is true that some employers don't accept CVs or favour online applicati
 
 Even if an employer never asks you for your CV, you'll frequently want to use the *content* of your CV in applications and interviews. So this chapter looks at how you can debug your written applications, whatever the mechanism is for submitting them.
 
-## It's not bug, its a feature
+## It's not bug, it's a feature {#trope}
 
 It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig).
 
@@ -117,6 +117,7 @@ Wherever criticism of your CV comes from, don't take it personally - it is proba
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent `verbs`, rather than just what you think you know? Avoid long sections of prose, see section \@ref(verbsfirst)
 1. **RESULTS**: Have you also demonstrated and *quantified* the outcomes of your actions where possible, see Context, Action, Result \& Evidence (CARE) in section \@ref(care)
+1. **SEE ALSO**: This is just a quick checklist, see the longer CV checklist in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -449,6 +450,7 @@ Chapter \@ref(finding) looks at job searching in more detail but for now just no
 
 :::
 
+So, LinkedIn can be a useful tool for job hunting but it's a different beast to traditional CV's, some of these differences are shown in table \@ref(tab:linkedintable)
 
 ```{r linkedintable, echo = FALSE}
 linkedin_table <- tibble::tribble(
@@ -525,6 +527,7 @@ show me the money!-->
 * One column or two column layout?
 * Should you put education or experience first? Which is most important?
 * How many of my [hobbies and personal interests should I list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
+* How can beat the black hole mentioned in section \@ref(blackhole)? See [Your Résumé vs. Oblivion](https://www.wsj.com/articles/SB10001424052970204624204577178941034941330) [@oblivion]
 * How many employers actually read cover letters?
 
 ```md
@@ -541,7 +544,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much or too little? See section \@ref(pdf) <!-- merge with previous-->
 1. ✅ Have you eaten your own dogood, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
-1. ✅ Have you spell-checked both manually and with software?
+1. ✅ Have you spell-checked both using both automatic and manual (proof-reading) techniques?
 1. ✅ Have you added context using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, e.g. all dates left or right aligned for easy reading?
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere?
