@@ -410,7 +410,7 @@ knitr::include_graphics("images/lovelace-linkedin.png")
 ```
 (ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default random alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http::`, forward slashes  `//` and `www` in URLs which are distracting noise. Just make sure links are clickable and actually work. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
 
-Links are also a great way to add evidence and substantiate any claims that you make. They allow your reader to *read between the lines* and make inferences from the information you've provided them with. For example, you might says things like:
+Links are also a great way to evidence, quantify and substantiate any claims that you make. They allow your reader to *read between the lines* and make more inferences from the information you've provided them with. For example, you might says things like:
 
 ```md
 * Built a thing called example.com
