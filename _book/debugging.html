@@ -6,9 +6,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapter 7 Debugging your future | Coding Your Future: A Guidebook for Students</title>
 <meta name="author" content="Duncan Hull and Bryan Mathers">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.9/header-attrs.js"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="It’s all very well designing your future but now you need to actually engineer it by building and testing. An obvious place to start is with your CV, because that’s where most people get going....">
+<meta name="generator" content="bookdown 0.24 with bs4_book()">
+<meta property="og:title" content="Chapter 7 Debugging your future | Coding Your Future: A Guidebook for Students">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://www.cdyf.me/debugging.html">
+<meta property="og:image" content="https://www.cdyf.me//images/Coding your future - Title.png">
+<meta property="og:description" content="It’s all very well designing your future but now you need to actually engineer it by building and testing. An obvious place to start is with your CV, because that’s where most people get going....">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 7 Debugging your future | Coding Your Future: A Guidebook for Students">
+<meta name="twitter:site" content="@dullhunk">
+<meta name="twitter:description" content="It’s all very well designing your future but now you need to actually engineer it by building and testing. An obvious place to start is with your CV, because that’s where most people get going....">
+<meta name="twitter:image" content="https://www.cdyf.me//images/Coding your future - Title.png">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.10/header-attrs.js"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.5.1/tabs.js"></script><script src="libs/bs3compat-0.2.5.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.3.0/transition.js"></script><script src="libs/bs3compat-0.3.0/tabs.js"></script><script src="libs/bs3compat-0.3.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
 <script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="libs/twitter-widget-0.0.1/widgets.js"></script><link href="libs/vembedr-0.1.4/css/vembedr.css" rel="stylesheet">
 <!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-4WXX2VRG59"></script><script>
       window.dataLayer = window.dataLayer || [];
@@ -29,7 +41,7 @@
 <meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test, hack and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
 <!-- same again for LinkedIn--><meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test, hack and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
 <meta name="twitter:image" content="https://www.cdyf.me/images/Coding%20your%20future%20-%20Title.png">
-<script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS -->
 </head>
 <body data-spy="scroll" data-target="#toc">
 
@@ -88,7 +100,7 @@
 </h1>
 <p>It’s all very well <em>designing</em> your future but now you need to actually engineer it by <em>building</em> and <em>testing</em>. An obvious place to start is with your CV, because that’s where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛</p>
 <div class="figure" style="text-align: center">
-<span id="fig:bugfeature-fig"></span>
+<span style="display:block;" id="fig:bugfeature-fig"></span>
 <img src="images/Features%20not%20bugs.png" alt="Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you’ll need to identify and fix any bugs in your written applications. If you don’t, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by Visual Thinkery is licensed under CC-BY-ND" width="100%"><p class="caption">
 Figure 7.1: Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you’ll need to identify and fix any bugs in your written applications. If you don’t, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by <a href="https://visualthinkery.com">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
 </p>
@@ -117,7 +129,7 @@ Figure 7.1: Is that a bug or a feature in your CV? To stand a chance of being in
 </h2>
 <p>Before we get started, let’s consider some advice from software engineer <a href="https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell">Gayle Laakmann McDowell</a>. Gayle is an experienced software engineer who has worked at the <a href="https://en.wikipedia.org/wiki/Big_Tech">biggest technology employers in the world</a>, Apple, Microsoft and Google. She’s also authored a cracking series of books on technology careers, particularly <em>Cracking the Coding Interview</em> <span class="citation">(<a href="reading.html#ref-cracking" role="doc-biblioref">McDowell 2015</a>)</span> which we’ll discusses in chapter <a href="speaking.html#speaking">10</a>. Gayle refers to the employer “black hole” described in figure <a href="debugging.html#fig:gayle-fig">7.2</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:gayle-fig"></span>
+<span style="display:block;" id="fig:gayle-fig"></span>
 <img src="images/gayle-black-hole.jpeg" alt="Beware of what software engineer Gayle Laakmaan McDowell calls the employer “Black Hole,” especially if you’re applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit résumés each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, The Black Hole, – is littered with so many résumés that even a top candidate would struggle to stand out.” (McDowell 2011, 2014) Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons w.wiki/wiu adapted using the Wikipedia app" width="99%"><p class="caption">
 Figure 7.2: Beware of what software engineer <a href="https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell">Gayle Laakmaan McDowell</a> calls the employer “Black Hole,” especially if you’re applying to large employers. “Getting through the doors, unfortunately, seems insurmountable. Hoards of candidates submit résumés each year, with only a small fraction getting an interview. The online application system – or, as it’s more appropriately nicknamed, <em>The Black Hole</em>, – is littered with so many résumés that even a top candidate would struggle to stand out.” <span class="citation">(<a href="reading.html#ref-blackhole" role="doc-biblioref">McDowell 2011</a>, <a href="reading.html#ref-techcareer" role="doc-biblioref">2014</a>)</span> Laakmann portrait by Gayle Laakmaan is licensed CC BY 4.0 via Wikimedia Commons <a href="https://w.wiki/wiu">w.wiki/wiu</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
@@ -131,7 +143,7 @@ Figure 7.2: Beware of what software engineer <a href="https://en.wikipedia.org/w
 </h2>
 <p>Résumés and CV’s have reigned supreme in kingdom of employment and recruitment for many years but their demise has often been predicted, see figure <a href="debugging.html#fig:longlive-fig">7.3</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:longlive-fig"></span>
+<span style="display:block;" id="fig:longlive-fig"></span>
 <img src="images/the-king-is-dead.jpeg" alt="The seemingly contradictory phrase the king is dead, long live the king simultaneously announces the death of the previous monarch and the accession of a new one. Likewise, the death of the CV (and résumé) has long been hailed but it keeps coming back to reign again. The CV is dead, long live the CV! The résumé is dead, long live the résumé! Public domain image of a painting of Charles VII of France by Jean Fouquet on Wikimedia Commons w.wiki/3e3K adapted using the Wikipedia app" width="99%"><p class="caption">
 Figure 7.3: The seemingly contradictory phrase <a href="https://en.wikipedia.org/wiki/The_king_is_dead,_long_live_the_king!">the king is dead, long live the king</a> simultaneously announces the death of the previous monarch and the accession of a new one. Likewise, the death of the CV (and résumé) has long been hailed but it keeps coming back to reign again. The CV is dead, long live the CV! The résumé is dead, long live the résumé! Public domain image of a painting of <a href="https://en.wikipedia.org/wiki/Charles_VII_of_France">Charles VII of France</a> by Jean Fouquet on Wikimedia Commons <a href="https://w.wiki/3e3K">w.wiki/3e3K</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
@@ -157,7 +169,7 @@ Figure 7.3: The seemingly contradictory phrase <a href="https://en.wikipedia.org
 </h2>
 <p>It’s an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see <a href="debugging.html#fig:notabug-fig">7.4</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:notabug-fig"></span>
+<span style="display:block;" id="fig:notabug-fig"></span>
 <img src="images/notabug.jpeg" alt="Do you have software bugs or undocumented features on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil Hypomeces squamosus by Basile Morin is licensed CC BY SA via Wikimedia Commons w.wiki/3E62 adapted using the Wikipedia app" width="99%"><p class="caption">
 Figure 7.4: Do you have <a href="https://en.wikipedia.org/wiki/Software_bug">software bugs</a> or <a href="https://en.wikipedia.org/wiki/Undocumented_feature">undocumented features</a> on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil <em>Hypomeces squamosus</em> by <a href="https://commons.wikimedia.org/wiki/User:Basile_Morin">Basile Morin</a> is licensed CC BY SA via Wikimedia Commons <a href="https://w.wiki/3E62">w.wiki/3E62</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
@@ -240,7 +252,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 </h2>
 <p>How you structure your CV will depend on who you are and what your story is. Recruiters at Google suggest four or five sections, that follow a header section. Before we look at those, lets look at some general points about CVs, watch the videos shown in Figure <a href="debugging.html#fig:lopez-fig">7.5</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:lopez-fig"></span>
+<span style="display:block;" id="fig:lopez-fig"></span>
 <img src="images/youtube-google-recruiters.png" alt="Recruiters at Google, Jeremy Ong and Lizi Lopez outline some tips and advice for creating your résumé. (Ong and Lopez 2019) The image in this figure is a screenshot, you can watch the eight minute résumé tips video here." width="99%"><p class="caption">
 Figure 7.5: Recruiters at Google, <a href="https://www.linkedin.com/in/jeremy-ong/">Jeremy Ong</a> and <a href="https://www.linkedin.com/in/lizilopez/">Lizi Lopez</a> outline some tips and advice for creating your résumé. <span class="citation">(<a href="reading.html#ref-youtube-google-recruiters" role="doc-biblioref">Ong and Lopez 2019</a>)</span> The image in this figure is a screenshot, you can <a href="https://www.youtube.com/watch?v=BYUy1yvjHxE">watch the eight minute résumé tips video here</a>.
 </p>
@@ -256,7 +268,7 @@ Figure 7.5: Recruiters at Google, <a href="https://www.linkedin.com/in/jeremy-on
 <p>How can you demonstrate this? Watch the short video in Figure <a href="debugging.html#fig:black-fig">7.6</a>.</p>
 <!--Remember that no applicant meets all the criteria, so 80% means you're doing really well [@topnotchcv]-->
 <div class="figure" style="text-align: center">
-<span id="fig:black-fig"></span>
+<span style="display:block;" id="fig:black-fig"></span>
 <img src="images/youtube-jonathan-black.png" alt="Jonathan Black, head of the careers service at the University of Oxford, explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. (Black 2019) The image in this figure is a screenshot, you can watch the 11 minute video on creating a top notch CV here." width="99%"><p class="caption">
 Figure 7.6: <a href="https://twitter.com/jonathanpblack">Jonathan Black</a>, head of the careers service at the University of Oxford, explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. <span class="citation">(<a href="reading.html#ref-topnotchcv" role="doc-biblioref">Black 2019</a>)</span> The image in this figure is a screenshot, you can <a href="https://www.youtube.com/watch?v=yjdvCHWVtE4">watch the 11 minute video on creating a top notch CV here</a>.
 </p>
@@ -274,7 +286,7 @@ Figure 7.6: <a href="https://twitter.com/jonathanpblack">Jonathan Black</a>, hea
 </h3>
 <p>The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in Figure <a href="debugging.html#fig:turinghead-fig">7.7</a> for Alan Turing. That’s it!</p>
 <div class="figure" style="text-align: center">
-<span id="fig:turinghead-fig"></span>
+<span style="display:block;" id="fig:turinghead-fig"></span>
 <img src="images/alan-turing-header.png" alt="Keep the header of your CV simple. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader." width="98%"><p class="caption">
 Figure 7.7: Keep the header of your CV simple. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 </p>
@@ -307,7 +319,7 @@ Figure 7.7: Keep the header of your CV simple. Just your name, email, phone numb
 </h3>
 <p>Experience is where you can talk about any paid or voluntary work experience you have. Don’t discount the value of casual labour, such as working in retail or hospitality, these demonstrate your work ethic and ability to deal with customers, often under pressure. You are more than just a techie, so anywhere you’ve worked in a team is experience worth mentioning, even if that team was just two people. Two people is still a team.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:done-fig"></span>
+<span style="display:block;" id="fig:done-fig"></span>
 <img src="images/What%20have%20you%20done.png" alt="Are you experienced? What have you done outside of your formal academic education? Experience sketch by Visual Thinkery is licensed under CC-BY-ND" width="100%"><p class="caption">
 Figure 7.8: Are you experienced? What have you done outside of your formal academic education? Experience sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
 </p>
@@ -329,7 +341,7 @@ Figure 7.8: Are you experienced? What have you done outside of your formal acade
 </ul>
 <p>They will most likely be unpaid because paid work fits better under the heading experience, see section <a href="debugging.html#mycvex">7.6.3</a>. Perhaps you’ve completed some courses outside of your education such as a massive open online course (MOOC) or similar. Hackathons and competitions, fit well here too. <span class="citation">(<a href="reading.html#ref-hafb" role="doc-biblioref">Fogarty 2015</a>)</span> You don’t <em>need</em> to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you’re looking for some inspiration for side projects, Dani Stefanovic’s <a href="https://github.com/danistefanovic/build-your-own-x">build-your-own-x</a> repository is a good starting point. Building and creating new things is a great way to understand them, just ask <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> shown in <a href="debugging.html#fig:feynman-fig">7.9</a>. One way of doing this is with open source projects which we describe in section <a href="experiencing.html#opensource">5.3.3</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:feynman-fig"></span>
+<span style="display:block;" id="fig:feynman-fig"></span>
 <img src="images/what-I-cannot-create-I-do-not-understand.jpeg" alt="Physicist Richard Feynman once chalked “What I cannot create, I do not understand” on his blackboard at the California Institute of Technology while teaching the The Feynman Lectures on Physics. (Way 2017) Creating software and hardware in personal side projects is a great way to build new understanding and help your CV stand out see github.com/danistefanovic/build-your-own-x. Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons w.wiki/3Xoy adapted using the Wikipedia app" width="100%"><p class="caption">
 Figure 7.9: Physicist <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> once chalked “What I cannot create, I do not understand” on his blackboard at the <a href="https://en.wikipedia.org/wiki/California_Institute_of_Technology">California Institute of Technology</a> while teaching the <a href="https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics">The Feynman Lectures on Physics</a>. <span class="citation">(<a href="reading.html#ref-Way2017" role="doc-biblioref">Way 2017</a>)</span> Creating software and hardware in personal side projects is a great way to build new understanding <em>and</em> help your CV stand out see <a href="https://github.com/danistefanovic/build-your-own-x">github.com/danistefanovic/build-your-own-x</a>. Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons <a href="https://w.wiki/3Xoy">w.wiki/3Xoy</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
@@ -387,7 +399,7 @@ Figure 7.9: Physicist <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Ri
 <li>❎ <strong>No <code>C.A.R.E.</code></strong> There’s no story told for that skill, see figure <a href="debugging.html#fig:gallagher-fig">7.10</a>. This makes for a very dull and boring read. Yawn. NEXT! 🥱</li>
 </ol>
 <div class="figure" style="text-align: center">
-<span id="fig:gallagher-fig"></span>
+<span style="display:block;" id="fig:gallagher-fig"></span>
 <img src="images/whats-the-story.jpeg" alt="(What’s your Story) Morning Coding Glory? What is the Context, the Actions, the Results and the Evidence for the stories that you are trying to tell? Show your C.A.R.E. in storytelling. CC BY portrait of Noel Gallagher by alterna2.com on Wikimedia Commons w.wiki/3bimy adapted using the Wikipedia app" width="100%"><p class="caption">
 Figure 7.10: <a href="https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F">(What’s your Story) <del>Morning</del> Coding Glory?</a> What is the Context, the Actions, the Results and the Evidence for the stories that you are trying to tell? Show your <code>C.A.R.E.</code> in storytelling. CC BY portrait of <a href="https://en.wikipedia.org/wiki/Noel_Gallagher">Noel Gallagher</a> by <a href="https://alterna2.com/">alterna2.com</a> on Wikimedia Commons <a href="https://w.wiki/3bim">w.wiki/3bimy</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
@@ -414,7 +426,7 @@ Figure 7.10: <a href="https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning
 </h3>
 <p>Making your CV look good can take ages, but a well presented CV will stand out. While its worth making an effort to style carefully and consistently, you need to be be wary of the huge time sink of <a href="https://en.wikipedia.org/wiki/Typography">typography</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:cvwork-fig"></span>
+<span style="display:block;" id="fig:cvwork-fig"></span>
 <img src="images/CV%20need%20a%20little%20work.png" alt="Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It’s such a crucial document because it will determine if you are interviewed, so its important to spend time getting it right. CV work sketch by Visual Thinkery is licensed under CC-BY-ND" width="100%"><p class="caption">
 Figure 7.11: Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It’s such a crucial document because it will determine if you are interviewed, so its important to spend time getting it right. CV work sketch by <a href="https://visualthinkery.com">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
 </p>
@@ -452,7 +464,7 @@ Figure 7.11: Does your CV need a little work? The truth is your CV is never fini
 </h3>
 <p>How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure <a href="debugging.html#fig:oneortwopager-fig">7.12</a>. It is also advisable to <a href="https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/">create a one page Résumé</a>. <span class="citation">(<a href="reading.html#ref-howlong" role="doc-biblioref">David 2017</a>)</span></p>
 <div class="figure" style="text-align: center">
-<span id="fig:oneortwopager-fig"></span>
+<span style="display:block;" id="fig:oneortwopager-fig"></span>
 <img src="images/youtube-resume-or-cv.png" alt="How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? (Hull 2021) The image in the figure is a screenshot, you can watch the five minute video on how long your CV should be here." width="99%"><p class="caption">
 Figure 7.12: How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? <span class="citation">(<a href="reading.html#ref-youtube-resume-or-cv" role="doc-biblioref">Hull 2021</a>)</span> The image in the figure is a screenshot, you can <a href="https://www.youtube.com/watch?v=0abDOKHS5T0">watch the five minute video on how long your CV should be here</a>.
 </p>
@@ -460,7 +472,7 @@ Figure 7.12: How long should your CV be? Should you write a two page European st
 
 <p>At this stage in your career you <em>should</em> be able to fit everything on to one page. However, it can be challenging and time consuming squeezing it all on, see figure <a href="debugging.html#fig:shorterletter-fig">7.13</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:shorterletter-fig"></span>
+<span style="display:block;" id="fig:shorterletter-fig"></span>
 <img src="images/shorterletter.jpeg" alt="I would have written a shorter letter, CV, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale’s Lettres provinciales (O’Toole 2012). Public domain image by Gallica on Wikimedia Commons w.wiki/3Uzn adapted using the Wikipedia app 🇫🇷" width="98%"><p class="caption">
 Figure 7.13: I would have written a shorter <del>letter</del>, <del>CV</del>, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale’s <em><a href="https://en.wikipedia.org/wiki/Lettres_provinciales">Lettres provinciales</a></em> <span class="citation">(<a href="reading.html#ref-shorterletter" role="doc-biblioref">O’Toole 2012</a>)</span>. Public domain image by Gallica on Wikimedia Commons <a href="https://w.wiki/3Uzn">w.wiki/3Uzn</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a> 🇫🇷
 </p>
@@ -468,7 +480,7 @@ Figure 7.13: I would have written a shorter <del>letter</del>, <del>CV</del>, R�
 
 <p>It takes more time to write less. Writing a one page résumé is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page résumé than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure <a href="debugging.html#fig:oneortwopager-fig">7.12</a>. Adding more features (pages and content) to your CV doesn’t necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure <a href="debugging.html#fig:morefeatures-fig">7.14</a>.</p>
 <div class="figure" style="text-align: center">
-<span id="fig:morefeatures-fig"></span>
+<span style="display:block;" id="fig:morefeatures-fig"></span>
 <img src="images/an-engineering-state-of-mind.png" alt="If it ain’t broke it doesn’t have enough features yet. Adding more features to software doesn’t necessarily make it better. Likewise, adding more pages and content to your CV or résumé won’t always improve it. It’s often better to be precise and concise, rather than bloated and potentially more buggy. An engineering state of mind by Visual Thinkery is licensed under CC-BY-ND, with help from Dilbert cartoonist Scott Adams" width="98%"><p class="caption">
 Figure 7.14: If it ain’t broke it doesn’t have enough features yet. Adding more features to software doesn’t necessarily make it better. Likewise, adding more pages and content to your CV or résumé won’t always improve it. It’s often better to be precise and concise, rather than bloated and potentially more buggy. <a href="https://bryanmmathers.com/an-engineering-state-of-mind/">An engineering state of mind</a> by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>, with help from Dilbert cartoonist <a href="https://en.wikipedia.org/wiki/Scott_Adams">Scott Adams</a>
 </p>
@@ -494,7 +506,7 @@ Figure 7.14: If it ain’t broke it doesn’t have enough features yet. Adding m
 </h3>
 <p>Augmenting your CV with web links (hyperlinks) can add important context to your story, without adding too many words or taking up valuable space. An example using LinkedIn is shown in figure <a href="debugging.html#fig:lovelace-fig">7.15</a></p>
 <div class="figure" style="text-align: center">
-<span id="fig:lovelace-fig"></span>
+<span style="display:block;" id="fig:lovelace-fig"></span>
 <img src="images/lovelace-linkedin.png" alt="Adding links is a good way to augment your CV. If you’re adding LinkedIn, make sure you customise your public profile URL, to remove the default random alphanumeric string at the end, like the 038b37 example here. (Hoffman 2020) You can also remove any ugly http::, forward slashes // and www in URLs which are distracting noise. Just make sure links are clickable and actually work. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile." width="98%"><p class="caption">
 Figure 7.15: Adding links is a good way to augment your CV. If you’re adding LinkedIn, make sure you <a href="https://www.linkedin.com/help/linkedin/topics/6042/6054/87">customise your public profile URL</a>, to remove the default random alphanumeric string at the end, like the <code>038b37</code> example here. <span class="citation">(<a href="reading.html#ref-customlinkedin" role="doc-biblioref">Hoffman 2020</a>)</span> You can also remove any ugly <code>http::</code>, forward slashes <code>//</code> and <code>www</code> in URLs which are distracting noise. Just make sure links are clickable and actually work. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
 </p>
@@ -577,7 +589,7 @@ Figure 7.15: Adding links is a good way to augment your CV. If you’re adding L
 <a href="https://www.jobscan.co">jobscan.co</a>, a free service provided by an American company</li>
 </ul>
 <div class="figure" style="text-align: center">
-<span id="fig:machines-fig"></span>
+<span style="display:block;" id="fig:machines-fig"></span>
 <img src="images/The-inevitable-rise-of-the-machines-1280x720.png" alt="Although they often struggle to get up the stairs, résumé robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you’re applying to bigger companies. Make sure your CV is résumé robot friendly by feeding it through a robot . Machines by Visual Thinkery is licensed under CC-BY-ND" width="100%"><p class="caption">
 Figure 7.16: Although they often struggle to get up the stairs, résumé robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you’re applying to bigger companies. Make sure your CV is résumé robot friendly by feeding it through a robot . <a href="https://bryanmmathers.com/machines/">Machines</a> by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
 </p>
@@ -798,6 +810,22 @@ show me the money!-->
     script.src = src;
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
 </script>
 </body>
 </html>
