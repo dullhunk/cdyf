@@ -92,7 +92,7 @@ Written communication skills are important because:
       + chapter \@ref(hacking) on *Hacking your future* for details. <!--editing your future-->
 
 ### Natural language engineering {#nle}
-As a species, we've been writing stuff down for millenia in order to communicate with each other, see figure \@ref(fig:rosetta-fig). If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering `code`, they also spend a significant amount of time engineering messages in natural languages like english.
+As a species, we've been writing stuff down for millenia in order to communicate with each other, see figure \@ref(fig:rosetta-fig). If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering `code`, they also spend a significant amount of time engineering *messages* in natural languages like english.
 
 ```{r rosetta-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrosetta)"}
 knitr::include_graphics("images/rosetta-stone.jpeg")

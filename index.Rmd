@@ -275,7 +275,7 @@ Any corrections or suggestions will be gratefully received and noted in the ackn
 The content of this book is based on hundreds of conversations I have had with students of Computer Science, Mathematics, Physics and Engineering, since 2012. It is also based on conversations I've had with many of their employers too.
 
 ### Thank you students {#students}
-First and foremost, I'd like to thank all the students who have helped with this book, both directly and indirectly see figure \@ref(fig:giants-fig).
+First and foremost, I would like to thank all the students who have helped with this book, both directly and indirectly see figure \@ref(fig:giants-fig).
 
 ```{r giants-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongiants)"}
 knitr::include_graphics("images/standing-on-the-shoulders-of-students.png")
