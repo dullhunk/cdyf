@@ -63,7 +63,7 @@ knitr::include_graphics("images/Properties-of-Open-Badges.png")
 A digital badge has certified data locked inside (shown in figure \@ref(fig:data-inside-fig))  which details the achievement it has been awarded for including:
 
 * `recipient` that's you!
-* `issuer` the organisation awarding the badge, e.g. [Poppleton University](https://en.wikipedia.org/wiki/Poppleton_University)
+* `issuer` the organisation awarding the badge, e.g. [Poppleton University](https://twitter.com/PoppletonUni)
 * `badge name` e.g. PASS leader badge (see figure \@ref(fig:pass-leader-fig))
 * `badge image` e.g. a digital logo
 * `evidence URL` a link to evidence
