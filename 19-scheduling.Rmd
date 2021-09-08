@@ -6,10 +6,11 @@ knitr::include_graphics("images/is-it-just-me.png")
 ```
 (ref:captionschedule) The biggest waste of time is the time spent not getting started on a project. Your future might seem big and unknown but it's really not as scary as you might think and getting started can be surprisingly enjoyable. [New Project? Every time…](https://bryanmmathers.com/new-project-every-time/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) sessions are also here to help. They'll be back in September 2021, see [manchester.ac.uk/discover/key-dates](https://www.manchester.ac.uk/discover/key-dates/). In the meantime see the *Wednesday Waggle* at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/)
-
-
+If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) workshops sessions are also here to help.
 COMP2CARS complements the second year tutorials (COMP2TUT) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/).
+
+
+<!--They'll be back in September 2021, see [manchester.ac.uk/discover/key-dates](https://www.manchester.ac.uk/discover/key-dates/). In the meantime see the *Wednesday Waggle* at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/)-->
 
 <!--[studentnet.cs.manchester.ac.uk/ugt/timetable](http://studentnet.cs.manchester.ac.uk/ugt/timetable/).-->
 
@@ -18,65 +19,80 @@ For small group sessions and one-to-one meetings with your tutor, please turn yo
 
 <!--These sessions will revisit themes from semester one if you missed them last semester, we'll also have an open session where we'll tackle whatever issues you need about finding placements and internships during 2021. We'll be meeting at [zoom.us/my/duncanhull](http://zoom.us/my/duncanhull), please sign into zoom with your \@student.manchester.ac.uk account and if you can, -->
 
+## Week One {#week1}
+Week starting 20th September:
 
-<!--## Monday 8th Feb {#week1}
-Depending on your when you meet your tutor
+* A panel of students returning from industrial experience will share their stories of recruitment and employment, read *Experiencing your future* chapter \@ref(experiencing)
 
-* *Either* COMP2CARS: Debug their CV, see chapter \@ref(hacking)
+## Week Two {#week2}
+Week starting 27th September: Depending on your when you meet your tutor
+
+* *Either* COMP2CARS: read *Debugging your future* (chapter \@ref(debugging)) and *Hacking your future* (chapter \@ref(hacking)): CVs, Resumes and LinkedIn
+* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2) get feedback on your CV
+
+## Week Three {#week3}
+Week starting 4th October: Depending on your when you meet your tutor
+
+* *Either* COMP2CARS: read *Debugging your future* (chapter \@ref(debugging)) and *Hacking your future* (chapter \@ref(hacking)): CVs, Resumes and LinkedIn (repeated session from last week for those that met their personal tutors last week)
 * *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
 
-## Monday 15th Feb {#week2}
-Depending on your when you meet your tutor
 
-* *Either* COMP2CARS: Debug their CV, see chapter \@ref(hacking) repeated session
-* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
+## Week Four {#week4}   
+Week starting 11th October:  
 
-
-### Monday 22nd Feb {#week3}   
-* Looking after your future, see chapter \@ref(nurturing)-->
+* *Finding your future*, read chapter \@ref(finding): How can you adapt and optimise your job search strategies?
 <!-- WOOP my life part of mental health-->
 <!--also semester 1: are you experienced panel-->
 <!--also semester 1: why bother with experience-->
-<!--
-### Monday 1st March {#week4}
-* Finding your future, see chapter \@ref(finding): How can you adapt and optimise your job search strategies?
+
+## Week Five {#week5}
+Week starting 18th October:
+
+* *Nurturing your future*, health and happiness, read chapter \@ref(nurturing): mental and physical health, anxiety and depression
+
+## Week Six {#week6}  
+Week starting 25th October:
+
+* *Knowing your future* read chapter \@ref(knowing)
+
+## Week Seven {#week7}  
+Week starting 1st November:
+
+* Reading week. No workshop
+
+## Week Eight {#week8}  
+Week starting 8th November:
+
+* *Writing your future* part 1 of 2: read chapter \@ref(writing) and [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
+
+## Week Nine {#week9}  
+Wee starting 15th November:
+
+* *Writing your future* part 2 of 2: read chapter \@ref(writing) see [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
 
 
-### Monday 8th March {#week5}  
-Depending on your when you meet your tutor
+## Week Ten {#week10}  
+Week starting 22nd November:
 
-* *Either* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
-* *OR* COMP2CARS: No live session but read *writing your future*, see [cdyf.me/communicating.html](https://www.cdyf.me/communicating.html)-->
+* *Broadening your future* (read chapter \@ref(broadening)) and *Achieving your future* (read chapter \@ref(achieving))
 
-<!--### Monday 15th March {#week6}  
-Depending on your when you meet your tutor
+## Week Eleven {#week11}  
+Week starting 29th November:
 
-* *Either* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
-* *Or* COMP2CARS: No live session but read *writing your future* [cdyf.me/communicating.html](https://www.cdyf.me/communicating.html) and [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
+* *Speaking your future* read chapter \@ref(speaking), preparing for interviews
 
-### Monday 22nd March {#week7}  
-* COMP2CARS: Technical writing one (part 2) see [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one) and [cdyf.me/communicating.html](https://www.cdyf.me/communicating.html)-->
+## Week Twelve {#week12}  
+Week starting 6th December:
 
-<!--### Monday 29th March {#easter}  
-* Easter break see [manchester.ac.uk/discover/key-dates/](https://www.manchester.ac.uk/discover/key-dates/)-->
-
-<!--### Monday 12th April {#week8}  
-* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2), first half of group-->
-
-<!--
-### Monday 19th April {#week9}  
-* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2), second half of group-->
+* *Either* COMP2CARS: tbc
+* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
 
 
-<!--### Monday 26th April at 1pm on Zoom {#week10}  
-* *Still looking for a placement starting in 2021?* Live lecture with Q&A see also chapter \@ref(finding)-->
+## Week Thirteen {#week13}  
+Week starting 13th December:
 
-<!--### Mon 3rd May  {#week11}  
-Early May Bank holiday see [gov.uk/bank-holidays](https://www.gov.uk/bank-holidays)-->
-
-<!--### Mon 10th May at 1pm on Zoom {#week12}  
-* *So you're going on placement in 2021?* Live lecture with Q&A, see also chapter \@ref(surviving)-->
-
+* *Either* COMP2CARS: tbc
+* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
 
 
 ##  Cameras on or off? {#cameras}
