@@ -57,7 +57,7 @@ When Andy Stanford-Clark started working at IBM, fresh out of University, his bo
 ```{r andysc-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionandysc)"}
 knitr::include_graphics("images/nobody-cares-about-your-career-except-you.jpeg")
 ```
-(ref:captionandysc) Nobody cares about your career except you. Quote via [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) [@andystanfordclark] to an unattributed IBM boss. Image of Andy by Gizmo~enwiki via Wikimedia Commons [w.wiki/3TSn](https://w.wiki/3TSn) adapted using the Wikipedia app
+(ref:captionandysc) Nobody cares about your career except you. Quote via [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) [@andystanfordclark] to an unattributed IBM boss. Image of Andy by Gizmo~enwiki via Wikimedia Commons [w.wiki/3TSn](https://w.wiki/3TSn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 Andy is now Chief Technology Officer (CTO) and [IBM Master inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the `code`). The sooner you get coding the better.
@@ -66,11 +66,16 @@ At University, there are lots of people can help design and build your future: p
 
 ## Your degree is not enough {#entitled}
 <!--Luke comments: One thing I would add in this section that you don't really think about until you go through it is the difference between going for a CS job and that job you really want. Most grads will get a job in CS, but few will get those really prized ones that they really enjoy.-->
-You've worked incredibly hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying your chosen discipline.
+You've worked incredibly hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying your chosen discipline. You are really *geeking out* by going deep into your subject for three years or more. Some say [the geeks](https://en.wikipedia.org/wiki/Geek) will inherit the earth, see figure \@ref(fig:geekout-fig), so where is *your* inheritance?
 
-Under these circumstances, you might be tempted to believe that the world owes you something in return for all your hard work. Unfortunately that's not the case.
+```{r geekout-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongeekout)"}
+knitr::include_graphics("images/blessed-are-the-geeks.jpeg")
+```
+(ref:captiongeekout) [Blessed are the ~~meek~~ geeks, for they shall inherit the earth](https://en.wikipedia.org/wiki/Matthew_5:5). You are a geek, so where is your inheritance? Image of stained glass window by Norbert Schnitzler via Wikimedia Commons [w.wiki/43LN](https://w.wiki/43LN) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-At some point during or after your study, you might find yourself applying for a graduate job or graduate scheme. EVERYONE applying for these opportunities will have a degree or be rapidly on their way to getting one. So having a degree isn't going to set you apart much from your competition. Even having a first class degree [@gradeinflation; @firstclass] may not distinguish you that much your competitors. Some employers would rather not know (or don't care) what University you went to, so your education might not make you stand out as much as you might like anyway. [@bigfour; @eyfirm]
+If you are a geek, you might be tempted to believe that the world owes you something in return for all your geekiness. Unfortunately that's not the case.
+
+At some point during or after your study, you might find yourself applying for a graduate job or graduate scheme. EVERYONE applying for these opportunities will have a degree or be rapidly on their way to getting one. So having a degree isn't going to set you apart much from your competition. Even having a first class degree may not distinguish you that much your competitors [@gradeinflation; @firstclass]. Some employers would rather not know (or don't care) what University you went to, so your education might not make you stand out as much as you might like anyway. [@bigfour; @eyfirm]
 
 What **will** distinguish you from your competitors will be your experience (see chapter \@ref(experiencing)), your projects (see section \@ref(mycvpj)), your communication skills (see chapter \@ref(writing)) and any awards or honours you might have picked up along the way. If you think that your degree will be enough to get you the job you want, bear in mind that:
 
