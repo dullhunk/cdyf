@@ -455,7 +455,7 @@ So, LinkedIn can be a useful tool for job hunting but it's a different beast to 
 ```{r linkedintable, echo = FALSE}
 linkedin_table <- tibble::tribble(
     ~ "LinkedIn"                        , ~ "CV or résumé",     
-  "Static document, providing a snapshot that can't be updated once you've  sent it"    , "Dynamic document that you can constantly update",       
+  "Dynamic document that you can constantly update"    , "Static document, providing a snapshot that can't be updated once you've  sent it",       
   "Generally speaking, no length limit"     , "(ref:lengthcell)",
   "Public or semi-public document, more like social media"    , "Private document, should only be seen by those employers you send it to (anti-social media if you like)",      
   "Only one profile, you can't easily transfer connections if you open more than one account"    , "You might create multiple CV's that emphasise different skills and knowledge, or have different lengths such as a one page résumé and two page CV",  
@@ -539,7 +539,7 @@ show me the money!-->
 Here is a quick check-list for debugging your CV before you send it off to an employer:
 
 1. ✅ Does it fit comfortably on exactly one page (résumé) or a two pages (CV)? Not one-and-a-half pages or more than two? See section \@ref(length)
-1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much or too little? See section \@ref(pdf) <!-- merge with previous-->
+1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (gappy) or too little (cramped)? See section \@ref(pdf) <!-- merge with previous-->
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you eaten your own dogood, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. ✅ Have you spell-checked using both automatic and manual (proof-reading) techniques?
@@ -553,8 +553,8 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
 1. ✅ Have you clearly distinguished between paid, unpaid and voluntary experience? Have you included all of your experience including casual work, see section \@ref(casual)?
-1. ✅ Has it been reviewed by other people? Do a CV swap with a critical friend and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999]
-1. ✅ Have you reviewed other people's CV's? This will help you write a better CV, see chapter \@ref(hacking)
+1. ✅ Has it been reviewed by other people? Do a CV swap with a critical friend and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
+1. ✅ Have you reviewed other people's CV's? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself. See the examples in chapter \@ref(hacking)
 
 ## Covering letters & personal statements {#we3qs}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to have a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for ages without providing any evidence. Usually this kind of information is better in your covering letter.
