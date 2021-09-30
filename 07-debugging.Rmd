@@ -174,7 +174,7 @@ knitr::include_graphics("images/alan-turing-header.png")
 
 (ref:captioncvheader) Keep the header of your CV simple. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn) so other contact details are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
 
 1. 🎓 Education: the formal stuff
 1. 💰 Experience: paid work
@@ -280,7 +280,7 @@ If you have anything else you want to highlight besides your `education`, `exper
 
 ### Your skills?  {#mycvsk}
 
-You may be tempted to dedicate a whole section on your CV to skills, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you're going to have a `skills` section, keep it short. Why? Let's imagine, that like [Rick Urshion](Rick_Urshion.pdf), you include Python in a long list skills, with its own dedicated section. There are at least four problems with Rick's not so skilful approach:
+You may be tempted to dedicate a whole section on your CV to skills, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you're going to have a `skills` section, keep it short. Why? Let's imagine, that like [Rick Urshion](Rick_Urshion.pdf), you include Python in a long list skills, with its own dedicated section. There are at least five problems with Rick's not so skilful approach:
 
 1. ❎ **No `Context`** to give the reader an idea of where he's developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don't know because he doesn't say.  
 1. ❎ **No `Actions`** or *evidence* to back up his claims of having skill with Python. So Rick claims he knows Python. So what? What did he *do* with those python skills? We don't know because he hasn't told us.
@@ -434,7 +434,7 @@ Reading between the lines: “I really enjoy learning from other people by going
 
 * your hyperlinks are [readable and descriptive](https://readabilityguidelines.co.uk/content-design/links/) [@readable]  
 * your hyperlinks are clickable in the PDF. Don't expect your reader to cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
-* your hyperlinks are paper-proof. Some people still print CVs so the phrase `click here` won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
+* your hyperlinks are paper-proof. Some people still print CVs so the phrase `[click here](https://www.w3.org/QA/Tips/noClickHere)` won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
 
 Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c) [@stackoverflow]. You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), be wary of social media.
 
@@ -470,7 +470,7 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 
 ### Robot proofing your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “résumé robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with you personal data. Résumé robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “résumé robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with your personal data. Résumé robots include:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 * [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV
