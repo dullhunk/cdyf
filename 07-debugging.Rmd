@@ -193,10 +193,10 @@ Unless you have significant amount of experience, the education section of your 
 
 You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to:
 
-* say more than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf), who haven't said enough
-* say less than [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree.
+* say *more* than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf), who haven't said enough about their University education
+* say *less* than [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree.
 
-You don't need to name every single module and give a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures (e.g. `71.587%`^[Do you think academic performance can be measured that accurately?]). Two significant figures will do just fine. You might like to pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
+You don't need to name every single module and give a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: `71.587%`^[Do you think academic performance can be measured that precisely?]). Two significant figures will do just fine: `72% (first class)`. You might like to pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
 
 ### Your experience {#mycvex}  
 
@@ -243,13 +243,13 @@ or even just
 * Final year project
 ```
 
-By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. What was the story (the context, action, result and evidence (`CARE`) we described in section \@ref(care)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute? This is all excellent CV fodder, see \@ref(fig:cvfodder-fig)
+By themselves, those project names are pretty opaque. They are OK for giving the context of your story but don't give the reader much else to go on. What was the story (the context, action, result and evidence (`CARE`) we described in section \@ref(care)) of those projects? How many people were in your team? How long did you collaborate for? What did you build? What was it called? What did it do? What roles and responsibilities did you have in the team? Was their conflict in the team? How did you resolve it? How did you motivate the free-riders in the team to contribute? This is all excellent CV [fodder](https://en.wikipedia.org/wiki/Fodder), see \@ref(fig:cvfodder-fig)
 
 
 ```{r cvfodder-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfodder)"}
 knitr::include_graphics("images/CV Fodder.png")
 ```
-(ref:captionfodder) Perhaps you managed to turn a project around when things weren't going well ((pear-shaped)[https://en.wikipedia.org/wiki/Pear-shaped])? Perhaps you've learned from painful mistakes you previously made? This is all great fodder for your CV because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfodder) Perhaps you managed to turn a project around when things are not going very well ([pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped))? Perhaps you've learned from painful mistakes you previously made? This is all great fodder for your CV because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
