@@ -288,7 +288,7 @@ Congratulations, but how many people were awarded that prize? How many applicant
 ### Your optional extras {#misc}
 If you have anything else you want to highlight besides your `education`, `experience`, `projects` and `awards` you *may* still have room for one more optional extras section. Try to come up with a better name than `Miscellaneous` (which sounds like a dumping ground) or you might decide to have a dedicated `skills` section but see \@ref(mycvsk).
 
-People often list `hobbies and interests` which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add *in*), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in teams sports is a good example of a relevant hobby as it demonstrates teamwork, commitment, reliability and so on. [@hobbies]
+People often list `hobbies and interests` which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add *in*), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it demonstrates teamwork, commitment, reliability and so on. Other collaborative activities outside of sport will also provide evidence of your communication skills [@hobbies]
 
 ### Your skills?  {#mycvsk}
 
@@ -420,7 +420,7 @@ Augmenting your CV with web links (hyperlinks) can add important context to your
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
 knitr::include_graphics("images/lovelace-linkedin.png")
 ```
-(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default random alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http::`, forward slashes  `//` and `www` in URLs which are distracting noise. Just make sure links are clickable and actually work. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
+(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default random alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//` and `www` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't 404 if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
 
 Links are also a great way to evidence, quantify and substantiate any claims that you make. They allow your reader to *read between the lines* and make more inferences from the information you've provided them with. For example, you might says things like:
 
@@ -539,7 +539,7 @@ show me the money!-->
 * One column or two column layout?
 * Should you put education or experience first? Which is most important?
 * How many of my [hobbies and personal interests should I list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
-* How can beat the black hole mentioned in section \@ref(blackhole)? See [Your Résumé vs. Oblivion](https://www.wsj.com/articles/SB10001424052970204624204577178941034941330) [@oblivion]
+* How can you beat the black hole mentioned in section \@ref(blackhole)? See [Your Résumé vs. Oblivion](https://www.wsj.com/articles/SB10001424052970204624204577178941034941330) [@oblivion]
 * How many employers actually read cover letters?
 
 ```md
