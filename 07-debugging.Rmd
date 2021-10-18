@@ -249,10 +249,10 @@ By themselves, those project names are pretty opaque. They are OK for giving the
 ```{r cvfodder-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfodder)"}
 knitr::include_graphics("images/CV Fodder.png")
 ```
-(ref:captionfodder) Perhaps you managed to turn a project around when things are not going very well ([pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped))? Perhaps you've learned from painful mistakes you previously made? This is all great fodder for your CV because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfodder) Perhaps you managed to turn a project around when things were not going very well ([pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped))? Perhaps you've learned from painful mistakes you previously made? This is all great fodder (content) for your CV because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
-It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
+It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
 ````md
 * WidgetWasher is a web service that washes widgets
@@ -286,9 +286,17 @@ If you can demonstrate leadership, you may want to dedicate a whole separate sec
 Congratulations, but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known. So if you're going to mention awards, give the context where you can.
 
 ### Your optional extras {#misc}
-If you have anything else you want to highlight besides your `education`, `experience`, `projects` and `awards` you *may* still have room for one more optional extras section. Try to come up with a better name than `Miscellaneous` (which sounds like a dumping ground) or you might decide to have a dedicated `skills` section but see \@ref(mycvsk).
+If you have anything else you want to highlight besides your `education`, `experience`, `projects` and `awards` you *may* still have room for one more optional extras section. Try to come up with a better name than `Miscellaneous` or `Other highlights` (which sound like dumping grounds). You might decide to have a dedicated `skills` section but see \@ref(mycvsk).
 
-People often list `hobbies and interests` which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add *in*), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it demonstrates teamwork, commitment, reliability and so on. Other collaborative activities outside of sport will also provide evidence of your communication skills [@hobbies]
+People often list `hobbies and interests` which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it demonstrates teamwork, commitment, reliability and so on. Other collaborative activities outside of sport will also provide evidence of your communication skills. [@hobbies]
+
+The fact that you enjoy `swimming, reading and hiking` is a bit vague and not likely to be a factor in the decision to interview you. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
+
+* coached a swimming team
+* trained as a mountain leader
+* organised and hosted a book club
+
+In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about.
 
 ### Your skills?  {#mycvsk}
 
@@ -535,7 +543,7 @@ show me the money!-->
 ```
 
 * How long is your CV? How long should it be?
-* Should you have a personal statement on your CV, like [Mike Rokernel](https://www.cdyf.me/Mike_Rokernel.pdf) has for example?
+* How long should your personal statement be your CV, like [Mike Rokernel](https://www.cdyf.me/Mike_Rokernel.pdf) has for example?
 * One column or two column layout?
 * Should you put education or experience first? Which is most important?
 * How many of my [hobbies and personal interests should I list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
