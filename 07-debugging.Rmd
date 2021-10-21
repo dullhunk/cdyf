@@ -178,7 +178,7 @@ Your header doesn't need to include any more information than your name, email, 
 
 1. 🎓 Education: the formal stuff
 1. 💰 Experience: paid work
-1. 💪 Projects: personal, social, side or University projects
+1. 💪 Projects: personal, school, social, side or University projects
 1. 🏆 Leadership and awards
 1. ❓ Optional section
 
@@ -196,11 +196,11 @@ You've invested a significant amount of time and money in getting your degree. A
 * say *more* than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf), who haven't said enough about their University education
 * say *less* than [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree.
 
-You don't need to name every single module and give a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: `71.587%`^[Do you think academic performance can be measured that precisely?]). Two significant figures will do just fine: `72% (first class)`. You might like to pick out relevant modules, or the ones you got most out of. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
+You don't need to name every single module and give a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: `71.587%`^[Do you *really* think academic performance can be measured that precisely?]. Two significant figures will do just fine: `72% (first class)`. You might like to pick out relevant modules, or the ones you enjoyed most. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education.
 
 ### Your experience {#mycvex}  
 
-Experience is where you can talk about any paid or voluntary work experience you have. For paid work call it `EXPERIENCE` rather than `WORK EXPERIENCE` as the latter can imply work *shadowing*. Work shadowing is valuable, but paid work is better so you should make it clear if your experience was paid or not. Don't discount the value of casual labour, such as working in retail or hospitality, these demonstrate your work ethic and ability to deal with customers, often under pressure. You are more than just a techie too, so anywhere you've worked in a team is experience worth mentioning, even if that team was just two people. Two people is still a team.
+Experience is where you can talk about any paid or voluntary work experience you have. For paid work call it `EXPERIENCE` rather than `WORK EXPERIENCE` as the latter can imply work *shadowing*, see section \@ref(areuexperienced). Work shadowing is valuable, but paid work is even better so you should make it clear if your experience was paid or not. Don't discount the value of casual labour, such as working in retail or hospitality, these demonstrate your work ethic and ability to deal with customers, often under pressure. You are more than just a techie too, so anywhere you've worked in a team is experience worth mentioning, even if that team was just two people. Two people is still a team.
 
 ```{r done-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwhathaveudone)"}
 knitr::include_graphics("images/What have you done.png")
