@@ -32,13 +32,17 @@ Self-awareness, understanding who you are, is important for leading a healthy an
 
 Your story is probably complex but you need to know it so you can distill the details of it into *much* shorter stories on your job applications described in section \@ref(mycvst).
 
-[comment]: <> (picneeded head, heart hands)
-
-Universities offer many opportunities for self improvement, self discovery and developing your unique skills. One way to build your self-awareness is to reflect on your knowledge, values and skills. In Waldorf education this is characterised as “head, heart and hands”. [@headhearthands]
+Universities offer many opportunities for self improvement, self discovery and developing your unique skills. One way to build your self-awareness is to reflect on your knowledge, values and skills. In Waldorf education this is characterised as “head, heart and hands” outlined below and in figure \@ref(fig:headhearthands-fig) [@headhearthands]
 
 1. **Head**: What do you *know*?
 1. **Heart**: What do you *value*, what motivates you?
 1. **Hands**: What can you *do*? What have you *done* so far? What will you do in the future? Your actions define your impact, see chapter \@ref(actioning)
+
+```{r headhearthands-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhhh)"}
+knitr::include_graphics("images/Head, heart and hands.png")
+```
+
+(ref:captionhhh) What knowledge do you have (**head**)? What are your values (**heart**)? What skills and experience do you have (**hands**)?
 
 Answering these questions will help you understand your story.
 

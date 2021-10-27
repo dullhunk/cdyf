@@ -296,7 +296,7 @@ The fact that you enjoy `swimming, reading and hiking` is a bit vague and not li
 * trained as a mountain leader
 * organised and hosted a book club
 
-In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about.
+In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about. However, if they are just hobbies that enable you to amuse yourself, you should leave them out as they aren't going to be that interesting to an employer.
 
 ### Your skills?  {#mycvsk}
 
@@ -565,16 +565,16 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Have you spell-checked using both automatic and manual (proof-reading) techniques?
 1. ✅ Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Have you added context using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
-1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, e.g. all dates clear and left or right aligned for easy reading?
+1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, e.g. all dates clear and left or right aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example of right aligned dates.
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
 1. ✅ Have you made it clear what you have actually done using **prominent** `verbs`? See chapter \@ref(actioning)
-1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (or next semester)? See section \@ref(mycved)
+1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(mycved)
 1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
 1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
-1. ✅ Have you clearly distinguished between paid, unpaid and voluntary experience? Have you included all of your experience including casual work, see section \@ref(casual)?
-1. ✅ Has it been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
-1. ✅ Have you reviewed other people's CV's? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself. See the examples in chapter \@ref(hacking)
+1. ✅ Have you clearly distinguished between paid, unpaid and voluntary `experience`? Have you done the same for your `projects`, see section \@ref(mycvpj)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
+1. ✅ Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
+1. ✅ Have you reviewed other people's CV's? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself. See the examples in chapter \@ref(hacking). Who would *you* want to interview and why?
 
 ```{r wonderfuldarling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwonderfuldarling)"}
 knitr::include_graphics("images/Critical Friend.png")
@@ -587,7 +587,7 @@ knitr::include_graphics("images/Critical Friend.png")
 ## Covering letters & personal statements {#we3qs}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to have a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for ages without providing any evidence. Usually this kind of information is better in your covering letter.
 
-Let's say you're applying for a widget engineering position at `Widget.com`. There are three things you need to cover in approximately this order:
+Let's say you're applying for a widget engineering position at `Widget.com`. There are three things you need to cover in this order:
 
 1. **Why them?** Why are you applying to `Widget.com`
 1. **Why that role?**  `Widget.com` employees have many roles and responsibilities, so what is it about widget engineering that attracts you?
@@ -596,7 +596,7 @@ Let's say you're applying for a widget engineering position at `Widget.com`. The
 ### Does anyone actually READ covering letters? {#elevatorpitch}
 Some employers will read your covering letter very carefully, others less so. It's not clear which employers will bother and which won't.
 
-Even if nobody reads your covering letter, it is still worth writing one because it forces you to rehearse standard interview questions shown above. See e.g. [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/) for further information. Think of it as practicing the lines of your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
+Even if nobody reads your covering letter, it is still worth writing one because that will force you to rehearse standard interview questions. See e.g. [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/) for further information. Think of it as practicing the lines of your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
 
 ## Debugging summary {#tldr7}
 (ref:tldr)
