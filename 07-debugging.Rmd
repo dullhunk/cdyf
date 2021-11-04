@@ -189,7 +189,7 @@ Let's look at each of these sections in turn:
 Unless you have significant amount of experience, the education section of your CV is likely to be the first real section, after the header. Your education section needs to strike a balance between:
 
 * Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
-* Keeping it short and sweet and avoiding getting bogged down in the details.
+* Keeping it short and sweet by avoiding getting bogged down in tedious details
 
 You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to:
 
@@ -249,8 +249,7 @@ By themselves, those project names are pretty opaque. They are OK for giving the
 ```{r cvfodder-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfodder)"}
 knitr::include_graphics("images/CV Fodder.png")
 ```
-(ref:captionfodder) Perhaps you managed to turn a project around when things were not going very well ([pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped))? Perhaps you've learned from painful mistakes you previously made? This is all great fodder (content) for your CV because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
+(ref:captionfodder) Have ever had a project that didn't go very well (aka [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped))? Perhaps you managed to turn the project around? What lessons did you learn from those painful mistakes? This is all great fodder (content) for your CV because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
@@ -290,13 +289,15 @@ If you have anything else you want to highlight besides your `education`, `exper
 
 People often list `hobbies and interests` which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it demonstrates teamwork, commitment, reliability and so on. Other collaborative activities outside of sport will also provide evidence of your communication skills. [@hobbies]
 
-The fact that you enjoy `swimming, reading and hiking` is a bit vague and not likely to be a factor in the decision to interview you. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
+The fact that you enjoy `swimming`, `reading`, `cooking` and `hiking` is a bit vague and not likely to be a factor in the decision to interview you. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
 
 * coached a swimming team
 * trained as a mountain leader
 * organised and hosted a book club
 
-In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about. However, if they are just hobbies that enable you to amuse yourself, you should leave them out as they aren't going to be that interesting to an employer.
+In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about. However, if they are just hobbies that enable you to amuse yourself, you should probably leave them out as they aren't going to be that interesting to an employer.
+
+Of course, you *might* get lucky and your interviewer could be intrigued (or even share) your esoteric passion for `[Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport))`, but you can't rely on it. So, I reckon if you're going to mention hobbies and interests at all, give some brief details, or leave them out altogether.
 
 ### Your skills?  {#mycvsk}
 
@@ -345,7 +346,7 @@ It's fine to author your CV in Microsoft Word, but you'll want to save as PDF to
 One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction, **R**esult and **E**vidence (C.A.R.E.) to tell your stories. This method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing `Python` as a skill, you should tell the reader more about the context in which you've used python, what you actually did with it and what the result was. You really need to spell it out.
 
 * **CONTEXT**: So you've used Python, but in what context? As part of your education? For a personal project? As a volunteer? In a competition?
-* **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something?
+* **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something? What verbs can you use to describe these actions, see chapter \@ref(actioning)
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
 * **EVIDENCE**: Where evidence exists, you should point to it. It might be a certificate, a badge (see chapter \@ref(achieving)) or the actual software itself
 
@@ -428,7 +429,7 @@ Augmenting your CV with web links (hyperlinks) can add important context to your
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
 knitr::include_graphics("images/lovelace-linkedin.png")
 ```
-(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default random alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//` and `www` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't 404 if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you its a LinkedIn profile.
+(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), to remove the default randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't 404 if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
 
 Links are also a great way to evidence, quantify and substantiate any claims that you make. They allow your reader to *read between the lines* and make more inferences from the information you've provided them with. For example, you might says things like:
 
@@ -515,8 +516,8 @@ Besides providing feedback on the content of your CV, using these systems can he
 You might be tempted to put your referees details on your résumé. Don't bother because;
 
 * references waste valuable space. You can say much more interesting things about yourself than who you referees are
-* references aren't needed in the early stages of a job application. They are typically taken up much later, when you've been offered or are about to be offered the job
-* references give personal information out. Do you really want to be giving personal details out to anyone that reads your CV? It could easily be misused.
+* references aren't needed in the early stages of a job application anyway. Employers typically your referees *much* later, when you've been offered or are about to be offered the job
+* references disclose personal information. Do you really want to be giving personal details out to anyone that reads your CV? It could easily be misused.
 
 It's not even worth saying `references available on request` - that just wastes space as well and is implied information on every CV anyway.
 
@@ -565,7 +566,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Have you spell-checked using both automatic and manual (proof-reading) techniques?
 1. ✅ Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Have you added context using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
-1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, e.g. all dates clear and left or right aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example of right aligned dates.
+1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, with all dates clearly aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example with a clear timeline using right-aligned dates.
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
 1. ✅ Have you made it clear what you have actually done using **prominent** `verbs`? See chapter \@ref(actioning)
 1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(mycved)
@@ -580,7 +581,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 knitr::include_graphics("images/Critical Friend.png")
 ```
 
-(ref:captionwonderfuldarling) Showing your CV to somebody else is one of the best ways to debug it. You need to find a [critical friend](https://en.wikipedia.org/wiki/Critical_friend), somebody who won't just tear it apart (hostile witness) or tell you it's simply wonderful (uncritical lover) but tell you how to improve it, whatever state it is in. Critical friend by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionwonderfuldarling) Showing your CV to somebody else is one of the best ways to debug it. You need to find a [critical friend](https://en.wikipedia.org/wiki/Critical_friend), somebody who won't just tear it apart (`hostile witness`) or tell you it's simply wonderful (`uncritical lover`) but tell you how to improve it, whatever state it is in (`critical friend`). Critical friend by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 
@@ -590,8 +591,8 @@ Applications and CV's are often accompanied by covering letters or include some 
 Let's say you're applying for a widget engineering position at `Widget.com`. There are three things you need to cover in this order:
 
 1. **Why them?** Why are you applying to `Widget.com`
-1. **Why that role?**  `Widget.com` employees have many roles and responsibilities, so what is it about widget engineering that attracts you?
-1. **Why you?** Why should they employ you? What makes you stand out from all the other widget engineering candidates? What is your Unique Selling Point (USP) or points?
+1. **Why that role?**  `Widget.com` employees have many roles and responsibilities but what is it about widget engineering that attracts you?
+1. **Why you?** Why should they employ you? What makes you stand out from all the other widget engineering candidates? What is your Unique Selling Point (USP) or points? Its important to say why *you* would be good for *them* (**not** why they would be good for you and your career).
 
 ### Does anyone actually READ covering letters? {#elevatorpitch}
 Some employers will read your covering letter very carefully, others less so. It's not clear which employers will bother and which won't.

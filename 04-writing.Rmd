@@ -1,6 +1,6 @@
 # Writing your future {#writing}
 
-Your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Your soft skills are hard. There are very few jobs where you work on your own in complete isoltion. For example, most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse membership. This means that sooner or later you're going to have to master the dark arts of *working with other people* by developing and deploying your softer skills. 😱
+Your soft skills will take a **life time** to develop and are **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Your soft skills are hard. There are very few jobs where you work on your own in complete isolation. For example, most software and hardware is designed, built, tested and used by teams of people. Many of these teams are large and have very diverse membership. This means that sooner or later you're going to have to master the dark arts of *working with other people* by developing and deploying your softer skills. One of those softer skills you'll need to develop is written communication, shown in figure \@ref(fig:no-writing-fig). 😱
 
 <!-- where does written comm fit?
 
@@ -11,25 +11,25 @@ Third year project
 
 -->
 
-```{r otherpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionotherpeople)"}
-knitr::include_graphics("images/What - other people.png")
+```{r no-writing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnowriting)"}
+knitr::include_graphics("images/Avoiding writing.png")
 ```
-(ref:captionotherpeople) Unless you want to be a [lighthouse keeper](https://en.wikipedia.org/wiki/Lighthouse_keeper) on a remote island, there are very few jobs where you don't have to work as part of a team with other people. Sorry to break the bad news! This means you need to constantly improve your softer skills and provide evidence of them to potential employers. Other people sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionnowriting) There are many motivations for studying computer science, unfortunately for some students, minimising the amount of reading and writing they have to do in natural languages (like English) is one of them. You can run from written communication, but you can't hide from it. Writing a CV, covering letter or filling in an application form is just the tip of the *writing iceberg*, section \@ref(nle) outlines the some of the rest. Other people sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Communicating with other people and working in teams is inherently difficult because we're all human. There is good news and bad news...
 
 * **THE GOOD NEWS** is, people can be diligent, humble, competent, honest, caring and reliable. They can be co-operative, generous, supportive, kind, thoughtful, intelligent, sensitive, understanding, punctual and professional too!
 * **THE BAD NEWS** is, unfortunately people can also be lazy, stupid, ignorant, vain, incompetent, dishonest, unreliable, greedy, egomaniacal, unpredictable and moody. They can be proud, selfish, competitive, lustful, angry, envious, mean, busy, insensitive and thoughtless too. Some will disagree with you, boss you around, betray, exploit, misunderstand and mislead you, deliberately or otherwise. [@sevendeadly]
 
-So communicating with and understanding other people can be hard work, but don't worry, **everyone** finds this challenging, it's not just you! It doesn't matter if you're an extrovert or an introvert, communication is a challenge for everyone, and everyone can get better at it too. This chapter takes a look at the softer skills and techniques you can use to improve your communication with other people, whatever mood they are in and whosever team they are on.
+So communicating with and understanding other people can be hard work, but don't worry, **everyone** finds this challenging, it's not just you! It doesn't matter if you're an extrovert or an introvert, communication is a challenge for everybody, and everyone can get better at it too. This chapter takes a look at the softer skill of written communication and techniques you can use to improve your writing. Whatever mood your readers are in, you'll make their job a lot easier if you can express yourself clearly in writing.
 
 
 ## What you will learn
 
 * Recognise the importance of written communication, both as a reader and a writer
-* Identify examples of where written communication is crucial in science and engineering
+* Identify examples of where written communication is crucial in teams of scientists and engineers
 * Improve your written communication skills using some simple writing and reading exercises
-* Identify the importance of teamwork
+<!--* Identify the importance of teamwork-->
 
 
 ## Computing is your superpower! {#superpower}
@@ -288,7 +288,14 @@ Social skills are those that help you work with other people in your team, small
 
 You'll need both soft and hard skills to compete in the workplace. Don't underestimate the importance of softer skills, we've looked briefly at written communication skills in this chapter but that's only the tip of the soft skills iceberg.
 
-Teamwork, negotiation, conflict resolution, public speaking, motivating others and leadership are also important soft skills too. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills? Your technical skills are of limited use without people skills, see figure \@ref(fig:allpeople-fig).
+Teamwork, negotiation, conflict resolution, public speaking, motivating others and leadership are also important soft skills too. How can you develop these skills while at University? How can you demonstrate to potential employers that you have these skills? Your technical skills are of limited use without people skills, to allow you to work with others see figure \@ref(fig:otherpeople-fig).
+
+```{r otherpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionotherpeople)"}
+knitr::include_graphics("images/What - other people.png")
+```
+(ref:captionotherpeople) Unless you want to be a [lighthouse keeper](https://en.wikipedia.org/wiki/Lighthouse_keeper) on a remote island, there are very few jobs where you don't have to work as part of a team with other people. Sorry to break the bad news! This means you need to constantly improve your softer skills and provide evidence of them to potential employers. Written communication is just one of those softer skills. Other people sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+So communicating with other people is a key skill, see figure \@ref(fig:allpeople-fig). This chapter has looked at written communication, in chapter \@ref(speaking) we will look at spoken communication.
 
 ```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
 knitr::include_graphics("images/its-all-about-people-2.png")
