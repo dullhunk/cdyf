@@ -169,7 +169,7 @@ Once you've started to answer the design questions in the first part, you can st
 
 ### Supporting your future {#partiii}
 
-The third part of this book, contains supporting material that will help the design, build and test phases described above. You'll need good support to help with the stresses and strains of building your future shown in \@ref(fig:clifton-fig)
+The third part of this book, contains supporting material that will help the design, build and test phases described above. You'll need good support to help with the stresses and strains of building your future as shown in \@ref(fig:clifton-fig)
 
 ```{r clifton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclifton)"}
 knitr::include_graphics("images/clifton.png")
