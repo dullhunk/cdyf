@@ -12,19 +12,36 @@ knitr::include_graphics("images/goal of education.jpg")
 Reading this chapter and doing the activities will help you to
 
 * Develop better self-awareness by experimenting with seven techniques for exploring your identity:
-    1. What's your story, coding glory?
-    1. Head, heart and hands
-    1. Ikigai: reason for being
-    1. Personality profiling
-    1. Deathbed thought experiment
-    1. Protected characteristics
-    1. Privilege audit
+    1. Protected characteristics: see section \@ref(protected)
+    1. What's your story, coding glory? See section \@ref(story)
+    1. Head, heart and hands: see section \@ref(hhh)
+    1. Ikigai: reason for being. See section \@ref(no42)
+    1. Personality profiling, see section \@ref(personality)
+    1. Privilege audit, see section \@ref(apriv)
+    1. Deathbed thought experiment, see section \@ref(regrets)
 * Know yourself better so that you can:
     + start coding your future
     + articulate who you are to potential employers
 
 ## Improving self-awareness {#skynet}
 Knowing who you are now, will help you explore and understand who you might become in the future. That future you is the *best possible version of you* shown in \@ref(fig:goal-fig). Your identity, who you are, is complex, dynamic and high-dimensional so you need to use different techniques to develop better self-awareness.
+
+### Your protected characteristics {#protected}
+Some of your identity includes characteristics that are protected. In the UK, the Equality Act of 2010^[\url{http://www.legislation.gov.uk/ukpga/2010/15/contents}] protects you from discrimination at work or in education, based on what are known as "protected characteristics". [@equality]. This means that:
+
+* Your **age** should not determine how you are treated
+* Your **disabilities** should not determine how you are treated
+* Your **gender** should not determine how you are treated [@inferior; @damore; @damoreguardian; @everydaysexism]
+* Your **gender re-assignment** should not determine how you are treated
+* Your **marriage** or civil partnership should not determine how you are treated
+* Your **pregnancy** and maternity should not determine how you are treated
+* Your **race** (including colour, nationality, ethnic or national origin) should not determine how you are treated [@nottalking; @superior]
+* Your **religion** or beliefs should not determine how you are treated
+* Your **sex** should not determine how you are treated [@harassment]
+* Your **sexual orientation** should not determine how you are treated [@nosex]
+
+These are an important part of your identity you are familiar with, but take note, these parts of your identity are special because they are protected.
+
 
 ### What's your story, coding glory? {#story}
 
@@ -44,7 +61,7 @@ Your story is probably complex but you need to know it so you can distill the de
 * Action, conflict and change : what has changed you and how?
 * Emotions: how did you feel at the time, sad, happy, excited?
 
-Universities offer many opportunities for self improvement, self discovery and developing your unique skills.
+<!--Universities offer many opportunities for self improvement, self discovery and developing your unique skills.-->
 
 ### Head, heart, hands {#hhh}
 
@@ -65,7 +82,7 @@ Answering these questions will help you understand your story.
 <!--Feel like this section needs an example and more of a demonstration of how it's helpful.-->
 
 
-### Ikigai: What is the meaning of life? {#no42}
+### Ikigai: Reason for Being {#no42}
 
 Many of the learning outcomes described above are non-trivial. You may have good self-awareness and be able to describe aspects of who you are in a matter of minutes. Other personality traits make take longer to uncover. You can develop better self-awareness by describing four attributes shown in Figure \@ref(fig:iki-fig), together these are known as your [ikigai (生き甲斐)](https://en.wikipedia.org/wiki/Ikigai) or “reason for being”.
 
@@ -95,6 +112,26 @@ knitr::include_graphics("images/Know who you are.png")
 
 Thinking about your ikigai will clarify your knowledge of yourself. Some parts of your identity are so important that they are protected by legislation, in the UK and in other countries. The next section looks at those.
 
+### Personality profiling {#personality}
+
+Completing a personality profile may help you develop better self awareness. A good place to start is by answering 16 short questions at [icould.com/buzz-quiz](https://icould.com/buzz-quiz). Which animal are you?
+
+There are lots of tools for personality profiling which go into more depth by asking you a lot more than 16 questions. Some of these services are free such as:
+
+* [16personalities.com](https://www.16personalities.com)
+* [strengthsprofile.com](https://strengthsprofile.com/en-GB/Products/Free)
+
+Your University may also pay a subscription for personality profiling services, check with your careers service for details.
+
+### Privilege audit {#apriv}
+
+If you have privileges, it is important to recognise the advantages you have been given in life. They are a key part of your identity. As yourself, what privileges do you have?
+
+If you're struggling to think of any, see section \@ref(privileged) for some suggestions.
+
+<!--possibly better as a breakpoint-->
+
+
 ### Deathbed thought experiment {#regrets}
 
 Imagine for a moment you are on your deathbed. Not at some point in the future, but right now. The doctor tells you that you only have two weeks to live. One of the things you'll wan to do is reflect on your life and wonder:
@@ -103,25 +140,8 @@ Imagine for a moment you are on your deathbed. Not at some point in the future, 
 * What did you regret?
 * What would you change if you could carry on living?
 
-This can be a useful technique for forcing you to
+This can be a useful technique for forcing you to think about who you are and what you value, see section \@ref(regret) for details.
 
-See section \@ref(regret) for details.
-
-### Your protected characteristics {#protected}
-Some of your identity includes characteristics that are protected. In the UK, the Equality Act of 2010^[\url{http://www.legislation.gov.uk/ukpga/2010/15/contents}] protects you from discrimination at work or in education, based on what are known as "protected characteristics". [@equality]. This means that:
-
-* Your **age** should not determine how you are treated
-* Your **disabilities** should not determine how you are treated
-* Your **gender** should not determine how you are treated [@inferior; @damore; @damoreguardian; @everydaysexism]
-* Your **gender re-assignment** should not determine how you are treated
-* Your **marriage** or civil partnership should not determine how you are treated
-* Your **pregnancy** and maternity should not determine how you are treated
-* Your **race** (including colour, nationality, ethnic or national origin) should not determine how you are treated [@nottalking; @superior]
-* Your **religion** or beliefs should not determine how you are treated
-* Your **sex** should not determine how you are treated [@harassment]
-* Your **sexual orientation** should not determine how you are treated [@nosex]
-
-These are an important part of your identity you are familiar with, but take note, these parts of your identity are special because they are protected.
 
 <!--
 * What is discrimination?
@@ -145,7 +165,7 @@ This chapter has looked at some big issues around identity, by inviting you to t
 * What do you want after University?
 * Where do you see yourself in $x$ years time?
 * What are your privileges (if any), see section \@ref(privileged)
-* You can get a quick summary of your strengths and weaknesses by answering 16 short questions at [icould.com/buzz-quiz](https://icould.com/buzz-quiz). Which animal are you?
+
 
 
 The signposts in the next section may help tackle some of these coding challenges.
@@ -190,17 +210,9 @@ knitr::include_graphics("images/youtube-bolles.png")
 
 ```
 
-### What's your story?
+### What's your story? {#freeyourstory}
 A useful technique for developing self-awareness is to think about what your story is. Heather Box and Julian Mocine-McQueen's book *How Your Story Sets You Free* [@freeyourstory] takes a storytelling approach to help you gain a better picture of who you are and what you value. What's good about this book is its short, less than 100 pages and contains practical exercises which extend those in this chapter.
 
-### Personality profiling {#personality}
-The buzz quiz in section \@ref(bp2) will give you a brief summary of your personality. There are lots of tools for personality profiling which go into more depth by asking you a lot more than 16 questions. Some of these services are free such as:
-
-
-* [16personalities.com](https://www.16personalities.com)
-* [strengthsprofile.com](https://strengthsprofile.com/en-GB/Products/Free)
-
-Your University may also pay a subscription for personality profiling services, check with your careers service for details.
 
 ### Check your privileges {#privileged}
 Reflecting on your identity should lead you to check any privileges you might have. Being grateful for any privileges you may have is also beneficial for your mental health which we talk about in chapter \@ref(nurturing) so:
