@@ -289,11 +289,11 @@ If you have anything else you want to highlight besides your `education`, `exper
 
 People often list `hobbies and interests` which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it demonstrates teamwork, commitment, reliability and so on. Other collaborative activities outside of sport will also provide evidence of your communication skills. [@hobbies]
 
-The fact that you enjoy `swimming`, `reading`, `cooking` and `hiking` is a bit vague and not likely to be a factor in the decision to interview you. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
+The fact that you enjoy `swimming`, `reading`, `football`, `cooking` and `hiking` is a bit vague and not likely to be a factor in the decision to interview you. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
 
 * coached a swimming team
 * trained as a mountain leader
-* organised and hosted a book club
+* organised and hosted a book club or five-a-side matches
 
 In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about. However, if they are just hobbies that enable you to amuse yourself, you should probably leave them out as they are unlikely to be of interest to an employer.
 
@@ -335,7 +335,7 @@ Making your CV look good can take ages, but a well presented CV will stand out. 
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
 ```
-(ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are interviewed, so its important to spend time getting it right. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are interviewed, so spend time getting it right. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`.
 
@@ -592,17 +592,25 @@ Let's say you're applying for a widget engineering position at `Widget.com`. The
 
 1. **Why them?** Why are you applying to `Widget.com`
 1. **Why that role?**  `Widget.com` employees have many roles and responsibilities but what is it about widget engineering that attracts you?
-1. **Why you?** Why should they employ you? What makes you stand out from all the other widget engineering candidates? What is your Unique Selling Point (USP) or points? Its important to say why *you* would be good for *them* (**not** why they would be good for you and your career).
+1. **Why you?** Why should they employ you? What skills and experience make you stand out from all the other widget engineering candidates? What is your Unique Selling Point (USP) or points? Say why *you* would be good for *them* (**not** why they would be good for you and your career).
+
+You can see some examples of answers to these questions at:
+
+* [prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-cover-letter](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-cover-letter)
+*  [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/)
+
 
 ### Does anyone actually READ covering letters? {#elevatorpitch}
-Some employers will read your covering letter very carefully, others less so. It's not clear which employers will bother and which won't.
+Some employers will read your covering letter very carefully, others less so. It is not always clear which employers will bother and which won't.
 
-Even if nobody reads your covering letter, it is still worth writing one because that will force you to rehearse standard interview questions. See e.g. [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/) for further information. Think of it as practicing the lines of your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
+Even if *nobody* reads your covering letter, it is still worth writing one because formulating answers to the three basic questions in section \@ref(we3qs) will force you to rehearse standard interview questions.
+
+Think of your covering letter as practicing some of the lines of your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
 
 ## Debugging summary {#tldr7}
 (ref:tldr)
 
-This chapter we've looked at how to debug your CV. It's important to try and squash any of the bugs we've described here, before an employer see's your CV. The checklist above in section \@ref(checklist) is a good place to start.
+In this chapter we have looked at how to debug your CV. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a much better chance of getting an interview. The checklist above in section \@ref(checklist) is a good place to start.
 
 
 
