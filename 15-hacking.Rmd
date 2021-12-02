@@ -17,7 +17,7 @@ A useful hacking technique is to take somebody elses stuff and fix or improve it
 1. Eating your *own* dogfood by reading your own written work ALOUD <!--self assess using the rubric-->
 1. Eating *somebody elses* dogfood by:
     - Hacking a friends or peers CV by swapping with them and giving them constructive feedback
-    - Hacking the fictitious CVs below by ranking them against a job advert. Who would you want to interview and why?
+    - Hacking the fictitious CVs below by ranking them against a job advert  in section \@ref(cooltech). Who would you want to interview and why?
 1. Eating your own dogfood again, re-reading and re-editing repeatedly
 1. Persuade someone else to eat your dogfood - get feedback from as many people (and bots see section \@ref(robotproof)) as you can
 
@@ -60,7 +60,7 @@ knitr::include_graphics("images/pen_tester.png")
 
 ### Rick Urshion {#rick-urshion}
 
-Rick is a big fan of functional programming and loves expressing himself using languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figure \@ref(fig:rickurshion-fig).
+Rick is a big fan of functional programming and loves solving problems with languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figure \@ref(fig:rickurshion-fig).
 
 ```{r rickurshion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrick)"}
 knitr::include_graphics("images/rick_urshion.png")

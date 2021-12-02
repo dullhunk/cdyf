@@ -162,11 +162,11 @@ Quantify and provide evidence of any claims you make. This can turn meaningless 
 * Worked in a team
 ```
 
-So you worked in a team? `Worked` is vague. What was your role and contribution exactly? How long did the project last? How many people were on your team?  What was the result of your action? What's the story?
+So you worked in a team? `Worked` is vague. What was your role and contribution exactly? How long did the project last? How many people were on your team?  What was the result of your action? What's the story, coding glory?
 
 ### Your header {#mycvpd}
 
-The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in Figure \@ref(fig:turinghead-fig) for Alan Turing. That's it!
+The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in figure \@ref(fig:turinghead-fig) for Alan Turing. That's it!
 
 ```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncvheader)"}
 knitr::include_graphics("images/alan-turing-header.png")
