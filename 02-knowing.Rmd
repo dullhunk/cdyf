@@ -42,17 +42,55 @@ Some of your identity includes characteristics that are protected. In the UK, th
 
 These are an important part of your identity you are familiar with, but take note, these parts of your identity are special because they are protected.
 
+### Gender identity
+
+Gender is something many people *believe* they understand, but most people actually don't. One way to understand gender better is to break it into four characteristics:
+
+1. Identity (gender identity)
+1. Expression (gender expression)
+1. Sex (biological sex)
+1. Attraction (sexual and romantic orientation)
+
+These protected characteristics are often conflated, because people often confuse gender, sex and sexual orientation. They are *not* the same thing as shown in equation \@ref(eq:gender)
+
+::: {.rmdnote}
+
+\begin{equation}
+Identity ≠ Expression ≠ Sex ≠ Attraction
+  (\#eq:gender)
+\end{equation}
+
+:::
+
+Lets have a look at each of those in turn:
+
+1. **Identity** 🧠 is who you know yourself to be in your own head. Gender identity is based on how much you align (or don’t align) with the options for gender based on your psychological sense of self. This includes, but is not limited to:
+    + `Woman ↔ Genderqueer ↔ Man` see [wikipedia.org/wiki/Gender_binary](https://en.wikipedia.org/wiki/Gender_binary) and [wikipedia.org/wiki/Non-binary_gender](https://en.wikipedia.org/wiki/Non-binary_gender)
+1. **Expression** 🧍 is how you demonstrate your gender based on gender roles through the ways that you act, dress, behave and interact. This includes, but is not limited to:
+    + `Feminine ↔ Androgynous ↔ Masculine` see [wikipedia.org/wiki/Gender_expression](https://en.wikipedia.org/wiki/Gender_expression)
+1. **Sex** ⚧️ is often conflated with gender. Sometimes called anatomical sex or physical sex, your biological sex is objectively measurable using features such as genitalia, chromosomes (`XX`, `XY` etc), hormones, body hair, ovaries and testes. This includes, but is not limited to:
+    + `Female ↔ Intersex ↔ Male` [wikipedia.org/wiki/Sex](https://en.wikipedia.org/wiki/Sex)
+1. **Attraction** ❤️ is who you are physically, spiritually and emotionally attracted to, based on their sex/gender. Like biological sex, sexual orientation is often conflated with gender but isn’t always a component of gender. We categorise the attraction we experience in gendered ways. Your sexual orientation includes, but is not limited to:
+    + `Heterosexual ↔ Bisexual ↔ Homosexual ↔ Asexual` see [wikipedia.org/wiki/Sexual_orientation](https://en.wikipedia.org/wiki/Sexual_orientation) and [wikipedia.org/wiki/Romance_(love)](https://en.wikipedia.org/wiki/Romance_(love))
+
+These characteristics are summarised in the genderbread man shown in figure \@ref(fig:genderbread-fig)
+
+```{r genderbread-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongenderbread)"}
+knitr::include_graphics("images/Genderbread-Person-v4.png")
+```
+(ref:captiongenderbread) Decomposing gender into its components of identity (woman-ness & man-ness), attraction (romantically and sexually), expression (feminity and masculinity) and sex (female-ness & male-ness). Genderbread Person v4.0 (uncopyright) by [Sam Killerman](https://www.samkillermann.com/) at [genderbread.org](https://www.genderbread.org/) and [itspronouncedmetrosexual.com](https://www.itspronouncedmetrosexual.com/)
+
+Gender is probably more complicated than you realised, but the framework above will help you understand it better or help you explain the subtleties to someone else  by breaking a complicated concept into bite-sized, digestible pieces.
 
 ### What's your story, coding glory? {#story}
-
-We're hardwired to love storytelling because it help us understand our world, see figure \@ref(fig:storytelling-fig). We use stories to organise and communicate, so knowing your story is a crucial part of knowing who you are. What's your story?
+The protected characteristics described above are the part of your story you'll be most aware of. But there's much more to your story than these characteristics. We're hardwired to love storytelling because it help us understand our world, see figure \@ref(fig:storytelling-fig). We use stories to organise and communicate, so knowing your story is a crucial part of knowing who you are. What's your story?
 
 ```{r storytelling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstorytelling)"}
 knitr::include_graphics("images/storytelling.jpeg")
 ```
 (ref:captionstorytelling) [Storytelling](https://en.wikipedia.org/wiki/Storytelling) is an ancient art and who doesn't love a good story? As a species *Homo sapiens*, we need to tell and hear stories to understand the world around us. What's your story, coding glory? Public domain image of a painting by John Everett Millais, with a seafarer telling the story of what happened out at sea, via Wikimedia Commons [w.wiki/3VHM](https://w.wiki/3VHM)
 
-Self-awareness, understanding who you are, is important for leading a healthy and happy life, and likely to be an important factor in your future success. One way to develop self-awareness is to think about the finer details of your story. [@freeyourstory] How did you get here, where are you going, what has inspired you? Who is the authentic you? [@regrets] What are your hopes and dreams? By starting to answer these questions you will gain a better understanding of who you are. This includes strengths, weaknesses, motivation and values. [@parachute2020]
+Self-awareness, understanding who you are, is important for leading a healthy and happy life, and likely to be an important factor in your future success. One way to develop better self-awareness is to think about the finer details of your story. [@freeyourstory] How did you get here, where are you going, what has inspired you? Who is the authentic you? [@regrets] What are your hopes and dreams? By starting to answer these questions you will gain a better understanding of who you are. This includes strengths, weaknesses, motivation and values. [@parachute2020]
 
 Your story is probably complex but you need to know it so you can distill the details of it into *much* shorter stories on your job applications described in section \@ref(mycvst). Things to think about are:
 
