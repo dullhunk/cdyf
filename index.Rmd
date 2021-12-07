@@ -358,7 +358,7 @@ So thanks academics for being even more sceptical than Christopher Hitchens, see
 
 #### Thank you professional services staff {#psstaff}   
 
-Thanks also to the superb support staff (past and present) from professional services, especially the Academic Support Office (ACSO), Student Support Office (SSO) and external affairs office in the Kilburn building. Professional services staff continue to make all the magic of teaching and learning possible: Alyx Adams, Cassie Barlow, Jennie Ball-Foster, Emma Bentley, Christine Bowers, Karen Butterworth, Chris Connolly, Ellie Crompton, Jean Davison, Gavin Donald, Miriam Cadney, Chris Calland, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Amelia Graham, Iain Hart, Kath Hopkins, Lynn Howarth, Yvonne Hung, Susie Hymas, Radina Ivanova, Dan Jagger, Alex Jones, Jessicca Kateryniuk-Smith, Mike Keeley, Stephanie Lee, Dominic Laing, Gill Lester, Jez Lloyd, Ruth Maddocks, Cameron Macdonald, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Matthew Oakley, Alyson Owens, Chris Page, Melanie Price, Chris Rhodes, Graham Richardson, Martin Ross, Julian Skyrme, Elaine Sheehan, Angela Standish, Martine Storey, Bernard Strutt, Jannine Thomas, Joseph Tirone, Daisy Towers, Anna Warburton-Ball, Richard Ward, Sarah White, Elizabeth Wilkinson, Andrew Whitmore, Lisa Wright and Mabel Yau.
+Thanks also to the superb support staff (past and present) from professional services, especially the Academic Support Office (ACSO), Student Support Office (SSO) and external affairs office in the Kilburn building. Professional services staff continue to make all the magic of teaching and learning possible: Alyx Adams, Daniele Atkinson, Cassie Barlow, Jennie Ball-Foster, Emma Bentley, Christine Bowers, Karen Butterworth, Chris Connolly, Ellie Crompton, Jean Davison, Gavin Donald, Miriam Cadney, Chris Calland, Ben Carter, Hannah Cousins, Holly Dewsnip, Tammy Goldfeld, Penney Gordon-Lanes, Amelia Graham, Iain Hart, Kath Hopkins, Lynn Howarth, Yvonne Hung, Susie Hymas, Radina Ivanova, Dan Jagger, Alex Jones, Jessicca Kateryniuk-Smith, Mike Keeley, Stephanie Lee, Dominic Laing, Gill Lester, Jez Lloyd, Ruth Maddocks, Cameron Macdonald, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Matthew Oakley, Alyson Owens, Chris Page, Melanie Price, Abby Ragazzon-Smith, Chris Rhodes, Graham Richardson, Martin Ross, Julian Skyrme, Elaine Sheehan, Angela Standish, Martine Storey, Bernard Strutt, Jannine Thomas, Joseph Tirone, Daisy Towers, Anna Warburton-Ball, Richard Ward, Sarah White, Elizabeth Wilkinson, Andrew Whitmore, Lisa Wright and Mabel Yau.
 
 And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) ✊🏽 [Fight the Power](https://en.wikipedia.org/wiki/Fight_the_Power_(Public_Enemy_song))! ✊🏽 [@fightthepower]
 
@@ -507,21 +507,26 @@ Special thanks to English speaking Wikipedians [Evan Amos](https://en.wikipedia.
 So, thanks Wikipedians for being Wikipedia. 🙏
 
 ### Thank you Bryan {#visualthinkery}
-Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/) shown in figure \@ref(fig:selfportrait-fig).
-```{r selfportrait-fig, echo = FALSE, fig.align = "center", out.width = "75%", fig.cap = "(ref:captionselfportrait)"}
-knitr::include_graphics("images/self-portrait.png")
+Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/) shown in figure \@ref(fig:tedx-galway-fig).
+
+Bryan is an artist, visual thinker, entrepreneur and listener who turns stories into pictures. He also happens to have a Bachelors degree in Computer Science from the University of Glasgow. His combined skills in art, science and engineering made him the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm *sooo* glad we randomly bumped into each other at a conference.
+
+```{r tedx-galway-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongalway)"}
+knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
 ```
-
-(ref:captionselfportrait) [Bryan Mathers Self portrait](https://bryanmmathers.com/self-portrait/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-Bryan is an artist, visual thinker and entrepreneur, who also happens to have a Bachelors degree in Computer Science from the University of Glasgow. His combined skills in art, science and engineering made him the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm *sooo* glad we randomly bumped into each other at a conference shown in figure \@ref(fig:bumped-fig).
+(ref:captiongalway) People tell stories and stories paint pictures. Bryan Mathers speaking at TEDxGalway in 2021. The image above is a screenshot, you can watch the full 15 minute talk at [youtu.be/IapGM5ZYBEw](https://youtu.be/IapGM5ZYBEw)
 
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thank you friends {#friends}  
-Thanks to my friends, especially those who I've enjoyed singing, dancing and live music with. I'm looking forward to the next time that we can meet again.
+Thanks to my West Country friends, especially those who I've enjoyed live music, cycling and walking with, see figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure.
 
-So, thank you friends for your friendship. 🙏
+```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
+knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
+```
+(ref:captionbradlads) Crossing the highest mountain pass in Europe, the [Col de l'Iseran](https://en.wikipedia.org/wiki/Col_de_l%27Iseran), with my fellow *[Kings of the Mountains](https://en.wikipedia.org/wiki/King_of_the_Mountains)*, Jim, Dan, Doug and Dan.
+
+So, thank you for your friendship. Proper job! 🙏
 
 ### Thank you family {#family}  
 To my family: mum, dad, wife, son, brother, sister, μαμά, μπαμπά and extended family: I'm lucky to have been taught by you and that you've always been there when I needed you. 🇬🇷🇪🇺🇬🇧
