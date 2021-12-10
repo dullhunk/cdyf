@@ -389,7 +389,7 @@ knitr::include_graphics("images/bath-panorama.jpeg")
 Thanks Bath for the initial teacher training (ITT), the medicinal [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotswolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)). 🙏
 
 ### Thank you Shaftesbury {#shaftesbury}
-Thanks to Stuart Ferguson, David Booth, Chris Almond, David Ball, Caroline Dallimore, Mr Travers, Caroline Moss and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement, see figure \@ref(fig:shaft-fig). Thanks also to my fellow Shaftesbury/Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their hard won knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long and winding west country roads to and from deepest darkest Dorset. Thanks for sharing the heavy burden of driving too.
+Thanks to Chris Almond, David Ball, David Booth, Caroline Dallimore, Stuart Ferguson, Caroline Moss, Mr Travers and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement, see figure \@ref(fig:shaft-fig). Thanks also to my fellow Shaftesbury and Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning). Thanks Joan for keeping me awake on the long and winding west country roads to and from deepest darkest Dorset. Thanks for sharing the heavy burden of driving too.
 
 ```{r shaft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshaftesbury)"}
 knitr::include_graphics("images/shaftesbury.jpg")
@@ -519,35 +519,37 @@ knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thank you St Laurence {#st-laurence}  
-Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud and lucky to have grown up in. I'm especially grateful for the ongoing friendship of those I've enjoyed music, cycling, walking, travelling and drinking with over the years, some of whom you can see figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure.
+Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud and lucky to have grown up in. I'm especially grateful for the ongoing friendship of former St Laurence school students I've enjoyed music, cycling, walking, travelling and drinking with over the years, some of whom you can see figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure.
 
 ```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
 knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
 ```
 (ref:captionbradlads) Crossing the highest paved mountain pass in Europe, the [Col de l'Iseran](https://en.wikipedia.org/wiki/Col_de_l%27Iseran) in France, with my fellow [Kings of the Mountains](https://en.wikipedia.org/wiki/King_of_the_Mountains) and alpinists: Jim, Dan, Doug and Dan. Rest in Peace Dan, you were a fantastic companion and we all miss you terribly.
 
-Special thanks my friend, former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for leading by example, see figure \@ref(fig:uptown-funk-fig). Aidan's approach inspired the ongoing musical experiment that is [Tuning Complete](http://www.cs.man.ac.uk/~hulld/research.html#tuningcomplete).
+<!--Branwen Munn-->
+
+Special thanks my friend, former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for leading by example, see figure \@ref(fig:uptown-funk-fig). Aidan's performance inspired the ongoing musical experiment that is [Tuning Complete](http://www.cs.man.ac.uk/~hulld/research.html#tuningcomplete).
 
 ```{r uptown-funk-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionuptown)"}
 knitr::include_graphics("images/youtube-mocs-uptown-funk.png")
 ```
-(ref:captionuptown) Year 11 leavers of Melksham Oak Community School (MOCS) dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) in 2015 with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM)
+(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) in 2015 with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM)
 
 Thanks to all my teachers at St Laurence school, some of whom can be seen in figure \@ref(fig:fitzmaurice-fig).
 
 ```{r fitzmaurice-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfitzmaurice)"}
 knitr::include_graphics("images/fitzmaurice-grammar-school.jpeg")
 ```
-(ref:captionfitzmaurice) The staff of [Fitzmaurice Grammar School](https://en.wikipedia.org/wiki/Fitzmaurice_Grammar_School) shortly before it merged with Trinity [secondary modern school](https://en.wikipedia.org/wiki/Secondary_modern_school) to form [St Laurence school](https://en.wikipedia.org/wiki/St_Laurence_School) in 1980. Back row, left to right, Alistair Thomson, Tony Hull, Geoff Swift, Peter Knight, John Warburton, John Blowers, Stuart Ferguson, Tim Wilbur, Bob Hawkes, Harry Haddon, John Blake. Centre: Joan Davis, Lynne Powell, Doug Anderson, Colin Steele, Virginia Evans, Joan Van Ryssen, Margaret Osbourne, Mireille (French Assistante), Sally Burden, Margaret Gadd. Front: Ken Revill, Marilyn Maundrell, Noreen Brady, Sid Johnson, Gerald Reid (Headmaster), Meg Tottle-Smith, Enid Wicheard, Diane Satterthwaite, Liz Buchanan, Margaret Hore. Picture via Keith Berry. [@bradfordonavon]
+(ref:captionfitzmaurice) The staff of [Fitzmaurice Grammar School](https://en.wikipedia.org/wiki/Fitzmaurice_Grammar_School) shortly before it merged with Trinity [secondary modern school](https://en.wikipedia.org/wiki/Secondary_modern_school) to formed the comprehensive [St Laurence school](https://en.wikipedia.org/wiki/St_Laurence_School) in 1980. Back row, left to right, Alistair Thomson, Tony Hull, Geoff Swift, Peter Knight, John Warburton, John Blowers, Stuart Ferguson, Tim Wilbur, Bob Hawkes, Harry Haddon, John Blake. Centre: Joan Davis, Lynne Powell, Doug Anderson, Colin Steele, Virginia Evans, Joan Van Ryssen, Margaret Osbourne, Mireille (French Assistante), Sally Burden, Margaret Gadd. Front: Ken Revill, Marilyn Maundrell, Noreen Brady, Sid Johnson, Gerald Reid (Headmaster), Meg Tottle-Smith, Enid Wicheard, Diane Satterthwaite, Liz Buchanan, Margaret Hore. Picture via Keith Berry. [@bradfordonavon]
 
-Thanks to the rest of my St Laurence school teachers not pictured in figure \@ref(fig:fitzmaurice-fig). In alphabetical order: Phil Arthur, Sally Arthur, Maggie Bignell, Jackie Bolton, Dave Brush, Andrew Butterworth, Cathy Cooper, Ed Corrin, Myra Ettridge, Stuart Ferguson, Ms. Gledhill, Roger Greenwood, Amanda Hodges, Steve Hollas, Mr Jones, Madame Lindsay, Karen Long, Sheila Macdonald, Simon Mitchell, Tim Noble, Roger Norgrove, Dave Pegg, Angela Pendennis, Steve Stretch, Mr Sadler, Mike Sullivan, Phil Smith, Beryl Tucker, James Wetz and Bill Wheeler.
+Thanks to the rest of my St Laurence school teachers not pictured in figure \@ref(fig:fitzmaurice-fig). In alphabetical order: Phil Arthur, Sally Arthur, Maggie Bignell, Jackie Bolton, Dave Brush, Andrew Butterworth, Cathy Cooper, Ed Corrin, Myra Ettridge, Ms. Gledhill, Roger Greenwood, Amanda Hodges, Steve Hollas, Mr Jones, Madame Lindsay, Karen Long, Sheila Macdonald, Simon Mitchell, Tim Noble, Roger Norgrove, Dave Pegg, Angela Pendennis, Steve Stretch, Mr Sadler, Mike Sullivan, Phil Smith, Beryl Tucker, James Wetz and Bill Wheeler.
 
 ```{r laurence-fig, echo = FALSE, fig.show = "hold", out.width = "9.09%", fig.cap = ""}
 knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 ```
 <!--can't use SVG without setting background color knitr::include_graphics(rep("images/st-laurence-school-logo.svg", 5))-->
 
-Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Mrs Clary, Mr Clay, Mr Fleming, Mr Jackson, Val Payne, Mrs Sheldon, Hugh Solomon, Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the foundations laid in primary school.
+Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming, Mr Jackson, Val Payne, Miss Sheldon, Hugh Solomon, Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the foundations laid in primary school.
 
 <!--It flows from our commitment to regard “people as our treasure” (the basis of our vision, mission and values).-->
 
