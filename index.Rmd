@@ -524,7 +524,7 @@ Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a co
 ```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
 knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
 ```
-(ref:captionbradlads) Crossing the highest paved mountain pass in Europe, the [Col de l'Iseran](https://en.wikipedia.org/wiki/Col_de_l%27Iseran) in France, with my fellow [Kings of the Mountains](https://en.wikipedia.org/wiki/King_of_the_Mountains) and alpinists: Jim, Dan, Doug and Dan. Rest in Peace Dan, you were a fantastic companion and we all miss you terribly.
+(ref:captionbradlads) Crossing the highest paved mountain pass in Europe, the [Col de l'Iseran](https://en.wikipedia.org/wiki/Col_de_l%27Iseran) in France, with my fellow [Kings of the Mountains](https://en.wikipedia.org/wiki/King_of_the_Mountains) and alpinists: Jim, Dan, Doug and Dan. Rest in Peace Dan, you were a fantastic companion and we all miss you terribly. 
 
 <!--Branwen Munn-->
 
@@ -549,7 +549,7 @@ knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 ```
 <!--can't use SVG without setting background color knitr::include_graphics(rep("images/st-laurence-school-logo.svg", 5))-->
 
-Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming, Mr Jackson, Val Payne, Miss Sheldon, Hugh Solomon, Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the foundations laid in primary school.
+Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming, Mr Jackson, Val Payne, Miss Sheldon, Hugh Solomon, Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the foundations laid in primary school. [It takes a village](https://en.wikipedia.org/wiki/It_takes_a_village) to raise a child. [@clinton]
 
 <!--It flows from our commitment to regard “people as our treasure” (the basis of our vision, mission and values).-->
 
@@ -596,7 +596,7 @@ This means you can copy and redistribute the written material provided that:
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/), [fair use](https://en.wikipedia.org/wiki/Fair_use) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details of the pictures licence.
+The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/), [fair use](https://en.wikipedia.org/wiki/Fair_use) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details for that images licence.
 
 ```{r kapow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkapow)"}
 knitr::include_graphics("images/CC-attribution-1.png")
