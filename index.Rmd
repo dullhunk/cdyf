@@ -578,9 +578,13 @@ knitr::include_graphics("images/fitzmaurice-grammar-school.jpeg")
 
 Thanks to the rest of my St Laurence school teachers not pictured in figure \@ref(fig:fitzmaurice-fig). In alphabetical order: Phil Arthur, Sally Arthur, Maggie Bignell, [Jackie Bolton](https://www.wiltshiretimes.co.uk/news/11774162.the-life-of-mrs-jackie-bolton/), Tony Brooks, Dave Brush, [Andrew Butterworth](https://www.youtube.com/watch?v=Hg9irmFwFr8), Cathy Cooper, Ed Corrin, Brian Ellis, Myra Ettridge, Ms. Gledhill, Roger Greenwood, Amanda Hodges, Steve Hollas, Mr Jones, Madame Lindsay, Karen Long, Sheila Macdonald, Simon Mitchell, Tim Noble, Roger Norgrove, Dave Pegg, Angela Pendennis, Steve Stretch, Mr Sadler, Mike Sullivan, Phil Smith, Beryl Tucker, [James Wetz](https://www.sourcewatch.org/index.php/James_Wetz) and Bill Wheeler.
 
-```{r laurence-fig, echo = FALSE, fig.show = "hold", out.width = "9.09%", fig.cap = "The badge of St. Laurence School  is an adaptation of the Fitzmaurice badge, the two [gudgeon fish](https://en.wikipedia.org/wiki/Gudgeon_(fish)) symbolising the union of the two schools it was created from: Trinity secondary modern school and Fitzmaurice Grammar School"}
+```{r laurence-fig, echo = FALSE, fig.show = "hold", out.width = "9.09%", fig.cap = "(ref:captiongudgeon)"}
 knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 ```
+
+(ref:captiongudgeon) The badge of St. Laurence School is an adaptation of the Fitzmaurice badge with two [gudgeon fish](https://en.wikipedia.org/wiki/Gudgeon_(fish)) symbolising the union of the two schools it was created from: Trinity secondary modern school and Fitzmaurice Grammar School
+
+
 <!--can't use SVG without setting background color knitr::include_graphics(rep("images/st-laurence-school-logo.svg", 5))-->
 
 Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming,  Mr Jackson, Betty Knowles, Val Payne, Miss Sheldon, Hugh Solomon, Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the crucial foundations laid in primary school. It takes a whole community (a village) to raise a child, see figure \@ref(fig:clinton-fig)
