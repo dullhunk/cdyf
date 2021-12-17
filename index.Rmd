@@ -420,7 +420,7 @@ So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Gr
 
 ### Thank you Stockport {#stockport}
 
-Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Keith Doran and other members of the *alternative staff room* for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
+Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Keith Doran and other members of the [alternative staff room](https://www.elizabethanstockport.co.uk/) for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
 
 ```{r st-annes-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstannes)"}
 knitr::include_graphics("images/st-annes-rc-high-school.jpg")
@@ -461,7 +461,7 @@ Thanks to [Steven A. Hill](https://en.wikipedia.org/wiki/Steven_A._Hill), [Jane 
 So thanks Oxford for the dreaming spires, see figure \@ref(fig:oxford-fig). 🙏
 
 ### Thank you Cambridge {#cambridge}
-Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), Nico Adams, Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, Kenneth Haug, [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff) and Mark Rijnbeek at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) for looking after me during my year in Cambridge.
+Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), Nico Adams, Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, Kenneth Haug, [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff) and Mark Rijnbeek at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI) for looking after me during my year in Cambridge.
 
 ```{r cambridge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncambridge)"}
 knitr::include_graphics("images/ebi-cambridge.png")
@@ -471,14 +471,14 @@ knitr::include_graphics("images/ebi-cambridge.png")
 
 So thanks Cambridge for a fen-tastic time in [Silicon Fen](https://en.wikipedia.org/wiki/Silicon_Fen). 🙏
 
-### Thank you Manchester {#mancs}
-Thanks to Greater Mancunians Rob Aspin, Paul Bason, Martin Bryant, Gemma Cameron, Darren Dancey, David Edmundson-Bird, Sherelle Fairweather, Shaun Fensom, Tony Foggett, Katie Gallagher, Emma Grant, David Haikney, Ross Keeping, Tony McGrath, Chris Marsh, Geraint North, Martyn Spink, Julian Tait, Rachel Thompson, Wesley Verne, Paul Vlissidis and Travis Walton for friendly Northern support and advice.
+### Thank you Manchester {#manchester}
+Thanks to Greater Mancunians Rob Aspin, Paul Bason, Martin Bryant, Gemma Cameron, Matthew Clark, Darren Dancey, Craig Dean, David Edmundson-Bird, Sherelle Fairweather, Shaun Fensom, Tony Foggett, Katie Gallagher, Emma Grant, David Haikney, Daniel Jamieson, Matt Jarvis, Ross Keeping, Val Kelly, Tony McGrath, Chris Marsh, Geraint North, Joe Sparrow, Martyn Spink, Julian Tait, Rachel Thompson, Wesley Verne, Paul Vlissidis and Travis Walton for friendly Northern support and advice.
 
 ```{r waggle-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionwaggle)"}
 knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
 ```
 
-(ref:captionwaggle) Bees symbolise both community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. We also use it for our Wednesday [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) jobs newsletter for students. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
+(ref:captionwaggle) Bees symbolise both community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. We also use bees for our weekly Wednesday [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) jobs newsletter for students. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
 
 
 So thanks Manchester for being Mancunian.^[Manc-you very much. Sorry, can't resist. I'll get my coat...] 🙏
@@ -558,7 +558,7 @@ knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thank you St Laurence {#st-laurence}  
-Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud and lucky to have grown up in. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, drinking and camaraderie with over the years. I can't name check them all here but you can see the cycling in figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure, gig, match, session or meetup.
+Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud and lucky to have grown up in. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, drinking and camaraderie with over the years. I don't want to name check you all here but *Vive le Tour*, see figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure, gig, match, session or meetup.
 
 ```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
 knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
@@ -587,12 +587,11 @@ Thanks to the rest of my St Laurence school teachers not pictured in figure \@re
 knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 ```
 
-(ref:captiongudgeon) The badge of St. Laurence School is an adaptation of the Fitzmaurice badge with two [gudgeon fish](https://en.wikipedia.org/wiki/Gudgeon_(fish)) symbolising the union of the two schools it was created from: Trinity secondary modern school and Fitzmaurice Grammar School
-
+(ref:captiongudgeon) The badge of St. Laurence School is an adaptation of the Fitzmaurice badge with two [gudgeon fish](https://en.wikipedia.org/wiki/Gudgeon_(fish)) symbolising the union of the two schools it was created from: Trinity secondary modern school and Fitzmaurice Grammar School  
 
 <!--can't use SVG without setting background color knitr::include_graphics(rep("images/st-laurence-school-logo.svg", 5))-->
 
-Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming,  Mr Jackson, Betty Knowles, Val Payne, Miss Sheldon, Hugh Solomon, Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the crucial foundations laid in primary school. It takes a whole community (a village) to raise a child, see figure \@ref(fig:clinton-fig)
+Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming,  Mr Jackson, [Betty Knowles](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/18007859.Betty_Knowles/), [Valerie Payne](https://www.dignityfunerals.co.uk/funeral-notices/21-11-2020-valerie-payne/), Miss Sheldon, [Hugh Solomon](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/9828233.Hugh_Solomon/), Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the crucial foundations laid in primary school. It takes a whole community (a village) to raise a child, see figure \@ref(fig:clinton-fig)
 <!--Cathy George: Mrs George don't think she taught me-->
 ```{r clinton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclinton)"}
 knitr::include_graphics("images/hillary-clinton.jpeg")
@@ -620,7 +619,7 @@ knitr::include_graphics("images/faces.jpeg")
 ```
 (ref:captionfaces) Hindsight is a great teacher. I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)) [@faces] I've written some of what I know now in this guidebook, I hope you find it useful.
 
-This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
+This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights and exercises useful. I've sat on both sides of the interview table, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
 Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers. I've documented some of what they taught me, so reading this book may help you learn from some of their successes and failures.
 
