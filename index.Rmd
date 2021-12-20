@@ -277,7 +277,9 @@ The content of this book is based on hundreds of conversations I have had with s
 ::: {.rmdnote}
 (ref:codingcomment)
 
-This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays) and \@ref(signposts3). It also serves as a live demonstration of a public [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). If you want to cut to the chase of this book you can skip this and go straight to chapter \@ref(rebooting).
+This acknowledgements section is long because I practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a public [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Gratitude, both public and private, has been proven to improve mental health, see \@ref(signposts3).
+
+If you want to cut to the chase of this book you can skip this and go straight to chapter \@ref(rebooting).
 
 :::
 
@@ -491,15 +493,15 @@ knitr::include_graphics("images/ebi-cambridge.png")
 So thanks Cambridge for a really fen-tastic time in [Silicon Fen](https://en.wikipedia.org/wiki/Silicon_Fen). 🙏
 
 ### Thank you Coventry {#coventry}
-Thanks to [Phil Harris](https://www.coventry.ac.uk/research/research-people/professor-phil-harris/), Steph Harris, Alan Gear, Jackie Gear, Ally, Neil, Esther, Graham, [Jeremy Cherfas](https://www.jeremycherfas.net/), Morgen Cheshire, Lady Godiva (see figure \@ref(fig:coventry-fig)), [Margi Lennartsson Turner](https://pureportal.coventry.ac.uk/en/persons/margi-lennartsson-turner) at the [Henry Doubleday Research Association](https://en.wikipedia.org/wiki/Henry_Doubleday_Research_Association) and Coventry University for hosting my industrial experience year.  
+Thanks to [Phil Harris](https://www.coventry.ac.uk/research/research-people/professor-phil-harris/), Steph Harris, Alan Gear, Jackie Gear, Ally, Neil, Esther, Graham, [Jeremy Cherfas](https://www.jeremycherfas.net/), [Morgen Cheshire](https://cheshirenonprofitlaw.com/people/team/morgen/), Lady Godiva (see figure \@ref(fig:coventry-fig)), [Margi Lennartsson Turner](https://pureportal.coventry.ac.uk/en/persons/margi-lennartsson-turner) at the Henry Doubleday Research Association (HDRA) and Coventry University for hosting my industrial experience year during my undergraduate degree.
 
 ```{r coventry-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncoventry)"}
 knitr::include_graphics("images/godiva.jpeg")
 ```
 
-(ref:captioncoventry) Covered only in her long hair, [Lady Godiva](https://en.wikipedia.org/wiki/Lady_Godiva) rode naked through the streets of Coventry to protest about taxes. Painting of Godiva by [John Collier](https://en.wikipedia.org/wiki/John_Collier_(painter)) adapted from an original on Wikimedia Commons [w.wiki/4aCU](https://w.wiki/4aCU) using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captioncoventry) Covered only in her long hair, [Lady Godiva](https://en.wikipedia.org/wiki/Lady_Godiva) rode naked through the streets of Coventry in protest about taxation. Painting of Godiva by [John Collier](https://en.wikipedia.org/wiki/John_Collier_(painter)) adapted from an original on Wikimedia Commons [w.wiki/4aCU](https://w.wiki/4aCU) using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So thanks Coventry for a [magnificent cathedral](https://en.wikipedia.org/wiki/Coventry_Cathedral) and the industrial experience. 🙏
+So thanks Coventry for naked women in horseback, a [magnificent cathedral](https://en.wikipedia.org/wiki/Coventry_Cathedral) and the industrial experience. 🙏
 
 ### Thank you Manchester {#manchester}
 Thanks to Greater Mancunians Rob Aspin, Paul Bason, Martin Bryant, Gemma Cameron, Matthew Clark, Darren Dancey, Craig Dean, David Edmundson-Bird, Sherelle Fairweather, Shaun Fensom, Tony Foggett, Katie Gallagher, Emma Grant, David Haikney, Daniel Jamieson, Matt Jarvis, Ross Keeping, Val Kelly, Tony McGrath, Chris Marsh, Geraint North, Joe Sparrow, Martyn Spink, Julian Tait, Rachel Thompson, Wesley Verne, Paul Vlissidis and Travis Walton for friendly Northern support and advice.
