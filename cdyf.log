@@ -1,0 +1,2311 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.10)  27 DEC 2021 10:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cdyf.tex
+(./cdyf.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (/Users/duncan/Library/TinyTeX/texmf-dist/tex
+/latex/base/book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks17
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.s
+ty (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.d
+ef
+File: l3backend-xetex.def 2021-10-18 L3 backend support: XeTeX
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count266
+\l__color_backend_stack_int=\count267
+\g__color_backend_stack_int=\count268
+\g__graphics_track_int=\count269
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count270
+\g__pdf_backend_annotation_int=\count271
+\g__pdf_backend_link_int=\count272
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-x
+etex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.st
+y
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2
+e.sty
+Package: l3keys2e 2021-11-12 LaTeX2e option processing using LaTeX3 keys
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count273
+\l__fontspec_language_int=\count274
+\l__fontspec_strnum_int=\count275
+\l__fontspec_tmp_int=\count276
+\l__fontspec_tmpa_int=\count277
+\l__fontspec_tmpb_int=\count278
+\l__fontspec_tmpc_int=\count279
+\l__fontspec_em_int=\count280
+\l__fontspec_emdef_int=\count281
+\l__fontspec_strong_int=\count282
+\l__fontspec_strongdef_int=\count283
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) 
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count284
+\g__um_fonts_used_int=\count285
+\l__um_primecount_int=\count286
+\g__um_primekern_muskip=\muskip17
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-t
+able.tex))) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.s
+ty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys
+.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count287
+\Hy@pagecounter=\count288
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-langpatch
+es.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count289
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count290
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen152
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count291
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count292
+\c@Item=\count293
+\c@Hfootnote=\count294
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box53
+\c@Hy@AnnotLevel=\count295
+\HyField@AnnotCount=\count296
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfileche
+ck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecount
+er.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/11/24\nobreakspace {} 4.1a\nobreakspace {}verbatim text 
+(tvz,hv)
+\FV@CodeLineNo=\count299
+\FV@InFile=\read2
+\FV@TabBox=\box54
+\c@FancyVerbLine=\count300
+\FV@StepNumber=\count301
+\FV@OutFile=\write3
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip53
+\fb@frw=\dimen155
+\fb@frh=\dimen156
+\FrameRule=\dimen157
+\FrameSep=\dimen158
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count302
+\LTcapwidth=\dimen159
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count303
+\LT@rows=\count304
+\c@LT@tables=\count305
+\c@LT@chunks=\count306
+\LT@p@ftn=\toks22
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count307
+\@cmidlb=\count308
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count309
+\@lastruleclass=\count310
+\@thisrulewidth=\dimen172
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count311
+\calc@Bcount=\count312
+\calc@Adimen=\dimen173
+\calc@Bdimen=\dimen174
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count313
+\calc@Cskip=\skip60
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count314
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box60
+\fn@width=\dimen175
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box61
+\UL@hyphenbox=\box62
+\UL@skip=\skip61
+\UL@hook=\toks23
+\UL@height=\dimen178
+\UL@pe=\count315
+\UL@pixel=\dimen179
+\ULC@box=\box63
+Package: ulem 2019/11/18
+\ULdepth=\dimen180
+) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip62
+\bibsep=\skip63
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count316
+) (./cdyf.aux)
+\openout1 = `cdyf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 125.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 125.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 125.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 125.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 125.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 125.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 125.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
+(fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
+(fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
+(fontspec)             \fontdimen 13\font =3.63pt\relax \fontdimen 14\font
+(fontspec)             =3.63pt\relax \fontdimen 15\font =2.89pt\relax
+(fontspec)             \fontdimen 16\font =2.47pt\relax \fontdimen 17\font
+(fontspec)             =2.47pt\relax \fontdimen 18\font =2.5pt\relax
+(fontspec)             \fontdimen 19\font =2.0pt\relax \fontdimen 22\font
+(fontspec)             =2.5pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
+ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
+.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
+t=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
+(fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
+(fontspec)             \fontdimen 11\font =6.86pt\relax \fontdimen 12\font
+(fontspec)             =3.45pt\relax \fontdimen 13\font =3.63pt\relax
+(fontspec)             \fontdimen 14\font =3.63pt\relax \fontdimen 15\font
+(fontspec)             =2.89pt\relax \fontdimen 16\font =2.47pt\relax
+(fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
+(fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
+(fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 125.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 125.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 125.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 125.
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
+(fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
+(fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
+(fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
+(fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 125.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 125
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 125.
+Package hyperref Info: Link coloring OFF on input line 125.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlest
+ring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count317
+)
+LaTeX Info: Redefining \ref on input line 125.
+LaTeX Info: Redefining \pageref on input line 125.
+LaTeX Info: Redefining \nameref on input line 125.
+(./cdyf.out) (./cdyf.out)
+\@outlinefile=\write4
+\openout4 = `cdyf.out'.
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 127.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+27.
+(/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.0011pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00073pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 127.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 127.
+[1
+
+
+] [2
+
+] (./cdyf.toc
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 2.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 2.
+[3] [4] [5] [6] [7] [8])
+\tf@toc=\write5
+\openout5 = `cdyf.toc'.
+
+[9] [10
+
+]
+File: images/Coding your future - Title.png Graphic file (type bmp)
+<images/Coding your future - Title.png>
+Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏿 (U+1F3FF) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏽 (U+1F3FD) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏿 (U+1F3FF) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+[11]
+File: images/alicequotation.jpeg Graphic file (type bmp)
+<images/alicequotation.jpeg>
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 184.
+[12]
+File: images/Hello-my-name-is-Duncan.png Graphic file (type bmp)
+<images/Hello-my-name-is-Duncan.png>
+
+Underfull \vbox (badness 3068) has occurred while \output is active []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 228--230
+
+ []
+
+[14]
+File: images/fish-gutting.jpeg Graphic file (type bmp)
+<images/fish-gutting.jpeg>
+Missing character: There is no 🐟 (U+1F41F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[15]
+File: images/Course Map V3.png Graphic file (type bmp)
+<images/Course Map V3.png>
+File: images/brooklyn-bridge-blueprint.png Graphic file (type bmp)
+<images/brooklyn-bridge-blueprint.png>
+[16]
+File: images/manhattan_bridge.png Graphic file (type bmp)
+<images/manhattan_bridge.png>
+[17]
+File: images/clifton.png Graphic file (type bmp)
+<images/clifton.png>
+[18]
+File: images/goldengate.png Graphic file (type bmp)
+<images/goldengate.png>
+[19]
+File: images/critical-friend.jpeg Graphic file (type bmp)
+<images/critical-friend.jpeg>
+[20]
+Missing character: There is no 😜 (U+1F61C) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Underfull \hbox (badness 4429) in paragraph at lines 514--516
+[]\TU/lmr/m/n/10 Fork the repository, make changes and submit a pull request
+ []
+
+[21]
+File: images/standing-on-the-shoulders-of-students.png Graphic file (type bmp)
+<images/standing-on-the-shoulders-of-students.png>
+[22]
+File: images/bbcbreakfastsofa.png Graphic file (type bmp)
+<images/bbcbreakfastsofa.png>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[23]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🤬 (U+1F92C) in font [lmroman10-regular]:mapping=
+tex-text;!
+[24]
+File: images/graduation-ceremony-2013.png Graphic file (type bmp)
+<images/graduation-ceremony-2013.png>
+Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=
+tex-text;!
+[25]
+File: images/msc-2003.jpeg Graphic file (type bmp)
+<images/msc-2003.jpeg>
+[26]
+File: images/everyone-has-a-book-inside-them.jpeg Graphic file (type bmp)
+<images/everyone-has-a-book-inside-them.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[27]
+Missing character: There is no ✊ (U+270A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🏽 (U+1F3FD) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ✊ (U+270A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🏽 (U+1F3FD) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/sigcse.jpeg Graphic file (type bmp)
+<images/sigcse.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[28] [29]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/bath-panorama.jpeg Graphic file (type bmp)
+<images/bath-panorama.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[30]
+File: images/shaftesbury.jpg Graphic file (type bmp)
+<images/shaftesbury.jpg>
+Missing character: There is no 🍞 (U+1F35E) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/youtube-alom.png Graphic file (type bmp)
+<images/youtube-alom.png>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[31]
+File: images/st-annes-rc-high-school.jpg Graphic file (type bmp)
+<images/st-annes-rc-high-school.jpg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[32] [33]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/dreaming-spires-oxford-sunrise.png Graphic file (type bmp)
+<images/dreaming-spires-oxford-sunrise.png>
+[34]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/european-bioinformatics-institute.jpeg Graphic file (type bmp)
+<images/european-bioinformatics-institute.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[35]
+File: images/Wednesday_Waggle.png Graphic file (type bmp)
+<images/Wednesday_Waggle.png>
+File: images/Wednesday_Waggle.png Graphic file (type bmp)
+<images/Wednesday_Waggle.png>
+File: images/Wednesday_Waggle.png Graphic file (type bmp)
+<images/Wednesday_Waggle.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--859
+[][] []
+ []
+
+Missing character: There is no 🐝 (U+1F41D) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🐝 (U+1F41D) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/godiva.jpeg Graphic file (type bmp)
+<images/godiva.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[36]
+File: images/abisko.jpeg Graphic file (type bmp)
+<images/abisko.jpeg>
+Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇪 (U+1F1EA) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/moravian-insitute.jpg Graphic file (type bmp)
+<images/moravian-insitute.jpg>
+[37] [38]
+Missing character: There is no 🇮 (U+1F1EE) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇳 (U+1F1F3) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[39]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😉 (U+1F609) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/os_couples.jpeg Graphic file (type bmp)
+<images/os_couples.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/wikipedians.jpeg Graphic file (type bmp)
+<images/wikipedians.jpeg>
+[40]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[41]
+File: images/bryan-mathers-tedx-galway.png Graphic file (type bmp)
+<images/bryan-mathers-tedx-galway.png>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/kings-of-the-mountains-col-deliseran.png Graphic file (type bmp)
+<images/kings-of-the-mountains-col-deliseran.png>
+Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/youtube-mocs-uptown-funk.png Graphic file (type bmp)
+<images/youtube-mocs-uptown-funk.png>
+[42]
+File: images/fitzmaurice-grammar-school.jpeg Graphic file (type bmp)
+<images/fitzmaurice-grammar-school.jpeg>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+File: images/st-laurence-school-logo.png Graphic file (type bmp)
+<images/st-laurence-school-logo.png>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+[43] [44]
+File: images/hillary-clinton.jpeg Graphic file (type bmp)
+<images/hillary-clinton.jpeg>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[45]
+File: images/radipole-lake.jpeg Graphic file (type bmp)
+<images/radipole-lake.jpeg>
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🇬 (U+1F1EC) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇪 (U+1F1EA) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇺 (U+1F1FA) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇬 (U+1F1EC) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇧 (U+1F1E7) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/acropolis-at-night.png Graphic file (type bmp)
+<images/acropolis-at-night.png>
+Missing character: There is no θ (U+03B8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ή (U+03AE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no θ (U+03B8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ή (U+03AE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no γ (U+03B3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ώ (U+03CE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[46]
+File: images/faces.jpeg Graphic file (type bmp)
+<images/faces.jpeg>
+[47]
+Underfull \hbox (badness 1571) in paragraph at lines 1156--1157
+\TU/lmr/m/n/10 The \TU/lmr/m/it/10 text \TU/lmr/m/n/10 of this guidebook is pub
+lished under the []Creative Commons
+ []
+
+File: images/by-nc-nd.png Graphic file (type bmp)
+<images/by-nc-nd.png>
+[48]
+File: images/CC-attribution-1.png Graphic file (type bmp)
+<images/CC-attribution-1.png>
+[49] [50] [51
+
+] [52]
+Chapter 1.
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🐇 (U+1F407) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/Rabbit-hole.png Graphic file (type bmp)
+<images/Rabbit-hole.png>
+[53
+
+] [54]
+File: images/lemninspire.jpeg Graphic file (type bmp)
+<images/lemninspire.jpeg>
+
+Underfull \vbox (badness 2057) has occurred while \output is active []
+
+[55]
+File: images/nobody-cares-about-your-career-except-you.jpeg Graphic file (type 
+bmp)
+<images/nobody-cares-about-your-career-except-you.jpeg>
+[56]
+File: images/blessed-are-the-geeks.jpeg Graphic file (type bmp)
+<images/blessed-are-the-geeks.jpeg>
+[57]
+File: cdyf_files/figure-latex/lotsofgrads-fig-1.pdf Graphic file (type pdf)
+<use cdyf_files/figure-latex/lotsofgrads-fig-1.pdf>
+[58] [59]
+File: images/procrastinator.jpeg Graphic file (type bmp)
+<images/procrastinator.jpeg>
+[60]
+Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Overfull \hbox (12.00005pt too wide) in alignment at lines 1431--1442
+ [] [] [] 
+ []
+
+
+Overfull \hbox (12.00005pt too wide) in alignment at lines 1442--1452
+ [] [] [] 
+ []
+
+
+Overfull \hbox (12.00005pt too wide) in alignment at lines 1452--1504
+ [] [] [] 
+ []
+
+[61]
+File: images/Gimme Some Credit - Sketch.png Graphic file (type bmp)
+<images/Gimme Some Credit - Sketch.png>
+[62]
+File: images/shelfie.jpg Graphic file (type bmp)
+<images/shelfie.jpg>
+
+Underfull \vbox (badness 3815) has occurred while \output is active []
+
+[63]
+File: images/signposting.jpeg Graphic file (type bmp)
+<images/signposting.jpeg>
+[64]
+Missing character: There is no 🗺 (U+1F5FA) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🧭 (U+1F9ED) in font [lmroman10-regular]:mapping=
+tex-text;!
+[65]
+File: images/agile-vs-waterfall.jpeg Graphic file (type bmp)
+<images/agile-vs-waterfall.jpeg>
+[66] [67]
+File: images/captain-jean-luc-picard.jpeg Graphic file (type bmp)
+<images/captain-jean-luc-picard.jpeg>
+File: images/tldr.jpeg Graphic file (type bmp)
+<images/tldr.jpeg>
+Missing character: There is no 🇬 (U+1F1EC) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇬 (U+1F1EC) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+[68] [69] [70]
+Chapter 2.
+Missing character: There is no 🏆 (U+1F3C6) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/goal of education.jpg Graphic file (type bmp)
+<images/goal of education.jpg>
+[71
+
+] [72] [73]
+Missing character: There is no 🧠 (U+1F9E0) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Overfull \hbox (17.09998pt too wide) in paragraph at lines 1846--1847
+[]\TU/lmtt/m/n/10 Woman * Genderqueer * Man \TU/lmr/m/n/10 see []en.wikipedia.o
+rg/wiki/Gender_binary[]
+ []
+
+Missing character: There is no 🎨 (U+1F3A8) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Overfull \hbox (81.10999pt too wide) in paragraph at lines 1854--1855
+[]\TU/lmtt/m/n/10 Feminine * Androgynous * Masculine \TU/lmr/m/n/10 see []en.wi
+kipedia.org/wiki/Gender_expression[] 
+ []
+
+Missing character: There is no ⚧ (U+26A7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ❤ (U+2764) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Overfull \hbox (143.63998pt too wide) in paragraph at lines 1870--1871
+[]\TU/lmtt/m/n/10 Asexual * Heterosexual * Bisexual * Homosexual \TU/lmr/m/n/10
+ see []en.wikipedia.org/wiki/Sexual_orientation[]
+ []
+
+File: images/Genderbread-Person-v4.png Graphic file (type bmp)
+<images/Genderbread-Person-v4.png>
+[74] [75]
+File: images/storytelling.jpeg Graphic file (type bmp)
+<images/storytelling.jpeg>
+[76]
+File: images/Head, heart and hands.png Graphic file (type bmp)
+<images/Head, heart and hands.png>
+Missing character: There is no 生 (U+751F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no き (U+304D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 甲 (U+7532) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 斐 (U+6590) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[77]
+File: images/IKIGAI-visual-thinkery.png Graphic file (type bmp)
+<images/IKIGAI-visual-thinkery.png>
+File: images/Know who you are.png Graphic file (type bmp)
+<images/Know who you are.png>
+[78] [79] [80]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[81]
+File: images/youtube-bronnie.png Graphic file (type bmp)
+<images/youtube-bronnie.png>
+File: images/youtube-bolles.png Graphic file (type bmp)
+<images/youtube-bolles.png>
+[82] [83]
+File: images/you-dont-know-you-dont-know.png Graphic file (type bmp)
+<images/you-dont-know-you-dont-know.png>
+[84] [85] [86
+
+]
+Chapter 3.
+Missing character: There is no 😀 (U+1F600) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/alan-turing-runner.jpg Graphic file (type bmp)
+<images/alan-turing-runner.jpg>
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[87] [88]
+File: images/turunning-machine.jpeg Graphic file (type bmp)
+<images/turunning-machine.jpeg>
+[89]
+File: images/Free body diagram.png Graphic file (type bmp)
+<images/Free body diagram.png>
+Missing character: There is no 😰 (U+1F630) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😎 (U+1F60E) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙂 (U+1F642) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙁 (U+1F641) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😐 (U+1F610) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🎈 (U+1F388) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😰 (U+1F630) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😎 (U+1F60E) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙂 (U+1F642) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🙁 (U+1F641) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😐 (U+1F610) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🎈 (U+1F388) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/youtube-anxiety.png Graphic file (type bmp)
+<images/youtube-anxiety.png>
+
+Underfull \vbox (badness 2617) has occurred while \output is active []
+
+[90]
+File: images/youtube-blackdog.png Graphic file (type bmp)
+<images/youtube-blackdog.png>
+File: images/citalopram.jpg Graphic file (type bmp)
+<images/citalopram.jpg>
+[91] [92]
+File: images/Look after yourself.png Graphic file (type bmp)
+<images/Look after yourself.png>
+[93]
+File: images/youtube-santos.png Graphic file (type bmp)
+<images/youtube-santos.png>
+[94]
+Overfull \hbox (12.59201pt too wide) in paragraph at lines 2435--2437
+[]\TU/lmr/m/n/10 counselling services, for example contact []counsellingservice
+.manchester.ac.uk[].
+ []
+
+[95]
+File: images/youtube-nightline.png Graphic file (type bmp)
+<images/youtube-nightline.png>
+[96]
+File: images/youtube-wax.png Graphic file (type bmp)
+<images/youtube-wax.png>
+[97]
+File: images/youtube-we-are-mind.png Graphic file (type bmp)
+<images/youtube-we-are-mind.png>
+File: images/youtube-student-minds.png Graphic file (type bmp)
+<images/youtube-student-minds.png>
+File: images/youtube-togetherall.png Graphic file (type bmp)
+<images/youtube-togetherall.png>
+[98] [99]
+File: images/the-fixed-mindset.png Graphic file (type bmp)
+<images/the-fixed-mindset.png>
+[100]
+File: images/youtube-dweck.png Graphic file (type bmp)
+<images/youtube-dweck.png>
+[101]
+File: images/youtube-haig.png Graphic file (type bmp)
+<images/youtube-haig.png>
+File: images/you-dont-have-to-be-on-social-media.png Graphic file (type bmp)
+<images/you-dont-have-to-be-on-social-media.png>
+File: images/you-dont-have-to-be-on-social-media.png Graphic file (type bmp)
+<images/you-dont-have-to-be-on-social-media.png>
+File: images/you-dont-have-to-be-on-social-media.png Graphic file (type bmp)
+<images/you-dont-have-to-be-on-social-media.png>
+[102]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[103]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[104]
+Chapter 4.
+Missing character: There is no ✍ (U+270D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+File: images/Avoiding writing.png Graphic file (type bmp)
+<images/Avoiding writing.png>
+[105
+
+] [106]
+File: images/Achilles-Heel-to-Superpower.png Graphic file (type bmp)
+<images/Achilles-Heel-to-Superpower.png>
+File: images/Hard and soft skills.png Graphic file (type bmp)
+<images/Hard and soft skills.png>
+[107] [108]
+Overfull \hbox (13.45006pt too wide) in paragraph at lines 2779--2788
+ [][] 
+ []
+
+[109]
+File: images/the-pen-is-mightier-than-the-sword.jpeg Graphic file (type bmp)
+<images/the-pen-is-mightier-than-the-sword.jpeg>
+[110] [111]
+File: images/rosetta-stone.jpeg Graphic file (type bmp)
+<images/rosetta-stone.jpeg>
+[112]
+File: images/luis-von-ahn.jpeg Graphic file (type bmp)
+<images/luis-von-ahn.jpeg>
+[113] [114]
+Missing character: There is no 🐶 (U+1F436) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/Dogfooding.png Graphic file (type bmp)
+<images/Dogfooding.png>
+[115] [116]
+File: images/the-motivation-for-reading.png Graphic file (type bmp)
+<images/the-motivation-for-reading.png>
+File: images/Read the friendly manual.png Graphic file (type bmp)
+<images/Read the friendly manual.png>
+[117]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[118]
+File: images/What - other people.png Graphic file (type bmp)
+<images/What - other people.png>
+File: images/its-all-about-people-2.png Graphic file (type bmp)
+<images/its-all-about-people-2.png>
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[119] [120]
+Chapter 5.
+Missing character: There is no 🤔 (U+1F914) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/404.png Graphic file (type bmp)
+<images/404.png>
+Missing character: There is no 😳 (U+1F633) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😳 (U+1F633) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/What's relevant.png Graphic file (type bmp)
+<images/What's relevant.png>
+File: images/experience.jpeg Graphic file (type bmp)
+<images/experience.jpeg>
+[121
+
+] [122] [123]
+Overfull \hbox (1780.0801pt too wide) in paragraph at lines 3183--3198
+ [][] 
+ []
+
+[124]
+File: images/volunthero.jpeg Graphic file (type bmp)
+<images/volunthero.jpeg>
+Missing character: There is no 😻 (U+1F63B) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[125]
+File: images/Big Name.png Graphic file (type bmp)
+<images/Big Name.png>
+
+Overfull \hbox (46.99889pt too wide) in paragraph at lines 3247--3249
+\TU/lmr/m/n/10 and the AWS Educate Challenge []aws.amazon.com/education/awseduc
+ate/university-
+ []
+
+
+Overfull \hbox (11.6pt too wide) in paragraph at lines 3249--3251
+[]\TU/lmr/m/n/10 Apple hosts the Swift Student Challenge []developer.apple.com/
+wwdc21/swift-
+ []
+
+
+Overfull \hbox (16.96196pt too wide) in paragraph at lines 3260--3262
+[]\TU/lmr/m/n/10 Code Jam, HashCode and Kick Start []codingcompetitions.withgoo
+gle.com[] 
+ []
+
+[126]
+Overfull \hbox (30.32999pt too wide) in paragraph at lines 3264--3266
+[]\TU/lmr/m/n/10 Developer Student Club Leads []developers.google.com/community
+/dsc/leads[] 
+ []
+
+[127]
+File: images/OS-contribution-motivations-1200x675.png Graphic file (type bmp)
+<images/OS-contribution-motivations-1200x675.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[128]
+File: images/Titanic-paperboy-crop.jpeg Graphic file (type bmp)
+<images/Titanic-paperboy-crop.jpeg>
+[129]
+File: images/budgens.jpeg Graphic file (type bmp)
+<images/budgens.jpeg>
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[130]
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[131] [132]
+Chapter 6.
+Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏿 (U+1F3FF) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏽 (U+1F3FD) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏿 (U+1F3FF) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/not just about coding.png Graphic file (type bmp)
+<images/not just about coding.png>
+[133
+
+] [134]
+File: images/youtube-sonicpi.png Graphic file (type bmp)
+<images/youtube-sonicpi.png>
+[135]
+File: images/software-is-eating-the-world.jpeg Graphic file (type bmp)
+<images/software-is-eating-the-world.jpeg>
+[136]
+File: images/Market_Capitalisation.png Graphic file (type bmp)
+<images/Market_Capitalisation.png>
+File: images/Biggest-Companies-in-the-World.jpeg Graphic file (type bmp)
+<images/Biggest-Companies-in-the-World.jpeg>
+File: cdyf_files/figure-latex/nurses-fig-1.pdf Graphic file (type pdf)
+<use cdyf_files/figure-latex/nurses-fig-1.pdf>
+[137] [138] [139]
+Missing character: There is no ♣ (U+2663) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ♥ (U+2665) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ♠ (U+2660) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ♦ (U+2666) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🃏 (U+1F0CF) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/wikijoker.jpeg Graphic file (type bmp)
+<images/wikijoker.jpeg>
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[140] [141] [142
+
+] [143] [144]
+Chapter 7.
+Missing character: There is no 🐛 (U+1F41B) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/Features not bugs.png Graphic file (type bmp)
+<images/Features not bugs.png>
+[145
+
+] [146]
+File: images/gayle-black-hole.jpeg Graphic file (type bmp)
+<images/gayle-black-hole.jpeg>
+File: images/the-king-is-dead.jpeg Graphic file (type bmp)
+<images/the-king-is-dead.jpeg>
+[147] [148]
+File: images/notabug.jpeg Graphic file (type bmp)
+<images/notabug.jpeg>
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[149] [150]
+File: images/youtube-google-recruiters.png Graphic file (type bmp)
+<images/youtube-google-recruiters.png>
+[151]
+File: images/youtube-jonathan-black.png Graphic file (type bmp)
+<images/youtube-jonathan-black.png>
+[152]
+File: images/alan-turing-header.png Graphic file (type bmp)
+<images/alan-turing-header.png>
+Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 💰 (U+1F4B0) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 💪 (U+1F4AA) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🏆 (U+1F3C6) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[153]
+File: images/What have you done.png Graphic file (type bmp)
+<images/What have you done.png>
+[154]
+File: images/what-I-cannot-create-I-do-not-understand.jpeg Graphic file (type b
+mp)
+<images/what-I-cannot-create-I-do-not-understand.jpeg>
+[155] [156]
+File: images/CV Fodder.png Graphic file (type bmp)
+<images/CV Fodder.png>
+[157] [158]
+Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4080--4082
+
+ []
+
+Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[159]
+Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4084--4086
+
+ []
+
+Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🥱 (U+1F971) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/whats-the-story.jpeg Graphic file (type bmp)
+<images/whats-the-story.jpeg>
+[160]
+File: images/CV need a little work.png Graphic file (type bmp)
+<images/CV need a little work.png>
+[161] [162]
+Underfull \hbox (badness 2662) in paragraph at lines 4184--4185
+[]\TU/lmr/m/n/10 The latter is better because it is more specific, captures the
+ result
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 4184--4185
+\TU/lmr/m/n/10 (\TU/lmtt/m/n/10 accomplishment\TU/lmr/m/n/10 ), by giving evide
+nce (\TU/lmtt/m/n/10 8 different tasks\TU/lmr/m/n/10 ) and talks
+ []
+
+File: images/youtube-resume-or-cv.png Graphic file (type bmp)
+<images/youtube-resume-or-cv.png>
+File: images/shorterletter.jpeg Graphic file (type bmp)
+<images/shorterletter.jpeg>
+Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/an-engineering-state-of-mind.png Graphic file (type bmp)
+<images/an-engineering-state-of-mind.png>
+[163] [164] [165]
+File: images/lovelace-linkedin.png Graphic file (type bmp)
+<images/lovelace-linkedin.png>
+[166]
+Underfull \hbox (badness 10000) in paragraph at lines 4306--4308
+
+ []
+
+[167]
+Overfull \hbox (721.24008pt too wide) in paragraph at lines 4335--4346
+ [][] 
+ []
+
+[168]
+File: images/The-inevitable-rise-of-the-machines-1280x720.png Graphic file (typ
+e bmp)
+<images/The-inevitable-rise-of-the-machines-1280x720.png>
+[169]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[170]
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🤖 (U+1F916) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[171]
+Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=t
+ex-text;!
+File: images/Critical Friend.png Graphic file (type bmp)
+<images/Critical Friend.png>
+[172]
+Overfull \hbox (3.85999pt too wide) in paragraph at lines 4518--4520
+[][]\TU/lmr/m/n/10 prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-l
+etters/sample-
+ []
+
+[173] [174
+
+]
+Chapter 8.
+Missing character: There is no 🔭 (U+1F52D) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/Yes but how do I.png Graphic file (type bmp)
+<images/Yes but how do I.png>
+[175] [176]
+File: images/google-job-search.jpeg Graphic file (type bmp)
+<images/google-job-search.jpeg>
+[177]
+Underfull \hbox (badness 5862) in paragraph at lines 4659--4660
+[][]\TU/lmr/m/n/10 LinkedIn[] advertises job vacancies, is []frequently visited
+ by re-
+ []
+
+
+Overfull \hbox (18.07199pt too wide) in paragraph at lines 4659--4660
+[]\TU/lmr/m/n/10 university.linkedin.com/linkedin-for-students[], []linkedin.co
+m/learning/learning-
+ []
+
+File: images/linkedin.jpeg Graphic file (type bmp)
+<images/linkedin.jpeg>
+[178]
+Underfull \hbox (badness 7832) in paragraph at lines 4680--4682
+[][]\TU/lmr/m/n/10 Indeed.co.uk[], []adzuna.co.uk[], []cwjobs.co.uk[], []fish4.
+co.uk[], []reed.co.uk[],
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 4680--4682
+[]\TU/lmr/m/n/10 totaljobs.com[], []monster.co.uk[], []jobs.smartrecruiters.com
+[], []workinstar-
+ []
+
+[179]
+File: images/recruiters-are.png Graphic file (type bmp)
+<images/recruiters-are.png>
+[180]
+Missing character: There is no 🎢 (U+1F3A2) in font [lmroman10-regular]:mapping=
+tex-text;!
+[181]
+File: images/overselling.png Graphic file (type bmp)
+<images/overselling.png>
+[182] [183]
+File: images/timesink.jpeg Graphic file (type bmp)
+<images/timesink.jpeg>
+[184]
+File: images/blackhole.jpg Graphic file (type bmp)
+<images/blackhole.jpg>
+[185]
+Missing character: There is no ☘ (U+2618) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+File: images/Rollercoaster-ride.png Graphic file (type bmp)
+<images/Rollercoaster-ride.png>
+[186]
+Overfull \hbox (252.5901pt too wide) in paragraph at lines 4947--4958
+ [][] 
+ []
+
+File: images/Blunderbuss.png Graphic file (type bmp)
+<images/Blunderbuss.png>
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5001--5003
+
+ []
+
+[187] [188]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+File: images/Bumped into.png Graphic file (type bmp)
+<images/Bumped into.png>
+[189]
+File: images/grow your networks.png Graphic file (type bmp)
+<images/grow your networks.png>
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[190] [191] [192
+
+]
+Chapter 9.
+Missing character: There is no 😻 (U+1F63B) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/default-user-1280x959.png Graphic file (type bmp)
+<images/default-user-1280x959.png>
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+[193] [194]
+File: images/margaret-hamilton.jpeg Graphic file (type bmp)
+<images/margaret-hamilton.jpeg>
+
+Overfull \hbox (1.20001pt too wide) in paragraph at lines 5153--5155
+[]\TU/lmr/m/n/10 Database administrator (DBA), see []prospects.ac.uk/job-profil
+es/database-
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 5163--5165
+[]\TU/lmr/m/n/10 Forensic computer scientist, see []prospects.ac.uk/job-profile
+s/forensic-
+ []
+
+[195] [196]
+Underfull \hbox (badness 10000) in paragraph at lines 5179--5181
+[]\TU/lmr/m/n/10 Security engineer, penetration testing see []prospects.ac.uk/j
+ob-
+ []
+
+
+Overfull \hbox (38.00203pt too wide) in paragraph at lines 5185--5186
+[]\TU/lmr/m/n/10 Consultant, see []prospects.ac.uk/job-profiles/it-consultant[]
+ and []prospects.ac.uk/job-
+ []
+
+
+Overfull \hbox (4.61002pt too wide) in paragraph at lines 5200--5202
+[]\TU/lmr/m/n/10 The Crick []crick.ac.uk[] see e.g. []crick.ac.uk/careers-study
+/students/sandwich-
+ []
+
+
+Overfull \hbox (32.53001pt too wide) in paragraph at lines 5204--5206
+[]\TU/lmr/m/n/10 Diamond Light Source []diamond.ac.uk[] see []diamond.ac.uk/Car
+eers/Students/Year-
+ []
+
+[197]
+File: images/With great code.png Graphic file (type bmp)
+<images/With great code.png>
+[198]
+File: images/deal-with-the-devil.jpeg Graphic file (type bmp)
+<images/deal-with-the-devil.jpeg>
+Missing character: There is no 😈 (U+1F608) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 😈 (U+1F608) in font [lmroman10-regular]:mapping=
+tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5294--5295
+[]\TU/lmr/m/n/10 Morgan Stanley []morganstanley.com/about-us/morgan-stanley-cor
+e-
+ []
+
+File: images/morgan-stanley-times-square.jpeg Graphic file (type bmp)
+<images/morgan-stanley-times-square.jpeg>
+[199] [200]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+File: images/Sell your soul.png Graphic file (type bmp)
+<images/Sell your soul.png>
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[201] [202]
+Chapter 10.
+Missing character: There is no 🎯 (U+1F3AF) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/My CV is bug free.png Graphic file (type bmp)
+<images/My CV is bug free.png>
+[203
+
+] [204]
+File: images/bob-youre-on-mute.png Graphic file (type bmp)
+<images/bob-youre-on-mute.png>
+[205]
+File: images/Marketing-rule-No1.png Graphic file (type bmp)
+<images/Marketing-rule-No1.png>
+[206] [207]
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 😭 (U+1F62D) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/youtube-petia.png Graphic file (type bmp)
+<images/youtube-petia.png>
+[208]
+File: images/project-euler.jpeg Graphic file (type bmp)
+<images/project-euler.jpeg>
+Missing character: There is no 型 (U+578B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[209]
+File: images/kata.jpeg Graphic file (type bmp)
+<images/kata.jpeg>
+Missing character: There is no 型 (U+578B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 型 (U+578B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[210]
+File: images/hackerrank.jpeg Graphic file (type bmp)
+<images/hackerrank.jpeg>
+File: images/International-Collegiate-Programming-Contest.jpeg Graphic file (ty
+pe bmp)
+<images/International-Collegiate-Programming-Contest.jpeg>
+[211]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[212] [213]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[214]
+Chapter 11.
+Missing character: There is no 💪 (U+1F4AA) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/Dive Thrive Survive.png Graphic file (type bmp)
+<images/Dive Thrive Survive.png>
+[215
+
+] [216]
+Missing character: There is no 🆗 (U+1F197) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 💪 (U+1F4AA) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/star-crossed-lovers.jpeg Graphic file (type bmp)
+<images/star-crossed-lovers.jpeg>
+Missing character: There is no 💔 (U+1F494) in font [lmroman10-regular]:mapping=
+tex-text;!
+[217] [218]
+Missing character: There is no 🔎 (U+1F50E) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 🔍 (U+1F50D) in font [lmroman10-regular]:mapping=
+tex-text;!
+[219] [220]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[221]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[222] [223] [224
+
+]
+Chapter 12.
+File: images/earning-a-badge-hd.png Graphic file (type bmp)
+<images/earning-a-badge-hd.png>
+Missing character: There is no 📛 (U+1F4DB) in font [lmroman10-regular]:mapping=
+tex-text;!
+[225] [226]
+File: images/a-certificate-is-just-a-badge.png Graphic file (type bmp)
+<images/a-certificate-is-just-a-badge.png>
+File: images/i-am-more-than-just-my-grades.png Graphic file (type bmp)
+<images/i-am-more-than-just-my-grades.png>
+[227]
+File: images/broad-brushstrokes.png Graphic file (type bmp)
+<images/broad-brushstrokes.png>
+File: images/Properties-of-Open-Badges.png Graphic file (type bmp)
+<images/Properties-of-Open-Badges.png>
+[228] [229]
+File: images/peeled-badge.png Graphic file (type bmp)
+<images/peeled-badge.png>
+File: images/pass-leader-badge.png Graphic file (type bmp)
+<images/pass-leader-badge.png>
+[230] [231]
+File: images/badge-taxonomy-v2.png Graphic file (type bmp)
+<images/badge-taxonomy-v2.png>
+
+Underfull \hbox (badness 1424) in paragraph at lines 6197--6199
+[]\TU/lmr/m/n/10 Amazon Web Services badges []credly.com/organizations/amazon-w
+eb-
+ []
+
+[232]
+File: images/amazon-badge.png Graphic file (type bmp)
+<images/amazon-badge.png>
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[233]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+File: images/skills-to-pay-the-bills.png Graphic file (type bmp)
+<images/skills-to-pay-the-bills.png>
+[234]
+Chapter 13.
+Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🔬 (U+1F52C) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 🔬 (U+1F52C) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/einstein-i-have-no-special-talents.png Graphic file (type bmp)
+<images/einstein-i-have-no-special-talents.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[235
+
+]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[236]
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[237] [238
+
+] [239] [240]
+Chapter 14.
+File: images/10 Simple Rules.png Graphic file (type bmp)
+<images/10 Simple Rules.png>
+File: images/Know who you are.png Graphic file (type bmp)
+<images/Know who you are.png>
+File: images/Look after yourself.png Graphic file (type bmp)
+<images/Look after yourself.png>
+File: images/Use what you have.png Graphic file (type bmp)
+<images/Use what you have.png>
+[241
+
+] [242]
+File: images/greg-wilson-software-carpentry.jpeg Graphic file (type bmp)
+<images/greg-wilson-software-carpentry.jpeg>
+[243] [244]
+File: images/Grow your networks.png Graphic file (type bmp)
+<images/Grow your networks.png>
+[245]
+File: images/esther-dyson-always-make-new-mistakes.jpeg Graphic file (type bmp)
+
+<images/esther-dyson-always-make-new-mistakes.jpeg>
+[246]
+File: images/Help and Thank.png Graphic file (type bmp)
+<images/Help and Thank.png>
+[247]
+File: images/Look beyond the obvious.png Graphic file (type bmp)
+<images/Look beyond the obvious.png>
+File: images/Stay in school.png Graphic file (type bmp)
+<images/Stay in school.png>
+[248]
+File: images/Step outside your comfort zone.png Graphic file (type bmp)
+<images/Step outside your comfort zone.png>
+File: images/dont-give-up-bush-gabriel.jpeg Graphic file (type bmp)
+<images/dont-give-up-bush-gabriel.jpeg>
+File: images/DeathStar2.jpg Graphic file (type bmp)
+<images/DeathStar2.jpg>
+[249] [250] [251] [252
+
+]
+Chapter 15.
+File: images/bridge-kludge-hack.png Graphic file (type bmp)
+<images/bridge-kludge-hack.png>
+[253]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[254]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+File: images/pen_tester.png Graphic file (type bmp)
+<images/pen_tester.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 6746--6746
+[]\TU/lmr/m/n/10 Figure 15.2: []Penny Tester’s full CV can be viewed at
+ []
+
+File: images/rick_urshion.png Graphic file (type bmp)
+<images/rick_urshion.png>
+File: images/marge_conflict.png Graphic file (type bmp)
+<images/marge_conflict.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 6778--6778
+[]\TU/lmr/m/n/10 Figure 15.4: []Marge Conflict’s full CV can be viewed at
+ []
+
+File: images/mike_rokernel.png Graphic file (type bmp)
+<images/mike_rokernel.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 6794--6794
+[]\TU/lmr/m/n/10 Figure 15.5: []Mike Rokernel’s full CV can be viewed at
+ []
+
+[255]
+File: images/flo_ting_point.png Graphic file (type bmp)
+<images/flo_ting_point.png>
+File: images/peter_byte.png Graphic file (type bmp)
+<images/peter_byte.png>
+[256]
+File: images/polly-morphism.png Graphic file (type bmp)
+<images/polly-morphism.png>
+
+Underfull \hbox (badness 3849) in paragraph at lines 6842--6842
+[]\TU/lmr/m/n/10 Figure 15.8: []A pdf of Polina Morphism’s LinkedIn profile can
+ be
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 6842--6842
+\TU/lmr/m/n/10 found at []cdyf.me/Polly_Morphism.pdf[], the original can be fou
+nd at
+ []
+
+[257]
+File: images/neil_pointer.png Graphic file (type bmp)
+<images/neil_pointer.png>
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=
+tex-text;!
+File: images/bryn.png Graphic file (type bmp)
+<images/bryn.png>
+[258] [259] [260
+
+]
+Chapter 16.
+File: images/notjustlondon.jpg Graphic file (type bmp)
+<images/notjustlondon.jpg>
+File: images/notjustlondon.jpg Graphic file (type bmp)
+<images/notjustlondon.jpg>
+File: images/notjustlondon.jpg Graphic file (type bmp)
+<images/notjustlondon.jpg>
+[261] [262]
+Chapter 17.
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+[263
+
+] [264]
+Chapter 18.
+File: images/your-actions.png Graphic file (type bmp)
+<images/your-actions.png>
+[265
+
+]
+Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[266]
+Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
+Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[267] [268]
+Underfull \hbox (badness 10000) in paragraph at lines 7260--7262
+
+ []
+
+[269]
+File: images/deeds-not-words-pankhurst.jpeg Graphic file (type bmp)
+<images/deeds-not-words-pankhurst.jpeg>
+[270] [271] [272
+
+]
+Chapter 19.
+File: images/is-it-just-me.png Graphic file (type bmp)
+<images/is-it-just-me.png>
+[273] [274] [275] [276]
+Chapter 20.
+File: images/Libraries_Give_Us_Power.jpeg Graphic file (type bmp)
+<images/Libraries_Give_Us_Power.jpeg>
+(./cdyf.bbl [277
+
+] [278
+
+] [279] [280] [281] [282]
+Underfull \hbox (badness 1472) in paragraph at lines 402--405
+[]\TU/lmr/m/n/10 Hamedy, R. (2019).  How to build a reputable StackOverflow pro
+file.
+ []
+
+[283] [284] [285]
+Underfull \hbox (badness 3657) in paragraph at lines 712--717
+[]\TU/lmr/m/n/10 Ridenhour, C., Shocklee, H., Sadler, E., and Drayton, W. (1988
+).
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 712--717
+\TU/lmr/m/n/10 Don’t believe the hype.  In Squad, T. B., editor, \TU/lmr/m/it/1
+0 It Takes a
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 712--717
+\TU/lmr/m/it/10 Nation of Millions to Hold Us Back\TU/lmr/m/n/10 . Public Enemy
+, Def Jam.
+ []
+
+[286] [287]) [288] (./cdyf.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `cdyf.out' has not changed.
+(rerunfilecheck)             Checksum: ACD594A6129BF921D06DC852610FD485;26991.
+ ) 
+Here is how much of TeX's memory you used:
+ 22005 strings out of 478332
+ 457966 string characters out of 5856587
+ 898029 words of memory out of 5000000
+ 42044 multiletter control sequences out of 15000+600000
+ 407579 words of font info for 78 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 86i,8n,121p,2450b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on cdyf.pdf (288 pages).
