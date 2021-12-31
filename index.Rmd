@@ -503,7 +503,7 @@ Thanks to Greater Mancunians beyond the University of Manchester: Rob Aspin, Pau
 knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
 ```
 
-(ref:captionwaggle) Bees symbolise both community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. We also use bees for our weekly *Wednesday Waggle* jobs newsletter for students [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). Buzzin'! [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
+(ref:captionwaggle) Bees symbolise community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. We also use bees for our weekly *Wednesday Waggle* jobs newsletter for students [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). Buzzin'! [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
 
 
 So thanks Manchester for being Mancunian. [This is the place](https://www.youtube.com/watch?v=PszMmYpQjPo)! [@longfella] 🙏
@@ -530,16 +530,18 @@ knitr::include_graphics("images/abisko.jpeg")
 So thanks Abisko for all the saunas, [fika](https://www.swedishfood.com/fika), [midnight sun](https://en.wikipedia.org/wiki/Midnight_sun) and Swedish hospitality. 🇸🇪🙏
 
 ### Thank you America {#usa}
-Thanks to the British Universities North America Club ([BUNAC](https://en.wikipedia.org/wiki/BUNAC)) for sponsoring my temporary worker visa which allowed me to cook breakfasts and wash pots at [Phillips Sea Food](https://phillipsseafood.com/) in [Ocean City, Maryland](https://en.wikipedia.org/wiki/Ocean_City,_Maryland).
+Thanks to the British Universities North America Club ([BUNAC](https://en.wikipedia.org/wiki/BUNAC)) for sponsoring my temporary worker visa which allowed me to cook breakfasts and wash pots for guests at the [Phillips Sea Food](https://phillipsseafood.com/) restaurant and hotel in [Ocean City, Maryland](https://en.wikipedia.org/wiki/Ocean_City,_Maryland).
 
 ```{r bunac-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbunac)"}
 knitr::include_graphics("images/BUNAC.jpeg")
 ```
 (ref:captionbunac) The [British Universities North America Club](https://en.wikipedia.org/wiki/BUNAC) (BUNAC) allows students to work abroad, see [bunac.org](https://bunac.org/). Public domain image of the Flag of the United States via Wikimedia Commons [w.wiki/4cRF](https://w.wiki/4cRF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
+Thanks to Mitch at [Green Tortoise Adventure Travel](https://greentortoise.com/) for transporting and feeding a bus load of us from San Francisco to New York via some of America's finest wildernesses (and cookouts) in [Yellowstone National Park](Yellowstone National Park), [Grand Teton National Park](Grand Teton National Park), [Badlands National Park](https://en.wikipedia.org/wiki/Badlands_National_Park).
+
 Thanks to [Thomas Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) and Letty Gochberg for looking after me in New York and showing me around the sites of Manhattan. Thanks Pat Willmott and Rob Willmott for the introduction via the [Tall Ships America](https://www.tallshipsamerica.org/) in Plymouth, Devon from where the [Mayflower](https://en.wikipedia.org/wiki/Mayflower) embarked.
 
-Thanks [Timo Hannay](https://en.wikipedia.org/wiki/Timo_Hannay) for letting me gatecrash [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) at the Googleplex in California in 2007 and again in 2009.
+Thanks [Timo Hannay](https://en.wikipedia.org/wiki/Timo_Hannay) for letting me gatecrash the best party in Silicon Valley: [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) at the Googleplex in California in 2007 and again in 2009.
 
 So thanks to America for being a land of the free and a home of the brave. 🇺🇸🙏
 
@@ -656,7 +658,7 @@ knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 
 <!--can't use SVG without setting background color knitr::include_graphics(rep("images/st-laurence-school-logo.svg", 5))-->
 
-So, thank you to the community that is St. Laurence School, for educating me (and many others) the [West Country](https://en.wikipedia.org/wiki/West_Country) way. Proper job! 🙏
+So, thank you to the community that is St. Laurence School, for educating me (and many others) the [West Country](https://en.wikipedia.org/wiki/West_Country) way. Proper job! 🙏 [@bristle]
 
 ### Thank you Fitzmaurice {#fitzmaurice}  
 Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Mr Clay, Mr Fleming,  Mr Jackson, [Betty Knowles](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/18007859.Betty_Knowles/), [Valerie Payne](https://www.dignityfunerals.co.uk/funeral-notices/21-11-2020-valerie-payne/), Miss Sheldon, [Hugh Solomon](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/9828233.Hugh_Solomon/), Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the crucial foundations laid in primary school. It takes a whole community (a village) to raise a child starting with primary school, see figure \@ref(fig:clinton-fig).
@@ -695,7 +697,7 @@ So, thanks to all my family scattered around the world for your unconditional lo
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for undergraduate and postgraduate students as part of my job at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
 
-So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/books/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage factory worker, pork pie filler, chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and scholar.
+So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/books/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage packer, pork pie filler, [plongeur](https://en.wikipedia.org/wiki/Plongeur), chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, software engineer, lecturer, external examiner, tutor and scholar.
 
 I've done a range of voluntary work too, serving as a competition judge, fundraiser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, rabble rouser, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, librarian, beer drinker, [wikipedia trainer](https://wiki-loves-scientists.org.uk/), [journal clubber](https://sigcse.cs.manchester.ac.uk/) and editor. But as [Ronnie Lane](https://en.wikipedia.org/wiki/Ronnie_Lane) and [Ronnie Wood](https://en.wikipedia.org/wiki/Ronnie_Wood) (figure \@ref(fig:faces-fig)) once said:
 
