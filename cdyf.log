@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.10)  11 JAN 2022 22:54
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.10)  12 JAN 2022 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,12 +823,12 @@ Underfull \hbox (badness 4492) in paragraph at lines 514--516
 [19]
 File: images/standing-on-the-shoulders-of-students.png Graphic file (type bmp)
 <images/standing-on-the-shoulders-of-students.png>
-[20]
 File: images/bbcbreakfastsofa.png Graphic file (type bmp)
 <images/bbcbreakfastsofa.png>
-Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+[20]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 [21]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🤬 (U+1F92C) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/graduation-ceremony-2013.png Graphic file (type bmp)
@@ -856,23 +856,26 @@ Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mappin
 File: images/sigcse.jpeg Graphic file (type bmp)
 <images/sigcse.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[26]
+
+Underfull \vbox (badness 1231) has occurred while \output is active []
+
+[26] [27]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[27]
 File: images/bath-panorama.jpeg Graphic file (type bmp)
 <images/bath-panorama.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+[28]
 File: images/shaftesbury.jpg Graphic file (type bmp)
 <images/shaftesbury.jpg>
 Missing character: There is no 🍞 (U+1F35E) in font [lmroman10-regular]:mapping=tex-text;!
-[28]
 File: images/youtube-alom.png Graphic file (type bmp)
 <images/youtube-alom.png>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+[29]
 File: images/st-annes-rc-high-school.jpg Graphic file (type bmp)
 <images/st-annes-rc-high-school.jpg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[29] [30] [31]
+[30] [31]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/dreaming-spires-oxford-sunrise.png Graphic file (type bmp)
 <images/dreaming-spires-oxford-sunrise.png>
@@ -894,25 +897,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 859--859
 
 Missing character: There is no 🐝 (U+1F41D) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🐝 (U+1F41D) in font [lmroman10-regular]:mapping=tex-text;!
+[33]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[33] [34]
 File: images/godiva.jpeg Graphic file (type bmp)
 <images/godiva.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇪 (U+1F1EA) in font [lmroman10-regular]:mapping=tex-text;!
+[34]
 File: images/abisko.jpeg Graphic file (type bmp)
 <images/abisko.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇺 (U+1F1FA) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
-[35] [36]
 File: images/BUNAC.jpeg Graphic file (type bmp)
 <images/BUNAC.jpeg>
-[37]
+[35] [36]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇮 (U+1F1EE) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇳 (U+1F1F3) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[37]
 File: images/moravian-insitute.jpg Graphic file (type bmp)
 <images/moravian-insitute.jpg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
@@ -940,6 +947,9 @@ File: images/youtube-mocs-uptown-funk.png Graphic file (type bmp)
 <images/youtube-mocs-uptown-funk.png>
 File: images/fitzmaurice-grammar-school.jpeg Graphic file (type bmp)
 <images/fitzmaurice-grammar-school.jpeg>
+
+Overfull \vbox (0.34175pt too high) has occurred while \output is active []
+
 [42] [43]
 File: images/st-laurence-school-logo.png Graphic file (type bmp)
 <images/st-laurence-school-logo.png>
@@ -969,7 +979,6 @@ File: images/hillary-clinton.jpeg Graphic file (type bmp)
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/radipole-lake.jpeg Graphic file (type bmp)
 <images/radipole-lake.jpeg>
-[44]
 Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=tex-text;!
@@ -986,6 +995,7 @@ Missing character: There is no 🇪 (U+1F1EA) in font [lmroman10-regular]:mappin
 Missing character: There is no 🇺 (U+1F1FA) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇬 (U+1F1EC) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇧 (U+1F1E7) in font [lmroman10-regular]:mapping=tex-text;!
+[44]
 File: images/acropolis-at-night.png Graphic file (type bmp)
 <images/acropolis-at-night.png>
 Missing character: There is no θ (U+03B8) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1016,20 +1026,21 @@ Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=
 File: images/faces.jpeg Graphic file (type bmp)
 <images/faces.jpeg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[47]
 Underfull \hbox (badness 1616) in paragraph at lines 1184--1185
 \TU/lmr/m/n/10 The \TU/lmr/m/it/10 text \TU/lmr/m/n/10 of this guidebook is published under the []Creative Commons
  []
 
+
+Underfull \vbox (badness 2529) has occurred while \output is active []
+
+[47]
 File: images/by-nc-nd.png Graphic file (type bmp)
 <images/by-nc-nd.png>
 File: images/CC-attribution-1.png Graphic file (type bmp)
 <images/CC-attribution-1.png>
-[48] [49] [50] [51
+[48] [49] [50
 
-] [52]
+] [51] [52]
 Chapter 1.
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=tex-text;!
