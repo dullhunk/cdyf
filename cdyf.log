@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.10)  12 JAN 2022 08:34
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.10)  12 JAN 2022 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -839,8 +839,13 @@ Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mappin
 File: images/msc-2003.jpeg Graphic file (type bmp)
 <images/msc-2003.jpeg>
 
-Underfull \hbox (badness 1132) in paragraph at lines 641--642
-[]\TU/lmr/m/n/10 Manchester University Mountaineering Club[] (MUMC), Simon Merrywest,
+Underfull \hbox (badness 1259) in paragraph at lines 641--642
+\TU/lmr/m/n/10 Rishi Ramgolam, Allan Ramsay, Magnus Rattray, Alasdair Rawsthorne,
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 641--642
+\TU/lmr/m/n/10 Stian Soiland-Reyes, Irena Spasic, David Spendlove, Laurence Stamford,
  []
 
 [23]
@@ -884,6 +889,7 @@ Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mappin
 File: images/european-bioinformatics-institute.jpeg Graphic file (type bmp)
 <images/european-bioinformatics-institute.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+[33]
 File: images/Wednesday_Waggle.png Graphic file (type bmp)
 <images/Wednesday_Waggle.png>
 File: images/Wednesday_Waggle.png Graphic file (type bmp)
@@ -897,7 +903,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 859--859
 
 Missing character: There is no 🐝 (U+1F41D) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🐝 (U+1F41D) in font [lmroman10-regular]:mapping=tex-text;!
-[33]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/godiva.jpeg Graphic file (type bmp)
 <images/godiva.jpeg>
@@ -2013,22 +2018,22 @@ File: images/Libraries_Give_Us_Power.jpeg Graphic file (type bmp)
 (./cdyf.bbl [271] [272
 
 ] [273] [274] [275] [276]
-Underfull \hbox (badness 1668) in paragraph at lines 402--405
+Underfull \hbox (badness 1668) in paragraph at lines 401--404
 []\TU/lmr/m/n/10 Hamedy, R. (2019).  How to build a reputable StackOverflow profile.
  []
 
 [277] [278] [279]
-Underfull \hbox (badness 4024) in paragraph at lines 724--729
+Underfull \hbox (badness 4024) in paragraph at lines 723--728
 []\TU/lmr/m/n/10 Ridenhour, C., Shocklee, H., Sadler, E., and Drayton, W. (1988).
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 724--729
+Underfull \hbox (badness 3780) in paragraph at lines 723--728
 \TU/lmr/m/n/10 Don’t believe the hype.  In Squad, T. B., editor, \TU/lmr/m/it/10 It Takes a
  []
 
 
-Underfull \hbox (badness 5756) in paragraph at lines 724--729
+Underfull \hbox (badness 5756) in paragraph at lines 723--728
 \TU/lmr/m/it/10 Nation of Millions to Hold Us Back\TU/lmr/m/n/10 . Public Enemy, Def Jam.
  []
 
@@ -2039,11 +2044,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  ) 
 Here is how much of TeX's memory you used:
  23917 strings out of 478236
- 494178 string characters out of 5854317
- 936803 words of memory out of 5000000
+ 494199 string characters out of 5854317
+ 936897 words of memory out of 5000000
  43988 multiletter control sequences out of 15000+600000
  407579 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,8n,121p,2523b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,8n,121p,2566b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cdyf.pdf (282 pages).
