@@ -82,7 +82,7 @@ knitr::include_graphics("images/Biggest-Companies-in-the-World.jpeg")
 ```
 (ref:captionmarketagain) The Biggest Companies in the World based on market capitalisation data from PriceWaterhouseCoopers (PwC), as well as the countries and sectors they are from. Again, note the dominance of software and hardware: Apple, Microsoft, Alphabet (that's Google), Facebook and Amazon. Visualisation from [The Biggest Companies in the World in 2021](https://www.visualcapitalist.com/the-biggest-companies-in-the-world-in-2021/) [@visualcap]
 
-What figure \@ref(fig:market-fig) and figure \@ref(fig:market-again-fig) show is that computing is eating the stock market. This means that commercial demand for software developers is high, comparable to teaching and nursing in terms of raw numbers. In the UK, the most common jobs for graduates from 2021 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an article on [the graduate labour market in 2022](https://luminate.prospects.ac.uk/uk-graduate-labour-market-update-11-january) [@labourmarket2022]
+What figure \@ref(fig:market-fig) and figure \@ref(fig:market-again-fig) show is that computing is eating the stock market. This means that commercial demand for software developers is high, comparable to teaching and nursing in terms of raw numbers. In the UK, the most common jobs for graduates from 2021 are shown in Figure \@ref(fig:nurses-fig), based on data taken from an [update on the graduate labour market in 2022](https://luminate.prospects.ac.uk/uk-graduate-labour-market-update-11-january) [@labourmarket2022]
 
 <!-- from wonkyball data used to be
   ~profession,        ~graduates,
@@ -90,6 +90,7 @@ What figure \@ref(fig:market-fig) and figure \@ref(fig:market-again-fig) show is
   "B marketing",        4575,
   "C nursery & primary teachers",       4295,
   "D software developers", 4160
+  meaning software engineers overtook primary teachers in numbers in 2022
 -->
 
 ```{r nurses-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionball)"}
@@ -98,24 +99,35 @@ nursesdata <- tribble(
   ~profession,        ~graduates,
   "Nurses",	6660,
   "Software developers",	4340,
-  "Primary teachers",	3505,
+  "Primary school teachers",	3505,
   "Marketing associates",	3465,
-  "Medical practitioners",	3240,
-  "Secondary teachers",	2890,
+  "General medical practitioners",	3240,
+  "Secondary school teachers",	2890,
   "Accountants",	2470	,
-  "Financiers",	2050,
-  "Graphic designers",	1715,
+  "Financiers and investors",	2050,
+  "Graphic and multimedia designers",	1715,
   "Sales executives",	1455
 
 )
 
 ggplot(data = nursesdata) +
-  geom_bar(mapping = aes(x = profession, y = graduates), stat="identity") +  coord_flip()
+  geom_bar(mapping = aes(x = reorder(profession, +graduates), y = graduates), stat="identity") +  coord_flip()
 ```
 
-<!--todo: label graduates as no of graduates-->
 
-(ref:captionball) The top ten professions in the UK in 2021 (y axis) based on numbers of graduates starting work (x axis). Demand for software developers is high, comparable to teachers and nurses, according to data published by prospects.ac.uk [@labourmarket2022]
+<!--todo: better labels
+https://github.com/dullhunk/cdyf/issues/121
+-->
+
+<!--reorder by value
+Sorting the x-axis in bargraphs using ggplot2
+https://sebastiansauer.github.io/ordering-bars/
+
+Reorder bars in geom_bar ggplot2 by value
+https://stackoverflow.com/questions/25664007/reorder-bars-in-geom-bar-ggplot2-by-value
+-->
+
+(ref:captionball) The top ten professions in the UK in 2021 based on numbers of graduates starting work (x axis). Demand for software developers is high, comparable to teachers and nurses, according to data published by prospects.ac.uk [@labourmarket2022]
 
 So if you can develop software, there's lots of choice and opportunities on offer, not just in the UK but around the world.
 
@@ -199,6 +211,8 @@ https://academicworks.cuny.edu/gc_pubs/562/
 ## Summarising computing your future {#tldr6}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
+
+There are lots of opportunities in computing but you don't *need* to have studied Computer Science to take advantage of them.   
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar3-fig).
 
