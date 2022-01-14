@@ -39,7 +39,7 @@ The marketplace for job searching and job hunting advice is incredibly crowded. 
 
 The following job finding resources are specifically aimed at undergraduate students and graduates:
 
-* [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/aws-educate-job-board/) has a dedicated jobs board for students with (or working towards) Amazon Web Services (AWS) cloud computing skills
+* [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/aws-educate-job-board/) has a dedicated jobs board for students with (or working towards) Amazon Web Services (AWS) cloud computing qualifications
 * [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)
 * [ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/) is a leading UK job resource for undergraduates seeking placements and internships.
 * [targetjobs.co.uk](http://www.targetjobs.co.uk/) graduate jobs, schemes and internships from the people behind [The Guardian 300 top graduate employers](https://targetjobs.co.uk/uk300)
@@ -138,8 +138,13 @@ As a buyer and seller, you should be wary of the following:
 Most job adverts are legitimate but you are vulnerable when you are job hunting. You may become more vulnerable over time if you are getting repeated rejections (remember: repeated rejection is quite normal). Unfortunately there are some shady characters out there looking to exploit your vulnerability through various kinds of [employment fraud](https://en.wikipedia.org/wiki/Employment_fraud). [@jobscammers] You should be wary of anyone asking you for:
 
 * Money up front - be very suspicious
-* Excessive personal data such birth dates, passport numbers and bank details. These could be used for identity theft, fraud or other criminal activities
+* Excessive personal data such birth dates, passport numbers and bank details. These could be used for identity theft, fraud or other criminal activities [@jobscammers2]
 * See for example [google.com/search?q=job+scams](https://www.google.com/search?q=job+scams)
+
+```{r jobscams-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionjobscams)"}
+knitr::include_graphics("images/Job-Scams-Signs-GOVUK.png")
+```
+(ref:captionjobscams) Beware of the job scammers. Things to be suspicous of include illegitimate companies, poorly-written job adverts, suspicious contact details and emails, unrealistic salaries, job offers without an interview and being asked for money up front. Spotting the signs of job scammers by gov.uk is licensed under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) [@jobscammers2]
 
 Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track.
 
