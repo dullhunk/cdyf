@@ -97,16 +97,16 @@ What figure \@ref(fig:market-fig) and figure \@ref(fig:market-again-fig) show is
 library(ggplot2)
 nursesdata <- tribble(
   ~profession,        ~graduates,
-  "Nurses",	6660,
-  "Software developers",	4340,
-  "Primary school teachers",	3505,
-  "Marketing associates",	3465,
-  "General medical practitioners",	3240,
-  "Secondary school teachers",	2890,
-  "Accountants",	2470	,
-  "Financiers and investors",	2050,
-  "Graphic and multimedia designers",	1715,
-  "Sales executives",	1455
+  "1. Nurses",	6660,
+  "2. Software developers",	4340,
+  "3. Primary school teachers",	3505,
+  "4. Marketing associates",	3465,
+  "5. General medical practitioners",	3240,
+  "6. Secondary school teachers",	2890,
+  "7. Accountants",	2470	,
+  "8. Financiers and investors",	2050,
+  "9. Graphic and multimedia designers",	1715,
+  "10. Sales executives",	1455
 
 )
 
