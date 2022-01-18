@@ -29,8 +29,9 @@ Many technology jobs exist outside of technology companies, [@outsideit] because
 * Match and critically evaluate the values of an employer with your own values and ethics
 
 ## Beyond software engineering {#otheroles}
-The phrase software engineering has been around since [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) (figure \@ref(fig:hamilton-fig)) wrote code for NASA's [Apollo program](https://en.wikipedia.org/wiki/Apollo_program) in the sixties. However, the practice of software engineering has been around even longer right back to [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) in the nineteenth century.
+The phrase software engineering has been around since [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) (figure \@ref(fig:hamilton-fig)) led the development of software for the [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer) in the sixties. However, the *practice* of software engineering has been around even longer right back to [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) in the nineteenth century.
 <!--Ada Lovelace is often credited as being the worlds first software engineer-->
+
 
 ```{r hamilton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhamilton)"}
 knitr::include_graphics("images/margaret-hamilton.jpeg")
