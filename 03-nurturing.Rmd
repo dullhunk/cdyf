@@ -85,14 +85,24 @@ Prescription medication can help some people with their mental health. For examp
 knitr::include_graphics("images/citalopram.jpg")
 ```
 
-(ref:captioncitalopram) [Citalopram](https://www.nhs.uk/medicines/citalopram/) is a type of antidepressant known as a Selective Serotonin Reuptake Inhibitor (SSRI). SSRI's can help some people who have been affected by depression. They work for some people (including me) but they don't for everybody. Skeletal formulae of Citalopram by Vaccinationist via Wikimedia Commons [w.wiki/3Ddn](https://w.wiki/3Ddn) adapted using the Wikipedia app.
+(ref:captioncitalopram) [Citalopram](https://www.nhs.uk/medicines/citalopram/) is a type of antidepressant known as a Selective Serotonin Reuptake Inhibitor (SSRI). SSRI's can help some people who have been affected by depression. They work for some people (including me) but they don't for everybody. Skeletal formulae of Citalopram by Vaccinationist via Wikimedia Commons [w.wiki/3Ddn](https://w.wiki/3Ddn) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238).
 
 Some doctors prescribe [benzodiazepines](https://www.mind.org.uk/information-support/drugs-and-treatments/sleeping-pills-and-minor-tranquillisers/about-benzodiazepines/) for anxiety, which may be effective where SSRI's are not, but these can be addictive and have big side effects.
 
-It is often worth considering cognitive behavioural therapy (CBT) before taking any medication.  *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being) is an easy way to access some CBT free online. See the signposts section at the end of this chapter [@lauriesantos]
+It is often worth considering [cognitive behavioural therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) before taking any medication.  *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being) is an easy way to access some CBT free online. See the signposts section at the end of this chapter [@lauriesantos]
 
 ### Suicide {#suicide}
-Suicide
+If you’re feeling suicidal, you don’t have to struggle with difficult feelings alone. If you’re suffering from emotional distress or struggling to cope a Samaritan can face your problems with you. Whatever you’re going through, [samaritans.org](https://www.samaritans.org/) are available 24 hours a day, 365 days a year. They respond to around 10,000 calls for help every day. No judgement. No pressure. Call them free any time, from any phone (in the UK) on 116 123. It's important to talk to *somebody*, see figure \@ref(fig:joydivision-fig).
+
+```{r joydivision-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionjoydivision)"}
+knitr::include_graphics("images/ian-curtis-joy-division.jpeg")
+```
+
+<!-- inclusion of note = {https://youtu.be/6x-Nl3_L1pA) in bib file for @isolation causes weird tex compilation error-->
+
+(ref:captionjoydivision) It might not be immediately obvious to you that people around you are having suicidal thoughts. Ian Curtis was in a band called [Joy Division](https://en.wikipedia.org/wiki/Joy_Division), even his fellow band members like [Bernard Sumner](https://en.wikipedia.org/wiki/Bernard_Sumner) didn't realise how poor his mental health was. In retrospect it is obvious when you look at his lyrics [@isolation]. However, people who are affected by poor mental health often don't talk about it until it is too late - so it can be tricky to diagnose in time. Fair use picture of [Ian Curtis](https://en.wikipedia.org/wiki/Ian_Curtis) by [Kevin Cummins](https://en.wikipedia.org/wiki/Kevin_Cummins_(photographer)) on Wikimedia Commons [w.wiki/4iWJ](https://w.wiki/4iWJ) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238).
+
+Suicide is the biggest killer of under 35's in the UK. Globally, over 700,000 people die due to suicide every year, see [who.int/health-topics/suicide](https://www.who.int/health-topics/suicide). Every life lost to suicide is a tragedy because suicide is preventable. If you're feeling suicidal or you know someone who is, don't suffer (or let them suffer) in silence. Check out the resources in section \@ref(samaritans) and \@ref(papryus).
 
 ## Look after yourself {#lays}
 Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise, mindfulness and friendship. Looking after yourself means at least three things:
@@ -135,7 +145,7 @@ knitr::include_graphics("images/youtube-santos.png")
 So there are things you can do to help yourself, but you may also need to seek help from others.
 
 ## Burnout {#burnout}
-Sometimes a desire to be productive by overworking has the opposite effect, because the sacrifices you make can be counter-productive.
+Sometimes a desire to be productive by overworking has the opposite effect, because the sacrifices you make for work can be counter-productive.
 
 ```{r lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
@@ -196,6 +206,10 @@ The [Samaritans](https://en.wikipedia.org/wiki/Samaritans_(charity)) are a chari
 
 The name of the charity comes from the [Parable of the Good Samaritan](https://en.wikipedia.org/wiki/Parable_of_the_Good_Samaritan) although the organisation itself is not religious. The Samaritans are available 24 hours a day, seven days a week, to talk confidentially about any problem, however big or small. See [samaritans.org](https://www.samaritans.org/) or telephone 116 123.
 
+### Papryus {#papryus}
+Papyrus believe that many young suicides can be prevented, they are a national charity that you can find out more about at [papyrus-uk.org](https://www.papyrus-uk.org/) or telephone the free number 0800 068 4141. See their application [stayalive.app](https://stayalive.app/)
+
+
 ### Students Against Depression {#sad}
 
 Students Against Depression (SAD) acknowledge the devastating impact that depression can have on those experiencing it, as well as on their friends, family and supporters. For further help in understanding and coping with suicidal thoughts, and emergency contacts in a crisis, visit  [studentsagainstdepression.org](https://www.studentsagainstdepression.org/)
@@ -207,9 +221,6 @@ Actor [Ruby Wax](https://en.wikipedia.org/wiki/Ruby_Wax) has written about menta
 knitr::include_graphics("images/youtube-wax.png")
 
 ```
-
-### Papryus {#papryus}
-Suicide is the biggest killer of under 35's in the UK. Papyrus believe that many young suicides can be prevented, they are a national charity that you can find out more about at [papyrus-uk.org](https://www.papyrus-uk.org/) or telephone the free number 0800 068 4141.
 
 ### Self-help services {#selfhelp}
 Self-Help services are a mental health charity which helps people to help themselves, see [selfhelpservices.org.uk](https://www.selfhelpservices.org.uk/) or phone 0161 226 3871.
