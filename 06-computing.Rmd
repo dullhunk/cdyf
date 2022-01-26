@@ -73,7 +73,7 @@ Besides the social arguments, there are also strong economic reasons for studyin
 ```{r market-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarket)"}
 knitr::include_graphics("images/Market_Capitalisation.png")
 ```
-(ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be impossible for Apple, Microsoft, Amazon, Alphabet (Google) and Meta (Facebook) to exist without computing. The economic weight of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) graphic by YBSLE on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU)
+(ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be impossible for [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) companies like Apple, Microsoft, Amazon, Alphabet (Google) and Meta (Facebook) to exist without computing. The ten largest corporations by market capitalisation (as of 2021) graphic by YBSLE/[laboussole.coop](https://laboussole.coop/) on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU)
 
 Even if you don't want to work for any of these global monopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. Another visualisation of data in figure \@ref(fig:market-fig) is shown in figure \@ref(fig:market-again-fig).
 
@@ -129,7 +129,7 @@ Reorder bars in geom_bar ggplot2 by value
 https://stackoverflow.com/questions/25664007/reorder-bars-in-geom-bar-ggplot2-by-value
 -->
 
-(ref:captionball) The top ten professions in the UK in 2021 based on numbers of graduates starting work, shown on the x axis. In 2019, 4340 graduates started a job in the UK job as a software developer (or programmer), with many developer vacancies unfilled. So, demand for software developers is high, comparable to teachers and nurses, according to data published by prospects.ac.uk [@labourmarket2022]
+(ref:captionball) The top ten professions in the UK in 2019 based on numbers of graduates starting work, shown on the x axis. In 2019, 4340 graduates started a job in the UK job as a software developer (or programmer), with many developer vacancies unfilled. So, demand for software developers is high, comparable to teachers and nurses, according to data published by prospects.ac.uk [@labourmarket2022]
 
 So if you can develop software, there's lots of choice and opportunities on offer. Although the data in figure \@ref(fig:nurses-fig) is from the UK, the story is the same in many other countries around the world. Demand for developers is high, with many vacancies going unfilled.
 

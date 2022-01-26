@@ -134,13 +134,22 @@ knitr::include_graphics("images/youtube-santos.png")
 
 So there are things you can do to help yourself, but you may also need to seek help from others.
 
-Sometimes a desire to be productive by working hard has the opposite effect, because the sacrifices you make can be counter-productive.
+## Burnout {#burnout}
+Sometimes a desire to be productive by overworking has the opposite effect, because the sacrifices you make can be counter-productive.
 
 ```{r lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
 include_tweet("https://twitter.com/lizandmollie/status/1231605700960432128")
 ```
 
+Sacrificing sleep, socialising, exercise and time-out to recharge your batteries can make you *less* productive, especially in the longer term.
+
+```{r paulnurse-fig,echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/NobelPrize/status/1485893990910148613")
+```
+
+I'm **not** saying don't work hard, but I am recommending that you don't work *too* hard. Overworking will literally kill you. [@overworking]
 
 ## Help is available if you need it {#notalone}
 If you are affected by mental ill health, particularly anxiety or depression, it can be hard:
