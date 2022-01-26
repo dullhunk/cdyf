@@ -60,9 +60,9 @@ You can of course *augment* your CV with various public digital profiles such as
 * [university.linkedin.com](https://university.linkedin.com/)
 * [linkedin.com/learning/learning-linkedin-for-students](https://linkedin.com/learning/learning-linkedin-for-students)
 
-## It's not bug, it's a feature {#trope}
+## It's not bug, it's a feature! {#trope}
 
-It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig).
+It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig). It's not a *bug*, it's a *feature*...
 
 ```{r notabug-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionnotabug)"}
 knitr::include_graphics("images/notabug.jpeg")
