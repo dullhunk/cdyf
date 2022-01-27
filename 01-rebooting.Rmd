@@ -136,7 +136,8 @@ ggplot(data = lotsofgrads) +
 ```
 (ref:captionlotsofgrads) Percentage of young people in the UK going into higher education between 1980 and 2018. Over the last forty years, the proportion of young people going into higher education has more than doubled from 15% in 1980 to over 50% in 2018. Data taken from BBC news article on [the symbolic target of 50% at university reached](https://www.bbc.co.uk/news/education-49841620) [@lotsofgrads]
 
-> Computing is one of the largest subject areas in UK higher education, and is taught in almost every institution, graduating around 9,000 students every year --Sally Fincher [@fincherreview]
+> Computing is one of the largest subject areas in UK higher education, and is taught in almost every institution, graduating around 9,000 students every year
+> `r tufte::quote_footer('--- Sally Fincher [@fincherreview]')`
 
 Now, don't be disillusioned by the statistics because a degree can open doors to many careers in computing. What the data in Figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look beyond your formal education to distinguish yourself from your competition. Your degree can certainly help you start a career, and computer geekery is a commercially valuable skill but it is typically not enough by itself.
 
