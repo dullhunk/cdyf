@@ -89,20 +89,20 @@ knitr::include_graphics("images/citalopram.jpg")
 
 Some doctors prescribe [benzodiazepines](https://www.mind.org.uk/information-support/drugs-and-treatments/sleeping-pills-and-minor-tranquillisers/about-benzodiazepines/) for anxiety, which may be effective where SSRI's are not, but these can be addictive and have big side effects.
 
-It is often worth considering [cognitive behavioural therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) before taking any medication.  *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being) is an easy way to access some CBT free online. See the signposts section at the end of this chapter [@lauriesantos]
+It is often worth considering [cognitive behavioural therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) before taking any medication.  *The Science of Wellbeing* (TSOWB) at [coursera.org/learn/the-science-of-well-being](https://www.coursera.org/learn/the-science-of-well-being) is an easy way to access some CBT free online. See the signposts section (section \@ref(signposts3)) at the end of this chapter. [@lauriesantos]
 
 ### Suicide {#suicide}
-If you’re feeling suicidal, you don’t have to struggle with difficult feelings alone. If you’re suffering from emotional distress or struggling to cope a Samaritan can face your problems with you. Whatever you’re going through, [samaritans.org](https://www.samaritans.org/) are available 24 hours a day, 365 days a year. They respond to around 10,000 calls for help every day. No judgement. No pressure. Call them free any time, from any phone (in the UK) on 116 123. It's important to talk to *somebody*, see figure \@ref(fig:joydivision-fig).
+If you’re feeling suicidal, you don’t have to struggle with difficult feelings alone. If you’re suffering from emotional distress or struggling to cope a Samaritan can face your problems with you. Whatever you’re going through, [samaritans.org](https://www.samaritans.org/) are available 24 hours a day, 365 days a year. They respond to around 10,000 calls for help in the UK every day. No judgement. No pressure. Call them free any time, from any phone (in the UK) on 116 123. It's important to talk to *somebody*, see figure \@ref(fig:joydivision-fig).
 
 ```{r joydivision-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionjoydivision)"}
 knitr::include_graphics("images/ian-curtis-joy-division.jpeg")
 ```
 
-<!-- inclusion of note = {https://youtu.be/6x-Nl3_L1pA} in bib file for @isolation causes weird tex compilation error-->
+<!-- inclusion of note = {https://youtu.be/6x-Nl3_L1pA} in bib file for @isolation causes weird tex compilation error that doesn't make sense-->
 
-(ref:captionjoydivision) It might not be immediately obvious to you that people around you are having suicidal thoughts. Ian Curtis was in a band called [Joy Division](https://en.wikipedia.org/wiki/Joy_Division), even his fellow band members like [Bernard Sumner](https://en.wikipedia.org/wiki/Bernard_Sumner) didn't realise how poor his mental health was. In retrospect it is obvious when you look at his lyrics [@isolation]. However, people who are affected by poor mental health often don't talk about it until it is too late - so it can be tricky to diagnose in time. Fair use picture of [Ian Curtis](https://en.wikipedia.org/wiki/Ian_Curtis) by [Kevin Cummins](https://en.wikipedia.org/wiki/Kevin_Cummins_(photographer)) on Wikimedia Commons [w.wiki/4iWJ](https://w.wiki/4iWJ) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238).
+(ref:captionjoydivision) It might not be immediately obvious to you that people around you may be having suicidal thoughts. Ian Curtis was in a band called [Joy Division](https://en.wikipedia.org/wiki/Joy_Division), even his fellow band members like [Bernard Sumner](https://en.wikipedia.org/wiki/Bernard_Sumner) didn't realise how poor his mental health was. In retrospect it is obvious when you read his lyrics [@isolation]. However, people who are affected by poor mental health often don't talk about it until it is too late - so it can be tricky to diagnose and help them in time. Fair use picture of [Ian Curtis](https://en.wikipedia.org/wiki/Ian_Curtis) by [Kevin Cummins](https://en.wikipedia.org/wiki/Kevin_Cummins_(photographer)) on Wikimedia Commons [w.wiki/4iWJ](https://w.wiki/4iWJ) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238).
 
-Suicide is the biggest killer of under 35's in the UK. Globally, over 700,000 people die due to suicide every year, see [who.int/health-topics/suicide](https://www.who.int/health-topics/suicide). Every life lost to suicide is a tragedy because suicide is preventable. If you're feeling suicidal or you know someone who is, don't suffer (or let them suffer) in silence. Check out the resources in section \@ref(samaritans) and \@ref(papryus).
+Suicide is the biggest killer of under 35's in the UK. Globally, over 700,000 people die due to suicide every year, see [who.int/health-topics/suicide](https://www.who.int/health-topics/suicide). Every life lost to suicide is a tragedy because suicide is preventable. If you're feeling suicidal or you know someone who is, don't suffer (or let others suffer) in silence. Check out the resources in section \@ref(samaritans) and \@ref(papryus).
 
 ## Look after yourself {#lays}
 Looking after yourself can serve to both prevent and treat mental health issues that can affect you in life. You might be your own worst critic, or perhaps when you're under pressure you neglect things that are proven to be beneficial for your mental health, like sleep, exercise, mindfulness and friendship. Looking after yourself means at least three things:
@@ -145,7 +145,7 @@ knitr::include_graphics("images/youtube-santos.png")
 So there are things you can do to help yourself, but you may also need to seek help from others.
 
 ## Burnout {#burnout}
-Sometimes a desire to be productive by overworking has the opposite effect, because the sacrifices you make for work can be counter-productive.
+Sometimes a desire to be productive by overworking has exactly the opposite effect, because the sacrifices you make for work can be counter-productive. If you burn too brightly you might burnout completely, see [mentalhealth-uk.org/burnout](https://mentalhealth-uk.org/burnout/). 🔥
 
 ```{r lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
@@ -159,7 +159,17 @@ library(tweetrmd)
 include_tweet("https://twitter.com/NobelPrize/status/1485893990910148613")
 ```
 
-I'm **not** saying don't work hard, but I am recommending that you don't work *too* hard. Overworking will literally kill you. [@overworking]
+I'm **not** saying don't work hard. Like [Paul Nurse](https://en.wikipedia.org/wiki/Paul_Nurse), I am recommending that you don't work *too* hard:
+
+> “if you really want to be good you musn't work too hard. If you work too hard just hard all the
+> time you will keep going in the same direction. One big advantage of taking some relaxation is it
+> makes your brain come down and then you come and look at it freshly. When you take off the
+> pressure, to go off and go and walk for day then you can imagine new things.”
+>
+> `r tufte::quote_footer('--- Paul Nurse')`
+
+
+So work hard but don't overwork. Overworking [will literally kill you](https://www.bbc.com/worklife/article/20210518-how-overwork-is-literally-killing-us). [@overworking]
 
 ## Help is available if you need it {#notalone}
 If you are affected by mental ill health, particularly anxiety or depression, it can be hard:
