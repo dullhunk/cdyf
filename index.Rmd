@@ -458,7 +458,7 @@ knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 So thanks Stockport for being Stockport, the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.): It's all that matters, Stockport Hatters. 🙏
 
 ### Thank you schools {#schools}
-Thanks to all the schools who've hosted our undergraduate students as part of [Coding their Future](https://www.cs.man.ac.uk/~hulld/coding-their-future.html):
+Thanks to all the schools who've hosted our undergraduate students as part of an ongoing partnership between the University of Manchester and local schools called [Coding their Future](https://www.cs.man.ac.uk/~hulld/coding-their-future.html):
 
 * Mrs Rowland at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls), Droylsden
 * Mr Sinnott at [Trinity Church of England High School](https://en.wikipedia.org/wiki/Trinity_Church_of_England_High_School), Hulme
@@ -473,7 +473,13 @@ Thanks to all the schools who've hosted our undergraduate students as part of [C
 * Pauline Wilcox at [Altrincham Grammar School for Boys](https://en.wikipedia.org/wiki/Altrincham_Grammar_School_for_Boys), Trafford
 * Mr Millington at [Manchester Grammar School (MGS)](https://en.wikipedia.org/wiki/Manchester_Grammar_School), Fallowfield
 
-Thanks to [Drew Povey](https://www.digitalspy.com/tv/a34573273/educating-greater-manchester-drew-povey-resignation-explained/) and Mr Ince for showing me around [Harrop Fold School (now The Lowry Academy)](https://en.wikipedia.org/wiki/The_Lowry_Academy) in Salford, home to [Educating Greater Manchester](https://www.channel4.com/programmes/educating-greater-manchester).  Thanks to Mr Shaw for hosting our primary school [codeclub.org](https://codeclub.org/en/).
+Thanks to [Drew Povey](https://www.digitalspy.com/tv/a34573273/educating-greater-manchester-drew-povey-resignation-explained/) and Mr Ince for showing me around [Harrop Fold School (now The Lowry Academy)](https://en.wikipedia.org/wiki/The_Lowry_Academy) in Salford, host of the [Educating Greater Manchester](https://www.channel4.com/programmes/educating-greater-manchester) television series on Channel 4. Thanks to Mr Shaw for hosting our primary school [codeclub.org](https://codeclub.org/en/).
+
+```{r coding-their-future-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncodingtheirfuture)"}
+knitr::include_graphics("images/schools-banner.jpeg")
+```
+
+(ref:captioncodingtheirfuture) Thanks to all the schools in Greater Manchester who've supported our [Coding their Future](https://www.cs.man.ac.uk/~hulld/coding-their-future.html) partnership where undergraduates teach computer science in local secondary schools.
 
 Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. These interviews were very productive failures:
 
@@ -567,7 +573,7 @@ Thanks to [Tom Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) and L
 
 Thanks [Timo Hannay](https://en.wikipedia.org/wiki/Timo_Hannay) for letting me gatecrash the best party in Silicon Valley: [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) at the Googleplex in [Mountain View, California](https://en.wikipedia.org/wiki/Mountain_View,_California) in 2007 and again in 2009.
 
-Thanks Boston, Massachusetts for hosting [disruptive tea parties](https://en.wikipedia.org/wiki/Boston_Tea_Party) via the [W3C Healthcare and Life Sciences Interest Group](https://www.w3.org/wiki/HCLSIG) (HCLSIG) and the Association for the Advancement of Artificial Intelligence ([AAAI](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)) conference [@aaai]. Thanks [Joanne Luciano](https://www.uvi.edu/directory/profiles/faculty/luciano-joanne.aspx) for showing me the sights of [Cambridge, Massachusetts](https://en.wikipedia.org/wiki/Cambridge,_Massachusetts). Thanks to [Ewa Deelman](https://en.wikipedia.org/wiki/Ewa_Deelman), [Yolanda Gil](https://en.wikipedia.org/wiki/Yolanda_Gil) and [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) for hosting transatlantic workflow collaborations at the [San Diego Supercomputer Center](https://en.wikipedia.org/wiki/San_Diego_Supercomputer_Center) (UCSD) & University of Southern California (USC) with help from Carole Goble and funding from the [Engineering and Physical Sciences Research Council](https://en.wikipedia.org/wiki/Engineering_and_Physical_Sciences_Research_Council) (EPSRC).
+Thanks Boston, Massachusetts for hosting [disruptive tea parties](https://en.wikipedia.org/wiki/Boston_Tea_Party) via the [W3C Healthcare and Life Sciences Interest Group](https://www.w3.org/wiki/HCLSIG) (HCLSIG) and the Association for the Advancement of Artificial Intelligence ([AAAI](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)) conference [@aaai]. Thanks [Joanne Luciano](https://scholar.google.com/citations?user=wWYH1IMAAAAJ) for showing me the sights of [Cambridge, Massachusetts](https://en.wikipedia.org/wiki/Cambridge,_Massachusetts). Thanks to [Ewa Deelman](https://en.wikipedia.org/wiki/Ewa_Deelman), [Yolanda Gil](https://en.wikipedia.org/wiki/Yolanda_Gil) and [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) for hosting transatlantic workflow collaborations at the [San Diego Supercomputer Center](https://en.wikipedia.org/wiki/San_Diego_Supercomputer_Center) (UCSD) & University of Southern California (USC) with help from Carole Goble and funding from the [Engineering and Physical Sciences Research Council](https://en.wikipedia.org/wiki/Engineering_and_Physical_Sciences_Research_Council) (EPSRC).
 
 So thanks to America for being American. 🙏
 
@@ -720,7 +726,9 @@ knitr::include_graphics("images/acropolis-at-night.png")
 
 (ref:captionacropolis) The [Acropolis of Athens](https://en.wikipedia.org/wiki/Acropolis_of_Athens)  is home to the [Parthenon](https://en.wikipedia.org/wiki/Parthenon), a temple dedicated to the goddess of wisdom and warfare: [Αθήνα](https://en.wikipedia.org/wiki/Athena). Picture of the Acropolis at night from the [Pnyx](https://en.wikipedia.org/wiki/Pnyx) with [Hymettus](https://en.wikipedia.org/wiki/Hymettus) in the background by [George E. Koronaios](https://commons.wikimedia.org/wiki/User:George_E._Koronaios) adapted from an original on Wikimedia Commons [w.wiki/4c2t](https://w.wiki/4c2t).
 
-So, thanks to all my family scattered around the world for your unconditional love. Για πάντα σ'αγαπώ. 🙏
+So, thanks to all my family scattered around the world for your unconditional love.
+
+Για πάντα σ'αγαπώ. 🙏
 
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for undergraduate and postgraduate students as part of my job at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
