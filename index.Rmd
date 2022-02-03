@@ -278,7 +278,7 @@ The content of this book is based on hundreds of conversations I have had with s
 ::: {.rmdnote}
 (ref:codingcomment)
 
-This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a public [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Showing gratitude, publicly and privately, is a simple and proven technique for improving your mental health. It will also improve the mental health of the people who you thank, see \@ref(signposts3).
+This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a (public) [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Showing gratitude, publicly and privately, is a simple and proven technique for improving your mental health. It will also improve the mental health of the people who you thank, see \@ref(signposts3).
 
 If you want to get to the main content of this book you can skip this and go straight to chapter \@ref(rebooting).
 
@@ -370,7 +370,14 @@ knitr::include_graphics("images/msc-2003.jpeg")
 ... (continued) Matthew Makin, Nicolas Matentzoglu, Paul Mativenga, Erica McAlister, Mary McGee Wood, April McMahon, Merc and members of the [Manchester University Mountaineering Club](https://www.mumc.me.uk/wordpress) (MUMC), Simon Merrywest, Eleni Mikroyannidi, Zahra Montazeri, Colin Morris, Norman Morrison, Georgina Moulton, Boris Motik, Christoforos Moutafis, Tingting Mu, Ettore Murabito, Mustafa Mustafa, Javier Navaridas, Kostas Nikolou, Aleksandra Nenadic, Goran Nenadic, Steve McDermott, Jock McNaught, Mary McGee-Wood, Pedro Mendes, Sarah Mohammad-Qureshi, Tim Morris, Jennifer O'Brien, Tim O'Brien, Steve Oliver, Pierre Olivier, Mario Ramirez Orihuela, Stuart Owen, Ali Owrak, Liam Panchaud, Pavlos Petoumenos, David Petrescu, Luis Plana, Colin Puleston, Paul Nutter, Ignazio Palmisano, Dario Panada, Michael Parkin, Bijan Parsia, Jon Parkinson, Norman Paton, Jeff Pepper, Steve Pettifer, Rishi Ramgolam, Allan Ramsay, Magnus Rattray, Alasdair Rawsthorne, Farshid Rayhan, Alan Rector, Giles Reger, Graham Riley, David Robertson, Jeremy Rodgers, Clare Roebuck, Mauricio Jacobo Romero, Nancy Rothwell, William Rowe, Oliver Rhodes, David Rydeheard, Graham Riley, Daniella Ryding, Ulrike Sattler, Ahmed Saeed, Pejman Saeghe, Rizos Sakellariou, Pedro Sampaio, Sandra Sampaio, John Sargeant, Andrea Schalk, Viktor Schlegel, Renate Schmidt, Jonathan Shapiro, [Liz Sheffield](https://www.manchester.ac.uk/discover/governance/structure/board-governors/members/liz-sheffield/), Lynn Sheppard, Bushra Sikander, Lemn Sissay, Vangelis Simeonidis, Kieran Smallbone, Alastair Smith, Stian Soiland-Reyes, Irena Spasic, David Spendlove, Laurence Stamford, Robert Stevens, Alan Stokes, Shoaib Sufi, James Sumner, Neil Swainston, [John H. Tallis](https://doi.org/10.1002/jqs.3390060408), Paul Taplin, Federico Tavella, Chris Taylor, Tom Thomson, Dave Thorne, David Toluhi, [Tony Trinci](https://www.theguardian.com/science/2020/nov/10/tony-trinci-obituary), Dimitri Tsarkov, Daniele Turi, Jake Vasilakes, Laura Vasques, Delia Vazquez, Giles Velarde, Chiara Del Vescovo, Markel Vigo, Sam de Visser, Andrei Voronkov, Niels Walet, Alex Walker, Louise Walker, Nicholas Weise, Dieter Wiechart, Igor Wodiany, Katy Wolstencroft, Natalie Wood, Chris Wroe, Crystal Wu, Lisheng Wu, Yifan Xu, Viktor Yarmolenko, Yeliz Yesilada, He Yu, Serafeim Zanikolas, Xiao-Jun Zeng, Jun Zhao, Liping Zhao, Ning Zhang and Evgeny Zolin.
 
 
-Thanks to funding at various stages from the [Biotechnology and Biological Sciences Research Council](https://en.wikipedia.org/wiki/Biotechnology_and_Biological_Sciences_Research_Council) (BBSRC), the [Engineering and Physical Sciences Research Council](https://en.wikipedia.org/wiki/Engineering_and_Physical_Sciences_Research_Council) (EPSRC), European Union (EU), [National Science Foundation](https://en.wikipedia.org/wiki/National_Science_Foundation) (NSF), the [Natural Environment Research Council](https://en.wikipedia.org/wiki/Natural_Environment_Research_Council) (NERC) and [UK Research and Innovation](https://en.wikipedia.org/wiki/UK_Research_and_Innovation) (UKRI).
+Thanks to funding at various stages from the
+
+* [Biotechnology and Biological Sciences Research Council](https://en.wikipedia.org/wiki/Biotechnology_and_Biological_Sciences_Research_Council) (BBSRC)
+* [Engineering and Physical Sciences Research Council](https://en.wikipedia.org/wiki/Engineering_and_Physical_Sciences_Research_Council) (EPSRC)
+* European Union (EU)
+* [National Science Foundation](https://en.wikipedia.org/wiki/National_Science_Foundation) (NSF)
+* [Natural Environment Research Council](https://en.wikipedia.org/wiki/Natural_Environment_Research_Council) (NERC)
+* [UK Research and Innovation](https://en.wikipedia.org/wiki/UK_Research_and_Innovation) (UKRI)
 
 ```{r hitchens-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhitch)"}
 knitr::include_graphics("images/everyone-has-a-book-inside-them.jpeg")
@@ -450,7 +457,7 @@ knitr::include_graphics("images/youtube-alom.png")
 
 (ref:captionshaha) [Alom Shaha](https://alomshaha.com/) demonstrates his awesome wave machine. Physics and jelly babies, what's not to like? [@youtube-alom] The image in the figure is a screenshot, watch the four minute video at [youtu.be/VE520z_ugcU](https://youtu.be/VE520z_ugcU)
 
-So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of the [West Country](https://en.wikipedia.org/wiki/West_Country). 🙏
+So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of the [West Country](https://en.wikipedia.org/wiki/West_Country). Proper job. 🙏
 
 ### Thank you Stockport {#stockport}
 Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes Roman Catholic High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Rebecca Dann, Michael Doody, Keith Doran and other members of the [alternative (Elizabethan) staff room](https://www.elizabethanstockport.co.uk/) for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
@@ -558,7 +565,7 @@ Thanks to [Malcolm Press](https://en.wikipedia.org/wiki/Malcolm_Press), Helena B
 ```{r abisko-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionabikso)"}
 knitr::include_graphics("images/abisko.jpeg")
 ```
-(ref:captionabikso) The [Abisko Scientific Research Station]((https://en.wikipedia.org/wiki/Abisko_Scientific_Research_Station)) (ANS) is a field research station in the Abisko National Park. The station conducts research in subarctic environments and hosts around 500 scientists each year from all over the world. Picture of the view from Björkliden over the national park, past ANS on the shore of Lake Torneträsk towards the Gate to Lappland ([Lapporten](https://en.wikipedia.org/wiki/Lapporten)), by Lappländer on Wikimedia Commons [w.wiki/4b3t](https://w.wiki/4b3t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionabikso) The [Abisko Scientific Research Station]((https://en.wikipedia.org/wiki/Abisko_Scientific_Research_Station)) (ANS) is a field research station in the Abisko National Park. The station hosts around 500 scientists each year from all over the world, who conduct research in subarctic environments. Picture of the view from Björkliden over the national park, past ANS on the shore of Lake Torneträsk towards the Gate to Lappland ([Lapporten](https://en.wikipedia.org/wiki/Lapporten)), by Lappländer on Wikimedia Commons [w.wiki/4b3t](https://w.wiki/4b3t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 So thanks Abisko for all the saunas, [fika](https://www.swedishfood.com/fika), [midnight sun](https://en.wikipedia.org/wiki/Midnight_sun) and Swedish hospitality. 🙏
 
@@ -573,7 +580,7 @@ knitr::include_graphics("images/BUNAC.jpeg")
 
 (ref:captionbunac) The [British Universities North America Club](https://en.wikipedia.org/wiki/BUNAC) (BUNAC) allows students to work abroad, see [bunac.org](https://bunac.org/). Public domain image of the flag of the United States via Wikimedia Commons [w.wiki/4cRF](https://w.wiki/4cRF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Thanks to Mitch at [Green Tortoise Adventure Travel](https://greentortoise.com/) for driving, entertaining and feeding a bus load of us [hippies with flowers in our hair](https://en.wikipedia.org/wiki/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)) from San Francisco to New York via some of America's finest wildernesses (and cookouts) in Nevada, Utah, Wyoming, the [Yellowstone](https://en.wikipedia.org/wiki/Yellowstone_National_Park), [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton_National_Park) and [Badlands](https://en.wikipedia.org/wiki/Badlands_National_Park) National Parks. [@flowersinyourhair]
+Thanks to Mitch at [Green Tortoise Adventure Travel](https://greentortoise.com/) for driving, entertaining and feeding a bus load of us [hippies with flowers in our hair](https://en.wikipedia.org/wiki/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)) from San Francisco to New York via Chicago and some of America's finest wildernesses (and cookouts) in Nevada, Utah, Wyoming, South Dakota, the [Yellowstone](https://en.wikipedia.org/wiki/Yellowstone_National_Park), [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton_National_Park) and [Badlands](https://en.wikipedia.org/wiki/Badlands_National_Park) National Parks. [@flowersinyourhair]
 
 Thanks to [Tom Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) and Letty Gochberg for your excellent hospitality in New York City, your transatlantic history lessons and showing me the very best that Manhattan has to offer. Thanks Pat, Colin and Rob Willmott for the introduction via [Tall Ships America](https://en.wikipedia.org/wiki/Tall_Ships_America) in Plymouth, Devon from where the [Mayflower](https://en.wikipedia.org/wiki/Mayflower) (eventually) set off for the [New World](https://en.wikipedia.org/wiki/New_World) in 1620, see [mayflower400uk.org](https://www.mayflower400uk.org/)
 
@@ -607,6 +614,7 @@ Some of the most important influences on this guidebook are people I've only met
     + Paul Downey at [whatfettle.com](https://blog.whatfettle.com/)
     + [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) at [paulgraham.com](http://paulgraham.com/)
     + [Andrew Maynard](https://en.wikipedia.org/wiki/Andrew_D._Maynard) at [andrewmaynard.net](https://andrewmaynard.net)
+    + [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) at [cameronneylon.net](http://cameronneylon.net/)
     + [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
     + Neil Saunders at [What you're doing is rather desperate](https://nsaunders.wordpress.com/blog/)
     + Greg Wilson at [third-bit.com](https://third-bit.com/)
