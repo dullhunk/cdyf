@@ -23,7 +23,7 @@ A useful hacking technique is to take somebody elses stuff and fix or improve it
 
 So, here are some fictitious CVs for you to hack, from students of Computer Science. They are based on CVs I've seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can fix their CVs and work out which candidate is best for the sample job description at CoolTech in section \@ref(cooltech)? Can you hack their future?
 
-Special thanks to [Toby Howard](https://en.wikipedia.org/wiki/Toby_Howard) and [Sean Bechhofer](https://personalpages.manchester.ac.uk/staff/sean.bechhofer/) for coming up with some of these silly names for fictional students in computing. Please direct any complaints about the terribly geeky jokes to Toby and Sean! Can you spot all the bad jokes? Thanks also Ben Carter and Penny Gordon Lanes in the careers service at the University of Manchester, some of these CVs are based on examples they have collected and anonymised. 🙏
+Special thanks to [Toby Howard](https://en.wikipedia.org/wiki/Toby_Howard) and [Sean Bechhofer](https://personalpages.manchester.ac.uk/staff/sean.bechhofer/) for coming up with some of these silly names for fictional students in computing. Please direct any complaints about the terribly geeky puns to Toby and Sean! Can you spot all the bad jokes? Thanks also Ben Carter and Penny Gordon Lanes in the careers service at the University of Manchester, some of these CVs are based on examples they have collected and anonymised. 🙏
 
 ## Breakpoints
 (ref:breakpoint)
@@ -82,7 +82,7 @@ knitr::include_graphics("images/marge_conflict.png")
 Mike loves operating systems, but not if they get too bloated, see figure \@ref(fig:mikrokernel-fig).
 
 ```{r mikrokernel-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmike)"}
-knitr::include_graphics("images/mike_rokernel.png")
+knitr::include_graphics("images/mike_rokernel_usa.png")
 ```
 
 (ref:captionmike) Mike Rokernel's full CV can be viewed at [cdyf.me/Mike_Rokernel.pdf](https://www.cdyf.me/Mike_Rokernel.pdf)
