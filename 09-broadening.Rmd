@@ -37,7 +37,7 @@ The phrase software engineering has been around since [Margaret Hamilton](https:
 knitr::include_graphics("images/margaret-hamilton.jpeg")
 ```
 
-(ref:captionhamilton) The role of software engineer has been around for a long time but there are plenty of other roles for computer scientists beyond software engineering. [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) in 1969 standing next to all of the printed code for the navigation software that she and her MIT team produced for the [Apollo program](https://en.wikipedia.org/wiki/Apollo_program). Public domain image via Wikimedia Commons [w.wiki/3YJW](https://w.wiki/3YJW) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionhamilton) The role of software engineer has been around for a long time but there are plenty of other roles for computer scientists beyond software engineering. [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) in 1969 standing next to all of the printed code for the navigation software that she and her MIT team produced for the [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer). Public domain image via Wikimedia Commons [w.wiki/3YJW](https://w.wiki/3YJW) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Software engineers (or software developers if you prefer) are one of the most popular roles for graduates (see e.g. figure \@ref(fig:nurses-fig)) but there are plenty of affiliated roles that computer scientists go into besides software engineering.
 
@@ -65,7 +65,15 @@ What do these roles entail?
 
 ## Research roles {#rse}
 
-There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at CERN or Biochemists in a wet lab for example. There are also roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). Some examples from the UK and Europe:
+There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at CERN or Biologists in a wet lab for example. There are also lots roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). Places like CERN employ ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software.
+
+```{r cern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
+knitr::include_graphics("images/cern-engineering.jpeg")
+```
+
+(ref:captioncern) Many scientific laboratories like CERN employ lots of software and hardware engineers. Computation isn't just a fundamental part of physics, it is key to all the natural sciences. Fair use image via Wikimedia Commons [w.wiki/4qmF](https://w.wiki/4qmF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+An non-exhaustive list of laboratories from the UK and Europe that employ computer scientists is shown below:
 
 * CERN, see [careers.cern](https://careers.cern/) and [careers.cern/join-us/students](https://careers.cern/join-us/students)
 * The [Francis Crick Institute](https://en.wikipedia.org/wiki/Francis_Crick_Institute) see e.g. [crick.ac.uk/careers-study/students/sandwich-students](https://www.crick.ac.uk/careers-study/students/sandwich-students)

@@ -143,7 +143,7 @@ Computer science is a young and rapidly changing discipline which means you can 
 
 Am I being insensitive asking people to step outside their comfort zone when we've all be stretched beyond breaking point during COVID-19? We're all going to need to continue to step outside of our respective comfort zones in order to meet the challenges we face around the world, see figure \@ref(fig:comfortzone-fig).
 
-```{r comfortzone-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captioncomfortzone)"}
+```{r comfortzone-fig, echo = FALSE, fig.align = "center", out.width = "75%", fig.cap = "(ref:captioncomfortzone)"}
 knitr::include_graphics("images/Step outside your comfort zone.png")
 ```
 (ref:captioncomfortzone) You learn and grow more when you step outside your comfort zone. Comfort zone sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)

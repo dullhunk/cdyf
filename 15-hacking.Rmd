@@ -69,7 +69,7 @@ knitr::include_graphics("images/rick_urshion.png")
 
 ### Marge Conflict {#marge-conflict}
 
-Marjorie loves version control and her superpower is resolving people's differences, see figure \@ref(fig:margeconflict-fig).
+Marjorie loves version control, she is has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) and her superpower is resolving people's differences, see figure \@ref(fig:margeconflict-fig).
 
 ```{r margeconflict-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarge)"}
 knitr::include_graphics("images/marge_conflict.png")
@@ -79,7 +79,7 @@ knitr::include_graphics("images/marge_conflict.png")
 
 ### Michael Rokernel {#mike-rokernel}
 
-Mike loves operating systems, but not if they get too bloated, see figure \@ref(fig:mikrokernel-fig).
+Mike lives in Los Angeles and loves operating systems, but not if they get too bloated, see figure \@ref(fig:mikrokernel-fig).
 
 ```{r mikrokernel-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmike)"}
 knitr::include_graphics("images/mike_rokernel_usa.png")
