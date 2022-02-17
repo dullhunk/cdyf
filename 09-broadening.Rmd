@@ -65,7 +65,7 @@ What do these roles entail?
 
 ## Research roles {#rse}
 
-There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at CERN or Biologists in a wet lab for example. There are also lots roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). Places like CERN employ ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software.
+There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. There are also lots roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software.
 
 ```{r cern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
 knitr::include_graphics("images/cern-engineering.jpeg")
@@ -85,13 +85,13 @@ An non-exhaustive list of laboratories from the UK and Europe that employ comput
 * Jodrell Bank Observatory [jodrellbank.manchester.ac.uk](https://www.jodrellbank.manchester.ac.uk/)
 * The [metoffice.gov.uk](https://www.metoffice.gov.uk/), see [metoffice.gov.uk/about-us/careers/apprentices-graduates-and-placements](https://www.metoffice.gov.uk/about-us/careers/apprentices-graduates-and-placements)
 * Plymouth Marine Laboratory [pml.ac.uk](https://www.pml.ac.uk/) see [pml.kallidusrecruit.com](https://pml.kallidusrecruit.com/)
-* Rutherford Appleton Laboratory [RAL](https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) see [stfccareers.co.uk/students/](https://stfccareers.co.uk/students/) under *Computing*
-* Wellcome Trust Sanger Institute (WTSI) [sanger.ac.uk](https://www.sanger.ac.uk/)
+* Rutherford Appleton Laboratory ([RAL])(https://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory) see [stfccareers.co.uk/students/](https://stfccareers.co.uk/students/) under *Computing*
+* The Wellcome Sanger Institute [sanger.ac.uk](https://www.sanger.ac.uk/)
 * More like this at [jobs.ac.uk](https://jobs.ac.uk/)
 
-Many Universities and research institutes have summer internships for computer science students working alongside researchers, for example, at the University of Manchester these are advertised each year around May. Speak to the head of a research lab in your department. Ask them if they have plans to take on summer students.
+These are mainly UK opportunities, but it is a similar story around the world. Many Universities and research institutes have summer internships for computer science students working alongside researchers. For example, at the University of Manchester, summer vacancies tend to be advertised each year around May. Wherever you are, speak to the head of a research lab you're interested in. Ask them if they have plans to take on summer students.
 
-If you're thinking of doing postgraduate study, see chapter \@ref(researching). Commercial experience gained on a summer internship or placement year is valued by *all* employers (not just commercial ones) so doing an internship or placement during your undergraduate degree.
+If you're thinking of doing postgraduate study, see chapter \@ref(researching). Commercial experience gained on a summer internship or placement year is valued by *all* employers (not just commercial ones) so doing an internship or placement during your undergraduate degree is valuable wherever you end up.
 
 ## With great code comes great responsibility {#peterparker}
 
