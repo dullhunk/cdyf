@@ -216,12 +216,15 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-The web version of this book will always be available at [www.cdyf.me](https://www.cdyf.me/), so the `*.html` version will always be searchable and linkable. If you'd rather read this guidebook in ebook format, you can buy the automatically updated pdf and epub on leanpub.com, shown in figure \@ref(fig:leanpub-fig):
+This book will always be available at [www.cdyf.me](https://www.cdyf.me/), so the `*.html` version of the text will always be searchable, browsable and linkable. If you'd rather read this guidebook in ebook format than a web browser, you can buy the automatically updated epub and pdf at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
-```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="This guidebook is also avaialble as an ebook on leanpub.com", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
+```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
 knitr::include_url('https://leanpub.com/cdyf')
 ```
+(ref:captionleanpub) This guidebook is also available as an ebook at [leanpub.com/cdyf](https://leanpub.com/cdyf)
+
+
 <!-- note that can't do this for youtube because it refuses to connect
 knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
 -->
@@ -618,20 +621,25 @@ Some of the most important influences on this guidebook are people I've only met
 * Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for her cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
 * Thanks to [Yihui Xie](https://en.wikipedia.org/wiki/Yihui_Xie) ([\@yihui](https://github.com/yihui)) and contributors to [bookdown.org](https://bookdown.org), the software used to produce this book alongwith the comprehensive and well-written documentation on using it. [@xie2017; @xie2015; @xie2020]
 * Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for her *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my priorities when they were all out of kilter
-* Thanks to blogging blokes on the interwebs whose words I've enjoyed reading. Your writing provides an existence proof that engineers and scientists should also be good communicators:
-    + [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [tbray.org/ongoing](https://www.tbray.org/ongoing/)
-    + Paul Downey at [whatfettle.com](https://blog.whatfettle.com/)
-    + [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) at [paulgraham.com](http://paulgraham.com/)
-    + Bosco Ho at [boscoh.com](https://boscoh.com/)
-    + [Andrew Maynard](https://en.wikipedia.org/wiki/Andrew_D._Maynard) at [andrewmaynard.net](https://andrewmaynard.net)
-    + [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) at [cameronneylon.net](http://cameronneylon.net/)
-    + [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
-    + Neil Saunders at [What you're doing is rather desperate](https://nsaunders.wordpress.com/blog/)
-    + Greg Wilson at [third-bit.com](https://third-bit.com/)
 * Thanks to Jo Hobbs at Lancaster University for advice on placements and employability in undergraduate teaching
 * Thanks to [Sophie Milliken](https://twitter.com/SRS_Sophie) for *From Learner to Earner: A recruitment insider's guide for students wanting to achieve graduate job success* [@milliken] which draws useful distinctions between graduate jobs and graduate schemes
 
 So, thanks influencers for being influential. 🙏
+
+### Thank you blogging blokes {#blogging}
+Thanks to blogging blokes on the interwebs whose words I've enjoyed reading. Your writing provides an existence proof that engineers and scientists should also be good communicators:
+
+* [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [tbray.org/ongoing](https://www.tbray.org/ongoing/)
+* Paul Downey at [whatfettle.com](https://blog.whatfettle.com/)
+* [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) at [paulgraham.com](http://paulgraham.com/)
+* Bosco Ho at [boscoh.com](https://boscoh.com/)
+* [Andrew Maynard](https://en.wikipedia.org/wiki/Andrew_D._Maynard) at [andrewmaynard.net](https://andrewmaynard.net)
+* [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) at [cameronneylon.net](http://cameronneylon.net/)
+* [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
+* Neil Saunders at [What you're doing is rather desperate](https://nsaunders.wordpress.com/blog/)
+* Greg Wilson at [third-bit.com](https://third-bit.com/)
+
+So, thanks blogging blokes for blogging. 🙏
 
 ### Thank you githubbers {#github}
 
