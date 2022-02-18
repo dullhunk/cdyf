@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, engineer, test and `code` your future in computing. Also published at [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) & [cdyf.epub](https://www.cdyf.me/cdyf.epub), this book is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
+Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, engineer, test and `code` your future in computing. Also published at [cdyf.pdf](https://leanpub.com/cdyf) & [cdyf.epub](https://leanpub.com/cdyf), this book is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -265,9 +265,9 @@ Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wik
 
 If you don't want to (or can't) use Git and [github.com](https://github.com/) then you can:
 
-* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Add comments by annotating [cdyf.pdf](https://leanpub.com/cdyf) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
 * Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the LaTeX ones used to create the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) (output) from the [cdyf.tex](https://cdyf.me/cdyf.tex) (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a). Track changes is Microsoft Word's [killer feature](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
+* Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the LaTeX ones used to create the [cdyf.pdf](https://leanpub.com/cdyf) (output) from the cdyf.tex (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a). Track changes is Microsoft Word's [killer feature](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
 * Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
@@ -278,7 +278,7 @@ The content of this book is based on hundreds of conversations I have had with s
 ::: {.rmdnote}
 (ref:codingcomment)
 
-This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a (public) [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Showing gratitude, publicly and privately, is a simple and proven technique for improving your mental health. It will also improve the mental health of the people who you thank, see \@ref(signposts3).
+This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a (public) [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Expressing gratitude, publicly and privately, is a simple and proven technique for improving your mental health. It will also improve the mental health of the people who you thank, see \@ref(signposts3).
 
 If you want to get to the main content of this book you can skip this and go straight to chapter \@ref(rebooting).
 
@@ -389,7 +389,7 @@ Thanks also to the superb support staff (past and present) from professional ser
 
 And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) ✊🏽 [Fight the Power](https://en.wikipedia.org/wiki/Fight_the_Power_(Public_Enemy_song))! ✊🏽 [@fightthepower]
 
-So, thanks professional services staff for being professional and supporting the work of teaching. 🙏
+So, thanks professional services staff for being professional and supporting the work of academics doing research and teaching. 🙏
 
 ### Thank you SIGCSE {#sigcse}
 Thanks to the [sigcse.org](https://www.sigcse.org), the Special Interest Group (SIG) on Computer Science Education (CSE), part of the Association for Computing Machinery ([acm.org](https://www.acm.org/)). Thanks to my fellow [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) board members [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Janet Carter](https://www.kent.ac.uk/computing/people/3101/carter-janet), [Tom Crick](https://proftomcrick.com/), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher), [Samia Kamal](https://www.advance-he.ac.uk/ntfs/dr-samia-kamal), [Joseph McGuire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) and [Sally Smith](https://www.napier.ac.uk/people/sally-smith) for your help and advice, see figure \@ref(fig:sigcse-fig)
@@ -418,11 +418,11 @@ There is a wider community of scientists, engineers and scholars that have influ
 So thanks scientists (and engineers) for being scientific and engineering. 🙏
 
 ### Thank you Bath {#bath}
-As a graduate of the [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) in Science  at the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) (graduated 2011), I have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
+As a graduate of the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) (Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) in Science, 2011), I have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
 
-* Caroline Padley (Physics)
-* Steve Cooper (Chemistry)
-* Malcolm Ingram (Biology)  
+* Caroline Padley, Physics
+* Steve Cooper, Chemistry
+* Malcolm Ingram, Biology
 
 <!-- vortex cannon guy https://www.youtube.com/watch?v=IyAyd4WnvhU guest speakers such as [Steve Mould](https://en.wikipedia.org/wiki/Steve_Mould)-->
 
@@ -707,7 +707,7 @@ knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 So, thank you to the community that is St. Laurence School, for educating me (and many others) the [West Country](https://en.wikipedia.org/wiki/West_Country) way. Proper job! 🙏 [@bristle]
 
 ### Thank you Fitzmaurice {#fitzmaurice}  
-Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Morris Clay, Neil Fleming, Mr Jackson, [Betty Knowles](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/18007859.Betty_Knowles/), Mr. Lucas, [Valerie Payne](https://www.dignityfunerals.co.uk/funeral-notices/21-11-2020-valerie-payne/), Miss Sheldon, [Hugh Solomon](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/9828233.Hugh_Solomon/), Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the crucial foundations laid in primary school. It takes a whole community (a village) to raise a child and  starting with primary school, see figure \@ref(fig:clinton-fig).
+Thanks to my [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) school teachers: Mrs Cripps, Miss Clarry, Morris Clay, Neil Fleming, Mr Jackson, [Betty Knowles](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/18007859.Betty_Knowles/), Mr. Lucas, [Valerie Payne](https://www.dignityfunerals.co.uk/funeral-notices/21-11-2020-valerie-payne/), Miss Sheldon, [Hugh Solomon](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/9828233.Hugh_Solomon/), Miss Uncles and Mrs White. I used to foolishly think it was secondary schools that did all the serious teaching, but they'd be *nowhere* without the crucial foundations laid in primary school. It takes a whole community (a village) to raise a child and a lot of that starts in primary school, see figure \@ref(fig:clinton-fig).
 <!--Cathy George: Mrs George don't think she taught me-->
 ```{r clinton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclinton)"}
 knitr::include_graphics("images/hillary-clinton.jpeg")

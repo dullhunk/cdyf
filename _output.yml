@@ -10,7 +10,7 @@ bookdown::bs4_book:
 bookdown::pdf_book:
   latex_engine: "xelatex"
   citation_package: natbib
-  keep_tex: true
+  keep_tex: false
   # keep_tex: yes doesn't work
 
 # EPUB version at https://cdyf.me/cdyf.epub
