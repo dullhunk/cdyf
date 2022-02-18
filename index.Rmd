@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding your future - Title.png")
 ```
-Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, engineer, test and `code` your future in computing. Also published at [cdyf.pdf](https://leanpub.com/cdyf) & [cdyf.epub](https://leanpub.com/cdyf), this book is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
+Hello and welcome to *Coding Your Future* ([cdyf.me](https://www.cdyf.me)) the guidebook that will help you to design, engineer, test and `code` your future in computing. Also available as an [ebook](https://leanpub.com/cdyf), this guide is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
 * what *stage* of your degree you are at, from first year through to final year
 * what *level* you are studying at, foundation, undergraduate or postgraduate
@@ -214,6 +214,18 @@ knitr::include_graphics("images/goldengate.png")
 <!--in progress 1. **Quick quizzes** quick quizzes to test your knowledge-->
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->
 
+## Buying your future {#buying}
+
+The web version of this book will always be available at [www.cdyf.me](https://www.cdyf.me/), so the `*.html` version will always be searchable and linkable. If you'd rather read this guidebook in ebook format, you can buy the automatically updated pdf and epub on leanpub.com, shown in figure \@ref(fig:leanpub-fig):
+
+<!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
+```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="This guidebook is also avaialble as an ebook on leanpub.com", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
+knitr::include_url('https://leanpub.com/cdyf')
+```
+<!-- note that can't do this for youtube because it refuses to connect
+knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
+-->
+In the future, a traditional printed copy from a publisher may also be available. If you're a publisher who'd like to publish this book, please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html).
 
 ## Contributing to your future {#contributing}
 If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged section \@ref(thanks) unless you ask for your contributions to remain anonymous.

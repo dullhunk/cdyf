@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  18 FEB 2022 15:13
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  18 FEB 2022 17:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -747,7 +747,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 2.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 2.
-[3] [4] [5] [6])
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[4] [5] [6])
 \tf@toc=\write4
 \openout4 = `cdyf.toc'.
 
@@ -806,12 +809,15 @@ Underfull \vbox (badness 6927) has occurred while \output is active []
 [16]
 File: images/goldengate.png Graphic file (type bmp)
 <images/goldengate.png>
+[17]
+File: cdyf_files/figure-latex/leanpub-fig-1.png Graphic file (type bmp)
+<cdyf_files/figure-latex/leanpub-fig-1.png>
 File: images/critical-friend.jpeg Graphic file (type bmp)
 <images/critical-friend.jpeg>
-[17]
-Missing character: There is no 😜 (U+1F61C) in font [lmroman10-regular]:mapping=tex-text;!
 [18]
-Underfull \hbox (badness 4492) in paragraph at lines 515--517
+Missing character: There is no 😜 (U+1F61C) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 4492) in paragraph at lines 526--528
 []\TU/lmr/m/n/10 Fork the repository, make changes and submit a pull request
  []
 
@@ -822,26 +828,24 @@ File: images/standing-on-the-shoulders-of-students.png Graphic file (type bmp)
 File: images/bbcbreakfastsofa.png Graphic file (type bmp)
 <images/bbcbreakfastsofa.png>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 [21]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🤬 (U+1F92C) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎸 (U+1F3B8) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+[22]
 File: images/graduation-ceremony-2013.png Graphic file (type bmp)
 <images/graduation-ceremony-2013.png>
 Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=tex-text;!
-[22]
+[23]
 File: images/msc-2003.jpeg Graphic file (type bmp)
 <images/msc-2003.jpeg>
-[23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 [24]
 File: images/everyone-has-a-book-inside-them.jpeg Graphic file (type bmp)
 <images/everyone-has-a-book-inside-them.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[25]
+[25] [26]
 Missing character: There is no ✊ (U+270A) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🏽 (U+1F3FD) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ✊ (U+270A) in font [lmroman10-regular]:mapping=tex-text;!
@@ -849,10 +853,15 @@ Missing character: There is no 🏽 (U+1F3FD) in font [lmroman10-regular]:mappin
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/sigcse.jpeg Graphic file (type bmp)
 <images/sigcse.jpeg>
-[26]
-Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 [27]
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--744
+\TU/lmr/m/n/10 tion]([]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][][] [] [][][][][][][][][][][] [] [][] [] [][][][][][][][][]$[])
+ []
+
+[28]
 File: images/bath-panorama.jpeg Graphic file (type bmp)
 <images/bath-panorama.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
@@ -860,28 +869,28 @@ File: images/shaftesbury.jpg Graphic file (type bmp)
 <images/shaftesbury.jpg>
 Missing character: There is no 🍞 (U+1F35E) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4416) has occurred while \output is active []
 
-[28]
+[29]
 File: images/youtube-alom.png Graphic file (type bmp)
 <images/youtube-alom.png>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/st-annes-rc-high-school.jpg Graphic file (type bmp)
 <images/st-annes-rc-high-school.jpg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[29]
+[30]
 File: images/schools-banner.jpeg Graphic file (type bmp)
 <images/schools-banner.jpeg>
-[30] [31]
+[31] [32]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/dreaming-spires-oxford-sunrise.png Graphic file (type bmp)
 <images/dreaming-spires-oxford-sunrise.png>
-[32]
+[33]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/european-bioinformatics-institute.jpeg Graphic file (type bmp)
 <images/european-bioinformatics-institute.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[33]
+[34]
 File: images/Wednesday_Waggle.png Graphic file (type bmp)
 <images/Wednesday_Waggle.png>
 File: images/Wednesday_Waggle.png Graphic file (type bmp)
@@ -889,7 +898,7 @@ File: images/Wednesday_Waggle.png Graphic file (type bmp)
 File: images/Wednesday_Waggle.png Graphic file (type bmp)
 <images/Wednesday_Waggle.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 933--933
+Underfull \hbox (badness 10000) in paragraph at lines 944--944
 [][] []
  []
 
@@ -901,7 +910,7 @@ File: images/godiva.jpeg Graphic file (type bmp)
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇪 (U+1F1EA) in font [lmroman10-regular]:mapping=tex-text;!
-[34] [35]
+[35] [36]
 File: images/abisko.jpeg Graphic file (type bmp)
 <images/abisko.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
@@ -909,18 +918,18 @@ Missing character: There is no 🇺 (U+1F1FA) in font [lmroman10-regular]:mappin
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/BUNAC.jpeg Graphic file (type bmp)
 <images/BUNAC.jpeg>
-[36] [37]
+[37] [38]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇮 (U+1F1EE) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇳 (U+1F1F3) in font [lmroman10-regular]:mapping=tex-text;!
 
 Underfull \vbox (badness 1546) has occurred while \output is active []
 
-[38]
+[39]
 File: images/moravian-insitute.jpg Graphic file (type bmp)
 <images/moravian-insitute.jpg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[39]
+[40]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 😉 (U+1F609) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/os_couples.jpeg Graphic file (type bmp)
@@ -928,7 +937,7 @@ File: images/os_couples.jpeg Graphic file (type bmp)
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/wikipedians.jpeg Graphic file (type bmp)
 <images/wikipedians.jpeg>
-[40] [41]
+[41] [42]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/bryan-mathers-tedx-galway.png Graphic file (type bmp)
 <images/bryan-mathers-tedx-galway.png>
@@ -936,7 +945,7 @@ Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mappin
 
 Underfull \vbox (badness 2012) has occurred while \output is active []
 
-[42]
+[43]
 File: images/kings-of-the-mountains-col-deliseran.png Graphic file (type bmp)
 <images/kings-of-the-mountains-col-deliseran.png>
 Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=tex-text;!
@@ -947,7 +956,7 @@ File: images/youtube-mocs-uptown-funk.png Graphic file (type bmp)
 <images/youtube-mocs-uptown-funk.png>
 File: images/fitzmaurice-grammar-school.jpeg Graphic file (type bmp)
 <images/fitzmaurice-grammar-school.jpeg>
-[43] [44]
+[44] [45]
 File: images/st-laurence-school-logo.png Graphic file (type bmp)
 <images/st-laurence-school-logo.png>
 File: images/st-laurence-school-logo.png Graphic file (type bmp)
@@ -976,7 +985,7 @@ File: images/hillary-clinton.jpeg Graphic file (type bmp)
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/radipole-lake.jpeg Graphic file (type bmp)
 <images/radipole-lake.jpeg>
-[45]
+[46]
 Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1018,14 +1027,14 @@ Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
 Missing character: There is no ώ (U+03CE) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
-[46] [47]
+[47] [48]
 File: images/faces.jpeg Graphic file (type bmp)
 <images/faces.jpeg>
 
 Underfull \vbox (badness 7540) has occurred while \output is active []
 
-[48]
-Underfull \hbox (badness 1616) in paragraph at lines 1264--1265
+[49]
+Underfull \hbox (badness 1616) in paragraph at lines 1275--1276
 \TU/lmr/m/n/10 The \TU/lmr/m/it/10 text \TU/lmr/m/n/10 of this guidebook is published under the []Creative Commons
  []
 
@@ -1033,9 +1042,9 @@ File: images/by-nc-nd.png Graphic file (type bmp)
 <images/by-nc-nd.png>
 File: images/CC-attribution-1.png Graphic file (type bmp)
 <images/CC-attribution-1.png>
-[49] [50] [51] [52
+[50] [51] [52] [53
 
-] [53] [54]
+] [54]
 Chapter 1.
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ✅ (U+2705) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1073,17 +1082,17 @@ File: images/procrastinator.jpeg Graphic file (type bmp)
 [62]
 Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (12.00005pt too wide) in alignment at lines 1562--1573
+Overfull \hbox (12.00005pt too wide) in alignment at lines 1573--1584
  [] [] [] 
  []
 
 
-Overfull \hbox (12.00005pt too wide) in alignment at lines 1573--1583
+Overfull \hbox (12.00005pt too wide) in alignment at lines 1584--1594
  [] [] [] 
  []
 
 
-Overfull \hbox (12.00005pt too wide) in alignment at lines 1583--1635
+Overfull \hbox (12.00005pt too wide) in alignment at lines 1594--1646
  [] [] [] 
  []
 
@@ -1122,13 +1131,13 @@ File: images/goal of education.jpg Graphic file (type bmp)
 [73] [74]
 Missing character: There is no 🧠 (U+1F9E0) in font [lmroman10-regular]:mapping=tex-text;!
 [75]
-Overfull \hbox (17.09998pt too wide) in paragraph at lines 1977--1978
+Overfull \hbox (17.09998pt too wide) in paragraph at lines 1988--1989
 []\TU/lmtt/m/n/10 Woman * Genderqueer * Man \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Gender_binary[]
  []
 
 Missing character: There is no 🎨 (U+1F3A8) in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (81.10999pt too wide) in paragraph at lines 1985--1986
+Overfull \hbox (81.10999pt too wide) in paragraph at lines 1996--1997
 []\TU/lmtt/m/n/10 Feminine * Androgynous * Masculine \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Gender_expression[] 
  []
 
@@ -1137,12 +1146,12 @@ Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=
 Missing character: There is no ❤ (U+2764) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
 
-Overfull \hbox (143.63998pt too wide) in paragraph at lines 2001--2002
+Overfull \hbox (143.63998pt too wide) in paragraph at lines 2012--2013
 []\TU/lmtt/m/n/10 Asexual * Heterosexual * Bisexual * Homosexual \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Sexual_orientation[]
  []
 
 
-Overfull \hbox (57.85997pt too wide) in paragraph at lines 2001--2002
+Overfull \hbox (57.85997pt too wide) in paragraph at lines 2012--2013
 \TU/lmr/m/n/10 and []en.wikipedia.org/wiki/Romance_(love)[] and []en.wikipedia.org/wiki/Asexuality[] 
  []
 
@@ -1234,17 +1243,17 @@ File: images/youtube-santos.png Graphic file (type bmp)
 <images/youtube-santos.png>
 Missing character: There is no 🔥 (U+1F525) in font [lmroman10-regular]:mapping=tex-text;!
 [97]
-Underfull \hbox (badness 10000) in paragraph at lines 2586--2594
+Underfull \hbox (badness 10000) in paragraph at lines 2597--2605
 
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 2586--2594
+Underfull \hbox (badness 1571) in paragraph at lines 2597--2605
 \TU/lmr/m/n/10 We especially hope that the medicine laureate isn’t working
  []
 
 [98]
-Overfull \hbox (10.64201pt too wide) in paragraph at lines 2645--2647
+Overfull \hbox (10.64201pt too wide) in paragraph at lines 2656--2658
 []\TU/lmr/m/n/10 counselling services, for example contact []counsellingservice.manchester.ac.uk[].
  []
 
@@ -1299,7 +1308,7 @@ File: images/Achilles-Heel-to-Superpower.png Graphic file (type bmp)
 File: images/Hard and soft skills.png Graphic file (type bmp)
 <images/Hard and soft skills.png>
 [111] [112] [113]
-Overfull \hbox (13.45006pt too wide) in paragraph at lines 2989--2998
+Overfull \hbox (13.45006pt too wide) in paragraph at lines 3000--3009
  [][] 
  []
 
@@ -1346,7 +1355,7 @@ File: images/experience.jpeg Graphic file (type bmp)
 [125
 
 ] [126] [127]
-Overfull \hbox (1780.0801pt too wide) in paragraph at lines 3403--3418
+Overfull \hbox (1780.0801pt too wide) in paragraph at lines 3414--3429
  [][] 
  []
 
@@ -1357,22 +1366,22 @@ Missing character: There is no 😻 (U+1F63B) in font [lmroman10-regular]:mappin
 File: images/Big Name.png Graphic file (type bmp)
 <images/Big Name.png>
 [129]
-Overfull \hbox (45.32889pt too wide) in paragraph at lines 3467--3469
+Overfull \hbox (45.32889pt too wide) in paragraph at lines 3478--3480
 \TU/lmr/m/n/10 and the AWS Educate Challenge []aws.amazon.com/education/awseducate/university-
  []
 
 
-Overfull \hbox (9.55pt too wide) in paragraph at lines 3469--3471
+Overfull \hbox (9.55pt too wide) in paragraph at lines 3480--3482
 []\TU/lmr/m/n/10 Apple hosts the Swift Student Challenge []developer.apple.com/wwdc21/swift-
  []
 
 
-Overfull \hbox (16.96196pt too wide) in paragraph at lines 3480--3482
+Overfull \hbox (16.96196pt too wide) in paragraph at lines 3491--3493
 []\TU/lmr/m/n/10 Code Jam, HashCode and Kick Start []codingcompetitions.withgoogle.com[] 
  []
 
 
-Overfull \hbox (30.32999pt too wide) in paragraph at lines 3484--3486
+Overfull \hbox (30.32999pt too wide) in paragraph at lines 3495--3497
 []\TU/lmr/m/n/10 Developer Student Club Leads []developers.google.com/community/dsc/leads[] 
  []
 
@@ -1495,7 +1504,7 @@ File: images/CV Fodder.png Graphic file (type bmp)
 Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4316--4318
+Underfull \hbox (badness 10000) in paragraph at lines 4327--4329
 
  []
 
@@ -1504,7 +1513,7 @@ Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=
 Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ❎ (U+274E) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 4320--4322
+Underfull \hbox (badness 10000) in paragraph at lines 4331--4333
 
  []
 
@@ -1519,12 +1528,12 @@ File: images/whats-the-story.jpeg Graphic file (type bmp)
 File: images/CV need a little work.png Graphic file (type bmp)
 <images/CV need a little work.png>
 [165]
-Underfull \hbox (badness 2753) in paragraph at lines 4420--4421
+Underfull \hbox (badness 2753) in paragraph at lines 4431--4432
 []\TU/lmr/m/n/10 The latter is better because it is more specific, captures the result
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 4420--4421
+Underfull \hbox (badness 3536) in paragraph at lines 4431--4432
 \TU/lmr/m/n/10 (\TU/lmtt/m/n/10 accomplishment\TU/lmr/m/n/10 ), by giving evidence (\TU/lmtt/m/n/10 8 different tasks\TU/lmr/m/n/10 ) and talks
  []
 
@@ -1546,12 +1555,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/lovelace-linkedin.png Graphic file (type bmp)
 <images/lovelace-linkedin.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 4542--4544
+Underfull \hbox (badness 10000) in paragraph at lines 4553--4555
 
  []
 
 [170]
-Overfull \hbox (721.24008pt too wide) in paragraph at lines 4571--4582
+Overfull \hbox (721.24008pt too wide) in paragraph at lines 4582--4593
  [][] 
  []
 
@@ -1608,7 +1617,7 @@ File: images/Critical Friend.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [174]
-Overfull \hbox (2.18999pt too wide) in paragraph at lines 4754--4756
+Overfull \hbox (2.18999pt too wide) in paragraph at lines 4765--4767
 [][]\TU/lmr/m/n/10 prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-
  []
 
@@ -1626,12 +1635,12 @@ File: images/google-job-search.jpeg Graphic file (type bmp)
 File: images/linkedin.jpeg Graphic file (type bmp)
 <images/linkedin.jpeg>
 [180]
-Underfull \hbox (badness 10000) in paragraph at lines 4920--4922
+Underfull \hbox (badness 10000) in paragraph at lines 4931--4933
 [][]\TU/lmr/m/n/10 Indeed.co.uk[], []adzuna.co.uk[], []cwjobs.co.uk[], []fish4.co.uk[], []reed.co.uk[],
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 4920--4922
+Underfull \hbox (badness 8038) in paragraph at lines 4931--4933
 []\TU/lmr/m/n/10 totaljobs.com[], []monster.co.uk[], []jobs.smartrecruiters.com[], []workinstar-
  []
 
@@ -1656,7 +1665,7 @@ Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=
 File: images/Rollercoaster-ride.png Graphic file (type bmp)
 <images/Rollercoaster-ride.png>
 [188] [189]
-Overfull \hbox (252.5901pt too wide) in paragraph at lines 5200--5211
+Overfull \hbox (252.5901pt too wide) in paragraph at lines 5211--5222
  [][] 
  []
 
@@ -1665,7 +1674,7 @@ File: images/Blunderbuss.png Graphic file (type bmp)
 Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5254--5256
+Underfull \hbox (badness 10000) in paragraph at lines 5265--5267
 
  []
 
@@ -1693,34 +1702,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/margaret-hamilton.jpeg Graphic file (type bmp)
 <images/margaret-hamilton.jpeg>
 [197]
-Underfull \hbox (badness 1939) in paragraph at lines 5416--5418
+Underfull \hbox (badness 1939) in paragraph at lines 5427--5429
 []\TU/lmr/m/n/10 Forensic computer scientist, see []prospects.ac.uk/job-profiles/forensic-
  []
 
 
-Overfull \hbox (35.41202pt too wide) in paragraph at lines 5432--5434
+Overfull \hbox (35.41202pt too wide) in paragraph at lines 5443--5445
 []\TU/lmr/m/n/10 Security engineer, penetration testing see []prospects.ac.uk/job-profiles/penetration-
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 5436--5438
+Underfull \hbox (badness 4899) in paragraph at lines 5447--5449
 []\TU/lmr/m/n/10 Patent attorney, protecting and organisations technical I.P. see
  []
 
 
-Overfull \hbox (36.33203pt too wide) in paragraph at lines 5438--5439
+Overfull \hbox (36.33203pt too wide) in paragraph at lines 5449--5450
 []\TU/lmr/m/n/10 Consultant, see []prospects.ac.uk/job-profiles/it-consultant[] and []prospects.ac.uk/job-
  []
 
 File: images/cern-engineering.jpeg Graphic file (type bmp)
 <images/cern-engineering.jpeg>
 [198]
-Overfull \hbox (27.28001pt too wide) in paragraph at lines 5466--5468
+Overfull \hbox (27.28001pt too wide) in paragraph at lines 5477--5479
 []\TU/lmr/m/n/10 The []Francis Crick Institute[] see e.g. []crick.ac.uk/careers-study/students/sandwich-
  []
 
 
-Overfull \hbox (30.86002pt too wide) in paragraph at lines 5470--5472
+Overfull \hbox (30.86002pt too wide) in paragraph at lines 5481--5483
 []\TU/lmr/m/n/10 Diamond Light Source []diamond.ac.uk[] see []diamond.ac.uk/Careers/Students/Year-
  []
 
@@ -1736,7 +1745,7 @@ File: images/deal-with-the-devil.jpeg Graphic file (type bmp)
 Missing character: There is no 😈 (U+1F608) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 😈 (U+1F608) in font [lmroman10-regular]:mapping=tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 5560--5561
+Underfull \hbox (badness 10000) in paragraph at lines 5571--5572
 []\TU/lmr/m/n/10 Morgan Stanley []morganstanley.com/about-us/morgan-stanley-core-
  []
 
@@ -1852,7 +1861,7 @@ File: images/badge-taxonomy-v2.png Graphic file (type bmp)
 Underfull \vbox (badness 4316) has occurred while \output is active []
 
 [230] [231] [232]
-Underfull \hbox (badness 2042) in paragraph at lines 6463--6465
+Underfull \hbox (badness 2042) in paragraph at lines 6474--6476
 []\TU/lmr/m/n/10 Amazon Web Services badges []credly.com/organizations/amazon-web-
  []
 
@@ -1945,7 +1954,7 @@ Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 File: images/pen_tester.png Graphic file (type bmp)
 <images/pen_tester.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7012--7012
+Underfull \hbox (badness 10000) in paragraph at lines 7023--7023
 []\TU/lmr/m/n/10 Figure 15.2: []Penny Tester’s full CV can be viewed at
  []
 
@@ -1954,14 +1963,14 @@ File: images/rick_urshion.png Graphic file (type bmp)
 File: images/marge_conflict.png Graphic file (type bmp)
 <images/marge_conflict.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7044--7044
+Underfull \hbox (badness 10000) in paragraph at lines 7055--7055
 []\TU/lmr/m/n/10 Figure 15.4: []Marge Conflict’s full CV can be viewed at
  []
 
 File: images/mike_rokernel_usa.png Graphic file (type bmp)
 <images/mike_rokernel_usa.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7060--7060
+Underfull \hbox (badness 10000) in paragraph at lines 7071--7071
 []\TU/lmr/m/n/10 Figure 15.5: []Mike Rokernel’s full CV can be viewed at
  []
 
@@ -1973,12 +1982,12 @@ File: images/peter_byte.png Graphic file (type bmp)
 File: images/polly-morphism.png Graphic file (type bmp)
 <images/polly-morphism.png>
 
-Underfull \hbox (badness 3849) in paragraph at lines 7108--7108
+Underfull \hbox (badness 3849) in paragraph at lines 7119--7119
 []\TU/lmr/m/n/10 Figure 15.8: []A pdf of Polina Morphism’s LinkedIn profile can be
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 7108--7108
+Underfull \hbox (badness 3826) in paragraph at lines 7119--7119
 \TU/lmr/m/n/10 found at []cdyf.me/Polly_Morphism.pdf[], the original can be found at
  []
 
@@ -2017,7 +2026,7 @@ Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 Underfull \vbox (badness 1983) has occurred while \output is active []
 
 [266] [267] [268]
-Underfull \hbox (badness 10000) in paragraph at lines 7526--7528
+Underfull \hbox (badness 10000) in paragraph at lines 7537--7539
 
  []
 
@@ -2059,10 +2068,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24104 strings out of 478170
- 499835 string characters out of 5852993
- 939053 words of memory out of 5000000
- 44239 multiletter control sequences out of 15000+600000
+ 24125 strings out of 478170
+ 500664 string characters out of 5852993
+ 939316 words of memory out of 5000000
+ 44259 multiletter control sequences out of 15000+600000
  473408 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,8n,121p,2687b,837s stack positions out of 5000i,500n,10000p,200000b,80000s
