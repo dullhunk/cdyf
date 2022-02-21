@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This book will always be available at [www.cdyf.me](https://www.cdyf.me/), so the `*.html` version of the text will always be searchable, browsable and linkable. If you'd rather read this guidebook in ebook format than a web browser, you can buy the automatically updated epub and pdf at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig).
+This book will always be available at [www.cdyf.me](https://www.cdyf.me/), so the full text in `*.html` will always be searchable, browsable and linkable. If you'd rather read this guidebook in ebook format than a web browser, you can buy the automatically updated epub and pdf at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -433,7 +433,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 So thanks scientists (and engineers) for being scientific and engineering. 🙏
 
 ### Thank you Bath {#bath}
-As a graduate of the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) (Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) in Science, 2011), I have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
+As a graduate of the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) ([Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) in Science, 2011), I have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
 
 * Caroline Padley, Physics
 * Steve Cooper, Chemistry
@@ -472,7 +472,7 @@ knitr::include_graphics("images/youtube-alom.png")
 So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of the [West Country](https://en.wikipedia.org/wiki/West_Country). Proper job. 🙏
 
 ### Thank you Stockport {#stockport}
-Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes Roman Catholic High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Rebecca Dann, Michael Doody, Keith Doran and other members of the [alternative (Elizabethan) staff room](https://www.elizabethanstockport.co.uk/) for your emotional, moral and practical support throughout the year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
+Thanks to headteacher Joanne Meredith,<!--https://web.archive.org/web/20131202172038/http://www.st-annes.stockport.sch.uk/about-us/meet-the-head--> her team of staff and the students at [St. Annes Roman Catholic High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), Stockport for hosting my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Thanks to Rebecca Dann, Michael Doody, Keith Doran and other members of the [alternative (Elizabethan) staff room](https://www.elizabethanstockport.co.uk/) for your emotional, moral and practical support throughout a challenging year. According to the *Manchester Evening News*, St. Anne's is “the forgotten school” [@stannes1; @stannes2], see figure \@ref(fig:st-annes-fig), but I'll never forget you or the lessons you taught me.
 
 ```{r st-annes-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstannes)"}
 knitr::include_graphics("images/st-annes-rc-high-school.jpg")
