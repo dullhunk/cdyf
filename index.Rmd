@@ -431,7 +431,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 So thanks scientists (and engineers) for being scientific and engineering. 🙏
 
 ### Thank you Bath {#bath}
-As a graduate of the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) ([Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) in Science, 2011), I have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
+Thanks to the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) for their excellent [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) course. I graduated with a PGCE in Science 2011 and have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
 
 * Caroline Padley, Physics
 * Steve Cooper, Chemistry
@@ -624,10 +624,15 @@ Some of the most important influences on this guidebook are people I've only met
 
 So, thanks influencers for being influential. 🙏
 
-### Thank you bloggers {#blogging}
-Thanks to bloggers (and columnists) on the interwebs whose words I've enjoyed reading. Your writing provides an existence proof that engineers and scientists should also be good communicators:
+### Thank you writers {#bloggers}
+Thanks to bloggers, columnists and diarists on the internet whose words I've enjoyed reading, see figure \@ref(fig:keyboard-fig).
 
-* [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan) and *Where am I Going, Can I Have a Map?* [@jonathanblack]
+```{r keyboard-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkeyboard)"}
+knitr::include_graphics("images/keyboard.png")
+```
+(ref:captionkeyboard) The pen is mightier than the sword, and so is the keyboard. Thank you mighty writers for your words which provides an existence proof that engineers and scientists should also be good communicators. CC BY SA picture of a backlit keyboard adapted from an original by [Colin](https://commons.wikimedia.org/wiki/User:Colin) on Wikimedia Commons [w.wiki/4sQd](https://w.wiki/4sQd)
+
+* [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)
 * [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [tbray.org/ongoing](https://www.tbray.org/ongoing/)
 * Paul Downey at [whatfettle.com](https://blog.whatfettle.com/)
 * Mike Croucher at [walkingrandomly.com](https://walkingrandomly.com/)
@@ -641,12 +646,12 @@ Thanks to bloggers (and columnists) on the interwebs whose words I've enjoyed re
 * Bosco Ho at [boscoh.com](https://boscoh.com/)
 * [Andrew Maynard](https://en.wikipedia.org/wiki/Andrew_D._Maynard) at [andrewmaynard.net](https://andrewmaynard.net)
 * [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) at [cameronneylon.net](http://cameronneylon.net/)
-
 * [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
-* Neil Saunders at [What you're doing is rather desperate](https://nsaunders.wordpress.com/blog/)
+* [Samuel Pepys](https://en.wikipedia.org/wiki/Samuel_Pepys) at [pepysdiary.com](https://www.pepysdiary.com/)
+* Neil Saunders because [what he's doing is rather desperate](https://nsaunders.wordpress.com/blog/)
 * Greg Wilson at [third-bit.com](https://third-bit.com/)
 
-So, thanks bloggers for blogging. Thanks for writing stuff that has informed, entertained and inspired me. 🙏
+So, thanks writers for writing. Thanks for penning stuff that has informed, entertained and inspired me. 🙏
 
 ### Thank you githubbers {#github}
 
