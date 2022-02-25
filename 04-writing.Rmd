@@ -335,4 +335,4 @@ This chapter is under construction because I'm using agile book development meth
 knitr::include_graphics("images/DeathStar2.jpg")
 ```
 
-(ref:captiondeathstar)  Just like the [Death Star](https://en.wikipedia.org/wiki/Death_Star), this ~~galactic superweapon~~ book is under construction. Image of agile weapon engineering in *Star Wars* via Wikimedia Commons [w.wiki/32PB](https://w.wiki/32PB) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captiondeathstar)  Just like the [Death Star](https://en.wikipedia.org/wiki/Death_Star), this ~~galactic superweapon~~ book is under construction. As of `r format(Sys.time(), '%d %B, %Y')` this book is an estimated **33% complete**. Image of agile weapon engineering in *Star Wars* via Wikimedia Commons [w.wiki/32PB](https://w.wiki/32PB) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
