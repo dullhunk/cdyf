@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This full text of this book is freely available at [www.cdyf.me](https://www.cdyf.me/), making the  `*.html` version searchable, browsable and linkable. If you'd rather read this guidebook in ebook format than a web browser, you can buy the automatically updated epub and pdf at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig).
+This full text of this book is freely available at [www.cdyf.me](https://www.cdyf.me/), making the  web version (`*.html`) searchable, browsable and linkable. If you'd rather read this guidebook in ebook format than a web browser, you can buy the automatically updated epub and pdf at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -625,7 +625,7 @@ Some of the most important influences on this guidebook are people I've only met
 So, thanks influencers for being influential. 🙏
 
 ### Thank you writers {#bloggers}
-Thanks to the artists, bloggers, cartoonists, columnists, diarists, photographers and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig) and the list below.
+Thanks to the artists, bloggers, cartoonists, columnists, doodlers, diarists, essayists, photographers and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig) and the list below.
 
 ```{r keyboard-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkeyboard)"}
 knitr::include_graphics("images/keyboard.png")
