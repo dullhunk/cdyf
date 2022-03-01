@@ -1,6 +1,6 @@
 ---
 title: "Coding Your Future: A Guidebook for Students"
-author: Duncan Hull and Bryan Mathers
+author: Duncan Hull and illustrated by Bryan Mathers
 # date: "last updated `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This full text of this book is freely available at [www.cdyf.me](https://www.cdyf.me/), making the  web version (`*.html`) searchable, browsable and linkable. If you'd rather read this guidebook in ebook format than a web browser, you can buy the automatically updated epub and pdf at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig).
+This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), making the  web version searchable, browsable and linkable in any web browser `*.html`. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -293,7 +293,7 @@ The content of this book is based on hundreds of conversations I have had with s
 ::: {.rmdnote}
 (ref:codingcomment)
 
-This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a (public) [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Expressing gratitude, publicly and privately, is a simple and proven technique for improving your mental health. It will also improve the mental health of the people who you thank, see \@ref(signposts3).
+This acknowledgements section is long because I try to practice what I preach about the importance of expressing gratitude, see section \@ref(lays). It also serves as a live demonstration of a (public) [gratitude journal](https://en.wikipedia.org/wiki/Gratitude_journal). Expressing gratitude, publicly and privately, is a simple and proven technique for improving your mental health. It will also improve the mental health of the people who you thank, and build the communities that you are part of, see \@ref(signposts3).
 
 If you want to get to the main content of this book you can skip this and go straight to chapter \@ref(rebooting).
 
@@ -625,12 +625,12 @@ Some of the most important influences on this guidebook are people I've only met
 So, thanks influencers for being influential. 🙏
 
 ### Thank you writers {#bloggers}
-Thanks to the artists, bloggers, cartoonists, columnists, doodlers, diarists, essayists, photographers and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig) and the list below.
+Thanks to the artists, bloggers, cartoonists, columnists, doodlers, diarists, essayists, photographers and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig).
 
 ```{r keyboard-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkeyboard)"}
 knitr::include_graphics("images/keyboard.png")
 ```
-(ref:captionkeyboard) The pen is mightier than the sword, and so is the keyboard. Thank you incisive writers for your mighty words which provide an existence proof that engineers and scientists should also be good communicators. CC BY SA picture of a backlit keyboard adapted from an original by [Colin](https://commons.wikimedia.org/wiki/User:Colin) on Wikimedia Commons [w.wiki/4sQd](https://w.wiki/4sQd)
+(ref:captionkeyboard) The pen is mightier than the sword, and so is the keyboard. Thank you mighty writers for your incisive words. Your writing provides an existence proof that engineers and scientists, like everybody else, benefit from being good communicators. CC BY SA picture of a backlit keyboard adapted from an original by [Colin](https://commons.wikimedia.org/wiki/User:Colin) on Wikimedia Commons [w.wiki/4sQd](https://w.wiki/4sQd)
 
 So here is my [blogroll](https://en.wiktionary.org/wiki/blogroll):
 

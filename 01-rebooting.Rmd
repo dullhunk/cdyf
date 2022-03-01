@@ -242,7 +242,36 @@ Get credit for your contributions. As well as being openly accessible on the web
 
 ## Your future is different {#thinkdifferent}
 
-I wrote this guidebook because I needed a resource for students to help them design, build, test, hack and debug their futures. I needed a book that could help students compete for jobs while at University, or shortly after graduating. I could not find anything suitable that met all the requirements of the students I was teaching. So I wrote this one which contains some new material and recommends the best resources if you want to know more. These are found in the signposts sections of each chapter.
+I wrote this guidebook because I needed a resource for students to help them design, build, test and code their futures. I needed a book that could help students compete for jobs while at University, or shortly after graduating. I could not find anything suitable that met all the requirements of the students I was teaching. Some problems with the resources that are already out there, and how this book addresses them are shown in table \@ref(tab:difftable)
+
+:  (\#tab:difftable) *Coding your Future* is a guidebook that is different to all the other guidebooks
+
++---------------------------------------------+--------------------------------------------+
+| Other guidebooks                            | *Coding your Future* guidebook             |
++=============================================+============================================+
+| - **Expensive** paper-based books           | - **Free** full text web version at [cdyf.me](https://www.cdyf.me/) |
+| - Inadequate linking, inbound & outbound    |  - Every link is clickable, every section is linkable|
+| - Poor citations                            |  - Everything cited, see section \@ref(signposted)|
+| - Often can't be searched                   |  - Search by any words you choose          |
++---------------------------------------------+--------------------------------------------+
+| - **Paper first**: digital comes second     | - **Digital first**: paper comes second    |  
+| - Websites are crippled “companions” to book| - The website [cdyf.me](https://www.cdyf.me/) **IS** the book              |
+| - Ebook a clumsy afterthought               | - [Ebook published simultaneously](https://leanpub.com/cdyf)   |  
+| - Video and audio is separate to book       | - Video and audio is integrated            |       
++---------------------------------------------+--------------------------------------------+
+| - **Divorced** from any curriculum          | - **Married** to the computing curriculum  |
+| - Not used for teaching                     | - Course textbook for COMP2CARS <!--link-->  |
+| - Career and discipline agnostic            | - Career specific: computing for *everyone*|
++---------------------------------------------+--------------------------------------------+
+| - **Closed** source                         | - **Open** source, see section \@ref(contributing)|
+| - Small number of authors & editors         | - Anyone can contribute or comment         |
+| - Often excludes student voice              | - Includes student voice                   |
+| - Released late, released seldomly          | - Released early, released often, section \@ref(version)          |
++---------------------------------------------+--------------------------------------------+
+
+<!-- possibly more here personal / impersonal, add cross links -->
+
+To following sections give a bit more detail on the differences outlined in table \@ref(tab:difftable).
 
 <!--Good though these many resources are, they all have their own limitations. Some have dated quickly and are not refreshed, others are published under a restrictive copyright licenses that can prevent reuse, sharing and access. Some resources only tackle a single issue, while many can't easily be adapted for your own needs. -->
 
@@ -253,7 +282,7 @@ I wrote this guidebook because I needed a resource for students to help them des
 1. Careers advisors, authors and journalists
 1. Scientists and engineers, in industry and academia-->
 
-This book aims to combine these perspectives and to be different from existing resources in the following ways:
+<!--This book aims to combine these perspectives and to be different from existing resources in the following ways:-->
 
 ### Your future is signposted {#signposted}
 Some career resources claim (or imply) that they are the *all you will need* to solve a particular problem or worse: solve *all of your problems*! Just buy this book, do this course, watch this video, listen to this podcast and all your problems will go away!  Rather than continue this trend, this book **signposts** some of the most useful resources, see figure \@ref(fig:signposting-fig).
