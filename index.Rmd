@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), making the  web version searchable, browsable and linkable in any web browser `*.html`. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html).
+This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version, that's all the `*.html` is searchable, browsable and linkable in any web browser. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from the source.
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -556,7 +556,7 @@ knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
 
 (ref:captionwaggle) Bees symbolise community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. We also use bees for our weekly *Wednesday Waggle* jobs newsletter for students [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). Buzzin'! [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
 
-So thank you for [the music](https://en.wikipedia.org/wiki/Popular_music_of_Manchester) the songs I'm singing. Thanks Manchester for [the best football team in the world](https://en.wikipedia.org/wiki/Manchester_United_F.C.) and being Mancunian. [This is the place](https://www.youtube.com/watch?v=PszMmYpQjPo)! [@longfella] 🙏
+So thank you for [the music](https://en.wikipedia.org/wiki/Popular_music_of_Manchester) the songs I'm singing. Thanks for all the joy they're bringing. Thanks Manchester for [the best football team in the world](https://en.wikipedia.org/wiki/Manchester_United_F.C.) and being Mancunian. [This is the place](https://www.youtube.com/watch?v=PszMmYpQjPo)! [@longfella] 🙏
 
 ### Thank you Coventry {#coventry}
 Thanks to [Phil Harris](https://www.coventry.ac.uk/research/research-people/professor-phil-harris/), Steph Harris, Alan Gear, Jackie Gear, Ally, Neil, Esther, Francis Rayns, Graham Smith, [Jeremy Cherfas](https://www.jeremycherfas.net/), [Morgen Cheshire](https://cheshirenonprofitlaw.com/people/team/morgen/), [Margi Lennartsson Turner](https://pureportal.coventry.ac.uk/en/persons/margi-lennartsson-turner), Lady Godiva (see figure \@ref(fig:coventry-fig)) and everyone else at the [Henry Doubleday Research Association](https://en.wikipedia.org/wiki/Henry_Doubleday_Research_Association) (HDRA) and Coventry University for hosting my industrial experience year during my undergraduate degree.
@@ -709,7 +709,7 @@ knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thank you St Laurence {#st-laurence}  
-Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud, lucky, privileged and grateful to have grown up in: Adam, Alan, Andrew, Anna, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve & Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with: *Vive le Tour*, see figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure, gig, match, session or meetup.
+Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of: Adam, Alan, Andrew, Anna, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve & Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with: *Vive le Tour*, see figure \@ref(fig:bradlads-fig). I'm looking forward to our next adventure, gig, match, session or meetup.
 
 ```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
 knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")

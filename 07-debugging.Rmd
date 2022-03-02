@@ -119,7 +119,7 @@ Wherever criticism of your CV comes from, don't take it personally - it is proba
 
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(mycved)
-1. **STYLE**: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader
+1. **STYLE**: Does it look good, decent layout, appropriate use of LaTeX or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent `verbs`, rather than just what you think you know? Avoid long sections of prose, see section \@ref(verbsfirst)
@@ -523,6 +523,36 @@ Besides providing feedback on the content of your CV, using these systems can he
 * Have you used appropriate verbs to describe your actions?
 * Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see [what happens to tables and columns in an applicant tracking system](https://www.jobscan.co/blog/resume-tables-columns-ats/) [@jobscan]
 
+### Spellchecking {#spelling}
+Résumé robots, grammar and spell checkers will improve your CV but you can't rely on them completely. The résumé robots described in section \@ref(robotproof) will encode the biases and prejudices of whoever wrote their algorithms. Spellcheckers are can't be relied on completely either, as shown in the poem below:
+
+```
+
+Eye halve a spelling checker
+It came with my pea sea
+It plainly marques four my revue
+Miss steaks eye kin knot sea
+
+Eye strike a key and type a word
+And weight for it to say
+Weather eye am wrong oar write
+It shows me strait a weigh
+
+As soon as a mist ache is maid
+It nose bee fore two long
+And eye can put the error rite
+Its rare lea ever wrong
+
+Eye have run this poem threw it
+I am shore your pleased two no
+Its letter perfect awl the weigh
+My chequer told me sew
+
+Anon
+```
+
+Ultimately there is no substitute for a *human* reading your CV, either a critical friend or reading it **out loud** to yourself.
+
 
 ### Your references {#referees}
 
@@ -576,7 +606,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (gappy) or too little (cramped)? See section \@ref(pdf) <!-- merge with previous-->
 1. ✅ Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
 1. ✅ Have you eaten your own dogfood (woof), see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
-1. ✅ Have you spell-checked using both automatic and manual (proof-reading) techniques?
+1. ✅ Have you spell-checked using both automatic and manual (proof-reading) techniques? See section \@ref(spelling).
 1. ✅ Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. ✅ Have you added context using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. ✅ Is it in reverse chronological order? Most recent things first. Can your timeline be easily scanned, with all dates clearly aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example with a clear timeline using right-aligned dates.
