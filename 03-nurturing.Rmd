@@ -17,6 +17,14 @@ By the end of this chapter you will be able to:
 * Schedule activities for improving mental and physical health into your daily or weekly routine
 
 
+
+<!--* Formulate strategies for coping with rejection and failure-->
+
+## Stressed, depressed and exam obsessed? {#genz}
+One of the main target audiences for this textbook is [Generation Z](https://en.wikipedia.org/wiki/Generation_Z), born mid to late 1990s. There's some evidence as Gen-Z-er you have a higher probability of, as *The Economist* puts it, being “*Stressed, depressed and exam obsessed*” . [@generationz]
+
+If that's you then you are not alone. Stress, depression and results obsession have been around a while. Many people struggle with them so let's look at them in a bit more detail.
+
 ::: {.rmdcaution}
  ⚠️ **Coding Caution** ⚠️
 
@@ -28,7 +36,6 @@ So this chapter gives you a quick overview of mental health and points you to wh
 
 :::
 
-<!--* Formulate strategies for coping with rejection and failure-->
 
 ## Mental ill health {#illhealth}
 
@@ -42,12 +49,12 @@ knitr::include_graphics("images/turunning-machine.jpeg")
 University is a positive experience for many people, however like Alan, you may also experience periods of stress. This may also be accompanied by anxiety, loneliness and depression. Financial, social and academic pressures alongside concerns about employability, an ongoing pandemic of COVID-19 and climate change etc can all have an impact on your wellbeing. Statistically, one in four of us will be affected by mental ill health during our lifetime. Two of the most common forms of mental ill health are:
 
 * **Anxiety**: *persistent* feelings of unease, such as worry or fear
-* **Depression**: a low mood that *lasts for a long time* and affects your everyday life
+* **Depression**: a low mood that *lasts for a long time* and affects your everyday life. Being affected by depression is **not** the same as feeling sad
 <!--* loneliness and isolation
 * stress, how you feel under pressure-->
 <!--Your brain is a complex organ that is not fully understood, so it is not surprising that brains sometimes need treatment when things go wrong.-->
 
-The *persistent* and *lasting a long time* are important here because while its part of the human condition to worry and feel low, that doesn't *necessarily* mean you are affected by poor mental health. How long is a long time? Definitions vary, but around two weeks is a good rule of thumb. There are many forces at play, feelings of sadness or anxiousness are normally balanced out by counteracting feelings of calm or happiness shown in figure \@ref(fig:free-body-fig).
+The *persistent* and *lasting a long time* are important here because while its part of the human condition to worry and feel sad, that doesn't *necessarily* mean you are affected by poor mental health. How long is a long time? Definitions vary, but around two weeks is a good rule of thumb. There are many forces at play, feelings of sadness or anxiousness are normally balanced out by counteracting feelings of calm or happiness shown in figure \@ref(fig:free-body-fig).
 
 ```{r free-body-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfreebody)"}
 knitr::include_graphics("images/Free body diagram.png")
