@@ -21,7 +21,12 @@ By the end of this chapter you will be able to:
 <!--* Formulate strategies for coping with rejection and failure-->
 
 ## Stressed, depressed and exam obsessed? {#genz}
-One of the main target audiences for this textbook is [Generation Z](https://en.wikipedia.org/wiki/Generation_Z), born mid to late 1990s. There's some evidence as Gen-Z-er you have a higher probability of, as *The Economist* puts it, being “*Stressed, depressed and exam obsessed*” . [@generationz]
+One of the main target audiences for this textbook is [Generation Z](https://en.wikipedia.org/wiki/Generation_Z), born mid nineties to early noughties. There's some evidence as Gen-Z-er you have a higher probability of, as *The Economist* puts it, being “*Stressed, depressed and exam obsessed*” see figure \@ref(fig:stressed-depressed-fig).
+
+```{r stressed-depressed-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionstresseddepressed)"}
+knitr::include_graphics("images/gen-z.jpeg")
+```
+(ref:captionstresseddepressed) Are you stressed? Depressed? Exam obsessed? According to *The Economist* members of Generation Z you are more likely to affected by stress, depression and exam obsession. [@generationz] Portrait of climate change activist Alienor Rougeot campaigning for [Fridays4Future](https://en.wikipedia.org/wiki/School_Strike_for_Climate) by Dina Dong on Wikimedia Commons [w.wiki/4ueR](https://w.wiki/4ueR) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 If that's you then you are not alone. Stress, depression and results obsession have been around a while. Many people struggle with them so let's look at them in a bit more detail.
 
@@ -178,7 +183,7 @@ I'm **not** saying don't work hard. Like [Paul Nurse](https://en.wikipedia.org/w
 
 So work hard but don't overwork. Overworking [will literally kill you](https://www.bbc.com/worklife/article/20210518-how-overwork-is-literally-killing-us). [@overworking]
 
-If you're making to many sacrifices to get the grades you want, ask yourself, is it really worth it. See section \@ref(entitled), \@ref(regret) and read [Is a first class degree really that important](https://www.ft.com/content/8a2ee9b4-bd0f-11e9-b350-db00d509634e)?
+If you're making to many sacrifices to get the grades you want, ask yourself, is it really worth it. See section \@ref(entitled), \@ref(regret) and read [Is a first class degree really that important](https://www.ft.com/content/8a2ee9b4-bd0f-11e9-b350-db00d509634e)? You may need to recalibrate your relationship and expectations of work to either recover from burnout, or stop burning out in the first place [@happyburnout]
 
 <!-- todo: how hard should you work for first class-->
 
