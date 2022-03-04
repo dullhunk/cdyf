@@ -45,7 +45,7 @@ knitr::include_graphics("images/lemninspire.jpeg")
 ## Maximising your future {#roi}
 As well as opening your future, studying at University is about *investing* in your future. You're spending lots of your time and money at University. Hopefully, you've picked a subject that stimulates and challenges you intellectually while allowing you to find and develop your unique talents. But there's another reason that you probably chose to study at University and that was to improve your job prospects. This guidebook will:
 
-1. Help you maximise the return on the substantial investment of time and money ([ROI](https://en.wikipedia.org/wiki/Return_on_investment)) you've put into your study
+1. Help you maximise the [return on investment](https://en.wikipedia.org/wiki/Return_on_investment) (ROI) of the substantial amount of your time and money you are putting (and have put) into your study
 1. Give you an overview of important professional issues that are sometimes neglected or sidelined in University curricula
 1. Highlight and review essential resources beyond this guidebook that will help with the above
 
@@ -254,7 +254,7 @@ I wrote this guidebook because I need a resource for students to help them desig
 | - Poor citations                            |  - Everything cited, see section \@ref(signposted)|
 | - Often can't be searched                   |  - Search by any words you choose          |
 +---------------------------------------------+--------------------------------------------+
-| - **Paper first**: digital comes second     | - **Digital first**: paper comes second    |  
+| - **Paper first**: web comes second         | - **Web first**: paper comes second    |  
 | - Websites are crippled “companions” to book| - The website [cdyf.me](https://www.cdyf.me/) **is  ** the book |
 | - Ebook a clumsy afterthought               | - Ebook published simultaneously, see section \@ref(buying)  |  
 | - Video and audio is separate to book       | - Video and audio is integrated & embedded  |       
@@ -263,13 +263,17 @@ I wrote this guidebook because I need a resource for students to help them desig
 | - Not used for teaching                     | - Course textbook for COMP2CARS <!--link-->  |
 | - Career and discipline agnostic            | - Computing specific careers see chapter \@ref(computing)|
 +---------------------------------------------+--------------------------------------------+
-| - Institution specific: Uni or publisher etc| - Institution agnostic                     |
+| - **Institutionalised**: (ref:institution)  | - **Student centred**: agnostic to institutions and employers |
 +---------------------------------------------+--------------------------------------------+
 | - **Closed** source                         | - **Open** source, see section \@ref(contributing)|
 | - Small number of authors & editors         | - Anyone can contribute or comment         |
 | - Often excludes student voice              | - Includes [student voice](https://en.wikipedia.org/wiki/Student_voice)                   |
 | - Released late, released seldomly          | - Released early, released often, see section \@ref(version) |
 +---------------------------------------------+--------------------------------------------+
+
+<!--horrible table hack-->
+(ref:institution) University, employer or publisher centric
+
 
 <!-- possibly more here personal / impersonal, add cross links -->
 
