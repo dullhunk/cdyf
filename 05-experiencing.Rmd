@@ -133,8 +133,6 @@ Other ways to get a big name on your CV include joining a big name competition o
 * Microsoft hosts the Imagine Cup [imaginecup.microsoft.com](https://imaginecup.microsoft.com/)
 * There are many other big employers that sponsor competitions, you can find them listed at [devpost.com](https://devpost.com), Major League Hacking [mlh.io](https://mlh.io/) and Hacker Earth [hackerearth.com](https://www.hackerearth.com/) etc
 
-<!--gsoc image and mention outreachy, include link in list above-->
-
 ```{r gsoc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
 knitr::include_graphics("images/gsoc.jpeg")
 ```

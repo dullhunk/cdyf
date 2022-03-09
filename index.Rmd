@@ -196,7 +196,7 @@ This guidebook aims to help you build a bridge from where you are now to where y
 ```{r goldengate-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongoldengate)"}
 knitr::include_graphics("images/goldengate.png")
 ```
-(ref:captiongoldengate) This guidebook will help you build a bridge to your future. Picture of the iconic [Golden Gate Bridge](https://en.wikipedia.org/wiki/Golden_Gate_Bridge) in California during the [blue hour](https://en.wikipedia.org/wiki/Blue_hour) adapted from an original by Frank Schulenburg (CC BY-SA) on Wikimedia Commons [w.wiki/37kY](https://w.wiki/37kY)
+(ref:captiongoldengate) This guidebook will help you build a bridge to your future. Picture of the iconic [Golden Gate Bridge](https://en.wikipedia.org/wiki/Golden_Gate_Bridge) in California during the [blue hour](https://en.wikipedia.org/wiki/Blue_hour) adapted from an original by [Frank Schulenburg](https://commons.wikimedia.org/wiki/User:Frank_Schulenburg) (CC BY-SA) on Wikimedia Commons [w.wiki/37kY](https://w.wiki/37kY)
 
 
 1. **Learning** your future: What you will learn from any given chapter
@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version, that's all the `*.html` is searchable, browsable and linkable in any web browser. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from the source.
+This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -228,7 +228,7 @@ knitr::include_url('https://leanpub.com/cdyf')
 <!-- note that can't do this for youtube because it refuses to connect
 knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
 -->
-In the future, a traditional printed copy from a publisher may also be available. If you're a publisher who'd like to publish this book, please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html).
+In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book, please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html).
 
 ## Contributing to your future {#contributing}
 If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged section \@ref(thanks) unless you ask for your contributions to remain anonymous.
@@ -577,7 +577,7 @@ knitr::include_graphics("images/abisko.jpeg")
 ```
 (ref:captionabikso) The [Abisko Scientific Research Station](https://en.wikipedia.org/wiki/Abisko_Scientific_Research_Station) (ANS) is a field research station in the Abisko National Park. The station hosts around 500 scientists each year from all over the world, who conduct research in subarctic environments. Picture of the view from Björkliden over the national park, past ANS on the shore of Lake Torneträsk towards the Gate to Lappland ([Lapporten](https://en.wikipedia.org/wiki/Lapporten)), by Lappländer on Wikimedia Commons [w.wiki/4b3t](https://w.wiki/4b3t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So thanks Abisko for all the saunas, [fika](https://www.swedishfood.com/fika), [midnight sun](https://en.wikipedia.org/wiki/Midnight_sun) and Swedish hospitality. 🙏
+So thanks / tack Abisko for all the saunas, [fika](https://www.swedishfood.com/fika), [midnight sun](https://en.wikipedia.org/wiki/Midnight_sun) and Swedish hospitality. 🙏
 
 ### Thank you America {#usa}
 Thanks to the British Universities North America Club ([BUNAC](https://en.wikipedia.org/wiki/BUNAC)) for sponsoring my [Exchange Visitor Student Visa](https://travel.state.gov/content/travel/en/us-visas/study/exchange.html) which allowed me to cook breakfasts for summer guests at the [Phillips Beach Plaza Hotel](https://www.oceancity.com/end-of-an-era-beach-plaza-hotel-closing-permanently/) in [Ocean City, Maryland](https://en.wikipedia.org/wiki/Ocean_City,_Maryland). Thanks to Andy B. for flagging it. 🇺🇸
@@ -592,7 +592,13 @@ knitr::include_graphics("images/BUNAC.jpeg")
 
 Thanks to Mitch at [Green Tortoise Adventure Travel](https://greentortoise.com/) for driving, entertaining and feeding a bus load of us [hippies with flowers in our hair](https://en.wikipedia.org/wiki/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)) from San Francisco to New York via Chicago and some of America's finest wildernesses (and cookouts) in Nevada, Utah, Wyoming, South Dakota, the [Yellowstone](https://en.wikipedia.org/wiki/Yellowstone_National_Park), [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton_National_Park) and [Badlands](https://en.wikipedia.org/wiki/Badlands_National_Park) National Parks. [@flowersinyourhair]
 
-Thanks to [Tom and Letty Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) for your excellent hospitality in New York City, your transatlantic history lessons and showing me the very best that Manhattan has to offer. Thanks Pat, Colin and Rob Willmott for the introduction via the [Single-handed Trans-Atlantic Race](https://en.wikipedia.org/wiki/Single-Handed_Trans-Atlantic_Race ) (STAR)<!--also [Tall Ships America](https://en.wikipedia.org/wiki/Tall_Ships_America)--> in Plymouth, Devon from where the [Mayflower](https://en.wikipedia.org/wiki/Mayflower) (eventually) set off for the [New World](https://en.wikipedia.org/wiki/New_World) in 1620, see [mayflower400uk.org](https://www.mayflower400uk.org/)
+Thanks to [Tom and Letty Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) for your excellent hospitality in New York City, your transatlantic history lessons and showing me the very best that Manhattan has to offer. Thanks Pat, Colin and Rob Willmott for the introduction via the [Single-handed Trans-Atlantic Race](https://en.wikipedia.org/wiki/Single-Handed_Trans-Atlantic_Race ) (STAR)<!--also [Tall Ships America](https://en.wikipedia.org/wiki/Tall_Ships_America)--> in Plymouth, Devon from where the [Mayflower](https://en.wikipedia.org/wiki/Mayflower) (eventually) set off for the so-called [New World](https://en.wikipedia.org/wiki/New_World) in 1620, see figure \@ref(fig:neworld-fig).
+
+```{r neworld-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneworld)"}
+knitr::include_graphics("images/no-new-world.png")
+```
+
+(ref:captionneworld) *Speedwell: No New Worlds* was an installation that asked people to reflect on the impact and legacy of the Mayflower's journey, colonialism and the ecological state of our planet during the [Mayflower 400 commemorations](https://www.mayflower400uk.org/) in 2020, see [stillmoving.org/projects/speedwell-no-new-worlds](https://stillmoving.org/projects/speedwell-no-new-worlds). CC BY-SA picture adapted from an original by Stephen McKay at [geograph.org.uk/photo/6613246](https://www.geograph.org.uk/photo/6613246)
 
 Thanks [Timo Hannay](https://en.wikipedia.org/wiki/Timo_Hannay) for letting me gatecrash the best party in Silicon Valley: [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) at the Googleplex in [Mountain View, California](https://en.wikipedia.org/wiki/Mountain_View,_California) in 2007 and again in 2009. Thanks to [Cat Allman](https://en.wikipedia.org/wiki/Cat_Allman), [Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin), [Chris Di Bona](https://en.wikipedia.org/wiki/Chris_DiBona), [Tim O'Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly) and [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) for hosting scifoo.
 
@@ -624,7 +630,7 @@ Some of the most important influences on this guidebook are people I've only met
 So, thanks influencers for being influential. 🙏
 
 ### Thank you writers {#bloggers}
-Thanks to the artists, bloggers, cartoonists, columnists, doodlers, diarists, essayists, film-makers, journalists, photographers and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig).
+Thanks to the artists, blaggers, bloggers, cartoonists, columnists, doodlers, diarists, essayists, film-makers, journalists, photographers, podcasters and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig).
 
 ```{r keyboard-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkeyboard)"}
 knitr::include_graphics("images/keyboard.png")
