@@ -57,7 +57,7 @@ When Andy Stanford-Clark started working at IBM, fresh out of University, his ma
 ```{r andysc-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionandysc)"}
 knitr::include_graphics("images/nobody-cares-about-your-career-except-you.jpeg")
 ```
-(ref:captionandysc) Nobody cares about your career except you. Quote via [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) [@andystanfordclark] to an unattributed IBM manager. Image of Andy by Gizmo~enwiki via Wikimedia Commons [w.wiki/3TSn](https://w.wiki/3TSn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionandysc) Nobody cares about your career except you. Quote via [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) [@andystanfordclark] to an unattributed IBM manager. Image of Andy by Gizmo~enwiki via Wikimedia Commons [w.wiki/3TSn](https://w.wiki/3TSn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) Thank you Andy for permission to use your photo.
 
 Andy is now Chief Technology Officer (CTO) and [IBM Master inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) in the UK so it was probably good advice. Another, slightly more positive way of putting the advice is, the person who cares *most* about your career is you. So while there are people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the `code`). The sooner you get coding the better.
 
@@ -262,7 +262,7 @@ I wrote this guidebook because I need a resource for students to help them desig
 | - Not used for teaching                     | - Course textbook for COMP2CARS <!--link-->  |
 | - Career and discipline agnostic            | - Computing specific careers see chapter \@ref(computing)|
 +---------------------------------------------+--------------------------------------------+
-| - **Institution centred**: (ref:institution)| - **Student centred**: agnostic to institutions and employers |
+| - **Institution centred**: (ref:institution)| - **Student centred**: (ref:agnostic)      |
 | - Often excludes student voice              | - Includes [student voice](https://en.wikipedia.org/wiki/Student_voice) |
 +---------------------------------------------+--------------------------------------------+
 | - **Closed** source                         | - **Open** source, see section \@ref(contributing)|
@@ -270,9 +270,10 @@ I wrote this guidebook because I need a resource for students to help them desig
 | - Released late, released seldomly          | - Released early, released often, see section \@ref(version) |
 +---------------------------------------------+--------------------------------------------+
 
-<!--horrible table hack-->
-(ref:institution) University, employer or publisher-centric
+<!--horrible table hacks, not pretty but it works-->
+(ref:institution) University, employer or advertiser-centric
 
+(ref:agnostic) agnostic to institutions, employers and advertisers
 
 <!-- possibly more here personal / impersonal, add cross links -->
 

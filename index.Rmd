@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
+This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -407,7 +407,7 @@ And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.ju
 So, thanks professional services staff for being professional and supporting the work of academics doing research and teaching. 🙏
 
 ### Thank you SIGCSE {#sigcse}
-Thanks to the [sigcse.org](https://www.sigcse.org), the Special Interest Group (SIG) on Computer Science Education (CSE), part of the Association for Computing Machinery ([acm.org](https://www.acm.org/)). Thanks to my fellow [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) board members [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Janet Carter](https://www.kent.ac.uk/computing/people/3101/carter-janet), [Tom Crick](https://proftomcrick.com/), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher), [Samia Kamal](https://www.advance-he.ac.uk/ntfs/dr-samia-kamal), [Joseph McGuire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) and [Sally Smith](https://www.napier.ac.uk/people/sally-smith) for your help and advice, see figure \@ref(fig:sigcse-fig)
+Thanks to the [sigcse.org](https://www.sigcse.org), the Special Interest Group (SIG) on Computer Science Education (CSE), part of the Association for Computing Machinery ([acm.org](https://www.acm.org/)). Thanks to my fellow [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) board members [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Janet Carter](https://www.kent.ac.uk/computing/people/3101/carter-janet), [Tom Crick](https://proftomcrick.com/), [Katie Cunningham](https://www.kicunningham.com/), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher), [Samia Kamal](https://www.advance-he.ac.uk/ntfs/dr-samia-kamal), [Joseph McGuire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) and [Sally Smith](https://www.napier.ac.uk/people/sally-smith) for your help and advice, see figure \@ref(fig:sigcse-fig)
 
 ```{r sigcse-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionsigcse)"}
 knitr::include_graphics("images/sigcse.jpeg")
@@ -598,16 +598,16 @@ Thanks to [Tom and Letty Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochb
 knitr::include_graphics("images/no-new-world.png")
 ```
 
-(ref:captionneworld) *Speedwell: No New Worlds* was an installation that asked people to reflect on the impact and legacy of the Mayflower's journey, colonialism and the ecological state of our planet during the [Mayflower 400 commemorations](https://www.mayflower400uk.org/) in 2020, see [stillmoving.org/projects/speedwell-no-new-worlds](https://stillmoving.org/projects/speedwell-no-new-worlds). CC BY-SA picture adapted from an original by Stephen McKay at [geograph.org.uk/photo/6613246](https://www.geograph.org.uk/photo/6613246)
+(ref:captionneworld) *Speedwell: No New Worlds* was an installation in Plymouth that invited the public to reflect on the legacy of the Mayflower's journey, colonialism and the ecological state of our planet during the [Mayflower 400 commemorations](https://www.mayflower400uk.org/) in 2020, see [stillmoving.org/projects/speedwell-no-new-worlds](https://stillmoving.org/projects/speedwell-no-new-worlds). CC BY-SA picture adapted from an original by Stephen McKay at [geograph.org.uk/photo/6613246](https://www.geograph.org.uk/photo/6613246)
 
 Thanks [Timo Hannay](https://en.wikipedia.org/wiki/Timo_Hannay) for letting me gatecrash the best party in Silicon Valley: [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) at the Googleplex in [Mountain View, California](https://en.wikipedia.org/wiki/Mountain_View,_California) in 2007 and again in 2009. Thanks to [Cat Allman](https://en.wikipedia.org/wiki/Cat_Allman), [Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin), [Chris Di Bona](https://en.wikipedia.org/wiki/Chris_DiBona), [Tim O'Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly) and [Larry Page](https://en.wikipedia.org/wiki/Larry_Page) for hosting scifoo.
 
 Thanks Boston, Massachusetts for hosting [disruptive tea parties](https://en.wikipedia.org/wiki/Boston_Tea_Party) via the [W3C Healthcare and Life Sciences Interest Group](https://www.w3.org/wiki/HCLSIG) (HCLSIG) and the Association for the Advancement of Artificial Intelligence ([AAAI](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence)) conference [@aaai]. Thanks [Joanne Luciano](https://scholar.google.com/citations?user=wWYH1IMAAAAJ) for showing me the sights of [Cambridge, Massachusetts](https://en.wikipedia.org/wiki/Cambridge,_Massachusetts). Thanks to [Ewa Deelman](https://en.wikipedia.org/wiki/Ewa_Deelman), [Yolanda Gil](https://en.wikipedia.org/wiki/Yolanda_Gil) and [Bertram Ludäscher](https://ischool.illinois.edu/people/bertram-ludascher) for hosting transatlantic workflow collaborations at the [San Diego Supercomputer Center](https://en.wikipedia.org/wiki/San_Diego_Supercomputer_Center) (UCSD) & University of Southern California (USC) with help from Carole Goble and funding from the [Engineering and Physical Sciences Research Council](https://en.wikipedia.org/wiki/Engineering_and_Physical_Sciences_Research_Council) (EPSRC).
 
-So thanks to America for being American. 🙏
+So thanks America for being American. 🙏
 
 ### Thank you Moravians {#moravians}
-Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learned loads as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker. 🇮🇳
+Thanks to Thsespal Kundan, Principal of the [Moravian Institute in Rajpur](https://moravianinstitute.com/), Dehradun, [Uttar Pradesh](https://en.wikipedia.org/wiki/Uttar_Pradesh), India for hosting me and my friend Doug fresh out of high school on a gap year. We learned loads as visiting supply teachers of English and Mathematics, thanks to an introduction from a mutual contact Angus Barker, see figure \@ref(fig:moravian-fig). 🇮🇳
 
 ```{r moravian-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmoravian)"}
 knitr::include_graphics("images/moravian-insitute.jpg")
@@ -622,15 +622,15 @@ So thanks Moravians (and Angus) for life changing and formative experiences. �
 
 Some of the most important influences on this guidebook are people I've only met very briefly, virtually or not at all (yet).
 
-* Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for her cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
+* Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for your cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
 * Thanks to [Yihui Xie](https://en.wikipedia.org/wiki/Yihui_Xie) ([\@yihui](https://github.com/yihui)) and contributors to [bookdown.org](https://bookdown.org), the software used to produce this book alongwith the comprehensive and well-written documentation on using it. [@xie2017; @xie2015; @xie2020]
-* Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for her *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my priorities when they were all out of kilter
+* Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for your book *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my priorities when they were all out of kilter
 * Thanks to Jo Hobbs at Lancaster University for advice on placements and employability in undergraduate teaching
 
 So, thanks influencers for being influential. 🙏
 
 ### Thank you writers {#bloggers}
-Thanks to the artists, blaggers, bloggers, cartoonists, columnists, doodlers, diarists, essayists, film-makers, journalists, photographers, podcasters and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, see figure \@ref(fig:keyboard-fig).
+Thanks to the artists, blaggers, bloggers, cartoonists, columnists, doodlers, diarists, essayists, film-makers, journalists, photographers, podcasters and writers on the internet whose [words and pictures](https://en.wikipedia.org/wiki/Words_and_Pictures_(TV_programme)) I've enjoyed reading, watching and listening to see figure \@ref(fig:keyboard-fig).
 
 ```{r keyboard-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkeyboard)"}
 knitr::include_graphics("images/keyboard.png")
@@ -639,32 +639,36 @@ knitr::include_graphics("images/keyboard.png")
 
 So here is my [blogroll](https://en.wiktionary.org/wiki/blogroll):
 
+* [Euan Adie](https://twitter.com/stew) at [blog.overton.io/author/euan-adie](https://blog.overton.io/author/euan-adie)
 * [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [stevenappleby](https://twitter.com/stevenappleby) [@stevenappleby]
 * [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)
 * [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [tbray.org/ongoing](https://www.tbray.org/ongoing/)
 * [Jorge Cham](https://en.wikipedia.org/wiki/Jorge_Cham) at [phdcomics.com](https://phdcomics.com/)
-* Paul Downey at [whatfettle.com](https://blog.whatfettle.com/) and [flickr.com/photos/psd](https://www.flickr.com/photos/psd/)
-* Mike Croucher at [walkingrandomly.com](https://walkingrandomly.com/)
-* Stephen Curry at [occamstypewriter.org/scurry](https://occamstypewriter.org/scurry)
+* [Paul Downey](https://twitter.com/psd) at [whatfettle.com](https://blog.whatfettle.com/) and [flickr.com/photos/psd](https://www.flickr.com/photos/psd/)
+* [Mike Croucher](https://twitter.com/walkingrandomly) at [walkingrandomly.com](https://walkingrandomly.com/)
+* [Stephen Curry](https://twitter.com/Stephen_Curry) at [occamstypewriter.org/scurry](https://occamstypewriter.org/scurry)
 * [Athene Donald](https://en.wikipedia.org/wiki/Athene_Donald) at [occamstypewriter.org/athenedonald](http://occamstypewriter.org/athenedonald)
+* [Stephen Dubner](https://en.wikipedia.org/wiki/Stephen_J._Dubner) at [freakonomics.com](https://freakonomics.com/)
+* [Alf Eaton](https://twitter.com/invisiblecomma) at [hublog.hubmed.org](https://hublog.hubmed.org/)
 * [Jonathan Eisen](https://en.wikipedia.org/wiki/Jonathan_Eisen) at [phylogenomics.blogspot.com](https://phylogenomics.blogspot.com/)
 * [Michael Eisen](https://en.wikipedia.org/wiki/Michael_Eisen) at [michaeleisen.org/blog](https://www.michaeleisen.org/blog/)
-* Julia Evans at [jvns.ca](https://jvns.ca/)
+* [Julia Evans](https://twitter.com/b0rk) at [jvns.ca](https://jvns.ca/)
 * [Martin Fenner](https://twitter.com/mfenner) at [blog.front-matter.io](https://blog.front-matter.io/)
 * [Kevin Fong](https://en.wikipedia.org/wiki/Kevin_Fong) at *13 minutes to the Moon* [bbc.in/35jDOwI](https://bbc.in/35jDOwI)
 * [Timothy Gowers](https://en.wikipedia.org/wiki/Timothy_Gowers) at [gowers.wordpress.com](https://gowers.wordpress.com/)
 * [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) at [computinged.wordpress.com](https://computinged.wordpress.com/)
 * [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) at [paulgraham.com](http://paulgraham.com/)
-* Bosco Ho at [boscoh.com](https://boscoh.com/)
+* [Bosco Ho](https://twitter.com/boscoh) at [boscoh.com](https://boscoh.com/)
 * [Andrew Maynard](https://en.wikipedia.org/wiki/Andrew_D._Maynard) at [andrewmaynard.net](https://andrewmaynard.net)
 * [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com](https://xkcd.com/)
 * [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) at [cameronneylon.net](http://cameronneylon.net/)
 * [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
 * [Samuel Pepys](https://en.wikipedia.org/wiki/Samuel_Pepys) at [pepysdiary.com](https://www.pepysdiary.com/)
-* Neil Saunders because [what he's doing is rather desperate](https://nsaunders.wordpress.com/blog/)
+* [Neil Saunders](https://twitter.com/neilfws) because [what he's doing is rather desperate](https://nsaunders.wordpress.com/blog/)
 * [Sue Sentance](https://en.wikipedia.org/wiki/Sue_Sentance) at [suesentance.net/blog](https://suesentance.net/blog/)
+* [Kristin Stephens-Martinez](https://users.cs.duke.edu/~ksm/) at [csedpodcast.org](https://csedpodcast.org/)
 * [Greg Tyrelle](http://tyrelle.net/) at [nodalpoint.org](https://web.archive.org/web/20050616015629/http://www.nodalpoint.org/)
-* Greg Wilson at [third-bit.com](https://third-bit.com/)
+* [Greg Wilson](https://twitter.com/gvwilson) at [third-bit.com](https://third-bit.com/)
 
 So, thanks writers for writing. Thanks for penning stuff that has informed, entertained and inspired me. 🙏
 
