@@ -80,8 +80,8 @@ So what *will* you learn from this guidebook? After reading this guidebook, watc
 1. Decide on a job search strategy and identify employers, sectors and roles that are of interest to you		
 1. Improve your written communication skills both for job applications and communicating with other people
 1. Plan and prepare competitive written applications using standard techniques including CVs, covering letters, application forms and digital profiles
-1. Compete successfully in interviews and assessment centres by preparing for technical and non-technical questions
-1. Plan further steps in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
+1. Compete confidently and successfully in interviews. Anticipate and prepare for technical and non-technical questions
+1. Plan further possibilities in your career such as promotion, postgraduate study & research, alternative employment and longer term goals
 1. Search and navigate a large “wordbase” (this guidebook and the work it cites). A wordbase is like a [`codebase`](https://en.wikipedia.org/wiki/Codebase), only written predominantly in natural language.
 
 <!--codebase, documentbase, languagebase, wordbase-->
@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-This full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
+The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -407,14 +407,14 @@ And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.ju
 So, thanks professional services staff for being professional and supporting the work of academics doing research and teaching. 🙏
 
 ### Thank you SIGCSE {#sigcse}
-Thanks to the [sigcse.org](https://www.sigcse.org), the Special Interest Group (SIG) on Computer Science Education (CSE), part of the Association for Computing Machinery ([acm.org](https://www.acm.org/)). Thanks to my fellow [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) board members [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Janet Carter](https://www.kent.ac.uk/computing/people/3101/carter-janet), [Tom Crick](https://proftomcrick.com/), [Katie Cunningham](https://www.kicunningham.com/), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher), [Samia Kamal](https://www.advance-he.ac.uk/ntfs/dr-samia-kamal), [Joseph McGuire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) and [Sally Smith](https://www.napier.ac.uk/people/sally-smith) for your help and advice, see figure \@ref(fig:sigcse-fig)
+Thanks to the [sigcse.org](https://www.sigcse.org), the Special Interest Group (SIG) on Computer Science Education (CSE), part of the Association for Computing Machinery ([acm.org](https://www.acm.org/)). Thanks to my fellow [uki-sigcse.acm.org](https://uki-sigcse.acm.org/) board members [Steven Bradley](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=106), [Janet Carter](https://www.kent.ac.uk/computing/people/3101/carter-janet), [Tom Crick](https://proftomcrick.com/), [Quintin Cutts](https://www.gla.ac.uk/schools/computing/staff/quintincutts/), [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher), [Samia Kamal](https://www.advance-he.ac.uk/ntfs/dr-samia-kamal), [Joseph McGuire](https://www.gla.ac.uk/schools/computing/staff/josephmaguire/) and [Sally Smith](https://www.napier.ac.uk/people/sally-smith) for your help and advice, see figure \@ref(fig:sigcse-fig)
 
 ```{r sigcse-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionsigcse)"}
 knitr::include_graphics("images/sigcse.jpeg")
 ```
 (ref:captionsigcse) Every year in January practitioners and researchers in computing education, both within Computer Science departments and elsewhere gather for [Computing Education Practice](https://cepconference.webspace.durham.ac.uk/) (CEP) in Durham. Come and join our [vibrant and thriving community](https://uki-sigcse.acm.org/practice/)! Picture of [Durham Cathedral](https://en.wikipedia.org/wiki/Durham_Cathedral) by [Mattbuck](https://commons.wikimedia.org/wiki/User:Mattbuck) via Wikimedia Commons [w.wiki/4acc](https://w.wiki/4acc) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Thanks to all the [SIGCSE journal clubbers](https://sigcse.cs.manchester.ac.uk) including [Brett Becker](https://www.brettbecker.com/), Ceredig Cattanach-Chell, [James Davenport](https://en.wikipedia.org/wiki/James_H._Davenport), [Rodrigo Ferreira](https://riceacademy.rice.edu/junior-fellows/dr-rodrigo-ferreira), [Colin Johnson](https://www.nottingham.ac.uk/computerscience/people/colin.johnson), [Nicola Looker](https://www.gla.ac.uk/pgrs/nicolalooker/), [Julia Markel](https://juliamarkel.github.io/), [Jim Paterson](https://www.gcu.ac.uk/cebe/staff/jim%20paterson/), [Sue Sentance](https://en.wikipedia.org/wiki/Sue_Sentance), [David Sutton](https://www.brookes.ac.uk/templates/pages/staff.aspx?uid=p0073862), [Moshe Vardi](https://en.wikipedia.org/wiki/Moshe_Vardi), [Jane Waite](http://eecs.qmul.ac.uk/profiles/waitejanelisa.html) and [Michel Wermelinger](https://www.open.ac.uk/people/mw4687). Many of our journal club conversations have fed directly into the content of this guidebook.
+Thanks to all the [SIGCSE journal clubbers](https://sigcse.cs.manchester.ac.uk) including [Brett Becker](https://www.brettbecker.com/), Ceredig Cattanach-Chell, [Katie Cunningham](https://www.kicunningham.com/), [James Davenport](https://en.wikipedia.org/wiki/James_H._Davenport), [Rodrigo Ferreira](https://riceacademy.rice.edu/junior-fellows/dr-rodrigo-ferreira), [Colin Johnson](https://www.nottingham.ac.uk/computerscience/people/colin.johnson), [Nicola Looker](https://www.gla.ac.uk/pgrs/nicolalooker/), [Julia Markel](https://juliamarkel.github.io/), [Jim Paterson](https://www.gcu.ac.uk/cebe/staff/jim%20paterson/), [Sue Sentance](https://en.wikipedia.org/wiki/Sue_Sentance), [David Sutton](https://www.brookes.ac.uk/templates/pages/staff.aspx?uid=p0073862), [Moshe Vardi](https://en.wikipedia.org/wiki/Moshe_Vardi), [Jane Waite](http://eecs.qmul.ac.uk/profiles/waitejanelisa.html) and [Michel Wermelinger](https://www.open.ac.uk/people/mw4687). Many of our journal club conversations have fed directly into the content of this guidebook.
 
 Thanks to Sally Fincher and Janet Finlay whose report [Computing Graduate Employability: Sharing Practice](https://kar.kent.ac.uk/53848) [@fincherreview] has had a big influence on this guidebook.
 
@@ -431,7 +431,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 So thanks scientists (and engineers) for being scientific and engineering. 🙏
 
 ### Thank you Bath {#bath}
-Thanks to the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) for their excellent [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) course. I graduated with a PGCE in Science 2011 and have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
+Thanks to the [University of Bath](https://en.wikipedia.org/wiki/University_of_Bath) for your excellent [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) course. I graduated with a PGCE in Science 2011 and have been heavily influenced by the fantastic work of my fellow students on the course and its course leaders:
 
 * Caroline Padley, Physics
 * Steve Cooper, Chemistry
@@ -537,7 +537,7 @@ Thanks to [Steven A. Hill](https://en.wikipedia.org/wiki/Steven_A._Hill), [Jane 
 So thanks Oxford for your dreaming spires, see figure \@ref(fig:oxford-fig). 🙏
 
 ### Thank you Cambridge {#cambridge}
-Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), [Nico Adams](https://scholar.google.com/citations?user=3-PcEsEAAAAJ), Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, [Kenneth Haug](https://twitter.com/kennethhaug  ), [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff), Mark Rijnbeek and [Susanna-Assunta Sansone](https://en.wikipedia.org/wiki/Susanna-Assunta_Sansone) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI, see figure \@ref(fig:cambridge-fig)) for looking after me during my time in Cambridge. Thanks to [Rolf Apweiler](https://en.wikipedia.org/wiki/Rolf_Apweiler), [Michael Ashburner](https://en.wikipedia.org/wiki/Michael_Ashburner), [Ewan Birney](https://en.wikipedia.org/wiki/Ewan_Birney), Graham Cameron and [Janet Thornton](https://en.wikipedia.org/wiki/Janet_Thornton) without whom there wouldn't have been an EBI for me to work at.
+Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), [Nico Adams](https://scholar.google.com/citations?user=3-PcEsEAAAAJ), Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, [Kenneth Haug](https://twitter.com/kennethhaug  ), [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff), Mark Rijnbeek and [Susanna-Assunta Sansone](https://en.wikipedia.org/wiki/Susanna-Assunta_Sansone) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI, see figure \@ref(fig:cambridge-fig)) for looking after me during my time in Cambridge. Thanks to [Rolf Apweiler](https://en.wikipedia.org/wiki/Rolf_Apweiler), [Michael Ashburner](https://en.wikipedia.org/wiki/Michael_Ashburner), [Ewan Birney](https://en.wikipedia.org/wiki/Ewan_Birney), [Graham Cameron](https://uk.linkedin.com/in/graham-cameron-38196517) and [Janet Thornton](https://en.wikipedia.org/wiki/Janet_Thornton) without whom there wouldn't have been an EBI for me to work at.
 
 ```{r cambridge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncambridge)"}
 knitr::include_graphics("images/european-bioinformatics-institute.jpeg")
@@ -640,9 +640,9 @@ knitr::include_graphics("images/keyboard.png")
 So here is my [blogroll](https://en.wiktionary.org/wiki/blogroll):
 
 * [Euan Adie](https://twitter.com/stew) at [blog.overton.io/author/euan-adie](https://blog.overton.io/author/euan-adie)
-* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [stevenappleby](https://twitter.com/stevenappleby) [@stevenappleby]
+* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [twitter.com/stevenappleby](https://twitter.com/stevenappleby) [@stevenappleby]
 * [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)
-* [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [tbray.org/ongoing](https://www.tbray.org/ongoing/)
+* [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [ongoing](https://www.tbray.org/ongoing/)
 * [Jorge Cham](https://en.wikipedia.org/wiki/Jorge_Cham) at [phdcomics.com](https://phdcomics.com/)
 * [Paul Downey](https://twitter.com/psd) at [whatfettle.com](https://blog.whatfettle.com/) and [flickr.com/photos/psd](https://www.flickr.com/photos/psd/)
 * [Mike Croucher](https://twitter.com/walkingrandomly) at [walkingrandomly.com](https://walkingrandomly.com/)
