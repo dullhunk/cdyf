@@ -68,7 +68,7 @@ It's an age old trope in Computer Science that engineers use to cover their mist
 knitr::include_graphics("images/notabug.jpeg")
 ```
 
-(ref:captionnotabug) Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *Hypomeces squamosus* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionnotabug) Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *[Hypomeces squamosus](https://en.wikipedia.org/wiki/Hypomeces_squamosus)* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62 ](https://w.wiki/3E62) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Nobody likes buggy software, but unfortunately we routinely have to tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
 
@@ -256,7 +256,7 @@ By themselves, those project names are pretty opaque. They are OK for giving the
 ```{r cvfodder-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfodder)"}
 knitr::include_graphics("images/CV Fodder.png")
 ```
-(ref:captionfodder) Have ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great CV fodder (content) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfodder) Have ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great [CV fodder (content)](https://en.wikipedia.org/wiki/Fodder) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
