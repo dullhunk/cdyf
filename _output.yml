@@ -5,7 +5,7 @@ bookdown::bs4_book:
   theme:
     primary: "#637238"
   repo: https://github.com/dullhunk/cdyf
-
+  
 # PDF version at https://cdyf.me/cdyf.pdf
 bookdown::pdf_book:
   latex_engine: "xelatex"

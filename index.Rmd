@@ -156,7 +156,7 @@ The next seven chapters look at building (and testing) your future, what enginee
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
 knitr::include_graphics("images/manhattan_bridge.png")
 ```
-(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've done some design. You don't need a grand design with tonnes of details, a simple sketch will do. Design questions are covered in the first part of this guidebook on designing your future. Picture of the Manhattan bridge under construction in 1909 adapted from a public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
+(ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've done some preliminary design. You don't need a grand design with tonnes of details, a simple sketch will do. Design questions are covered in the first part of this guidebook on designing your future. Picture of the Manhattan bridge under construction in 1909 adapted from a public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
 
 Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
@@ -355,7 +355,7 @@ So, thanks employers for employing our students. 🙏
 ### Thank you colleagues {#colleagues}
 I've also had significant support from colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)), [School of Engineering](https://www.se.manchester.ac.uk/about/schools/engineering/) and support staff at the University of Manchester. ([\@UoMCareers](https://twitter.com/UoMCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
 
-Thank you [Carole Goble](https://en.wikipedia.org/wiki/Carole_Goble) for building the community that supported me through postgraduate study. Thanks for creating the environment which this book was written in, especially the Information Management Group (IMG), Software Sustainability Institute ([software.ac.uk](https://software.ac.uk/)) and their spin-offs. Thanks for patiently re-teaching me how to write by covering early drafts of my Masters thesis in red ink and less patiently (on subsequent revisions) swear words. 🤬
+Thank you [Carole Goble](https://en.wikipedia.org/wiki/Carole_Goble) for building the community that supported me through postgraduate study. Thanks for creating the environment which this book was written in, especially the [e-Science lab](https://esciencelab.org.uk/), Information Management Group (IMG), Software Sustainability Institute ([software.ac.uk](https://software.ac.uk/)) and their spin-offs. Thanks for patiently re-teaching me how to write better by covering early drafts of my Masters thesis in red ink and less patiently (on subsequent revisions) swear words. 🤬
 
 Thank you [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) for playing guitar in our “boy band” [Tuning Complete](http://www.cs.man.ac.uk/~hulld/research.html#tuningcomplete). All we've got is your bass guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth). [@harlan; @allalongthewatchtower] 🎸
 
@@ -528,7 +528,15 @@ Thanks to John Chelsom, Kal Ahmed, Clare Ashton, Tim Cave, Mavis Cournane, Eddie
 ```{r oxford-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionoxford)"}
 knitr::include_graphics("images/dreaming-spires-oxford-sunrise.png")
 ```
-Thanks to my fellow [xmlsummerschool.com](https://xmlsummerschool.com/) faculty: [Bob du Charme](https://www.bobdc.com/blog/), [Paul Downey](https://twitter.com/psd), [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay), [Jeni Tennison](https://en.wikipedia.org/wiki/Jeni_Tennison), [Norman Walsh](https://norman.walsh.name/) and [Lauren Wood](https://www.laurenwood.org/) for the memories and the `<markup/>`.
+Thanks to my fellow [xmlsummerschool.com](https://xmlsummerschool.com/) faculty: [Bob du Charme](https://www.bobdc.com/blog/), [Paul Downey](https://twitter.com/psd), [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay), [Jeni Tennison](https://en.wikipedia.org/wiki/Jeni_Tennison), [Norman Walsh](https://norman.walsh.name/) and [Lauren Wood](https://www.laurenwood.org/) for the memories and the `<markup/>`. [@xslt]
+
+```
+X.S.L.T!
+It's fun to program in... X.S.L.T!
+Every line in your code
+Is an XML node
+And the program is one big tree
+```
 
 (ref:captionoxford) Looking West over Oxford's [dreaming spires](https://en.wikipedia.org/wiki/Thyrsis_(poem)) from [South Park](https://en.wikipedia.org/wiki/South_Park,_Oxford) towards the city of Oxford. Picture adapted from an original by Tejvan Pettinger on Wikimedia Commons [w.wiki/4Y25](https://w.wiki/4Y25)
 
