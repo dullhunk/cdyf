@@ -216,7 +216,7 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Buying your future {#buying}
 
-The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](http://www.cs.man.ac.uk/~hulld/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
+The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/). The web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook or pdf format, you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
@@ -228,7 +228,7 @@ knitr::include_url('https://leanpub.com/cdyf')
 <!-- note that can't do this for youtube because it refuses to connect
 knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
 -->
-In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book, please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html).
+In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html).
 
 ## Contributing to your future {#contributing}
 If you'd like to contribute this guidebook, I welcome constructive feedback from [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged section \@ref(thanks) unless you ask for your contributions to remain anonymous.
@@ -280,10 +280,9 @@ Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wik
 
 If you don't want to (or can't) use Git and [github.com](https://github.com/) then you can:
 
-* Add comments by annotating [cdyf.pdf](https://leanpub.com/cdyf) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
-* Add comments by annotating [cdyf.epub](https://www.cdyf.me/cdyf.epub) and [emailing your updated version to me](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Add comments by annotating the  [ebook at leanpub.com/cdyf](https://leanpub.com/cdyf) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
 * Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the LaTeX ones used to create the [cdyf.pdf](https://leanpub.com/cdyf) (output) from the cdyf.tex (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a). Track changes is Microsoft Word's [killer feature](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
-* Just [email me suggestions for improvements](http://www.cs.man.ac.uk/~hulld/contact.html)
+* Just [email me suggestions for improvements](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
@@ -357,7 +356,7 @@ I've also had significant support from colleagues in the Department of Computer 
 
 Thank you [Carole Goble](https://en.wikipedia.org/wiki/Carole_Goble) for building the community that supported me through postgraduate study. Thanks for creating the environment which this book was written in, especially the [e-Science lab](https://esciencelab.org.uk/), Information Management Group (IMG), Software Sustainability Institute ([software.ac.uk](https://software.ac.uk/)) and their spin-offs. Thanks for patiently re-teaching me how to write better by covering early drafts of my Masters thesis in red ink and less patiently (on subsequent revisions) swear words. 🤬
 
-Thank you [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) for playing guitar in our “boy band” [Tuning Complete](http://www.cs.man.ac.uk/~hulld/research.html#tuningcomplete). All we've got is your bass guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth). [@harlan; @allalongthewatchtower] 🎸
+Thank you [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) for playing guitar in our “boy band” [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html#tuningcomplete). All we've got is your bass guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth). [@harlan; @allalongthewatchtower] 🎸
 
 Thank you [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after you offered me a job. I thought you were joking (about the book) but it actually turned out to be another one of your great ideas. Thanks Jim. 🙏
 
@@ -481,7 +480,7 @@ knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 So thanks Stockport for being Stockport. Thanks for the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.): It's all that matters, Stockport Hatters. 🙏
 
 ### Thank you schools {#schools}
-Thanks to all the schools who've hosted our undergraduate students as part of an ongoing partnership between the University of Manchester and local schools called [Coding their Future](https://www.cs.man.ac.uk/~hulld/coding-their-future.html):
+Thanks to all the schools who've hosted our undergraduate students as part of an ongoing partnership between the University of Manchester and local schools called [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html):
 
 * Mrs Rowland at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls), Droylsden
 * Mr Sinnott at [Trinity Church of England High School](https://en.wikipedia.org/wiki/Trinity_Church_of_England_High_School), Hulme
@@ -502,7 +501,7 @@ Thanks to Mr Ince and [Drew Povey](https://www.digitalspy.com/tv/a34573273/educa
 knitr::include_graphics("images/schools-banner.jpeg")
 ```
 
-(ref:captioncodingtheirfuture) Thanks to all the schools in Greater Manchester who've supported our [Coding their Future](https://www.cs.man.ac.uk/~hulld/coding-their-future.html) partnership where undergraduates teach computer science in local secondary schools.
+(ref:captioncodingtheirfuture) Thanks to all the schools in Greater Manchester who've supported our [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html) partnership where undergraduates teach computer science in local secondary schools.
 
 Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. These interviews were very productive failures:
 
@@ -622,7 +621,7 @@ knitr::include_graphics("images/moravian-insitute.jpg")
 ```
 (ref:captionmoravian) The Moravian Institute lies in the foothills of the Himalayas between [Dehradun](https://en.wikipedia.org/wiki/Dehradun) in the [Doon Valley](https://en.wikipedia.org/wiki/Doon_Valley) and the hill station of [Mussoorie](https://en.wikipedia.org/wiki/Mussoorie). Situated between the [Yamuna](https://en.wikipedia.org/wiki/Yamuna) and [Ganges](https://en.wikipedia.org/wiki/Ganges), the institute was founded in 1963 by the late Reverend Eliyah Thsetsan Phuntsog in [Ladakh](https://en.wikipedia.org/wiki/Ladakh), [Jammu & Kashmir state](https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(state)) to provide education for [Tibetan refugees](https://en.wikipedia.org/wiki/Tibetan_diaspora) fleeing from their homeland across the Himalayas.
 
-Thanks also to the [Moravians in Manchester](https://en.wikipedia.org/wiki/Fairfield_Moravian_Church) at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls) for hosting undergraduate Computer Science students as part of [coding their future](http://www.cs.man.ac.uk/~hulld/coding-their-future.html).
+Thanks also to the [Moravians in Manchester](https://en.wikipedia.org/wiki/Fairfield_Moravian_Church) at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls) for hosting undergraduate Computer Science students as part of [coding their future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html).
 
 So thanks Moravians (and Angus) for life changing and formative experiences. 🙏
 
@@ -737,7 +736,7 @@ knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
 ```
 (ref:captionbradlads) Crossing the highest paved mountain pass in Europe, the [Col de l'Iseran](https://en.wikipedia.org/wiki/Col_de_l%27Iseran) in France, with my fellow alpinists and [Kings of the Mountains](https://en.wikipedia.org/wiki/King_of_the_Mountains): Jim, Dan, Doug and Dan. Allez, allez, allez! Unlike professional riders in *Le Tour* we had heavy panniers and no performance enhancing drugs besides french wine. [Rest in Peace Dan](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/14828732.Daniel_Feane/), you were a cherished friend, we all loved you and miss you terribly. Repose en paix. 🇫🇷
 
-Special thanks to former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for showing me around [The Clarendon School](https://en.wikipedia.org/wiki/The_Clarendon_Academy) in Trowbridge, Wiltshire and leading by example. Aidan's performance as *Lord of the Dance* (wearing a white shirt in figure \@ref(fig:uptown-funk-fig)), inspired the ongoing musical experiment that is [Tuning Complete](http://www.cs.man.ac.uk/~hulld/research.html#tuningcomplete).
+Special thanks to former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for showing me around [The Clarendon School](https://en.wikipedia.org/wiki/The_Clarendon_Academy) in Trowbridge, Wiltshire and leading by example. Aidan's performance as *Lord of the Dance* (wearing a white shirt in figure \@ref(fig:uptown-funk-fig)), inspired the ongoing musical experiment that is [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html#tuningcomplete).
 
 ```{r uptown-funk-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionuptown)"}
 knitr::include_graphics("images/youtube-mocs-uptown-funk.png")
@@ -802,7 +801,7 @@ So, thanks to all my family scattered around the world for your unconditional lo
 Για πάντα σ'αγαπώ. 🙏
 
 ## About me {#duncan}
-Hello, my name is [Duncan Hull](http://www.cs.man.ac.uk/~hulld/) and I wrote this guidebook for undergraduate and postgraduate students as part of my job at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
+Hello, my name is [Duncan Hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) and I wrote this guidebook for undergraduate and postgraduate students as part of my job at the University of Manchester where I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).
 
 So what's *my* story? Like many people, my path has been what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/books/)” rather than classic linear one. [@squigglybook; @squigglytalk] I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage packer, computer hacker, pork pie filler, [plongeur](https://en.wikipedia.org/wiki/Plongeur), chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, chairperson, software engineer, lecturer, external examiner, tutor and scholar.
 
