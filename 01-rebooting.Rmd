@@ -241,7 +241,7 @@ Get credit for your contributions. As well as being openly accessible on the web
 
 ## Your future is different {#thinkdifferent}
 
-I wrote this guidebook because I need a resource for students to help them design, build, test and code their futures. I need a book to help me teach to students to compete for jobs while at University, or shortly after graduating. I can't find anything suitable that meets all the requirements of the students I teach. Some problems with the resources that are already out there, and how this book addresses them are shown in table \@ref(tab:difftable)
+I wrote this guidebook because I need a resource for students to help them design, build, test and code their futures in computing. I need a book to help me teach to students to compete for jobs while at University, or shortly after graduating. I can't find anything suitable that meets all the requirements of the students I teach. Some problems with the resources that are already out there, and how this book addresses them, are shown in table \@ref(tab:difftable)
 
 :  (\#tab:difftable) *Coding your Future* is a guidebook that is different to all the other guidebooks
 
@@ -260,7 +260,7 @@ I wrote this guidebook because I need a resource for students to help them desig
 +---------------------------------------------+--------------------------------------------+
 | - **Divorced** from any curriculum          | - **Married**^[...with kids] to the computing curriculum  |
 | - Not used for teaching                     | - Course textbook for COMP2CARS <!--link-->  |
-| - Career and discipline agnostic            | - Computing specific careers see chapter \@ref(computing)|
+| - (ref:doingitwrong)                        | - Tailored to computing careers, see chapter \@ref(computing)|
 +---------------------------------------------+--------------------------------------------+
 | - **Institution centred**: (ref:institution)| - **Student centred**: (ref:agnostic)      |
 | - Often excludes student voice              | - Includes [student voice](https://en.wikipedia.org/wiki/Student_voice) |
@@ -274,6 +274,8 @@ I wrote this guidebook because I need a resource for students to help them desig
 (ref:institution) University, employer or advertiser-centric
 
 (ref:agnostic) agnostic to institutions, employers and advertisers
+
+(ref:doingitwrong) One-size-fits-all: career and discipline agnostic
 
 <!-- possibly more here personal / impersonal, add cross links -->
 
@@ -326,7 +328,7 @@ You are reading the alpha version, the [Minimum Viable Product](https://en.wikip
 * Fix bugs and typos
 * Your suggestions for improvements and corrections, via github etc see section \@ref(contributing)
 
-I'm taking a [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often) [@Raymond1999] approach to publishing this guidebook, you could call it agile book development, see figure \@ref(fig:agile-vs-waterfall-fig) [@realagile]
+I'm taking a [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often) [@Raymond1999] approach to publishing this guidebook, you could call it agile book development or [continuous book delivery](https://en.wikipedia.org/wiki/Continuous_delivery), see figure \@ref(fig:agile-vs-waterfall-fig) [@realagile]
 
 ```{r agile-vs-waterfall-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionagile)"}
 knitr::include_graphics("images/agile-vs-waterfall.jpeg")
