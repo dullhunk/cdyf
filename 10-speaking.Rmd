@@ -156,8 +156,18 @@ see
 
 https://docs.google.com/document/d/1CyCKEXZG48J4vQwi5dIPJc0oDn6M-o3UWX_Sdgthjbw/edit
 
-Big O cheatsheet
+Big O cheatsheet: is that time to solve vs. size of problem
 https://w.wiki/4ytE
+
+https://medium.com/swlh/big-o-notation-and-time-space-complexity-1806936e6330
+
+O(1) is known as constant complexity.
+O(logn) is known as logarithmic complexity.
+O(n), called linear complexity,
+O(nlogn) is known as loglinear complexity.
+O(nˣ), or polynomial complexity,
+O(Xⁿ), known as exponential time,
+O(n!), or factorial complexity,
 
 -->
 
