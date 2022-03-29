@@ -158,14 +158,16 @@ So there are things you can do to help yourself, but you may also need to seek h
 ## Burnout {#burnout}
 Sometimes a desire to be productive by overworking has exactly the opposite effect, because the sacrifices you make for work can be counter-productive. If you burn too brightly you might burnout completely, see [mentalhealth-uk.org/burnout](https://mentalhealth-uk.org/burnout/). 🔥
 
-```{r lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
+
+
+```{r eval=knitr::is_html_output(excludes = "epub"), lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
 include_tweet("https://twitter.com/lizandmollie/status/1231605700960432128")
 ```
 
 Sacrificing sleep, socialising, exercise and time-out to recharge your batteries can make you *less* productive, especially in the longer term.
 
-```{r paulnurse-fig,echo=FALSE, fig.cap = "test caption"}
+```{r eval=knitr::is_html_output(excludes = "epub"), paulnurse-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
 include_tweet("https://twitter.com/NobelPrize/status/1485893990910148613")
 ```

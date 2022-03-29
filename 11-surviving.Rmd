@@ -81,7 +81,8 @@ Software engineer Julia Evans has authored a series of programming [zines](https
 * reviewing performance and getting promoted
 * asking for specific feedback
 
-```{r tweet-from-julia,echo=FALSE}
+
+```{r eval=knitr::is_html_output(excludes = "epub"),tweet-from-julia,echo=FALSE}
 library(tweetrmd)
 include_tweet("https://twitter.com/b0rk/status/1043277965394681856")
 ```
