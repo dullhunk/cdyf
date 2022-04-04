@@ -1,11 +1,13 @@
 # WEB version at https://cdyf.me default main version
 bookdown::bs4_book:
+#  template: "template.html" over-ride default template.html 
+  twitter-handle: dullhunk
   includes:
     in_header: [header.html]
   theme:
     primary: "#637238"
   repo: https://github.com/dullhunk/cdyf
-  
+
 # PDF version at https://cdyf.me/cdyf.pdf
 bookdown::pdf_book:
   latex_engine: "xelatex"
