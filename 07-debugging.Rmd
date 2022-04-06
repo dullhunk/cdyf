@@ -519,7 +519,7 @@ knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png
 
 (ref:captionmachines) Although they often struggle to get up the stairs, résumé robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you're applying to bigger companies. Make sure your CV is résumé robot friendly by feeding it through a robot . [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't identify it. Some things to check with automated CV screens:
+Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) to identify columns. Some things to check with automated CV screens:
 
 * Have you used standard headings for the sections? Non-standard sections maybe ignored or misunderstood
 * Have you used appropriate verbs to describe your actions?
