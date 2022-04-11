@@ -107,17 +107,8 @@ https://www.independent.co.uk/news/education/education-news/ey-firm-says-it-will
 -->
 
 1. There are more and more graduates, the UK for example recently passed the milestone of 50% of young people going into higher education. This compares to just 15% of over 18s who stayed in higher education in 1980 [@lotsofgrads]
-1. The increase in the number of graduate schemes and graduate jobs has not kept pace with this growth in graduates which means that each graduate job or graduate scheme has more and more graduates applying for it
+1. While a degree is a *necessary* condition for joining a graduate scheme or taking a graduate job it is not *sufficient*. Having a degree will not set you apart much from your competition, every applicant will have a Bachelors degree. <!--used to be grad scheme growth slower than increase in grad but this is possibly a myth -->
 1. There are lots of graduates in your discipline. In the UK, for example, around 9,000 students graduate every year in Computer Science. If you're studying in the UK, what makes you different from the other 8,999 computer scientists graduating in your year?
-<!--
-
-library(ggplot2)
-df <- data.frame(year=c("1980", "1990", "2018"), percentage  =c(15, 25, 50))
-p<-ggplot(data=df, aes(x=year, y=percentage)) + geom_bar(stat="identity")
-p
-
-
--->
 
 
 ```{r lotsofgrads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionlotsofgrads)"}
@@ -139,7 +130,21 @@ As [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher) puts it:
 > Computing is one of the largest subject areas in UK higher education, and is taught in almost every institution, graduating around 9,000 students every year
 > `r tufte::quote_footer('--- Sally Fincher [@fincherreview]')`
 
-Now, don't be disillusioned by the statistics because any degree can open doors to many careers in computing. Studying *computing* opens up even more doors, see Figure \@ref(fig:nurses-fig). What the data in Figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look beyond your formal education to distinguish yourself from your competition. Your degree can certainly help you start a career, and computer geekery is a commercially valuable skill but a degree (however geeky) is typically not enough by itself.
+Now, don't be disillusioned by the statistics because any degree can open doors to many careers in computing. Studying *computing* opens up plenty of doors, see figure \@ref(fig:nurses-fig). According to [Charlie Ball](https://twitter.com/lmicharlie), it is a myth that there aren't enough graduate jobs; one of four myths in the UK about the graduate labour market:
+
+* **Myth 1:** *Everyone goes to university nowadays* : ~50% isn't everyone [@ballmyths]
+* **Myth 2:** *There aren’t enough graduate jobs* [@ballmyths]
+* **Myth 3:** *Some degrees have little value to employers*, see chapter \@ref(computing)
+* **Myth 4:** *All the best graduate jobs are in London*, (or your local big city) see chapter \@ref(moving)
+
+```{r eval=knitr::is_html_output(excludes = "epub"), gsoc-tweet-fig, echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/UniversitiesUK/status/1513439211059306497")
+```
+
+What the data in figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look **beyond** your formal education to distinguish yourself from your competition. Your degree can certainly help you start a career, and computer geekery is a commercially valuable skill but a degree (however geeky) is typically not enough by itself.
+
+There's plenty of graduate jobs for you to apply for, but that doesn't mean its going to be easy to walk into one when you graduate. Employers are looking for more from their employees than just *having* a degree, see chapter \@ref(experiencing).
 
 ## It's too late when you graduate {#thisstuffmatters}
 
@@ -254,7 +259,7 @@ I wrote this guidebook because I need a resource for students to help them desig
 +---------------------------------------------+--------------------------------------------+
 | - **Paper first**: web comes second         | - **Web first**: paper comes second    |  
 | - Websites are crippled “companions” to book| - The website [cdyf.me](https://www.cdyf.me/) **is  ** the book |
-| - Ebook a clumsy afterthought               | - Ebook published simultaneously, see section \@ref(buying)  |  
+| - Ebook a clumsy afterthought               | - Ebook published simultaneously, see section \@ref(downloading)  |  
 | - Video and audio is separate to book       | - Video and audio is integrated & embedded  |       
 +---------------------------------------------+--------------------------------------------+
 | - **Divorced** from any curriculum          | - **Married**^[...with kids] to the computing curriculum  |

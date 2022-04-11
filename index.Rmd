@@ -214,20 +214,24 @@ knitr::include_graphics("images/goldengate.png")
 <!--in progress 1. **Quick quizzes** quick quizzes to test your knowledge-->
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->
 
-## Buying your future {#buying}
+## Downloading your future {#downloading}
 
-The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook (`epub` and/or `pdf`), you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
+The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer.
+
+If you'd prefer to read this guidebook in a single ebook file, you can download the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). Again its free, but you can make a donation to [codeclub.org](https://codeclub.org/) if you choose.
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
 knitr::include_url('https://leanpub.com/cdyf')
 ```
-(ref:captionleanpub) This guidebook is also available as an ebook (pdf and epub) at [leanpub.com/cdyf](https://leanpub.com/cdyf)
+(ref:captionleanpub) This guidebook is also available as a free ebook (pdf and epub) at [leanpub.com/cdyf](https://leanpub.com/cdyf)
 
 
 <!-- note that can't do this for youtube because it refuses to connect
 knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
 -->
+If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
+
 In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html).
 
 ## Contributing to your future {#contributing}
@@ -547,7 +551,7 @@ Thanks to [Steven A. Hill](https://en.wikipedia.org/wiki/Steven_A._Hill), [Jane 
 So thanks Oxford for your dreaming spires, see figure \@ref(fig:oxford-fig). 🙏
 
 ### Thank you Cambridge {#cambridge}
-Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), [Nico Adams](https://scholar.google.com/citations?user=3-PcEsEAAAAJ), Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, [Kenneth Haug](https://twitter.com/kennethhaug  ), [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff), Mark Rijnbeek and [Susanna-Assunta Sansone](https://en.wikipedia.org/wiki/Susanna-Assunta_Sansone) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI, see figure \@ref(fig:cambridge-fig)) for looking after me during my time in Cambridge. Thanks to [Rolf Apweiler](https://en.wikipedia.org/wiki/Rolf_Apweiler), [Michael Ashburner](https://en.wikipedia.org/wiki/Michael_Ashburner), [Ewan Birney](https://en.wikipedia.org/wiki/Ewan_Birney), [Graham Cameron](https://uk.linkedin.com/in/graham-cameron-38196517) and [Janet Thornton](https://en.wikipedia.org/wiki/Janet_Thornton) without whom there wouldn't have been an EBI for me to work at.
+Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), [Nico Adams](https://scholar.google.com/citations?user=3-PcEsEAAAAJ), Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, [Kenneth Haug](https://twitter.com/kennethhaug  ), [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff), Mark Rijnbeek and [Susanna-Assunta Sansone](https://en.wikipedia.org/wiki/Susanna-Assunta_Sansone) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI, see figure \@ref(fig:cambridge-fig)) for looking after me during my time in Cambridge. Thanks to [Rolf Apweiler](https://en.wikipedia.org/wiki/Rolf_Apweiler), [Michael Ashburner](https://en.wikipedia.org/wiki/Michael_Ashburner), [Ewan Birney](https://en.wikipedia.org/wiki/Ewan_Birney), [Graham Cameron](https://www.ebi.ac.uk/about/news/announcements/25-anniversary-embl-ebi/) and [Janet Thornton](https://en.wikipedia.org/wiki/Janet_Thornton) without whom there wouldn't have been an EBI for me to work at.
 
 ```{r cambridge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncambridge)"}
 knitr::include_graphics("images/european-bioinformatics-institute.jpeg")

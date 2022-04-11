@@ -169,12 +169,6 @@ If you're looking for a project to get stuck into, here are [Diomidis Spinellis]
 
 The guidelines for prospective contributors to Google's Summer of Code (GSoC) at [google.github.io/gsocguides/student](https://google.github.io/gsocguides/student/) go into more depth about how you can get involved in open source software development. Many of these general guidelines apply both inside (paid) and outside (unpaid) of GSoC. [@gsoc]
 
-
-```{r eval=knitr::is_html_output(excludes = "epub"), gsoc-tweet-fig, echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/dullhunk/status/1501557328293867522")
-```
-
 ### Voluntary experience {#volunteering}
 
 Experience as a section of your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a bigger team, taken responsibility for something or tried to make the world a better place somehow. These include:
