@@ -1,6 +1,6 @@
 # WEB version at https://cdyf.me default main version
 bookdown::bs4_book:
-#  template: "template.html" over-ride default template.html 
+#  template: "template.html" over-ride default template.html
   twitter-handle: dullhunk
   includes:
     in_header: [header.html]
@@ -12,7 +12,7 @@ bookdown::bs4_book:
 bookdown::pdf_book:
   latex_engine: "xelatex"
   citation_package: natbib
-  keep_tex: false
+  keep_tex: true
   # keep_tex: yes doesn't work
 
 # EPUB version at https://cdyf.me/cdyf.epub
