@@ -5,7 +5,7 @@ bookdown::bs4_book:
   includes:
     in_header: [header.html]
   theme:
-    primary: "#637238"
+    primary: "#556B2F"
   repo: https://github.com/dullhunk/cdyf
 
 # PDF version at https://cdyf.me/cdyf.pdf
