@@ -127,16 +127,15 @@ When you're looking for job you're acting as both a buyer *and* a seller.
 
 As a buyer and seller, you should be wary of the following:
 
-* Job scammers: section \@ref(scams) 🤥
-* Over-specified jobs: section \@ref(overspec) 🤣
-* Unpaid internships: section \@ref(unpaid) 😭
-* Overselling: section \@ref(oversell) 📈
-* Underselling: section \@ref(undersell) 📉
-* Time sink: section \@ref(timesink) ⏰
-* Rejection: section \@ref(rejection) 🤮
-* The rollercoaster: section \@ref(rollercoaster) 🎢
-
-<!--another section here on compromising 🤝 citing furberarm-->
+* 🤥  Job scammers: section \@ref(scams)
+* 🤣  Over-specified jobs: section \@ref(overspec)
+* 😭  Unpaid internships: section \@ref(unpaid)
+* 📈  Overselling: section \@ref(oversell)
+* 📉  Underselling: section \@ref(undersell)
+* 🤔  Compromises: section \@ref(compromises)
+* ⏰  Time sink: section \@ref(timesink)
+* 🤮  Rejection: section \@ref(rejection)
+* 🎢  The rollercoaster: section \@ref(rollercoaster)
 
 ### Beware of the job scammers {#scams}
 Most job adverts are legitimate but you are vulnerable when you are job hunting. You may become more vulnerable over time if you are getting repeated rejections (remember: repeated rejection is quite normal). Unfortunately there are some shady characters out there looking to exploit your vulnerability through various kinds of [employment fraud](https://en.wikipedia.org/wiki/Employment_fraud). [@jobscammers] You should be wary of anyone asking you for:
@@ -151,13 +150,10 @@ knitr::include_graphics("images/Job-Scams-Signs-GOVUK.png")
 ```
 (ref:captionjobscams) Beware of the job scammers. Things to be suspicous of include illegitimate companies, poorly-written job adverts, suspicious contact details and emails, unrealistic salaries, job offers without an interview and being asked for money up front. Spotting the signs of job scammers by gov.uk is licensed under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) [@jobscammers2]
 
-Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track.
+Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track. Like [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio), its quite easy to spot lies once you recognise some of their nosey signals. 🤥
 
 ### Beware of over-specified jobs {#overspec}
 Employers and recruiters routinely over-specify job descriptions. A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC) in California, job adverts instantly appeared asking for programmers with `5 years experience in Swift`! How can *anyone* have five years experience in a programming language that's only just been made public?! Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the recruiters and employers must have had a *long* search trying to find their candidate. It must have taken them at least five years!
-
-
-
 
 ```{r eval=knitr::is_html_output(excludes = "epub"), iamdevloper-fig,echo=FALSE, fig.cap = "Job interview: sort binary tree. Job: manually update csv files ... We're looking for someone aged 22-26 with 30 years of experience "}
 library(tweetrmd)
@@ -166,7 +162,7 @@ include_tweet("https://twitter.com/Mubeeen_/status/1288115932154363905")
 
 The moral of this Apple story above is, if you don't meet *all* the criteria in a job specification, that shouldn't stop you applying. Most job specifications are over-specified as wishful employers dream up their ideal candidate.^[Using a relationship analogy, describe your ideal romantic partner. PAUSE. How many people are actually likely to have ALL of those attributes?] Many employers will over state their requirements in the hope they get their dream candidate. You might look at the job description and think, I've only got 70% of what they're asking for, so I won't bother applying. The reality is, if you've got 60% of what they are asking for, you should definitely apply. It's unlikely that *anyone* will meet 100% of the job requirements.
 
-If you see things on job adverts you don't understand or are not sure about, go and find out about them. There's a good chance it will be similar to something you already know about, or you can self-educate yourself to fill any gaps.
+If you see things on job adverts you don't understand or are not sure about, go and find out about them. There's a good chance it will be similar to something you already know about, or you can self-educate yourself to fill any gaps. But beware of employers over-specifying jobs. 🤣
 
 ### Beware of unpaid internships {#unpaid}
 In the United Kingdom, it is illegal to employ people without paying them a salary. However, there are exceptions which can allow employers to take on unpaid interns depending on how they classify their employment status. See for example:
@@ -176,7 +172,7 @@ In the United Kingdom, it is illegal to employ people without paying them a sala
 * This article on [Why I Regret Doing an Unpaid Internship](https://www.ratemyplacement.co.uk/blog/why-i-regret-doing-an-unpaid-internship/) [@louiseregret]
 * For more horror stories see [google.com/search?q=unpaid+internships](https://www.google.com/search?q=unpaid+internships)
 
-In science, technology and engineering, unpaid internships are much less common than in other sectors as demand for skilled engineers and scientists is generally high. Some employers, particularly startups, may offer company [equity](https://en.wikipedia.org/wiki/Equity_(finance)) (such as shares) as an alternative to a salary - again you should be wary of this. Unless you're very lucky, the chances are those shares will probably be worthless. Like many people, I don't endorse unpaid internships, and I recommend you avoid them completely. They are a form of modern slavery.
+In science, technology and engineering, unpaid internships are much less common than in other sectors as demand for skilled engineers and scientists is generally high. Some employers, particularly startups, may offer company [equity](https://en.wikipedia.org/wiki/Equity_(finance)) (such as shares) as an alternative to a salary - again you should be wary of this. Unless you're very lucky, the chances are those shares will probably be worthless. Like many people, I don't endorse unpaid internships, and I recommend you avoid them completely. They are a form of modern slavery. 😭
 
 ### Beware of overselling {#oversell}
 When people try to sell you something, you will naturally be wary of overselling and fake news, see figure \@ref(fig:fakenews-fig).
@@ -191,7 +187,7 @@ There's two kinds of fake news that are common in the jobs marketplace:
 1. Employers overselling themselves. Recruitment can be a bit of a beauty contest, with employers trying to show you their best side. Some employers may make promises they can't deliver but a quick look on sites like [glassdoor.com](https://www.glassdoor.com) will help you evaluate employers. Even better, talk directly with actual employees of the organisation, both current and former. Is their employer really as good as they say they are?
 1. You exaggerate your achievements: It can be tempting to oversell yourself in the marketplace. An experienced reader or interviewer will be able to spot your fake news and find you out, see chapter \@ref(debugging) *debugging your future*
 
-So beware of fake news and overselling. [Don't believe the hype](https://en.wikipedia.org/wiki/Don%27t_Believe_the_Hype). [@dontbelievethehype]
+So beware of fake news and overselling. [Don't believe the hype](https://en.wikipedia.org/wiki/Don%27t_Believe_the_Hype). [@dontbelievethehype] 📈
 
 ### Beware of underselling {#undersell}
 Likewise, you should make sure you don't undersell yourself. Know your value (financial), know your values (see chapter are \@ref(knowing)) and try to understand how that fits with a given employer. What are the employers stated values? On the financial side, it is easy to find out about salaries, for example see:
@@ -200,7 +196,18 @@ Likewise, you should make sure you don't undersell yourself. Know your value (fi
 * [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk) [@michaelgrove]
 * [The Highest Paid Internships and Placements in the UK](https://www.ratemyplacement.co.uk/blog/highest-paid-internships-placements-uk/) [@louiseintern]
 
-Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between. So beware of under-selling yourself, know your value. Some employers see students as a form of cheap labour that can be exploited because you're not “qualified” until you graduate. I'd think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect.
+Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between. So beware of under-selling yourself, know your value. Some employers see students as a form of cheap labour that can be exploited because you're not “qualified” until you graduate. I'd think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉
+
+### Beware of compromises {#compromises}
+Engineering inevitably involves compromises and trade-offs, see figure \@ref(fig:furber-fig). You will have to make some compromises in the design and implementation of your career, it might be salary, location, employer or something else.
+
+```{r furber-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfurber)"}
+knitr::include_graphics("images/steve-furber.jpeg")
+```
+
+(ref:captionfurber) The design of a general-purpose processor, in common with most engineering endeavours, requires careful consideration of many trade-offs and compromises. [@furberarm] That's also true for your future to, what compromises and trade-offs will you make when engineering your future? CC BY-SA portrait of microprocessor designer [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) by Peter Howkins on Wikimedia Commons [w.wiki/544E](https://w.wiki/544E) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+To work out what compromises you are prepared to make, you may need to revisit the issues in chapter \@ref(knowing). 🤔
 
 ### Beware of the time sink {#timesink}
 Finding employers that you are interested in and submitting high quality job applications takes lots of time. Many students under estimate the time needed to job hunt. It can be a very time consuming process for everyone, both employers and candidates alike, see figure \@ref(fig:timesink-fig).
@@ -220,7 +227,7 @@ Even after you have managed to:
 
 .. the actual business of applying described in this chapter can be very bureaucratic. Any interviews you have will take time to prepare for (see chapter \@ref(speaking)) and you've got loads of other calls on your time like studying and having a social life.
 
-One way to tackle this problem is to schedule some time every week when you work on applications, see chapter \@ref(scheduling). However, there's no getting away from the fact that finding a job will be time consuming. Beware of the time sink.
+One way to tackle this problem is to schedule some time every week when you work on applications, see chapter \@ref(scheduling). However, there's no getting away from the fact that finding a job will be time consuming. Beware of the time sink. ⏰
 
 ### Beware of rejection {#rejection}
 For most people, rejection is a normal part of applying for jobs. Rejection can take a heavy toll on your mental health described in chapter \@ref(nurturing) and it is usually a struggle. Some employers won't even bother to reply to reject you, welcome to the employer black hole described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
@@ -238,17 +245,17 @@ If you're getting too many rejections or all your applications are sucked into b
 * broaden your job search (see chapter \@ref(broadening))
 * pay attention to your mental health, rejections can make you anxious and depressed (see chapter \@ref(nurturing))
 
-So beware of rejection, it's a normal part of job hunting.
+So beware of rejection, it's a normal part of job hunting. 🤮
 
 ### Beware of the rollercoaster {#rollercoaster}
-There are highs and lows in job hunting, you will ride the job search rollercoaster shown in figure \@ref(fig:rollercoaster-fig). There will be highs, you'll be invited to interviews, but there will be also be lows too, such as the inevitable rejections we discussed in the previous section \@ref(rejection). It will be a rollercoaster, which ends on the high of a job offer you accept. Fasten your seatbelt, enjoy the ride and good luck with your applications and interviews! ☘️
+There are highs and lows in job hunting, you will ride the job search rollercoaster shown in figure \@ref(fig:rollercoaster-fig). There will be highs, you'll be invited to interviews, but there will be also be lows too, such as the inevitable rejections we discussed in the previous section \@ref(rejection). It will be a rollercoaster, which ends on the high of a job offer you accept. Fasten your seatbelt, enjoy the ride and good luck with your applications and interviews!
 
 ```{r rollercoaster-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionrollercoaster)"}
 knitr::include_graphics("images/Rollercoaster-ride.png")
 ```
 (ref:captionrollercoaster) Are you ready to ride the emotional rollercoaster of job hunting?  [A tech project is like...](https://bryanmmathers.com/rollercoaster-ride) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-So beware of the rollercoaster, it has ups and down. Before we move on to talk about broadening your options, lets looks at some basic job search strategies you can use to get started.
+So beware of the rollercoaster, it has ups and down. Before we move on to talk about broadening your options, lets looks at some basic job search strategies you can use to get started. 🎢
 
 ## Job search strategies {#strategies}
 Now that you are aware of some pitfalls you need to think about developing a range of different strategies for job hunting, and change the strategy during the year. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
