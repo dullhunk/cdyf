@@ -128,8 +128,7 @@ Consider the following:
 * Commit messages in version control systems like git and mercurial etc
 * Architecture documentation and design specifications
 * [Literate programming](https://en.wikipedia.org/wiki/Literate_programming) natural language descriptions of computational logic [@knuthlit]
-* [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together
-* [bookdown.org](https://bookdown.org/) mixes code and natural language
+* [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together, as do many other systems like [bookdown.org](https://bookdown.org/) 
 
 
 What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless. Using written (and spoken) natural language is a key social skill and a communication skill. You might be using your language to influence, persuade, convince or argue with members of your team. So it is important that you do it to the best of your abilities. Computer Scientist [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn), shown in figure \@ref(fig:vonahn-fig), is the creator of [Duolingo.com](https://www.duolingo.com/). He regrets that he didn't spend any effort developing his social skills early in his career. Instead, like many computer scientists he focussed his effort on his mathematical and technical skills instead. [@vonahn]
