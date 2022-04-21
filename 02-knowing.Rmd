@@ -181,7 +181,7 @@ Being mindful of any privileges that you have is not just a part of your identit
 
 ### Deathbed thought experiment {#regrets}
 
-Imagine for a moment you are on your deathbed. Not at some point in the future, but right now. The doctor tells you that you only have a week to live. Your heart (see figure \@ref(fig:heart-fig)), which has served you well until now, will no longer carry on beating in one weeks time. ☠️
+Imagine for a moment you are on your deathbed. Not at some point in the future, but right now. The doctor tells you that you only have a week to live. Your heart (see figure \@ref(fig:heart-fig)), which has served you well until now, will no longer carry on beating in one weeks time. [@deathbed]
 
 ```{r heart-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionheart)"}
 knitr::include_graphics("images/your-beating-heart.gif")
