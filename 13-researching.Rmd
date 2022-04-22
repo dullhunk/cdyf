@@ -24,6 +24,25 @@ A good place to start if you're looking for a masters or PhD are:
 * [findaphd.com](https://www.findaphd.com/) for postgraduate research, a large database of PhD opportunities
 * [jobs.ac.uk](https://www.jobs.ac.uk/) also lists PhD opportunities, not just in the UK
 
+## University or Real World? {#realworld}
+When you graduate, you might think you need to choose between University or the “[real world](https://en.wikipedia.org/wiki/Real_life)”, see figure \@ref(fig:realworld-fig). This is a false dichotomy and a popular misconception. In computing it is common for people to cross back and forth several times between industry (the so-called real world) and academia (the [ivory towers](https://en.wikipedia.org/wiki/Ivory_tower)).
+
+```{r realworld-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrealworld)"}
+knitr::include_graphics("images/University-or-real-world.png")
+```
+
+(ref:captionrealworld) Which path will you choose, University or the real world? Perhaps you can you have both? How many times can you [zigzag](https://en.wikipedia.org/wiki/Zigzag) between the two? Real world sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Commercial or real-world experience is valuable in academia and academic experience is valuable beyond academia. So, if you think you need to choose between the two, think again. Doing an internship or placement with a commercial company can be useful background for a career in academia, both in research and teaching. Lots of research is done through partnerships between commercial companies and Universities, some of these create [startups](https://en.wikipedia.org/wiki/Startup_company), [University spin-offs](https://en.wikipedia.org/wiki/University_spin-off) or [corporate spin-offs](https://en.wikipedia.org/wiki/Corporate_spin-off) etc.
+
+Your learning shouldn't stop when you finish University either, so you might work for a bit, study for a bit, work a bit more and so on. Some of this learning might be formal and academic with qualifications, others might be badged in different ways. This is called [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning), see section \@ref(lifelonglearning) and chapter \@ref(achieving).
+
+So will you choose University **OR** real life in the longer term? With all the [squiggles and zigzags](https://www.amazingif.com/listen/), your career is likely to be a bit more complicated than that... [@squigglybook;]
+
+
+<!--PhD grind
+http://pgbovine.net/PhD-memoir.htm-->
+
 ## Breakpoints {#rbreakpoints}
 
 (ref:breakpoint)
@@ -60,14 +79,6 @@ I wish I'd had this book when I was a PhD student! I'm not just saying that beca
 library(tweetrmd)
 include_tweet("https://twitter.com/dullhunk/status/1382625965398921216")
 ```
-
-
-
-
-<!--PhD grind
-http://pgbovine.net/PhD-memoir.htm-->
-
-
 ## Summarising further study and research {#tldr12}
 (ref:tldr)
 
