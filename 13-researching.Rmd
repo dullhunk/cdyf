@@ -25,7 +25,7 @@ A good place to start if you're looking for a masters or PhD are:
 * [jobs.ac.uk](https://www.jobs.ac.uk/) also lists PhD opportunities, not just in the UK
 
 ## University or Real World? {#realworld}
-When you graduate, you might think you need to choose between University or the “[real world](https://en.wikipedia.org/wiki/Real_life)”, see figure \@ref(fig:realworld-fig). This is a false dichotomy and a popular misconception. In computing it is common for people to cross back and forth several times between industry (the so-called real world) and academia (the [ivory towers](https://en.wikipedia.org/wiki/Ivory_tower)).
+When you graduate, you might think you need to choose between University or the “[real world](https://en.wikipedia.org/wiki/Real_life)”, see figure \@ref(fig:realworld-fig). That's a popular misconception and a false dichotomy. In computing it is common for people to cross back and forth several times between industry (the so-called real world) and academia (the [ivory towers](https://en.wikipedia.org/wiki/Ivory_tower)).
 
 ```{r realworld-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrealworld)"}
 knitr::include_graphics("images/University-or-real-world.png")
