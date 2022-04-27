@@ -128,7 +128,7 @@ Consider the following:
 * Commit messages in version control systems like git and mercurial etc
 * Architecture documentation and design specifications
 * [Literate programming](https://en.wikipedia.org/wiki/Literate_programming) natural language descriptions of computational logic [@knuthlit]
-* [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together, as do many other systems like [bookdown.org](https://bookdown.org/) 
+* [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together, as do many other systems like [bookdown.org](https://bookdown.org/)
 
 
 What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless. Using written (and spoken) natural language is a key social skill and a communication skill. You might be using your language to influence, persuade, convince or argue with members of your team. So it is important that you do it to the best of your abilities. Computer Scientist [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn), shown in figure \@ref(fig:vonahn-fig), is the creator of [Duolingo.com](https://www.duolingo.com/). He regrets that he didn't spend any effort developing his social skills early in his career. Instead, like many computer scientists he focussed his effort on his mathematical and technical skills instead. [@vonahn]
@@ -146,7 +146,7 @@ Making software isn't all about what you can do as an individual but rather how 
 <!--
 1. **Its not just engineers that can improve** If the huge volume of literature on the importance of writing is anything to go by,  it's not just engineers and scientists that could improve their written communication skills, see for example the complete plain words. [@gowers; @writingatuni]-->
 ### Writing as therapy {#therapy}
-Besides being a tool for communication, writing can be therapeutic for the writer too. The simple act of writing can help you tackle mental health issues discussed in chapter \@ref(nurturing). Prime minister [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill) found that writing helped to keep the “black dog” of his depression, under control see section \@ref(depression) and figure \@ref(fig:winston-fig).
+Besides being a tool for communication, writing can be therapeutic for the writer too. The simple act of writing can help you tackle mental health issues discussed in chapter \@ref(nurturing). Prime minister [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill) found that writing helped to keep the “black dog” of his depression under control, see section \@ref(depression) and figure \@ref(fig:winston-fig).
 
 ```{r winston-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwinston)"}
 knitr::include_graphics("images/churchill.jpeg")
