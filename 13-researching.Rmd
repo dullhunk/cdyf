@@ -43,6 +43,16 @@ So will you choose University **OR** real life in the longer term? With all the 
 <!--PhD grind
 http://pgbovine.net/PhD-memoir.htm-->
 
+## Ask beyond your Professors {#prof}
+If you're thinking about doing a PhD and going into research, it's obviously a good idea to talk to Professors about what's involved. Don't just ask Professors though, talk to PhD students, [postdocs](https://en.wikipedia.org/wiki/Postdoctoral_researcher) and especially people who did a PhD but didn't go into academia. Most people with a PhD don't go on into academia as a career. [@postdochell] This means that asking a Professor if you should do a PhD is a bit like asking a Hollywood film star if you should become an actor. The film star can only give you part of the story that is likely to suffer from [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). [@therock]
+
+```{r eval=knitr::is_html_output(excludes = "epub"), therock-fig,echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/dullhunk/status/1519405195456917509")
+```
+<!--survivorship bias needs illustrating see https://github.com/dullhunk/cdyf/issues/218 -->
+
+
 ## Breakpoints {#rbreakpoints}
 
 (ref:breakpoint)
