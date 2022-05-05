@@ -216,16 +216,10 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Downloading your future {#downloading}
 
-The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer.
+The full text of this guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
 
-If you'd prefer to read this guidebook in a single ebook file, you can download the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). Again its free, but you can make a donation to the charitable cause [codeclub.org](https://codeclub.org/) if you choose.
-
-<!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
-```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
-knitr::include_url('https://leanpub.com/cdyf')
-```
-(ref:captionleanpub) This guidebook is also available as a free ebook (pdf and epub) at [leanpub.com/cdyf](https://leanpub.com/cdyf)
-
+* [cdyf.pdf](https://www.cdyf.me/cdyf.pdf)
+* [cdyf.epub](https://www.cdyf.me/cdyf.epub)
 
 <!-- note that can't do this for youtube because it refuses to connect
 knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
