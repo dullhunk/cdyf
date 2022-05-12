@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  11 MAY 2022 13:24
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  12 MAY 2022 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1138,9 +1138,6 @@ Overfull \hbox (6.00003pt too wide) in alignment at lines 1836--1844
  []
 
 
-LaTeX Warning: Reference `(' on page 68 undefined on input line 1913.
-
-
 Overfull \hbox (6.00003pt too wide) in alignment at lines 1844--1955
  [] [] 
  []
@@ -2201,17 +2198,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 718--723
 
 [300] [301] [302]) [303] (./cdyf.aux)
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24408 strings out of 478170
- 507389 string characters out of 5852993
- 950991 words of memory out of 5000000
- 44532 multiletter control sequences out of 15000+600000
+ 24407 strings out of 478170
+ 507386 string characters out of 5852993
+ 950998 words of memory out of 5000000
+ 44531 multiletter control sequences out of 15000+600000
  473408 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,13n,121p,2783b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
