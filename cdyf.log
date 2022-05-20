@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  19 MAY 2022 14:43
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  20 MAY 2022 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1542,7 +1542,7 @@ File: images/youtube-google-recruiters.png Graphic file (type bmp)
 File: images/youtube-jonathan-black.png Graphic file (type bmp)
 <images/youtube-jonathan-black.png>
 
-Underfull \vbox (badness 5607) has occurred while \output is active []
+Underfull \vbox (badness 2261) has occurred while \output is active []
 
 [162]
 File: images/alan-turing-header.png Graphic file (type bmp)
@@ -1777,6 +1777,9 @@ Missing character: There is no 🤮 (U+1F92E) in font [lmroman10-regular]:mappin
 File: images/Rollercoaster-ride.png Graphic file (type bmp)
 <images/Rollercoaster-ride.png>
 Missing character: There is no 🎢 (U+1F3A2) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 5893) has occurred while \output is active []
+
 [198]
 Overfull \hbox (252.5901pt too wide) in paragraph at lines 5598--5609
  [][] 
@@ -1796,12 +1799,12 @@ Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 File: images/Bumped into.png Graphic file (type bmp)
 <images/Bumped into.png>
+[201]
 File: images/grow your networks.png Graphic file (type bmp)
 <images/grow your networks.png>
-[201] [202]
 File: images/DeathStar2.jpg Graphic file (type bmp)
 <images/DeathStar2.jpg>
-[203] [204
+[202] [203] [204
 
 ]
 Chapter 9.
@@ -2006,11 +2009,12 @@ File: images/einstein-i-have-no-special-talents.png Graphic file (type bmp)
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
 [247]
+Underfull \hbox (badness 1742) in paragraph at lines 7006--7007
+[][]\TU/lmr/m/n/10 jobs.ac.uk[] also lists PhD opportunities, not just in the UK, see
+ []
+
 File: images/University-or-real-world.png Graphic file (type bmp)
 <images/University-or-real-world.png>
-
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
 [248]
 Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
@@ -2190,13 +2194,23 @@ Underfull \hbox (badness 1668) in paragraph at lines 474--477
 []\TU/lmr/m/n/10 Hamedy, R. (2019).  How to build a reputable StackOverflow profile.
  []
 
-[297] [298] [299]
-Underfull \hbox (badness 10000) in paragraph at lines 723--728
+[297] [298]
+Underfull \hbox (badness 5771) in paragraph at lines 637--642
+[]\TU/lmr/m/n/10 Lydon, J. and Laswell, B. (1986).  Rise.  In Lydon, J. and
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 637--642
+\TU/lmr/m/n/10 Laswell, B., editors, \TU/lmr/m/it/10 Album\TU/lmr/m/n/10 . Public Image Ltd, Virgin Records.
+ []
+
+[299]
+Underfull \hbox (badness 10000) in paragraph at lines 730--735
 []\TU/lmr/m/n/10 Morali, J. and Willis, V. (1978).  Y.M.C.A.  In Morali,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 723--728
+Underfull \hbox (badness 10000) in paragraph at lines 730--735
 \TU/lmr/m/n/10 J., editor, \TU/lmr/m/it/10 Cruisin’\TU/lmr/m/n/10 . Village People, Casablanca Records.
  []
 
@@ -2206,12 +2220,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24410 strings out of 478170
- 507446 string characters out of 5852993
- 951056 words of memory out of 5000000
- 44534 multiletter control sequences out of 15000+600000
+ 24413 strings out of 478170
+ 507482 string characters out of 5852993
+ 951094 words of memory out of 5000000
+ 44537 multiletter control sequences out of 15000+600000
  473408 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,13n,121p,2783b,841s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,13n,121p,2783b,839s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cdyf.pdf (303 pages).
