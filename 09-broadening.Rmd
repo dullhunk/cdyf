@@ -106,7 +106,7 @@ knitr::include_graphics("images/With great code.png")
 
 (ref:captionspiderman) The greater your code, the greater your superpower. [The greater your superpower, the greater your responsibility](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility). What powers does computing give you and how can you use that power responsibly? [@Shapiro2021] With great code sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? Do computer scientists need to sell their soul to the highest bidder?
+Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? Do computer scientists need to sell their soul to the highest bidder? How can computer science be used to make the world a better place, not just making rich people richer? Lets look at these in turn
 
 ## Do you need to sell your soul? {#soul}
 You will sometimes hear people saying you need to sell your soul to get a job, shown in figure \@ref(fig:diabolical-fig). See for example:
@@ -147,6 +147,16 @@ Look at these values carefully, or choose the values of another employer you're 
 
 Do an employers words match their actions? The words **[Don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil)** are easy to *say* but harder to *action*. Good intentions are often easier said than done.
 
+## Computing the future {#betterplace}
+The human race faces some daunting issues in the 21st century:
+
+* Mitigating the effects of climate change
+* Tackling rising global inequalities of wealth, income and gender [@stanley]
+* Providing food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
+
+How can computing be an ethical force for change that improves the lives people everywhere, not just those that are lucky enough to be on the wealthier side of the digital divide? How can computing and computer scientists make a difference?
+
+
 ## Breakpoints {#bp9}
 (ref:breakpoint)
 
@@ -159,7 +169,8 @@ Do an employers words match their actions? The words **[Don't be evil](https://e
 * Are the stated values of an employer the whole story?
     + Are there any unwritten or unspoken rules?
 * Is there anything missing?
-* Do the employers actions match their words? What an employer *says* and *does* may be contradictory. Actions speak louder than words.
+* Do the employers actions match their words? What an employer *says* and *does* may be contradictory. Actions speak louder than words
+* What can computing do to tackle global challenges described in section \@ref(betterplace)
 
 ```md
 * RESUME ▶️
