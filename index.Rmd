@@ -279,7 +279,7 @@ Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wik
 
 If you don't want to (or can't) use `git` and [github.com](https://github.com/) then you can:
 
-* Add comments by annotating the [ebook at leanpub.com/cdyf](https://leanpub.com/cdyf) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
+* Add comments by annotating [cdyf.pdf](cdyf.me/cdyf.pdf) or [cdyf.epub](https://cdyf.me/cdyf.epub) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
 * Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the [LaTeX ones](https://latex4year1.netlify.app/) used to create the [cdyf.pdf](https://leanpub.com/cdyf) (output) from the [cdyf.tex](https://github.com/dullhunk/cdyf/blob/master/_book/cdyf.tex) (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a), one of it's [killer features](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
 * Just [email me suggestions for improvements](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
 
@@ -524,7 +524,7 @@ Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](ht
 * [Redland Green School](https://en.wikipedia.org/wiki/Redland_Green_School), Redland, Bristol
 * [The John of Gaunt School](https://en.wikipedia.org/wiki/The_John_of_Gaunt_School), Trowbridge, Wiltshire
 * [Rachael Warwick](https://twitter.com/rachaelwarwick7) at [Didcot Girls' School](https://en.wikipedia.org/wiki/Didcot_Girls%27_School), Didcot, Oxfordshire
-* [Vicky Tuck](http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/newsid_8741000/8741279.stm) at [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Cheltenham, Gloucestershire^[The first time I've crossed Michael Gove's 'Berlin Wall' of education and set foot inside a private school, after bluffing my way through Checkpoint Charlie. [@berlinwall]] [@cheltenham]
+* [Vicky Tuck](http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/newsid_8741000/8741279.stm) at [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Cheltenham, Gloucestershire. This was tge first time I'd set foot in a private school, making it through [Checkpoint Charlie](https://en.wikipedia.org/wiki/Checkpoint_Charlie) to cross Michael Gove's [Berlin Wall](https://en.wikipedia.org/wiki/Berlin_Wall) of education. It was an enlightening experience! [@berlinwall; @cheltenham]
 * [Blackburn College](https://en.wikipedia.org/wiki/Blackburn_College,_Lancashire), Lancashire  “I read the news today, oh boy! Four thousand holes in Blackburn, Lancashire” [@adayinthelife]
 
 So thanks schools, for educating. 🙏
@@ -760,7 +760,7 @@ Special thanks to former St Laurence school student and [current sixth form head
 ```{r uptown-funk-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionuptown)"}
 knitr::include_graphics("images/youtube-mocs-uptown-funk.png")
 ```
-(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) in Wiltshire dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM)
+(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) in Wiltshire dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM) [@uptownfunk]
 
 Thanks to all my teachers at St Laurence school, some of whom can be seen in figure \@ref(fig:fitzmaurice-fig).
 
