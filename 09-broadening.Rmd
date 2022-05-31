@@ -65,7 +65,7 @@ What do these roles entail?
 
 ## Research roles {#rse}
 
-There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. There are also lots roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software.
+There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. There are also lots roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software. [@hullcern]
 
 ```{r cern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
 knitr::include_graphics("images/cern-engineering.jpeg")
@@ -148,16 +148,25 @@ Look at these values carefully, or choose the values of another employer you're 
 Do an employers words match their actions? The words **[Don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil)** are easy to *say* but harder to *action*. Good intentions are often easier said than done.
 
 ## Computing the future {#betterplace}
-The human race faces some daunting issues in the 21st century:
+Our human race faces some huge challenges in the 21st century:
 
 * Mitigating the effects of climate change
 * Tackling rising global inequalities of wealth, income and gender [@stanley]
-* Providing food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
+* Providing adequate food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
+* Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) without irreversibly depleting natural resources
 
 How can computing be an ethical force for change that improves the lives people everywhere, not just those that are lucky enough to be on the wealthier side of the digital divide?
 
 * How can computing make a difference?
 * How can **YOU** use Computer Science to make the world a better place?
+
+Here are some examples to get you started:
+
+* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) [@greencomputing]
+* Net zero computing [@netzero]
+* [Smarter cities](https://en.wikipedia.org/wiki/Smart_city) which use resources more efficiently  [@smartercities]
+* Technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) could enable quicker and cheaper development of new vaccines and drugs [@Jumper2021]
+* Scientific computing for the benefit of humanity, e.g. better climate modelling and see section \@ref(rse)
 
 ## Breakpoints {#bp9}
 (ref:breakpoint)
