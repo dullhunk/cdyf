@@ -65,13 +65,13 @@ What do these roles entail?
 
 ## Research roles {#rse}
 
-There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. There are also lots roles in research software engineering (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/). CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software. [@hullcern]
+There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. There are also [lots roles in research software engineering](https://dx.doi.org/10.1038/d41586-022-01516-2) (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/).[@rses] For example, CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and many of them won't be physicists. [@hullcern]
 
 ```{r cern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
 knitr::include_graphics("images/cern-engineering.jpeg")
 ```
 
-(ref:captioncern) Many scientific laboratories like CERN employ lots of software and hardware engineers. Computation isn't just a fundamental part of physics, it is key to all the natural sciences. Fair use image via Wikimedia Commons [w.wiki/4qmF](https://w.wiki/4qmF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captioncern) Many scientific laboratories like CERN employ lots of software and hardware engineers. Computation isn't just a fundamental part of physics, it is key to all the natural sciences so wherever you find scientists, you will also find research software engineers. Fair use image via Wikimedia Commons [w.wiki/4qmF](https://w.wiki/4qmF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 An non-exhaustive list of laboratories from the UK and Europe that employ computer scientists is shown below:
 
@@ -153,7 +153,7 @@ Our human race faces some huge challenges in the 21st century:
 * Mitigating the effects of climate change
 * Tackling rising global inequalities of wealth, income and gender [@stanley]
 * Providing adequate food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
-* Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) without irreversibly depleting natural resources
+* Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) and renewably without irreversibly depleting resources
 
 How can computing be an ethical force for change that improves the lives people everywhere, not just those that are lucky enough to be on the wealthier side of the digital divide?
 
