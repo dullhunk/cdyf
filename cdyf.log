@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  3 JUN 2022 23:38
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  13 JUN 2022 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1753,9 +1753,6 @@ Underfull \vbox (badness 1043) has occurred while \output is active []
 Missing character: There is no 📈 (U+1F4C8) in font [lmroman10-regular]:mapping=tex-text;!
 [194]
 Missing character: There is no 📉 (U+1F4C9) in font [lmroman10-regular]:mapping=tex-text;!
-
-LaTeX Warning: Reference `offers' on page 195 undefined on input line 5525.
-
 File: images/steve-furber.jpeg Graphic file (type bmp)
 <images/steve-furber.jpeg>
 Missing character: There is no 🤔 (U+1F914) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2223,17 +2220,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 921--926
 
 [306] [307]) [308] (./cdyf.aux)
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24484 strings out of 478170
- 508951 string characters out of 5852993
- 952140 words of memory out of 5000000
- 44607 multiletter control sequences out of 15000+600000
+ 24483 strings out of 478170
+ 508943 string characters out of 5852993
+ 952104 words of memory out of 5000000
+ 44606 multiletter control sequences out of 15000+600000
  473408 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,13n,121p,2783b,871s stack positions out of 5000i,500n,10000p,200000b,80000s
