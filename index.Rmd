@@ -52,7 +52,7 @@ This guidebook aims to help you develop stronger habits of mind, body and soul u
 1. **`DATA`**: Facts, statistics, graphs and pictures collected together for your analysis
 1. **`YOU`**: Activities and *coding challenges* for you to do in addition to just reading
 1. **`FUTURES`**: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about *your* future. [@thinkaboutthefuture; @wroteforluck]
-1. **`ME`**: Hello, my name is Duncan. I'm your tour guide here. If you're feeling a bit lost, follow me.
+1. **`ME`**: Hello, my name is Duncan. I'm your tour guide here. If you're feeling a bit lost, follow me and I'll help you code your future.
 
 
 ```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "69%", fig.cap = "(ref:captionhellomyname)"}
@@ -742,13 +742,13 @@ knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thank you St Laurence {#st-laurence}  
-Thanks to St Laurence school ([st-laurence.com](https://st-laurence.com/)), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of decades later: Adam, Alan, Andrew, Anna, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve & Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with. So:
+Thanks to St Laurence comprehensive school ([st-laurence.com](https://st-laurence.com/)), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of decades later: Adam, Alan, Andrew, Anna, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve & Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with. So:
 
 * *[Vive le Tour](https://en.wikipedia.org/wiki/Vive_le_Tour)*
 * *[vive la différence](https://en.wiktionary.org/wiki/vive_la_diff%C3%A9rence)*
 * *[Vive la Révolution](https://en.wikipedia.org/wiki/Viva_la_revoluci%C3%B3n)*
 
-I'm looking forward to the next revolution of our adventures, see figure \@ref(fig:bradlads-fig)
+I'm looking forward to the next revolution of our ongoing adventures, see figure \@ref(fig:bradlads-fig)
 
 ```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
 knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
@@ -771,7 +771,7 @@ knitr::include_graphics("images/fitzmaurice-grammar-school.jpeg")
 
 Thanks to the rest of my St Laurence school teachers not pictured in figure \@ref(fig:fitzmaurice-fig). In alphabetical order: Phil Arthur, Sally Arthur, Maggie Bignell, [Jackie Bolton](https://www.wiltshiretimes.co.uk/news/11774162.the-life-of-mrs-jackie-bolton/), Tony Brooks, Dave Brush, Mrs. Buthlay, [Andrew Butterworth](https://www.youtube.com/watch?v=Hg9irmFwFr8), Cathy Cooper, Ed Corrin, Mrs Davies, Brian Ellis, Myra Ettridge, Sue Glanville, Ms. Gledhill, Roger Greenwood, Barry Hales, Amanda Hodges, [Steven Hollas](https://www.bathminervachoir.co.uk/our-accompanist), Maddy James, Mr Jones, Madame Lindsay, [Karen Long](https://www.amazon.co.uk/Karen-Long/e/B00NMARBTS), Sheila Macdonald, Simon Mitchell, Lee Musselwhite, Tim Noble, Roger Norgrove, Dave Pegg, Angela Pendennis, Sally Rose, Brian Reynolds, Steve Stretch, Mr Sadler, Mike Sullivan, Phil Smith, Rob Townhill, Beryl Tucker, Chris Watters, [James Wetz](https://www.sourcewatch.org/index.php/James_Wetz) and [Bill Wheeler](https://www.gazetteandherald.co.uk/news/7412797.school-marks-25th-with-street-party/).^[No, we didn't address teachers by their first names, it was always `Mr X`, `Mrs Y` or `Miss Z` but a bit of investigation has revealed their full identities.]
 
-Thanks to all of the [school governors](https://governorsforschools.org.uk/) for holding the leaders of St. Laurence to account. (`[#StateSchoolProud](https://www.93percent.club/)`)
+Thanks to all of the [school governors](https://governorsforschools.org.uk/) for holding the leaders of St. Laurence to account. I'm a (`#StateSchoolProud`) member of the [93percent.club](https://www.93percent.club/).
 
 ```{r laurence-fig, echo = FALSE, fig.show = "hold", out.width = "9.09%", fig.cap = "(ref:captiongudgeon)"}
 knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))

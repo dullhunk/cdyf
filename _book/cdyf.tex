@@ -4,14 +4,13 @@
 %
 \documentclass[
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
-  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -82,7 +81,7 @@
 \newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
 \newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
 \newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -112,7 +111,7 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -189,7 +188,7 @@ This guidebook aims to help you develop stronger habits of mind, body and soul u
 \item
   \textbf{\texttt{FUTURES}}: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about \emph{your} future. \citep{thinkaboutthefuture, wroteforluck}
 \item
-  \textbf{\texttt{ME}}: Hello, my name is Duncan. I'm your tour guide here. If you're feeling a bit lost, follow me.
+  \textbf{\texttt{ME}}: Hello, my name is Duncan. I'm your tour guide here. If you're feeling a bit lost, follow me and I'll help you code your future.
 \end{enumerate}
 
 \begin{figure}
@@ -1232,7 +1231,7 @@ So, thanks Bryan for your witty illustrations, this book wouldn't be the same wi
 \hypertarget{st-laurence}{%
 \subsection{Thank you St Laurence}\label{st-laurence}}
 
-Thanks to St Laurence school (\href{https://st-laurence.com/}{st-laurence.com}), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of decades later: Adam, Alan, Andrew, Anna, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve \& Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with. So:
+Thanks to St Laurence comprehensive school (\href{https://st-laurence.com/}{st-laurence.com}), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of decades later: Adam, Alan, Andrew, Anna, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve \& Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with. So:
 
 \begin{itemize}
 \tightlist
@@ -1244,7 +1243,7 @@ Thanks to St Laurence school (\href{https://st-laurence.com/}{st-laurence.com}),
   \emph{\href{https://en.wikipedia.org/wiki/Viva_la_revoluci\%C3\%B3n}{Vive la Révolution}}
 \end{itemize}
 
-I'm looking forward to the next revolution of our adventures, see figure \ref{fig:bradlads-fig}
+I'm looking forward to the next revolution of our ongoing adventures, see figure \ref{fig:bradlads-fig}
 
 \begin{figure}
 
@@ -1285,7 +1284,7 @@ Thanks to all my teachers at St Laurence school, some of whom can be seen in fig
 
 Thanks to the rest of my St Laurence school teachers not pictured in figure \ref{fig:fitzmaurice-fig}. In alphabetical order: Phil Arthur, Sally Arthur, Maggie Bignell, \href{https://www.wiltshiretimes.co.uk/news/11774162.the-life-of-mrs-jackie-bolton/}{Jackie Bolton}, Tony Brooks, Dave Brush, Mrs.~Buthlay, \href{https://www.youtube.com/watch?v=Hg9irmFwFr8}{Andrew Butterworth}, Cathy Cooper, Ed Corrin, Mrs Davies, Brian Ellis, Myra Ettridge, Sue Glanville, Ms.~Gledhill, Roger Greenwood, Barry Hales, Amanda Hodges, \href{https://www.bathminervachoir.co.uk/our-accompanist}{Steven Hollas}, Maddy James, Mr Jones, Madame Lindsay, \href{https://www.amazon.co.uk/Karen-Long/e/B00NMARBTS}{Karen Long}, Sheila Macdonald, Simon Mitchell, Lee Musselwhite, Tim Noble, Roger Norgrove, Dave Pegg, Angela Pendennis, Sally Rose, Brian Reynolds, Steve Stretch, Mr Sadler, Mike Sullivan, Phil Smith, Rob Townhill, Beryl Tucker, Chris Watters, \href{https://www.sourcewatch.org/index.php/James_Wetz}{James Wetz} and \href{https://www.gazetteandherald.co.uk/news/7412797.school-marks-25th-with-street-party/}{Bill Wheeler}.\footnote{No, we didn't address teachers by their first names, it was always \texttt{Mr\ X}, \texttt{Mrs\ Y} or \texttt{Miss\ Z} but a bit of investigation has revealed their full identities.}
 
-Thanks to all of the \href{https://governorsforschools.org.uk/}{school governors} for holding the leaders of St.~Laurence to account. (\href{https://www.93percent.club/}{\#StateSchoolProud})
+Thanks to all of the \href{https://governorsforschools.org.uk/}{school governors} for holding the leaders of St.~Laurence to account. I'm a (\texttt{\#StateSchoolProud}) member of the \href{https://www.93percent.club/}{93percent.club}.
 
 \begin{figure}
 \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \includegraphics[width=0.0909\linewidth]{images/st-laurence-school-logo} \caption{The badge of St.~Laurence School. The emblem is an adaptation of the Fitzmaurice badge with a pair of \href{https://en.wikipedia.org/wiki/Gudgeon_(fish)}{gudgeon fish} symbolising the union of the two schools St.~Laurence was created from: Trinity secondary modern school and Fitzmaurice Grammar School}\label{fig:laurence-fig}
@@ -1293,7 +1292,7 @@ Thanks to all of the \href{https://governorsforschools.org.uk/}{school governors
 
 
 
-So, thank you to the community that is St.~Laurence School, for my GCSE's, my A-levels in Physics, Chemistry, Biology and General Studies. Thanks for educating me (and many others) the \href{https://en.wikipedia.org/wiki/West_Country}{West Country} way. Proper job! 🙏 \citep{bristle}
+So, thank you to the community that is St.~Laurence School, for enabling my GCSE's followed by A-levels in Physics, Chemistry, Biology and General Studies. Thanks for educating me (and many others) the \href{https://en.wikipedia.org/wiki/West_Country}{West Country} way. Proper job! 🙏 \citep{bristle}
 
 \hypertarget{fitzmaurice}{%
 \subsection{Thank you Fitzmaurice}\label{fitzmaurice}}
@@ -1705,32 +1704,33 @@ Computer scientists call this problem ``search space reduction'', \citep{searchs
 
 Students love to ask their teachers ``\emph{will this be on the exam}''? The short answer is \textbf{YES} (and \textbf{NO})! Yes, this will be on the exam, but NO the exam won't be set by your University. Unlike other courses you've done, the examinations for this course aren't set by your University but by employers. Roughly speaking, there are three kinds of examinations that you'll need to get good at, shown in Table \ref{tab:examtable}
 
-\begin{longtable}[]{@{}lll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2821}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.5769}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1410}}@{}}
 \caption{\label{tab:examtable} Examining your future: The ``exams'' used by employers, what gets assessed and the grades you can get. For written ``exams'' see chapters \ref{writing} and \ref{debugging}, for speaking ``exams'' see chapter \ref{speaking} and for your employee ``exams'' see chapter \ref{surviving}.}\tabularnewline
 \toprule
-\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.28}}\raggedright
-Examination\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.58}}\raggedright
-What examiners are assessing\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.14}}\raggedright
-Grade\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+Examination
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+What examiners are assessing
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Grade
+\end{minipage} \\
 \midrule
 \endfirsthead
 \toprule
-\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.28}}\raggedright
-Examination\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.58}}\raggedright
-What examiners are assessing\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.14}}\raggedright
-Grade\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+Examination
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+What examiners are assessing
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Grade
+\end{minipage} \\
 \midrule
 \endhead
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.28}}\raggedright
 CV, application form
-covering letter\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.58}}\raggedright
+covering letter & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1741,13 +1741,9 @@ covering letter\strut
   Do you have any experience?
 \item
   What interesting projects have you done?
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.14}}\raggedright
-pass/fail\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.28}}\raggedright
-Interview\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.58}}\raggedright
+\end{itemize}
+\end{minipage} & pass/fail \\
+Interview & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1758,13 +1754,9 @@ Interview\strut
   Can you communicate well verbally?
 \item
   Can you communicate well nonverbally?
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.14}}\raggedright
-pass/fail\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.28}}\raggedright
-Employee performance\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.58}}\raggedright
+\end{itemize}
+\end{minipage} & pass/fail \\
+Employee performance & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1773,10 +1765,8 @@ Employee performance\strut
   Should we give you a pay rise?
 \item
   Should we extend your contract?
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.14}}\raggedright
-pass/fail\strut
-\end{minipage}\tabularnewline
+\end{itemize}
+\end{minipage} & pass/fail \\
 \bottomrule
 \end{longtable}
 
@@ -1838,25 +1828,27 @@ Get credit for your contributions. As well as being openly accessible on the web
 
 I wrote this guidebook because I need a resource for students to help them design, build, test and code their futures in computing. I need a book to help me teach to students to compete for jobs while at University, or shortly after graduating. I can't find anything suitable that meets all the requirements of the students I teach. Some problems with the resources that are already out there, and how this book addresses them, are shown in table \ref{tab:difftable}
 
-\begin{longtable}[]{@{}ll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
 \caption{\label{tab:difftable} \emph{Coding your Future} is a guidebook that is different to all the other guidebooks}\tabularnewline
 \toprule
-\begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-Other guidebooks\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-\emph{Coding your Future} guidebook\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+Other guidebooks
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\emph{Coding your Future} guidebook
+\end{minipage} \\
 \midrule
 \endfirsthead
 \toprule
-\begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-Other guidebooks\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-\emph{Coding your Future} guidebook\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+Other guidebooks
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\emph{Coding your Future} guidebook
+\end{minipage} \\
 \midrule
 \endhead
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1867,8 +1859,8 @@ Other guidebooks\strut
   Poor citations
 \item
   Often can't be searched
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1879,9 +1871,9 @@ Other guidebooks\strut
   Everything cited, see section \ref{signposted}
 \item
   Search by any words you choose
-\end{itemize}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} \\
+\begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1892,8 +1884,8 @@ Other guidebooks\strut
   Ebook a clumsy afterthought
 \item
   Video and audio is separate to book
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1904,9 +1896,9 @@ Other guidebooks\strut
   Ebook published simultaneously, see section \ref{downloading}
 \item
   Video and audio is integrated \& embedded
-\end{itemize}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} \\
+\begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1915,8 +1907,8 @@ Other guidebooks\strut
   Not used for teaching
 \item
   One-size-fits-all: career and discipline agnostic
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1925,26 +1917,26 @@ Other guidebooks\strut
   Course textbook for COMP2CARS
 \item
   Tailored to computing careers, see chapter \ref{computing} and \ref{broadening}
-\end{itemize}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} \\
+\begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
   \textbf{Institution centred}: University, employer or advertiser-centric
 \item
   Often excludes student voice
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
   \textbf{Student centred}: agnostic to institutions, employers and advertisers
 \item
   Includes \href{https://en.wikipedia.org/wiki/Student_voice}{student voice}, see section \ref{contributing} chapter \ref{hearing}
-\end{itemize}\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} \\
+\begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1953,8 +1945,8 @@ Other guidebooks\strut
   Small number of authors \& editors
 \item
   Released late, released seldomly
-\end{itemize}\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
+\end{itemize}
+\end{minipage} & \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
 \tightlist
 \item
@@ -1963,8 +1955,8 @@ Other guidebooks\strut
   Anyone can contribute or comment
 \item
   Released early, released often, see section \ref{version}
-\end{itemize}\strut
-\end{minipage}\tabularnewline
+\end{itemize}
+\end{minipage} \\
 \bottomrule
 \end{longtable}
 
@@ -2019,7 +2011,7 @@ Although this is a course guidebook used in the second year undergraduate teachi
 \hypertarget{version}{%
 \subsection{Your future is constantly updated}\label{version}}
 
-You are reading the alpha version, the \href{https://en.wikipedia.org/wiki/Minimum_viable_product}{Minimum Viable Product} (MVP) of this guidebook, last updated on 13 June, 2022. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
+You are reading the alpha version, the \href{https://en.wikipedia.org/wiki/Minimum_viable_product}{Minimum Viable Product} (MVP) of this guidebook, last updated on 15 June, 2022. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
 
 \begin{itemize}
 \tightlist
@@ -3638,7 +3630,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar-fig}
 \end{figure}
 
 
@@ -3654,7 +3646,7 @@ So, tell me, are you experienced? Why is experience valuable and what kind of ex
 
 }
 
-\caption{Do you respond with a sheepish \texttt{experience\ not\ found} error message when people ask about your experience? Is your experience like the \href{https://en.wikipedia.org/wiki/HTTP_404}{classic page not found} \texttt{HTTP\ 404}? The client sent you a valid request for your experience, but your server couldn't find it. Awkward. Embarrassing silence? 😳 Don't worry, there are some simple and easy ways to build your experience so that instead of negative 404's, you can respond with a cheerfully positive \texttt{200\ (OK)}, as described in this \href{https://en.wikipedia.org/wiki/List_of_HTTP_status_codes}{list of HTTP status codes}. We'll look at some of them in this chapter. Experience not found sketch by \href{https://visualthinkery.com/}{Visual Thinkery} is licensed under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:404-fig}
+\caption{Do you respond with a sheepish \texttt{experience\ not\ found} when people ask about your experience? Is your experience like the \href{https://en.wikipedia.org/wiki/HTTP_404}{classic page not found} error message \texttt{HTTP\ 404}? The client sent you a valid request for your experience, but your server couldn't find it. Awkward. Embarrassing silence? 😳 Don't worry, there are some simple and easy ways to build your experience so that instead of negative 404's, you can respond with a cheerfully positive \texttt{200\ (OK)}, as described in this \href{https://en.wikipedia.org/wiki/List_of_HTTP_status_codes}{list of HTTP status codes}. We'll look at some of them in this chapter. Experience not found sketch by \href{https://visualthinkery.com/}{Visual Thinkery} is licensed under \href{https://creativecommons.org/licenses/by-nd/4.0/}{CC-BY-ND}}\label{fig:404-fig}
 \end{figure}
 
 
@@ -4014,7 +4006,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar2-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar2-fig}
 \end{figure}
 
 \hypertarget{computing}{%
@@ -4191,7 +4183,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar3-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar3-fig}
 \end{figure}
 
 \hypertarget{part-building-testing}{%
@@ -5757,7 +5749,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar5-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar5-fig}
 \end{figure}
 
 \hypertarget{broadening}{%
@@ -6146,7 +6138,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar8-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar8-fig}
 \end{figure}
 
 \hypertarget{speaking}{%
@@ -6521,7 +6513,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar6-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar6-fig}
 \end{figure}
 
 \hypertarget{surviving}{%
@@ -6789,7 +6781,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar7-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar7-fig}
 \end{figure}
 
 \hypertarget{achieving}{%
@@ -7183,7 +7175,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar9-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar9-fig}
 \end{figure}
 
 \hypertarget{part-supporting}{%
@@ -7454,7 +7446,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 13 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar19-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 15 June, 2022 this book is an estimated \textbf{33\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/32PB}{w.wiki/32PB} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar19-fig}
 \end{figure}
 
 \hypertarget{hacking}{%
@@ -8134,7 +8126,7 @@ Verbs that demonstrate your analytical and scientific skills
 \item
   \texttt{quantified} (for example in benchmarking)
 \item
-  \texttt{researched}~\\
+  \texttt{researched}\strut \\
 \item
   \texttt{reviewed}
 \item
