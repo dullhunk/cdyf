@@ -148,12 +148,19 @@ Look at these values carefully, or choose the values of another employer you're 
 Do an employers words match their actions? The words **[Don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil)** are easy to *say* but harder to *action*. Good intentions are often easier said than done.
 
 ## Computing the future {#betterplace}
-Our human race faces some huge challenges in the 21st century:
+The human race faces some huge challenges in the 21st century:
 
-* Mitigating the effects of climate change
-* Tackling rising global inequalities of wealth, income and gender [@stanley]
-* Providing adequate food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
+* Mitigating the effects of [climate change](https://en.wikipedia.org/wiki/Climate_change), see figure \@ref(fig:climate-fig)
+* Tackling inequalities of wealth, income, race and gender [@stanley]
+* Ensuring algorithms work for *everyone* in society, not just the (predominantly) old rich white men that control them, see figure \@ref(fig:justice-fig)
+* Providing sufficient food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
 * Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) and renewably without irreversibly depleting resources, both human resources and natural resources
+
+```{r climate-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclimate)"}
+knitr::include_graphics("images/climate-change.jpeg")
+```
+
+(ref:captionclimate) The overwhelming scientific consensus is that our climate is changing more rapidly than we'd like. What can computing do to mitigate the effects of climate change? How could you use computing to address this, and other global grand challenges that the human race faces in the 21st century? CC BY-SA picture of temperature change in the last 50 years by NASA’s Scientific Visualisation Studio on Wikimedia Commons [w.wiki/4X5E](https://w.wiki/4X5E) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 How can computing be an ethical force for change that improves the lives people everywhere, not just those that are lucky enough to be on the wealthier side of the digital divide?
 
@@ -162,11 +169,22 @@ How can computing be an ethical force for change that improves the lives people 
 
 Here are some examples to get you started:
 
-* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) [@greencomputing]
-* Net zero computing [@netzero]
+* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) and net zero computing [@greencomputing; @netzero]
 * [Smarter cities](https://en.wikipedia.org/wiki/Smart_city) which use resources more efficiently  [@smartercities]
-* Technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) could enable quicker and cheaper development of new vaccines and drugs [@Jumper2021]
-* Scientific computing for the benefit of humanity, e.g. better climate modelling and see section \@ref(rse)
+* Fairer algorithms: see [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias) and figure \@ref(fig:justice-fig)
+* Better healthcare and better education enabled by better computing
+* Scientific computing for the benefit of humanity, see section \@ref(rse). Creating better, cheaper and faster software and hardware for scientists and engineers:
+    - Improved climate modelling and weather forecasting
+    - Quicker development of new vaccines and drugs, technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) are already helping [@Jumper2021]
+
+
+```{r justice-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionjoy)"}
+knitr::include_graphics("images/joy-buolamwini.jpeg")
+```
+
+(ref:captionjoy) Are your algorithms fair or are they perpetuating biases against minority groups? [Joy Buolamwini](https://en.wikipedia.org/wiki/Joy_Buolamwini) founded the [algorithmic justice league](https://en.wikipedia.org/wiki/Algorithmic_Justice_League) to unmask harms in algorithms such as those used in facial recognition and voice recognition. CC BY-SA portrait of Joy Buolamwini by Niccolò Caranti on Wikimedia Commons [w.wiki/5Jar](https://w.wiki/5Jar) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+How will you use your superpower of computing we mentioned in section \@ref(superpower) to make the world a better place?
 
 ## Breakpoints {#bp9}
 (ref:breakpoint)

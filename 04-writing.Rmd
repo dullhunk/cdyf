@@ -46,9 +46,9 @@ knitr::include_graphics("images/Achilles-Heel-to-Superpower.png")
 ```
 (ref:captionachilles) Computing is a superpower that gods like [Hermes](https://en.wikipedia.org/wiki/Hermes) and mortal heroes like [Achilles](https://en.wikipedia.org/wiki/Achilles) would probably have envied. [@heroes; @mythos] As a technical or *hard skill*, computing is a crucial weapon in your armoury but what are your weaker skills? What is your [Achilles' heel](https://en.wikipedia.org/wiki/Achilles%27_heel)? For some scientists and engineers, their weakness is their soft skills, such as communication. Writing, reading, speaking and listening to communicate with team members can be a weaker skill for many technical people. This chapter looks at what you can do to improve these skills and convince employers that you are rounded individual with a healthy balance of soft and hard skills. [Achilles heel to superpower](https://bryanmmathers.com/achilles-heel-to-superpower/) by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Your computational superpower is less powerful if it isn't complemented by a broad range of softer skills. Typically, these skills are not closely examined in most computer science degrees, by repeated assessment. This not because soft skills aren't important but probably because they are hard to quantify.
+Your computational superpower is less powerful if it isn't complemented by a broad range of softer skills. Typically, these skills are not closely examined in most computer science degrees, for example by repeated assessment. There's an awful lot of [technical computing curriculum](https://www.acm.org/education/curricula-recommendations) that tends to have a higher priority over soft skills. It's not that soft skills aren't important but that are hard to quantify.
 
-For example, if I want to know how good you are at understanding the syntax and semantics of a programming language like Python, there are tried and tested techniques for doing this. However, if I want to know how good you are at using your communication skills to work in a team, negotiate, lead, resolve conflicts, persuade others, show empathy etc that's **much** harder to measure accurately. What technical degrees tend to measure is technical skills because softer skills, shown in figure \@ref(fig:allskills-fig), are much harder to assess by examination and coursework. This is one of the reasons that you are much more than your grades, see figure \@ref(fig:more-than-grades-fig).
+For example, if I want to know how good you are at understanding the syntax and semantics of a programming language like Python, there are tried and tested techniques for measuring this. However, if I want to know how good you are at using your communication skills to work in a team of engineers to negotiate, lead, resolve conflicts, persuade others, show empathy etc that's **much** harder to measure accurately. What technical degrees tend to measure is technical skills because softer skills, shown in figure \@ref(fig:allskills-fig), are much harder to assess by examination and coursework. This is one of the many reasons that you are much more than your grades, see figure \@ref(fig:more-than-grades-fig).
 
 ```{r allskills-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallskills)"}
 knitr::include_graphics("images/Hard and soft skills.png")
@@ -76,10 +76,16 @@ knitr::kable(io_table, caption = "The inputs and outputs of the fundamental asse
 
 Some people leave plenty of room for improvement when it comes to the communication skills outlined in table \@ref(tab:iotable). Think of:
 
-* the stereotypical scientist, clad in a white coat, unable to explain the complexities of their subject to people inside their lab, let alone outside of it.
+* the stereotypical mad scientist, clad in a white coat, unable to explain the complexities of their research to people inside their lab, let alone outside of it, see figure \@ref(fig:madscientist-fig)
 * the nerdy software engineer stereotype who prefers the company of computers to people
 
 Yes, these are lazy and sometimes unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators. Don't perpetuate the stereotype by being a bad communicator.
+
+```{r madscientist-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmadscientist)"}
+knitr::include_graphics("images/mad-scientist.jpeg")
+```
+
+(ref:captionmadscientist) Mad, bad and dangerous to know? You'll be familiar with the [mad scientist stereotype](https://en.wikipedia.org/wiki/Mad_scientist). Part of the problem with mad scientists and engineers (apart from their supposed insanity) is their poor communication skills. Don't perpetuate the stereotype by being a poor communicator. CC BY-SA cartoon of a mad scientist by J.J. on Wikimedia Commons [w.wiki/5JeU](https://w.wiki/5JeU) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 ### The pen is mightier than the sword {#mightier}
 The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on your superpower of written communication. The pen (and keyboard) is mightier than the sword, see figure \@ref(fig:mighty-pen-fig).

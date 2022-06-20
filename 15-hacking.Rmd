@@ -60,7 +60,7 @@ knitr::include_graphics("images/pen_tester.png")
 
 ### Rick Urshion {#rick-urshion}
 
-Rick is a big fan of functional programming and loves solving problems with languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figure \@ref(fig:rickurshion-fig).
+Rick is a big fan of [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and loves solving problems with languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figure \@ref(fig:rickurshion-fig).
 
 ```{r rickurshion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrick)"}
 knitr::include_graphics("images/rick_urshion.png")
