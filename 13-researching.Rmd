@@ -78,7 +78,7 @@ A good place to start if you're thinking about doing a PhD (or trying to get thr
 
 ```{r eval=knitr::is_html_output(excludes = "epub"), gavinbrown-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
-include_tweet("https://twitter.com/profgavinbrown/status/1366390620504399872")
+include_tweet("https://twitter.com/profgavinbrown/status/1525098175710863360")
 ```
 
 

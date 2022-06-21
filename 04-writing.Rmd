@@ -79,16 +79,16 @@ Some people leave plenty of room for improvement when it comes to the communicat
 * the stereotypical mad scientist, clad in a white coat, unable to explain the complexities of their research to people inside their lab, let alone outside of it, see figure \@ref(fig:madscientist-fig)
 * the nerdy software engineer stereotype who prefers the company of computers to people
 
-Yes, these are lazy and sometimes unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators. Don't perpetuate the stereotype by being a bad communicator.
+Yes, these are lazy tropes and unhelpful stereotypes, but they express public perception of scientists and engineers as poor communicators. Don't perpetuate the stereotype by being a bad communicator.
 
 ```{r madscientist-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmadscientist)"}
 knitr::include_graphics("images/mad-scientist.jpeg")
 ```
 
-(ref:captionmadscientist) Mad, bad and dangerous to know? You'll be familiar with the [mad scientist stereotype](https://en.wikipedia.org/wiki/Mad_scientist). Part of the problem with mad scientists and engineers (apart from their supposed insanity) is their poor communication skills. Don't perpetuate the stereotype by being a poor communicator. CC BY-SA cartoon of a mad scientist by J.J. on Wikimedia Commons [w.wiki/5JeU](https://w.wiki/5JeU) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captionmadscientist) Are you [mad, bad and dangerous to know](https://en.wikipedia.org/wiki/Mad,_Bad_and_Dangerous_to_Know)? You'll be familiar with the [mad scientist stereotype](https://en.wikipedia.org/wiki/Mad_scientist): perceived as an evil genius owing to a combination of unsettling personality traits and the unabashedly ambitious, taboo or hubristic nature of their experiments. Besides their supposed insanity, another reason mad scientists (and engineers) are perceived badly, is their poor communication skills. Maybe if they could communicate better the public might understand and trust them more? Don't perpetuate the stereotype by being a poor communicator, there are too many of those already! CC BY-SA cartoon of a mad scientist by J.J. on Wikimedia Commons [w.wiki/5JeU](https://w.wiki/5JeU) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 ### The pen is mightier than the sword {#mightier}
-The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on your superpower of written communication. The pen (and keyboard) is mightier than the sword, see figure \@ref(fig:mighty-pen-fig).
+The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on your superpower of written communication. The pen (and keyboard) are mightier than the sword, see figure \@ref(fig:mighty-pen-fig).
 
 ```{r mighty-pen-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmightypen)"}
 knitr::include_graphics("images/the-pen-is-mightier-than-the-sword.jpeg")
@@ -139,7 +139,7 @@ Consider the following:
 * [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together, as do many other systems like [bookdown.org](https://bookdown.org/)
 
 
-What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless. Using written (and spoken) natural language is a key social skill and a communication skill. You might be using your language to influence, persuade, convince or argue with members of your team. So it is important that you do it to the best of your abilities. Computer Scientist [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn), shown in figure \@ref(fig:vonahn-fig), is the creator of [Duolingo.com](https://www.duolingo.com/). He regrets that he didn't spend any effort developing his social skills early in his career. Instead, like many computer scientists he focussed his effort on his mathematical and technical skills instead. [@vonahn]
+What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless. Using written (and spoken) natural language is a key social skill and a communication skill. You might be using your language to influence, persuade, convince or argue with members of your team. So it is important that you do it to the best of your abilities. Computer Scientist [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn), shown in figure \@ref(fig:vonahn-fig), is the creator of [Duolingo.com](https://www.duolingo.com/). Luis regrets that he didn't spend any effort developing his social skills early in his career. Instead, like many computer scientists he focussed his effort on his mathematical and technical skills instead. [@vonahn]
 
 <!-- I did not spend any effort developing my social skills. A lot of management skills are just social skills-->
 
@@ -341,4 +341,4 @@ This chapter is under construction because I'm using agile book development meth
 knitr::include_graphics("images/DeathStar2.jpg")
 ```
 
-(ref:captiondeathstar)  Just like the [Death Star](https://en.wikipedia.org/wiki/Death_Star), this ~~galactic superweapon~~ book is under construction. As of `r format(Sys.time(), '%d %B, %Y')` this book is an estimated **33% complete**. Image of agile weapon engineering in *Star Wars* via Wikimedia Commons [w.wiki/32PB](https://w.wiki/32PB) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captiondeathstar)  Just like the [Death Star](https://en.wikipedia.org/wiki/Death_Star), this ~~galactic superweapon~~ book is under construction. As of `r format(Sys.time(), '%d %B, %Y')` this book is an estimated **35% complete**. Image of agile weapon engineering in *Star Wars* via Wikimedia Commons [w.wiki/32PB](https://w.wiki/32PB) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
