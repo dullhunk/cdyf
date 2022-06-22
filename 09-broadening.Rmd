@@ -169,22 +169,23 @@ How can computing be an ethical force for change that improves the lives people 
 
 Here are some examples to get you started:
 
-* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) and net zero computing [@greencomputing; @netzero]
+* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) and net zero computing, see [greensoftware.foundation](https://greensoftware.foundation/) [@greencomputing; @netzero]
 * [Smarter cities](https://en.wikipedia.org/wiki/Smart_city) which use resources more efficiently  [@smartercities]
 * Fairer algorithms: see [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias) and figure \@ref(fig:justice-fig)
-* Better healthcare and better education enabled by better computing
+* Better education enabled by computing, both as a [subject in its own right](https://www.sigcse.org/), and as an enabler of the teaching and learning of everything else
 * Scientific computing for the benefit of humanity, see section \@ref(rse). Creating better, cheaper and faster software and hardware for scientists and engineers:
     - Improved climate modelling and weather forecasting
-    - Quicker development of new vaccines and drugs, technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) are already helping [@Jumper2021]
+    - Better healthcare, with [electronic health records](https://en.wikipedia.org/wiki/Electronic_health_record)s, [personal genomics](https://en.wikipedia.org/wiki/Personal_genomics) and better diagnostic tools
+    - Quicker development of new vaccines and drugs, technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) are already making a difference to [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery) [@Jumper2021]
 
 
 ```{r justice-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionjoy)"}
 knitr::include_graphics("images/joy-buolamwini.jpeg")
 ```
 
-(ref:captionjoy) Are your algorithms fair or are they perpetuating biases against minority groups? [Joy Buolamwini](https://en.wikipedia.org/wiki/Joy_Buolamwini) founded the [algorithmic justice league](https://en.wikipedia.org/wiki/Algorithmic_Justice_League) to unmask harms in algorithms such as those used in facial recognition and voice recognition. CC BY-SA portrait of Joy Buolamwini by Niccolò Caranti on Wikimedia Commons [w.wiki/5Jar](https://w.wiki/5Jar) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captionjoy) Are your algorithms fair or are they perpetuating biases against minority groups? Dr. [Joy Buolamwini](https://en.wikipedia.org/wiki/Joy_Buolamwini) founded the [algorithmic justice league](https://en.wikipedia.org/wiki/Algorithmic_Justice_League) to unmask harms in algorithms such as those used in facial recognition and voice recognition. CC BY-SA portrait of Dr. Joy Buolamwini by Niccolò Caranti on Wikimedia Commons [w.wiki/5Jar](https://w.wiki/5Jar) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238). Thanks to Dr. Joy Buolamwini for permission to use your picture.
 
-How will you use your superpower of computing we mentioned in section \@ref(superpower) to make the world a better place?
+How will you use your superpowers of computing we mentioned in section \@ref(superpower) to make the world a better place?
 
 ## Breakpoints {#bp9}
 (ref:breakpoint)
