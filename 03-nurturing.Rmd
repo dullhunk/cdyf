@@ -404,13 +404,19 @@ knitr::include_graphics("images/accept-yourself.jpeg")
 
 Anxiety and depression are serious conditions that are very likely to affect you or somebody close to you while you are at University. There's a one in four chance that you will be affected by mental health issues at some point in your life.
 
-We've only talked about two particular mental health issues, anxiety and depression, but there are many other conditions such as phobias, obsessive-compulsive disorder (OCD), eating disorders, self-harm and more that are beyond the scope of this chapter. They do have one thing in common, and that is that talking about them is an important part of starting to develop better mental health.
+We've only talked about two particular mental health issues, anxiety and depression, but there are many other conditions such as phobias, obsessive-compulsive disorder (OCD), eating disorders, self-harm and more that are beyond the scope of this chapter. They do have one thing in common, and that is that talking about them is an important part of starting to develop better mental health. Mental health can affect everyone.
+
+```{r eval=knitr::is_html_output(excludes = "epub"), menshealth-fig,echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/profbuchan/status/1540228377608585216")
+```
+
 
 If you are affected by mental ill health, talking about it is the best place to start, but often the hardest. You can continue by:
 
 1. Accepting yourself for who you are, see chapter \@ref(knowing)
 1. Learning to identify and challenge unhelpful thinking patterns
-1. Trying not to compare yourself to other people
+1. Avoiding the trap of compare yourself to other people too much
 
 ... are three more steps you can take to help yourself, see figure \@ref(fig:mindyourhealth-fig). In this chapter, I've outlined some ways you can help yourself alongside some of the services and people you can talk to if you need to.
 

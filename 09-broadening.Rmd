@@ -63,9 +63,9 @@ Software engineers (or software developers if you prefer) are one of the most po
 <!--nonprofit, governmental, social -->
 What do these roles entail?
 
-## Research roles {#rse}
+## Research software engineering {#rse}
 
-There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. There are also [lots roles in research software engineering](https://dx.doi.org/10.1038/d41586-022-01516-2) (RSE), using software engineering to help people do better scientific research, see [society-rse.org](https://society-rse.org/).[@rses] For example, CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and many of them won't be physicists. [@hullcern]
+There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. For example, there are [lots roles in research software engineering](https://dx.doi.org/10.1038/d41586-022-01516-2) (RSE), using software engineering to facilitate better scientific research, see [society-rse.org](https://society-rse.org/).[@rses] For example, CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and many of them won't be physicists. [@hullcern]
 
 ```{r cern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
 knitr::include_graphics("images/cern-engineering.jpeg")
@@ -90,6 +90,11 @@ An non-exhaustive list of laboratories from the UK and Europe that employ comput
 * More like this at [jobs.ac.uk](https://jobs.ac.uk/)
 
 These are mainly UK opportunities, but it is a similar story around the world. Many Universities and research institutes have summer internships for computer science students working alongside researchers. For example, at the University of Manchester, summer vacancies tend to be advertised each year around April/May. Wherever you are, speak to the head of a research lab you're interested in. Ask them if they have plans to take on summer students.
+
+```{r eval=knitr::is_html_output(excludes = "epub"), rse-fig,echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/ResearchSoftEng/status/1531944240170909696")
+```
 
 If you're thinking of doing postgraduate study, see chapter \@ref(researching). Commercial experience gained on a summer internship or placement year is valued by *all* employers (not just commercial ones) so doing an internship or placement during your undergraduate degree is valuable wherever you end up, see section \@ref(realworld).
 
@@ -169,7 +174,7 @@ How can computing be an ethical force for change that improves the lives people 
 
 Here are some examples to get you started:
 
-* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) and net zero computing, see [greensoftware.foundation](https://greensoftware.foundation/) [@greencomputing; @netzero]
+* [Greener computing](https://en.wikipedia.org/wiki/Green_computing) and net zero computing, see [greensoftware.foundation](https://greensoftware.foundation/) [@Knowles2022; @netzero]
 * [Smarter cities](https://en.wikipedia.org/wiki/Smart_city) which use resources more efficiently  [@smartercities]
 * Fairer algorithms: see [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias) and figure \@ref(fig:justice-fig)
 * Better education enabled by computing, both as a [subject in its own right](https://www.sigcse.org/), and as an enabler of the teaching and learning of everything else
