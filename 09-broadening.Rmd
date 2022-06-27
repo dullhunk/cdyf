@@ -155,17 +155,17 @@ Do an employers words match their actions? The words **[Don't be evil](https://e
 ## Computing the future {#betterplace}
 The human race faces some huge challenges in the 21st century:
 
-* Mitigating the effects of [climate change](https://en.wikipedia.org/wiki/Climate_change), see figure \@ref(fig:climate-fig)
+* Mitigating the effects of [climate change](https://en.wikipedia.org/wiki/Climate_change), see figure \@ref(fig:greta-fig)
 * Tackling inequalities of wealth, income, race and gender [@stanley]
 * Ensuring algorithms work for *everyone* in society, not just the (predominantly) old rich white men that control them, see figure \@ref(fig:justice-fig)
 * Providing sufficient food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
 * Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) and renewably without irreversibly depleting resources, both human resources and natural resources
 
-```{r climate-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclimate)"}
-knitr::include_graphics("images/climate-change.jpeg")
+```{r greta-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclimate)"}
+knitr::include_graphics("images/greta-thunberg.jpeg")
 ```
 
-(ref:captionclimate) The overwhelming scientific consensus is that our climate is changing more rapidly than we'd like. What can computing do to mitigate the effects of climate change? How could you use computing to address this, and other global grand challenges that the human race faces in the 21st century? CC BY-SA picture of temperature change in the last 50 years by NASA’s Scientific Visualisation Studio on Wikimedia Commons [w.wiki/4X5E](https://w.wiki/4X5E) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captionclimate) The overwhelming scientific consensus is that our climate is changing more rapidly than we'd like. According to the [Intergovernmental Panel on Climate Change](Intergovernmental Panel on Climate Change) (IPCC) we are less than ~~twelve~~ (now nine) years away from not being able to undo our mistakes. As [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) put it, our house is on fire. [@gretathunberg] How can computing address this, and other global grand challenges that the human race faces in the 21st century? CC BY portrait of Greta Thunberg by the European Parliament on Wikimedia Commons [w.wiki/5MEd](https://w.wiki/5MEd) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 How can computing be an ethical force for change that improves the lives people everywhere, not just those that are lucky enough to be on the wealthier side of the digital divide?
 
