@@ -158,14 +158,14 @@ The human race faces some huge challenges in the 21st century:
 * Mitigating the effects of [climate change](https://en.wikipedia.org/wiki/Climate_change), see figure \@ref(fig:greta-fig)
 * Tackling inequalities of wealth, income, race and gender [@stanley]
 * Ensuring algorithms work for *everyone* in society, not just the (predominantly) old rich white men that control them, see figure \@ref(fig:justice-fig)
-* Providing sufficient food, water, shelter, energy, education and healthcare for a global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
-* Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) and renewably without irreversibly depleting resources, both human resources and natural resources
+* Providing sufficient food, water, shelter, energy, education and healthcare for a growing global population which is rapidly approaching [8 billion people](https://www.worldometers.info/world-population/)
+* Meeting all these goals [sustainably](https://en.wikipedia.org/wiki/Sustainability) and renewably without irreversibly depleting resources
 
 ```{r greta-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclimate)"}
 knitr::include_graphics("images/greta-thunberg.jpeg")
 ```
 
-(ref:captionclimate) The overwhelming scientific consensus is that our climate is changing more rapidly than we'd like. According to the [Intergovernmental Panel on Climate Change](Intergovernmental Panel on Climate Change) (IPCC) we are less than ~~twelve~~ (now nine) years away from not being able to undo our mistakes. As [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) put it, our house is on fire. [@gretathunberg] How can computing address this, and other global grand challenges that the human race faces in the 21st century? CC BY portrait of Greta Thunberg by the European Parliament on Wikimedia Commons [w.wiki/5MEd](https://w.wiki/5MEd) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captionclimate) The overwhelming scientific consensus is that our climate is changing much more rapidly than we'd like. According to the [Intergovernmental Panel on Climate Change](Intergovernmental Panel on Climate Change) (IPCC) we are less than ~~twelve~~ (now nine) years away from not being able to undo our mistakes. As [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) put it, our house is on fire. [@gretathunberg] How can computing address this, and other global grand challenges that the human race faces in the 21st century? CC BY portrait of Greta Thunberg by the European Parliament on Wikimedia Commons [w.wiki/5MEd](https://w.wiki/5MEd) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 How can computing be an ethical force for change that improves the lives people everywhere, not just those that are lucky enough to be on the wealthier side of the digital divide?
 
@@ -176,9 +176,9 @@ Here are some examples to get you started:
 
 * [Greener computing](https://en.wikipedia.org/wiki/Green_computing) and net zero computing, see [greensoftware.foundation](https://greensoftware.foundation/) [@Knowles2022; @netzero]
 * [Smarter cities](https://en.wikipedia.org/wiki/Smart_city) which use resources more efficiently  [@smartercities]
-* Fairer algorithms: see [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias) and figure \@ref(fig:justice-fig)
-* Better education enabled by computing, both as a [subject in its own right](https://www.sigcse.org/), and as an enabler of the teaching and learning of everything else
-* Scientific computing for the benefit of humanity, see section \@ref(rse). Creating better, cheaper and faster software and hardware for scientists and engineers:
+* Fairer algorithms: see [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias),  [responsible.ai](https://www.responsible.ai/)and figure \@ref(fig:justice-fig)
+* Better education enabled by computing, both as a [subject in its own right](https://en.wikipedia.org/wiki/Computer_science_education), and as an enabler of the teaching and learning of everything else
+* Scientific computing for the benefit of humanity, see section \@ref(rse). Creating better, cheaper and faster software and hardware for scientists and engineers, for example:
     - Improved climate modelling and weather forecasting
     - Better healthcare, with [electronic health records](https://en.wikipedia.org/wiki/Electronic_health_record)s, [personal genomics](https://en.wikipedia.org/wiki/Personal_genomics) and better diagnostic tools
     - Quicker development of new vaccines and drugs, technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) are already making a difference to [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery) [@Jumper2021]

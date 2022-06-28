@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  27 JUN 2022 09:12
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.1.26)  28 JUN 2022 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1179,13 +1179,13 @@ File: images/fry-lecture.jpeg Graphic file (type bmp)
 Missing character: There is no 🧠 (U+1F9E0) in font [lmroman10-regular]:mapping=tex-text;!
 
 Overfull \hbox (17.09998pt too wide) in paragraph at lines 2306--2307
-[]\TU/lmtt/m/n/10 Woman * Genderqueer * Man \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Gender_binary[]
+[]\TU/lmtt/m/n/10 Woman | Genderqueer | Man \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Gender_binary[]
  []
 
 Missing character: There is no 🎨 (U+1F3A8) in font [lmroman10-regular]:mapping=tex-text;!
 
 Overfull \hbox (81.10999pt too wide) in paragraph at lines 2314--2315
-[]\TU/lmtt/m/n/10 Feminine * Androgynous * Masculine \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Gender_expression[] 
+[]\TU/lmtt/m/n/10 Feminine | Androgynous | Masculine \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Gender_expression[] 
  []
 
 Missing character: There is no ⚧ (U+26A7) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1195,7 +1195,7 @@ Missing character: There is no ❤ (U+2764) in font [lmroman10-regular]:mapping=
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
 
 Overfull \hbox (143.63998pt too wide) in paragraph at lines 2330--2331
-[]\TU/lmtt/m/n/10 Asexual * Heterosexual * Bisexual * Homosexual \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Sexual_orientation[]
+[]\TU/lmtt/m/n/10 Asexual | Heterosexual | Bisexual | Homosexual \TU/lmr/m/n/10 see []en.wikipedia.org/wiki/Sexual_orientation[]
  []
 
 
@@ -1883,9 +1883,6 @@ File: images/greta-thunberg.jpeg Graphic file (type bmp)
 [219]
 File: images/joy-buolamwini.jpeg Graphic file (type bmp)
 <images/joy-buolamwini.jpeg>
-
-Underfull \vbox (badness 1990) has occurred while \output is active []
-
 [220]
 Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
@@ -1917,6 +1914,9 @@ Missing character: There is no 😭 (U+1F62D) in font [lmroman10-regular]:mappin
 File: images/youtube-petia.png Graphic file (type bmp)
 <images/youtube-petia.png>
 [228]
+File: images/hackerrank.jpeg Graphic file (type bmp)
+<images/hackerrank.jpeg>
+[229]
 File: images/project-euler.jpeg Graphic file (type bmp)
 <images/project-euler.jpeg>
 Missing character: There is no 型 (U+578B) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1924,23 +1924,19 @@ File: images/kata.jpeg Graphic file (type bmp)
 <images/kata.jpeg>
 Missing character: There is no 型 (U+578B) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 型 (U+578B) in font [lmroman10-regular]:mapping=tex-text;!
-[229]
-File: images/hackerrank.jpeg Graphic file (type bmp)
-<images/hackerrank.jpeg>
-[230]
 File: images/International-Collegiate-Programming-Contest.jpeg Graphic file (type bmp)
 <images/International-Collegiate-Programming-Contest.jpeg>
-[231] [232]
+[230]
 Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
+[231] [232]
 Missing character: There is no ▶ (U+25B6) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 File: images/carole-goble.jpeg Graphic file (type bmp)
 <images/carole-goble.jpeg>
-[233]
 File: images/DeathStar2.jpg Graphic file (type bmp)
 <images/DeathStar2.jpg>
-[234] [235] [236
+[233] [234] [235] [236
 
 ]
 Chapter 11.
@@ -1989,7 +1985,7 @@ File: images/badge-taxonomy-v2.png Graphic file (type bmp)
 Underfull \vbox (badness 4316) has occurred while \output is active []
 
 [250] [251] [252]
-Underfull \hbox (badness 2042) in paragraph at lines 7083--7085
+Underfull \hbox (badness 2042) in paragraph at lines 7080--7082
 []\TU/lmr/m/n/10 Amazon Web Services badges []credly.com/organizations/amazon-web-
  []
 
@@ -2018,7 +2014,7 @@ File: images/einstein-i-have-no-special-talents.png Graphic file (type bmp)
 Underfull \vbox (badness 3312) has occurred while \output is active []
 
 [257]
-Underfull \hbox (badness 1742) in paragraph at lines 7200--7201
+Underfull \hbox (badness 1742) in paragraph at lines 7197--7198
 [][]\TU/lmr/m/n/10 jobs.ac.uk[] also lists PhD opportunities, not just in the UK, see
  []
 
@@ -2092,7 +2088,7 @@ Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 File: images/pen_tester.png Graphic file (type bmp)
 <images/pen_tester.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7650--7650
+Underfull \hbox (badness 10000) in paragraph at lines 7647--7647
 []\TU/lmr/m/n/10 Figure 15.2: []Penny Tester’s full CV can be viewed at
  []
 
@@ -2101,14 +2097,14 @@ File: images/rick_urshion.png Graphic file (type bmp)
 File: images/marge_conflict.png Graphic file (type bmp)
 <images/marge_conflict.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7682--7682
+Underfull \hbox (badness 10000) in paragraph at lines 7679--7679
 []\TU/lmr/m/n/10 Figure 15.4: []Marge Conflict’s full CV can be viewed at
  []
 
 File: images/mike_rokernel_usa.png Graphic file (type bmp)
 <images/mike_rokernel_usa.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 7698--7698
+Underfull \hbox (badness 10000) in paragraph at lines 7695--7695
 []\TU/lmr/m/n/10 Figure 15.5: []Mike Rokernel’s full CV can be viewed at
  []
 
@@ -2121,12 +2117,12 @@ File: images/peter_byte.png Graphic file (type bmp)
 File: images/polly-morphism.png Graphic file (type bmp)
 <images/polly-morphism.png>
 
-Underfull \hbox (badness 3849) in paragraph at lines 7746--7746
+Underfull \hbox (badness 3849) in paragraph at lines 7743--7743
 []\TU/lmr/m/n/10 Figure 15.8: []A pdf of Polina Morphism’s LinkedIn profile can be
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 7746--7746
+Underfull \hbox (badness 3826) in paragraph at lines 7743--7743
 \TU/lmr/m/n/10 found at []cdyf.me/Polly_Morphism.pdf[], the original can be found at
  []
 
@@ -2167,7 +2163,7 @@ Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
 Underfull \vbox (badness 1983) has occurred while \output is active []
 
 [290] [291] [292]
-Underfull \hbox (badness 10000) in paragraph at lines 8233--8235
+Underfull \hbox (badness 10000) in paragraph at lines 8230--8232
 
  []
 
@@ -2181,7 +2177,7 @@ Chapter 19.
 File: images/is-it-just-me.png Graphic file (type bmp)
 <images/is-it-just-me.png>
 
-Underfull \hbox (badness 3428) in paragraph at lines 8368--8369
+Underfull \hbox (badness 3428) in paragraph at lines 8365--8366
 []\TU/lmr/m/n/10 Live on campus sesssion of \TU/lmr/m/it/10 Coding your Future \TU/lmr/m/n/10 (COMP2CARS and
  []
 
@@ -2204,10 +2200,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 25008 strings out of 478170
- 517686 string characters out of 5852993
- 958827 words of memory out of 5000000
- 45105 multiletter control sequences out of 15000+600000
+ 25007 strings out of 478170
+ 517676 string characters out of 5852993
+ 958788 words of memory out of 5000000
+ 45104 multiletter control sequences out of 15000+600000
  475888 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,15n,121p,2783b,873s stack positions out of 5000i,500n,10000p,200000b,80000s
