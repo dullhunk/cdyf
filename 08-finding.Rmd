@@ -148,7 +148,7 @@ Most job adverts are legitimate but you are vulnerable when you are job hunting.
 ```{r jobscams-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionjobscams)"}
 knitr::include_graphics("images/Job-Scams-Signs-GOVUK.png")
 ```
-(ref:captionjobscams) Beware of the job scammers. Things to be suspicous of include illegitimate companies, poorly-written job adverts, suspicious contact details and emails, unrealistic salaries, job offers without an interview and being asked for money up front. Spotting the signs of job scammers by gov.uk is licensed under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) [@jobscammers2]
+(ref:captionjobscams) Beware of the job scammers. You should be highly suspicious of illegitimate companies, poorly-written job adverts, dodgy contact details and emails, unrealistic salaries, job offers without an interview and being asked for money up front. Spotting the signs of job scammers by gov.uk is licensed under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) [@jobscammers2]
 
 Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track. Like [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio), its quite easy to spot lies once you recognise some of their nosey signals. 🤥
 
@@ -160,7 +160,7 @@ library(tweetrmd)
 include_tweet("https://twitter.com/Mubeeen_/status/1288115932154363905")
 ```
 
-The moral of this Apple story above is, if you don't meet *all* the criteria in a job specification, that shouldn't stop you applying. Most job specifications are over-specified as wishful employers dream up their ideal candidate.^[Using a relationship analogy, describe your ideal romantic partner. PAUSE. How many people are actually likely to have ALL of those attributes?] Many employers will over state their requirements in the hope they get their dream candidate. You might look at the job description and think, I've only got 70% of what they're asking for, so I won't bother applying. The reality is, if you've got 60% of what they are asking for, you should definitely apply. It's unlikely that *anyone* will meet 100% of the job requirements.
+The moral of this Apple story above is, if you don't meet *all* the criteria in a job specification, that shouldn't stop you applying. Most job specifications are over-specified as wishful employers dream up their ideal candidate.^[Using a relationship analogy, describe your ideal romantic partner. PAUSE. How many people are actually likely to have ALL of those attributes?] Many employers will overstate their requirements in the hope they get their dream candidate. You might look at the job description and think, *I've only got 70% of what they're asking for, so I won't bother applying*. The reality is, if you've got 60% of what they are asking for, you should probably apply. It's unlikely that *anyone* will meet 100% of the job requirements.
 
 If you see things on job adverts you don't understand or are not sure about, go and find out about them. There's a good chance it will be similar to something you already know about, or you can self-educate yourself to fill any gaps. But beware of employers over-specifying jobs. 🤣
 
@@ -220,7 +220,7 @@ knitr::include_graphics("images/steve-furber.jpeg")
 
 (ref:captionfurber) The design of a general-purpose processor, in common with most engineering endeavours, requires careful consideration of many trade-offs and compromises. [@furberarm] That's also true for your engineering your future too, what compromises and trade-offs are you happy to make? CC BY-SA portrait of microprocessor designer [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) by Peter Howkins on Wikimedia Commons [w.wiki/544E](https://w.wiki/544E) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
-To work out what compromises you are prepared to make, you may need to revisit the issues in chapter \@ref(knowing). 🤔
+To work out what compromises and trade-offs you are prepared to make, you may need to revisit the issues discussed in chapter \@ref(knowing). 🤔
 
 ### Beware of the time sink {#timesink}
 Finding employers that you are interested in and submitting high quality job applications takes lots of time. Many students under estimate the time needed to job hunt. It can be a very time consuming process for everyone, both employers and candidates alike, see figure \@ref(fig:timesink-fig).
@@ -243,7 +243,7 @@ Even after you have managed to:
 One way to tackle this problem is to schedule some time every week when you work on applications, see chapter \@ref(scheduling). However, there's no getting away from the fact that finding a job can consume a significant amount of your time. So beware of the time sink. ⏰
 
 ### Beware of rejection {#rejection}
-For most people, rejection is a normal part of applying for jobs. Rejection can take a heavy toll on your mental health described in chapter \@ref(nurturing) and it is usually a struggle. Some employers won't even bother to reply to reject you, welcome to the employer black hole described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
+For most people, rejection is a normal part of applying for jobs. Rejection can take a heavy toll on your mental health described in chapter \@ref(nurturing) and it is usually a struggle. Some employers won't even bother to reply to reject you. Welcome to the employer **black hole** described in section \@ref(blackhole) and shown in figure \@ref(fig:blackhole-fig).
 
 ```{r blackhole-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionblackhole)"}
 knitr::include_graphics("images/Black-hole-CV.png")
