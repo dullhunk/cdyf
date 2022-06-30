@@ -307,7 +307,7 @@ knitr::include_graphics("images/standing-on-the-shoulders-of-students.png")
 
 So, if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a high probability you have contributed to this book. Thank you for having the courage to tell me your stories. Thank you for being ambitious, hard working, talented, fearless, creative, inspirational and listening to me (sometimes). It has been my pleasure and privilege to work with you all.
 
-I'd especially like to thank current and former industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish, Eirik Björnerstedt, [Petia Davidova](https://www.youtube.com/channel/UCDmn8CxaXGxZSKq83vhzULw), [Lloyd Henning](https://github.com/eldog), Kristina Radinova, [Teodora Stoleru](https://github.com/teostoleru), [Peter Sutton](https://github.com/dj-foxxy). In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(hacking) on *Hacking your future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
+I'd especially like to thank current and former industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish, Eirik Björnerstedt, [Raluca Cruceru](https://www.cdyf.me/raluca.html), [Petia Davidova](https://www.youtube.com/channel/UCDmn8CxaXGxZSKq83vhzULw), [Lloyd Henning](https://github.com/eldog), [Jason Ozuzu](https://www.cdyf.me/jason.html), [Carmen Práxedes](https://www.cdyf.me/carmen.html), Kristina Radinova, [Teodora Stoleru](https://github.com/teostoleru), [Peter Sutton](https://github.com/dj-foxxy) and [Brian Yim Tam](https://www.cdyf.me/brian.html). In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(hacking) on *Hacking your future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -412,7 +412,7 @@ Thanks to support, financial and otherwise, at various stages from the following
 * [UK Research and Innovation](https://en.wikipedia.org/wiki/UK_Research_and_Innovation) (UKRI)
 * the [Council of Professors and Heads of Computing](https://cphc.ac.uk/) (CPHC)
 * The [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation), [Wikimedia UK](https://wikimedia.org.uk/) and the [Royal Society](https://en.wikipedia.org/wiki/Royal_Society).
-* [Wiltshire County Council](https://en.wikipedia.org/wiki/Wiltshire_County_Council) for my maintenance grant
+* [Wiltshire County Council](https://en.wikipedia.org/wiki/Wiltshire_County_Council) for my undergraduate maintenance grant
 * The [Student Loans Company](https://en.wikipedia.org/wiki/Student_Loans_Company) for financing my undergraduate degree
 
 Money makes the world go round and has enabled me to teach, learn and do research. So thanks funders for opening your purse strings. 🙏
@@ -517,7 +517,7 @@ knitr::include_graphics("images/schools-banner.jpeg")
 
 (ref:captioncodingtheirfuture) Thanks to all the schools in Greater Manchester who've supported our [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html) partnership where undergraduates teach computer science in local secondary schools.
 
-Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. These interviews were very productive failures:
+Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. These interviews were very **productive failures**:
 
 * [Marie Getheridge](https://wessexlearningtrust.co.uk/teammembers/marie-getheridge/) at [Writhlington School](https://en.wikipedia.org/wiki/Writhlington_School), Radstock, Somerset
     - see their amazing Orchid project [wsbeorchids.org](https://wsbeorchids.org/thirty-years-of-the-writhlington-schools-orchid-project-a-teachers-view-by-simon-pugh-jones/) run by [Simon Pugh-Jones](https://www.bristol.ac.uk/graduation/honorary-degrees/honorary-graduates-2019/simon-pugh-jones/)
@@ -748,13 +748,13 @@ knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
 ### Thank you St Laurence {#st-laurence}  
-Thanks to St Laurence comprehensive school ([st-laurence.com](https://st-laurence.com/)), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of decades later: Adam, Alan, Andrea, Andrew, Anna, Boucing Barney, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve & Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with. So:
+Thanks to St Laurence comprehensive school ([st-laurence.com](https://st-laurence.com/)), a community I am proud, lucky, privileged and grateful to have grown up in and still be part of decades later: Adam, Alan, Andrea, Andrew, Anna, Bouncing Barney, Charlotte, Catherine, Clare, Dan, Doug, Debbie, James, Jenny, Jim, Jo, John, Jon, Lou, Marcus, Marjorie, Matthew, Philip, Portia, Richard, Sasha, Scott, Simon, Sophie, Sophia, Stephen, Steve & Wilf. I'm especially grateful for the friendship of former St Laurence school students I've enjoyed music, cycling, football, walking, travelling, holidaying, drinking and camaraderie with, see figure \@ref(fig:bradlads-fig). So:
 
 * *[Vive le Tour](https://en.wikipedia.org/wiki/Vive_le_Tour)*
 * *[vive la différence](https://en.wiktionary.org/wiki/vive_la_diff%C3%A9rence)*
 * *[Vive la Révolution](https://en.wikipedia.org/wiki/Viva_la_revoluci%C3%B3n)*
 
-I'm looking forward to the next revolution of our ongoing adventures, see figure \@ref(fig:bradlads-fig)
+I'm looking forward to the next revolution of our ongoing adventures.
 
 ```{r bradlads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbradlads)"}
 knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
@@ -897,6 +897,8 @@ So now that we've dispensed with the formalities, let's look at why should you b
 
 (ref:mecd) [Engineering Building A](https://www.manchester.ac.uk/discover/maps/interactive-map/?id=540), Lecture Theatre B
 
+
+(ref:podcastlaunch) 20th July 2022 just before Computer Science graduation on the 21st July [graduation.manchester.ac.uk](http://www.graduation.manchester.ac.uk/), see chapter \@ref(hearing).
 
 
 

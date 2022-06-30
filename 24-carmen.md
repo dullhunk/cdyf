@@ -1,0 +1,212 @@
+Duncan: So, Welcome carmen thank you for coming on the show. The purpose of this interview is to catch up with you, find out a little bit more about your journey from arriving here, four years ago through to your journey while you've been here and what comes next? So what should we start off with? Can you tell us a little bit about yourself and where you come from? As much or as little as you want to say?
+
+Carmen: I'm Carmen, I'm originally from Spain, born and raised there and from small southern town [Marbella](https://en.wikipedia.org/wiki/Marbella). So, very different to Manchester.
+
+Duncan: And you went to school in Spain?
+
+Carmen: Yeah, I went to school in Spain. Never moved abroad until I was 18 when I came to University in Manchester.
+
+Duncan: So what made you choose computer science as a subject?
+
+Carmen: So when I was actually applying for degrees, I didn't know what I wanted to do and it was December and obviously applications closed in January and I had to start writing my personal statement, to a point where their head, a schoolmaster called me and it was like coming. Where's your personal statement? You need to start applying. And I don't know what I want to do. I knew I liked ICT and art and maths and then he was like, so have you thought about double degree in math and physics? I'm like, no. Physics it's not for me. So, then he said, oh, what about software, engineering, computer science, and I was like, what is that? So back home, it's not really a thing, it's still the idea that technology is what you do in a basement, antisocial. That's the stereotype. So then I was like, sure, let's just go for it.
+
+Carmen: And then I ended up applying for software engineering and that's how I got here.
+
+Duncan: That's good advice. I think one of the interesting things is is a lot of decisions people make about what to study at university comes from family, teachers and peers etc and sometimes those people good advice, sometimes they don't give good advice at all!
+
+Carmen: I told one of my family members that I was going to study software engineering and they had a full-on go at me, I feel why would I do that? I'm gonna have not a pretty life. I'm gonna be so miserable. I when I came here, realised, that was not gonna be the right thing was gender.
+
+Duncan: we'll talk about this later was it perceived as that's not subject for women? Or was that not not on the table?
+
+Carmen:: I think at that point it was more, it wasn't one of the core traditional paths back home, more like architect, doctors, teaching.
+
+Duncan: Yeah, good. So, can you tell us a bit then about your story. So you arrived here in Manchester and you've been studying. So you actually I suppose fast forward to second year. What happened in second year when you you I think you decided to do a placement from the beginning from the get-go. Was it something? You thought your peers persuaded you? It was a good idea?
+
+Carmen: Definitely the latter. I came into Manchester not knowing what a placement was, but everyone kind of just said, do a placement, do an internship. It's great. So, I kind of got pushed into it changed into that degree. So added that onto my degree, and then started looking for a placement. Second year, was tough time managing that and like, dealing with rejections and all, that is a horny thing to go through. It's very draining very heartbreaking but it's very rewarding at the end
+
+Duncan: time-consuming as well? So how long did it take? How many roughly? How many applications did you do?
+
+Carmen: And I was quite lucky that sense. I think I only did about 14 right? Oh with like maybe four of those being emails that sent out to startups because at the beginning, I wanted to go into more startuppy vibes. But then I decided to go through normal job applications, apply to about 10 and obviously you get the bit but the imposter syndrome. When you get all your friends getting applying to the big companies, I didn't want to work for a big company back then. So they obviously get the job opposite first and you feel like you're not good enough or you're not making it but then the offers starts to come in and then it feels a lot nicer.
+
+Duncan: And I guess did you have many interviews before? The one you got? Did you have many unsuccessful interviews? Because it's not like an interview for university, some universities don't have interviews at all, so that's a whole new experience in a way, isn't it?
+
+Carmen: Yes. Absolutely. I remember the first one I did actually was broke company. I didn't really want to apply for, so that was good. But even then, that went absolutely shambles. I we got a tour of the headquarters as well, and the factory. The point at which I was [mansplained](https://en.wikipedia.org/wiki/Mansplaining) was very big. I walked out thinking, I don't care if I get the offer because I'm not coming here. So it was a big eye-opening time and then after that I was way pickier with the companies I applied for.
+
+
+Duncan: You actually did a placement and internship. Did you which one which way round did you do it?
+
+Carmen: I did first my placement, the placement was at [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company)
+
+Duncan: what were you doing? Brief sort of description of what you were doing for Walt Disney.
+
+Carmen: So we're just an internal applications kind of improving efficiency of finance and HR teams across the globe.
+
+Duncan: And you were in one team for the whole 12 months duration?
+
+Carmen: Yes for nine months
+
+Duncan: And your work I guess you're working with a combination of technical and non-technical people in that role in that year?
+
+Carmen: Yes, it was mainly technical. It was maybe like one or two that were non-technical but that's about it.
+
+Duncan: So on the back of that then you've got did a summer internship after you've done a placement. I guess was getting interviews a little bit easier. Once you have the first thing under your belt
+
+Carmen: getting that first job is definitely the hardest and I feel like doing the summer internship after really helped get the most out of it because having already know how to get to new code base and just get familiar enough to speed as much faster.
+
+Duncan: the summer internship was at McKinsey? And that was? And now these were all remote when they, this was in. What year was this this? When did the pandemic hit 2020? So you'd started your placement.
+
+Carmen: Yes. So physically, no, I did it fully, right? You're right, you started remotely. I did my full placement remote and then I realised. That's not something I ever want to do, again, anyone does. And then when I got the office first summer internship, I got the ones. I boiled it down to was one that was remote and what that was in person and I went for the one in person, right? Because I cannot do another six eight weeks of remote and then McKinsey put me in person and we got to travel with the company and that was the best experience ever.
+
+Duncan: So that was McKinsey. So you were based in London,  with  different clients I guess.
+
+Carmen: So I was put on our US client but to get to the US during COVID you couldn't just get that easily. So we had to do two weeks in Mexico first. So we travelled there. The day before we were meant to leave for the US, Mexico was on the red list. So I had to fly home and then never got to go to the client, but I got two weeks in Mexico. My first in-person job was two weeks in Mexico. I think that was pretty good.
+
+Duncan: I hear that Mexican Spanish is very different from Spanish Spanish.
+
+Carmen: I couldn't understand the menu when I went to order food. I was like, I don't know any of these
+
+Duncan: Someone was telling me the other day, Spanish person telling me that Google Translate when it does translate from English to Spanish, It does English to Latin or Hispanic Spanish rather than European Spanish Spanish. So, Spanish teachers here can always tell when their students are using Google Translate because it comes up with all these weird Latin American sayings and things that you would never say.
+
+Carmen: That makes so much sense actually. Yeah, no. It's you can really tell the difference. Especially there are a lot more formal than we are probably.
+
+Duncan: So you did your summer internship in London and then you came back to Manchester to do your final year?
+
+Carmen: Yes.
+
+Duncan: So you did a project, what was your project?
+
+Carmen: It was AI face ageing. So I could I actually use your picture as well for it and I made you look about 50 years old!
+
+Duncan: Oh no! Anyway, my face is getting older. So you kind of what you developing algorithms for doing that effectively.
+
+Carmen: I used two different models on how to create that image? So that should help like, for example, missing people, that could help the police, it has different applications
+
+Duncan: What was that awful Facebook thing, was it face age or something?
+
+Carmen: [FaceApp](https://en.wikipedia.org/wiki/FaceApp)
+
+Duncan: robbing people's data...
+
+Carmen: Yes. Actually while it was yeah, using pictures on them the Russian app. Yes, I actually include that my report because yeah, that was one thing we went we obviously shouldn't do. So yeah.
+
+Duncan: So, I suppose, one interesting thing is like, how did you find that transition from, so it's all about change, isn't it? You sort of you started as an undergraduate and that's what one change. And then you go to a completely different world of work and that's another change and then you come back to university and it's another change again. So, how did you find that transition back into university?
+
+Carmen: Going back to uni was a lot better than when I started Uni, because I felt like, when I started uni, I was a lost puppy. I didn't have any software engineering background, I didn't know anything about coding. I didn't know what [Linux](https://en.wikipedia.org/wiki/Linux) was. I was completely lost. Starting the job you also still feel a bit of like, what's going on. It's a new company. You're still big loss. Then when I went back to uni, because I already knew what it was like and I felt like during my placement, my confidence actually um, got built up a bit given that I actually managed to put to test my skills and managed to kind of just understand everything that's going on. I felt a bit more confident myself when addressing the courseworks and labs
+
+Duncan: And you were a (Peer Assisted Study Sessions)[PASS](http://www.pass.manchester.ac.uk/) leader?
+
+Carmen: I was PASS leader in second year and past coordinator in third year, right? Okay.
+
+Duncan: So I guess that's kind of that's kind of fun. I think. Yes sociable and especially after the pandemic, having everything online.
+
+Carmen: I definitely things physically definitely took to an extreme. The fact that in third year they say that yours have a bit more free time and just decided to sign up to as many as extra curriculars as possible and take on a part-time job, which was a bit too much but it was fun and kept you entertained.
+
+Duncan: Yeah, good. Okay. So, So what else have we got here? So it's got a questions about challenging things, about your job, what the most challenging things about your work life, would you say in terms of adapting to that and then working?  Because working as a software engineer in a university or learning about software engineering university is quite different from actually when we try and simulate the real world and yeah we can do some simulation but there's an awful lot of simulation that can't be done. So what was what was you say was? Most tricky thing about adapting to the real world?
+
+
+Carmen: I think the main thing for me was that I was used to seeing the things, but in a smaller scale and I didn't see it fully applied to the real world. So when I saw it at work or the little things that we had been taught uni kind of come together, it was it took me like maybe a couple months to just kind of put everything together and be like oh this now makes sense or this was taught this way because of this. So on bringing all that knowledge together was definitely a thing.
+
+Duncan: and pulling pulling together things not just from one module but I guess from several absolutely also seeing hopefully seeing a bigger picture.
+
+Carmen: Yes, the it was that combination of everything that really set in
+
+Duncan: you finished your exams?
+
+Carmen: Yes. Last week two weeks ago, was it first of June?
+
+Duncan: you've had you've been able to enjoy the nice Mediterranean weather we're having!
+
+Carmen: Yes it feels like home.
+
+Duncan: And, and what comes next? So what what your plans for the future after graduation.
+
+Carmen: So I'm still carrying on the part-time job with the startup that I did throughout the year and they've offered me to go back full-time whenever I want basically, but then I also have the return offer from McKinsey, which I would be starting in September. Oh, so currently, I'm, I'm gonna move to London. That's one thing that I know for sure. And then in July, I'm gonna take that as a month of kind of test out what would be like full-time at the startup. Then I'm working for and then once I've done that, decided of, if I'd stay with the startup gift to McKinsey,
+
+Duncan: it's good to I suppose have that option of testing it, you always have that luxury.
+
+Carmen: No, it's actually been very lucky in that sense but I do know that I love travelling and I know with McKinsey it's so client-based. I really enjoy that.
+
+Duncan: Although there's less trouble these days with consultancies in the, you know, previously you'd spend you'd be like a road warrior beyond the road all the time and now, yeah, you still have to do that face-to-face stuff. But here's a lot of stuff via teams and zoom and whatnot.
+
+Carmen: Yes. Um, which is also what I was scared about if that would affect anything. So I was speaking with firm themselves and they were like, there's a lot of people that also don't want to travel as well, So they would kind of allocate the clients. Hopefully, I'd be like, yeah, I want to travel so hopefully, I mean that I'd get to be with those clients
+
+Duncan: And I think while you're young as well. So while you're young, it's good to travel because you don't have any commitments or  have less commitments and you enjoy it. Enjoy that kind of lifestyle while you can because it sometimes becomes harder as you get older. And so, the other thing is, so that was telling us about your story. The other bit is then minority report. So you  are a member of minority group. That's grand. As a woman, what's you experience been in the university. I was going to look at the figures, but I think was something around about 25% of the undergraduate population here (in computer science) are female.
+
+Carmen: yes
+
+Duncan: So it not a disaster, but could be a whole lot better. That probably reflects what you saw in industry as well?
+
+Carmen: I would guess. Yeah, I think slightly less from what I saw
+
+Duncan: Right?
+
+Carmen: So I'd say it's pretty good in Manchester that we have that. It's definitely a thing that every girl knows every other girl in the degree because when you walk in, kind of it's a bit thing and when it's a girl walking in rather than a guy. I didn't notice it much at first. I didn't think I realised because of the lack of knowledge. I had microaggressions, that actually arise.
+
+
+Duncan: Was it like this at school? Sometimes you find that maths is, I think math is, it varies with countries, but I think in the UK, there are roughly equal numbers of male and female students do maths A-level, I think.
+
+
+Carmen: We had, we were three girls in a class of 10 to 15, right?  So, it wasn't that much. And yes, that definitely did have an impact
+
+Duncan: and you've done physics as well, I know physics has a similar (problem).
+
+Carmen: Yeah, it was like three to ten,
+
+
+Duncan: right. Okay. So what could the university and employers do, to make campuses and workplaces more welcoming to to women as a profession and as, you know, as students,
+
+
+Carmen: I think for me, it's raising awareness on females and non-females. A lot of people identify people who don't identify female because for those who do identify female, we might receive these comments and we just take them in. We're not good enough or take them personally, whereas actually it has nothing to do with us or like if someone's underestimating my ability it doesn't mean it's because I have to prove them wrong. I have to do this, which is something that I constantly feel like, sometimes it's like, oh, I need to prove them just because I'm a female. But then also with people who don't identify as female to be understand. You can't mansplain real numbers to someone who's that, you know which has happened. And it's like, I'm 22 at University. I think I know what real numbers are. Yeah. Honest.
+
+
+Duncan: But part of the problem is the people mansplaining don't realise. So, that is not (always) malicious. It's just ignorance in a way, I suppose conscious bias or whatever you want to call it.
+
+Carmen: Yeah. So we had actually we organised a few women and computer science events in Kilburn with another few students. And it was great because they actually made us more aware of other situations that maybe not, we can now reflect enough. Actually, that was not okay that if someone did that to me, and we've had conversation with people who actually try to mansplain to us like, oh yeah, mansplaining is not good and they'd be like, oh yeah, like I don't
+
+Duncan: They're mansplaning mansplaining to you!
+
+Carmen: now for they'd be like, oh yeah, I don't understand why anyone would mansplain. And we just be thinking like you've tried to mansplain to us. So it definitely shows how more awareness needs to be raised in that regard.
+
+Duncan: The other thing is like hat, making the subject (Computer Science) more appealing to women. There's lots of ideas about how to make it more appealing to women to apply to think about doing at university. Is there anything in the way that the subject is sold? Sold is not right word, in your case it was your head teacher. Who said, this is the thing. But some people look at it and think that's not for me because computer science is just about making lots of money, or it's just about building things that make other people lots of money. So one of the ideas out there is that you make the subject more appealing by showing examples of where it's beneficial to society, rather than just, you know, commercially important. Say for example, I don't know if that would have made a difference?
+
+
+Carmen: I think for me just knowing what it was beforehand, I feel like the lack of exposure was a main thing. I guess this is still that stereotype that yeah, it's just maybe also gaming and not very inviting. So getting rid of that stereotype would definitely be more beneficial for  me if I back in the day and
+
+
+Duncan: from an employer point of view, I guess both of your employers would have been welcoming to women, but I guess you have you kind of different problems in the workplace. But what do you think employers could do to make this as profession more appealing or more welcoming to women.
+
+
+Carmen: definitely as well.I guess it just boils back to the raising awareness. Again, I've had work meetings where a developer, I was the only female in that work meeting and male developer asked for everyone's opinion individually on something. Excluding me. So it's just kind of probably raising that way and stuff. Like why what's the need to exclude someone or what's the, why do you need to make comments like that?
+
+Duncan: I feel like that's already quite inviting because it's quite difficult for you to call that?
+
+Carmen: Exactly. Yeah. I guess it's your manager's job. I suppose or whoever's chairing the meeting to say let everyone speak or you haven't asked Carmen for example what exactly and then it rated those uncomfortable situation it's like how do you deal with that? Especially in the  workplace, where, you know, you have to be a bit more formal and ethical.
+
+## One tune... {#cotopof}
+
+Duncan: To finish up then I've got we've got a few things here. So, and this is one tune, one podcast, One film. Yes. So, we have a playlist that's associated with this podcast, Unfortunately, it's full of lots of dad music because its put together by me. I've been asking students. So, is there a tune that you can use to rejuvenate, or freshen up our playlist? So, it might be something that's important to to you. It might be something, it help a piece of music that helps you relax or might even help you work, or take your mind off work or remind your friends family, and that kind of thing. So, any any one, tune that you would recommend?
+
+Carmen: There's one that I've kind of got into lately, which is [Loud by Sofia Carson](https://www.youtube.com/watch?v=yWbxPhTbCZI), which is all about. How how women are starting to give a bit more voice and things? And that's making some people not feel uncomfortable. How do you spell? C.A.R.S.O.N. Okay. So that and it's like why should you feel uncomfortable? Now that I actually speak up so I thought found that quite motivational in times where it gets a bit tough.
+
+Duncan: Yeah. Okay good. The one is so one podcast, I mean, you may or may not listen to podcasts?
+
+Carmen: There's only to a really listen to one of them's, one of my friends, it's called me time. So I used to listen to that on the way to work throughout  and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
+
+Duncan: And the last one is one film. Don't you go much and it could be something contemporary. Could be something as just out now or that you seem in the last couple of weeks or it could be something older.
+
+Carmen: You the last one I've seen is, she's the man right? Because I'm friend mentioned earlier they and it's quite ahead of its time. It's like from 2000 and it's about how the females could also play football, right? And they didn't have to not be allowed on the team because they're a female.
+
+## Time travel {#carmen-time}
+
+Duncan: Okay good, thank you. So, any closing comments? Advice to your former self. So if you could, if you could speak to yourself in first year or any first first, perhaps second year student, whose at the beginning of their studies. Now what would you? I know you've been doing this in your roles are PASS leader. But what one piece of advice would you give them about getting the most out of being at university?
+
+
+Carmen: Definitely getting involved? Because I feel like I took the most advantage of that I could and that was one thing. I know it's hard to not compare yourself to others. I know we constantly do it. And you're doing the labs and you do you may take, you see people who have been coding since they are tiny and they take two minutes to the labs. And we take, I don't have any experience, so I took a bit way longer than that. So, just understand that the fact that they take less time, doesn't mean that they will by the end of the degree. It doesn't mean that they'll land a better job because they've been coding for longer because it's also about the learning stuff.
+
+Duncan: and sort of focusing on your also personal best, right? Yes. You know what the Olympic gold medal standard? Yes. It's just saying, well, am I doing better than I did last time? Absolutely. And it's quite easy to fall in to that trap.  I think especially at university where you're surrounded by other people who bright, motivated and hardworking. And if you compare themselves to those, it can lead to mental health problems (see chapter \@ref(nurturing)). I think, should we say? I'm not. Absolutely. It's very demotivating.
+
+Carmen: So doing that and also balancing it out with the extra-curriculars it gives you also that extra, gives you more. Well, rounded for when you finish.
+
+Duncan:  Well, thank you for for joining us. Thank you and we'll see you graduation.
+
+Carmen: Yes, graduation. Yes.
