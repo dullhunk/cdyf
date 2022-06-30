@@ -35,7 +35,7 @@ Carmen: Yes. Absolutely. I remember the first one I did actually was broke compa
 
 Duncan: You actually did a placement and internship. Did you which one which way round did you do it?
 
-Carmen: I did first my placement, the placement was at [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company)
+Carmen: I did first my placement, the placement was at [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company) (see [My Industrial Placement at Disney – Carmen Faura](https://www.mub.eps.manchester.ac.uk/compsci/2022/01/10/my-industrial-placement-at-disney-carmen-faura/))
 
 Duncan: what were you doing? Brief sort of description of what you were doing for Walt Disney.
 
@@ -190,7 +190,7 @@ Carmen: There's one that I've kind of got into lately, which is [Loud by Sofia C
 
 Duncan: Yeah. Okay good. The one is so one podcast, I mean, you may or may not listen to podcasts?
 
-Carmen: There's only to a really listen to one of them's, one of my friends, it's called me time. So I used to listen to that on the way to work throughout  and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
+Carmen: There's only one to listen to, one of them is my friends, it's called **ME time** ([sptfy.com/ME-time](https://sptfy.com/ME-time) with Maya and Emma). So I used to listen to that on the way to work throughout  and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
 
 Duncan: And the last one is one film. Don't you go much and it could be something contemporary. Could be something as just out now or that you seem in the last couple of weeks or it could be something older.
 
@@ -207,6 +207,9 @@ Duncan: and sort of focusing on your also personal best, right? Yes. You know wh
 
 Carmen: So doing that and also balancing it out with the extra-curriculars it gives you also that extra, gives you more. Well, rounded for when you finish.
 
-Duncan:  Well, thank you for for joining us. Thank you and we'll see you graduation.
+Duncan:  Well, thank you for for joining us Carmen. Thank you and we'll see you at graduation.
 
 Carmen: Yes, graduation. Yes.
+
+
+(See also [Running a Hackathon in lockdown – with Carmen Faura Praxedes](https://www.mub.eps.manchester.ac.uk/compsci/2020/06/03/running-a-hackathon-in-lockdown-with-carmen-faura-praxedes/))

@@ -123,7 +123,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into three parts. The first part (Chapters \@ref(rebooting) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(researching)) is on building and testing your future shown in the map in figure \@ref(fig:map-fig). The final part is a help section for supporting your future (chapters \@ref(ruling) to \@ref(reading)). Let's look in a bit more detail at the content of each of the three parts of this guidebook:
+This guidebook is split into four parts. The first part (Chapters \@ref(rebooting) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(researching)) is on building and testing your future shown in the map in figure \@ref(fig:map-fig). The third part is a help section for supporting your future (chapters \@ref(ruling) to \@ref(scheduling)) while the final part from chapters \@ref(raluca) to \@ref(reading) meet some students who are coding their future. Let's look in a bit more detail at the content of each of the four parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map V3.png")
@@ -184,12 +184,14 @@ knitr::include_graphics("images/clifton.png")
 * Chapter \@ref(hearing): *Hearing your future* invites you to listen to students stories of their transition from education to employment
 * Chapter \@ref(actioning): *Actioning your future* gets you to think about your actions by emphasising verbs on your job applications
 * Chapter \@ref(scheduling): *Scheduling your future* is the live synchronous sessions for this course, if you're not participating in these, schedule a time every day or week for personal development
-* Chapter \@ref(reading): *Reading your future* lists everything cited in this guidebook.
+
 <!-- creating your future-->
 <!--
 * algorithms?
 * A soundtrack, also available as a Spotify and YouTube playlist
 -->
+
+The final part, *Coding your Future*, from chapter \@ref(raluca) meets some students who are doing just that, with a finishing chapter \@ref(reading): *Reading your future* which lists everything cited in this guidebook.
 
 ## Your future themes {#themes}
 This guidebook aims to help you build a bridge from where you are now to where you'd like to be in the future. Each chapter of the book contains the following recurring themes:
@@ -230,7 +232,7 @@ If you'd like to read this guidebook as a mobi / kindle version, [let me know](h
 In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book the old fashioned way, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html).
 
 ## Contributing to your future {#contributing}
-If you'd like to contribute this guidebook, I welcome constructive feedback from [loyal opposition](https://en.wikipedia.org/wiki/Loyal_opposition) and [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged section \@ref(thanks) unless you ask for your contributions to remain anonymous.
+If you'd like to contribute this guidebook, I welcome constructive feedback from [loyal opposition](https://en.wikipedia.org/wiki/Loyal_opposition) and [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged in section \@ref(thanks) unless you ask for your contributions to remain anonymous.
 
 ```{r critical-friend-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncriticalfriend)"}
 knitr::include_graphics("images/critical-friend.jpeg")
@@ -898,7 +900,7 @@ So now that we've dispensed with the formalities, let's look at why should you b
 (ref:mecd) [Engineering Building A](https://www.manchester.ac.uk/discover/maps/interactive-map/?id=540), Lecture Theatre B
 
 
-(ref:podcastlaunch) 20th July 2022 just before Computer Science graduation on the 21st July [graduation.manchester.ac.uk](http://www.graduation.manchester.ac.uk/), see chapter \@ref(hearing).
+(ref:podcastlaunch) 20th July just before Computer Science graduation on the 21st July 2022  [graduation.manchester.ac.uk](http://www.graduation.manchester.ac.uk/), see chapter \@ref(hearing).
 
 
 
