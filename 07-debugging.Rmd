@@ -17,11 +17,11 @@ knitr::include_graphics("images/Features not bugs.png")
 By the end of this chapter you will be able to
 
 1. Structure and style the content of your CV and résumé appropriately
-1. Describe your story^[actually a collection of short stories] of your relevant experience, projects and education etc
+1. Describe your story^[actually a collection of short stories] evidenced by your `experience`, `projects` and `education` etc
 1. Identify and fix bugs in CV’s by:
     + Constructively criticising other people's CVs
     + Asking for, listening to, and acting on constructive criticism of your own CV
-1. Quantify and provide evidence for any claims you make you on your CV
+1. Quantify and provide convincing evidence for any claims you make you on your CV
 
 
 
@@ -183,7 +183,7 @@ knitr::include_graphics("images/alan-turing-header.png")
 
 (ref:captioncvheader) Keep the header of your CV simple. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[what you look like should *not* be a factor in an employers decision to interview you] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
 
 1. 🎓 `Education`: the formal stuff, see section \@ref(mycved)
 1. 💰 `Experience`: paid work, see section \@ref(mycvex)
@@ -307,11 +307,12 @@ knitr::include_graphics("images/Anyone for quidditch.png")
 ```
 (ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say), but it is unlikely. So if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills or knowledge you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-The fact that you enjoy `swimming`, `reading`, `football`, `cooking` and `hiking` is a vague and boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
+The fact that you enjoy `swimming`, `reading`, `football`, `cooking` and `hiking` is a vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
 
 * coached a swimming team
 * trained as a mountain leader
-* organised, hosted and participated in a book club or competitive sports matches (for example)
+* organised, hosted and participated in a book club
+* regularly participated in or organised competitive sports matches (for example)
 
 In this case, the *way* you have engaged with your hobbies demonstrates your communication and leadership skills. So in this context, your hobbies *are* worth talking about if you have any space left. However, if they are just hobbies that enable you to amuse yourself, you should probably leave them out as they are unlikely to be of interest to an employer. Sure, they add colour to your CV, but you've probably got more interesting and important things to say about who you are.
 
@@ -319,7 +320,7 @@ Of course, you *might* get lucky and your interviewer could be intrigued (or eve
 
 * pick the unusual hobbies that make you unique
 * describe the interests that add some colour and personality to your CV
-* be specific, e.g. `reading japanese novels from 20th century` rather than just `reading`
+* be specific, e.g. `reading japanese novels from 20th century` might sound more interesting than just `reading`
 * highlight any `actions` you've taken, see chapter \@ref(actioning)
 
 ... or just leave them out altogether. That option is up to you.❓
@@ -627,7 +628,7 @@ Here is a quick check-list for debugging your CV before you send it off to an em
 1. ✅ Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
 1. ✅ Have you made it clear what you have actually done using **prominent** `verbs`? See chapter \@ref(actioning)
 1. ✅ Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(mycved)
-1. ✅ Have you quantified and provided evidence of claims you make where you can? See section \@ref(mycvst)
+1. ✅ Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(mycvst)
 1. ✅ Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. ✅ Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
 1. ✅ Have you clearly distinguished between paid, unpaid and voluntary `experience`? Have you done the same for your `projects`, see section \@ref(mycvpj)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?

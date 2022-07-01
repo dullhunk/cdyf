@@ -151,6 +151,7 @@ Welcome week, starting 20th September:
 * *or* COMP2TUT: Meet your tutor (if you didn't meet them last week) see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
 
 
+
 ##  Cameras on or off? {#cameras}
 We would normally expect participants in small meetings (not large ones like lectures) to turn their cameras on but we understand that there are good reasons why people may not be willing/able to and won’t explicitly ask you to.
 

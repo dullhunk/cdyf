@@ -123,7 +123,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into four parts. The first part (Chapters \@ref(rebooting) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(researching)) is on building and testing your future shown in the map in figure \@ref(fig:map-fig). The third part is a help section for supporting your future (chapters \@ref(ruling) to \@ref(scheduling)) while the final part from chapters \@ref(raluca) to \@ref(reading) meet some students who are coding their future. Let's look in a bit more detail at the content of each of the four parts of this guidebook:
+This guidebook is split into four parts. The first part (Chapters \@ref(rebooting) to \@ref(computing)) is on design while the second  part (chapters \@ref(debugging) to \@ref(researching)) is on building and testing your future shown in the map in figure \@ref(fig:map-fig). The third part is a help section for supporting your future (chapters \@ref(ruling) to \@ref(scheduling)) while in the final part from chapters \@ref(raluca) to \@ref(reading) we meet some students who are coding their future. Let's look in a bit more detail at the content of each of the four parts of this guidebook:
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map V3.png")
