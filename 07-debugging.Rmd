@@ -180,7 +180,7 @@ The first thing in your CV is the header, a simple section giving your name, ema
 knitr::include_graphics("images/alan-turing-header.png")
 ```
 
-(ref:captioncvheader) Keep the header of your CV simple. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
+(ref:captioncvheader) Keep the header of your CV simple like this example. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
 
@@ -490,7 +490,8 @@ Besides LinkedIn you could include public profiles from [github.com](https://doc
 LinkedIn is much more than a tool for publishing your CV or résumé because it also allows you to
 
 * search and apply for jobs
-* connect with professionals (social media for jobs)
+* create a digital portfolio that is publicly available^[you might want to be careful about what information you put out there!]
+* connect with professionals, think social media for jobs
 
 Chapter \@ref(finding) looks at job searching in more detail but for now just note the similarities and differences between LinkedIn, CVs and résumés outlined in table \@ref(tab:linkedintable). Some of these differences also apply to other places online where you might augment your CV with extra information such as github, devpost and others mentioned in section \@ref(links).
 
@@ -601,10 +602,10 @@ show me the money!-->
 ```
 
 * How long is your CV? How long should it be?
-* How long should your personal statement be your CV, like [Mike Rokernel](https://www.cdyf.me/Mike_Rokernel.pdf) has for example?
 * One column or two column layout?
+* How long should your personal statement be your CV, like [Mike Rokernel](https://www.cdyf.me/Mike_Rokernel.pdf) has for example?
 * Should you put education or experience first? Which is most important?
-* How many of my [hobbies and personal interests should I list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
+* How many of my [hobbies and personal interests should you list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
 * How can you beat the black hole mentioned in section \@ref(blackhole)? See [Your Résumé vs. Oblivion](https://www.wsj.com/articles/SB10001424052970204624204577178941034941330) [@oblivion]
 * How many employers actually read cover letters?
 
