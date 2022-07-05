@@ -147,6 +147,8 @@ You do you know computer sciences are subject. That is for everyone. And it does
 
 So, the road, the proportioning computer science is pretty much reflects the flex. Yeah, university. Exactly, exactly. This aren't many black people in. I mean, the thing that really a thing that hit me was when I mean, when you were in Morgan Stanley and you posted something, I think it was on LinkedIn or somewhere with your, your picture in, in Times Square, and, you know, visited investment banks.
 
+https://www.linkedin.com/posts/jason-ozuzu-a87049173_mymssummer-morganstanley-msinterns2020-activity-6690233743011139584-Yq_C
+
 And that was when it kind of hit me. I hadn't realised, how, how white it was. Yeah, I saw your face and thought, oh my god, that's Jason. Oh, recognise him. But also how white that world is. Yeah, privilege world. It's a very little money but it's also very very white.
 
 Exactly, exactly. And I think, I think that could hold some people from, like my kind of background back, you know, people might grow up in like pretty, you know, black areas. A lot of people, their schools, all kind of look like them. And then they kind of shunted into the professional environment.
