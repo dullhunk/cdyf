@@ -56,7 +56,6 @@ You can of course *augment* your CV with various public digital profiles such as
 
 *Wherever* you're putting information about yourself for potential employers, on a CV, Résumé, LinkedIn profile the same principles apply. See the checklist in section \@ref(checklist) and for specific advice on LinkedIn see:
 
-* [university.linkedin.com](https://university.linkedin.com/)
 * [linkedin.com/learning/learning-linkedin-for-students](https://linkedin.com/learning/learning-linkedin-for-students)
 
 ## It's not bug, it's a feature! {#trope}
@@ -180,7 +179,7 @@ The first thing in your CV is the header, a simple section giving your name, ema
 knitr::include_graphics("images/alan-turing-header.png")
 ```
 
-(ref:captioncvheader) Keep the header of your CV simple like this example. Just your name, email, phone number and any relevant links are all you really need. Any additional information risks wasting valuable space and distracting your reader.
+(ref:captioncvheader) Keep the header of your CV simple like this example. Just your name, email, phone number and any relevant links (such as [enwp.org/Alan_Turing](https://enwp.org/Alan_Turing) in this example) are all you really need. Any additional information risks wasting valuable space and distracting your reader. Less is more.
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant and you don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are irrelevant at this point. After your header I suggest you have about five sections that cover some or all of the following:
 
@@ -360,7 +359,7 @@ Making your CV look good can take ages, but a well presented CV will stand out. 
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
 ```
-(ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are interviewed, so spend time getting it right. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are invited to interview. Any time you spend getting it right is a good investment. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`, especially if its being read by a human and not a robot. 🤖
 
