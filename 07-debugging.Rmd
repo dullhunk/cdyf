@@ -1,4 +1,4 @@
-# (PART) BUILDING & TESTING {-}
+# (PART) TESTING & BUILDING {-}
 
 # Debugging your future {#debugging}
 
@@ -25,7 +25,7 @@ By the end of this chapter you will be able to
 
 
 ## Beware of the black hole {#blackhole}  
-Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). Gayle is an experienced software engineer who has worked at some of the [biggest technology employers in the world](https://en.wikipedia.org/wiki/Big_Tech): Apple, Microsoft and Google. She has also authored a cracking series of books on technology careers, particularly *Cracking the Coding Interview* [@cracking] which we'll discusses in chapter \@ref(speaking). Gayle refers to the employer “black hole” described in figure \@ref(fig:gayle-fig).
+Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). Gayle is an experienced software engineer who has worked at some of the [biggest technology employers in the world](https://en.wikipedia.org/wiki/Big_Tech): Apple, Microsoft and Google. She has also authored a cracking series of books on technology careers, particularly *[Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)* [@cracking] which we'll discusses in chapter \@ref(speaking). Gayle refers to the employer “black hole” described in figure \@ref(fig:gayle-fig).
 
 ```{r gayle-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongayle)"}
 knitr::include_graphics("images/gayle-black-hole.jpeg")
@@ -60,7 +60,9 @@ You can of course *augment* your CV with various public digital profiles such as
 
 ## It's not bug, it's a feature! {#trope}
 
-It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig). It's not a *bug*, it's a *feature*...
+It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig).
+
+>  “It's not a *bug*, it's a *feature*...” —A. Hacker
 
 ```{r notabug-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionnotabug)"}
 knitr::include_graphics("images/notabug.jpeg")
@@ -258,7 +260,7 @@ By themselves, those project names are pretty opaque. They are OK for giving the
 ```{r cvfodder-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfodder)"}
 knitr::include_graphics("images/CV Fodder.png")
 ```
-(ref:captionfodder) Have ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great [CV fodder (content)](https://en.wikipedia.org/wiki/Fodder) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfodder) Have ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great stories (aka CV [fodder](https://en.wikipedia.org/wiki/Fodder)) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
