@@ -24,7 +24,7 @@ A good place to start if you're looking for a masters or PhD are:
 * [findaphd.com](https://www.findaphd.com/) for postgraduate research, a large database of PhD opportunities
 * [jobs.ac.uk](https://www.jobs.ac.uk/) also lists PhD opportunities, not just in the UK, see [jobs.ac.uk/phd](https://www.jobs.ac.uk/phd)
 
-## University or Real World? {#realworld}
+## University or the Real World? {#realworld}
 When you graduate, you might think you need to choose between University or the “[real world](https://en.wikipedia.org/wiki/Real_life)”, see figure \@ref(fig:realworld-fig). That's a popular misconception and a false dichotomy. In computing it is common for people to cross back and forth several times between industry (the so-called real world) and academia (the [ivory towers](https://en.wikipedia.org/wiki/Ivory_tower)).
 
 ```{r realworld-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrealworld)"}
@@ -43,8 +43,8 @@ So will you choose University **OR** real life in the longer term? With all the 
 <!--PhD grind
 http://pgbovine.net/PhD-memoir.htm-->
 
-## Ask beyond your Professors {#prof}
-If you're thinking about doing a PhD and going into research, it's obviously a good idea to talk to Professors about what's involved. Don't just ask Professors though, talk to PhD students, [postdocs](https://en.wikipedia.org/wiki/Postdoctoral_researcher) and especially people who did a PhD but didn't go into academia. Most people with a PhD don't go on into academia as a career. [@postdochell] This means that asking a Professor if you should do a PhD is a bit like asking a Hollywood film star if you should become an actor. The film star can only give you part of the story that is likely to suffer from [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). [@therock]
+## Ask beyond academia {#prof}
+If you're thinking about doing a PhD and going into research, it's obviously a good idea to talk to Professors and academics about what is involved. Don't just ask Professors though, talk to PhD students, [postdocs](https://en.wikipedia.org/wiki/Postdoctoral_researcher) and especially people who did a PhD but didn't go into academia. Most people with a PhD don't go on into academia as a career. [@postdochell] This means that asking a Professor if you should do a PhD is a bit like asking a Hollywood film star if you should become an actor. The film star can only give you part of the story that is likely to suffer from [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). [@therock]
 
 ```{r eval=knitr::is_html_output(excludes = "epub"), therock-fig,echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)

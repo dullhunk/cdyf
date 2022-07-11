@@ -46,16 +46,16 @@ knitr::include_graphics("images/alicequotation.jpeg")
 Pictures tell stories, pictures explain. Pictures help you understand. Pictures help you imagine. So this book uses pictures (and conversations) to help you visualise your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
 
 ## Your future aims {#vaccine}
-This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients:
+This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients, `C`, `D`, `Y`, `F` and `.me`:
 
-1. **`CODE`**: Instructions, algorithms, recipes and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
-1. **`DATA`**: Facts, statistics, graphs and pictures collected together for your analysis
-1. **`YOU`**: Activities and *coding challenges* for you to do in addition to just reading
-1. **`FUTURES`**: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about *your* future. [@thinkaboutthefuture; @wroteforluck]
-1. **`ME`**: Hello, my name is Duncan. I'm your tour guide here. If you're feeling a bit lost, follow me and I'll help you code your future.
+1. **`C is for CODE`**: Instructions, algorithms, recipes, methods and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
+1. **`D is for DATA`**: Facts, statistics, graphs and pictures collected together for your analysis
+1. **`Y is for YOU`**: This book is all about you, with activities and other *coding challenges* for you to do in addition to just reading
+1. **`F is for FUTURES`**: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about *your* future. [@thinkaboutthefuture; @wroteforluck]
+1. **`.me is for ME`**: Hello, my name is Duncan. I'm your tour guide here. If you're feeling a bit lost, follow me and I'll help you code your future.
 
 
-```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "69%", fig.cap = "(ref:captionhellomyname)"}
+```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "79%", fig.cap = "(ref:captionhellomyname)"}
 knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 ```
 
@@ -529,8 +529,8 @@ Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](ht
 * [Redland Green School](https://en.wikipedia.org/wiki/Redland_Green_School), Redland, Bristol
 * [The John of Gaunt School](https://en.wikipedia.org/wiki/The_John_of_Gaunt_School), Trowbridge, Wiltshire
 * [Rachael Warwick](https://twitter.com/rachaelwarwick7) at [Didcot Girls' School](https://en.wikipedia.org/wiki/Didcot_Girls%27_School), Didcot, Oxfordshire
-* [Vicky Tuck](http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/newsid_8741000/8741279.stm) at [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Cheltenham, Gloucestershire.
-    - This was the first time I'd ever set foot in a [private school](https://en.wikipedia.org/wiki/Independent_school_(United_Kingdom)), managing to sneak through [Checkpoint Charlie](https://en.wikipedia.org/wiki/Checkpoint_Charlie) un-challenged to cross Michael Gove's [Berlin Wall](https://en.wikipedia.org/wiki/Berlin_Wall) of education. It was an enlightening experience! [@berlinwall; @cheltenham]
+* [Vicky Tuck](http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/newsid_8741000/8741279.stm) at [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Cheltenham, Gloucestershire. [@cheltenham; @tuck]
+    - This was the first time I'd ever set foot in a [private school](https://en.wikipedia.org/wiki/Independent_school_(United_Kingdom)), managing to cross Michael Gove's [Berlin Wall](https://en.wikipedia.org/wiki/Berlin_Wall) of education by sneaking through [Checkpoint Charlie](https://en.wikipedia.org/wiki/Checkpoint_Charlie) un-challenged. It was an enlightening experience! [@berlinwall]
 * [Blackburn College](https://en.wikipedia.org/wiki/Blackburn_College,_Lancashire), Lancashire
     -  “I read the news today, oh boy! Four thousand holes in Blackburn, Lancashire” [@adayinthelife]
 
@@ -901,7 +901,7 @@ So now that we've dispensed with the formalities, let's look at why should you b
 
 (ref:podcastlaunch) 20th July just before Computer Science graduation on the 21st July 2022  [graduation.manchester.ac.uk](http://www.graduation.manchester.ac.uk/), see chapter \@ref(hearing).
 
-(ref:transcript-disclaimer) Please note these transcripts are not exact or precise, please listen to the original audio. They have been made using speech to text software and later corrected by hand. They are not perfect (verbatim) transcriptions, some [speech disfluency](https://en.wikipedia.org/wiki/Speech_disfluency) has been removed in places and links have been added to add extra context. Extra context is given in brackets.
+(ref:transcript-disclaimer) Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some [speech disfluency](https://en.wikipedia.org/wiki/Speech_disfluency) has been removed and links, cross references and pictures have been added to add extra context. To give clarification, non-quoted words are given in brackets like this: (some text added afterwards).
 
 
 
