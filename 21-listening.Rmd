@@ -47,28 +47,54 @@ The episodes below have been recorded and are currently in production, podcasts 
 
 ## Episode 5: Sneha Kandane {#ep5}
 
-Interview with Sneha Kandane, see transcript and show notes in chapter \@ref(sneha)
+Interview with Sneha Kandane, see figure \@ref(fig:sneha2-fig) and the transcript and show notes in chapter \@ref(sneha).
+
+```{r sneha2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionsneha)"}
+knitr::include_graphics(rep("images/sneha.jpeg", 3))
+```
 
 ## Episode 4: Carmen Faura Práxedes {#ep4}
 
-Interview with Carmen Faura Práxedes, see transcript and show notes in chapter \@ref(carmen)
+Interview with Carmen Faura Práxedes, see figure \@ref(fig:carmen2-fig) and the transcript and show notes in chapter \@ref(carmen)
+
+```{r carmen2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captioncarmen)"}
+knitr::include_graphics(rep("images/carmen.jpeg", 3))
+```
 
 ## Episode 3: Brian Yim Tam {#ep3}
 
-Interview with Brian Yim Tam, see transcript and show notes in chapter \@ref(brian)
+Interview with Brian Yim Tam, see figure \@ref(fig:brian2-fig) and the transcript and show notes in chapter \@ref(brian)
+
+```{r brian2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionbrian)"}
+knitr::include_graphics(rep("images/brian.jpeg", 3))
+```
 
 ## Episode 2: Jason Ozuzu {#ep2}
 
-Interview with Jason Ozuzu, see transcript in chapter \@ref(jason).
+Interview with Jason Ozuzu, see figure \@ref(fig:jason2-fig) and the transcript in chapter \@ref(jason).
+
+```{r jason2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionjason)"}
+knitr::include_graphics(rep("images/jason.jpeg", 3))
+```
 
 ## Episode 1: Raluca Cruceru {#ep1}
 
-Interview with Raluca Cruceru, see transcript and show notes in chapter \@ref(raluca)
+Interview with Raluca Cruceru, see figure \@ref(fig:raluca2-fig) and the transcript and show notes in chapter \@ref(raluca)
+
+```{r raluca2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionraluca)"}
+knitr::include_graphics(rep("images/raluca.jpeg", 3))
+```
 
 ## Episode x: it could be you! {#you}
-If you'd like to be interviewed for the show, get in touch. Besides interviewing current graduates, I'm interested in speaking to former graduates, especially those that did placements or internships as undergraduate or postgraduate students.
+If you'd like to be interviewed for the show, get in touch, see figure \@ref(fig:yfnu-fig). You're future needs you! Besides interviewing current graduates, I'm interested in speaking to former graduates, especially those that did placements or internships as undergraduate or postgraduate students.
 
-If you're preparing to come on the show, here's some questions we typically cover:
+```{r yfnu-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionyfnu)"}
+knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
+```
+
+(ref:captionyfnu) Your ~~country~~ future needs you! If you're a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements during their undergraduate degree in Computer Science, not just those from the University of Manchester. Picture adapted from an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by A. Erhardt on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
+
+If you're preparing to come on the show, please have a think about the following questions:
 
 ### What's your story, coding glory? {#wyscg}
 * Tell us a bit about you and where you come from
@@ -77,8 +103,8 @@ If you're preparing to come on the show, here's some questions we typically cove
 * Tell us about your role in the organisation
 * How did you find the job and what other jobs did they look for?
 * What were the main things you learned on placement?
-* What was the most enjoyable or rewarding part of working for your employer
-* What was the hardest part of finding employment and how did you overcome it
+* What was the most enjoyable or rewarding part of working for your employer?
+* What was the main obstacles you faced finding employment and how did you overcome them?
 * What did you do for your final year project?
 * What comes next?
 
