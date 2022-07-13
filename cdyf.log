@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.30)  12 JUL 2022 07:22
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.30)  13 JUL 2022 07:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -774,13 +774,11 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 [3]
 Underfull \vbox (badness 6758) has occurred while \output is active []
 
-[4] [5] [6])
+[4] [5] [6] [7])
 \tf@toc=\write4
 \openout4 = `cdyf.toc'.
 
-[7] [8
-
-]
+[8]
 File: images/Coding your future - Title.png Graphic file (type bmp)
 <images/Coding your future - Title.png>
 Missing character: There is no 👨 (U+1F468) in font [lmroman10-regular]:mapping=tex-text;!
@@ -801,7 +799,9 @@ Missing character: There is no 👩 (U+1F469) in font [lmroman10-regular]:mappin
 Missing character: There is no 🏿 (U+1F3FF) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ‍ (U+200D) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 💻 (U+1F4BB) in font [lmroman10-regular]:mapping=tex-text;!
-[9]
+[9
+
+]
 File: images/alicequotation.jpeg Graphic file (type bmp)
 <images/alicequotation.jpeg>
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
@@ -2193,7 +2193,7 @@ Chapter 21.
 File: images/brian.jpeg Graphic file (type bmp)
 <images/brian.jpeg>
 
-Underfull \hbox (badness 1817) in paragraph at lines 8525--8525
+Underfull \hbox (badness 1817) in paragraph at lines 8530--8530
 []\TU/lmr/m/n/10 Figure 21.1: []Brian Yim Tam. Picture reused with permission from
  []
 
@@ -2208,7 +2208,7 @@ Chapter 22.
 File: images/jason.jpeg Graphic file (type bmp)
 <images/jason.jpeg>
 
-Underfull \hbox (badness 4699) in paragraph at lines 8550--8550
+Underfull \hbox (badness 4699) in paragraph at lines 8555--8555
 []\TU/lmr/m/n/10 Figure 22.1: []Jason Ozuzu. Picture reused with permission from
  []
 
@@ -2223,7 +2223,7 @@ Chapter 23.
 File: images/carmen.jpeg Graphic file (type bmp)
 <images/carmen.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 8575--8575
+Underfull \hbox (badness 10000) in paragraph at lines 8580--8580
 []\TU/lmr/m/n/10 Figure 23.1: []Carmen Faura Práxedes. Picture reused from
  []
 
@@ -2235,31 +2235,41 @@ Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=
 
 ] [310]
 Chapter 24.
+File: images/sneha.jpeg Graphic file (type bmp)
+<images/sneha.jpeg>
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+[311
+
+] [312]
+Chapter 25.
 File: images/Libraries_Give_Us_Power.jpeg Graphic file (type bmp)
 <images/Libraries_Give_Us_Power.jpeg>
 File: images/bill-gates.jpeg Graphic file (type bmp)
 <images/bill-gates.jpeg>
-(./cdyf.bbl [311
+(./cdyf.bbl [313
 
-] [312] [313] [314
+] [314] [315] [316
 
-] [315] [316] [317] [318] [319]
+] [317] [318] [319] [320] [321]
 Underfull \hbox (badness 1668) in paragraph at lines 506--509
 []\TU/lmr/m/n/10 Hamedy, R. (2019).  How to build a reputable StackOverflow profile.
  []
 
-[320] [321] [322] [323] [324] [325] [326]) [327] (./cdyf.aux)
+[322] [323] [324] [325] [326] [327] [328]) [329] (./cdyf.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 25291 strings out of 477861
- 524772 string characters out of 5845678
- 976415 words of memory out of 5000000
- 45691 multiletter control sequences out of 15000+600000
+ 25324 strings out of 477861
+ 525378 string characters out of 5845678
+ 977875 words of memory out of 5000000
+ 45723 multiletter control sequences out of 15000+600000
  475888 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,15n,121p,2783b,915s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cdyf.pdf (327 pages).
+Output written on cdyf.pdf (329 pages).

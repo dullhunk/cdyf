@@ -330,9 +330,9 @@ This guidebook to your future accompanies a course that has been co-designed by 
 knitr::include_graphics("images/prescriptive-vs-descriptive-pathways.png")
 ```
 
-(ref:captiondescriptive) Many courses you do at University are *prescriptive*, they tell you what to do by leading your through a story from start to finish. This is the way of the University: “our way”. This course is different, it is *descriptive* which means you pick your own pathway through the story. This is *your* way: “my way”. [Prescriptive vs. descriptive](https://bryanmmathers.com/prescriptive-vs-descriptive-pathways/) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captiondescriptive) Many formal education courses follow a *prescriptive pathway* (right), they lead you through a story from start to finish. This is the way of the University: “`our courses`” - our prospectus. This course is different, it follows a *descriptive pathway* (left) which means you pick your own way through the story. I'll guide you through the story but you'll need to choose *your* way: “`my way`”. [Prescriptive vs. descriptive pathways](https://bryanmmathers.com/prescriptive-vs-descriptive-pathways/) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Although this is a course guidebook used in the second year undergraduate teaching, you don't need to be enrolled on the course to benefit from reading it, watching the videos and doing the exercises and coding challenges.
+Although this is a course guidebook used in undergraduate teaching, you don't need to be enrolled on the course to benefit from reading it, watching the videos and doing the exercises and coding challenges.
 
 ### Your future is constantly updated {#version}
 You are reading the alpha version, the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) of this guidebook, last updated on `r format(Sys.time(), '%d %B, %Y')`. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
