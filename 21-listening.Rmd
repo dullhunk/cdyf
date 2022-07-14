@@ -10,7 +10,7 @@ knitr::include_graphics("images/graduation2.jpeg")
 
 (ref:captiongraduation) Silly hat? Silly frock? It must be time for graduation! What comes next? *Hearing your future* interviews current and former students to find out more about how they got here and where they are going to. Picture of obligatory hat throwing outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building in 2018. 🎓
 
-Listen in, or read the transcripts, to find out more about how these students are coding their future:
+Listen in to the episodes below, or read the transcripts, to find out more about how these students are coding their future:
 
 * What's their story?  
 * How did they get to where they are?
@@ -18,7 +18,11 @@ Listen in, or read the transcripts, to find out more about how these students ar
 * What obstacles have they faced and how did they overcome them?
 * What advice would they offer to their former selves and fellow students?
 
-Find out more by subscribing wherever you get your podcasts...
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23577479/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>')
+```
+
+Find out more by listening here or subscribing wherever you get your podcasts...
 
 ## Subscribing to your future {#subscribing}
 
