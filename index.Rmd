@@ -233,7 +233,7 @@ In the future, a traditional printed paper copy from a publisher may also be ava
 ## Contributing to your future {#contributing}
 If you'd like to contribute this guidebook, I welcome constructive feedback from [loyal opposition](https://en.wikipedia.org/wiki/Loyal_opposition) and [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged in section \@ref(thanks) unless you ask for your contributions to remain anonymous. If you're about to graduate or have already graduated in Computer Science, see section \@ref(you).
 
-If you like what you're reading here, I'd really appreciate some [stars.github.com](https://stars.github.com/) at [github.com/dullhunk/cdyf](https://github.com/dullhunk/cdyf) to help people find us. 🤩⭐️🤩
+If you like what you're reading here and you think other people might benefit too, I'd really appreciate some stars at [github.com/dullhunk/cdyf](https://github.com/dullhunk/cdyf) to help people find us. 🤩⭐️🤩
 
 ```{r critical-friend-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncriticalfriend)"}
 knitr::include_graphics("images/critical-friend.jpeg")
@@ -241,8 +241,7 @@ knitr::include_graphics("images/critical-friend.jpeg")
 
 (ref:captioncriticalfriend) Can you be a supportive but [critical friend](https://en.wikipedia.org/wiki/Critical_friend) of this guidebook? Public domain image of a painting *Friendship* by [Petrona Viera](https://en.wikipedia.org/wiki/Petrona_Viera) via Wikimedia Commons [w.wiki/3WjY](https://w.wiki/3WjY) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-
- I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
+I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
 
 * Does the chapter make sense, is it clear?
 * Does it strike the right tone, is it pitched at the right level? Not patronising? Too many platitudes?
