@@ -8,7 +8,7 @@
 knitr::include_graphics("images/graduation2.jpeg")
 ```
 
-(ref:captiongraduation) Silly hat? ✅ Silly frock? ✅ Wearing your best outfit? ✅ It must be time for graduation! What comes next? *Hearing your future* interviews current and former students to find out more about how they got to where they are and where they are going to next. Picture of obligatory hat throwing outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building in 2018. 🎓
+(ref:captiongraduation) Silly hat? ✅ Silly frock? ✅ Wearing your best outfit? ✅ It must be time for graduation! What comes next? *Hearing your future* interviews current and former students to find out more about how they got to where they are and where they are going to next. Picture of obligatory hat throwing outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building in 2018. Photobombing by [Gavin Brown](https://profgavinbrown.github.io/) 🎓
 
 Listen in to the episodes below, or read the transcripts, to find out more about how these students are coding their future:
 
@@ -90,17 +90,17 @@ knitr::include_graphics(rep("images/raluca.jpeg", 3))
 ```
 
 ## Episode $x$: it could be YOU! {#you}
-YOUR FUTURE NEEDS YOU! Join your future! If you'd like to be interviewed for the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:yfnu-fig). Besides interviewing current graduates, I'm interested in speaking to former graduates, especially those that did placements or internships as undergraduate or postgraduate students. I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1965. 🎓 [@babygrowsup]
+YOUR FUTURE WANTS YOU: Join your future! If you'd like to be interviewed for the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:yfnu-fig). Besides interviewing current graduates, I'm interested in speaking to former graduates, especially those that did placements or internships as undergraduate or postgraduate students. I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1965. 🎓 [@babygrowsup]
 
-```{r yfnu-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionyfnu)"}
+```{r yfnu-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionyfnu)"}
 knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 ```
 
-(ref:captionyfnu) Your ~~country~~ future needs YOU. 🫵 If you are a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by [Alfred Leete](https://en.wikipedia.org/wiki/Alfred_Leete) on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
+(ref:captionyfnu) Your ~~country~~ future wants YOU. 🫵 If you are a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by [Alfred Leete](https://en.wikipedia.org/wiki/Alfred_Leete) on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
 
 If you're preparing to come on the show, please have a think about the following questions:
 
-### What's your story, coding glory? {#wyscg}
+### What's your story, coding glory? {#your-story}
 All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade, see figure \@ref(fig:gallagher2-fig). What's your story, coding glory?
 
 * Tell us a bit about you and where you come from
@@ -121,24 +121,30 @@ knitr::include_graphics("images/whats-the-story.jpeg")
 (ref:caption2gallagher) [(What's your Story) ~~Morning~~ Coding Glory?](https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F) [@whatsthestory]. CC BY portrait of [Noel Gallagher](https://en.wikipedia.org/wiki/Noel_Gallagher) by [alterna2.com](https://alterna2.com/) on Wikimedia Commons [w.wiki/3bimy](https://w.wiki/3bim) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 ### Minority report {#minority}
-Inspired by the [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) novel [@theminorityreport] and it's subsequent film, [@minorityreport] minority report asks our minorities:
+Inspired by the [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) novel *The Minority Report* and subsequent film adaptation, see figure \@ref(fig:minority-fig), minority report asks:
 
+* Are you a member of a minority group? If so which one(s)?
 * What has your experience been at University and in the workplace?
-* How can teaching and learning be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group?
-* What else can universities do to make campuses more welcoming to members of your minority group?
-* What can employers do to make workplaces more welcoming to members of your minority group?
+* How can teaching and learning be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group(s)?
+* What else can universities do to make campuses more welcoming to members of your minority group(s)?
+* What can employers do to make workplaces more welcoming to members of your minority group(s)?
+
+```{r minority-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionminority)"}
+knitr::include_graphics("images/minority-report.jpeg")
+```
+(ref:captionminority) *The Minority Report* is short story by Philip K. Dick first published by *Fantastic Universe* magazine in 1956. Are you in a minority? Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we hear from our minorities. What is it like being in minority and how could universities and employers be more welcoming to your minority group? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn)
 
 ### One tune, one podcast and one film {#otopof}
 
-We love our tunes, podcasts and films and make gratuitous references to them throughout *Coding your Future*. Critics say there's far too much [DadRock](https://en.wikipedia.org/wiki/Dad_rock), indie [shoegazing](https://en.wikipedia.org/wiki/Shoegaze), Lancashire boy bands and other antiques from a bygone era. [@dadrock] So can you recommend us:
+We love our tunes, podcasts and films and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist is clogged up with [DadRock](https://en.wikipedia.org/wiki/Dad_rock), cardigan-swinging indie [shoegazing](https://en.wikipedia.org/wiki/Shoegaze), Lancashire boy bands (both the Mancs and the Scousers) alongside other antiques from a bygone era. [@dadrock] So can you recommend us:
 
-* **TUNE!** One tune to rejuvenate and freshen up our playlist. Why is it important to you? Perhaps it makes you relax, feel happy or comforted? Maybe it reminds you of special people, a special time or special place in your life? 🎸
+* **TUNE!** One tune to rejuvenate and freshen up our playlist. Why is it important to you? Perhaps it makes you relax, feel happy or comforted? Maybe it reminds you of special people, a special time or special place in your life? [🤘](https://en.wikipedia.org/wiki/Sign_of_the_horns)🎸
 * **PODCAST:** One podcast you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
-### Time traveller {#time}
+### Time traveller {#your-time}
 
-Do you wish that you knew what you know now, when you were younger? Like [Ronnie Lane](https://en.wikipedia.org/wiki/Ronnie_Lane), [Ronnie Wood](https://en.wikipedia.org/wiki/Ronnie_Wood) and [Rod Stewart](https://en.wikipedia.org/wiki/Rod_Stewart), we all do sometimes, see figure \@ref(fig:faces2-fig). So, if you could travel back in time to meet the younger you, just starting University:
+Do you wish that you knew what you know now, when you were younger? Just like [Ronnie Lane](https://en.wikipedia.org/wiki/Ronnie_Lane), [Ronnie Wood](https://en.wikipedia.org/wiki/Ronnie_Wood) and [Rod Stewart](https://en.wikipedia.org/wiki/Rod_Stewart), we all probably feel that way sometimes, see figure \@ref(fig:faces2-fig). So, if you could travel back in time to meet the younger you, just starting University:
 
 * What would you tell your former self, now that you are older and wiser?
 * What would you tell current students to help them get the most of their preciously short time at University?
