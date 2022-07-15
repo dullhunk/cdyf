@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.30)  15 JUL 2022 05:48
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.6.30)  15 JUL 2022 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2173,6 +2173,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 8351--8353
 ] [300]
 File: images/Hearing-your-future.png Graphic file (type bmp)
 <images/Hearing-your-future.png>
+File: images/Hearing-your-future.png Graphic file (type bmp)
+<images/Hearing-your-future.png>
+File: images/Hearing-your-future.png Graphic file (type bmp)
+<images/Hearing-your-future.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 8394--8394
+[][] []
+ []
+
 File: images/sneha.jpeg Graphic file (type bmp)
 <images/sneha.jpeg>
 File: images/sneha.jpeg Graphic file (type bmp)
@@ -2180,9 +2189,10 @@ File: images/sneha.jpeg Graphic file (type bmp)
 File: images/sneha.jpeg Graphic file (type bmp)
 <images/sneha.jpeg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 8407--8407
+[][] []
+ []
 
-[301]
 File: images/carmen.jpeg Graphic file (type bmp)
 <images/carmen.jpeg>
 File: images/carmen.jpeg Graphic file (type bmp)
@@ -2190,7 +2200,12 @@ File: images/carmen.jpeg Graphic file (type bmp)
 File: images/carmen.jpeg Graphic file (type bmp)
 <images/carmen.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 8421--8421
+Underfull \hbox (badness 10000) in paragraph at lines 8416--8416
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8416--8416
 []\TU/lmr/m/n/10 Figure 19.4: []Carmen Faura Práxedes. Picture reused from
  []
 
@@ -2201,10 +2216,16 @@ File: images/brian.jpeg Graphic file (type bmp)
 File: images/brian.jpeg Graphic file (type bmp)
 <images/brian.jpeg>
 
-Underfull \hbox (badness 1817) in paragraph at lines 8430--8430
+Underfull \hbox (badness 10000) in paragraph at lines 8425--8425
+[][] []
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 8425--8425
 []\TU/lmr/m/n/10 Figure 19.5: []Brian Yim Tam. Picture reused with permission from
  []
 
+[301] [302]
 File: images/jason.jpeg Graphic file (type bmp)
 <images/jason.jpeg>
 File: images/jason.jpeg Graphic file (type bmp)
@@ -2212,26 +2233,33 @@ File: images/jason.jpeg Graphic file (type bmp)
 File: images/jason.jpeg Graphic file (type bmp)
 <images/jason.jpeg>
 
-Underfull \hbox (badness 4699) in paragraph at lines 8439--8439
-[]\TU/lmr/m/n/10 Figure 19.6: []Jason Ozuzu. Picture reused with permission from
+Underfull \hbox (badness 10000) in paragraph at lines 8434--8434
+[][] []
  []
 
 
-Underfull \vbox (badness 2229) has occurred while \output is active []
+Underfull \hbox (badness 4699) in paragraph at lines 8434--8434
+[]\TU/lmr/m/n/10 Figure 19.6: []Jason Ozuzu. Picture reused with permission from
+ []
 
-[302]
 File: images/raluca.jpeg Graphic file (type bmp)
 <images/raluca.jpeg>
 File: images/raluca.jpeg Graphic file (type bmp)
 <images/raluca.jpeg>
 File: images/raluca.jpeg Graphic file (type bmp)
 <images/raluca.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 8443--8443
+[][] []
+ []
+
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 8452.
+(Font)              scaled to size 14.4pt on input line 8447.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 8452.
+(Font)              scaled to size 14.4013pt on input line 8447.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 8452.
+(Font)              scaled to size 14.39845pt on input line 8447.
+[303]
 Missing character: There is no 🎓 (U+1F393) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/your-future-wants-you.jpeg Graphic file (type bmp)
 <images/your-future-wants-you.jpeg>
@@ -2240,35 +2268,31 @@ File: images/your-future-wants-you.jpeg Graphic file (type bmp)
 File: images/your-future-wants-you.jpeg Graphic file (type bmp)
 <images/your-future-wants-you.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 8457--8457
+Underfull \hbox (badness 10000) in paragraph at lines 8462--8462
 [][] []
  []
 
 Missing character: There is no 🫵 (U+1FAF5) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🫵 (U+1FAF5) in font [lmroman10-regular]:mapping=tex-text;!
-[303]
+[304] [305] [306]
 File: images/whats-the-story.jpeg Graphic file (type bmp)
 <images/whats-the-story.jpeg>
-[304] [305]
 File: images/minority-report.jpeg Graphic file (type bmp)
 <images/minority-report.jpeg>
-Missing character: There is no 🤘 (U+1F918) in font [lmroman10-regular]:mapping=tex-text;!
+[307] [308]
 Missing character: There is no 🎸 (U+1F3B8) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 🤘 (U+1F918) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🎧 (U+1F3A7) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🍿 (U+1F37F) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[306] [307]
 File: images/faces.jpeg Graphic file (type bmp)
 <images/faces.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: cdyf_files/figure-latex/include-url-1.png Graphic file (type bmp)
 <cdyf_files/figure-latex/include-url-1.png>
 
-LaTeX Warning: Float too large for page by 48.49641pt on input line 8580.
+LaTeX Warning: Float too large for page by 48.49641pt on input line 8605.
 
-[308] [309] [310
+[309] [310] [311] [312
 
 ]
 Chapter 20.
@@ -2278,28 +2302,13 @@ Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
-[311] [312]
+[313] [314]
 Chapter 21.
 File: images/brian.jpeg Graphic file (type bmp)
 <images/brian.jpeg>
 
-Underfull \hbox (badness 1817) in paragraph at lines 8620--8620
+Underfull \hbox (badness 1817) in paragraph at lines 8645--8645
 []\TU/lmr/m/n/10 Figure 21.1: []Brian Yim Tam. Picture reused with permission from
- []
-
-Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
-[313
-
-] [314]
-Chapter 22.
-File: images/jason.jpeg Graphic file (type bmp)
-<images/jason.jpeg>
-
-Underfull \hbox (badness 4699) in paragraph at lines 8645--8645
-[]\TU/lmr/m/n/10 Figure 22.1: []Jason Ozuzu. Picture reused with permission from
  []
 
 Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2309,12 +2318,12 @@ Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=
 [315
 
 ] [316]
-Chapter 23.
-File: images/carmen.jpeg Graphic file (type bmp)
-<images/carmen.jpeg>
+Chapter 22.
+File: images/jason.jpeg Graphic file (type bmp)
+<images/jason.jpeg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 8670--8670
-[]\TU/lmr/m/n/10 Figure 23.1: []Carmen Faura Práxedes. Picture reused from
+Underfull \hbox (badness 4699) in paragraph at lines 8670--8670
+[]\TU/lmr/m/n/10 Figure 22.1: []Jason Ozuzu. Picture reused with permission from
  []
 
 Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2324,9 +2333,14 @@ Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=
 [317
 
 ] [318]
-Chapter 24.
-File: images/sneha.jpeg Graphic file (type bmp)
-<images/sneha.jpeg>
+Chapter 23.
+File: images/carmen.jpeg Graphic file (type bmp)
+<images/carmen.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 8695--8695
+[]\TU/lmr/m/n/10 Figure 23.1: []Carmen Faura Práxedes. Picture reused from
+ []
+
 Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
@@ -2334,32 +2348,42 @@ Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=
 [319
 
 ] [320]
+Chapter 24.
+File: images/sneha.jpeg Graphic file (type bmp)
+<images/sneha.jpeg>
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⚠ (U+26A0) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman10-regular]:mapping=tex-text;!
+[321
+
+] [322]
 Chapter 25.
 File: images/Libraries_Give_Us_Power.jpeg Graphic file (type bmp)
 <images/Libraries_Give_Us_Power.jpeg>
 File: images/bill-gates.jpeg Graphic file (type bmp)
 <images/bill-gates.jpeg>
-(./cdyf.bbl [321
+(./cdyf.bbl [323
 
-] [322] [323] [324
+] [324] [325] [326
 
-] [325] [326] [327] [328] [329]
+] [327] [328] [329] [330] [331]
 Underfull \hbox (badness 1668) in paragraph at lines 516--519
 []\TU/lmr/m/n/10 Hamedy, R. (2019).  How to build a reputable StackOverflow profile.
  []
 
-[330] [331] [332] [333] [334] [335] [336]) [337] (./cdyf.aux)
+[332] [333] [334] [335] [336] [337] [338]) [339] (./cdyf.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 25430 strings out of 477861
- 528831 string characters out of 5845678
- 982937 words of memory out of 5000000
- 45823 multiletter control sequences out of 15000+600000
+ 25433 strings out of 477861
+ 528885 string characters out of 5845678
+ 980730 words of memory out of 5000000
+ 45826 multiletter control sequences out of 15000+600000
  476849 words of font info for 97 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,15n,121p,2783b,917s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,15n,121p,2783b,919s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cdyf.pdf (337 pages).
+Output written on cdyf.pdf (339 pages).

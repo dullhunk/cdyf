@@ -2,7 +2,7 @@
 
 # Hearing your future {#hearing}
 
-*Hearing your Future* is the Coding your Future podcast where we talk to students of computer science to hear more about their journey from student to professional. What happens after graduation like the one shown in figure \@ref(fig:graduation-fig)? What comes next?
+*Hearing your Future* is the Coding your Future podcast which accompanies this guidebook. We talk to graduands and graduates of computer science to hear more about their journey from student to professional. What happens after graduation like the one shown in figure \@ref(fig:graduation-fig)? What comes next?
 
 ```{r graduation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongraduation)"}
 knitr::include_graphics("images/graduation2.jpeg")
@@ -14,8 +14,8 @@ Listen in to the episodes below, or read the transcripts, to find out more about
 
 * What's their story?  
 * How did they get to where they are?
-* Where are they going next?
 * What obstacles have they faced and how did they overcome them?
+* Where are they planning to going next?
 * What advice would they offer to their former selves and fellow students?
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
@@ -26,7 +26,7 @@ Find out more by listening here or subscribing wherever you get your podcasts...
 
 ## Subscribing to your future {#subscribing}
 
-You can subscribe by searching for `Coding your Future` or `Hearing your Future` from your podcast provider. You will see the logo shown in figure \@ref(fig:hearing-fig) when you search for it, or you can just follow one of the links below to your favourite podcast tool:
+You can subscribe by searching for `Coding your Future` or `Hearing your Future` in your podcast application. You will see the logo shown in figure \@ref(fig:hearing-fig) when you find it, or you can just follow one of the links below to your favourite podcast tool:
 
 * Spotify: [open.spotify.com/show/30p4f1iI8hICkJJmey1bS1](https://open.spotify.com/show/30p4f1iI8hICkJJmey1bS1)
 * Apple: [podcasts.apple.com/us/podcast/coding-your-future...](https://podcasts.apple.com/us/podcast/coding-your-future/id1632252996)
@@ -41,8 +41,8 @@ Alternatively you can cut-and-paste the raw `rss` feed URL below into your podca
 http://feeds.libsyn.com/299189/rss
 ```
 
-```{r hearing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhearing)"}
-knitr::include_graphics("images/Hearing-your-future.png")
+```{r hearing-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionhearing)"}
+knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 ```
 
 (ref:captionhearing) *Hearing your future* is the Coding your Future podcast. Subscribe wherever you get your podcasts. Hearing sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
@@ -53,7 +53,7 @@ The episodes below have been recorded and are currently in production, podcasts 
 
 Interview with Sneha Kandane, see figure \@ref(fig:sneha2-fig) and the transcript and show notes in chapter \@ref(sneha).
 
-```{r sneha2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionsneha)"}
+```{r sneha2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionsneha)"}
 knitr::include_graphics(rep("images/sneha.jpeg", 3))
 ```
 
@@ -61,7 +61,7 @@ knitr::include_graphics(rep("images/sneha.jpeg", 3))
 
 Interview with Carmen Faura Práxedes, see figure \@ref(fig:carmen2-fig) and the transcript and show notes in chapter \@ref(carmen)
 
-```{r carmen2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captioncarmen)"}
+```{r carmen2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captioncarmen)"}
 knitr::include_graphics(rep("images/carmen.jpeg", 3))
 ```
 
@@ -69,7 +69,7 @@ knitr::include_graphics(rep("images/carmen.jpeg", 3))
 
 Interview with Brian Yim Tam, see figure \@ref(fig:brian2-fig) and the transcript and show notes in chapter \@ref(brian)
 
-```{r brian2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionbrian)"}
+```{r brian2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionbrian)"}
 knitr::include_graphics(rep("images/brian.jpeg", 3))
 ```
 
@@ -77,7 +77,7 @@ knitr::include_graphics(rep("images/brian.jpeg", 3))
 
 Interview with Jason Ozuzu, see figure \@ref(fig:jason2-fig) and the transcript in chapter \@ref(jason).
 
-```{r jason2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionjason)"}
+```{r jason2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionjason)"}
 knitr::include_graphics(rep("images/jason.jpeg", 3))
 ```
 
@@ -85,12 +85,17 @@ knitr::include_graphics(rep("images/jason.jpeg", 3))
 
 Interview with Raluca Cruceru, see figure \@ref(fig:raluca2-fig) and the transcript and show notes in chapter \@ref(raluca)
 
-```{r raluca2-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionraluca)"}
+```{r raluca2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionraluca)"}
 knitr::include_graphics(rep("images/raluca.jpeg", 3))
 ```
 
 ## Episode $x$: it could be YOU! {#you}
-YOUR FUTURE WANTS YOU: Join your future! If you'd like to be interviewed for the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:yfnu-fig). Besides interviewing current graduates, I'm interested in speaking to former graduates, especially those that did placements or internships as undergraduate or postgraduate students. I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1965. 🎓 [@babygrowsup]
+YOUR FUTURE WANTS YOU: Join your future! If you'd like to be interviewed for the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:yfnu-fig). Besides interviewing current graduates, I'm interested in speaking to former graduates, especially if you
+
+* completed a placements or internship as undergraduate or postgraduate degree
+* consider yourself to be part of a minority group
+
+I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1965. 🎓 [@babygrowsup]
 
 ```{r yfnu-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionyfnu)"}
 knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
@@ -101,9 +106,11 @@ knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 If you're preparing to come on the show, please have a think about the following questions:
 
 ### What's your story, coding glory? {#your-story}
-All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade, see figure \@ref(fig:gallagher2-fig). What's your story, coding glory?
+> “All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade. What's your story, coding glory?” (with apologies to the Gallagher brothers see figure \@ref(fig:gallagher2-fig))
 
-* Tell us a bit about you and where you come from
+Wht's your story?
+
+* What's your name and where do you come from?
 * Why did you choose to study computer science?
 * Which organisation were you employed by, why and how did you choose them
 * Tell us about your role in the organisation
@@ -125,10 +132,10 @@ This is an optional question inspired by the [Philip K. Dick](https://en.wikiped
 
 * Do you consider yourself to be a member of a minority group?
 * If so which one(s), see section \@ref(protected) and \@ref(genderid)?
-* What has your experience been of being a minority at University and in the workplace?
-* How can teaching and learning of computer science be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group(s)?
+* What has your experience been of being in a minority at University and in the workplace?
+* How can the teaching and learning of computer science be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group(s)?
 * What else can universities do to make campuses more welcoming to members of your minority group(s)?
-* What can employers do to make workplaces more welcoming to members of your minority group(s)?
+* What more can employers do to make workplaces more welcoming to members of your minority group(s)?
 
 ```{r minority-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionminority)"}
 knitr::include_graphics("images/minority-report.jpeg")
@@ -137,9 +144,16 @@ knitr::include_graphics("images/minority-report.jpeg")
 
 ### One tune, one podcast and one film {#otopof}
 
-We love our tunes, podcasts and films and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist is clogged up with [DadRock](https://en.wikipedia.org/wiki/Dad_rock), cardigan-swinging indie [shoegazing](https://en.wikipedia.org/wiki/Shoegaze), Lancashire boy bands (both the Mancs and the Scousers) alongside other antiques from a bygone era. [@dadrock] So can you recommend a:
+We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist is clogged up with:
 
-* **TUNE!** One tune to rejuvenate and freshen up our playlist. Why is it important to you? Perhaps it makes you relax, feel happy or comforted? Maybe it reminds you of special people, a special time or special place in your life? [🤘](https://en.wikipedia.org/wiki/Sign_of_the_horns)🎸
+* [DadRock](https://en.wikipedia.org/wiki/Dad_rock) 🎸
+* [cardigan-swinging indie shoegazing](https://en.wikipedia.org/wiki/Shoegaze)
+* Lancashire boy bands, especially the Mancs *and* the Scousers [@mancashire]
+* other antiquities from a bygone era [@dadrock]
+
+So, can you recommend a:
+
+* **TUNE!** One tune to rejuvenate and freshen up our playlist. Why is it important to you? Perhaps it makes you relax, feel happy or comforted? Maybe it reminds you of special people, a special time or special place in your life? [🤘](https://en.wikipedia.org/wiki/Sign_of_the_horns)
 * **PODCAST:** One podcast you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 

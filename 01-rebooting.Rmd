@@ -335,7 +335,7 @@ knitr::include_graphics("images/prescriptive-vs-descriptive-pathways.png")
 Although this is a course guidebook used in undergraduate teaching, you don't need to be enrolled on the course to benefit from reading it, watching the videos and doing the exercises and coding challenges.
 
 ### Your future is constantly updated {#version}
-You are reading the alpha version, the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) of this guidebook, last updated on `r format(Sys.time(), '%d %B, %Y')`. That's software engineer talk for saying it isn't finished yet. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
+You are reading the alpha version, the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) of this guidebook, last updated on `r format(Sys.time(), '%d %B, %Y')`. That's software engineer talk for saying *it isn't finished yet*. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
 
 * More quizzes for better interactivity
 * More videos on the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)

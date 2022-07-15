@@ -263,7 +263,7 @@ knitr::include_graphics("images/CV Fodder.png")
 ```
 (ref:captionfodder) Have ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great stories (aka CV [fodder](https://en.wikipedia.org/wiki/Fodder)) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is likely to be more interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
+It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is much more likely to be interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
 ````md
 * WidgetWasher is a web service that washes widgets
@@ -364,9 +364,9 @@ knitr::include_graphics("images/CV need a little work.png")
 ```
 (ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are invited to interview. Any time you spend getting it right is a good investment. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Whatever your typographical style is, portable document format (PDF) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`, especially if its being read by a human and not a robot. 🤖
+Whatever your typographical style is, portable document format (`*.pdf`) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft's own products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on any smartphone or tablet and you'll see what I mean. It helps if you can give the file a descriptive name so `ada_lovelace.pdf` is a better filename than `my_cv.pdf`, especially if its being read by a human and not a robot. 🤖
 
-It's fine to author your CV in Microsoft Word, but you'll want to save it as a PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and have many templates, see [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
+It's fine to author your CV in Microsoft Word, but you'll want to save it as a PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and there are plenty of good templates. See [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
 
 ### What's your story, coding glory? {#care}
 

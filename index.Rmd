@@ -226,14 +226,14 @@ The full text of this guidebook is freely available at [www.cdyf.me](https://www
 <!-- note that can't do this for youtube because it refuses to connect
 knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
 -->
-If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf). Alternatively, you can wait until *late 2022*, when [Amazon's Kindle will finally support epub files](https://mashable.com/article/amazon-kindle-epub) like everyone else.
+If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf). Alternatively, you can wait until *late 2022*, when [Amazon's Kindle will finally support epub files](https://mashable.com/article/amazon-kindle-epub) like everyone else.
 
-In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book the old fashioned way, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html).
+In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book the old fashioned way, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact).
 
 ## Contributing to your future {#contributing}
 If you'd like to contribute this guidebook, I welcome constructive feedback from [loyal opposition](https://en.wikipedia.org/wiki/Loyal_opposition) and [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged in section \@ref(thanks) unless you ask for your contributions to remain anonymous. If you're about to graduate or have already graduated in Computer Science, see section \@ref(you).
 
-If you like what you're reading here and you think other people might benefit too, I'd really appreciate some stars at [github.com/dullhunk/cdyf](https://github.com/dullhunk/cdyf) to help people find us. 🤩⭐️🤩
+If you find what you're reading here useful and you think other people might benefit too, I'd really appreciate some stars (likes) on the guidebook's repository at [github.com/dullhunk/cdyf](https://github.com/dullhunk/cdyf) to help people find us. 🤩⭐️🤩
 
 ```{r critical-friend-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncriticalfriend)"}
 knitr::include_graphics("images/critical-friend.jpeg")
@@ -281,9 +281,9 @@ Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wik
 
 If you don't want to (or can't) use `git` and [github.com](https://github.com/) then you can:
 
-* Add comments by annotating [cdyf.pdf](cdyf.me/cdyf.pdf) or [cdyf.epub](https://cdyf.me/cdyf.epub) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
+* Add comments by annotating [cdyf.pdf](cdyf.me/cdyf.pdf) or [cdyf.epub](https://cdyf.me/cdyf.epub) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
 * Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the pagination, typesetting and graphic placement algorithms in Word aren't anything like as good as the [LaTeX ones](https://latex4year1.netlify.app/) used to create the [cdyf.pdf](https://leanpub.com/cdyf) (output) from the [cdyf.tex](https://github.com/dullhunk/cdyf/blob/master/_book/cdyf.tex) (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a), one of it's [killer features](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
-* Just [email me suggestions for improvements](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html)
+* Just [email me suggestions for improvements](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
@@ -309,7 +309,7 @@ knitr::include_graphics("images/standing-on-the-shoulders-of-students.png")
 
 So, if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a high probability you have contributed to this book. Thank you for having the courage to tell me your stories. Thank you for being ambitious, hard working, talented, fearless, creative, inspirational and listening to me (sometimes). It has been my pleasure and privilege to work with you all.
 
-I'd especially like to thank current and former industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish, Eirik Björnerstedt, [Raluca Cruceru](https://www.cdyf.me/raluca.html), [Petia Davidova](https://www.youtube.com/channel/UCDmn8CxaXGxZSKq83vhzULw), [Lloyd Henning](https://github.com/eldog), [Jason Ozuzu](https://www.cdyf.me/jason.html), [Carmen Práxedes](https://www.cdyf.me/carmen.html), Kristina Radinova, [Teodora Stoleru](https://github.com/teostoleru), [Peter Sutton](https://github.com/dj-foxxy) and [Brian Yim Tam](https://www.cdyf.me/brian.html). In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(hacking) on *Hacking your future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
+I'd especially like to thank current and former industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly [Sami Alabed](https://github.com/samialabed), Luke Beamish, Eirik Björnerstedt, [Raluca Cruceru](https://www.cdyf.me/raluca), [Petia Davidova](https://www.youtube.com/channel/UCDmn8CxaXGxZSKq83vhzULw), [Lloyd Henning](https://github.com/eldog), [Sneha Kandane](https://www.cdyf.me/sneha), [Jason Ozuzu](https://www.cdyf.me/jason), [Carmen Práxedes](https://www.cdyf.me/carmen), Kristina Radinova, [Teodora Stoleru](https://github.com/teostoleru), [Peter Sutton](https://github.com/dj-foxxy) and [Brian Yim Tam](https://www.cdyf.me/brian). In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! If you sent me a CV and I didn't reply, I apologise. There are limits to what is humanly possible. Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(hacking) on *Hacking your future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
 <!--
 ```{r, results = "asis", echo = FALSE, message = FALSE}
 library(dplyr)
@@ -495,7 +495,7 @@ knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 So thanks Stockport for being Stockport. Thanks for the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.): It's all that matters, Stockport Hatters. 🙏
 
 ### Thank you schools {#schools}
-Thanks to all the schools who've hosted our undergraduate students as part of an ongoing partnership between the University of Manchester and local schools called [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html):
+Thanks to all the schools who've hosted our undergraduate students as part of an ongoing partnership between the University of Manchester and local schools called [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future):
 
 * Mrs Rowland at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls), Droylsden
 * Mr Sinnott at [Trinity Church of England High School](https://en.wikipedia.org/wiki/Trinity_Church_of_England_High_School), Hulme
@@ -517,7 +517,7 @@ Thanks to Mr Shaw for hosting our primary school [codeclub.org](https://codeclub
 knitr::include_graphics("images/schools-banner.jpeg")
 ```
 
-(ref:captioncodingtheirfuture) Thanks to all the schools in Greater Manchester who've supported our [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html) partnership where undergraduates teach computer science in local secondary schools.
+(ref:captioncodingtheirfuture) Thanks to all the schools in Greater Manchester who've supported our [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future) partnership where undergraduates teach computer science in local secondary schools.
 
 Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](https://en.wikipedia.org/wiki/Newly_qualified_teacher) (NQT) year. Doing interview lessons, meeting your students and your senior leadership teams was a gruelling but fascinating magical mystery tour of the UK education system, both public and private. These interviews were very **productive failures**:
 
@@ -641,7 +641,7 @@ knitr::include_graphics("images/moravian-insitute.jpg")
 ```
 (ref:captionmoravian) The Moravian Institute lies in the foothills of the Himalayas between [Dehradun](https://en.wikipedia.org/wiki/Dehradun) in the [Doon Valley](https://en.wikipedia.org/wiki/Doon_Valley) and the hill station of [Mussoorie](https://en.wikipedia.org/wiki/Mussoorie). Situated between the [Yamuna](https://en.wikipedia.org/wiki/Yamuna) and [Ganges](https://en.wikipedia.org/wiki/Ganges), the institute was founded in 1963 by the late Reverend Eliyah Thsetsan Phuntsog in [Ladakh](https://en.wikipedia.org/wiki/Ladakh), [Jammu & Kashmir state](https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(state)) to provide education for [Tibetan refugees](https://en.wikipedia.org/wiki/Tibetan_diaspora) fleeing from their homeland across the Himalayas.
 
-Thanks also to the [Moravians in Manchester](https://en.wikipedia.org/wiki/Fairfield_Moravian_Church) at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls) for hosting undergraduate Computer Science students as part of [coding their future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html).
+Thanks also to the [Moravians in Manchester](https://en.wikipedia.org/wiki/Fairfield_Moravian_Church) at [Fairfield High School for Girls](https://en.wikipedia.org/wiki/Fairfield_High_School_for_Girls) for hosting undergraduate Computer Science students as part of [coding their future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future).
 
 So thanks Moravians (and Angus) for life changing and formative experiences. 🙏
 
@@ -763,7 +763,7 @@ knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
 ```
 (ref:captionbradlads) Crossing the highest paved mountain pass in Europe, the [Col de l'Iseran](https://en.wikipedia.org/wiki/Col_de_l%27Iseran) in France, with my fellow alpinists and [Kings of the Mountains](https://en.wikipedia.org/wiki/King_of_the_Mountains): Jim, Dan, Doug and Dan. Allez, allez, allez! Unlike professional riders in *Le Tour* we had heavy panniers and no performance enhancing drugs besides *vin de table* and *l'hospitalité française*. [Rest in Peace Dan](https://www.wiltshiretimes.co.uk/announcements/deaths/deaths/14828732.Daniel_Feane/), you were a cherished friend, we all loved you and miss you terribly. Repose en paix. 🇫🇷
 
-Special thanks to former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for showing me around [The Clarendon School](https://en.wikipedia.org/wiki/The_Clarendon_Academy) in Trowbridge, Wiltshire and leading by example. Aidan's performance as *Lord of the Dance* (wearing a white shirt in figure \@ref(fig:uptown-funk-fig)), inspired the ongoing musical experiment that is [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html#tuningcomplete).
+Special thanks to former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for showing me around [The Clarendon School](https://en.wikipedia.org/wiki/The_Clarendon_Academy) in Trowbridge, Wiltshire and leading by example. Aidan's performance as *Lord of the Dance* (wearing a white shirt in figure \@ref(fig:uptown-funk-fig)), inspired the ongoing musical experiment that is [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research#tuningcomplete).
 
 ```{r uptown-funk-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionuptown)"}
 knitr::include_graphics("images/youtube-mocs-uptown-funk.png")
