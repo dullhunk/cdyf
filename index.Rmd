@@ -49,13 +49,13 @@ Pictures tell stories, pictures explain. Pictures help you understand. Pictures 
 This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients, `C`, `D`, `Y`, `F` and `.me`:
 
 1. **`C is for CODE`**: Instructions, algorithms, recipes, methods and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
-1. **`D is for DATA`**: Facts, statistics, graphs and pictures collected together for your analysis
-1. **`Y is for YOU`**: This book is all about you, with activities and other *coding challenges* for you to do in addition to just reading
+1. **`D is for DATA`**: Data, data everywhere. Facts, statistics, graphs and pictures collected together for your analysis
+1. **`Y is for YOU`**: This book is all about you, with activities and other *coding challenges* for you to do in addition to just passively reading
 1. **`F is for FUTURES`**: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about *your* future. [@thinkaboutthefuture; @wroteforluck]
 1. **`.me is for ME`**: Hello, my name is Duncan, see figure \@ref(fig:hello-my-name-fig). I'm your tour guide here. If you're feeling a bit lost, follow me and together we can code your future.
 
 
-```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "79%", fig.cap = "(ref:captionhellomyname)"}
+```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "89%", fig.cap = "(ref:captionhellomyname)"}
 knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 ```
 
@@ -353,7 +353,7 @@ Thanks to Niall Beard and [Sharif Salah](https://github.com/sharifsalah) at Goog
 So, thanks employers for employing our students. 🙏
 
 ### Thank you colleagues {#colleagues}
-I've also had significant support from colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)), [School of Engineering](https://www.se.manchester.ac.uk/about/schools/engineering/) and support staff at the University of Manchester. ([\@UoMCareers](https://twitter.com/UoMCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
+I've also had significant support from colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)), and all of th the schools (engineering, natural sciences, social sciences etc) and support staff at the University of Manchester. ([\@UoMCareers](https://twitter.com/UoMCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
 
 Thank you [Carole Goble](https://en.wikipedia.org/wiki/Carole_Goble) for building the community that supported me through postgraduate study. Thanks for creating the environment which this book was written in, especially the [e-Science lab](https://esciencelab.org.uk/), Information Management Group (IMG), Software Sustainability Institute ([software.ac.uk](https://software.ac.uk/)) and their spin-offs. Thanks for patiently re-teaching me how to write better by covering early drafts of my Masters thesis in red ink and less patiently (on subsequent revisions) swear words. 🤬
 
@@ -441,6 +441,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a big influence on this book had a gradual but significant effect on my personal and professional life. I've tried to distill some of the ideas into chapter \@ref(nurturing) on *Nurturing your future*
 * Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to [David Walker](https://en.wikipedia.org/wiki/David_A._Walker_(scientist)) for his book *Energy, Plants & Man* which inspired the conversations and pictures idea behind this book. [@epm]
+* Thanks to [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)) for your entertaining guest lectures for COMP101.
 
 So thanks scientists (and engineers) for being scientific and engineering. 🙏
 
@@ -575,7 +576,7 @@ knitr::include_graphics("images/european-bioinformatics-institute.jpeg")
 So thanks Cambridge for a really *[fen-tastic](https://en.wikipedia.org/wiki/The_Fens)* time in [Silicon Fen](https://en.wikipedia.org/wiki/Silicon_Fen). 🙏
 
 ### Thank you Manchester {#manchester}
-Thanks to Greater Mancunians beyond the University of Manchester: Anna, Mark Anderton, Andrea, Rob Aspin, Jon Atkinson, Charlie Ball, Paul Bason, Iain, Julian Bass, Amul Batra, Dean Belfield, Lisa Chan Brown, Martin Bryant, Gemma Cameron, Matthew Clark, Jeremy Coates, Craig, Darren Dancey, Craig Dean, Farhat Din, Anne Dornan, David Edmundson-Bird, Emily, Diana Erskine, Sherelle Fairweather, Shaun Fensom, Steven Flower, Tony Foggett, Katie Gallagher, Giles, Emma Grant, David Haikney, Mehran Jalaei, Daniel Jamieson, Matt Jarvis, Jamil Khalil, Ross Keeping, Val Kelly, Kitty, David Levine, Julie Lowndes, Tony McGrath, Chris Marsh, [Amy Mather](https://twitter.com/MiniGirlGeek), Lisa Mather, Claire McDonald, Keith Miller, Geraint North, [Alan O'Donohoe](https://twitter.com/teknoteacher), Tomas Paulik, Damian Payton, Francesco Petrogalli, Paul, Peppi, Phil, Rich, Ros, Miles Rothbury, Paul Sherwood, Howard Simms, Adrian Slatcher, Jason Souloglou, Joe Sparrow, Martyn Spink, [Katie Steckles](https://www.katiesteckles.co.uk/), Matt Squire, Julian Tait, Rob Taylor, Rachel Thompson, Tom, Andrew Toolan, Hannah Tracey, Wesley Verne, Paul Vlissidis, [Tony Walsh](https://en.wikipedia.org/wiki/Tony_Walsh_(poet)), Travis Walton, Ben Webb, Paul Wilshaw and Zoe for friendly Northern support and advice. Thanks to [Andrew Back](https://twitter.com/9600) and [Tim Harbour](https://twitter.com/timharbour) for wuthering my bytes at [wutheringbytes.com](https://wutheringbytes.com/).
+Thanks to Greater Mancunians beyond the University of Manchester: Anna, Mark Anderton, Andrea, Rob Aspin, Jon Atkinson, Charlie Ball, Paul Bason, Iain, Julian Bass, Amul Batra, Dean Belfield, Lisa Chan Brown, Martin Bryant, Gemma Cameron, Matthew Clark, Jeremy Coates, Craig, Darren Dancey, Craig Dean, Farhat Din, Anne Dornan, David Edmundson-Bird, Emily, Diana Erskine, Sherelle Fairweather, Shaun Fensom, Steven Flower, Tony Foggett, Katie Gallagher, Giles, Emma Grant, David Haikney, [Damian Hughes](https://liquidthinker.com), Mehran Jalaei, Daniel Jamieson, Matt Jarvis, Jamil Khalil, Ross Keeping, Val Kelly, Kitty, David Levine, Julie Lowndes, Tony McGrath, Chris Marsh, [Amy Mather](https://twitter.com/MiniGirlGeek), Lisa Mather, Claire McDonald, Keith Miller, Geraint North, [Alan O'Donohoe](https://twitter.com/teknoteacher), Tomas Paulik, Damian Payton, Francesco Petrogalli, Paul, Peppi, Phil, Rich, Ros, Miles Rothbury, Paul Sherwood, Howard Simms, Adrian Slatcher, Jason Souloglou, Joe Sparrow, Martyn Spink, [Katie Steckles](https://www.katiesteckles.co.uk/), Matt Squire, Julian Tait, Rob Taylor, Rachel Thompson, Tom, Andrew Toolan, Hannah Tracey, Wesley Verne, Paul Vlissidis, [Tony Walsh](https://en.wikipedia.org/wiki/Tony_Walsh_(poet)), Travis Walton, Ben Webb, Paul Wilshaw and Zoe for friendly Northern support and advice. Thanks to [Andrew Back](https://twitter.com/9600) and [Tim Harbour](https://twitter.com/timharbour) for wuthering my bytes at [wutheringbytes.com](https://wutheringbytes.com/).
 
 ```{r waggle-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionwaggle)"}
 knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
