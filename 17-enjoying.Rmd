@@ -1,31 +1,33 @@
 # Enjoying your future {#enjoying}
-Music has a deep connection to your mental health and sense of wellbeing we discussed in chapter \@ref(nurturing). Music has the ability to comfort and connect you to yourself and to others. Music provides motivation, gratification and empathy. This chapter explores that and gathers all the musical references in this guidebook into a series of playlists which are accompanied with some more explanation and context.
+Music is deeply connected to your mental health and your sense of wellbeing that we discussed in chapter \@ref(nurturing). Music has the ability to comfort and connect you to yourself and to others. It provides motivation, gratification and empathy. There's also lot of wisdom captured in the lyrics of many songs too, not just entertainment, but good advice on how you can live your life. If that wasn't enough convince you that music is important for coding your future, there's no shortage of links between mathematics and music too. [@behindthemusic]
+
+This chapter explores all the musical references in this guidebook in a series of playlists which are accompanied with some explanation and context.
 
 ```{r enjoying-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionenjoying)"}
 knitr::include_graphics("images/Enjoying-your-future.png")
 ```
 (ref:captionenjoying) Enjoying your future sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-## The Coders playlist {#coders}
-In *Hearing your Future* (chapter \@ref(hearing)) we ask our guests to recommend a tune that is important to them. These are gathered into *The Coders Playlist* and incremented with every new episode of the podcast: it's `Music++`.
+## The Coder’s playlist {#coders}
+In *Hearing your Future* (chapter \@ref(hearing)) we ask our guests to recommend a tune that is important to them. These are gathered into *The Coder’s Playlist* and incremented with every new episode of the podcast: it's `Music++`.
 
 ## Lancashire boy bands {#lancs}
-This playlist starts and ends with one of the best known Lancashire [boy bands](https://en.wikipedia.org/wiki/Boy_band) on the planet: [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) shown in figure \@ref(fig:the-beatles-fig). You will find plenty of other Lancashire lads and even the occasional Lancashire [lass](https://en.wikipedia.org/wiki/Lass) in here too. Which cities are actually in Lancashire I hear you say? Don't let the pen-pushers down at City Hall trick you into believing that:
+This playlist starts and ends with one of the best known [boy bands](https://en.wikipedia.org/wiki/Boy_band) on the planet: [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) shown in figure \@ref(fig:the-beatles-fig). You will find plenty of other Lancashire lads and even the occasional Lancashire [lass](https://en.wikipedia.org/wiki/Lass) in here too. But hang on a second, which cities are actually *in* Lancashire, I hear you say? Don't let bureaucrats trick you into believing that:
 
 * Manchester is in a place called *[Greater Manchester](https://en.wikipedia.org/wiki/Greater_Manchester)*
 * Liverpool is in a place called *[Merseyside](https://en.wikipedia.org/wiki/Merseyside)*
 
-These are *meaningless* bureaucratic abstractions, not **real places**! Liverpool and Manchester have been in [Lancashire](https://en.wikipedia.org/wiki/Lancashire) for over four hundred years. [@northerners]
+These are *meaningless* bureaucratic abstractions, not **real places**! Liverpool and Manchester have always been, and will always be, in [Lancashire](https://en.wikipedia.org/wiki/Lancashire). [@northerners]
 
 ```{r the-beatles-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionbeatles)"}
 knitr::include_graphics(rep("images/the-beatles.jpeg", 3))
 ```
 
-(ref:captionbeatles) [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [Ringo](https://en.wikipedia.org/wiki/Ringo_Starr) and [George](https://en.wikipedia.org/wiki/George_Harrison) from Liverpool, Lancashire. Public domain image of The Beatles from Wikimedia Commons at [w.wiki/5UJy](https://w.wiki/5UJy) 🌹
+(ref:captionbeatles) [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [Ringo](https://en.wikipedia.org/wiki/Ringo_Starr) and [George](https://en.wikipedia.org/wiki/George_Harrison) are from Liverpool in Lancashire. Public domain image of The Beatles from Wikimedia Commons at [w.wiki/5UJy](https://w.wiki/5UJy) 🌹
 
-Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) this playlist will inform and entertain in equal measure. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams):
+Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) this playlist wants to inform and entertain you in equal measure. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams):
 
-> Come on, let me, educate you! [@entertainyou]
+> “Come on, let me, educate you!” [@entertainyou]
 
 <!--* The Beatles
 * Gerry and the Pacemakers
@@ -51,7 +53,7 @@ Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of
 * The Lightning Seeds -->
 
 ::: {.rmdcaution}
-* **Do say:** Chippy tea, chippy tea, I wants my chippy tea [@chippytea]
+* **Do say:** Chippy tea, chippy tea, I wants my chippy tea! [@chippytea]
 * **Don't say:** But Liverpool and Manchester aren't even *in* Lancashire are they? [@mancashire]
 :::
 
@@ -62,15 +64,15 @@ This playlist celebrates [electronica](https://en.wikipedia.org/wiki/Electronica
 knitr::include_graphics(rep("images/draughts.png", 3))
 ```
 
-(ref:captiondraughts) Is this the worlds first [video game](https://en.wikipedia.org/wiki/Video_game)? Playing Christopher Strachey's draughts on a computer with a cathode ray tube in 1952. When the game finished, the computer (a [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1)) played a tune. Public domain image from Wikimedia Commons at [w.wiki/5UJs](https://w.wiki/5UJs)
+(ref:captiondraughts) Is this the worlds first [video game](https://en.wikipedia.org/wiki/Video_game)? Christopher Strachey's draughts game displayed on a cathode ray tube in 1952. When the game finished, the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) which ran the game, played a tune. Public domain image from Wikimedia Commons at [w.wiki/5UJs](https://w.wiki/5UJs)
 
-Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the Queen* [@godsavethequeen] which was played at the end of what is probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC, in which the Ferranti Mark I can be heard playing three songs:
+Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the Queen* [@godsavethequeen] which was played at the end of what is probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC, in which the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) can be heard playing three songs:
 
 1. *[God Save the Queen](https://en.wikipedia.org/wiki/God_Save_the_Queen)* [@godsavethequeen]
 1. *[Baa, Baa, Black Sheep](https://en.wikipedia.org/wiki/Baa,_Baa,_Black_Sheep)* [@baabaablacksheep]
 1. *[In the Mood](https://en.wikipedia.org/wiki/In_the_Mood)* [@inthemood]
 
-You can hear this music which was carefully restored by [Jack Copeland](https://en.wikipedia.org/wiki/Jack_Copeland) and Jason Long in 2016. [@restoringmusic]
+You can hear this music which was restored by [Jack Copeland](https://en.wikipedia.org/wiki/Jack_Copeland) and Jason Long in 2016. [@restoringmusic]
 
 Computers have been changing the way we create, distribute and listen to music ever since. Sing like no one is listening, love like you never been hurt and dance like no one is watching.
 
@@ -79,7 +81,7 @@ Computers have been changing the way we create, distribute and listen to music e
 * **Don't say:** Why can't they play *real* musical instruments, you know, analogue ones?
 :::
 ## Dad rock {#dadrock}
-Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists.
+Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists using proper musical instruments. None of this electronic nonsense thanks you very much.
 
 Cherished by men of a certain age, the Dad rock playlist thrives on past glories but is a shadow of it's former self. Proponents of Dad rock can't understand why more people don't enjoy these classic and seminal tunes of yesteryear. [@dadrock; @dadrock2]
 
@@ -91,11 +93,11 @@ Cherished by men of a certain age, the Dad rock playlist thrives on past glories
 ## Indie rock {#indie}
 Muddier than the traditional summer downpour at the [Glastonbury Festival of Contemporary Performing Arts](https://en.wikipedia.org/wiki/Glastonbury_Festival), this playlist encourages you to swing your cardigan mournfully while [shoegazing](https://en.wikipedia.org/wiki/Shoegaze) and wondering if its *ever* going to stop raining, either metaphorically or meteorologically. ☔️
 
-> [Why does it always rain on me?](https://en.wikipedia.org/wiki/Why_Does_It_Always_Rain_on_Me%3F) Is it because I lied when I was seventeen? —[Fran Healy](https://en.wikipedia.org/wiki/Fran_Healy_(musician)) [@whydoesitalwaysrainonme]
+> “[Why does it always rain on me?](https://en.wikipedia.org/wiki/Why_Does_It_Always_Rain_on_Me%3F) Is it because I lied when I was seventeen?” —[Fran Healy](https://en.wikipedia.org/wiki/Fran_Healy_(musician)) [@whydoesitalwaysrainonme]
 
 ::: {.rmdcaution}
-* **Do say:** It's indie rock and roll for me. [@indierocknroll]
-* **Don't say:** Cheer up hun, life's not *that* bad. [@depressingindie]
+* **Do say:** It's indie rock and roll for me! [@indierocknroll]
+* **Don't say:** Cheer up hun, life's not *that* bad is it? [@depressingindie]
 :::
 
 ## Thanks Jim! {#jimusic}
