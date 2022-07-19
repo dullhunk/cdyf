@@ -3,6 +3,7 @@
 cd _book
 
 # this should be in a loop or use -e argument for multiple patterns
+# having a count of replacements would be useful
 
 find . -name "*.html" -exec sed -I '' 's/index.html/https:\/\/www.cdyf.me/g' {} +
 echo "replaced index.html"
@@ -54,6 +55,9 @@ echo "replaced hacking.html "
 
 find . -name "*.html" -exec sed -I '' 's/moving.html/moving/g' {} +
 echo "replaced moving.html "
+
+find . -name "*.html" -exec sed -I '' 's/enjoying.html/enjoying/g' {} +
+echo "replaced enjoying.html "
 
 find . -name "*.html" -exec sed -I '' 's/actioning.html/actioning/g' {} +
 echo "replaced actioning.html "

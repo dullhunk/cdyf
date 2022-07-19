@@ -106,18 +106,20 @@ knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 If you're preparing to come on the show, please have a think about the following questions:
 
 ### What's your story, coding glory? {#your-story}
-> “All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade. What's your story, coding glory?” (with apologies to the Gallagher brothers see figure \@ref(fig:gallagher2-fig))
+With apologies to the Noel Gallagher and Liam Gallagher, see figure \@ref(fig:gallagher2-fig)):
+
+> “All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade. What's your story, coding glory?” --The Gallagher Brothers
 
 What's your story?
 
 * What's your name and where do you come from? [@blinddate]
 * Why did you choose to study computer science?
 * Which organisation were you employed by, why and how did you choose them
-* Tell us about your role in the organisation
+* What were the main obstacles you faced finding employment and how did you overcome them?
+* Tell us about your roles and responsibilities within the organisation
 * How did you find the job and what other jobs did they look for?
 * What were the main things you learned on placement?
 * What was the most enjoyable or rewarding part of working for your employer?
-* What was the main obstacles you faced finding employment and how did you overcome them?
 * What did you do for your final year project?
 * What comes next?
 
@@ -144,18 +146,20 @@ knitr::include_graphics("images/minority-report.jpeg")
 
 ### One tune, one podcast and one film {#otopof}
 
-We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist is clogged up with:
+We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist in chapter \@ref(enjoying) is clogged up with:
 
-* Lancashire boy bands, both the Mancs *and* the Scousers [@mancashire]
-* [DadRock](https://www.amazon.co.uk/Dad-Rock/dp/B09F6GQSKK) and [BritPop](https://en.wikipedia.org/wiki/Britpop)
-* cardigan-swinging [indie music](https://en.wikipedia.org/wiki/Indie_rock) and [shoegazing](https://en.wikipedia.org/wiki/Shoegaze)
+* Lancashire boy bands, see section \@ref(lancs)
+* [DadRock](https://www.amazon.co.uk/Dad-Rock/dp/B09F6GQSKK) and [BritPop](https://en.wikipedia.org/wiki/Britpop), see \@ref(dadrock)
+* cardigan-swinging, [shoe-gazing](https://en.wikipedia.org/wiki/Shoegaze), [glastonbury-going](https://en.wikipedia.org/wiki/Glastonbury_Festival) [indie music](https://en.wikipedia.org/wiki/Indie_rock), see \@ref(indie)
+* music made with digital computers rather than analogue instruments, see \@ref(electronica)
 * other antiquities from a bygone era [@dadrock2]
 
 So, can you recommend a:
 
-* **TUNE!** One tune to rejuvenate or internationlise up our playlist. Why is it important to you?
+* **TUNE!** One tune to rejuvenate or internationlise up our playlists. Why is it important to you?
     - Perhaps it makes you relax, feel happy or comforted?
     - Maybe it reminds you of special people, a special time or special place in your life?
+    - We'll add it to *The Coder's Playlist* in section \@ref(coders)
 * **PODCAST:** One podcast you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
