@@ -9,7 +9,11 @@ knitr::include_graphics("images/brian.jpeg")
 
 ## What's your story Brian? {#brian-story}
 
-Transcript and podcast will be published here on (ref:podcastlaunch)
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23796200/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+Full transcript will be published here in due course.
 
 ::: {.rmdcaution}
 (ref:codingcaution)

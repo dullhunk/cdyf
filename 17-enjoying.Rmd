@@ -11,13 +11,13 @@ knitr::include_graphics("images/Enjoying-your-future.png")
 ## The Coder’s playlist {#coders}
 In *Hearing your Future* (chapter \@ref(hearing)) we ask our guests to recommend a tune that is important to them. These are gathered into *The Coder’s Playlist* and incremented with every new episode of the podcast: it's `Music++`.
 
-## Lancashire boy bands {#lancs}
+## The Lancashire boy bands playlist {#lancs}
 This playlist starts and ends with one of the best known [boy bands](https://en.wikipedia.org/wiki/Boy_band) on the planet: [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) shown in figure \@ref(fig:the-beatles-fig). You will find plenty of other Lancashire lads and even the occasional Lancashire [lass](https://en.wikipedia.org/wiki/Lass) in here too. But hang on a second, which cities are actually *in* Lancashire, I hear you say? Don't let bureaucrats trick you into believing that:
 
-* Manchester is in a place called *[Greater Manchester](https://en.wikipedia.org/wiki/Greater_Manchester)*
-* Liverpool is in a place called *[Merseyside](https://en.wikipedia.org/wiki/Merseyside)*
+* Manchester is in a place called “*[Greater Manchester](https://en.wikipedia.org/wiki/Greater_Manchester)*”
+* Liverpool is in a place called “*[Merseyside](https://en.wikipedia.org/wiki/Merseyside)*”
 
-These are *meaningless* bureaucratic abstractions, not **real places**! Liverpool and Manchester have always been, and will always be, in [Lancashire](https://en.wikipedia.org/wiki/Lancashire). [@northerners]
+These are *meaningless* bureaucratic abstractions, not **real places** that people identify with! Liverpool and Manchester have always been, and will always be, in [Lancashire](https://en.wikipedia.org/wiki/Lancashire). [@northerners]
 
 ```{r the-beatles-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionbeatles)"}
 knitr::include_graphics(rep("images/the-beatles.jpeg", 3))
@@ -57,8 +57,8 @@ Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of
 * **Don't say:** But Liverpool and Manchester aren't even *in* Lancashire are they? [@mancashire]
 :::
 
-## Electronica {#electronica}
-This playlist celebrates [electronica](https://en.wikipedia.org/wiki/Electronica) and other computationally influenced music. In 1951, engineers of the [Ferranti Mark 1 computer](https://en.wikipedia.org/wiki/Ferranti_Mark_1), implemented a `hoot` function that was used to sound a prompt when input was required. Alan Turing realised that this could be reprogrammed to make different notes and created a routine that played a note of a specified pitch.
+## Turing's electro-playlist {#electronica}
+This playlist celebrates [electronica](https://en.wikipedia.org/wiki/Electronica) and other computationally influenced music. In 1951, engineers of the [Ferranti Mark 1 computer](https://en.wikipedia.org/wiki/Ferranti_Mark_1), implemented a `hoot` function that was used to sound a prompt when input was required. Alan Turing realised that this could be reprogrammed to make different notes and created a routine that played a note of a specified pitch. [@hooturing]
 
 ```{r draughts-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captiondraughts)"}
 knitr::include_graphics(rep("images/draughts.png", 3))
@@ -66,7 +66,13 @@ knitr::include_graphics(rep("images/draughts.png", 3))
 
 (ref:captiondraughts) Is this the worlds first [video game](https://en.wikipedia.org/wiki/Video_game)? Christopher Strachey's draughts game displayed on a cathode ray tube in 1952. When the game finished, the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) which ran the game, played a tune. Public domain image from Wikimedia Commons at [w.wiki/5UJs](https://w.wiki/5UJs)
 
-Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the Queen* [@godsavethequeen] which was played at the end of what is probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC, in which the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) can be heard playing three songs:
+Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the Queen* [@godsavethequeen] which was played at the end of what is probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC.
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/286040117&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>')
+```
+
+In the recording you can hear the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) computer playing three songs:
 
 1. *[God Save the Queen](https://en.wikipedia.org/wiki/God_Save_the_Queen)* [@godsavethequeen]
 1. *[Baa, Baa, Black Sheep](https://en.wikipedia.org/wiki/Baa,_Baa,_Black_Sheep)* [@baabaablacksheep]
@@ -80,8 +86,8 @@ Computers have been changing the way we create, distribute and listen to music e
 * **Do say:** Turn it up DJ!
 * **Don't say:** Why can't they play *real* musical instruments, you know, analogue ones?
 :::
-## Dad rock {#dadrock}
-Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists using proper musical instruments. None of this electronic nonsense thanks you very much.
+## The Dad rock playlist {#dadrock}
+Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists using *proper* musical instruments. None of this electronic nonsense thank you very much.
 
 Cherished by men of a certain age, the Dad rock playlist thrives on past glories but is a shadow of it's former self. Proponents of Dad rock can't understand why more people don't enjoy these classic and seminal tunes of yesteryear. [@dadrock; @dadrock2]
 
@@ -90,7 +96,7 @@ Cherished by men of a certain age, the Dad rock playlist thrives on past glories
 * **Don't say:** Oh no, not this again!
 :::
 
-## Indie rock {#indie}
+## The Indie rock playlist {#indie}
 Muddier than the traditional summer downpour at the [Glastonbury Festival of Contemporary Performing Arts](https://en.wikipedia.org/wiki/Glastonbury_Festival), this playlist encourages you to swing your cardigan mournfully while [shoegazing](https://en.wikipedia.org/wiki/Shoegaze) and wondering if its *ever* going to stop raining, either metaphorically or meteorologically. ☔️
 
 > “[Why does it always rain on me?](https://en.wikipedia.org/wiki/Why_Does_It_Always_Rain_on_Me%3F) Is it because I lied when I was seventeen?” —[Fran Healy](https://en.wikipedia.org/wiki/Fran_Healy_(musician)) [@whydoesitalwaysrainonme]
@@ -100,7 +106,7 @@ Muddier than the traditional summer downpour at the [Glastonbury Festival of Con
 * **Don't say:** Cheer up hun, life's not *that* bad is it? [@depressingindie]
 :::
 
-## Thanks Jim! {#jimusic}
+## Thanks Jim {#jimusic}
 Thanks to [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for the descriptions of the birth of electronic music installed in the Kilburn building Atlas suite shown in figure \@ref(fig:atlassuite-fig). Some of the text from these displays has been adapted and re-used in section \@ref(electronica). [@ieeemilestones]
 
 ```{r atlassuite-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionatlas)"}
