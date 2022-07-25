@@ -124,9 +124,10 @@ knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 If you're preparing to come on the show, please have a think about the following questions:
 
 ### What's your story, coding glory? {#your-story}
-With apologies to the Noel Gallagher and Liam Gallagher, see figure \@ref(fig:gallagher2-fig)):
+With apologies to the Noel Gallagher and Liam Gallagher, see figure \@ref(fig:gallagher2-fig):
 
-> “All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade. What's your story, coding glory?” --The Gallagher Brothers
+> “All your dreams are made, when you're chained to [the tracker](https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems) and the software trade...
+> What's your story, coding glory?”
 
 What's your story?
 
@@ -162,7 +163,7 @@ knitr::include_graphics("images/minority-report.jpeg")
 ```
 (ref:captionminority) *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. Are you in a minority? Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we hear from our minorities. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn)
 
-### One tune, one podcast and one film {#otopof}
+### One tune, one podcast, one book and one film {#otopof}
 
 We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist in chapter \@ref(enjoying) is clogged up with:
 
@@ -178,6 +179,7 @@ So, can you recommend a:
     - Perhaps it makes you relax, feel happy or comforted?
     - Maybe it reminds you of special people, a special time or special place in your life?
     - We'll add it to *The Coder's Playlist* in section \@ref(coders)
+* **BOOK**: One book, either fiction or non-fiction, you'd recommend to our listeners 
 * **PODCAST:** One podcast you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
@@ -192,6 +194,12 @@ Do you wish that you knew what you know now, when you were younger? Just like [R
 knitr::include_graphics("images/faces.jpeg")
 ```
 (ref:captionfaces2) Poor old grandad I laughed at all his words but I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)). [@faces] Do you wish that you knew what you know now, when you were younger? What would you tell your younger self about getting the most from University life?
+
+## Everything I had to know, I heard it on my radio {#queen}
+
+When it comes to radio and podcasting, we need to leave the last words to Freddie:
+
+> “Everything I had to know, I heard it on my radio” --[Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) [@radiogaga]
 
 ## Thanks Jez {#jez}
 This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏

@@ -9,9 +9,19 @@ knitr::include_graphics("images/Enjoying-your-future.png")
 This chapter explores all the musical references in this guidebook in a series of playlists which are accompanied with some explanation and context.
 
 ## The Coder’s playlist {#coders}
-In *Hearing your Future* (chapter \@ref(hearing)) we ask our guests to recommend a tune that is important to them. These are gathered into *The Coder’s Playlist* and incremented with every new episode of the podcast: it's `Music++`:
+In *Hearing your Future* (chapter \@ref(hearing)) we ask our guests to recommend a tune that is important to them. These are gathered into *The Coder’s Playlist* and incremented by one with every new episode of the podcast. We are the music makers and we are the dreamers of dreams.
 
-[youtube.com/playlist?list=PLyxEvjuBJhvDi4guctovrW3ncSgqoVik_](https://youtube.com/playlist?list=PLyxEvjuBJhvDi4guctovrW3ncSgqoVik_)
+```{r music-makers-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionmusicmakers)"}
+knitr::include_graphics("images/we-are-the-music-makers.jpeg")
+```
+
+(ref:captionmusicmakers)  “We are the music makers are we are the dreamers of dreams” is a much sampled lyric from [Ode](https://en.wikipedia.org/wiki/Ode_(poem)), a poem written in the 19th Century [@ode]. The poem is often credited with being the origin of the phrase [Movers and Shakers](https://en.wikipedia.org/wiki/Movers_and_Shakers). It was first re-used in music by [Edward Elgar](https://en.wikipedia.org/wiki/Edward_Elgar) in *[The Music Makers](https://en.wikipedia.org/wiki/The_Music_Makers_(Elgar))* in 1912 [@themusicmakers], and subsequently quoted by the character [Willy Wonka](https://en.wikipedia.org/wiki/Willy_Wonka) in a film adaptation [@wonka] of the children's novel *Charlie and the Chocolate Factory*. [@dahl] This sample has subsequently appeared in many recordings by artists such as [808 State](https://en.wikipedia.org/wiki/808_State) [@nephatiti] and [Aphex Twin](https://en.wikipedia.org/wiki/Aphex_Twin) [@aphextwin]. Public domain picture of an ocean wave by unknown author on Wikimedia Commons [w.wiki/5QW5](https://w.wiki/5QW5)
+
+::: {.rmdcaution}
+* **Do say:** It's `Music++`
+* **Don't say:** Music isn't important to me
+* **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvDi4guctovrW3ncSgqoVik_](https://youtube.com/playlist?list=PLyxEvjuBJhvDi4guctovrW3ncSgqoVik_)
+:::
 
 ## The Lancashire boy bands playlist {#lancs}
 This playlist starts and ends with one of the best known [boy bands](https://en.wikipedia.org/wiki/Boy_band) on the planet: [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) shown in figure \@ref(fig:the-beatles-fig). You will find plenty of other Lancashire lads and even the occasional Lancashire [lass](https://en.wikipedia.org/wiki/Lass) in here too. But hang on a second, which cities are actually *in* Lancashire, I hear you say? Don't let bureaucrats trick you into believing that:
@@ -27,9 +37,14 @@ knitr::include_graphics(rep("images/the-beatles.jpeg", 3))
 
 (ref:captionbeatles) [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [Ringo](https://en.wikipedia.org/wiki/Ringo_Starr) and [George](https://en.wikipedia.org/wiki/George_Harrison) are from Liverpool in Lancashire. Public domain image of The Beatles from Wikimedia Commons at [w.wiki/5UJy](https://w.wiki/5UJy) 🌹
 
-Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) this playlist wants to inform and entertain you in equal measure. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams):
+Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) this playlist wants to inform and entertain you in equal measure. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) show in figure \@ref(fig:robbie-williams-fig):
 
-> “Come on, let me, educate you!” [@entertainyou]
+
+```{r robbie-williams-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionrobbie)"}
+knitr::include_graphics("images/let-me-entertain-you-let-me-educate-you.jpeg")
+```
+
+(ref:captionrobbie) “Come on, let me, ~~entertain~~ educate you!” [@entertainyou]
 
 <!--* The Beatles
 * Gerry and the Pacemakers
@@ -54,11 +69,12 @@ Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of
 * The Zutons
 * The Lightning Seeds -->
 
-[youtube.com/playlist?list=PLyxEvjuBJhvDvG0TRu63n3i12kR89niFJ](https://youtube.com/playlist?list=PLyxEvjuBJhvDvG0TRu63n3i12kR89niFJ)
+
 
 ::: {.rmdcaution}
 * **Do say:** Chippy tea, chippy tea, I wants my chippy tea! [@chippytea]
 * **Don't say:** But Liverpool and Manchester aren't even *in* Lancashire are they? [@mancashire]
+* **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvDvG0TRu63n3i12kR89niFJ](https://youtube.com/playlist?list=PLyxEvjuBJhvDvG0TRu63n3i12kR89niFJ)
 :::
 
 ## Turing's electro-playlist {#electronica}
@@ -86,22 +102,22 @@ You can hear this music which was restored by [Jack Copeland](https://en.wikiped
 
 Computers have been changing the way we create, distribute and listen to music ever since. Sing like no one is listening, love like you never been hurt and dance like no one is watching:
 
-[youtube.com/playlist?list=PLyxEvjuBJhvCC2vbFMosi5l-IXPPSKwck](https://youtube.com/playlist?list=PLyxEvjuBJhvCC2vbFMosi5l-IXPPSKwck)
 
 ::: {.rmdcaution}
 * **Do say:** Turn it up DJ!
 * **Don't say:** Why can't they play *real* musical instruments, you know, analogue ones?
+* **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvCC2vbFMosi5l-IXPPSKwck](https://youtube.com/playlist?list=PLyxEvjuBJhvCC2vbFMosi5l-IXPPSKwck)
 :::
 ## The Dad rock playlist {#dadrock}
 Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists using *proper* musical instruments. None of this electronic nonsense thank you very much.
 
 Cherished by men of a certain age, the Dad rock playlist thrives on past glories but is a shadow of it's former self. Proponents of Dad rock can't understand why more people don't enjoy these classic and seminal tunes of yesteryear [@dadrock; @dadrock2]:
 
-[youtube.com/playlist?list=PLyxEvjuBJhvDUyr9hPvUP3IeriN8aaTW0](https://www.youtube.com/playlist?list=PLyxEvjuBJhvDUyr9hPvUP3IeriN8aaTW0)
 
 ::: {.rmdcaution}
 * **Do say:** Expiry date: What expiry date? Good music like this is timeless!
 * **Don't say:** Oh no, not this again!
+* **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvDUyr9hPvUP3IeriN8aaTW0](https://www.youtube.com/playlist?list=PLyxEvjuBJhvDUyr9hPvUP3IeriN8aaTW0)
 :::
 
 ## The Indie rock playlist {#indie}
@@ -109,11 +125,11 @@ Muddier than the traditional summer downpour at the [Glastonbury Festival of Con
 
 > “[Why does it always rain on me?](https://en.wikipedia.org/wiki/Why_Does_It_Always_Rain_on_Me%3F) Is it because I lied when I was seventeen?” —[Fran Healy](https://en.wikipedia.org/wiki/Fran_Healy_(musician)) [@whydoesitalwaysrainonme]
 
-[youtube.com/playlist?list=PLyxEvjuBJhvBUO8jaKvJtZLuXfnKc8iz3](https://youtube.com/playlist?list=PLyxEvjuBJhvBUO8jaKvJtZLuXfnKc8iz3)
 
 ::: {.rmdcaution}
 * **Do say:** It's indie rock and roll for me! [@indierocknroll]
 * **Don't say:** Cheer up hun, life's not *that* bad is it? [@depressingindie]
+* **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvBUO8jaKvJtZLuXfnKc8iz3](https://youtube.com/playlist?list=PLyxEvjuBJhvBUO8jaKvJtZLuXfnKc8iz3)
 :::
 
 ## Thanks Jim {#jimusic}
