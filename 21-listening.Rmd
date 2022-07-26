@@ -25,7 +25,7 @@ Find out more by listening here or subscribing wherever you get your podcasts...
 
 ## Subscribing to your future {#subscribing}
 
-You can subscribe by searching for `Coding your Future` or `Hearing your Future` in your podcast application. You will see the logo shown in figure \@ref(fig:hearing-fig) when you find it, or you can just follow one of the links below to your favourite podcast tool:
+You can subscribe (for free!) by following one of the links below to your favourite podcast tool. Alternatively you can search for `Coding your Future` or `Hearing your Future` in your podcast application. You will see the logo shown in figure \@ref(fig:hearing-fig) when you find it.
 
 * Spotify: [open.spotify.com/show/30p4f1iI8hICkJJmey1bS1](https://open.spotify.com/show/30p4f1iI8hICkJJmey1bS1)
 * Apple: [podcasts.apple.com/us/podcast/coding-your-future...](https://podcasts.apple.com/us/podcast/coding-your-future/id1632252996)
@@ -34,7 +34,7 @@ You can subscribe by searching for `Coding your Future` or `Hearing your Future`
 * Deezer: [deezer.com/en/show/3839607](https://www.deezer.com/en/show/3839607)
 * Podcast homepage: [codingyourfuture.libsyn.com](https://codingyourfuture.libsyn.com/)
 
-Alternatively you can cut-and-paste the raw `rss` feed URL below into your podcast app:
+If all else fails, you can cut-and-paste the raw `rss` feed URL below into the relevant settings on your podcast app:
 
 ```md
 http://feeds.libsyn.com/299189/rss
@@ -152,7 +152,7 @@ knitr::include_graphics("images/whats-the-story.jpeg")
 This is an optional question taken from the title of the [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) novel *[The Minority Report](https://en.wikipedia.org/wiki/The_Minority_Report)* and subsequent film adaptation, see figure \@ref(fig:minority-fig). Minority report asks our guests:
 
 * Do you consider yourself to be a member of a minority group?
-* If so which one(s), see section \@ref(protected) and \@ref(genderid)?
+* If so which one(s) are you happy to discuss, see section \@ref(protected) and \@ref(genderid)?
 * What has your experience been of being in a minority at University and in the workplace?
 * How can the teaching and learning of computer science be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group(s)?
 * What else can universities do to make campuses more welcoming to members of your minority group(s)?
@@ -179,7 +179,7 @@ So, can you recommend a:
     - Perhaps it makes you relax, feel happy or comforted?
     - Maybe it reminds you of special people, a special time or special place in your life?
     - We'll add it to *The Coder's Playlist* in section \@ref(coders)
-* **BOOK**: One book, either fiction or non-fiction, you'd recommend to our listeners 
+* **BOOK**: One book, either fiction or non-fiction, you'd recommend our listeners read
 * **PODCAST:** One podcast you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
@@ -197,11 +197,16 @@ knitr::include_graphics("images/faces.jpeg")
 
 ## Everything I had to know, I heard it on my radio {#queen}
 
-When it comes to radio and podcasting, we need to leave the last words to Freddie:
+Did video kill the radio star [@videokilled] because everything I had to know, I heard it on my radio, see figure \@ref(fig:gaga-fig)
 
-> “Everything I had to know, I heard it on my radio” --[Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) [@radiogaga]
+```{r gaga-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongaga)"}
+knitr::include_graphics("images/Everything-I-had-to-know-I-heard-it-on-my-radio.jpeg")
+```
 
-## Thanks Jez {#jez}
+(ref:captiongaga) “Everything I had to know, I heard it on my radio” --[Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) [@radiogaga] All we hear is [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga), a nostalgic defence of radio, commenting on television overtaking radio's popularity.
+
+
+### Thanks Jez {#jez}
 This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏
 
 ```{r jez-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionjez)", dev='png'}

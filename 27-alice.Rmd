@@ -1,0 +1,12 @@
+# Alice {#alice}
+
+Meet Alice Păcuraru, see figure \@ref(fig:alice-fig) she graduated with a Bachelor of Science degree in Computer Science with Business and Management and Industrial Experience in 2022.
+
+```{r alice-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionalice)"}
+knitr::include_graphics("images/alice.jpeg")
+```
+(ref:captionalice) Alice Păcuraru. Picture reused from [linkedin.com/in/alexandra-pacuraru](https://uk.linkedin.com/in/alexandra-pacuraru) with permission, thanks Alice.
+
+## What's your story Alice? {#alice-story}
+
+Podcast episode and transcript to appear here
