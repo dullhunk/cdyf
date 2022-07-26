@@ -181,7 +181,7 @@ Being mindful of any privileges that you have is not just a part of your identit
 
 ### Deathbed thought experiment {#regrets}
 
-Imagine for a moment you are on your deathbed. Not at some point in the future, but right now. Your heart (see figure \@ref(fig:heart-fig)), which has served you well until now, starts behaving strangely. You start having palpitations and worry what's going on with the muscle responsible for keeping you alive. Worst case scenario is, your time is up. This happened to me and its a useful [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment) to force you to think about what matters in your life. [@deathbed]
+Imagine for a moment you are on your deathbed. Not at some point in the future, but right now. Your heart (see figure \@ref(fig:heart-fig)), which has served you well until now, starts behaving strangely. You start having palpitations, hearing your heartbeat [@elektrokardiogramm] and worry what's going on with the muscle responsible for keeping you alive. Worst case scenario is, your time is up. This happened to me and its a useful [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment) to force you to think about what matters in your life. [@deathbed]
 
 ```{r heart-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionheart)"}
 knitr::include_graphics("images/your-beating-heart.gif")
