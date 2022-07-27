@@ -161,16 +161,16 @@ This is an optional question taken from the title of the [Philip K. Dick](https:
 ```{r minority-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionminority)"}
 knitr::include_graphics("images/minority-report.jpeg")
 ```
-(ref:captionminority) *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. Are you in a minority? Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we hear from our minorities. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn)
+(ref:captionminority) Are you in a minority?  Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we'll hear from some of our minorities. *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn)
 
 ### One tune, one podcast, one book and one film {#otopof}
 
 We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist in chapter \@ref(enjoying) is clogged up with:
 
 * Lancashire boy bands, see section \@ref(lancs)
-* [DadRock](https://www.amazon.co.uk/Dad-Rock/dp/B09F6GQSKK) and [BritPop](https://en.wikipedia.org/wiki/Britpop), see \@ref(dadrock)
-* cardigan-swinging, [shoe-gazing](https://en.wikipedia.org/wiki/Shoegaze), [glastonbury-going](https://en.wikipedia.org/wiki/Glastonbury_Festival) [indie music](https://en.wikipedia.org/wiki/Indie_rock), see \@ref(indie)
-* music made with digital computers rather than analogue instruments, see \@ref(electronica)
+* [DadRock](https://www.amazon.co.uk/Dad-Rock/dp/B09F6GQSKK) and [BritPop](https://en.wikipedia.org/wiki/Britpop), see section \@ref(dadrock)
+* cardigan-swinging, [shoe-gazing](https://en.wikipedia.org/wiki/Shoegaze), [glastonbury-going](https://en.wikipedia.org/wiki/Glastonbury_Festival) [indie music](https://en.wikipedia.org/wiki/Indie_rock), see section \@ref(indie)
+* music made with digital computers rather than analogue instruments, see section  \@ref(electronica)
 * other antiquities from a bygone era [@dadrock2]
 
 So, can you recommend a:
@@ -202,7 +202,7 @@ We'll leave the last words on podcasting to *[The Buggles](https://en.wikipedia.
 knitr::include_graphics("images/Everything-I-had-to-know-I-heard-it-on-my-radio.jpeg")
 ```
 
-(ref:captiongaga) “Everything I had to know, I heard it on my radio” --[Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury) [@radiogaga] All we hear is [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga), a nostalgic defence of the radio format.
+(ref:captiongaga) All we hear is [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga) but everything I had to know, I heard it on my radio. [@radiogaga]  
 
 ### Thanks Jez {#jez}
 This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏
