@@ -111,7 +111,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 YOUR FUTURE WANTS YOU: Join your future! If you'd like to be interviewed for the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact), see figure \@ref(fig:yfnu-fig). Besides interviewing current graduates, I'm interested in speaking to former graduates, especially if you:
 
 * completed a placement or internship(s) as an undergraduate or postgraduate
-* consider yourself to be part of a minority group
+* consider yourself to be part of a minority or under-represented group
 
 I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1968. 🎓 [@babygrowsup]
 
@@ -151,7 +151,7 @@ knitr::include_graphics("images/whats-the-story.jpeg")
 ### Minority report {#minority}
 This is an optional question taken from the title of the [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) novel *[The Minority Report](https://en.wikipedia.org/wiki/The_Minority_Report)* and subsequent film adaptation, see figure \@ref(fig:minority-fig). Minority report asks our guests:
 
-* Do you consider yourself to be a member of a minority group?
+* Do you consider yourself to be a member of an under-represented or minority group?
 * If so which one(s) are you happy to discuss, see section \@ref(protected) and \@ref(genderid)?
 * What has your experience been of being in a minority at University and in the workplace?
 * How can the teaching and learning of computer science be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group(s)?
@@ -163,7 +163,7 @@ knitr::include_graphics("images/minority-report.jpeg")
 ```
 (ref:captionminority) Are you in a minority?  Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we'll hear from some of our minorities. *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn)
 
-### One tune, one podcast, one book and one film {#otopof}
+### One tune, one podcast and one film {#otopof}
 
 We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist in chapter \@ref(enjoying) is clogged up with:
 
@@ -179,8 +179,7 @@ So, can you recommend a:
     - Perhaps it makes you relax, feel happy or comforted?
     - Maybe it reminds you of special people, a special time or special place in your life?
     - We'll add it to *The Coder's Playlist* in section \@ref(coders)
-* **BOOK**: One book, either fiction or non-fiction, you'd recommend our listeners read
-* **PODCAST:** One podcast you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
+* **PODCAST:** One podcast (or audiobook) you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
 ### Time traveller {#your-time}
@@ -195,8 +194,8 @@ knitr::include_graphics("images/faces.jpeg")
 ```
 (ref:captionfaces2) Poor old grandad I laughed at all his words but I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)). [@faces] Do you wish that you knew what you know now, when you were younger? What would you tell your younger self about getting the most from University life?
 
-## Everything I had to know, I heard it on my radio {#queen}
-We'll leave the last words on podcasting to *[The Buggles](https://en.wikipedia.org/wiki/The_Buggles)* and *[Queen](https://en.wikipedia.org/wiki/Queen_(band))*. Podcasting is just another name for radio but did video kill the radio star? [@videokilled] What if everything you had to know, you could hear it on your radio, see figure \@ref(fig:gaga-fig)?
+## Everything I had to know, I heard it on my radio {#radio}
+We'll leave the last words on podcasting to *[The Buggles](https://en.wikipedia.org/wiki/The_Buggles)* and *[Queen](https://en.wikipedia.org/wiki/Queen_(band))*. Podcasting an evolution and mutation of radio but did video kill the radio star? [@videokilled] What if everything you had to know, you could hear it on your radio, see figure \@ref(fig:gaga-fig)? Tune in to find out.
 
 ```{r gaga-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongaga)"}
 knitr::include_graphics("images/Everything-I-had-to-know-I-heard-it-on-my-radio.jpeg")

@@ -46,7 +46,7 @@ knitr::include_graphics("images/alicequotation.jpeg")
 Pictures tell stories, pictures explain. Pictures help you understand. Pictures help you imagine. So this book uses pictures (and conversations) to help you visualise your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
 
 ## Your future aims {#vaccine}
-This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients, `C`, `D`, `Y`, `F` and `.me`:
+This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients: **`C`**, **`D`**, **`Y`**, **`F`** and `.me`:
 
 1. **`C is for CODE`**: Instructions, algorithms, recipes, methods and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
 1. **`D is for DATA`**: Data, data everywhere. Facts, statistics, graphs and pictures collected together for your analysis
@@ -463,7 +463,7 @@ knitr::include_graphics("images/bath-panorama.jpeg")
 So thanks Bath for the initial teacher training (ITT), [TeamBath™](https://www.teambath.com/), the medicinal [Aquae Sulis](https://en.wikipedia.org/wiki/Aquae_Sulis) and the beautiful [Cotswolds](https://en.wikipedia.org/wiki/Cotswolds) Area of Outstanding Natural Beauty ([AONB](https://en.wikipedia.org/wiki/Area_of_Outstanding_Natural_Beauty)). 🙏
 
 ### Thank you Shaftesbury {#shaftesbury}
-Thanks to Chris Almond, David Ball, David Booth, Caroline Dallimore, Stuart Ferguson, Caroline Moss, Mr Travers and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement, see figure \@ref(fig:shaft-fig). Thanks also to my fellow Shaftesbury and Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing their knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning) and [peer instruction](https://en.wikipedia.org/wiki/Peer_instruction). Thanks Joan for keeping me awake on the long and winding west country roads to and from deepest darkest Dorset. Thanks for sharing the heavy burden of driving too.
+Thanks to Chris Almond, David Ball, David Booth, Caroline Dallimore, Stuart Ferguson, Caroline Moss, Mr Travers and all the other staff and students at [Shaftesbury School](https://en.wikipedia.org/wiki/Shaftesbury_School) who hosted my first PGCE teaching placement, see figure \@ref(fig:shaft-fig). Thanks also to my fellow Shaftesbury and Bath trainees Katharine Platt, Harriet Edwards, Vicky Dury and Joan Shaw for sharing your knowledge through [peer learning](https://en.wikipedia.org/wiki/Peer_learning) and [peer instruction](https://en.wikipedia.org/wiki/Peer_instruction). Thanks Joan for keeping me awake on the long and winding west country roads to and from [deepest darkest Dorset](https://en.wikipedia.org/wiki/Dorset). Thanks for sharing the heavy burden of driving too.
 
 ```{r shaft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshaftesbury)"}
 knitr::include_graphics("images/shaftesbury.jpg")
@@ -770,7 +770,7 @@ Special thanks to former St Laurence school student and [current sixth form head
 ```{r uptown-funk-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionuptown)"}
 knitr::include_graphics("images/youtube-mocs-uptown-funk.png")
 ```
-(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) in Wiltshire dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM) [@uptownfunk]
+(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) in Wiltshire dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM) [@uptownfunk; @blowers]
 
 Thanks to all my teachers at St Laurence school, some of whom can be seen in figure \@ref(fig:fitzmaurice-fig).
 

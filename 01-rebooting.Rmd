@@ -268,7 +268,7 @@ I'm writing this guidebook because I need a resource for students to help them d
 | - Video and audio is separate to book       | - Video and audio is integrated & embedded  |       
 +---------------------------------------------+--------------------------------------------+
 | - **Divorced** from any curriculum          | - **Married**^[computationally wedded to the curriculum with kids and a mortgage] to the computing curriculum  |
-| - Not used for teaching                     | - Course textbook for COMP2CARS, embedded in the curriculum <!--link-->  |
+| - (ref:notusedforteaching) | - Course textbook for COMP2CARS, embedded in the curriculum <!--link-->  |
 | - (ref:doingitwrong)                        | - Tailored to computing careers, see chapter \@ref(computing) and \@ref(broadening)|
 +---------------------------------------------+--------------------------------------------+
 | - **Institution centred**: (ref:institution)| - **Student centred**: (ref:agnostic)      |
@@ -284,7 +284,11 @@ I'm writing this guidebook because I need a resource for students to help them d
 
 (ref:agnostic) agnostic to institutions, employers and advertisers
 
-(ref:doingitwrong) One-size-fits-all: career and discipline agnostic
+
+(ref:notusedforteaching) Not used for teaching, not embedded in curriculum
+
+
+(ref:doingitwrong) One-size-fits-all, generic, career and discipline agnostic
 
 (ref:studentvoice) Includes [student voice](https://en.wikipedia.org/wiki/Student_voice), see section \@ref(contributing) and chapter \@ref(hearing)
 
