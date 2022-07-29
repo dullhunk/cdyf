@@ -7,6 +7,8 @@ knitr::include_graphics("images/jason.jpeg")
 ```
 (ref:captionjason) Jason Ozuzu. Picture reused with permission from [linkedin.com/in/jason-ozuzu-a87049173](https://www.linkedin.com/in/jason-ozuzu-a87049173/), thanks Jason.
 
+(ref:podcastblurb)
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23795996/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
@@ -38,7 +40,7 @@ So, you did physics, maths and computer science?
 So it's doing A level that made, you think, actually, this is an interesting subject I like to do. I'd like to take further than just A-level.
 
 
-> Jason: exactly, exactly exactly.
+> Jason: exactly
 
 ## Morgan Stanley {#jstanley}
 
@@ -48,7 +50,7 @@ Okay, interesting. So, and then so your story your arrived here, four years ago,
 
 So that was all online. I guess.
 
-> Jason: Exactly. Exactly
+> Jason: Exactly.
 
 Were you in London or Manchester?
 
@@ -61,7 +63,7 @@ Did, you do a rotation? Did you do two six months (rotations)?
 
 FX is?
 
-> Jason: So that's foreign exchange for "forex". Forex essentially. So. Yeah, working like the currency, the currency exchange system systems and stuff like that. So yeah. I was able to learn, you know, a lot on both sides. I think the first one, the first rotation was kind of like a research. You type project what else kind of doing you know, some AI  type stuff. Second rotation was more of a this traditional softeng role, I was kind of clearing out tickets. Just helping out of different bits and bobs, didn't really do anything, but specifically, I kind of just part of the software engineering team and this helped out and then I guess after my placement actually.
+> Jason: So that's [foreign exchange](https://en.wikipedia.org/wiki/Foreign_exchange_market) for "forex". Forex essentially. So. Yeah, working like the currency, the currency exchange system systems and stuff like that. So yeah. I was able to learn, you know, a lot on both sides. I think the first one, the first rotation was kind of like a research. You type project what else kind of doing you know, some AI  type stuff. Second rotation was more of a this traditional softeng role, I was kind of clearing out tickets. Just helping out of different bits and bobs, didn't really do anything, but specifically, I kind of just part of the software engineering team and this helped out and then I guess after my placement actually.
 
 So back to, because this is quite interesting for now economics. So a lot of people who do software engineering placements in banks like Morgan Stanley, Investment banks, like Morgan Stanley won't necessarily have any financial knowledge. So, how useful was your economics?
 
@@ -179,11 +181,11 @@ Yeah. Yeah
 
 Because I think computer science, regardless, whatever your gender or race or whatever. I thin computer science, sometimes people don't feel like they belong, right? So it's kind of making people feel like you belong here, whoever you are, and whatever your background, whatever you're interested in. Computer science is a subject that is for everyone. And it doesn't quite have that appeal or maybe no subject does really truly, but making it more appealing to a wider group of people would be beneficial for everyone. Difficult to get there.
 
->Jason: Yeah, exactly. Exactly. But yeah, in general, I'd say that experience has been I think in university in general,  think the UoM I think the stats are like, less than 3% of the student population is like black or anything like that.
+>Jason: Yeah, exactly. But yeah, in general, I'd say that experience has been I think in university in general,  think the UoM I think the stats are like, less than 3% of the student population is like black or anything like that.
 
 So the proportion in computer science pretty much reflects that.
 
->Jason Yeah, university. Exactly, exactly. This aren't many black people in.
+>Jason Yeah, university. Exactly. This aren't many black people in.
 
 The thing that really hit me was when you were in Morgan Stanley and you posted something on LinkedIn [@jasontimes] with your picture in [Times Square](https://en.wikipedia.org/wiki/Times_Square) (New York, see figure \@ref(fig:timesq-fig)).
 
@@ -200,7 +202,7 @@ I've visited investment banks and that was when it kind of hit me. I hadn't real
 
 Oh, I recognise him. How white that world is, its a very privileged world, there's lots of money but it's also very very white.
 
-> Jason: Exactly, exactly. And I think, I think that could hold some people from, like my kind of background back, people might grow up in like pretty black areas. A lot of people, their schools, all kind of look like them. And then they kind of shunted into the professional environment and they're not even, they haven't really had many interactions right people in general. Yeah. So that can be that can be issue for some people as well. Like thankfully I went to a pretty like diverse school. I got a pretty good mix of people at my school. I know people who like, in London they went to schools which would maybe night, 80 or 90% black. So it's kind of like when they do kind of come to university and kind of leave that bubble, it's they can feel bit out of place. Yeah, that can definitely be an issue.
+> Jason: Exactly. And I think, I think that could hold some people from, like my kind of background back, people might grow up in like pretty black areas. A lot of people, their schools, all kind of look like them. And then they kind of shunted into the professional environment and they're not even, they haven't really had many interactions right people in general. Yeah. So that can be that can be issue for some people as well. Like thankfully I went to a pretty like diverse school. I got a pretty good mix of people at my school. I know people who like, in London they went to schools which would maybe night, 80 or 90% black. So it's kind of like when they do kind of come to university and kind of leave that bubble, it's they can feel bit out of place. Yeah, that can definitely be an issue.
 
 I know in the US they have universities that are much more traditionally black, (see [Historically black colleges and universities](https://en.wikipedia.org/wiki/Historically_black_colleges_and_universities) (HBCUs)) and we don't again really have that is kind of yeah, strange on that.
 
@@ -218,7 +220,7 @@ You have to be a genius programmer!
 One of my colleagues talks about learning, it's like sedimentation. It's like things settle slowly. You're not just going to get it straight away. It might take months, maybe even years to get it. For some subjects to actually click.
 
 
-> Jason: Exactly. Exactly what I think. A lot of people that I've spoken to try and get into tech and try and do coding. They could they do code for maybe like maybe two three weeks and then like yeah, I couldn't figure out. All right. You kind of need to do. Maybe I think you can't even say you've really given it a try until maybe six months. I say, three to six months of actual of graft and then maybe you can now, say, okay? Maybe this is or isn't for me.
+> Jason: Exactly. What I think, a lot of people that I've spoken to try and get into tech and try and do coding. They could they do code for maybe like maybe two three weeks and then like yeah, I couldn't figure out. All right. You kind of need to do. Maybe I think you can't even say you've really given it a try until maybe six months. I say, three to six months of actual of graft and then maybe you can now, say, okay? Maybe this is or isn't for me.
 
 ## One Tune
 

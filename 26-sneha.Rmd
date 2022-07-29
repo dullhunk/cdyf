@@ -7,14 +7,198 @@ knitr::include_graphics("images/sneha.jpeg")
 ```
 (ref:captionsneha) Sneha Kandane. Picture reused from [linkedin.com/in/sneha-kandane-931346183](https://www.linkedin.com/in/sneha-kandane-931346183/) with permission, thanks Sneha.
 
-## What's your story Sneha? {#sneha-story}
+(ref:podcastblurb)
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23798123/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
+## What's your story Sneha? {#sneha-story}
 
-A draught of the [machine generated transcript](https://github.com/dullhunk/cdyf/blob/master/26-sneha.md) is available but needs more editing.
+So, Welcome Sneha, Thank you for coming on the show. Let's start with, tell us a little bit about yourself and where you come from?
+
+> Sneha: So my name is Sneha, like you said,  I've just finished so I'm so excited. Just graduated my bachelor of Science in computer science with a year in industry from the University of Manchester. I'm actually from Manchester, this is like my hometown and but originally grew up here.
+
+You grew up in Manchester?
+
+> Sneha: since I'm like three years old, right? Well, okay. But I was like, originally I born in India but like my whole life has been in Manchester. A little bit about me.
+
+Good. Okay, so the next question is I'm really interested to find out why why people study computing because there's lots of routes into it as a subject. So what was it that made you think this is something I'd like to spend three or four years at university doing
+
+> Sneha: so I to it wasn't like I'm it wasn't something. I was always like oh this is my calling, you know, this is my this is the field of my choice. I was thinking of various things but I am it may not be as like exciting of a story but genuinely just going through that like that window. Sorry. Yeah, that's going past carry on. So like, it's not as exciting, but like, that whole going through the education process from like GCSE and then to like a level and then, you know, at that point I I think I had that good firm like but you know that ground that footwork. So that's really helped because, you know, it made that I had that incremental kind of development when it came to the subject and then like obviously I enjoyed don't a bit of computing,
+
+You did on a GCSE in computing?
+
+> Sneha: Yes. And A-level as well. Yeah, right. Okay, so I did both That's just because my school offered it I thought you know why not but before I didn't have any like in primary school and nothing but I think that really helped so because like I enjoyed it and then also like you know I did do well in it. I thought you know this is maybe like you know a good and it has obviously good prospect as a field and like another thing I always say is it has that right balance between the creativity and like you know problem solving and trying to get you to use your brain because I like my creative sides. I'm very like, you know, artistic I do a lot of artwork and things. And so this was like, you know, kind of an outlet in some sense as well. And like, that progressive nature of the subject means, like, you know, you start off small and you get bigger and bigger and bigger, and you get feedback as you go through those steps. So I really enjoyed, you know, right? Especially programming, you write a piece of code and then it does something and you kind of see it, you know, quite instantly like, you know, not always but like, quite most of the time usually, see it doing something and that gives you that  gratification. So that was probably the reason why
+
+Good. Okay. You studied computer science in your first year and then at the beginning of the second year you decided to do a placement. Was it something you decided before you came or is it something you decided when you got here? You thought actually I'd like to do a placement?
+
+> Sneha: So actually, so what happened was I was on the bachelor's, you know, your standard three year bachelor's course. And then I came into the interview day and that's when they introduced  what an industrial placement  is I never even knew what that meant and they explained what it was to me and I thought hey that actually sounds really useful. So on my interview day after that, I spoke to one of the people there and I said, like do you think I could change? So they told me to just email someone and that's how like I, you know, switched onto it.
+
+## Matillion {#matillion}
+
+So the beginning of your second year, you started looking for placements or did you have any experience before then,  any kind of in? So you going in? I think that's most people. I like that. Yeah.
+
+> Sneha: Kind of get your second year and it's like, I want to get some experience now.
+
+So how did you go about choosing somewhere to work? The interesting thing is that different people have different obstacles they face when they find a job. So what were the obstacles you came across and how did you get around them?
+
+> So, like some obstacles, obviously,  finding them . Finding one (where) they like you and you like them as well, obviously there's always that they have to choose you, but you also have to, choose them. So, it's that kind of liking towards the company. So there were companies, I applied for and things, but they, if I had got a placement, it would have just been for the sake of, getting a placement there rather than I actually enjoy, you know, I'd want to work there and I'm like, obviously you have your like challenges of like, you know, the interviews and the coding assessments (see section \@ref(codinginterview)) and all of these like things especially for me because I never really did. This is like my first job like ever, like even like, you know, no part-time job previously. So, like this is all fresh new to me. So, just knowing how to navigate that. I made the mistake of not maybe applying to loads, I know loads people who just applied to like a ton. So if I'd go back, I would apply to way more than I did. So, you know, just and also, I'm very timid, so I got really scared and overwhelmed. So actually putting my foot forward to just apply. That was a challenge.
+
+Jump in the water and see what happens?
+
+> Sneha: Exactly. That was quite challenging but and also the coding assessments were , obviously you do that throughout, you know, your years of programming, but actually being like, you know, this, you're gonna get a job based on this. It never experienced. That's, that was another challenge.
+
+Yeah, definitely. So when what was I mean, I guess you, you must have had some unsuccessful interviews>
+
+> Sneha: Did you know, most people get quite a few rejections.
+
+Don't they see how you had some rejections? I guess was location of factor. Use of trying to target a particular location. Or will you anywhere in the UK? Or I
+
+
+> I genuinely didn't mind. I mean, I I didn't apply outside of the UK. I was all within the UK but I wasn't like like to pick you if it was like Manchester or elsewhere like I didn't mind. Right?
+
+Okay.
+
+> Sneha: So the company ended up working for was a Matillion. It's in Manchester's.
+
+So can you tell us about what Matillion does?
+
+
+> Sneha: So Matillion's focus is data transformation. ([Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)) So for cloud data warehouses, so it helps  companies transform their data, especially, to move it to the cloud and it provides that kind of like middle kind of software (middleware) that like the product basically helps take the data, you know, extract it from wherever their company may have their data transform it like it allows the company to transform in a way they see fit. And then, you know, we work with like a AWS (Amazon Web Services) and  Google BigQuery and my Microsoft Azure to like, you know, their day to warehouses, is to keep them all the data there. And I also other products help like analyse data and, like, in the cloud and help, you know, people be able to, like,
+
+What was your particular role you there?
+
+> Sneha: I was a so going in as a placement software engineer. So, the good thing was, I wasn't even treated as a placement software engineer. I was just treated as a normal software engineer, in the sense that my work wasn't separate like in, like, oh, you can do this little project on the side. It was very much. You're on the product and you're gonna impact as much as anyone else. Yeah. That's good. To be to be a part of the team. Yeah, not
+
+not sort of somebody's making cups of tea?
+
+> Sneha: Exactly.
+
+So what would you say the main things you learn from your placement?
+
+> Sneha: You learn a whole lot of stuff at university, using the main things you've got out for your placement work. So like you for like so you have the educational side where that I learnt a lot about you know, software engineering practices because during uni you learn a lot of theory and learn a lot (about) developing your programming skills and everything. But you know in a practical industrial level, you never really see that side until maybe  third year. But before that, I never really got that. So actually how the industry works, how a company a software company works that was what was introduced and I thought that was very interesting and, like different that definitely like, you know, it we did the whole software engineering module in year two. It was like kind of applying those principles but it also helped me kind of understand agile practices more which really helped in third year and just how to co-operate with different team members and when you're working on such a big like, you know, this is not just a small repo, it's huge and you're working on a big  product, like how that goes, what the process is like, obviously, you can't affect something. So, dangerously. So you, there's a whole protocol and you kind of learn about these things and, you know, what's the most efficient thing for a team. But also on the other side is just like personally I got a lot of communication like, you know, I built that communication a skill and then also just like ownership of the work that I did because I understood, you know, this is gonna impact something bigger than just, maybe like a coursework in like, you know, university. So you have to really put your effort into it and it's more than just something for you. It's something bigger. So, you know, taking responsibility and also the good thing about the company I work for is that they, you know, encouraged even me who's just like a placement, like, and software engineer. It's like, actually coming to meetings. Give my say and like that can actually have an impact on the company. So they, I think that's okay. And I guess a lot of cloud stuff as well because you've done some theory of the cloud stuff, but actually using it using AWS to in using GCP (Google Cloud Platform) and things like that to do to do stuff. Yes. Customers in your experience as well. Oh, for sure. So most enjoyable partner.
+
+Maybe you've covered that already but what was the most enjoyable thing about working. Apart from being paid!
+
+
+> Sneha: That was amazing. I think with the me it was. So one thing that kind of was a bit sad for my placement was completely remote because of COVID Obviously. Yeah. So placement was just like all like I was just confined to my desk and the people yeah at home and people I met was just like my team and that was about it. But even despite that the social life of the company was like, they were really trying the hardest. So you know that actually did help because everyone is super friendly. I think also because it's not a huge company. Everyone's very homely, everyone just really wants to try and make everyone feel welcome. So I really enjoyed the culture that was the, I think that that's the biggest reason why I like this. Come, I chose the company because the culture was just super like sweet, everyone was nice and they really want to like better. You like you know, help you out. So, you everyone just willing to help no, major big pressure, Obviously, this responsibility, but nothing, you never felt bad about anything and that learning environment. They always encourage you to work. So once every month, they'd encourage us to just stop with our work and just learn something they we had [udemy](https://www.udemy.com/) available to us. So I started learning courses on that. So I think it was just the extra things aside from just work.Yeah, that really I made it
+
+Culture is important I think some people sometimes lose sight of that. It's just kind of just look at the bottom line with how much are they paying?
+
+> Sneha Yeah.
+
+And sometimes I think sometimes an interview can be quite hard to work out what the culture is actually like until you actually start there and but it was good to hear you had a good experience of that. So you came back to university, so come back from doing a placement back to university doing your final year project. And so can you tell us a little bit about your final year project? But for our listeners. Can you tell us a little bit about what you to feel?
+
+> Sneha:  Yes, so my final year project was coding their future and my supervisor was you! So, the final year project basically looked into the current state of secondary school, education of computer science and the focus I wanted to take with it was identifying potential problems or issues with the current, state of the education potentially, even the curriculum and then finding actual practical solutions for teaching because currently, the uptake of it is very low. So how can we make that, you know, much better. And so the way that was done, was I worked with a school and a class and trialled different teaching methods, how different materials make create a different materials, used hardware and various other resources to enthuse the students to actually enjoy computer science rather than just have to do it because it's part of the school curriculum
+
+Yes, did you find going back into school? Because it's very different, isn't it being at the front of the classroom? As opposed to being *in* the classroom as a student. So, how was that? How did you find that?
+
+> Sneha: it was actually surreal because I actually went back to my high school with my computer science teacher. So, it was really weird that now I'm working with my teacher rather than as a student. So, teaching the students, I think I was slightly like blessed in a sense, because the class were really nice. They were all willing to learn. They weren't super disruptive. Obviously, there were some characters, but, you know, the teacher was there to like, you know, calm down. Do the behaviour control kind of thing. But it was very interesting to see how they responded. And I was actually very surprised to see, like some of the trends, you know, of how they reacted to different things. And, but also because I taught year 9 class, some of them, that's when you choose your options, some of them kind of like, knew coming in, they weren't gonna pick computer science. So they didn't think to try. So that was slightly (a) struggle when you're trying to, you know, get them to do stuff but they don't want to because they know they aren't interested. So that was slightly, you know,
+
+A bit of a battle.
+
+> sneha: Yeah.
+
+Ongoing battle. I suppose?
+
+
+> sneha: Yeah
+
+Good. Okay. So what comes next? So you're graduating next week?
+
+> sneha: Yes. Next in next Thursday
+
+What are you planning to do after?
+
+
+>sneha: I'm obviously going to have some time off and relax a bit. I'm still going to work at Matillion but I won't be a placement software engineer. So I'll be a graduate software engineer. I'll be continuing to work with the same team on the same product but we're shifting to a different project so I'll be helping on the new project. It's a bit more of my knowledge on this so that's why they decided to keep me on it and also like I do plan on like you know while I'm at the company. I want to learn and they offer like you know, to go and do courses to keep it like agile courses or like AWS courses keep you know in that education field. Long-term wise I do you know, ideally I do want to do a masters in computer science. But I have to see like, you know what, the future holds. But I do want to get further, even further with education.
+
+I think it's good to sometimes just have a little bit of a break, and I think it takes quite a long time to digest what you've done. It's so intense, especially during COVID as well. You've covered a lot of ground in the last four years and I think it just takes a while for some of those things to sink in and think, what am I doing next what am I interested in?
+
+> sneha: Exactly
+
+It's no great, hurry to decide about going into postgraduate and I think sometimes having that experience of working will help you if you do decide to go and do postgraduate study
+
+>  Sneha: that's what I was thinking. If you know, the feel like they value like experience a lot, I thought that would be better. And also you know you I've been studying from like, you know, proper like state school like exams from GCSE like year 10 all the way until now like it's a lot. So I definitely need that break before pursuing even further education.
+
+Okay, so that's the degree bit your degree, your life in four years would cover that very quickly. There's a few other things to visit here. So they're one of them is minority Report. So you're a emember of a minority group. You're a woman and you're also a British Asian. So I'd been interested in know what your experience have been has been when we've spoken to some people about these things already. But the interesting know what your experiences have been as of that in university and then also in the workplace as well.
+
+> Sneha: So, with in terms of the university the good thing is, is like it's very diverse. So, for example, all the people that I've talked to especially my friendship group is super diverse in the sense backgrounds. So I have friends, literally from all the different continents you know, it's very diverse. So you see loads of different heritages and people and you learn a lot and we actually talk about these things and they're all different experiences. You're learning from each other which I think, in terms of diversity of like, culture and background. It's definitely like a good place for the university and then but like in terms of maybe of like, you know, as a woman I think I it there is like, kind of a struggle. Sometimes I'd say, in my year, there were quite a few.
+
+I think, I need to look at the stats but I think it's something around about 25% of undergraduate students in computer science are women. So you're in a not a tiny minority, but still a minority. So I wonder if there's anything that they're not just this university but all universities can do to make the subject more welcoming or interesting or more desirable to women.
+
+> Sneha: That was part of my final project was to look at how to introduce, how to demystify, those stereotypes of the subject. you know, encourage females to take up the subject to enjoy the subject. Making it look show, maybe the more creative side, you know, catering to things that women tend to know like, yeah, I think there is that like that, you know, you can kind of tell, it's 25%, as I mean, if you like, look at like a lecture theatre or like, you'll be start, you know, like this big, yeah, obvious indication and even personally, even though there were likely in a lots of females I could talk to and stuff, most of my friends were male not because like I couldn't make friends with females but because there weren't like as many and, you know, sometimes as, you know, like a few more you want to see like especially, you know, your representation kind of you kind of want to feel a bit more comfortable knowing that you're not just the only one and also you're able to share experiences where because I think that's definitely a big thing you know, you as a woman and you as a male like they're they will be differences. And Ifeel like I could have had a bit more of a more comfortable feeling if I could have more female to relate to. But I know the, you know, especially in computer science, there are like initiatives to get that kind of going. So, you know, I can't say that there's nothing going on. I just think, you know, maybe a little bit more work in that sense. In terms of workplace, I can say that they are definitely trying
+
+Everyone's trying. Well, *most* people are trying. Anyway. It's a hard problem, isn't it?
+
+> Sneha: it really is yeah, they try and introduce seminars or they had like a whole weekly meeting talking about, they got like, professional to talk about these things. But like, as much as you know, there is a lot of diversity. I feel like maybe in the engineering department, there's less diversity. Once again, predominantly male and actually, even predominantly, , white males and even more with recruitment to my team, the past three people that have come in, have all been white males and so that I know they are aware. They're recruitment is a little bit, you know, maybe not as diverse, and they're trying to change that. So I do I see that they are trying, but they're obviously things, you like kind of see and like, the reason is like, like the reason why I'd want to get a bit more diverse as a person like, you know, like from a minority group, it's just, you know, these kind of things they do impact your experience  computer science or at work, at school. So you kind of want to be able to relate to other people in these experiences. So I think that's why like a super important to be able to see that. But what, in terms of teaching,  a lot of the lecturers I do, they will a lot of female lecturers and even my like, supervisor from first and second  was a female. So, like it would like, I think in terms of like staff and teaching that was quite good diversity.
+
+## One tune
+
+Okay, good. Right. So the last thing to finish up, well, the last bit to finish up is one one tune one podcast. And one film was the penultimately? Yeah. Is so, um, a piece of music.
+
+There's lots of musical references in this textbook, code in your future. And do you have a piece of music that's important to you that you could add to our playlist? So when I was like reading this, it said it's mostly like, dad, rock. And I this funny thing is is that I'm not really gonna be going far from that.
+
+So, like the song that I chose was a November Rain by Guns and Roses.
+
+Okay, good. Now that's good too good.
+
+> Sneha: It's very good song. Like the reason I think it was like, super important to me first of all like the, you know, the vibes of the song is very like impactful. Like you got you can listen to it when you're like sad or you can listen to when you like need to get pumped up like and the reason like it means so much to me is is that it's the song that for ages me my sister, my dad on the way to school, we would just listen to this and then on the way back we would listen to this. So it's very reminiscent and so that was the go-to song and then after a while I just like didn't like it's like you know, you kind of just forget about it and then what reminded me was the recent Thor film and that was released thought.
+
+Love and thunder and it's used on that it was
+
+> it was on the soundtrack and like this fight scene and it was just like, it made me feel like all the emotions like, you know, like just kind of gave me that nostalgia and I realised, oh my gosh, this is such a good song.
+
+So as soon as after that, like me and my sister be put it back on our playlist because we like, you know, just realised like it's such a good song.
+
+## One podcast
+
+Good choice. Okay. So the other thing and is one podcast. I don't know if you listen to podcast but other if there are good podcasts out there that you listen to would you is the one that you recommend?
+
+> I don't really tend to listen to many. But one podcast I do is [rotten mango](https://www.rottenmangopodcast.com/). It's very, it's more. Like, if you're into like true crime and like, you know, that kind of field she doesn't in a very like, like, obviously in very, you know, dark topics and stuff, but she takes it from like a psychological perspective and like a legal perspective, like all these different things, it's tied in a more lighthearted way.
+
+Obviously in a more, it's still respectful. But in a very, you know, you're not feeling like groggy and like upset about the things you're listening to. It's very like interesting. So, if you're into that, it's really good. Okay. And then one film, was it gonna be the same film that you would just talk about using a different filter?
+
+## One film
+
+It, I was thinking of recommending thought but no, my like favourite film like that. I think I like if anyone asks me this is my film, it's called three idiots. I don't know, three, idiots. Three it yet. It's a Bollywood film, but it's very it's got a lot of global like recognition.
+
+So like obviously it's in like a different language. What sort of is, is it maybe made recently? Or is it? Oh no, it's almost like 2000. I mean not old all the 2009? Yeah, 10 years ago, he's old. So it's like it's it's the best Like, obviously, because it's in a different language, you may think?
+
+Oh no, like, can't really relate, but it's like generally, it just it crosses culture.
+
+Does it have all the Bollywood dancing and the music?
+
+> Sneha It was it It is. The story is of like three guys who go through who get into like one of the best engineering schools in India and it deals with the pressures of like you know having to do well and it deals also with like different societal issues, you know, pressures of yourself, precious of your family, maybe like this is not the field.
+
+You even want to go in or like all of these like very relatable topics that, you know, I feel like students do go through and but it and it deals with like a lot of like deep hard-hitting problems but it does all of that while still also being like the funniest film ever.
+
+So it's like it's got the comedy, the drama. It's got the romance. It's got the suspense. Like, it's got everything. Like, that's why I recommend it strongly. I don't even speak Hindi. So like, I have to watch it with sometimes but still I, I don't watch films like over and over again.
+
+But I watched this one like five for six times. Crazy actually.
+
+
+## Advice to your former self {#sselfie}
+
+I'll make a note of that one definitely. So the last thing to finish up then is I call this time travel. So, if you could travel back in time to meet yourself in the first year, what advice would you give yourself or perhaps current or incoming first, second year, students. What advice would you give them to get the most out of their time at university?
+
+> Sneha: So I think to two things. So the first one is just putting yourself out there and taking risks because more often than not, it's rewarding. Because even if like it's not your even if you don't get your like intended result, the fact that you've done it and you've tried is better than not knowing if you didn't try so like especially like when I was applying for like placements and stuff completely out of my like, you know what?
+
+> Sneha: I know. So I when I did that, you know, obviously after some time, like I did get that reward from it. So just really putting yourself out of your comfort zone. Going to things and I'd say, because obviously with COVID and stuff. Like, you know, it was a bit more difficult but even like socially just like, you know, trying to put yourself out there as an introvert. That's very scary to me. But it's more often than not there's pay off from it. So that's the first piece and then the second one is just hanging in there. You know persevering because to think that my university journey was super smooth sailing is very naive. I remember first year, obviously University of Manchester has really high standards, especially in the computer science department, and that means with such high standards. You kind of doubt yourself, you think maybe this isn't for me and that was definitely something I went through. First year, I was even looking at maybe I should apply for a different course. I think the thing that consolidated, yes, this is your field. This is what, you know, you want to do, was my placement. Yeah, actually,
+
+Right
+
+> Sneha: **After my placement, I knew I actually enjoyed this. I can do for the rest of my life like this. That consolidated it for me.** And so even with struggles and coursework and pressure and eventually those things will finish and those things, you know, you will overcome and then not more often than not. They're not gonna impact your life. You know. Long-term so like is you just kind of have to push through that bit? Yeah, now I'm sitting here about to graduate, so it does pay off just pushing through
+
+That's good advice. Okay, good. Well, thank you, thank you for joining us today
+
+> Sneha so much for having me
+
+we look forward to seeing you at graduation next week.
+
+> Sneha: Yeah, so exciting. Okay. Thank you.
+
 
 ::: {.rmdcaution}
 (ref:codingcaution)

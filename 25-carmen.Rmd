@@ -7,11 +7,14 @@ knitr::include_graphics("images/carmen.jpeg")
 ```
 (ref:captioncarmen) Carmen Faura Práxedes. Picture reused from [linkedin.com/in/carmen-faura](https://www.linkedin.com/in/carmen-faura/) with permission, thanks Carmen.
 
-## What's your story Carmen? {#carmen-story}
+(ref:podcastblurb)
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23797640/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
+
+## What's your story Carmen? {#carmen-story}
+
 
 A draught of the [machine generated transcript](https://github.com/dullhunk/cdyf/blob/master/25-carmen.md) is available but needs more editing.
 

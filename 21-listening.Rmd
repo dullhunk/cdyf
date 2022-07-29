@@ -56,6 +56,8 @@ Interview with Sneha Kandane, see figure \@ref(fig:sneha2-fig) and the transcrip
 knitr::include_graphics(rep("images/sneha.jpeg", 3))
 ```
 
+(ref:podcastblurbshort)
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23798123/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
@@ -68,6 +70,8 @@ Interview with Carmen Faura Práxedes, see figure \@ref(fig:carmen2-fig) and the
 ```{r carmen2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captioncarmen)"}
 knitr::include_graphics(rep("images/carmen.jpeg", 3))
 ```
+(ref:podcastblurbshort)
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23797640/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
@@ -79,6 +83,9 @@ Interview with Brian Yim Tam, see figure \@ref(fig:brian2-fig) and the transcrip
 ```{r brian2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionbrian)"}
 knitr::include_graphics(rep("images/brian.jpeg", 3))
 ```
+
+(ref:podcastblurbshort)
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23796200/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
@@ -91,6 +98,8 @@ Interview with Jason Ozuzu, see figure \@ref(fig:jason2-fig) and the transcript 
 knitr::include_graphics(rep("images/jason.jpeg", 3))
 ```
 
+(ref:podcastblurbshort)
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23795996/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
@@ -102,6 +111,8 @@ Interview with Raluca Cruceru, see figure \@ref(fig:raluca2-fig) and the transcr
 ```{r raluca2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionraluca)"}
 knitr::include_graphics(rep("images/raluca.jpeg", 3))
 ```
+
+(ref:podcastblurbshort)
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23794112/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
