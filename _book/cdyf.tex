@@ -33,14 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Coding Your Future: A Guidebook for Students},
-  pdfauthor={Duncan Hull and illustrated by Bryan Mathers},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{color}
 \usepackage{fancyvrb}
 \newcommand{\VerbBar}{|}
@@ -105,8 +97,6 @@
 \def\fps@figure{htbp}
 \makeatother
 \usepackage[normalem]{ulem}
-% Avoid problems with \sout in headers with hyperref
-\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -116,6 +106,14 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Coding Your Future: A Guidebook for Students},
+  pdfauthor={Duncan Hull and illustrated by Bryan Mathers},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{Coding Your Future: A Guidebook for Students}
 \author{Duncan Hull and illustrated by Bryan Mathers}
@@ -140,7 +138,7 @@
 
 \end{figure}
 
-Hello and welcome to \emph{Coding Your Future} (\href{https://www.cdyf.me}{cdyf.me}) the guidebook that will help you to design, engineer, test and \texttt{code} your future in computing. Also available as a free ebook and pdf (see section \ref{downloading}), this guide is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
+Hello and welcome to \emph{Coding Your Future} at \href{https://www.cdyf.me}{\texttt{www.cdyf.me}}. This guidebook will help you to design, build, test and \texttt{code} your future in computing. Also available as a free ebook and pdf (see section \ref{downloading}), this guide is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
 \begin{itemize}
 \tightlist
@@ -188,7 +186,7 @@ This guidebook aims to help you develop stronger habits of mind, body and soul u
 \item
   \textbf{\texttt{F\ is\ for\ FUTURES}}: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about \emph{your} future. \citep{thinkaboutthefuture, wroteforluck}
 \item
-  \textbf{\texttt{.me\ is\ for\ ME}}: Hello, my name is Duncan, see figure \ref{fig:hello-my-name-fig}. I'm your tour guide here. If you're feeling a bit lost, follow me and together we can code your future.
+  \texttt{.me\ is\ for\ ME}: Hello, my name is Duncan, see figure \ref{fig:hello-my-name-fig}. I'm your tour guide here. If you're feeling a bit lost, follow me and together we can code your future.
 \end{enumerate}
 
 \begin{figure}
@@ -446,7 +444,7 @@ This guidebook aims to help you build a bridge from where you are now to where y
 \hypertarget{downloading}{%
 \section{Downloading your future}\label{downloading}}
 
-The full text of this guidebook is freely available at \href{https://www.cdyf.me/}{www.cdyf.me}, this means the web version (that's all the \texttt{*.html}) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
+The full text of this guidebook is freely available at \href{https://www.cdyf.me/}{\texttt{www.cdyf.me}}, this means the web version (that's all the \texttt{*.html}) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
 
 \begin{itemize}
 \tightlist
@@ -1761,7 +1759,7 @@ Students love to ask their teachers ``\emph{will this be on the exam}''? The sho
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.5769}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1410}}@{}}
 \caption{\label{tab:examtable} Examining your future: The ``exams'' used by employers, what gets assessed and the grades you can get. For written ``exams'' see chapters \ref{writing} and \ref{debugging}, for speaking ``exams'' see chapter \ref{speaking} and for your employee ``exams'' see chapter \ref{surviving}.}\tabularnewline
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Examination
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -1769,9 +1767,9 @@ What examiners are assessing
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Grade
 \end{minipage} \\
-\midrule
+\midrule()
 \endfirsthead
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Examination
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -1779,7 +1777,7 @@ What examiners are assessing
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Grade
 \end{minipage} \\
-\midrule
+\midrule()
 \endhead
 CV, application form
 covering letter & \begin{minipage}[t]{\linewidth}\raggedright
@@ -1819,7 +1817,7 @@ Employee performance & \begin{minipage}[t]{\linewidth}\raggedright
   Should we extend your contract?
 \end{itemize}
 \end{minipage} & pass/fail \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 So, \emph{yes}, this will be on the exam, but \emph{no}, the exams are obviously not set, administered, invigilated and marked by academics at your University. The exams are set by employers and the results are \textbf{brutally binary}:
@@ -1884,21 +1882,21 @@ I'm writing this guidebook because I need a resource for students to help them d
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
 \caption{\label{tab:difftable} \emph{Coding your Future} is a guidebook that is different to all the other guidebooks}\tabularnewline
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Other guidebooks
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \emph{Coding your Future} guidebook
 \end{minipage} \\
-\midrule
+\midrule()
 \endfirsthead
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Other guidebooks
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \emph{Coding your Future} guidebook
 \end{minipage} \\
-\midrule
+\midrule()
 \endhead
 \begin{minipage}[t]{\linewidth}\raggedright
 \begin{itemize}
@@ -1916,7 +1914,7 @@ Other guidebooks
 \begin{itemize}
 \tightlist
 \item
-  \textbf{Free} full text web version at \href{https://www.cdyf.me/}{cdyf.me}
+  \textbf{Free} full text web version at \href{https://www.cdyf.me/}{\texttt{www.cdyf.me}}
 \item
   Every link is clickable, every section is linkable
 \item
@@ -1943,7 +1941,7 @@ Other guidebooks
 \item
   \textbf{Web first}: paper comes second
 \item
-  The website \href{https://www.cdyf.me/}{cdyf.me} \textbf{is } the book
+  The website \href{https://www.cdyf.me/}{\texttt{www.cdyf.me}} \textbf{is } the book
 \item
   Ebook published simultaneously, see section \ref{downloading}
 \item
@@ -1956,7 +1954,7 @@ Other guidebooks
 \item
   \textbf{Divorced} from any curriculum
 \item
-  Not used for teaching, not embedded in curriculum \textbar{} - Course textboo
+  Not used for teaching, not embedded in curriculum
 \item
   One-size-fits-all, generic, career and discipline agnostic
 \end{itemize}
@@ -1965,9 +1963,10 @@ Other guidebooks
 \tightlist
 \item
   \textbf{Married}\footnote{computationally wedded to the curriculum with kids and a mortgage} to the computing curriculum
-  k for COMP2CARS, embedded in the curriculum
 \item
-  Tailored to computing careers, see chapter \ref{computing} and \ref{broadening}
+  Course textbook for COMP2CARS, embedded in the curriculum
+\item
+  Tailored to computing careers, see chapter \ref{computing}, \ref{broadening} and \ref{hearing}
 \end{itemize}
 \end{minipage} \\
 \begin{minipage}[t]{\linewidth}\raggedright
@@ -2008,7 +2007,7 @@ Other guidebooks
   Released early, released often, see section \ref{version}
 \end{itemize}
 \end{minipage} \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 
@@ -2075,7 +2074,7 @@ Although this is a course guidebook used in undergraduate teaching, you don't ne
 \hypertarget{version}{%
 \subsection{Your future is constantly updated}\label{version}}
 
-You are reading the alpha version, the \href{https://en.wikipedia.org/wiki/Minimum_viable_product}{Minimum Viable Product} (MVP) of this guidebook, last updated on 29 July, 2022. That's software engineer talk for saying \emph{it isn't finished yet}. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
+You are reading the alpha version, the \href{https://en.wikipedia.org/wiki/Minimum_viable_product}{Minimum Viable Product} (MVP) of this guidebook, last updated on 01 August, 2022. That's software engineer talk for saying \emph{it isn't finished yet}. Subsequent versions, will be continuously and iteratively released on a daily and weekly basis. They will include:
 
 \begin{itemize}
 \tightlist
@@ -3718,7 +3717,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar-fig}
 \end{figure}
 
 
@@ -4098,7 +4097,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar2-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar2-fig}
 \end{figure}
 
 \hypertarget{computing}{%
@@ -4275,7 +4274,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar3-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar3-fig}
 \end{figure}
 
 \hypertarget{part-testing-building}{%
@@ -5094,6 +5093,7 @@ Besides providing feedback on the content of your CV, using these systems can he
 Bots, grammar and spell checkers will improve your CV but you can't rely on automated help completely. The résumé robots described in section \ref{robotproof} will just encode the biases and prejudices of whoever wrote their algorithms. Spellcheckers can't be relied on completely either, as shown in the poem below:
 
 \begin{verbatim}
+
 Eye halve a spelling checker
 It came with my pea sea
 It plainly marques four my revue
@@ -5853,7 +5853,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar5-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar5-fig}
 \end{figure}
 
 \hypertarget{broadening}{%
@@ -6280,7 +6280,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar8-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar8-fig}
 \end{figure}
 
 \hypertarget{speaking}{%
@@ -6650,7 +6650,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar6-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar6-fig}
 \end{figure}
 
 \hypertarget{surviving}{%
@@ -6932,7 +6932,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar7-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar7-fig}
 \end{figure}
 
 \hypertarget{achieving}{%
@@ -7326,7 +7326,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar9-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar9-fig}
 \end{figure}
 
 \hypertarget{part-supporting}{%
@@ -7597,7 +7597,7 @@ This chapter is under construction because I'm using agile book development meth
 
 }
 
-\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 29 July, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar19-fig}
+\caption{Just like the \href{https://en.wikipedia.org/wiki/Death_Star}{Death Star}, this \sout{galactic superweapon} book is under construction. As of 01 August, 2022 this book is an estimated \textbf{35\% complete}. Image of agile weapon engineering in \emph{Star Wars} via Wikimedia Commons \href{https://w.wiki/5N6q}{w.wiki/5N6q} adapted using the \href{https://apps.apple.com/gb/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:deathstar19-fig}
 \end{figure}
 
 \hypertarget{hacking}{%
@@ -7959,7 +7959,7 @@ Some notes to help you enjoy the music:
 \item
   \emph{\href{https://en.wikipedia.org/wiki/November_Rain}{November Rain}} by rockers \href{https://en.wikipedia.org/wiki/Guns_N\%27_Roses}{Guns N' Roses} was chosen by Sneha, see chapter \ref{sneha}
 \item
-  \emph{\href{https://en.wikipedia.org/wiki/Uptown_Funk}{Uptown Funk}} by \href{https://en.wikipedia.org/wiki/Mark_Ronson}{Mark Ronson} \citep{uptownfunk} is in this playlist because Aidan Blowers use of music in teaching has inspired me, see section \ref{st-laurence} \citep{blowers} Thanks Aidan 🙏
+  \emph{\href{https://en.wikipedia.org/wiki/Uptown_Funk}{Uptown Funk}} by \href{https://en.wikipedia.org/wiki/Mark_Ronson}{Mark Ronson} \citep{uptownfunk} is in this playlist because Aidan Blowers use of this music in his teaching has inspired me, see section \ref{st-laurence} \citep{blowers} Thanks Aidan 🙏
 \end{enumerate}
 
 \hypertarget{electronica}{%
@@ -8002,8 +8002,8 @@ Computers have been changing the way we create, distribute and listen to music e
   \textbf{Listen} at \href{https://youtube.com/playlist?list=PLyxEvjuBJhvCC2vbFMosi5l-IXPPSKwck}{youtube.com/playlist?list=PLyxEvjuBJhvCC2vbFMosi5l-IXPPSKwck}
 \end{itemize}
 
-\hypertarget{lancs}{%
-\section{The Lancashire playlist}\label{lancs}}
+\hypertarget{lancashire}{%
+\section{The Lancashire playlist}\label{lancashire}}
 
 This playlist starts and ends with one of the best known bands on the planet: \href{https://en.wikipedia.org/wiki/The_Beatles}{The Beatles} shown in figure \ref{fig:the-beatles-fig}. You will find plenty of other Lancashire lads and \href{https://en.wikipedia.org/wiki/Lass}{lasses} in here too. But hang on a second, which cities are actually \emph{in} \href{https://en.wikipedia.org/wiki/Lancashire}{Lancashire}, I hear you say? Don't let bureaucrats trick you into believing that:
 
@@ -8692,7 +8692,7 @@ YOUR FUTURE WANTS YOU: Join your future! If you'd like to be interviewed for the
 I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1968. 🎓 \citep{babygrowsup}
 
 \begin{figure}
-\includegraphics[width=0.33\linewidth]{images/your-future-wants-you} \includegraphics[width=0.33\linewidth]{images/your-future-wants-you} \includegraphics[width=0.33\linewidth]{images/your-future-wants-you} \caption{Your \sout{country} future wants YOU. 🫵 If you are a former student of Computer Science who'd like to appear on the show, \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/contact}{get in touch}. I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the \href{https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You}{Lord Kitchener Wants You} poster by \href{https://en.wikipedia.org/wiki/Alfred_Leete}{Alfred Leete} on Wikimedia Commons at \href{https://w.wiki/3xvX}{w.wiki/3xvX}}\label{fig:yfnu-fig}
+\includegraphics[width=0.33\linewidth]{images/your-future-wants-you} \includegraphics[width=0.33\linewidth]{images/your-future-wants-you} \includegraphics[width=0.33\linewidth]{images/your-future-wants-you} \caption{Your \sout{country} future wants YOU. 🫵 Join your future. If you are a former student of Computer Science who'd like to appear on the show, \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/contact}{get in touch}. I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the \href{https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You}{Lord Kitchener Wants You} poster by \href{https://en.wikipedia.org/wiki/Alfred_Leete}{Alfred Leete} on Wikimedia Commons at \href{https://w.wiki/3xvX}{w.wiki/3xvX}}\label{fig:yfnu-fig}
 \end{figure}
 
 
@@ -8786,7 +8786,7 @@ We love our music, films and podcasts and make gratuitous references to them thr
 \begin{itemize}
 \tightlist
 \item
-  Lancashire boy bands, see section \ref{lancs}
+  Lancashire boy bands, see section \ref{lancashire}
 \item
   \href{https://www.amazon.co.uk/Dad-Rock/dp/B09F6GQSKK}{DadRock} and \href{https://en.wikipedia.org/wiki/Britpop}{BritPop}, see section \ref{dadrock}
 \item
@@ -8846,7 +8846,7 @@ Do you wish that you knew what you know now, when you were younger? Just like \h
 \hypertarget{radio}{%
 \section{Everything I had to know, I heard it on my radio}\label{radio}}
 
-We'll leave the last words on podcasting to \emph{\href{https://en.wikipedia.org/wiki/The_Buggles}{The Buggles}} and \emph{\href{https://en.wikipedia.org/wiki/Queen_(band)}{Queen}}. Podcasting an evolution and mutation of radio but did video kill the radio star? \citep{videokilled} What if everything you had to know, you could hear it on your radio, see figure \ref{fig:gaga-fig}? Tune in to find out.
+We'll leave the last words on podcasting to \emph{\href{https://en.wikipedia.org/wiki/The_Buggles}{The Buggles}} and \emph{\href{https://en.wikipedia.org/wiki/Queen_(band)}{Queen}}. Podcasting is an evolution and mutation of radio but did video kill the radio star? \citep{videokilled} What if everything you had to know, you could hear it on your radio, see figure \ref{fig:gaga-fig}? Tune in to find out.
 
 \begin{figure}
 
@@ -8924,7 +8924,7 @@ So this typically, most people are looking for placement style that are getting 
 Raluca Well, to be honest, I was very focused on certain because I knew I wanted to work there. However, my I was very doubtful. Regarding my chances. I thought it was my only option. I applied for other companies in the UK. In places like CERN will expect you to have, or your application will stand out a lot more if you've got some experience like Yeah.
 \end{quote}
 
-So you've done a summer job Web applications UK, which is now called, they've changed their name now to \href{https://www.koder.ly/}{Koder.ly} with a \texttt{K}. So, you've got, you've got a sort of broad exposure to different sort of software engineering ideas, I guess, working in a team and that kind of stuff.
+So you've done a summer job Web applications UK, which is now called, they've changed their name now to \href{https://www.koder.ly/}{Koder.ly} with a \texttt{K}. So, you've got a broad exposure to different sorts of software engineering ideas, working in a team and that kind of stuff.
 
 \begin{quote}
 Raluca: Yeah, it really meant a lot because it's one thing to work on a lab at university to be in another thing to work on something that you know, can impact a whole number of people. So it makes you want to do a good job. You know, that you're, the stuff that you're writing is is going to be used by hundreds, sometimes 1000s of people
@@ -9065,10 +9065,10 @@ So it's almost as long as you've been studying as an undergraduate to do you hav
 Raluca: I'm not sure to be honest, I could. Because once you finish that you can also continue at certain with, for example, a sub contract if you want to, and he managed to get it, but I'm thinking that maybe I will find something that I'm very passionate about a specific kind of software technology. And who knows, maybe try to have a master or PhD if I'm not sure the moment or just stay there and work head on carry on being an engineer without doing any further study. So I guess I'm there's lots of options there for the future.
 \end{quote}
 
-\hypertarget{advice-to-your-former-self}{%
-\section{Advice to your former self}\label{advice-to-your-former-self}}
+\hypertarget{rselfie}{%
+\section{Advice to your former self}\label{rselfie}}
 
-Sounds good. Sounds good. So I've got two two final questions, really. So one is that this these, these interviews are aimed primarily at other students. So what advice would you give to students who are looking for either summer internships or placements during their first and second years of study? What would you what would you advise them to do? What do you think they should be doing?
+Sounds good. So I've got two two final questions, really. So one is, these interviews are aimed primarily at other students. So what advice would you give to students who are looking for either summer internships or placements during their first and second years of study? What would you what would you advise them to do? What do you think they should be doing?
 
 \begin{quote}
 Raluca: I think I could talk a lot about that. So yeah, first, I think they should try to find companies or organisations that they identify with what they appreciate. Because this way they will be more dedicated to make a good application. And also if they get accepted, they will be more happy to be happier to work for that specific company or organisation we should try to find companies or organisations that they identify with what they appreciate because this way they will feel more dedicated to make a good application. And also if they get accepted, they will feel more happy. They will be happier to work for that specific company or organisation. Then a lot of effort, a lot of effort has to be put into the application. I know myself because in the second year I realised that a lot of talented students that want the same job, it's very important to be able to stand out with some personal touch of the application or opening the CV so putting a lot of effort in that is important. And then I think, I think it's just pretty much it.
@@ -9125,7 +9125,7 @@ Because I know a lot of the computational power of Spinnaker, this neuromorphic 
 Raluca: Nothing, just maybe good luck to the students that are about to be in a placement or find a job?
 \end{quote}
 
-Yes, thank you. Okay. Good. All right. Well, thank you for joining us. Raluca. Now, I always struggle is I never know with the name. Who could do I emphasise the A or the you where do I put the stress? Is it RalUca? Or is it RAluca? Luca is Raluca right? Okay. Yeah. I, I because we have we have several other students called Raluca. And I always struggle with getting the emphasis rights
+Yes, thank you for joining us Raluca. Now, I always struggle is I never know with the name. Who could do I emphasise the A or the you where do I put the stress? Is it RalUca? Or is it RAluca? Luca is Raluca right? Okay. Yeah. I, I because we have we have several other students called Raluca. And I always struggle with getting the emphasis rights
 
 \begin{quote}
 its a difficult name for somebody who's not Romanian.
@@ -9133,9 +9133,12 @@ its a difficult name for somebody who's not Romanian.
 
 Yes. I don't think there's no there's not a near equivalent. But thank you, Raluca for joining us,
 
+\hypertarget{disclaimer}{%
+\section{Disclaimer}\label{disclaimer}}
+
 ⚠️ \textbf{Coding Caution} ⚠️
 
-Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been removed and links, cross references and pictures have been added to add extra context. To give clarification, non-quoted words are given in brackets like this: (some text added afterwards).
+Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been manually removed and links, cross references and pictures have been manually added to add extra context. To give clarification, extra (non-quoted) words are given in brackets like this: (some text added afterwards).
 
 \hypertarget{brian}{%
 \chapter{Brian}\label{brian}}
@@ -9160,9 +9163,12 @@ Listen to the episode by clicking Play ▶️ below, or subscribe wherever you g
 
 A draught of the \href{https://github.com/dullhunk/cdyf/blob/master/23-brian.md}{machine generated transcript} is available but needs more editing.
 
+\hypertarget{disclaimer-1}{%
+\section{Disclaimer}\label{disclaimer-1}}
+
 ⚠️ \textbf{Coding Caution} ⚠️
 
-Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been removed and links, cross references and pictures have been added to add extra context. To give clarification, non-quoted words are given in brackets like this: (some text added afterwards).
+Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been manually removed and links, cross references and pictures have been manually added to add extra context. To give clarification, extra (non-quoted) words are given in brackets like this: (some text added afterwards).
 
 \hypertarget{jason}{%
 \chapter{Jason}\label{jason}}
@@ -9197,10 +9203,10 @@ Yeah, yeah.
 Jason: I'd say the main way, computers are kind of is a weird one and I tell people the story, they don't really believe me, but I actually didn't really have much of an interest in computer science at school until I got to sixth form
 \end{quote}
 
-Did do it (computer science) as an A level?
+Did you do it (computer science) as an A level?
 
 \begin{quote}
-I'll get to that. That's part of the story. So I did, I did computer science and economics at GCSE those two that I chose. And essentially I really liked economics. I found it really interesting. And yeah, I wanted to take that further. I was kind of a \textbf{finance bro'} so to speak. I was really interested. I wanted to see where I could take it, but the problem was that when GCSEs were done and duster, there were some issues with the teacher, our teacher, teaching us wrong parts of the spec and stuff like that. Essentially the grade I got in the final GCSE exam was lower than what I needed for the sixth form I would eventually be moving to off the back of those grades, if that makes sense. So my plan was kind of to get my GCSE and to move to like a like a more, a better six form. So I could get better education for A levels but the problem is that due to, you know, issues of the teaching and whatnot, the grade wasn't as high as it needed to be for me to take that subject at A level at the sixth form.
+I'll get to that. That's part of the story. So I did, I did computer science and economics at GCSE those two that I chose. And essentially I really liked economics. I found it really interesting. And yeah, I wanted to take that further. I was kind of a \textbf{finance bro'} so to speak. I was really interested. I wanted to see where I could take it, but the problem was that when GCSEs were done and duster, there were some issues with the teacher, our teacher, teaching us wrong parts of the spec and stuff like that. Essentially the grade I got in the final GCSE exam was lower than what I needed for the sixth form I would eventually be moving to off the back of those grades, if that makes sense. So my plan was kind of to get my GCSE and to move to like a like a more, a better sixth form. So I could get better education for A levels but the problem is that due to, you know, issues of the teaching and whatnot, the grade wasn't as high as it needed to be for me to take that subject at A level at the sixth form.
 \end{quote}
 
 Right
@@ -9392,10 +9398,10 @@ Well enjoy and good luck.
 Jason: So thank you.
 \end{quote}
 
-\hypertarget{minority-report}{%
-\section{Minority report}\label{minority-report}}
+\hypertarget{jminority}{%
+\section{Minority report}\label{jminority}}
 
-To finish up then, this bit is called Minority report so I'd be interested as you a member of a minority group, you're Black. I'd be interested to hear about what your experiences have been of being black in computer science but being black in the university but then also in the workplace as well. What's that been like, honestly? What could the university do? And what could we perhaps we in computer science do to make it more welcoming. It's difficult being in a minority for lots of different reasons. And then, perhaps what employers can do as well? Perhaps you could say a little bit about, Morgan Stanley and Google are both, keen to improve diversity in their workforce, but it's it's an uphill battle for everyone. Any thoughts on that and what how we can do it better in the future?
+To finish up then, this bit is called \emph{Minority Report} so I'd be interested as you are a member of a minority group, you're black. I'd be interested to hear about what your experiences have been of being black in computer science but being black in the university but then also in the workplace as well. What's that been like, honestly? What could the university do? And what could we perhaps we in computer science do to make it more welcoming. It's difficult being in a minority for lots of different reasons. And then, perhaps what employers can do as well? Perhaps you could say a little bit about, Morgan Stanley and Google are both, keen to improve diversity in their workforce, but it's it's an uphill battle for everyone. Any thoughts on that and what how we can do it better in the future?
 
 \begin{quote}
 Jason: I think it's more just a case of my experience has been good. Like I've never felt, you know, out of place. I made plenty of friends on the course. I think the main thing is just there are very few black people in my yeargroup. I've been one of the first thing.
@@ -9486,8 +9492,8 @@ One of my colleagues talks about learning, it's like sedimentation. It's like th
 Jason: Exactly. What I think, a lot of people that I've spoken to try and get into tech and try and do coding. They could they do code for maybe like maybe two three weeks and then like yeah, I couldn't figure out. All right. You kind of need to do. Maybe I think you can't even say you've really given it a try until maybe six months. I say, three to six months of actual of graft and then maybe you can now, say, okay? Maybe this is or isn't for me.
 \end{quote}
 
-\hypertarget{one-tune}{%
-\section{One Tune}\label{one-tune}}
+\hypertarget{jtune}{%
+\section{One tune}\label{jtune}}
 
 Okay good. So to finish up then, this podcast is part of \emph{coding your future} and it has a soundtrack (see chapter \ref{enjoying}) with it. There are musical references in the text but because I'm older, a lot of the references are old. So, can you recommend us
 
@@ -9514,8 +9520,8 @@ It could be something that you helps you relax. It might make you feel happy or 
 Jason: I mean, if you're a big fan of hip hop, I'm a really big fan of hip hop, but that kind of thing, American rap and stuff. So, I say anything by \href{https://en.wikipedia.org/wiki/Don_Toliver}{Don Toliver}. People probably might not have hard of it. I'm big. Big, big, big fan, right? So anything by him. If you want, like a chill, like hip hop, kind of vibe type thing.
 \end{quote}
 
-\hypertarget{one-podcast}{%
-\section{One podcast}\label{one-podcast}}
+\hypertarget{jpodcast}{%
+\section{One podcast}\label{jpodcast}}
 
 Yeah, good. Okay. And then one podcast that you listen to recommend
 
@@ -9523,8 +9529,8 @@ Yeah, good. Okay. And then one podcast that you listen to recommend
 Jason: one, I really recommend is under the skin (see \href{https://www.russellbrand.com/podcasts/}{russellbrand.com/podcasts/}), by \href{https://en.wikipedia.org/wiki/Russell_Brand}{Russell Brand}. So for those of you may not know that Russell Brand was a really big Reality TV guy for a while but went on a bit of a bender and lost himself to drugs and addiction and stuff like that. Then he rediscovered himself, completely reformed himself and he has a podcast called under the skin where he brings different people on to talk about different things. Sometimes he'll talk about spiritual things to talk about, the concept of the soul, and what it means like, life and death and stuff like that. You can get really deep like that. Or he might do stuff about social economic stuff and current issues and current problems we have in our society right now. And yeah, it's really good, like blend of like just a bunch of different things. So yeah, I recommend if anyone looking to kind of broaden their horizons,
 \end{quote}
 
-\hypertarget{one-film}{%
-\section{One film}\label{one-film}}
+\hypertarget{jfilm}{%
+\section{One film}\label{jfilm}}
 
 Sounds good. Well I'll put a link in the show notes and then the last one was a film any films? Any films that you'd recommend people go and watch. Netflix or wherever, wherever people consume films these days.
 
@@ -9538,8 +9544,8 @@ How old is that film now?
 Jason: That must be came out in the 2000s. Oh, 1999. 20 years ago Yeah, it's crazy you. Yeah, pretty much pretty much. Yeah, but yeah, good.
 \end{quote}
 
-\hypertarget{jasontravel}{%
-\section{Advice to your former self}\label{jasontravel}}
+\hypertarget{jselfie}{%
+\section{Advice to your former self}\label{jselfie}}
 
 All right. Well, thank you, Jason and is there any other closing comments before we finish? We have one here that was advice to your former self. So what would you tell your former self or a current first or second year student who is studying computer science. What should they focus on?
 
@@ -9549,9 +9555,12 @@ Jason: I would say, the biggest thing is right, don't sell yourself short. You d
 
 Okay. That's a good note to finish on. So thank you. Jason
 
+\hypertarget{disclaimer-2}{%
+\section{Disclaimer}\label{disclaimer-2}}
+
 ⚠️ \textbf{Coding Caution} ⚠️
 
-Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been removed and links, cross references and pictures have been added to add extra context. To give clarification, non-quoted words are given in brackets like this: (some text added afterwards).
+Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been manually removed and links, cross references and pictures have been manually added to add extra context. To give clarification, extra (non-quoted) words are given in brackets like this: (some text added afterwards).
 
 \hypertarget{carmen}{%
 \chapter{Carmen}\label{carmen}}
@@ -9574,11 +9583,320 @@ Listen to the episode by clicking Play ▶️ below, or subscribe wherever you g
 \hypertarget{carmen-story}{%
 \section{What's your story Carmen?}\label{carmen-story}}
 
-A draught of the \href{https://github.com/dullhunk/cdyf/blob/master/25-carmen.md}{machine generated transcript} is available but needs more editing.
+So, Welcome carmen thank you for coming on the show. The purpose of this interview is to catch up with you, find out a little bit more about your journey from arriving here, four years ago through to your journey while you've been here and what comes next? So what should we start off with? Can you tell us a little bit about yourself and where you come from? As much or as little as you want to say?
+
+\begin{quote}
+Carmen: I'm Carmen, I'm originally from Spain, born and raised there and from small southern town \href{https://en.wikipedia.org/wiki/Marbella}{Marbella}. So, very different to Manchester.
+\end{quote}
+
+And you went to school in Spain?
+
+\begin{quote}
+Carmen: Yeah, I went to school in Spain. Never moved abroad until I was 18 when I came to University in Manchester.
+\end{quote}
+
+So what made you choose computer science as a subject?
+
+\begin{quote}
+Carmen: So when I was actually applying for degrees, I didn't know what I wanted to do and it was December and obviously applications closed in January and I had to start writing my personal statement, to a point where the head (teacher), a schoolmaster called me and it was like coming. Where's your personal statement? You need to start applying. And I don't know what I want to do. I knew I liked ICT and art and maths and then he was like, so have you thought about double degree in math and physics? I'm like, no. Physics it's not for me. So, then he said, oh, what about software, engineering, computer science, and I was like, what is that? So back home, it's not really a thing, it's still the idea that technology is what you do in a basement, antisocial. That's the stereotype. So then I was like, sure, let's just go for it. And then I ended up applying for software engineering and that's how I got here.
+\end{quote}
+
+That's good advice. I think one of the interesting things is is a lot of decisions people make about what to study at university comes from family, teachers and peers etc and sometimes those people good advice, sometimes they don't give good advice at all!
+
+\begin{quote}
+Carmen: I told one of my family members that I was going to study software engineering and they had a full-on go at me, I feel why would I do that? I'm gonna have not a pretty life. I'm gonna be so miserable. I when I came here, realised, that was not gonna be the right thing was gender.
+\end{quote}
+
+We'll talk about this later was it perceived as that's not subject for women? Or was that not not on the table?
+
+\begin{quote}
+Carmen:: I think at that point it was more, it wasn't one of the core traditional paths back home, more like architect, doctors, teaching.
+\end{quote}
+
+Yeah, good. So, can you tell us a bit then about your story. So you arrived here in Manchester and you've been studying. So you actually I suppose fast forward to second year. What happened in second year when you you I think you decided to do a placement from the beginning from the get-go. Was it something? You thought your peers persuaded you? It was a good idea?
+
+\begin{quote}
+Definitely the latter. I came into Manchester not knowing what a placement was, but everyone kind of just said, do a placement, do an internship. It's great. So, I kind of got pushed into it changed into that degree. So added that onto my degree, and then started looking for a placement. Second year, was tough time managing that and like, dealing with rejections and all, that is a horny thing to go through. It's very draining very heartbreaking but it's very rewarding at the end
+\end{quote}
+
+Time-consuming as well? So how long did it take? How many roughly? How many applications did you do?
+
+\begin{quote}
+Carmen: And I was quite lucky that sense. I think I only did about 14 right? Oh with like maybe four of those being emails that sent out to startups because at the beginning, I wanted to go into more startuppy vibes. But then I decided to go through normal job applications, apply to about 10 and obviously you get the bit but the imposter syndrome. When you get all your friends getting applying to the big companies, I didn't want to work for a big company back then. So they obviously get the job opposite first and you feel like you're not good enough or you're not making it but then the offers starts to come in and then it feels a lot nicer.
+\end{quote}
+
+And I guess did you have many interviews before? The one you got? Did you have many unsuccessful interviews? Because it's not like an interview for university, some universities don't have interviews at all, so that's a whole new experience in a way, isn't it?
+
+\begin{quote}
+Carmen: Yes. Absolutely. I remember the first one I did actually was broke company. I didn't really want to apply for, so that was good. But even then, that went absolutely shambles. I we got a tour of the headquarters as well, and the factory. The point at which I was \href{https://en.wikipedia.org/wiki/Mansplaining}{mansplained} was very big. I walked out thinking, I don't care if I get the offer because I'm not coming here. So it was a big eye-opening time and then after that I was way pickier with the companies I applied for.
+\end{quote}
+
+You actually did a placement and internship. Did you which one which way round did you do it?
+
+\begin{quote}
+Carmen: I did first my placement, the placement was at \href{https://en.wikipedia.org/wiki/The_Walt_Disney_Company}{The Walt Disney Company} (see \href{https://www.mub.eps.manchester.ac.uk/compsci/2022/01/10/my-industrial-placement-at-disney-carmen-faura/}{My Industrial Placement at Disney -- Carmen Faura})
+\end{quote}
+
+What were you doing? Brief description of what you were doing for Walt Disney.
+
+\begin{quote}
+Carmen: So we're just an internal applications kind of improving efficiency of finance and HR teams across the globe.
+\end{quote}
+
+And you were in one team for the whole 12 months duration?
+
+\begin{quote}
+Carmen: Yes for nine months
+\end{quote}
+
+And your work I guess you're working with a combination of technical and non-technical people in that role in that year?
+
+\begin{quote}
+Carmen: Yes, it was mainly technical. It was maybe like one or two that were non-technical but that's about it.
+\end{quote}
+
+So on the back of that then you've got did a summer internship after you've done a placement. I guess was getting interviews a little bit easier. Once you have the first thing under your belt
+
+\begin{quote}
+getting that first job is definitely the hardest and I feel like doing the summer internship after really helped get the most out of it because having already know how to get to new code base and just get familiar enough to speed as much faster.
+\end{quote}
+
+The summer internship was at McKinsey? And that was? And now these were all remote when they, this was in. What year was this this? When did the pandemic hit 2020? So you'd started your placement.
+
+\begin{quote}
+Carmen: Yes. So physically, no, I did it fully, right? You're right, you started remotely. I did my full placement remote and then I realised. That's not something I ever want to do, again, anyone does. And then when I got the office first summer internship, I got the ones. I boiled it down to was one that was remote and what that was in person and I went for the one in person, right? Because I cannot do another six eight weeks of remote and then McKinsey put me in person and we got to travel with the company and that was the best experience ever.
+\end{quote}
+
+So that was McKinsey. So you were based in London, with different clients I guess.
+
+\begin{quote}
+Carmen: So I was put on our US client but to get to the US during COVID you couldn't just get that easily. So we had to do two weeks in Mexico first. So we travelled there. The day before we were meant to leave for the US, Mexico was on the red list. So I had to fly home and then never got to go to the client, but I got two weeks in Mexico. My first in-person job was two weeks in Mexico. I think that was pretty good.
+\end{quote}
+
+I hear that Mexican Spanish is very different from Spanish Spanish.
+
+\begin{quote}
+Carmen: I couldn't understand the menu when I went to order food. I was like, I don't know any of these
+\end{quote}
+
+Someone was telling me the other day, Spanish person telling me that Google Translate when it does translate from English to Spanish, It does English to Latin or Hispanic Spanish rather than European Spanish Spanish. So, Spanish teachers here can always tell when their students are using Google Translate because it comes up with all these weird Latin American sayings and things that you would never say (in Spain).
+
+\begin{quote}
+Carmen: That makes so much sense actually. Yeah, no. It's you can really tell the difference. Especially there are a lot more formal than we are probably.
+\end{quote}
+
+So you did your summer internship in London and then you came back to Manchester to do your final year?
+
+\begin{quote}
+Carmen: Yes.
+\end{quote}
+
+So you did a project, what was your project?
+
+\begin{quote}
+Carmen: It was AI face ageing. So I could I actually use your picture as well for it and I made you look about 50 years old!
+\end{quote}
+
+Oh no! Anyway, my face is getting older. So you kind of what you developing algorithms for doing that effectively.
+
+\begin{quote}
+Carmen: I used two different models on how to create that image? So that should help like, for example, missing people, that could help the police, it has different applications
+\end{quote}
+
+What was that awful Facebook thing, was it face age or something?
+
+\begin{quote}
+Carmen: \href{https://en.wikipedia.org/wiki/FaceApp}{FaceApp}
+\end{quote}
+
+Robbing people's data\ldots{}
+
+\begin{quote}
+Carmen: Yes. Actually while it was yeah, using pictures on them the Russian app. Yes, I actually include that my report because yeah, that was one thing we went we obviously shouldn't do. So yeah.
+\end{quote}
+
+So, I suppose, one interesting thing is like, how did you find that transition from, so it's all about change, isn't it? You sort of you started as an undergraduate and that's what one change. And then you go to a completely different world of work and that's another change and then you come back to university and it's another change again. So, how did you find that transition back into university?
+
+\begin{quote}
+Carmen: Going back to uni was a lot better than when I started Uni, because I felt like, when I started uni, I was a lost puppy. I didn't have any software engineering background, I didn't know anything about coding. I didn't know what \href{https://en.wikipedia.org/wiki/Linux}{Linux} was. I was completely lost. Starting the job you also still feel a bit of like, what's going on. It's a new company. You're still big loss. Then when I went back to uni, because I already knew what it was like and I felt like during my placement, my confidence actually um, got built up a bit given that I actually managed to put to test my skills and managed to kind of just understand everything that's going on. I felt a bit more confident myself when addressing the courseworks and labs
+\end{quote}
+
+And you were a (Peer Assisted Study Sessions)\href{http://www.pass.manchester.ac.uk/}{PASS} leader?
+
+\begin{quote}
+Carmen: I was PASS leader in second year and past coordinator in third year, right? Okay.
+\end{quote}
+
+So I guess that's kind of that's kind of fun. I think. Yes sociable and especially after the pandemic, having everything online.
+
+\begin{quote}
+Carmen: I definitely things physically definitely took to an extreme. The fact that in third year they say that yours have a bit more free time and just decided to sign up to as many as extra curriculars as possible and take on a part-time job, which was a bit too much but it was fun and kept you entertained.
+\end{quote}
+
+Yeah, good. Okay. So, So what else have we got here? So it's got a questions about challenging things, about your job, what the most challenging things about your work life, would you say in terms of adapting to that and then working? Because working as a software engineer in a university or learning about software engineering university is quite different from actually when we try and simulate the real world and yeah we can do some simulation but there's an awful lot of simulation that can't be done. So what was what was you say was? Most tricky thing about adapting to the real world?
+
+\begin{quote}
+Carmen: I think the main thing for me was that I was used to seeing the things, but in a smaller scale and I didn't see it fully applied to the real world. So when I saw it at work or the little things that we had been taught uni kind of come together, it was it took me like maybe a couple months to just kind of put everything together and be like oh this now makes sense or this was taught this way because of this. So on bringing all that knowledge together was definitely a thing.
+\end{quote}
+
+And pulling pulling together things not just from one module but I guess from several absolutely also seeing hopefully seeing a bigger picture.
+
+\begin{quote}
+Carmen: Yes, the it was that combination of everything that really set in
+\end{quote}
+
+You finished your exams?
+
+\begin{quote}
+Yes. Last week two weeks ago, was it first of June?
+\end{quote}
+
+You've had you've been able to enjoy the nice Mediterranean weather we're having!
+
+\begin{quote}
+Carmen: Yes it feels like home.
+\end{quote}
+
+And, and what comes next? So what what your plans for the future after graduation?
+
+\begin{quote}
+Carmen: So I'm still carrying on the part-time job with the startup that I did throughout the year and they've offered me to go back full-time whenever I want basically, but then I also have the return offer from McKinsey, which I would be starting in September. Oh, so currently, I'm, I'm gonna move to London. That's one thing that I know for sure. And then in July, I'm gonna take that as a month of kind of test out what would be like full-time at the startup. Then I'm working for and then once I've done that, decided of, if I'd stay with the startup gift to McKinsey,
+\end{quote}
+
+It's good to I suppose have that option of testing it, you don't always have that luxury.
+
+\begin{quote}
+Carmen: No, it's actually been very lucky in that sense but I do know that I love travelling and I know with McKinsey it's so client-based. I really enjoy that.
+\end{quote}
+
+Although there's less travel these days with consultancies in the, you know, previously you'd spend you'd be like a road warrior, being on the road all the time and now, yeah, you still have to do that face-to-face stuff. But here's a lot of stuff via teams and zoom and whatnot.
+
+\begin{quote}
+Carmen: Yes. Um, which is also what I was scared about if that would affect anything. So I was speaking with firm themselves and they were like, there's a lot of people that also don't want to travel as well, So they would kind of allocate the clients. Hopefully, I'd be like, yeah, I want to travel so hopefully, I mean that I'd get to be with those clients
+\end{quote}
+
+And I think while you're young as well. So while you're young, it's good to travel because you don't have any commitments or have less commitments and you enjoy it. Enjoy that kind of lifestyle while you can because it sometimes becomes harder as you get older. And so, the other thing is, so that was telling us about your story. The other bit is then minority report. So you are a member of minority group. That's grand. As a woman, what's you experience been in the university. I was going to look at the figures, but I think was something around about 25\% of the undergraduate population here (in computer science) are female.
+
+\begin{quote}
+Carmen: yes
+\end{quote}
+
+So it not a disaster, but could be a whole lot better. That probably reflects what you saw in industry as well?
+
+\begin{quote}
+Carmen: I would guess. Yeah, I think slightly less from what I saw
+\end{quote}
+
+Right?
+
+\begin{quote}
+Carmen: So I'd say it's pretty good in Manchester that we have that. It's definitely a thing that every girl knows every other girl in the degree because when you walk in, kind of it's a bit thing and when it's a girl walking in rather than a guy. I didn't notice it much at first. I didn't think I realised because of the lack of knowledge. I had microaggressions, that actually arise.
+\end{quote}
+
+Was it like this at school? Sometimes you find that maths is, I think math is, it varies with countries, but I think in the UK, there are roughly equal numbers of male and female students do maths A-level, I think.
+
+\begin{quote}
+Carmen: We had, we were three girls in a class of 10 to 15, right? So, it wasn't that much. And yes, that definitely did have an impact
+\end{quote}
+
+And you've done physics as well, I know physics has a similar (problem).
+
+\begin{quote}
+Carmen: Yeah, it was like three to ten,
+\end{quote}
+
+Right. Okay. So what could the university and employers do, to make campuses and workplaces more welcoming to to women as a profession and as, you know, as students,
+
+\begin{quote}
+Carmen: I think for me, it's raising awareness on females and non-females. A lot of people identify people who don't identify female because for those who do identify female, we might receive these comments and we just take them in. We're not good enough or take them personally, whereas actually it has nothing to do with us or like if someone's underestimating my ability it doesn't mean it's because I have to prove them wrong. I have to do this, which is something that I constantly feel like, sometimes it's like, oh, I need to prove them just because I'm a female. But then also with people who don't identify as female to be understand. You can't mansplain real numbers to someone who's that, you know which has happened. And it's like, I'm 22 at University. I think I know what real numbers are. Yeah. Honest.
+\end{quote}
+
+But part of the problem is the people mansplaining don't realise. So, that is not (always) malicious. It's just ignorance in a way, I suppose unconscious bias or whatever you want to call it.
+
+\begin{quote}
+Carmen: Yeah. So we had actually we organised a few women and computer science events in Kilburn with another few students. And it was great because they actually made us more aware of other situations that maybe not, we can now reflect enough. Actually, that was not okay that if someone did that to me, and we've had conversation with people who actually try to mansplain to us like, oh yeah, mansplaining is not good and they'd be like, oh yeah, like I don't
+\end{quote}
+
+They're mansplaning mansplaining to you!
+
+\begin{quote}
+Carmen: now for they'd be like, oh yeah, I don't understand why anyone would mansplain. And we just be thinking like you've tried to mansplain to us. So it definitely shows how more awareness needs to be raised in that regard.
+\end{quote}
+
+The other thing is, making the subject (Computer Science) more appealing to women. There's lots of ideas about how to make it more appealing to women to apply to think about doing at university. Is there anything in the way that the subject is sold? Sold is not right word, in your case it was your head teacher. Who said, this is the thing. But some people look at it and think that's not for me because computer science is just about making lots of money, or it's just about building things that make other people lots of money. So one of the ideas out there is that you make the subject more appealing by showing examples of where it's beneficial to society, rather than just, you know, commercially important. Say for example, I don't know if that would have made a difference?
+
+\begin{quote}
+Carmen: I think for me just knowing what it was beforehand, I feel like the lack of exposure was a main thing. I guess this is still that stereotype that yeah, it's just maybe also gaming and not very inviting. So getting rid of that stereotype would definitely be more beneficial for me if I back in the day and
+\end{quote}
+
+From an employer point of view, I guess both of your employers would have been welcoming to women, but I guess you have you kind of different problems in the workplace. But what do you think employers could do to make this as profession more appealing or more welcoming to women.
+
+\begin{quote}
+Carmen: definitely as well.I guess it just boils back to the raising awareness. Again, I've had work meetings where a developer, I was the only female in that work meeting and male developer asked for everyone's opinion individually on something. Excluding me. So it's just kind of probably raising that way and stuff. Like why what's the need to exclude someone or what's the, why do you need to make comments like that?
+\end{quote}
+
+I feel like that's already quite inviting because it's quite difficult for you to call that?
+
+\begin{quote}
+Carmen: Exactly. Yeah. I guess it's your manager's job. I suppose or whoever's chairing the meeting to say let everyone speak or you haven't asked Carmen for example what exactly and then it rated those uncomfortable situation it's like how do you deal with that? Especially in the workplace, where, you know, you have to be a bit more formal and ethical.
+\end{quote}
+
+\hypertarget{cotopof}{%
+\section{One tune}\label{cotopof}}
+
+To finish up then I've got we've got a few things here. So, and this is one tune, one podcast, One film. Yes. So, we have a playlist that's associated with this podcast, Unfortunately, it's full of lots of dad music because its put together by me. I've been asking students. So, is there a tune that you can use to rejuvenate, or freshen up our playlist? So, it might be something that's important to to you. It might be something, it help a piece of music that helps you relax or might even help you work, or take your mind off work or remind your friends family, and that kind of thing. So, any any one, tune that you would recommend?
+
+\begin{quote}
+Carmen: There's one that I've kind of got into lately, which is \href{https://www.youtube.com/watch?v=yWbxPhTbCZI}{Loud by Sofia Carson}, which is all about. How how women are starting to give a bit more voice and things? And that's making some people not feel uncomfortable. How do you spell? C.A.R.S.O.N. Okay. So that and it's like why should you feel uncomfortable? Now that I actually speak up so I thought found that quite motivational in times where it gets a bit tough.
+\end{quote}
+
+\hypertarget{one-podcast}{%
+\section{One podcast}\label{one-podcast}}
+
+Yeah. Okay good. The one is so one podcast, I mean, you may or may not listen to podcasts?
+
+\begin{quote}
+Carmen: There's only one to listen to, one of them is my friends, it's called \textbf{ME time} (\href{https://sptfy.com/ME-time}{sptfy.com/ME-time} with Maya and Emma). So I used to listen to that on the way to work throughout and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
+\end{quote}
+
+\hypertarget{one-film}{%
+\section{One film}\label{one-film}}
+
+And the last one is one film. It could be something contemporary. Could be something as just out now or that you seem in the last couple of weeks or it could be something older.
+
+\begin{quote}
+Carmen: You the last one I've seen is, \href{https://en.wikipedia.org/wiki/She\%27s_the_Man}{She's the Man}. Because a friend mentioned earlier they and it's quite ahead of its time. It's like from 2000 and it's about how the females could also play football, right? And they didn't have to not be allowed on the team because they're a female.
+\end{quote}
+
+\hypertarget{carmen-time}{%
+\section{Time travel}\label{carmen-time}}
+
+Okay good, thank you. So, any closing comments? Advice to your former self. So if you could, if you could speak to yourself in first year or any first first, perhaps second year student, whose at the beginning of their studies. Now what would you? I know you've been doing this in your roles are PASS leader. But what one piece of advice would you give them about getting the most out of being at university?
+
+\begin{quote}
+Carmen: Definitely getting involved? Because I feel like I took the most advantage of that I could and that was one thing. I know it's hard to not compare yourself to others. I know we constantly do it. And you're doing the labs and you do you may take, you see people who have been coding since they are tiny and they take two minutes to the labs. And we take, I don't have any experience, so I took a bit way longer than that. So, just understand that the fact that they take less time, doesn't mean that they will by the end of the degree. It doesn't mean that they'll land a better job because they've been coding for longer because it's also about the learning stuff.
+\end{quote}
+
+Focusing on your also personal best, right? Yes. You know, not the Olympic gold medal standard? Yes. It's just saying, well, am I doing better than I did last time? Absolutely. And it's quite easy to fall in to that trap. I think especially at university where you're surrounded by other people who bright, motivated and hardworking. And if you compare themselves to those, it can lead to mental health problems (see chapter \ref{nurturing}). I think, should we say? I'm not. Absolutely. It's very demotivating.
+
+\begin{quote}
+Carmen: So doing that and also balancing it out with the extra-curriculars it gives you also that extra, gives you more. Well, rounded for when you finish.
+\end{quote}
+
+Well, thank you for for joining us Carmen. Thank you and we'll see you at graduation.
+
+\begin{quote}
+Carmen: Yes, graduation. Yes.
+\end{quote}
+
+(See also \href{https://www.mub.eps.manchester.ac.uk/compsci/2020/06/03/running-a-hackathon-in-lockdown-with-carmen-faura-praxedes/}{Running a Hackathon in lockdown -- with Carmen Faura Praxedes})
+
+\hypertarget{disclaimer-3}{%
+\section{Disclaimer}\label{disclaimer-3}}
 
 ⚠️ \textbf{Coding Caution} ⚠️
 
-Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been removed and links, cross references and pictures have been added to add extra context. To give clarification, non-quoted words are given in brackets like this: (some text added afterwards).
+Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been manually removed and links, cross references and pictures have been manually added to add extra context. To give clarification, extra (non-quoted) words are given in brackets like this: (some text added afterwards).
 
 \hypertarget{sneha}{%
 \chapter{Sneha}\label{sneha}}
@@ -9673,7 +9991,7 @@ Sneha: So the company ended up working for was a Matillion. It's in Manchester's
 So can you tell us about what Matillion does?
 
 \begin{quote}
-Sneha: So Matillion's focus is data transformation. (\href{https://en.wikipedia.org/wiki/Extract,_transform,_load}{Extract, transform, load}) So for cloud data warehouses, so it helps companies transform their data, especially, to move it to the cloud and it provides that kind of like middle kind of software (middleware) that like the product basically helps take the data, you know, extract it from wherever their company may have their data transform it like it allows the company to transform in a way they see fit. And then, you know, we work with like a AWS (Amazon Web Services) and Google BigQuery and my Microsoft Azure to like, you know, their day to warehouses, is to keep them all the data there. And I also other products help like analyse data and, like, in the cloud and help, you know, people be able to, like,
+Sneha: So Matillion's focus is data transformation. (\href{https://en.wikipedia.org/wiki/Extract,_transform,_load}{Extract, transform, load}) So for cloud data warehouses, so it helps companies transform their data, especially, to move it to the cloud and it provides that kind of like middle kind of software (middleware) that like the product basically helps take the data, you know, extract it from wherever their company may have their data transform it like it allows the company to transform in a way they see fit. And then, you know, we work with like a AWS (\href{https://en.wikipedia.org/wiki/Amazon_Web_Services}{Amazon Web Services}) and Google \href{https://en.wikipedia.org/wiki/BigQuery}{BigQuery} and my \href{https://en.wikipedia.org/wiki/Microsoft_Azure}{Microsoft Azure} to like, you know, their day to warehouses, is to keep them all the data there. And I also other products help like analyse data and, like, in the cloud and help, you know, people be able to, like,
 \end{quote}
 
 What was your particular role you there?
@@ -9691,7 +10009,7 @@ Sneha: Exactly.
 So what would you say the main things you learn from your placement?
 
 \begin{quote}
-Sneha: You learn a whole lot of stuff at university, using the main things you've got out for your placement work. So like you for like so you have the educational side where that I learnt a lot about you know, software engineering practices because during uni you learn a lot of theory and learn a lot (about) developing your programming skills and everything. But you know in a practical industrial level, you never really see that side until maybe third year. But before that, I never really got that. So actually how the industry works, how a company a software company works that was what was introduced and I thought that was very interesting and, like different that definitely like, you know, it we did the whole software engineering module in year two. It was like kind of applying those principles but it also helped me kind of understand agile practices more which really helped in third year and just how to co-operate with different team members and when you're working on such a big like, you know, this is not just a small repo, it's huge and you're working on a big product, like how that goes, what the process is like, obviously, you can't affect something. So, dangerously. So you, there's a whole protocol and you kind of learn about these things and, you know, what's the most efficient thing for a team. But also on the other side is just like personally I got a lot of communication like, you know, I built that communication a skill and then also just like ownership of the work that I did because I understood, you know, this is gonna impact something bigger than just, maybe like a coursework in like, you know, university. So you have to really put your effort into it and it's more than just something for you. It's something bigger. So, you know, taking responsibility and also the good thing about the company I work for is that they, you know, encouraged even me who's just like a placement, like, and software engineer. It's like, actually coming to meetings. Give my say and like that can actually have an impact on the company. So they, I think that's okay. And I guess a lot of cloud stuff as well because you've done some theory of the cloud stuff, but actually using it using AWS to in using GCP (Google Cloud Platform) and things like that to do to do stuff. Yes. Customers in your experience as well. Oh, for sure. So most enjoyable partner.
+Sneha: You learn a whole lot of stuff at university, using the main things you've got out for your placement work. So like you for like so you have the educational side where that I learnt a lot about you know, software engineering practices because during uni you learn a lot of theory and learn a lot (about) developing your programming skills and everything. But you know in a practical industrial level, you never really see that side until maybe third year. But before that, I never really got that. So actually how the industry works, how a company a software company works that was what was introduced and I thought that was very interesting and, like different that definitely like, you know, it we did the whole software engineering module in year two. It was like kind of applying those principles but it also helped me kind of understand agile practices more which really helped in third year and just how to co-operate with different team members and when you're working on such a big like, you know, this is not just a small repo, it's huge and you're working on a big product, like how that goes, what the process is like, obviously, you can't affect something. So, dangerously. So you, there's a whole protocol and you kind of learn about these things and, you know, what's the most efficient thing for a team. But also on the other side is just like personally I got a lot of communication like, you know, I built that communication a skill and then also just like ownership of the work that I did because I understood, you know, this is gonna impact something bigger than just, maybe like a coursework in like, you know, university. So you have to really put your effort into it and it's more than just something for you. It's something bigger. So, you know, taking responsibility and also the good thing about the company I work for is that they, you know, encouraged even me who's just like a placement, like, and software engineer. It's like, actually coming to meetings. Give my say and like that can actually have an impact on the company. So they, I think that's okay. And I guess a lot of cloud stuff as well because you've done some theory of the cloud stuff, but actually using it using AWS to in using GCP (\href{https://en.wikipedia.org/wiki/Google_Cloud_Platform}{Google Cloud Platform}) and things like that to do to do stuff. Yes. Customers in your experience as well. Oh, for sure. So most enjoyable partner.
 \end{quote}
 
 Maybe you've covered that already but what was the most enjoyable thing about working. Apart from being paid!
@@ -9772,8 +10090,8 @@ Everyone's trying. Well, \emph{most} people are trying. Anyway. It's a hard prob
 Sneha: it really is yeah, they try and introduce seminars or they had like a whole weekly meeting talking about, they got like, professional to talk about these things. But like, as much as you know, there is a lot of diversity. I feel like maybe in the engineering department, there's less diversity. Once again, predominantly male and actually, even predominantly, , white males and even more with recruitment to my team, the past three people that have come in, have all been white males and so that I know they are aware. They're recruitment is a little bit, you know, maybe not as diverse, and they're trying to change that. So I do I see that they are trying, but they're obviously things, you like kind of see and like, the reason is like, like the reason why I'd want to get a bit more diverse as a person like, you know, like from a minority group, it's just, you know, these kind of things they do impact your experience computer science or at work, at school. So you kind of want to be able to relate to other people in these experiences. So I think that's why like a super important to be able to see that. But what, in terms of teaching, a lot of the lecturers I do, they will a lot of female lecturers and even my like, supervisor from first and second was a female. So, like it would like, I think in terms of like staff and teaching that was quite good diversity.
 \end{quote}
 
-\hypertarget{one-tune-1}{%
-\section{One tune}\label{one-tune-1}}
+\hypertarget{one-tune}{%
+\section{One tune}\label{one-tune}}
 
 Okay, good. Right. So the last thing to finish up, well, the last bit to finish up is one one tune one podcast. And one film was the penultimately? Yeah. Is so, um, a piece of music.
 
@@ -9858,9 +10176,12 @@ we look forward to seeing you at graduation next week.
 Sneha: Yeah, so exciting. Okay. Thank you.
 \end{quote}
 
+\hypertarget{disclaimer-4}{%
+\section{Disclaimer}\label{disclaimer-4}}
+
 ⚠️ \textbf{Coding Caution} ⚠️
 
-Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been removed and links, cross references and pictures have been added to add extra context. To give clarification, non-quoted words are given in brackets like this: (some text added afterwards).
+Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some \href{https://en.wikipedia.org/wiki/Speech_disfluency}{speech disfluency} has been manually removed and links, cross references and pictures have been manually added to add extra context. To give clarification, extra (non-quoted) words are given in brackets like this: (some text added afterwards).
 
 \hypertarget{alice}{%
 \chapter{Alice}\label{alice}}
