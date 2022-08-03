@@ -46,13 +46,13 @@ knitr::include_graphics("images/alicequotation.jpeg")
 Pictures tell stories, pictures explain. Pictures help you understand. Pictures help you imagine. So this book uses pictures (and conversations) to help you visualise your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
 
 ## Your future aims {#vaccine}
-This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients: **`C`**, **`D`**, **`Y`**, **`F`** and `.me`:
+This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients: **`C`**, **`D`**, **`Y`**, **`F`** and **`.me`**:
 
 1. **`C is for CODE`**: Instructions, algorithms, recipes, methods and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
 1. **`D is for DATA`**: Data, data everywhere. Facts, statistics, graphs and pictures collected together for your analysis
 1. **`Y is for YOU`**: This book is all about you, with activities and other *coding challenges* for you to do in addition to just passively reading
 1. **`F is for FUTURES`**: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about *your* future. [@thinkaboutthefuture; @wroteforluck]
-1. `.me is for ME`: Hello, my name is Duncan, see figure \@ref(fig:hello-my-name-fig). I'm your tour guide here. If you're feeling a bit lost, follow me and together we can code your future.
+1. **`.me is for ME`**: Hello, my name is Duncan, see figure \@ref(fig:hello-my-name-fig). I'm your tour guide here. If you're feeling a bit lost, follow me and together we can code your future.
 
 
 ```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "89%", fig.cap = "(ref:captionhellomyname)"}
