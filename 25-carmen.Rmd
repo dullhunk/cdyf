@@ -51,7 +51,7 @@ And I guess did you have many interviews before? The one you got? Did you have m
 
 You actually did a placement and internship. Did you which one which way round did you do it?
 
-> Carmen: I did first my placement, the placement was at [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company) (see [My Industrial Placement at Disney – Carmen Faura](https://www.mub.eps.manchester.ac.uk/compsci/2022/01/10/my-industrial-placement-at-disney-carmen-faura/))
+> Carmen: I did first my placement, the placement was at [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company) , see [@carmen2]
 
 What were you doing? Brief description of what you were doing for Walt Disney.
 
@@ -206,13 +206,18 @@ To finish up then I've got we've got a few things here. So, and this is one tune
 ## One podcast
 Yeah. Okay good. The one is so one podcast, I mean, you may or may not listen to podcasts?
 
-> Carmen: There's only one to listen to, one of them is my friends, it's called **ME time** ([sptfy.com/ME-time](https://sptfy.com/ME-time) with Maya and Emma). So I used to listen to that on the way to work throughout  and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
+> Carmen: There's only one to listen to, one of them is my friends, it's called **ME time** [@metime]. So I used to listen to that on the way to work throughout  and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
 
 ## One film
 
 And the last one is one film. It could be something contemporary. Could be something as just out now or that you seem in the last couple of weeks or it could be something older.
 
-> Carmen: You the last one I've seen is, [She's the Man](https://en.wikipedia.org/wiki/She%27s_the_Man). [@shestheman] Because a friend mentioned earlier they and it's quite ahead of its time. It's like from 2000 and it's about how the females could also play football, right? And they didn't have to not be allowed on the team because they're a female.
+> Carmen: You the last one I've seen is, [She's the Man](https://en.wikipedia.org/wiki/She%27s_the_Man). [@shestheman] Because a friend mentioned earlier they and it's quite ahead of its time. It's like from 2000 and it's about how the females could also play football, right? And they didn't have to not be allowed on the team because they're a female. (see figure \@ref(fig:shes-the-man-fig))
+
+```{r shes-the-man-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshestheman)"}
+knitr::include_graphics("images/shes-the-man.jpeg")
+```
+(ref:captionshestheman) *She's the Man* is a 2006 American romantic comedy teen sports film directed by Andy Fickman and starring Amanda Bynes, Channing Tatum, Laura Ramsey, Vinnie Jones, and David Cross. [@shestheman]
 
 ## Advice to your former self {#carmen-time}
 
@@ -229,8 +234,7 @@ Well, thank you for for joining us Carmen. Thank you and we'll see you at gradua
 
 > Carmen: Yes, graduation. Yes.
 
-
-(See also [Running a Hackathon in lockdown – with Carmen Faura Praxedes](https://www.mub.eps.manchester.ac.uk/compsci/2020/06/03/running-a-hackathon-in-lockdown-with-carmen-faura-praxedes/))
+See also *Running a Hackathon in lockdown*. [@carmen1]
 
 
 ## Disclaimer  

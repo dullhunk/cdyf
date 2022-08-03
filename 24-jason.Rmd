@@ -217,7 +217,7 @@ You have to be a genius programmer!
 
 >Jason: I tell people. Oh yeah, I'm starting with Google. You must be amazing. You must be a genius. NO I'm not I'm not, I work pretty hard and you know I'm competent. I know what I'm doing but I'm not crazy. I'm not autistic. You know, specialists of anything really? I'm just find it interesting. I've worked hard and acquired skill that was good enough to know work at these companies. So that's what I tell people, you know? It's just, it's okay. If you take your time, you're willing to be consistent and you know do it as like a proper thing. I think **a big thing of tech is that you kind of have to do it over long period of time and just gradually soaking all the skills.**
 
-One of my colleagues talks about learning, it's like sedimentation. It's like things settle slowly. You're not just going to get it straight away. It might take months, maybe even years to get it. For some subjects to actually click.
+One of my colleagues ([Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/)) talks about learning, it's like sedimentation. It's like things settle slowly. You're not just going to get it straight away. It might take months, maybe even years to get it. For some subjects to actually click.
 
 
 > Jason: Exactly. What I think, a lot of people that I've spoken to try and get into tech and try and do coding. They could they do code for maybe like maybe two three weeks and then like yeah, I couldn't figure out. All right. You kind of need to do. Maybe I think you can't even say you've really given it a try until maybe six months. I say, three to six months of actual of graft and then maybe you can now, say, okay? Maybe this is or isn't for me.
@@ -243,13 +243,18 @@ It could be something that you helps you relax. It might make you feel happy or 
 
 Yeah, good. Okay. And then one podcast that you listen to recommend
 
->Jason: one, I really recommend is under the skin (see [russellbrand.com/podcasts/](https://www.russellbrand.com/podcasts/)), by [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand). So for those of you may not know that Russell Brand was a really big Reality TV guy for a while but went on a bit of a bender and lost himself to drugs and addiction and stuff like that. Then he rediscovered himself, completely reformed himself and he has a podcast called under the skin where he brings different people on to talk about different things. Sometimes he'll talk about spiritual things to talk about, the concept of the soul, and what it means like, life and death and stuff like that. You can get really deep like that. Or he might do stuff about social economic stuff and current issues and current problems we have in our society right now. And yeah, it's really good, like blend of like just a bunch of different things. So yeah, I recommend if anyone looking to kind of broaden their horizons,
+>Jason: one, I really recommend is under the skin, by [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand). [@undertheskin] So for those of you may not know that Russell Brand was a really big Reality TV guy for a while but went on a bit of a bender and lost himself to drugs and addiction and stuff like that. Then he rediscovered himself, completely reformed himself and he has a podcast called under the skin where he brings different people on to talk about different things. Sometimes he'll talk about spiritual things to talk about, the concept of the soul, and what it means like, life and death and stuff like that. You can get really deep like that. Or he might do stuff about social economic stuff and current issues and current problems we have in our society right now. And yeah, it's really good, like blend of like just a bunch of different things. So yeah, I recommend if anyone looking to kind of broaden their horizons,
 
 ## One film {#jfilm}
 
 Sounds good. Well I'll put a link in the show notes and then the last one was a film any films? Any films that you'd recommend people go and watch. Netflix or wherever, wherever people consume films these days.
 
-> Jason: I recommend my favourite movie, probably of all time is The Matrix, the first one, [@thematrix] not the fourth one. That's come out now.  Don't watch it. It's trash. The graphics are amazing. The CGI is amazing. The story. Yeah. Not so much I wasn't a great fan. But, I mean, the first original, the first matrix was one of the movies, I always tell people that and Iron Man are the things that made me like computers in first place. So I'd recommend The Matrix,
+> Jason: I recommend my favourite movie, probably of all time is The Matrix, the first one, [@thematrix] not the fourth one. That's come out now.  Don't watch it. It's trash. The graphics are amazing. The CGI is amazing. The story. Yeah. Not so much I wasn't a great fan. But, I mean, the first original, the first matrix was one of the movies, I always tell people that and Iron Man [@ironman] are the things that made me like computers in first place. So I'd recommend The Matrix, (see figure \@ref(fig:matrix-fig))
+
+```{r matrix-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmatrix)"}
+knitr::include_graphics("images/the-matrix.jpeg")
+```
+(ref:captionmatrix) *The Matrix* depicts a dystopian future in which humanity is unknowingly trapped inside a simulated reality, the Matrix, which intelligent machines have created to distract humans while using their bodies as an energy source. [@thematrix]
 
 How old is that film now?
 
