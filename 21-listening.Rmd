@@ -18,6 +18,7 @@ Listen in to the episodes below, or read the transcripts, to find out more about
 * Where are they planning to going next?
 * What advice would they offer to their former selves and fellow students?
 
+<!-- this the trailer -->
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23577479/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
@@ -35,6 +36,8 @@ You can subscribe (for free!) by following one of the links below to your favour
 * Podcast homepage: [codingyourfuture.libsyn.com](https://codingyourfuture.libsyn.com/)
 
 If all else fails, you can cut-and-paste the raw `rss` feed URL below into the relevant settings on your podcast app:
+
+
 
 ```md
 http://feeds.libsyn.com/299189/rss
@@ -190,7 +193,7 @@ So, can you recommend a:
     - Perhaps it makes you relax, feel happy or comforted?
     - Maybe it reminds you of special people, a special time or special place in your life?
     - We'll add it to *The Coder's Playlist* in section \@ref(coders)
-* **PODCAST:** One podcast (or audiobook) you’ve enjoyed that you’d recommend our listeners subscribe to 🎧
+* **PODCAST:** One podcast (or audiobook) you’ve enjoyed that you’d recommend people listen or subscribe to 🎧
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
 ### Time traveller {#your-time}

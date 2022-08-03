@@ -17,15 +17,15 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 So, Welcome Sneha, Thank you for coming on the show. Let's start with, tell us a little bit about yourself and where you come from?
 
-> Sneha: So my name is Sneha, like you said,  I've just finished so I'm so excited. Just graduated my bachelor of Science in computer science with a year in industry from the University of Manchester. I'm actually from Manchester, this is like my hometown and but originally grew up here.
+> Sneha: So my name is Sneha, like you said,  I've just finished so I'm so excited. Just graduated my bachelor of Science in computer science with a year in industry from the University of Manchester. I'm actually from Manchester, this is my hometown and but originally grew up here.
 
 You grew up in Manchester?
 
-> Sneha: since I'm like three years old, right? Well, okay. But I was like, originally I born in India but like my whole life has been in Manchester. A little bit about me.
+> Sneha: since I'm twenty three years old, right? Well, okay. But I was originally born in India but like my whole life has been in Manchester. A little bit about me.
 
 Good. Okay, so the next question is I'm really interested to find out why why people study computing because there's lots of routes into it as a subject. So what was it that made you think this is something I'd like to spend three or four years at university doing
 
-> Sneha: so I to it wasn't like I'm it wasn't something. I was always like oh this is my calling, you know, this is my this is the field of my choice. I was thinking of various things but I am it may not be as like exciting of a story but genuinely just going through that like that window. Sorry. Yeah, that's going past carry on. So like, it's not as exciting, but like, that whole going through the education process from like GCSE and then to like a level and then, you know, at that point I I think I had that good firm like but you know that ground that footwork. So that's really helped because, you know, it made that I had that incremental kind of development when it came to the subject and then like obviously I enjoyed don't a bit of computing,
+> Sneha: so it wasn't something I was always  "oh this is my calling", you know, this is my this is the field of my choice. I was thinking of various things but I am it may not be as exciting of a story but genuinely just going through that that window. Sorry. Yeah, that's going past carry on. So, it's not as exciting, but that whole going through the education process from like GCSE and then to like a level and then, you know, at that point I I think I had that good firm like but you know that ground that footwork. So that's really helped because, you know, it made that I had that incremental kind of development when it came to the subject and then like obviously I enjoyed don't a bit of computing,
 
 You did on a GCSE in computing?
 
@@ -156,15 +156,20 @@ So as soon as after that, like me and my sister be put it back on our playlist b
 
 Good choice. Okay. So the other thing and is one podcast. I don't know if you listen to podcast but other if there are good podcasts out there that you listen to would you is the one that you recommend?
 
-> I don't really tend to listen to many. But one podcast I do is [rotten mango](https://www.rottenmangopodcast.com/). It's very, it's more. Like, if you're into like true crime and like, you know, that kind of field she doesn't in a very like, like, obviously in very, you know, dark topics and stuff, but she takes it from like a psychological perspective and like a legal perspective, like all these different things, it's tied in a more lighthearted way.
+> I don't really tend to listen to many. But one podcast I do is [rotten mango](https://www.rottenmangopodcast.com/). [@rottenmango] It's very, it's more. Like, if you're into like true crime and like, you know, that kind of field she doesn't in a very like, like, obviously in very, you know, dark topics and stuff, but she takes it from like a psychological perspective and like a legal perspective, like all these different things, it's tied in a more lighthearted way.
 
 Obviously in a more, it's still respectful. But in a very, you know, you're not feeling like groggy and like upset about the things you're listening to. It's very like interesting. So, if you're into that, it's really good. Okay. And then one film, was it gonna be the same film that you would just talk about using a different filter?
 
 ## One film
 
-It, I was thinking of recommending thought but no, my like favourite film like that. I think I like if anyone asks me this is my film, it's called three idiots. I don't know, three, idiots. Three it yet. It's a Bollywood film, but it's very it's got a lot of global like recognition.
+I think if anyone asks me this is my film, it's called [3 idiots](https://en.wikipedia.org/wiki/3_Idiots), see figure \@ref(fig:three-idiots-fig). [@threeidiots] It's a Bollywood film, but it's got a lot of global recognition.
 
-So like obviously it's in like a different language. What sort of is, is it maybe made recently? Or is it? Oh no, it's almost like 2000. I mean not old all the 2009? Yeah, 10 years ago, he's old. So it's like it's it's the best Like, obviously, because it's in a different language, you may think?
+```{r three-idiots-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionidiots)"}
+knitr::include_graphics("images/three-idiots.jpeg")
+```
+(ref:captionidiots) 3 Idiots is a 2009 Indian Hindi-language coming-of-age comedy-drama film written, edited and directed by Rajkumar Hirani and co-written by Abhijat Joshi, with producer Vidhu Vinod Chopra. [@threeidiots]
+
+So obviously it's in a different language. What sort of is, is it maybe made recently? Or is it? Oh no, it's almost like 2000. I mean not old all the 2009? Yeah, 10 years ago, he's old. So it's the best Like, obviously, because it's in a different language, you may think?
 
 Oh no, like, can't really relate, but it's like generally, it just it crosses culture.
 
