@@ -86,14 +86,13 @@ knitr::include_graphics(rep("images/the-beatles.jpeg", 3))
 
 (ref:captionbeatles) [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [Ringo](https://en.wikipedia.org/wiki/Ringo_Starr) and [George](https://en.wikipedia.org/wiki/George_Harrison) (aka The Beatles) are from Liverpool in Lancashire. Public domain image of The Beatles in New York City in 1964 via Wikimedia Commons at [w.wiki/5UJy](https://w.wiki/5UJy)
 
-Bursting with [Red Roses of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) 🌹 this playlist wants to inform and entertain you in equal measure, [while my keyboard gently weeps](https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps) [@weeps]. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) shown in figure \@ref(fig:robbie-williams-fig):
-
+Bursting with Red Roses of Lancaster (see figure \@ref(fig:roses-fig)) this playlist wants to inform and entertain you in equal measure, [while my keyboard gently weeps](https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps) [@weeps]. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) shown in figure \@ref(fig:robbie-williams-fig):
 
 ```{r robbie-williams-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionrobbie)"}
 knitr::include_graphics("images/let-me-entertain-you-let-me-educate-you.jpeg")
 ```
 
-(ref:captionrobbie) Robbie Williams and [Guy Chambers](https://en.wikipedia.org/wiki/Guy_Chambers) were inspired to write *[Let Me Entertain You](https://en.wikipedia.org/wiki/Let_Me_Entertain_You_(Robbie_Williams_song))* after watching *[The Rolling Stones Rock and Roll Circus](https://en.wikipedia.org/wiki/The_Rolling_Stones_Rock_and_Roll_Circus)*. [@circus] “Come on, let me, ~~entertain~~ educate you!” [@entertainyou]
+(ref:captionrobbie) Robbie Williams and [Guy Chambers](https://en.wikipedia.org/wiki/Guy_Chambers) were inspired to write *[Let Me Entertain You](https://en.wikipedia.org/wiki/Let_Me_Entertain_You_(Robbie_Williams_song))* after watching *[The Rolling Stones Rock and Roll Circus](https://en.wikipedia.org/wiki/The_Rolling_Stones_Rock_and_Roll_Circus)*. [@circus] “Come on, let me entertain you! Come on, let me educate you!” [@entertainyou]
 
 
 ::: {.rmdcaution}
@@ -102,6 +101,12 @@ knitr::include_graphics("images/let-me-entertain-you-let-me-educate-you.jpeg")
 * **Do say:** This land's the place I love and here I'll stay [@ferrycrossthemersey]
 * **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvDvG0TRu63n3i12kR89niFJ](https://youtube.com/playlist?list=PLyxEvjuBJhvDvG0TRu63n3i12kR89niFJ)
 :::
+
+```{r roses-fig, echo = FALSE, fig.show = "hold", out.width = "20%", fig.cap = "(ref:captionredrose)"}
+knitr::include_graphics(rep("images/Red-Rose-of-Lancaster.png", 5))
+```
+
+(ref:captionredrose) The [Red Rose of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) is a symbol of the county of [Lancashire](https://en.wikipedia.org/wiki/Lancashire), first adopted by the [House of Lancaster](https://en.wikipedia.org/wiki/House_of_Lancaster) in the 14th century. 🌹
 
 
 ## The Dad-rock playlist {#dadrock}
