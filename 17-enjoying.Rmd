@@ -1,12 +1,12 @@
 # Enjoying your future {#enjoying}
-Music is deeply connected to your mental health and your sense of wellbeing that we discussed in chapter \@ref(nurturing). Music has the ability to comfort and connect you to yourself and to others by providing motivation, gratification and empathy. There's plenty of good evidence that listening to music can enhance your mood. [@zatorre; @dopamine]
+Music is deeply connected to your mental health and your sense of wellbeing that we discussed in chapter \@ref(nurturing). Music has the ability to comfort and connect you to others and yourself by providing motivation, gratification and empathy. There's plenty of scientific evidence that listening to music can enhance your mood. [@zatorre; @dopamine]
 
 ```{r enjoying-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionenjoying)"}
 knitr::include_graphics("images/Enjoying-your-future.png")
 ```
 (ref:captionenjoying) Enjoying your future sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Besides entertaining you and cheering you up, there's also lot of wisdom captured in the lyrics of many songs too, offering sound advice on how you can live your life. If that wasn't enough to convince you that music is important for your future, there's no shortage of links between mathematics and music too. [@behindthemusic; @musicnmaths]
+Besides entertaining you and lifting your spirits, there's also lot of wisdom captured in the lyrics of many songs too, offering sound advice on how you can live your life. If that wasn't enough to convince you that music is important for your future, there's no shortage of links between mathematics and music too. [@behindthemusic; @musicnmaths]
 
 This chapter explores the musical references scattered throughout in this guidebook in a series of playlists which are accompanied with some explanation and context to help you enjoy them.
 
@@ -28,9 +28,9 @@ knitr::include_graphics("images/we-are-the-music-makers.jpeg")
 
 ### Playlist notes {#codersnotes}
 
-Some notes to help you enjoy the music:
+Some notes to help you enjoy music on the coder's playlist:
 
-1. “Anything” (we chose *No Idea*) by rapper [Don Toliver](https://en.wikipedia.org/wiki/Don_Toliver) was chosen by Jason, see chapter \@ref(jason). [@noidea]
+1. “Anything” (we chose *[No Idea](https://en.wikipedia.org/wiki/No_Idea_(song))*) by rapper [Don Toliver](https://en.wikipedia.org/wiki/Don_Toliver) was chosen by Jason, see chapter \@ref(jason). [@noidea]
 1. *LOUD* by singer [Sofia Carson](https://en.wikipedia.org/wiki/Sofia_Carson) was chosen by Carmen, see chapter \@ref(carmen). [@loud]
 1. *[November Rain](https://en.wikipedia.org/wiki/November_Rain)* by rockers [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) was chosen by Sneha, see chapter \@ref(sneha). [@novemberrain]
 1. *[Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk)* by [Mark Ronson](https://en.wikipedia.org/wiki/Mark_Ronson)  is in this playlist because Aidan Blowers use of this music in his teaching has inspired me, see section \@ref(st-laurence) Thanks Aidan 🙏 [@uptownfunk; @blowers]
@@ -47,7 +47,7 @@ knitr::include_graphics(rep("images/draughts.png", 3))
 
 (ref:captiondraughts) Is this the worlds first [video game](https://en.wikipedia.org/wiki/Video_game)? Christopher Strachey's draughts game displayed on a cathode ray tube in 1952. When the game finished, the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) computer which ran the game, played a tune. Public domain image from Wikimedia Commons at [w.wiki/5UJs](https://w.wiki/5UJs)
 
-Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the King* [@godsavethequeen] which was played at the end of what is probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC.
+Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the King* [@godsavethequeen] which was played at the end of what is very probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC.
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/286040117&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>')
@@ -86,7 +86,7 @@ knitr::include_graphics(rep("images/the-beatles.jpeg", 3))
 
 (ref:captionbeatles) [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [Ringo](https://en.wikipedia.org/wiki/Ringo_Starr) and [George](https://en.wikipedia.org/wiki/George_Harrison) (aka The Beatles) are from Liverpool in Lancashire. Public domain image of The Beatles in New York City in 1964 via Wikimedia Commons at [w.wiki/5UJy](https://w.wiki/5UJy)
 
-Bursting with Red Roses of Lancaster (see figure \@ref(fig:roses-fig)) this playlist wants to inform and entertain you in equal measure, [while my keyboard gently weeps](https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps) [@weeps]. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) shown in figure \@ref(fig:robbie-williams-fig):
+Bursting with Lancastrian Red Roses (see figure \@ref(fig:roses-fig)) this playlist will educate and entertain you in equal measure, [while my keyboard gently weeps](https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps) [@weeps]. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) shown in figure \@ref(fig:robbie-williams-fig):
 
 ```{r robbie-williams-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionrobbie)"}
 knitr::include_graphics("images/let-me-entertain-you-let-me-educate-you.jpeg")
@@ -106,7 +106,7 @@ knitr::include_graphics("images/let-me-entertain-you-let-me-educate-you.jpeg")
 knitr::include_graphics(rep("images/Red-Rose-of-Lancaster.png", 5))
 ```
 
-(ref:captionredrose) The [Red Rose of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) is a symbol of the county of [Lancashire](https://en.wikipedia.org/wiki/Lancashire), first adopted by the [House of Lancaster](https://en.wikipedia.org/wiki/House_of_Lancaster) in the 14th century. CC BY-SA image of a red rose by [Sodacan](https://commons.wikimedia.org/wiki/User:Sodacan) on Wikimedia Commons [w.wiki/5Y4Z](https://w.wiki/5Y4Z)🌹
+(ref:captionredrose) The [Red Rose of Lancaster](https://en.wikipedia.org/wiki/Red_Rose_of_Lancaster) is a symbol of the county of [Lancashire](https://en.wikipedia.org/wiki/Lancashire), first adopted by the [House of Lancaster](https://en.wikipedia.org/wiki/House_of_Lancaster) in the 14th century. There's no 14th century music in the Lancashire playlist, but there's plenty of red roses. CC BY-SA image of a red rose by [Sodacan](https://commons.wikimedia.org/wiki/User:Sodacan) on Wikimedia Commons [w.wiki/5Y4Z](https://w.wiki/5Y4Z)🌹
 
 
 ## The Dad-rock playlist {#dadrock}
@@ -118,10 +118,10 @@ knitr::include_graphics("images/jimi-hendrix.jpeg")
 
 (ref:captionhendrix) Are you experienced in Dad-rock? [@hendrix] Definitions vary, but there's plenty of Dads who believe this playlist includes some of the best music ever made. By real musicians. With real musical instruments. Public domain image of [Jimi Hendrix](https://en.wikipedia.org/wiki/Jimi_Hendrix) performing on the *[Hoepla](https://en.wikipedia.org/wiki/Hoepla)* show in 1967 by A. Vente via Wikimedia Commons [w.wiki/5WHj](https://w.wiki/5WHj) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
-Cherished by men of a certain age, the Dad-rock playlist thrives on past glories but is a shadow of its former self. Proponents of Dad-rock can't understand why more people don't enjoy these classic and seminal tunes of yesteryear [@dadrock; @dadrock2]:
+Cherished by men of a certain age, the Dad-rock playlist thrives on past glories but is a shadow of its former self. Proponents of Dad-rock can't understand why more people don't enjoy these seminal tunes of yesteryear [@dadrock; @dadrock2]:
 
 ::: {.rmdcaution}
-* **Do say:** Expiry date: What expiry date? Good music like this is timeless!
+* **Do say:** Expiry date: What expiry date? Classic music like this is timeless!
 * **Don't say:** Oh no, not this again!
 * **Listen** at [youtube.com/playlist?list=PLyxEvjuBJhvDUyr9hPvUP3IeriN8aaTW0](https://www.youtube.com/playlist?list=PLyxEvjuBJhvDUyr9hPvUP3IeriN8aaTW0)
 * **Note**: we've broadened the definition of Dad-rock to include *any* music that your Dad might have listened to *“when he was your age”* ...
@@ -135,7 +135,7 @@ Wetter and muddier than the traditional summer downpour at the [Glastonbury Fest
 knitr::include_graphics("images/glastonbury-festival.jpeg")
 ```
 
-(ref:captionglastonbury) “[Why does it always rain on me?](https://en.wikipedia.org/wiki/Why_Does_It_Always_Rain_on_Me%3F) Is it because ~~I lied when I was seventeen~~ *I went to [Glastonbury festival](https://en.wikipedia.org/wiki/Glastonbury_Festival)*?”. [@whydoesitalwaysrainonme] If you're only happy when it rains, if you're only happy when it's complicated, then the indie rock playlist is for you. [@onlyhappy] All art is borne of suffering and this playlist helps you wallow in it. Pour your misery down on me! Picture taken from the highest point at Glastonbury festival in 2016 by Czampal on Wikimedia Commons [w.wiki/5WKn](https://w.wiki/5WKn) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captionglastonbury) “[Why does it always rain on me?](https://en.wikipedia.org/wiki/Why_Does_It_Always_Rain_on_Me%3F) Is it because ~~I lied when I was seventeen~~ *I went to [Glastonbury festival](https://en.wikipedia.org/wiki/Glastonbury_Festival)*?” [@whydoesitalwaysrainonme] If you're only happy when it rains, if you're only happy when it's complicated, then the indie rock playlist is for you. [@onlyhappy] All art is borne of suffering and this playlist helps you wallow in it. Pour your misery down on me! Picture taken from the highest point at Glastonbury festival in 2016 by Czampal on Wikimedia Commons [w.wiki/5WKn](https://w.wiki/5WKn) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 
 ::: {.rmdcaution}

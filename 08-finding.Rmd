@@ -10,13 +10,16 @@ knitr::include_graphics("images/Yes but how do I.png")
 ## What you will learn {#ilo8}
 At the end of this chapter you will be able to:
 
-1. Formulate job search strategies, by role, by sector, time, size and location
-1. Identify opportunities for finding work, online and face-to-face
-1. Identify people in your existing networks who can help you
-1. Grow your networks and use them to your advantage
+1. Formulate job search strategies:
+    + by role, sector, skills, time, size, quantity, network and location
 1. Apply your search strategies to advertised (and unadvertised) opportunities
-1. Critically evaluate what employers have on offer (beyond the financial incentives)
-1. Describe some of the problems with recruitment, both for employers and employees
+    + Identify opportunities for finding work, online and face-to-face
+    + Identify people in your existing networks who can help you
+    + Grow your networks and use them to your advantage
+1. Describe some of the problems with recruitment:
+    + for employers
+    + for potential employees (like you)
+    + Critically evaluate what employers have on offer (beyond the financial incentives)
 
 
 <!--
@@ -25,7 +28,169 @@ At the end of this chapter you will be able to:
 
 <!--* Describe what it means to be **employable**-->
 
+## Job search strategies {#strategies}
+It can be bewildering knowing where to start your job search, because the possibilities are endless. There are many parameters to your search. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned eight:
+
+1. 👨‍🔬 by role, see section \@ref(by-role)
+1. 📊 by sector, see section \@ref(by-sector)
+1. 💪 by skills, see section \@ref(by-skills)
+1. 🕰 by time, see section \@ref(by-time)
+1. 🚛 by size, see section \@ref(by-size)
+1. 🌇 by location,  see section \@ref(by-location)
+1. ⚖️ by quantity, see section \@ref(by-quantity)
+1. 👨‍👩‍👧‍👦 by network, see section \@ref(weakties)
+
+They each have strengths and weaknesses, so you'll probably want to use more than one, and experiment with different strategies as your search progresses. No doubt, you'll have some extra strategies of your own, this is not an exhaustive list:
+
+### By role {#by-role}
+There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Lets say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
+
+```md
+* I'm looking for product management roles
+```
+
+The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
+
+### By sector {#by-sector}
+Computing is found in every sector of business and society. You won't just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:
+
+```md
+* I'm interested in the financial sector, particular FinTech
+```
+
+Like many graduate employment guides, the Guardian 300 guide (see section \@ref(studentjobs)) has  good overview of different sectors by breaking down employers by sectors such as:
+
+* Consulting
+* Public sector
+* Finance
+
+Picking a sector can help you get started, to narrow what might otherwise be a massive search space.
+
+
+### By skills {#by-skills}
+Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs. Take [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (AWS) for example:
+
+```md
+* I'm interested in AWS, I'm looking for roles using AWS
+```
+
+Picking a technology can help you narrow down the options, for example by using these keywords in your search.
+
+
+### By time {#by-time}
+For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example:
+
+```md
+* It's October, so I'm applying to large employers
+```
+
+Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.
+
+### By size {#by-size}
+Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There's advantages and disadvantages to each, but picking a size can help you get started. For example:
+
+```md
+* I'm applying to startups where I can have flexibility
+```
+
+Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
+
+```{r shortcuts, echo = FALSE}
+job_table <- tibble::tribble(
+  ~ ""       , ~ "Large employers", ~ "SMEs",
+  "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
+  "When"     , "Vacancies open earlier in the academic year", "Vacancies *tend* to open later in the academic year",
+  "How"      , "Typically multistage applications, several rounds of interviews", "Typically shorter application and interview processes",
+  "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
+  "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
+)
+knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
+```
+
+### By location {#by-location}
+Pick a location. London? Manchester? New York? The Outer Hebrides? Depending on the location, this will determine the options that are available:
+
+```md
+* I'm looking for jobs in Manchester, UK or within easy reach of it
+```
+
+Locations can help you define your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
+
+
+### By quantity {#by-quantity}
+Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
+
+```{r blunderbuss-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblunderbuss)"}
+knitr::include_graphics("images/Blunderbuss.png")
+```
+(ref:captionblunderbuss) As you target employers, what will your strategy be? At one extreme you could optimise the *quantity* of your applications, aiming to do as many as you can. This is shown in the left of the picture by the [blunderbuss](https://en.wikipedia.org/wiki/Blunderbuss) (or scattergun) strategy. You make lots of applications but don't target or tailor them much in the hope that *some* will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the *quality* of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Figure \@ref(fig:blunderbuss-fig) shows two extreme approaches to job hunting, in reality you'll probably want to strike a balance between *quality* and *quantity*. Finding jobs by quantity can set a pace and rhythm to your job search:
+
+```md
+* I'm doing one application per week during term time
+```
+
+If you find yourself:
+
+* Making a small number of applications, you may need to consider applying more widely and spending *less time* on each application
+* Making a large number of applications, you may need to consider applying less and spending  *more time* on each application
+
+
+This raises the question, how big is a *small* or a *large* number of job applications, which isn't easy to answer. Doing fifty applications over a couple of months may mean the quality of each is too low.
+
+### By network {#weakties}
+The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliche goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network:
+
+```md
+* I'll investigate employers of people I know
+```
+
+Your close network probably won't change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist [Mark Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) calls  “weak ties”. [@granovetter]
+
+```{r bumped-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbumped)"}
+knitr::include_graphics("images/Bumped into.png")
+```
+(ref:captionbumped) It's not what you know, its who you know: Networking and personal contacts can be more useful than just knowledge and skills alone, when seeking employment. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you're after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+ Weak ties are people you don't know as well, but are important for a range of reasons. Research has shown that [building networks of weak ties is good for your mental health and can give you an edge in job hunting](https://www.bbc.com/worklife/article/20200701-why-your-weak-tie-friendships-may-mean-more-than-you-think). [@weakties] Granovetter showed that many job opportunities came through weak ties, rather than strong ones. This is true not just of jobs early on in your career (like now) but also later too. So it is in your interests to continually foster weak connections and be open to serendipitous meetings where you bump into people, as in Figure \@ref(fig:bumped-fig). “Bumping into” here, could mean either physical or virtual.
+
+```{r net-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionnetworks)"}
+knitr::include_graphics("images/grow your networks.png")
+```
+
+(ref:captionnetworks) Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+<!-- network includes
+* Fellow students
+* Employers on campus
+* Alumni
+* Recruiters-->
+
+
+<!--### Academics
+
+Academics have careers too, and some will have extensive networks of contacts in industry and academia that might be useful to you. If you ask nicely, they might introduce you to people they know who can help, such as former students or collaborators.
+
+```{r teachers-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionpurveyors)"}
+knitr::include_graphics("images/teachers-purveyors-of-confidence.png")
+```
+
+(ref:captionpurveyors) Your teachers may have contacts that might be useful to you. [Teachers](https://bryanmmathers.com/teachers/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Speculative applications-->
+
+<!--
+https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/speculative-cover-letter-->
+
+<!--Search by
+
+* sector ### Gaming grads in games-->
+<!--https://www.youtube.com/watch?v=PpvdbADLJAY-->
+
+
 ## Where can you for look for jobs? {#looking}
+We've described some strategies to get you started, with a rough idea of what you're looking for, where can you actually look?
 
 The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. There are three kinds of places you can look for jobs:
 
@@ -35,11 +200,11 @@ The marketplace for job searching and job hunting advice is incredibly crowded. 
 1. Portfolio style, such as LinkedIn and Github etc, see \@ref(generaljobs)
 1. The jobs portal of your University, see \@ref(studentjobs)
 
-### Student and graduate specific resources {#studentjobs}
+### For students and graduates {#studentjobs}
 
 The following job finding resources are specifically aimed at undergraduate students and graduates:
 
-* [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/aws-educate-job-board/) has a dedicated jobs board for students with (or working towards) Amazon Web Services (AWS) cloud computing qualifications
+<!-- looks obsolete now * [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/aws-educate-job-board/) has a dedicated jobs board for students with (or working towards) Amazon Web Services (AWS) cloud computing qualifications-->
 * [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)
 * [ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/) is a leading UK job resource for undergraduates seeking placements and internships.
 * [targetjobs.co.uk](http://www.targetjobs.co.uk/) graduate jobs, schemes and internships from the people behind [The Guardian 300 top graduate employers](https://targetjobs.co.uk/uk300)
@@ -51,7 +216,7 @@ The following job finding resources are specifically aimed at undergraduate stud
 *  [Year in Industry](https://www.etrust.org.uk/yini-vacancies) if you're looking for a year in industry
 * Your University careers service. University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying. So if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html) (UoM login required)
 
-### More general resources {#generaljobs}
+### For any job seekers {#generaljobs}
 The following job finding tools are aimed at a wider audience (not just students and graduates) but will be useful to you nonetheless.
 
 ```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
@@ -91,7 +256,7 @@ knitr::include_graphics("images/linkedin.jpeg")
 * [Otta.com](https://otta.com/) for people with 0-10 years experience. From engineering to sales, discover jobs & internships at London\'s most innovative companies.
 
 
-### Recruiters {#recruiters}
+### What about recruiters? {#recruiters}
 
 Recruiters can help you find work and they operate in every industry sector. They are sometimes called “head-hunters”, and there are two basic kinds that can help you:
 
@@ -259,7 +424,7 @@ If you're getting too many rejections or all your applications are sucked into b
 
 So beware of rejection, it's a normal part of job hunting. 🤮
 
-### Beware of the rollercoaster {#rollercoaster}
+### lercoaster {#rollercoaster}
 There are highs and lows in job hunting, you will ride the job search rollercoaster shown in figure \@ref(fig:rollercoaster-fig). There will be highs, you'll be invited to interviews, but there will be also be lows too, such as the inevitable rejections we discussed in the previous section \@ref(rejection). It will be a rollercoaster, which ends on the high of a job offer you accept. Fasten your seatbelt, enjoy the ride and good luck with your applications and interviews! May the road rise with you! [@rise]
 
 ```{r rollercoaster-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionrollercoaster)"}
@@ -267,36 +432,8 @@ knitr::include_graphics("images/Rollercoaster-ride.png")
 ```
 (ref:captionrollercoaster) Are you ready to ride the emotional rollercoaster of job hunting?  [A tech project is like...](https://bryanmmathers.com/rollercoaster-ride) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-So beware of the rollercoaster, it has ups and down. Before we move on to talk about broadening your options, lets looks at some basic job search strategies you can use to get started. 🎢
+So beware of the rollercoaster, it has ups and downs. Fasten your seatbelt. 🎢
 
-## Job search strategies {#strategies}
-Now that you are aware of some pitfalls you need to think about developing a range of different strategies for job hunting, and change the strategy during the year. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
-
-```{r shortcuts, echo = FALSE}
-job_table <- tibble::tribble(
-  ~ ""       , ~ "Large employers", ~ "SMEs",
-  "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
-  "When"     , "Vacancies open earlier in the academic year", "Vacancies tend to open later in the academic year",
-  "How"      , "Typically multistage applications, several rounds of interviews", "Typically shorter application and interview processes",
-  "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
-  "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
-)
-knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
-```
-
-Armed with knowledge of *when* to apply you can start to target employers. What will your strategy be? Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
-
-```{r blunderbuss-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblunderbuss)"}
-knitr::include_graphics("images/Blunderbuss.png")
-```
-(ref:captionblunderbuss) As you target employers, what will your strategy be? At one extreme you could optimise the *quantity* of your applications, aiming to do as many as you can. This is shown in the left of the picture by the [blunderbuss](https://en.wikipedia.org/wiki/Blunderbuss) (or scattergun) strategy. You make lots of applications but don't target or tailor them much in the hope that *some* will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the *quality* of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-Figure \@ref(fig:blunderbuss-fig) shows two extreme approaches to job hunting, in reality you'll probably want to strike a balance between *quality* and *quantity*. If you find yourself:
-
-* Making a small number of applications, you may need to consider applying more widely and spending *less time* on each application
-* Making a large number of applications, you may need to consider applying less and spending  *more time* on each application
-
-This raises the question, how big is a *small* or a *large* number of job applications?
 
 ## Breakpoints {#bp8}
 (ref:breakpoint)
@@ -318,51 +455,6 @@ This raises the question, how big is a *small* or a *large* number of job applic
 ```md
 * RESUME ▶️
 ```
-
-## The power of weak ties {#weakties}
-
-Your close network probably won't change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist [Mark Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) calls  “weak ties”. [@granovetter]
-
-```{r bumped-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbumped)"}
-knitr::include_graphics("images/Bumped into.png")
-```
-(ref:captionbumped) [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know). Networking and personal contacts can be more useful than just knowledge and skills alone, when seeking employment. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you're after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
- Weak ties are people you don't know as well, but are important for a range of reasons. Research has shown that [building networks of weak ties is good for your mental health and can give you an edge in job hunting](https://www.bbc.com/worklife/article/20200701-why-your-weak-tie-friendships-may-mean-more-than-you-think). [@weakties] Granovetter showed that many job opportunities came through weak ties, rather than strong ones. This is true not just of jobs early on in your career (like now) but also later too. So it is in your interests to continually foster weak connections and be open to serendipitous meetings where you bump into people, as in Figure \@ref(fig:bumped-fig). “Bumping into” here, could mean either physical or virtual.
-
-```{r net-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionnetworks)"}
-knitr::include_graphics("images/grow your networks.png")
-```
-
-(ref:captionnetworks) Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-<!-- network includes
-* Fellow students
-* Employers on campus
-* Alumni
-* Recruiters-->
-
-
-<!--### Academics
-
-Academics have careers too, and some will have extensive networks of contacts in industry and academia that might be useful to you. If you ask nicely, they might introduce you to people they know who can help, such as former students or collaborators.
-
-```{r teachers-fig, echo = FALSE, fig.align = "center", out.width = "80%", fig.cap = "(ref:captionpurveyors)"}
-knitr::include_graphics("images/teachers-purveyors-of-confidence.png")
-```
-
-(ref:captionpurveyors) Your teachers may have contacts that might be useful to you. [Teachers](https://bryanmmathers.com/teachers/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-## Speculative applications-->
-
-<!--
-https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/speculative-cover-letter-->
-
-<!--Search by
-
-* sector ### Gaming grads in games-->
-<!--https://www.youtube.com/watch?v=PpvdbADLJAY-->
-
 
 ## Summarising search {#tldr8}
 

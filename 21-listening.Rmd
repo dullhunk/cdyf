@@ -165,7 +165,7 @@ knitr::include_graphics("images/whats-the-story.jpeg")
 ### Minority report {#minority}
 This is an optional question taken from the title of the [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) novel *[The Minority Report](https://en.wikipedia.org/wiki/The_Minority_Report)* and subsequent film adaptation, see figure \@ref(fig:minority-fig). Minority report asks our guests:
 
-* Do you consider yourself to be a member of an under-represented or minority group?
+* Do you consider yourself to be a member of an under-represented, minority or otherwise marginalised group?
 * If so which one(s) are you happy to discuss, see section \@ref(protected) and \@ref(genderid)?
 * What has your experience been of being in a minority at University and in the workplace?
 * How can the teaching and learning of computer science be made more [equitable, diverse and inclusive](https://en.wikipedia.org/wiki/Diversity,_equity,_and_inclusion) for members of your minority group(s)?
@@ -209,7 +209,7 @@ knitr::include_graphics("images/faces.jpeg")
 (ref:captionfaces2) Poor old grandad I laughed at all his words but I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)). [@faces] Do you wish that you knew what you know now, when you were younger? What would you tell your younger self about getting the most from University life?
 
 ## Everything I had to know, I heard it on my radio {#radio}
-We'll leave the last words on podcasting to *[The Buggles](https://en.wikipedia.org/wiki/The_Buggles)* and *[Queen](https://en.wikipedia.org/wiki/Queen_(band))*. Podcasting is an evolution and mutation of radio but did video kill the radio star? [@videokilled] What if everything you had to know, you could hear it on your radio, see figure \@ref(fig:gaga-fig)? Tune in to find out.
+We'll leave the last words on podcasting to *[The Buggles](https://en.wikipedia.org/wiki/The_Buggles)* and *[Queen](https://en.wikipedia.org/wiki/Queen_(band))*. Podcasting is an evolution and mutation of radio but did video kill the radio star? [@videokilled] What if everything you had to know, you could hear it on your radio, see figure \@ref(fig:gaga-fig)? Tune in to find out. 📻
 
 ```{r gaga-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongaga)"}
 knitr::include_graphics("images/Everything-I-had-to-know-I-heard-it-on-my-radio.jpeg")

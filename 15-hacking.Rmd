@@ -119,7 +119,7 @@ knitr::include_graphics("images/polly-morphism.png")
 
 ### Neil Pointer {#neil-pointer}
 
-Neil is a mature student who loves the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), see figure \@ref(fig:neilpointer-fig). The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as [his famous sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters), he has a younger half-brother, Neil Pointer-Exception, from his mothers second marriage. Neil Pointer-Exception prefers `Java`. Neil has seen many programming languages come and go, but his favourite will always be `C`.
+Neil is a mature student who loves the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), see figure \@ref(fig:neilpointer-fig). The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as [his famous sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters), [@imsoexcited] he has a younger half-brother, Neil Pointer-Exception, from his mothers second marriage. Neil Pointer-Exception prefers `Java`. Neil Pointer has seen many programming languages come and go, but his favourite will always be `C`. Born in 1970s, `C` is easily “old enough to be your father” or your mother. Respect your elders! [@ritchie]
 
 ```{r neilpointer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionneil)"}
 knitr::include_graphics("images/neil_pointer.png")

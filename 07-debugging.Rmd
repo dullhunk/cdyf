@@ -372,8 +372,8 @@ It's fine to author your CV in Microsoft Word, but you'll want to save it as a P
 
 One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction, **R**esult and **E**vidence (C.A.R.E.) to tell your stories. What's your story, coding glory? [@whatsthestory] The `C.A.R.E.` method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing `Python` as a skill, you could tell the reader more about the context in which you've used python, what you actually did with it and what the result was. You really need to spell it out.
 
-* **CONTEXT**: So you've used Python, but in what context? As part of your education? For a personal project? As a volunteer? In a competition?
-* **ACTION**:  What did you *do* with Python? Did you use some particular library? Did you integrate or model something? What verbs can you use to describe these actions, see chapter \@ref(actioning)
+* **CONTEXT**: So you've used `Python`, but in what context? As part of your education? For a personal project? As a volunteer? In a competition? All of the above?
+* **ACTION**:  What did you *do* with `Python`? Did you use some particular library? Did you integrate or model something? What verbs can you use to describe these actions, see chapter \@ref(actioning)
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
 * **EVIDENCE**: Where evidence exists, you should highlight it. That could be a quantification, for example describing a result in numbers (see `as measured by` below) or it might be certification described in chapter \@ref(achieving). If you're talking about software, point to a copy online if you can, but beware of plagiarism if you publish university coursework on github. Nothing says “I can build software ...” quite like “ ... and here's one I made earlier”.
 
@@ -519,7 +519,7 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 
 ### Robot proofing your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “résumé robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with your personal data. Résumé robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Application Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “résumé robots” (if you like) are unlikely to have arms and legs like the one in Figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with your personal data. Résumé robots include:
 
 * [careerset.io](https://careerset.io), a free service provided by a UK based company, careerset Ltd.
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
@@ -534,7 +534,7 @@ knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png
 
 (ref:captionmachines) Just like the [daleks](https://en.wikipedia.org/wiki/Dalek) in [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who), résumé robots often struggle to get up the stairs. Although they typically don't have arms, legs (or even wheels) robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you're applying to bigger companies. Make sure your CV is résumé robot friendly by getting feedback from a robot. [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) to identify columns. Some things to check with automated CV screens:
+Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) reliably to identify columns. Some things to check with automated CV screens:
 
 * Have you used standard headings for the sections? Non-standard sections maybe ignored or misunderstood
 * Have you used appropriate verbs to describe your actions?
@@ -568,7 +568,7 @@ My chequer told me sew
 ---Anon
 ```
 
-While automation can help improve your writing, ultimately there is no substitute for *humans* reading your CV, and the more people that read it the better. This could be potential employers, your critical friends shown in figure \@ref(fig:wonderfuldarling-fig) or just reading it **out loud** to yourself described in section \@ref(dogfooding).
+While automation can help improve your writing, ultimately there is no substitute for people (you know: actual *humans*) reading your CV, and the more people that read it the better. This could be potential employers, your critical friends shown in figure \@ref(fig:wonderfuldarling-fig) or just reading it **out loud** to yourself described in section \@ref(dogfooding).
 
 
 ### Your references {#referees}
