@@ -9,7 +9,7 @@ It's all very well *designing* your future but now you need to actually engineer
 knitr::include_graphics("images/Features not bugs.png")
 ```
 
-(ref:captionbuggingcv) Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)  
+(ref:captionbuggingcv) Is that a bug or a feature in your CV? To stand a chance of being invited to interview, you'll need to identify and fix any bugs in your written applications. If you don't, your application risks being sucked into a black hole and will never be seen again. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 ## What you will learn {#ilo7}  
@@ -514,7 +514,7 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 ```
 
 <!--this is a nasty hack to get references into table cells-->
-(ref:lengthcell) Limited length, typically one or two pages (for a graduate), see section \@ref(length)  
+(ref:lengthcell) Limited length, typically one or two pages (for a graduate), see section \@ref(length)
 
 
 ### Robot proofing your CV {#robotproof}

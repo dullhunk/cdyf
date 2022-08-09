@@ -30,6 +30,7 @@ One of the main target audiences for this textbook is [Generation Z](https://en.
 Are you stressed? Depressed? Exam obsessed? Are you more worried about getting good grades than drinking too much or having unplanned pregnancies? According to *The Economist* members of Generation Z are more likely to be affected by mental health issues. [@generationz] If that's you then you are not alone. Stress, depression and results obsession have been around a while. Many people struggle with them so let's look at them in a bit more detail.
 
 ::: {.rmdcaution}
+
 (ref:codingcaution)
 
 I am neither a medical doctor or a psychologist!
@@ -58,13 +59,19 @@ University is a positive experience for many people, however like Alan, you may 
 * stress, how you feel under pressure-->
 <!--Your brain is a complex organ that is not fully understood, so it is not surprising that brains sometimes need treatment when things go wrong.-->
 
-The *persistent* and *lasting a long time* are important here because while its part of the human condition to worry and feel sad, that doesn't *necessarily* mean you are affected by poor mental health. How long is a long time? Definitions vary, but around two weeks is a good rule of thumb. There are many forces at play, feelings of sadness or anxiousness are normally balanced out by counteracting feelings of calm or happiness shown in figure \@ref(fig:free-body-fig).
+The *persistent* and *lasting a long time* are important here because while its part of the human condition to worry and feel sad, that doesn't *necessarily* mean you are affected by poor mental health. How long is a long time? Definitions vary, but around two weeks is a good rule of thumb. There are many forces (F) at play, feelings of sadness or anxiousness are normally balanced out by counteracting feelings of calm or happiness shown in figure \@ref(fig:free-body-fig):
+
+* Forces that make you unhappy: **F~SAD~**
+* Forces that make you happy: **F~HAPPY~**
+* Forces that make you anxious: **F~ANXIOUS~**
+* Force that make you calm: **F~CALM~**
 
 ```{r free-body-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfreebody)"}
 knitr::include_graphics("images/Free body diagram.png")
 ```
 (ref:captionfreebody) Your mental health is like a balloon, acted on by forces of anxiety, calmness, happiness and sadness. These opposing forces normally balance each other out over time. Crudely speaking: (😰 + 😎) + (🙂 + 🙁) = 😐. Good mental health means your balloon stays airborne, despite the inevitable up and downs. If you are affected by poor mental health, feelings of anxiety or sadness will outweigh their counterparts, leading to *persistent* anxiousness or depression. This will cause your balloon (mental health) to “crash”. This chapter introduces what these mental health issues are and what you can do if you, or someone you know, is affected by poor mental health. [Free body diagram](https://en.wikipedia.org/wiki/Free_body_diagram) by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🎈
 
+It might help to conciously list what these forces are so that you are more mindful of them.
 
 <!--https://youtu.be/RsfNkSZmUc8-->
 
