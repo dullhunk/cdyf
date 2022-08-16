@@ -851,7 +851,32 @@ knitr::include_graphics("images/faces.jpeg")
 
 This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights and exercises useful. I've sat on both sides of many interview tables, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
-Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers. I've documented some of what they taught me, so reading this book may help you learn from some of their successes and failures.
+```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "hello world"}
+library(tidyverse)
+library(ggplot2)
+evenmoreplacements <- tribble(
+      ~year,         ~students,
+      "2008",       35,
+      "2009",       31,
+      "2010",       45,
+      "2011",       42,
+      "2012",       45,  
+      "2013",       70,  
+      "2014",       54,  
+      "2015",       70,  
+      "2016",       65,  
+      "2017",       100,  
+      "2018",       97,  
+      "2019",       110,  
+      "2020",       88,
+      "2021",       77
+    )
+
+ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
+```
+
+
+Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers, particularly through our industrial experience program, see figure \@ref(fig:ie-fig). I've documented some of what they taught me, so reading this book may help you learn from some of their successes and failures.
 
 ## Legal stuff {#legal}
 
