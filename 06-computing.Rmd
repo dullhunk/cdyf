@@ -34,9 +34,9 @@ So why should everyone learn about computing? Is it so that everyone can become 
 Everyone should study computing for the same reasons everyone studies maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
 
 ```{r sonicpi-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsonicpi)"}
-knitr::include_graphics("images/youtube-sonicpi.png")
+knitr::include_url('https://www.youtube.com/embed/0lTZ8Tuyu5I')
 ```
-(ref:captionsonicpi) Sam Aaron puts the creative case for computing by discussing programming as performance in his TEDx talk. [@youtube-sonicpi] The image in this figure is a screenshot, [watch the 18 minute video on programming as performance here](https://www.youtube.com/watch?v=0lTZ8Tuyu5I).
+(ref:captionsonicpi) Sam Aaron puts the creative case for computing by discussing programming as performance in his TEDx talk. You can watch the watch the 18 minute video embedded in this figure at [youtu.be/0lTZ8Tuyu5I](https://youtu.be/0lTZ8Tuyu5I). [@youtube-sonicpi]
 
 Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. Have a look at Silvio Peroni's free computational thinking and programming book at [comp-think.github.io](https://comp-think.github.io/)  which is written for people with a background in the humanities. [@peroni]
 
@@ -75,7 +75,7 @@ knitr::include_graphics("images/Market_Capitalisation.png")
 ```
 (ref:captionmarket) If stock markets are anything to go by, computing is eating the world. It would be impossible for [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) companies like Apple, Microsoft, Amazon, Alphabet (Google) and Meta (Facebook) to exist without computing. The ten largest corporations by market capitalisation (as of 2021) graphic by YBSLE/[laboussole.coop](https://laboussole.coop/) on Wikimedia Commons [w.wiki/3KEU](https://w.wiki/3KEU)
 
-Even if you don't want to work for any of these global monopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. Another visualisation of data in figure \@ref(fig:market-fig) is shown in figure \@ref(fig:market-again-fig).
+Even if you don't want to work for any of these global oligopolies, their success is good news for *all* students of computing because it shows how important computation is to society, both commercially and otherwise. Another visualisation of data in figure \@ref(fig:market-fig) is shown in figure \@ref(fig:market-again-fig).
 
 ```{r market-again-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarketagain)"}
 knitr::include_graphics("images/Biggest-Companies-in-the-World.jpeg")

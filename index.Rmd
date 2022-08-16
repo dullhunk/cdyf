@@ -224,9 +224,6 @@ The full text of this guidebook is freely available at [`www.cdyf.me`](https://w
 * [cdyf.pdf](https://www.cdyf.me/cdyf.pdf)
 * [cdyf.epub](https://www.cdyf.me/cdyf.epub)
 
-<!-- note that can't do this for youtube because it refuses to connect
-knitr::include_url('https://www.youtube.com/watch?v=0abDOKHS5T0')
--->
 If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf). Alternatively, you can wait until *late 2022*, when [Amazon's Kindle will finally support epub files](https://mashable.com/article/amazon-kindle-epub) like everyone else.
 
 In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book the old fashioned way, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact).
@@ -265,8 +262,9 @@ All suggestions welcome! Don't be shy. There are several ways you can contribute
 
 ### For git contributors {#techies}
 
-If you're familiar with `git` and `markdown` you can [github.com/join](https://github.com/join) and:
+If you're familiar with `git` and `markdown`, there are several options if you have a github account (see [github.com/join](https://github.com/join)) including:
 
+* Join the discussion at [github.com/dullhunk/cdyf/discussions](https://github.com/dullhunk/cdyf/discussions)
 * Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
@@ -477,10 +475,10 @@ Thanks to headteacher & physicist [Clive Zimmerman](https://www.swindonadvertise
 
 
 ```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionshaha)"}
-knitr::include_graphics("images/youtube-alom.png")
+knitr::include_url('https://www.youtube.com/embed/VE520z_ugcU')
 ```
 
-(ref:captionshaha) [Alom Shaha](https://alomshaha.com/) demonstrates his awesome wave machine. Physics and jelly babies, what's not to like? [@youtube-alom] The image in the figure is a screenshot, watch the four minute video at [youtu.be/VE520z_ugcU](https://youtu.be/VE520z_ugcU)
+(ref:captionshaha) [Alom Shaha](https://alomshaha.com/) demonstrates his awesome wave machine. Physics and jelly babies, what's not to like? You can also watch the 4 minute video embedded in this figure at [youtu.be/VE520z_ugcU](https://youtu.be/VE520z_ugcU) [@youtube-alom]
 
 So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of the [West Country](https://en.wikipedia.org/wiki/West_Country). Proper job. 🙏
 
@@ -744,9 +742,10 @@ Many of the illustrations for this book have been drawn by the very talented Bry
 Bryan is an artist, visual thinker, entrepreneur and listener who turns stories into pictures. He also happens to have a Bachelors degree in Computer Science from the University of Glasgow. As a renaissance man, his combined skills in art, science and engineering made him the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm very glad we randomly bumped into each other at the `#wikiedu20` conference: [wikiedusummit.coventry.domains](https://wikiedusummit.coventry.domains/).
 
 ```{r tedx-galway-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongalway)"}
-knitr::include_graphics("images/bryan-mathers-tedx-galway.png")
+knitr::include_url('https://www.youtube.com/embed/IapGM5ZYBEw')
 ```
-(ref:captiongalway) People tell stories and stories paint pictures. Bryan Mathers, who has illustrated much of this guidebook, telling stories at TEDxGalway in 2021. The image above is a screenshot, you can watch the full 15 minute talk at [youtu.be/IapGM5ZYBEw](https://youtu.be/IapGM5ZYBEw)
+
+(ref:captiongalway) People tell stories and stories paint pictures. Bryan Mathers, who has illustrated much of this guidebook, telling stories at TEDxGalway in 2021. You can watch the full 15 minute video embedded in this figure at [youtu.be/IapGM5ZYBEw](https://youtu.be/IapGM5ZYBEw) [@tedxgalway]
 
 So, thanks Bryan for your witty illustrations, this book wouldn't be the same without your visual thinkery.  🙏
 
@@ -766,10 +765,13 @@ knitr::include_graphics("images/kings-of-the-mountains-col-deliseran.png")
 
 Special thanks to former St Laurence school student and [current sixth form head](https://st-laurence.com/sixth-form) Aidan Blowers for showing me around [The Clarendon School](https://en.wikipedia.org/wiki/The_Clarendon_Academy) in Trowbridge, Wiltshire and leading by example. Aidan's performance as *Lord of the Dance* (wearing a white shirt in figure \@ref(fig:uptown-funk-fig)), inspired the ongoing musical experiment that is [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research#tuningcomplete).
 
-```{r uptown-funk-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionuptown)"}
+
+
+```{r uptown-funk-fig, out.width='99%', fig.cap="(ref:captionuptown)", echo = FALSE}
 knitr::include_graphics("images/youtube-mocs-uptown-funk.png")
 ```
-(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) in Wiltshire dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image above is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM) [@uptownfunk; @blowers]
+
+(ref:captionuptown) Year 11 leavers of [Melksham Oak Community School](https://en.wikipedia.org/wiki/Melksham_Oak_Community_School) (MOCS) in Wiltshire dance to [Uptown Funk](https://en.wikipedia.org/wiki/Uptown_Funk) with help from Mark Ronson, Bruno Mars and Aidan Blowers. The image in the figure is a screenshot. Don't believe me, just watch, come on! [youtu.be/z8qH05teRMM](https://youtu.be/z8qH05teRMM) [@uptownfunk; @blowers]
 
 Thanks to all my teachers at St Laurence school, some of whom can be seen in figure \@ref(fig:fitzmaurice-fig).
 
@@ -851,8 +853,9 @@ knitr::include_graphics("images/faces.jpeg")
 
 This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights and exercises useful. I've sat on both sides of many interview tables, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
-```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "hello world"}
-library(tidyverse)
+Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers, particularly through our industrial experience program, see figure \@ref(fig:ie-fig).
+
+```{r ie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:ieblurb)"}
 library(ggplot2)
 evenmoreplacements <- tribble(
       ~year,         ~students,
@@ -875,8 +878,10 @@ evenmoreplacements <- tribble(
 ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
 ```
 
+(ref:ieblurb) Number of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. I have been leading the program since 2012 and managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
 
-Most of what I have learned about employment comes from listening to, and watching students interact with employers as they take the first tentative steps in their careers, particularly through our industrial experience program, see figure \@ref(fig:ie-fig). I've documented some of what they taught me, so reading this book may help you learn from some of their successes and failures.
+I've documented some of what our students have taught me, so reading this book may help you learn from some of their successes and failures.
+
 
 ## Legal stuff {#legal}
 

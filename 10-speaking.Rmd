@@ -123,11 +123,10 @@ There are a lots of resources to help you prepare for and practice coding interv
 
 
 ```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpetia)"}
-knitr::include_graphics("images/youtube-petia.png")
-
+knitr::include_url('https://www.youtube.com/embed/qkeQNNjZuQk')
 ```
 
-(ref:captionpetia) Petia describes her worst software engineering interview failures. [@youtube-petia] Petia demonstrates a growth mindset (section \@ref(growthmindset)) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted. The image above is a screenshot, you can watch the full 16 minute video at [youtu.be/qkeQNNjZuQk](https://youtu.be/qkeQNNjZuQk)
+(ref:captionpetia) Petia describes her worst software engineering interview failures. Petia demonstrates a growth mindset (section \@ref(growthmindset)) and productive failure(s). Although she failed her interviews, she learned lots from the process and went on to get a job she wanted. If you can't click on the embedded video in the figure, you can watch the full 16 minute video at [youtu.be/qkeQNNjZuQk](https://youtu.be/qkeQNNjZuQk) [@youtube-petia]
 
 
 <!--if kipling-->

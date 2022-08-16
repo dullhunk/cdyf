@@ -22,7 +22,7 @@ By the end of this chapter you will be able to
     + Constructively criticising other people's CVs
     + Asking for, listening to, and acting on constructive criticism of your own CV
 1. Quantify and provide convincing evidence for any claims you make you on your CV
-1. Identify gaps is your CV and how you might begin to fill them
+1. Identify gaps in your own CV and how you might begin to fill them
 
 
 ## Beware of the black hole {#blackhole}  
@@ -122,7 +122,7 @@ Wherever criticism of your CV comes from, don't take it personally - it is proba
 
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(mycved)
-1. **STYLE**: Does it look good, decent layout, appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
+1. **STYLE**: Does it look good, decent layout, appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent `verbs`, rather than just what you think you know? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
@@ -139,10 +139,10 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 How you structure your CV will depend on who you are and what your story is. Recruiters at Google suggest four or five sections, that follow a header section. Before we look at those, lets look at some general points about CVs, watch the videos shown in Figure \@ref(fig:lopez-fig).
 
 ```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
-knitr::include_graphics("images/youtube-google-recruiters.png")
+knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
 ```
 
-(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your résumé. [@youtube-google-recruiters] The image in this figure is a screenshot, you can watch the eight minute résumé tips video at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE).
+(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your résumé. You can also watch the 8 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE). [@youtube-google-recruiters]
 
 <!-- this doesn't really fit here in structure, is there somewhere better? -->
 As Jonathan Black, director of the careers service at the University of Oxford has pointed out, [@topnotchcv] a key part of your story that you want to communicate in your CV is that you :
@@ -155,9 +155,9 @@ How can you demonstrate this? Watch the short video in Figure \@ref(fig:black-fi
 
 <!--Remember that no applicant meets all the criteria, so 80% means you're doing really well [@topnotchcv]-->
 ```{r black-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionjonathanblack)"}
-knitr::include_graphics("images/youtube-jonathan-black.png")
+knitr::include_url('https://www.youtube.com/embed/yjdvCHWVtE4')
 ```
-(ref:captionjonathanblack) [Jonathan Black](https://twitter.com/jonathanpblack), head of the careers service at the University of Oxford,  explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. [@topnotchcv] The image in this figure is a screenshot, you can watch the 11 minute video on creating a top notch CV at [youtu.be/yjdvCHWVtE4](https://youtu.be/yjdvCHWVtE4).
+(ref:captionjonathanblack) [Jonathan Black](https://twitter.com/jonathanpblack), head of the careers service at the University of Oxford,  explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. You can also watch the 11 minute video embedded in this figure at [youtu.be/yjdvCHWVtE4](https://youtu.be/yjdvCHWVtE4). [@topnotchcv]
 
 <!-- if moving this to a new section move reference from big bad buglist to mycvst -->
 Quantifying and providing evidence for any claims you make will make your CV much more convincing. This can turn meaningless assertions described in figure \@ref(fig:black-fig) into meaningful evidence. So for example:
@@ -403,10 +403,10 @@ How long should your CV be? Many people start with a two page CV, which is a sen
 
 
 ```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
-knitr::include_graphics("images/youtube-resume-or-cv.png")
+knitr::include_url('https://www.youtube.com/embed/0abDOKHS5T0')
 ```
 
-(ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? [@youtube-resume-or-cv] The image in the figure is a screenshot, you can watch the five minute video on how long your CV should at [youtu.be/0abDOKHS5T0](https://youtu.be/0abDOKHS5T0).
+(ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? You can also watch the  5 minute video embedded in this figure at [youtu.be/0abDOKHS5T0](https://youtu.be/0abDOKHS5T0). [@youtube-resume-or-cv]
 
 At this stage in your career you *should* be able to fit everything on to one page. However, it can be challenging and time consuming squeezing it all on, see figure \@ref(fig:shorterletter-fig).
 
@@ -482,7 +482,7 @@ Reading between the lines: “I really enjoy learning from other people by going
 
 * your hyperlinks are [readable and descriptive](https://readabilityguidelines.co.uk/content-design/links/) [@readable]  
 * your hyperlinks are clickable in the PDF. Don't expect your reader to cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
-* your hyperlinks are paper-proof. Some people still print CVs so the phrase [click here](https://www.w3.org/QA/Tips/noClickHere) won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
+* your hyperlinks are paper-proof. Some people still print CVs so the phrase [click here](https://www.w3.org/QA/Tips/noclickHere) won't work well on printed paper. See [to print or not to print — a CV, that is](https://www.bbc.com/worklife/article/20140620-to-print-or-not-to-print) [@printcv]
 
 Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c) [@stackoverflow]. You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), be wary of social media.
 
