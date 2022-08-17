@@ -666,7 +666,7 @@ knitr::include_graphics("images/keyboard.png")
 So here are some people whose stuff I read, watch, listen to or use, maybe you'll enjoy their words, pictures and software too:
 
 * [Euan Adie](https://twitter.com/stew) at [blog.overton.io/author/euan-adie](https://blog.overton.io/author/euan-adie)
-* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [twitter.com/stevenappleby](https://twitter.com/stevenappleby) [@stevenappleby]
+* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [twitter.com/stevenappleby](https://twitter.com/stevenappleby), see figure \@ref(fig:appleby-fig)
 * [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)
 * [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [ongoing](https://www.tbray.org/ongoing/)
 * [Jorge Cham](https://en.wikipedia.org/wiki/Jorge_Cham) at [phdcomics.com](https://phdcomics.com/)
@@ -696,6 +696,13 @@ So here are some people whose stuff I read, watch, listen to or use, maybe you'l
 * [Kristin Stephens-Martinez](https://users.cs.duke.edu/~ksm/) at [csedpodcast.org](https://csedpodcast.org/)
 * [Greg Tyrelle](http://tyrelle.net/) at [nodalpoint.org](https://web.archive.org/web/20050616015629/http://www.nodalpoint.org/)
 * [Greg Wilson](https://twitter.com/gvwilson) at [third-bit.com](https://third-bit.com/)
+
+
+```{r appleby-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionappleby)"}
+knitr::include_url('https://www.youtube.com/embed/G_Vz7gTh1VE')
+```
+
+(ref:captionappleby) Artist [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) explains some simple techniques for drawing. Useful techniques that can also be applied to writing anything, playing music, living life etc. The 6 minute video embedded in this figure can also be viewed at [youtu.be/G_Vz7gTh1VE](https://youtu.be/G_Vz7gTh1VE) [@stevenappleby]
 
 So, thanks writers for writing. Thanks for penning, drawing and recording stuff that has informed, entertained and inspired me. 🙏
 

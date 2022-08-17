@@ -47,11 +47,14 @@ knitr::include_graphics(rep("images/draughts.png", 3))
 
 (ref:captiondraughts) Is this the worlds first [video game](https://en.wikipedia.org/wiki/Video_game)? Christopher Strachey's draughts game displayed on a cathode ray tube in 1952. When the game finished, the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) computer which ran the game, played a tune. Public domain image from Wikimedia Commons at [w.wiki/5UJs](https://w.wiki/5UJs)
 
-Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the King* [@godsavethequeen] which was played at the end of what is very probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC.
+Using Turing's code the computer scientist [Christopher Strachey](https://en.wikipedia.org/wiki/Christopher_Strachey) wrote programs to play music. Strachey's first success was a version of the UK's national anthem *God Save the King* [@godsavethequeen] which was played at the end of what is very probably the first video ever game created, [draughts](https://en.wikipedia.org/wiki/Checkers) shown in figure \@ref(fig:draughts-fig). [@programmingenter] The earliest existing recording of computer-generated music was made in 1951 by the BBC shown in figure \@ref(fig:soundcloud-fig).
 
-```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
-cat('<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/286040117&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe>')
+
+```{r soundcloud-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:soundcloud)"}
+knitr::include_url('https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/286040117&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false',  height = "166px")
 ```
+
+(ref:soundcloud) The first known recording of computer music made in 1951, available from the British Library and restored by [Jack Copeland](https://en.wikipedia.org/wiki/Jack_Copeland) and Jason Long in 2016. [@restoringmusic; @hooturing]
 
 In the recording you can hear the [Ferranti Mark 1](https://en.wikipedia.org/wiki/Ferranti_Mark_1) computer playing three songs:
 
@@ -59,7 +62,7 @@ In the recording you can hear the [Ferranti Mark 1](https://en.wikipedia.org/wik
 1. *[Baa, Baa, Black Sheep](https://en.wikipedia.org/wiki/Baa,_Baa,_Black_Sheep)* [@baabaablacksheep]
 1. *[In the Mood](https://en.wikipedia.org/wiki/In_the_Mood)* [@inthemood]
 
-You can hear this music which was restored by [Jack Copeland](https://en.wikipedia.org/wiki/Jack_Copeland) and Jason Long in 2016. [@restoringmusic]
+You can listen this music which was restored by [Jack Copeland](https://en.wikipedia.org/wiki/Jack_Copeland) and Jason Long in 2016. [@restoringmusic]
 
 Computers have been changing the way we create, distribute and listen to music ever since. Sing like no one is listening, love like you never been hurt and dance like no one is watching:
 
