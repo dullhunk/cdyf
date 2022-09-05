@@ -2,7 +2,7 @@
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually engineer it by *testing* and *building*. An obvious place to start is with your CV or résumé, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🐛
+It's all very well *designing* your future but now you need to actually engineer it by *testing* and *building*. An obvious place to start is with your CV or résumé, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are crucial part of your future so how can you debug them? 🕷
 
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
@@ -19,7 +19,7 @@ By the end of this chapter you will be able to
 1. Structure and style the content of your CV and résumé appropriately
 1. Articulate your story^[actually a collection of short stories] as evidenced by your `experience`, `projects` and `education` etc
 1. Identify and fix bugs in CV’s by:
-    + Their `content` (what you've done) and `presentation` (how you style your CV) 
+    + Their `content` (what you've done) and `presentation` (how you style your CV)
     + Constructively criticising other people's CVs
     + Asking for, listening to, and acting on constructive criticism of your own CV
 1. Quantify and provide convincing evidence for any claims you make you on your CV
@@ -62,15 +62,13 @@ You can of course *augment* your CV with various public digital profiles such as
 
 ## It's not bug, it's a feature! {#trope}
 
-It's an age old trope in Computer Science that engineers use to cover their mistakes, passing off their accidental bugs as deliberate features of their work, see \@ref(fig:notabug-fig).
-
->  “It's not a *bug*, it's a *feature*...” —A. Hacker
+An age old trope in Computer Science that engineers use to pass off their mistakes as deliberate features is the bug/feature distinction, see \@ref(fig:notabug-fig).
 
 ```{r notabug-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionnotabug)"}
 knitr::include_graphics("images/notabug.jpeg")
 ```
 
-(ref:captionnotabug) Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *[Hypomeces pulviger](https://en.wikipedia.org/wiki/Hypomeces_pulviger)* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62](https://w.wiki/3E62) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionnotabug)  “It's not a *bug*, it's a *feature*...” (according to A. Hacker). Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *[Hypomeces pulviger](https://en.wikipedia.org/wiki/Hypomeces_pulviger)* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62](https://w.wiki/3E62) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Nobody likes buggy software, but unfortunately we routinely have to tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
 
