@@ -29,7 +29,15 @@ At the end of this chapter you will be able to:
 <!--* Describe what it means to be **employable**-->
 
 ## Job search strategies {#strategies}
-It can be bewildering knowing where to start your job search, because the possibilities are endless. There are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned nine:
+Lets imagine you have a handy command line utility `find_job` on your computer which knows about every job availabe, regardless of where it is advertised. Such a facility doesn't really exist, but lets pretend that it does. If you were to run utility with no parameters:
+
+````python
+find_job
+````
+
+You will be completely overwhelmed with the opportunities. It can be bewildering knowing where to start your job search, because the possibilities are endless.
+
+ There are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned nine parameters:
 
 1. 👨‍🔬 by role, see section \@ref(by-role)
 1. 📊 by sector, see section \@ref(by-sector)
@@ -44,20 +52,20 @@ It can be bewildering knowing where to start your job search, because the possib
 Each strategy has is own strengths and weaknesses, so you'll probably want to use more than one and experiment with different strategies as your search progresses. No doubt, you'll have some extra strategies of your own, this is not an exhaustive list:
 
 ### By role {#by-role}
-There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Lets say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
+There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
-```md
-* I'm looking for product management roles
-```
+````python
+find_job --role product_management
+````
 
 The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
 
 ### By sector {#by-sector}
 Computing is found in every sector of business and society. You won't just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:
 
-```md
-* I'm interested in the financial sector, particularly FinTech
-```
+````python
+find_job --sector FinTech
+````
 
 Like many graduate employment guides, the Guardian 300 guide (see section \@ref(studentjobs)) has  good overview of different sectors by breaking down employers by sectors such as:
 
@@ -71,9 +79,9 @@ Picking a sector can help you get started, to narrow what might otherwise be a m
 ### By skills {#by-skills}
 Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs. Take [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (AWS) for example:
 
-```md
-* I'm interested in AWS, I'm looking for roles using AWS
-```
+````python
+find_job --skill AWS
+````
 
 Picking a technology can help you narrow down the options, for example by using these keywords in your search.
 
@@ -90,9 +98,15 @@ Armed with knowledge of *when* to apply you can start to target employers. Timin
 ### By size {#by-size}
 Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There's advantages and disadvantages to each, but picking a size can help you get started. For example:
 
-```md
-* I'm applying to startups where I can have flexibility
-```
+````python
+find_job --employees >10,000
+````
+
+will find your jobs in big multinational corporations. Perhaps that's not you
+
+````python
+find_job --employees <50
+````
 
 Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
 
@@ -111,9 +125,15 @@ knitr::kable(job_table, caption = "The practicalities of applying for vacancies,
 ### By location {#by-location}
 Pick a location. London? Manchester? New York? The Outer Hebrides? Depending on the location, this will determine the options that are available:
 
-```md
-* I'm looking for jobs in Manchester, UK or within easy reach of it
-```
+````python
+find_job --location Manchester
+````
+
+or
+
+````python
+find_job --location London
+````
 
 Locations can help you define your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
 
@@ -171,11 +191,49 @@ knitr::include_graphics("images/grow your networks.png")
 ### By salary {#money}
 Last but not least you can search by salary
 
-```md
-* I won't want to work for less than x amount
+````python
+find_job --salary £35,000
+````
+
+or
+
+````python
+find_job --salary £18,000
+````
+
+Setting a minimum salary will include or exclude certain employers from your search. You need to know how much you are worth to do this realistically, see section \@ref(undersell) and figure \@ref(fig:salaries-fig)
+
+
+```{r salaries-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsalaries)"}
+library(ggplot2)
+library(dplyr)
+salaries <- tribble(
+  ~year, ~salary,
+  2007, 24500,
+  2008, 25500,
+  2009, 27000,
+  2010, 29000,
+  2011, 29000,
+  2012, 29000,
+  2013, 29000,
+  2014, 29500,
+  2015, 30000,
+  2016, 30000,
+  2017, 30000,
+  2018, 30000,
+  2019, 30000,
+  2020, 30000,
+  2021, 30000,
+  2022, 32000)
+
+
+salaries %>% ggplot(aes(x=year, y=salary)) + geom_line() + geom_point() + ggtitle("UK graduate starting salaries (£)") 
+
 ```
 
-Setting a minimum salary will include or exclude certain employers from your search. You need to know how much you are worth to do this realistically, see section \@ref(undersell).
+
+(ref:captionsalaries) Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2022] Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a subjective judgement, lots of good smaller employers don't feature in this data and may pay less than the large multinational organisations that dominate this set of employers. The averages also hide significant variations between different sectors such as investment banking and the public sector, see also section \@ref(undersell)
+
 
 <!-- network includes
 * Fellow students
@@ -387,7 +445,7 @@ Likewise, you should make sure you don't undersell yourself. Know your value (fi
 * [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk) [@michaelgrove]
 * [The Highest Paid Internships and Placements in the UK](https://www.ratemyplacement.co.uk/blog/highest-paid-internships-placements-uk/) [@louiseintern]
 
-Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between. So beware of under-selling yourself, know your value. Some employers see students as a form of cheap labour that can be exploited because you're not “qualified” until you graduate. I'd think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉
+Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between. So beware of under-selling yourself, know your value, see \@ref(money). Some employers see students as a form of cheap labour that can be exploited because you're not “qualified” until you graduate. I'd think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉
 
 Knowing your value is crucial if you're going to negotiate any job offers you receive, see section \@ref(offer).
 
