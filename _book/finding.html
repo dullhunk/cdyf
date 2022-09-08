@@ -173,10 +173,20 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <h2>
 <span class="header-section-number">8.2</span> Job search strategies<a class="anchor" aria-label="anchor" href="#strategies"><i class="fas fa-link"></i></a>
 </h2>
-<p>Lets imagine you have a handy command line utility <code>find_job</code> on your computer which knows about every job availabe, regardless of where it is advertised. Such a facility doesn’t really exist, but lets pretend that it does. If you were to run utility with no parameters:</p>
-<div class="sourceCode" id="cb31"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb31-1"><a href="finding#cb31-1" aria-hidden="true" tabindex="-1"></a>find_job</span></code></pre></div>
-<p>You will be completely overwhelmed with the opportunities. It can be bewildering knowing where to start your job search, because the possibilities are endless.</p>
-<p>There are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to <a href="https://en.wikipedia.org/wiki/Decomposition_(computer_science)">decompose</a> the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We’ve already mentioned nine parameters:</p>
+<p>Lets imagine there is a handy AI-powered function in python called <code>find_jobs()</code> which knows <em>everything</em> about:</p>
+<ul>
+<li>every job available, regardless of where they are advertised, incuding hidden ones</li>
+<li>your skills, knowledge and ambitions</li>
+<li>employers, their services, products and values</li>
+<li>people in your network.</li>
+</ul>
+<p>Such a function doesn’t really exist yet, but lets pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments…</p>
+<div class="sourceCode" id="cb31"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb31-1"><a href="finding#cb31-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb31-2"><a href="finding#cb31-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-3"><a href="finding#cb31-3" aria-hidden="true" tabindex="-1"></a><span class="co"># call the fictional function</span></span>
+<span id="cb31-4"><a href="finding#cb31-4" aria-hidden="true" tabindex="-1"></a>find_jobs()</span></code></pre></div>
+<p>…you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless.</p>
+<p>We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to <a href="https://en.wikipedia.org/wiki/Decomposition_(computer_science)">decompose</a> the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We’ve already mentioned nine parameters:</p>
 <ol style="list-style-type: decimal">
 <li>👨‍🔬 by role, see section <a href="finding#by-role">8.2.1</a>
 </li>
@@ -184,26 +194,26 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 </li>
 <li>💪 by skills, see section <a href="finding#by-skills">8.2.3</a>
 </li>
-<li>🕰 by time, see section <a href="finding#by-time">8.2.4</a>
+<li>🌇 by location, see section <a href="finding#by-location">8.2.4</a>
 </li>
-<li>🚛 by size, see section <a href="finding#by-size">8.2.5</a>
+<li>👨‍👩‍👧‍👦 by network, see section <a href="finding#weakties">8.2.5</a>
 </li>
-<li>🌇 by location, see section <a href="finding#by-location">8.2.6</a>
+<li>💰 by salary, see section <a href="finding#money">8.2.6</a>
 </li>
-<li>⚖️ by quantity, see section <a href="finding#by-quantity">8.2.7</a>
+<li>🚛 by size, see section <a href="finding#by-size">8.2.7</a>
 </li>
-<li>👨‍👩‍👧‍👦 by network, see section <a href="finding#weakties">8.2.8</a>
+<li>🕰 by timing, see section <a href="finding#by-time">8.2.8</a>
 </li>
-<li>💰 by salary, see section <a href="finding#money">8.2.9</a>
+<li>⚖️ by quantity, see section <a href="finding#by-quantity">8.2.9</a>
 </li>
 </ol>
-<p>Each strategy has is own strengths and weaknesses, so you’ll probably want to use more than one and experiment with different strategies as your search progresses. No doubt, you’ll have some extra strategies of your own, this is not an exhaustive list:</p>
+<p>Each strategy has is own strengths and weaknesses, so you’ll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you’ll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:</p>
 <div id="by-role" class="section level3" number="8.2.1">
 <h3>
 <span class="header-section-number">8.2.1</span> By role<a class="anchor" aria-label="anchor" href="#by-role"><i class="fas fa-link"></i></a>
 </h3>
 <p>There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let’s say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:</p>
-<div class="sourceCode" id="cb32"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb32-1"><a href="finding#cb32-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>role product_management</span></code></pre></div>
+<div class="sourceCode" id="cb32"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb32-1"><a href="finding#cb32-1" aria-hidden="true" tabindex="-1"></a>find_jobs(role<span class="op">=</span>product_management)</span></code></pre></div>
 <p>The list of roles in section <a href="broadening#otheroles">9.2</a> will give you a flavour of some roles to think about, beyond software engineering.</p>
 </div>
 <div id="by-sector" class="section level3" number="8.2.2">
@@ -211,7 +221,7 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <span class="header-section-number">8.2.2</span> By sector<a class="anchor" aria-label="anchor" href="#by-sector"><i class="fas fa-link"></i></a>
 </h3>
 <p>Computing is found in every sector of business and society. You won’t just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:</p>
-<div class="sourceCode" id="cb33"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb33-1"><a href="finding#cb33-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>sector FinTech</span></code></pre></div>
+<div class="sourceCode" id="cb33"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb33-1"><a href="finding#cb33-1" aria-hidden="true" tabindex="-1"></a>find_jobs(sector<span class="op">=</span>FinTech)</span></code></pre></div>
 <p>Like many graduate employment guides, the Guardian 300 guide (see section <a href="finding#studentjobs">8.3.1</a>) has good overview of different sectors by breaking down employers by sectors such as:</p>
 <ul>
 <li>Consulting</li>
@@ -225,25 +235,92 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <span class="header-section-number">8.2.3</span> By skills<a class="anchor" aria-label="anchor" href="#by-skills"><i class="fas fa-link"></i></a>
 </h3>
 <p>Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs. Take <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">Amazon Web Services</a> (AWS) for example:</p>
-<div class="sourceCode" id="cb34"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb34-1"><a href="finding#cb34-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>skill AWS</span></code></pre></div>
+<div class="sourceCode" id="cb34"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb34-1"><a href="finding#cb34-1" aria-hidden="true" tabindex="-1"></a>find_jobs(skill<span class="op">=</span>AWS)</span></code></pre></div>
 <p>Picking a technology can help you narrow down the options, for example by using these keywords in your search.</p>
 </div>
-<div id="by-time" class="section level3" number="8.2.4">
+<div id="by-location" class="section level3" number="8.2.4">
 <h3>
-<span class="header-section-number">8.2.4</span> By time<a class="anchor" aria-label="anchor" href="#by-time"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.2.4</span> By location<a class="anchor" aria-label="anchor" href="#by-location"><i class="fas fa-link"></i></a>
 </h3>
-<p>For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you’re not successful, you could switch to smaller employers later in the academic year. For example:</p>
-<div class="sourceCode" id="cb35"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb35-1"><a href="finding#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>It's October, so I'm applying to large employers</span></code></pre></div>
-<p>Armed with knowledge of <em>when</em> to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.</p>
+<p>Pick a location. London? Manchester? New York? Silly Valley? The Outer Hebrides? Depending on the location, this will determine the options that are available:</p>
+<div class="sourceCode" id="cb35"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb35-1"><a href="finding#cb35-1" aria-hidden="true" tabindex="-1"></a>find_jobs(location<span class="op">=</span>Manchester)</span></code></pre></div>
+<p>or</p>
+<div class="sourceCode" id="cb36"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb36-1"><a href="finding#cb36-1" aria-hidden="true" tabindex="-1"></a>find_jobs(location<span class="op">=</span>London)</span></code></pre></div>
+<p>… and so on so locations can help you define your problem space. For example, if you’re looking in Manchester, you can get started at <a href="https://git.io/manc">git.io/manc</a>. Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending <a href="https://www.meetup.com/">meetup.com</a> events in your chosen location.</p>
 </div>
-<div id="by-size" class="section level3" number="8.2.5">
+<div id="weakties" class="section level3" number="8.2.5">
 <h3>
-<span class="header-section-number">8.2.5</span> By size<a class="anchor" aria-label="anchor" href="#by-size"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.2.5</span> By network<a class="anchor" aria-label="anchor" href="#weakties"><i class="fas fa-link"></i></a>
 </h3>
-<p>Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There’s advantages and disadvantages to each, but picking a size can help you get started. For example:</p>
-<div class="sourceCode" id="cb36"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb36-1"><a href="finding#cb36-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>employees <span class="op">&gt;</span><span class="dv">10</span>,<span class="dv">000</span></span></code></pre></div>
-<p>will find your jobs in big multinational corporations. Perhaps that’s not you</p>
-<div class="sourceCode" id="cb37"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb37-1"><a href="finding#cb37-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>employees <span class="op">&lt;</span><span class="dv">50</span></span></code></pre></div>
+<p>The people in your network can help you find work. <a href="https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know">It’s not what you know, its who you know</a>, or so the cliché goes. The bigger your network, the more opportunities you’ll know about. So a really basic strategy for finding jobs using your network. Remember, <code>find_jobs</code> does just know what you know, it also knows who is in your professional <code>network</code> and the employers <em>they</em> know about, so we could ask it to find opportunities in your professional and social networks:</p>
+<div class="sourceCode" id="cb37"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb37-1"><a href="finding#cb37-1" aria-hidden="true" tabindex="-1"></a>find_jobs(network<span class="op">=</span><span class="va">True</span>)</span></code></pre></div>
+<p>Your close network probably won’t change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist <a href="https://en.wikipedia.org/wiki/Mark_Granovetter">Mark Granovetter</a> calls “weak ties”. <span class="citation">(<a href="reading#ref-granovetter" role="doc-biblioref">Granovetter 1973</a>)</span></p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:bumped-fig"></span>
+<img src="images/Bumped%20into.png" alt="It’s not what you know, its who you know: Networking and personal contacts can be more useful than just knowledge and skills alone, when seeking employment. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you’re after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by Visual Thinkery is licensed under CC-BY-ND" width="99%"><p class="caption">
+Figure 8.2: It’s not what you know, its who you know: Networking and personal contacts can be more useful than just knowledge and skills alone, when seeking employment. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you’re after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
+</p>
+</div>
+
+<p>Weak ties are people you don’t know as well, but are important for a range of reasons. Research has shown that <a href="https://www.bbc.com/worklife/article/20200701-why-your-weak-tie-friendships-may-mean-more-than-you-think">building networks of weak ties is good for your mental health and can give you an edge in job hunting</a>. <span class="citation">(<a href="reading#ref-weakties" role="doc-biblioref">Leslie 2020</a>)</span> Granovetter showed that many job opportunities came through weak ties, rather than strong ones. This is true not just of jobs early on in your career (like now) but also later too. So it is in your interests to continually foster weak connections and be open to serendipitous meetings where you bump into people, as in Figure <a href="finding#fig:bumped-fig">8.2</a>. “Bumping into” here, could mean either physical or virtual.</p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:net-fig"></span>
+<img src="images/Grow%20your%20networks.png" alt="Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by Visual Thinkery is licensed under CC-BY-ND" width="50%"><p class="caption">
+Figure 8.3: Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
+</p>
+</div>
+
+<!-- network includes
+* Fellow students
+* Employers on campus
+* Alumni
+* Recruiters-->
+<!--### Academics
+
+Academics have careers too, and some will have extensive networks of contacts in industry and academia that might be useful to you. If you ask nicely, they might introduce you to people they know who can help, such as former students or collaborators.
+
+<div class="figure" style="text-align: center">
+<img src="images/teachers-purveyors-of-confidence.png" alt="(ref:captionpurveyors)" width="80%" />
+<p class="caption">(\#fig:teachers-fig)(ref:captionpurveyors)</p>
+</div>
+
+(ref:captionpurveyors) Your teachers may have contacts that might be useful to you. [Teachers](https://bryanmmathers.com/teachers/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Speculative applications-->
+<!--
+https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/speculative-cover-letter-->
+<!--Search by
+
+* sector ### Gaming grads in games-->
+<!--https://www.youtube.com/watch?v=PpvdbADLJAY-->
+</div>
+<div id="money" class="section level3" number="8.2.6">
+<h3>
+<span class="header-section-number">8.2.6</span> By salary<a class="anchor" aria-label="anchor" href="#money"><i class="fas fa-link"></i></a>
+</h3>
+<p>You can also define your search space by salary:</p>
+<div class="sourceCode" id="cb38"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb38-1"><a href="finding#cb38-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">36000</span>)</span></code></pre></div>
+<p>or</p>
+<div class="sourceCode" id="cb39"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb39-1"><a href="finding#cb39-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">18000</span>)</span></code></pre></div>
+<p>or even the dreaded but vague, negotiable and cryptic:</p>
+<div class="sourceCode" id="cb40"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb40-1"><a href="finding#cb40-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>competitive)</span></code></pre></div>
+<p>Setting a minimum salary will include or exclude certain employers from your search. To do this realistically, you need to know how much you are worth, see section <a href="finding#undersell">8.4.5</a> and figure <a href="finding#fig:salaries-fig">8.4</a> for some places to start.</p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:salaries-fig"></span>
+<img src="cdyf_files/figure-html/salaries-fig-1.png" alt="Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to highfliers.co.uk (Birchall 2022) Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are graduate salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don’t feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section 8.4.5" width="100%"><p class="caption">
+Figure 8.4: Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to <a href="https://www.highfliers.co.uk">highfliers.co.uk</a> <span class="citation">(<a href="reading#ref-highfliers2022" role="doc-biblioref">Birchall 2022</a>)</span> Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are <em>graduate</em> salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don’t feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section <a href="finding#undersell">8.4.5</a>
+</p>
+</div>
+
+</div>
+<div id="by-size" class="section level3" number="8.2.7">
+<h3>
+<span class="header-section-number">8.2.7</span> By size<a class="anchor" aria-label="anchor" href="#by-size"><i class="fas fa-link"></i></a>
+</h3>
+<p>Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There’s advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. For example:</p>
+<div class="sourceCode" id="cb41"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb41-1"><a href="finding#cb41-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_employees<span class="op">=</span><span class="dv">10000</span>)</span></code></pre></div>
+<p>will find your jobs in big multinational corporations. Perhaps that’s not you:</p>
+<div class="sourceCode" id="cb42"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb42-1"><a href="finding#cb42-1" aria-hidden="true" tabindex="-1"></a>find_jobs(maximum_employees<span class="op">=</span><span class="dv">50</span>)</span></code></pre></div>
 <p>Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you’d like to work for. Table <a href="finding#tab:shortcuts">8.1</a> summarises some of the when and where some employers typically advertise.</p>
 <div class="inline-table"><table class="table table-sm">
 <caption>
@@ -286,33 +363,32 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 </tr>
 </tbody>
 </table></div>
+<p>Our <code>find_jobs()</code> function is useful, if only as a thought experiment, but there’s still the question of <em>when</em> you use it and <em>how often</em>:</p>
 </div>
-<div id="by-location" class="section level3" number="8.2.6">
+<div id="by-time" class="section level3" number="8.2.8">
 <h3>
-<span class="header-section-number">8.2.6</span> By location<a class="anchor" aria-label="anchor" href="#by-location"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.2.8</span> By timing<a class="anchor" aria-label="anchor" href="#by-time"><i class="fas fa-link"></i></a>
 </h3>
-<p>Pick a location. London? Manchester? New York? The Outer Hebrides? Depending on the location, this will determine the options that are available:</p>
-<div class="sourceCode" id="cb38"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb38-1"><a href="finding#cb38-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>location Manchester</span></code></pre></div>
-<p>or</p>
-<div class="sourceCode" id="cb39"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb39-1"><a href="finding#cb39-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>location London</span></code></pre></div>
-<p>Locations can help you define your problem space. For example, if you’re looking in Manchester, you can get started at <a href="https://git.io/manc">git.io/manc</a>. Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending <a href="https://www.meetup.com/">meetup.com</a> events in your chosen location.</p>
+<p>For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you’re not successful, you could switch to smaller employers later in the academic year. For example:</p>
+<div class="sourceCode" id="cb43"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb43-1"><a href="finding#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“It's October, so I'm applying to large employers”</span></code></pre></div>
+<p>Armed with knowledge of <em>when</em> to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.</p>
 </div>
-<div id="by-quantity" class="section level3" number="8.2.7">
+<div id="by-quantity" class="section level3" number="8.2.9">
 <h3>
-<span class="header-section-number">8.2.7</span> By quantity<a class="anchor" aria-label="anchor" href="#by-quantity"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.2.9</span> By quantity<a class="anchor" aria-label="anchor" href="#by-quantity"><i class="fas fa-link"></i></a>
 </h3>
-<p>Should you optimise the <em>quantity</em> of your applications or the <em>quality</em>, see figure <a href="finding#fig:blunderbuss-fig">8.2</a>?</p>
+<p>Should you optimise the <em>quantity</em> of your applications or the <em>quality</em>, see figure <a href="finding#fig:blunderbuss-fig">8.5</a>?</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:blunderbuss-fig"></span>
 <img src="images/Blunderbuss.png" alt="As you target employers, what will your strategy be? At one extreme you could optimise the quantity of your applications, aiming to do as many as you can. This is shown in the left of the picture by the blunderbuss (or scattergun) strategy. You make lots of applications but don’t target or tailor them much in the hope that some will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the quality of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by Visual Thinkery is licensed under CC-BY-ND" width="100%"><p class="caption">
-Figure 8.2: As you target employers, what will your strategy be? At one extreme you could optimise the <em>quantity</em> of your applications, aiming to do as many as you can. This is shown in the left of the picture by the <a href="https://en.wikipedia.org/wiki/Blunderbuss">blunderbuss</a> (or scattergun) strategy. You make lots of applications but don’t target or tailor them much in the hope that <em>some</em> will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the <em>quality</em> of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
+Figure 8.5: As you target employers, what will your strategy be? At one extreme you could optimise the <em>quantity</em> of your applications, aiming to do as many as you can. This is shown in the left of the picture by the <a href="https://en.wikipedia.org/wiki/Blunderbuss">blunderbuss</a> (or scattergun) strategy. You make lots of applications but don’t target or tailor them much in the hope that <em>some</em> will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the <em>quality</em> of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
 </p>
 </div>
 
-<p>Figure <a href="finding#fig:blunderbuss-fig">8.2</a> shows two extreme approaches to job hunting, in reality you’ll probably want to strike a balance between <em>quality</em> and <em>quantity</em>. Finding jobs by quantity can set a pace and rhythm to your job search:</p>
-<div class="sourceCode" id="cb40"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb40-1"><a href="finding#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>I'm doing one application per week during term time</span></code></pre></div>
-<p>or even</p>
-<div class="sourceCode" id="cb41"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb41-1"><a href="finding#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>I'll spend two hours per week coding my future</span></code></pre></div>
+<p>Figure <a href="finding#fig:blunderbuss-fig">8.5</a> shows two extreme approaches to job hunting, in reality you’ll probably want to strike a balance between <em>quality</em> and <em>quantity</em>. Finding jobs by quantity can set a pace and rhythm to your job search:</p>
+<div class="sourceCode" id="cb44"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb44-1"><a href="finding#cb44-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“I will do one application per week during term time”</span></code></pre></div>
+<p>or set a time limit for what you’re prepared to do:</p>
+<div class="sourceCode" id="cb45"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb45-1"><a href="finding#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“I'll spend two hours per week finding and applying for jobs”</span></code></pre></div>
 <p>If you find yourself:</p>
 <ul>
 <li>Making a small number of applications, you may need to consider applying more widely and spending <em>less time</em> on each application</li>
@@ -320,75 +396,12 @@ Figure 8.2: As you target employers, what will your strategy be? At one extreme 
 </ul>
 <p>This raises the question, how big is a <em>small</em> or a <em>large</em> number of job applications, which isn’t easy to answer. Doing fifty applications over a couple of months may mean the quality of each application is too low.</p>
 </div>
-<div id="weakties" class="section level3" number="8.2.8">
-<h3>
-<span class="header-section-number">8.2.8</span> By network<a class="anchor" aria-label="anchor" href="#weakties"><i class="fas fa-link"></i></a>
-</h3>
-<p>The people in your network can help you find work. <a href="https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know">It’s not what you know, its who you know</a>, or so the cliché goes. The bigger your network, the more opportunities you’ll know about. So a really basic strategy for finding jobs using your network:</p>
-<div class="sourceCode" id="cb42"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb42-1"><a href="finding#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>I'll investigate employers of people I know</span></code></pre></div>
-<p>Your close network probably won’t change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist <a href="https://en.wikipedia.org/wiki/Mark_Granovetter">Mark Granovetter</a> calls “weak ties”. <span class="citation">(<a href="reading#ref-granovetter" role="doc-biblioref">Granovetter 1973</a>)</span></p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:bumped-fig"></span>
-<img src="images/Bumped%20into.png" alt="It’s not what you know, its who you know: Networking and personal contacts can be more useful than just knowledge and skills alone, when seeking employment. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you’re after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by Visual Thinkery is licensed under CC-BY-ND" width="99%"><p class="caption">
-Figure 8.3: It’s not what you know, its who you know: Networking and personal contacts can be more useful than just knowledge and skills alone, when seeking employment. Networking is an essential part of any job search, your networks can help you now and in the future. One of the things looked at in this chapter is how to build and use your networks to help find the job you’re after. The simplest networking technique is bumping into people, but you need create opportunities for that to happen. Bumped into sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
-</p>
-</div>
-
-<p>Weak ties are people you don’t know as well, but are important for a range of reasons. Research has shown that <a href="https://www.bbc.com/worklife/article/20200701-why-your-weak-tie-friendships-may-mean-more-than-you-think">building networks of weak ties is good for your mental health and can give you an edge in job hunting</a>. <span class="citation">(<a href="reading#ref-weakties" role="doc-biblioref">Leslie 2020</a>)</span> Granovetter showed that many job opportunities came through weak ties, rather than strong ones. This is true not just of jobs early on in your career (like now) but also later too. So it is in your interests to continually foster weak connections and be open to serendipitous meetings where you bump into people, as in Figure <a href="finding#fig:bumped-fig">8.3</a>. “Bumping into” here, could mean either physical or virtual.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:net-fig"></span>
-<img src="images/Grow%20your%20networks.png" alt="Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by Visual Thinkery is licensed under CC-BY-ND" width="50%"><p class="caption">
-Figure 8.4: Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
-</p>
-</div>
-
-</div>
-<div id="money" class="section level3" number="8.2.9">
-<h3>
-<span class="header-section-number">8.2.9</span> By salary<a class="anchor" aria-label="anchor" href="#money"><i class="fas fa-link"></i></a>
-</h3>
-<p>Last but not least you can search by salary</p>
-<div class="sourceCode" id="cb43"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb43-1"><a href="finding#cb43-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>salary £<span class="dv">35</span>,<span class="dv">000</span></span></code></pre></div>
-<p>or</p>
-<div class="sourceCode" id="cb44"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb44-1"><a href="finding#cb44-1" aria-hidden="true" tabindex="-1"></a>find_job <span class="op">--</span>salary £<span class="dv">18</span>,<span class="dv">000</span></span></code></pre></div>
-<p>Setting a minimum salary will include or exclude certain employers from your search. You need to know how much you are worth to do this realistically, see section <a href="finding#undersell">8.4.5</a> and figure <a href="finding#fig:salaries-fig">8.5</a></p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:salaries-fig"></span>
-<img src="cdyf_files/figure-html/salaries-fig-1.png" alt="Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to highfliers.co.uk (Birchall 2022) Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are graduate salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a subjective judgement, lots of good smaller employers don’t feature in this data and may pay less than the large multinational organisations that dominate this set of employers. The averages also hide significant variations between different sectors such as investment banking and the public sector, see also section 8.4.5" width="100%"><p class="caption">
-Figure 8.5: Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to <a href="https://www.highfliers.co.uk">highfliers.co.uk</a> <span class="citation">(<a href="reading#ref-highfliers2022" role="doc-biblioref">Birchall 2022</a>)</span> Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are <em>graduate</em> salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a subjective judgement, lots of good smaller employers don’t feature in this data and may pay less than the large multinational organisations that dominate this set of employers. The averages also hide significant variations between different sectors such as investment banking and the public sector, see also section <a href="finding#undersell">8.4.5</a>
-</p>
-</div>
-
-<!-- network includes
-* Fellow students
-* Employers on campus
-* Alumni
-* Recruiters-->
-<!--### Academics
-
-Academics have careers too, and some will have extensive networks of contacts in industry and academia that might be useful to you. If you ask nicely, they might introduce you to people they know who can help, such as former students or collaborators.
-
-<div class="figure" style="text-align: center">
-<img src="images/teachers-purveyors-of-confidence.png" alt="(ref:captionpurveyors)" width="80%" />
-<p class="caption">(\#fig:teachers-fig)(ref:captionpurveyors)</p>
-</div>
-
-(ref:captionpurveyors) Your teachers may have contacts that might be useful to you. [Teachers](https://bryanmmathers.com/teachers/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-## Speculative applications-->
-<!--
-https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/speculative-cover-letter-->
-<!--Search by
-
-* sector ### Gaming grads in games-->
-<!--https://www.youtube.com/watch?v=PpvdbADLJAY-->
-</div>
 </div>
 <div id="looking" class="section level2" number="8.3">
 <h2>
 <span class="header-section-number">8.3</span> Where can you for look for jobs?<a class="anchor" aria-label="anchor" href="#looking"><i class="fas fa-link"></i></a>
 </h2>
-<p>We’ve described some strategies to get you started, with a rough idea of what you’re looking for, where can you actually look?</p>
+<p>Using our fictional <code>find_jobs</code> function we’ve described and discussed some basic strategies to get you started. Sadly no such function exists yet, so armed with a rough idea of what you’re looking for, where can you actually look?</p>
 <p>The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. There are three kinds of places you can look for jobs:</p>
 <ol style="list-style-type: decimal">
 <li>Undergraduate and graduate jobs boards, such as Gradcracker <a href="finding#studentjobs">8.3.1</a>
@@ -627,13 +640,13 @@ Figure 8.10: Beware of false or misleading information in the jobs marketplace. 
 <a href="https://github.com/IgWod/interns-salaries-uk-2018">technical intern salaries in the UK</a> <span class="citation">(<a href="reading#ref-igwod" role="doc-biblioref">Wodiany 2018</a>)</span>
 </li>
 <li>
-<a href="https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk">graduate salaries in the UK</a> <span class="citation">(<a href="reading#ref-michaelgrove" role="doc-biblioref">Grove 2018</a>)</span>
+<a href="https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk">graduate salaries in the UK</a> <span class="citation">(<a href="reading#ref-michaelgrove" role="doc-biblioref">M.-S. Smith 2021</a>)</span>
 </li>
 <li>
-<a href="https://www.ratemyplacement.co.uk/blog/highest-paid-internships-placements-uk/">The Highest Paid Internships and Placements in the UK</a> <span class="citation">(<a href="reading#ref-louiseintern" role="doc-biblioref">Louise 2021</a>)</span>
+<a href="https://www.ratemyplacement.co.uk/blog/highest-paid-internships-placements-uk/">The Highest Paid Internships and Placements in the UK</a> <span class="citation">(<a href="reading#ref-louiseintern" role="doc-biblioref">Louise 2022</a>)</span>
 </li>
 </ul>
-<p>Salaries in the UK for interns (and graduates) range from <a href="https://www.gov.uk/national-minimum-wage">minimum wage</a> to £50k and over, with everything in between. So beware of under-selling yourself, know your value, see <a href="finding#money">8.2.9</a>. Some employers see students as a form of cheap labour that can be exploited because you’re not “qualified” until you graduate. I’d think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉</p>
+<p>Salaries in the UK for interns (and graduates) range from <a href="https://www.gov.uk/national-minimum-wage">minimum wage</a> to £50k and over, with everything in between. So beware of under-selling yourself, know your value, see <a href="finding#money">8.2.6</a>. Some employers see students as a form of cheap labour that can be exploited because you’re not “qualified” until you graduate. I’d think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉</p>
 <p>Knowing your value is crucial if you’re going to negotiate any job offers you receive, see section <a href="speaking#offer">10.4</a>.</p>
 </div>
 <div id="compromises" class="section level3" number="8.4.6">
@@ -718,7 +731,7 @@ Figure 8.14: Are you ready to ride the emotional rollercoaster of job hunting? <
 <span class="header-section-number">8.5</span> Breakpoints<a class="anchor" aria-label="anchor" href="#bp8"><i class="fas fa-link"></i></a>
 </h2>
 <p>Let’s pause here. Insert a <a href="https://en.wikipedia.org/wiki/Breakpoint">breakpoint</a> in your <code>code</code> and slowly step through it so we can examine the current values of your variables and parameters.</p>
-<div class="sourceCode" id="cb45"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb45-1"><a href="finding#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
+<div class="sourceCode" id="cb46"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb46-1"><a href="finding#cb46-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
 <ul>
 <li>What are your current job search strategies?</li>
 <li>How could they be improved or tuned?</li>
@@ -731,7 +744,7 @@ Figure 8.14: Are you ready to ride the emotional rollercoaster of job hunting? <
 <li>Should I optimise for <em>quality</em> or <em>quantity</em> of job applications?</li>
 <li>How can you deal with the inevitable rejections that come during job hunting?</li>
 </ul>
-<div class="sourceCode" id="cb46"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb46-1"><a href="finding#cb46-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
+<div class="sourceCode" id="cb47"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb47-1"><a href="finding#cb47-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
 </div>
 <div id="tldr8" class="section level2" number="8.6">
 <h2>
@@ -742,8 +755,8 @@ Figure 8.14: Are you ready to ride the emotional rollercoaster of job hunting? <
 <p>This chapter is under construction because I’m using agile book development methods, see figure <a href="finding#fig:deathstar5-fig">8.15</a>.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:deathstar5-fig"></span>
-<img src="images/DeathStar2.jpg" alt="Just like the Death Star, this galactic superweapon book is under construction. As of 07 September, 2022 this book is an estimated 35% complete. Image of agile weapon engineering in Star Wars via Wikimedia Commons w.wiki/5N6q adapted using the Wikipedia app" width="99%"><p class="caption">
-Figure 8.15: Just like the <a href="https://en.wikipedia.org/wiki/Death_Star">Death Star</a>, this <del>galactic superweapon</del> book is under construction. As of 07 September, 2022 this book is an estimated <strong>35% complete</strong>. Image of agile weapon engineering in <em>Star Wars</em> via Wikimedia Commons <a href="https://w.wiki/5N6q">w.wiki/5N6q</a> adapted using the <a href="https://apps.apple.com/gb/app/wikipedia/id324715238">Wikipedia app</a>
+<img src="images/DeathStar2.jpg" alt="Just like the Death Star, this galactic superweapon book is under construction. As of 08 September, 2022 this book is an estimated 35% complete. Image of agile weapon engineering in Star Wars via Wikimedia Commons w.wiki/5N6q adapted using the Wikipedia app" width="99%"><p class="caption">
+Figure 8.15: Just like the <a href="https://en.wikipedia.org/wiki/Death_Star">Death Star</a>, this <del>galactic superweapon</del> book is under construction. As of 08 September, 2022 this book is an estimated <strong>35% complete</strong>. Image of agile weapon engineering in <em>Star Wars</em> via Wikimedia Commons <a href="https://w.wiki/5N6q">w.wiki/5N6q</a> adapted using the <a href="https://apps.apple.com/gb/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
 </div>
 <!--
@@ -796,12 +809,12 @@ I hope these steps help you to bounce back from rejection – but also to preven
 <li><a class="nav-link" href="#by-role"><span class="header-section-number">8.2.1</span> By role</a></li>
 <li><a class="nav-link" href="#by-sector"><span class="header-section-number">8.2.2</span> By sector</a></li>
 <li><a class="nav-link" href="#by-skills"><span class="header-section-number">8.2.3</span> By skills</a></li>
-<li><a class="nav-link" href="#by-time"><span class="header-section-number">8.2.4</span> By time</a></li>
-<li><a class="nav-link" href="#by-size"><span class="header-section-number">8.2.5</span> By size</a></li>
-<li><a class="nav-link" href="#by-location"><span class="header-section-number">8.2.6</span> By location</a></li>
-<li><a class="nav-link" href="#by-quantity"><span class="header-section-number">8.2.7</span> By quantity</a></li>
-<li><a class="nav-link" href="#weakties"><span class="header-section-number">8.2.8</span> By network</a></li>
-<li><a class="nav-link" href="#money"><span class="header-section-number">8.2.9</span> By salary</a></li>
+<li><a class="nav-link" href="#by-location"><span class="header-section-number">8.2.4</span> By location</a></li>
+<li><a class="nav-link" href="#weakties"><span class="header-section-number">8.2.5</span> By network</a></li>
+<li><a class="nav-link" href="#money"><span class="header-section-number">8.2.6</span> By salary</a></li>
+<li><a class="nav-link" href="#by-size"><span class="header-section-number">8.2.7</span> By size</a></li>
+<li><a class="nav-link" href="#by-time"><span class="header-section-number">8.2.8</span> By timing</a></li>
+<li><a class="nav-link" href="#by-quantity"><span class="header-section-number">8.2.9</span> By quantity</a></li>
 </ul>
 </li>
 <li>

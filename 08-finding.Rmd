@@ -29,33 +29,43 @@ At the end of this chapter you will be able to:
 <!--* Describe what it means to be **employable**-->
 
 ## Job search strategies {#strategies}
-Lets imagine you have a handy command line utility `find_job` on your computer which knows about every job availabe, regardless of where it is advertised. Such a facility doesn't really exist, but lets pretend that it does. If you were to run utility with no parameters:
+Lets imagine there is a handy AI-powered function in python called `find_jobs()` which knows *everything* about:
+
+* every job available, regardless of where they are advertised, incuding hidden ones
+* your skills, knowledge and ambitions
+* employers, their services, products and values
+* people in your network.
+
+Such a function doesn't really exist yet, but lets pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments...
 
 ````python
-find_job
+from future import jobs
+
+# call the fictional function
+find_jobs()
 ````
 
-You will be completely overwhelmed with the opportunities. It can be bewildering knowing where to start your job search, because the possibilities are endless.
+...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless.
 
- There are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned nine parameters:
+We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned nine parameters:
 
 1. 👨‍🔬 by role, see section \@ref(by-role)
 1. 📊 by sector, see section \@ref(by-sector)
 1. 💪 by skills, see section \@ref(by-skills)
-1. 🕰 by time, see section \@ref(by-time)
-1. 🚛 by size, see section \@ref(by-size)
 1. 🌇 by location, see section \@ref(by-location)
-1. ⚖️ by quantity, see section \@ref(by-quantity)
 1. 👨‍👩‍👧‍👦 by network, see section \@ref(weakties)
 1. 💰 by salary, see section \@ref(money)
+1. 🚛 by size, see section \@ref(by-size)
+1. 🕰 by timing, see section \@ref(by-time)
+1. ⚖️ by quantity, see section \@ref(by-quantity)
 
-Each strategy has is own strengths and weaknesses, so you'll probably want to use more than one and experiment with different strategies as your search progresses. No doubt, you'll have some extra strategies of your own, this is not an exhaustive list:
+Each strategy has is own strengths and weaknesses, so you'll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you'll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:
 
 ### By role {#by-role}
 There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
 ````python
-find_job --role product_management
+find_jobs(role=product_management)
 ````
 
 The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
@@ -64,7 +74,7 @@ The list of roles in section \@ref(otheroles) will give you a flavour of some ro
 Computing is found in every sector of business and society. You won't just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:
 
 ````python
-find_job --sector FinTech
+find_jobs(sector=FinTech)
 ````
 
 Like many graduate employment guides, the Guardian 300 guide (see section \@ref(studentjobs)) has  good overview of different sectors by breaking down employers by sectors such as:
@@ -80,98 +90,31 @@ Picking a sector can help you get started, to narrow what might otherwise be a m
 Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs. Take [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (AWS) for example:
 
 ````python
-find_job --skill AWS
+find_jobs(skill=AWS)
 ````
 
 Picking a technology can help you narrow down the options, for example by using these keywords in your search.
 
-
-### By time {#by-time}
-For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example:
-
-```md
-* It's October, so I'm applying to large employers
-```
-
-Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.
-
-### By size {#by-size}
-Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There's advantages and disadvantages to each, but picking a size can help you get started. For example:
-
-````python
-find_job --employees >10,000
-````
-
-will find your jobs in big multinational corporations. Perhaps that's not you
-
-````python
-find_job --employees <50
-````
-
-Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
-
-```{r shortcuts, echo = FALSE}
-job_table <- tibble::tribble(
-  ~ ""       , ~ "Large employers", ~ "SMEs",
-  "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
-  "When"     , "Vacancies open earlier in the academic year", "Vacancies *tend* to open later in the academic year",
-  "How"      , "Typically multistage applications, several rounds of interviews", "Typically shorter application and interview processes",
-  "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
-  "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
-)
-knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
-```
-
 ### By location {#by-location}
-Pick a location. London? Manchester? New York? The Outer Hebrides? Depending on the location, this will determine the options that are available:
+Pick a location. London? Manchester? New York? Silly Valley? The Outer Hebrides? Depending on the location, this will determine the options that are available:
 
 ````python
-find_job --location Manchester
+find_jobs(location=Manchester)
 ````
 
 or
 
 ````python
-find_job --location London
+find_jobs(location=London)
 ````
-
-Locations can help you define your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
-
-
-### By quantity {#by-quantity}
-Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
-
-```{r blunderbuss-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblunderbuss)"}
-knitr::include_graphics("images/Blunderbuss.png")
-```
-(ref:captionblunderbuss) As you target employers, what will your strategy be? At one extreme you could optimise the *quantity* of your applications, aiming to do as many as you can. This is shown in the left of the picture by the [blunderbuss](https://en.wikipedia.org/wiki/Blunderbuss) (or scattergun) strategy. You make lots of applications but don't target or tailor them much in the hope that *some* will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the *quality* of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-Figure \@ref(fig:blunderbuss-fig) shows two extreme approaches to job hunting, in reality you'll probably want to strike a balance between *quality* and *quantity*. Finding jobs by quantity can set a pace and rhythm to your job search:
-
-```md
-* I'm doing one application per week during term time
-```
-
-or even
-
-```md
-* I'll spend two hours per week coding my future
-```
-
-If you find yourself:
-
-* Making a small number of applications, you may need to consider applying more widely and spending *less time* on each application
-* Making a large number of applications, you may need to consider applying less and spending  *more time* on each application
-
-
-This raises the question, how big is a *small* or a *large* number of job applications, which isn't easy to answer. Doing fifty applications over a couple of months may mean the quality of each application is too low.
+ ... and so on so locations can help you define your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
 
 ### By network {#weakties}
-The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network:
+The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
 
-```md
-* I'll investigate employers of people I know
-```
+````python
+find_jobs(network=True)
+````
 
 Your close network probably won't change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist [Mark Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) calls  “weak ties”. [@granovetter]
 
@@ -187,52 +130,6 @@ knitr::include_graphics("images/grow your networks.png")
 ```
 
 (ref:captionnetworks) Who is in your network? Grow and use your network, both the strong ties and the weak ties. Weak ties are often the most important when it comes to job hunting. Networks sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
-
-### By salary {#money}
-Last but not least you can search by salary
-
-````python
-find_job --salary £35,000
-````
-
-or
-
-````python
-find_job --salary £18,000
-````
-
-Setting a minimum salary will include or exclude certain employers from your search. You need to know how much you are worth to do this realistically, see section \@ref(undersell) and figure \@ref(fig:salaries-fig)
-
-
-```{r salaries-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsalaries)"}
-library(ggplot2)
-library(dplyr)
-salaries <- tribble(
-  ~year, ~salary,
-  2007, 24500,
-  2008, 25500,
-  2009, 27000,
-  2010, 29000,
-  2011, 29000,
-  2012, 29000,
-  2013, 29000,
-  2014, 29500,
-  2015, 30000,
-  2016, 30000,
-  2017, 30000,
-  2018, 30000,
-  2019, 30000,
-  2020, 30000,
-  2021, 30000,
-  2022, 32000)
-
-
-salaries %>% ggplot(aes(x=year, y=salary)) + geom_line() + geom_point() + ggtitle("UK graduate starting salaries (£)") 
-
-```
-
-
-(ref:captionsalaries) Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2022] Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a subjective judgement, lots of good smaller employers don't feature in this data and may pay less than the large multinational organisations that dominate this set of employers. The averages also hide significant variations between different sectors such as investment banking and the public sector, see also section \@ref(undersell)
 
 
 <!-- network includes
@@ -263,11 +160,131 @@ https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/s
 <!--https://www.youtube.com/watch?v=PpvdbADLJAY-->
 
 
+
+### By salary {#money}
+You can also define your search space by salary:
+
+````python
+find_jobs(minimum_salary=£36000)
+````
+
+or
+
+````python
+find_jobs(minimum_salary=£18000)
+````
+
+or even the dreaded but vague, negotiable and cryptic:
+
+````python
+find_jobs(minimum_salary=competitive)
+````
+
+Setting a minimum salary will include or exclude certain employers from your search. To do this realistically, you need to know how much you are worth, see section \@ref(undersell) and figure \@ref(fig:salaries-fig) for some places to start.
+
+
+```{r salaries-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsalaries)"}
+library(ggplot2)
+library(dplyr)
+salaries <- tribble(
+  ~year, ~salary,
+  2007, 24500,
+  2008, 25500,
+  2009, 27000,
+  2010, 29000,
+  2011, 29000,
+  2012, 29000,
+  2013, 29000,
+  2014, 29500,
+  2015, 30000,
+  2016, 30000,
+  2017, 30000,
+  2018, 30000,
+  2019, 30000,
+  2020, 30000,
+  2021, 30000,
+  2022, 32000)
+
+
+salaries %>% ggplot(aes(x=year, y=salary)) + geom_line() + geom_point() + ggtitle("UK graduate starting salaries (£)")
+
+```
+
+
+(ref:captionsalaries) Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2022] Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don't feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section \@ref(undersell)
+
+
+### By size {#by-size}
+Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. For example:
+
+````python
+find_jobs(minimum_employees=10000)
+````
+
+will find your jobs in big multinational corporations. Perhaps that's not you:
+
+````python
+find_jobs(maximum_employees=50)
+````
+
+Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
+
+```{r shortcuts, echo = FALSE}
+job_table <- tibble::tribble(
+  ~ ""       , ~ "Large employers", ~ "SMEs",
+  "Where"    , "Advertise broadly", "Less likely to advertise on big jobs boards",
+  "When"     , "Vacancies open earlier in the academic year", "Vacancies *tend* to open later in the academic year",
+  "How"      , "Typically multistage applications, several rounds of interviews", "Typically shorter application and interview processes",
+  "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
+  "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
+)
+knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
+```
+
+Our `find_jobs()` function is useful, if only as a thought experiment, but there's still the question of *when* you use it and *how often*:
+
+### By timing {#by-time}
+For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example:
+
+```md
+* “It's October, so I'm applying to large employers”
+```
+
+Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.
+
+### By quantity {#by-quantity}
+Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
+
+```{r blunderbuss-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblunderbuss)"}
+knitr::include_graphics("images/Blunderbuss.png")
+```
+(ref:captionblunderbuss) As you target employers, what will your strategy be? At one extreme you could optimise the *quantity* of your applications, aiming to do as many as you can. This is shown in the left of the picture by the [blunderbuss](https://en.wikipedia.org/wiki/Blunderbuss) (or scattergun) strategy. You make lots of applications but don't target or tailor them much in the hope that *some* will hit the target if you point your weapon (CV) in approximately the right general direction. At the other extreme you could optimise the *quality* of your applications by spending more time researching the employer and carefully aiming your shots more like a sniper would (in the right of the figure). Which strategy is best? Blunderbuss sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Figure \@ref(fig:blunderbuss-fig) shows two extreme approaches to job hunting, in reality you'll probably want to strike a balance between *quality* and *quantity*. Finding jobs by quantity can set a pace and rhythm to your job search:
+
+```md
+* “I will do one application per week during term time”
+```
+
+or set a time limit for what you're prepared to do:
+
+```md
+* “I'll spend two hours per week finding and applying for jobs”
+```
+
+If you find yourself:
+
+* Making a small number of applications, you may need to consider applying more widely and spending *less time* on each application
+* Making a large number of applications, you may need to consider applying less and spending  *more time* on each application
+
+
+This raises the question, how big is a *small* or a *large* number of job applications, which isn't easy to answer. Doing fifty applications over a couple of months may mean the quality of each application is too low.
+
+
 ## Where can you for look for jobs? {#looking}
-We've described some strategies to get you started, with a rough idea of what you're looking for, where can you actually look?
+Using our fictional `find_jobs` function we've described and discussed some basic strategies to get you started. Sadly no such function exists yet, so armed with a rough idea of what you're looking for, where can you actually look?
 
 The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. There are three kinds of places you can look for jobs:
-
 
 1. Undergraduate and graduate jobs boards, such as Gradcracker \@ref(studentjobs)
 1. General jobs boards, such as Google jobs see section \@ref(generaljobs)
