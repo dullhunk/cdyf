@@ -147,7 +147,7 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <ol style="list-style-type: decimal">
 <li>Formulate job search strategies:
 <ul>
-<li>by role, sector, skills, time, size, quantity, network, salary and location</li>
+<li>by role, sector, skills, time, size, quantity, values, culture, network, salary and location</li>
 </ul>
 </li>
 <li>Apply your search strategies to advertised (and unadvertised) opportunities
@@ -184,9 +184,10 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <div class="sourceCode" id="cb31"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb31-1"><a href="finding#cb31-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
 <span id="cb31-2"><a href="finding#cb31-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb31-3"><a href="finding#cb31-3" aria-hidden="true" tabindex="-1"></a><span class="co"># call the fictional function</span></span>
-<span id="cb31-4"><a href="finding#cb31-4" aria-hidden="true" tabindex="-1"></a>find_jobs()</span></code></pre></div>
+<span id="cb31-4"><a href="finding#cb31-4" aria-hidden="true" tabindex="-1"></a><span class="co"># what could possibly go wrong?</span></span>
+<span id="cb31-5"><a href="finding#cb31-5" aria-hidden="true" tabindex="-1"></a>find_jobs()</span></code></pre></div>
 <p>…you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless.</p>
-<p>We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to <a href="https://en.wikipedia.org/wiki/Decomposition_(computer_science)">decompose</a> the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We’ve already mentioned nine parameters:</p>
+<p>We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to <a href="https://en.wikipedia.org/wiki/Decomposition_(computer_science)">decompose</a> the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We’ve already mentioned some:</p>
 <ol style="list-style-type: decimal">
 <li>👨‍🔬 by role, see section <a href="finding#by-role">8.2.1</a>
 </li>
@@ -194,26 +195,37 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 </li>
 <li>💪 by skills, see section <a href="finding#by-skills">8.2.3</a>
 </li>
-<li>🌇 by location, see section <a href="finding#by-location">8.2.4</a>
+<li>🏖️ by location, see section <a href="finding#by-location">8.2.4</a>
 </li>
 <li>👨‍👩‍👧‍👦 by network, see section <a href="finding#weakties">8.2.5</a>
 </li>
 <li>💰 by salary, see section <a href="finding#money">8.2.6</a>
 </li>
-<li>🚛 by size, see section <a href="finding#by-size">8.2.7</a>
+<li>🏋️ by size, see section <a href="finding#by-size">8.2.7</a>
 </li>
-<li>🕰 by timing, see section <a href="finding#by-time">8.2.8</a>
+<li>❤️ by values, see section <a href="finding#by-values">8.2.8</a>
 </li>
-<li>⚖️ by quantity, see section <a href="finding#by-quantity">8.2.9</a>
+<li>🕰 by timing, see section <a href="finding#by-time">8.2.9</a>
+</li>
+<li>⚖️ by quantity, see section <a href="finding#by-quantity">8.2.10</a>
 </li>
 </ol>
-<p>Each strategy has is own strengths and weaknesses, so you’ll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you’ll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:</p>
+<p>Each strategy has is own strengths and weaknesses, and you’ll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you’ll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:</p>
 <div id="by-role" class="section level3" number="8.2.1">
 <h3>
 <span class="header-section-number">8.2.1</span> By role<a class="anchor" aria-label="anchor" href="#by-role"><i class="fas fa-link"></i></a>
 </h3>
 <p>There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let’s say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:</p>
-<div class="sourceCode" id="cb32"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb32-1"><a href="finding#cb32-1" aria-hidden="true" tabindex="-1"></a>find_jobs(role<span class="op">=</span>product_management)</span></code></pre></div>
+<div class="sourceCode" id="cb32"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb32-1"><a href="finding#cb32-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb32-2"><a href="finding#cb32-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb32-3"><a href="finding#cb32-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Fancy managing products?</span></span>
+<span id="cb32-4"><a href="finding#cb32-4" aria-hidden="true" tabindex="-1"></a>find_jobs(role<span class="op">=</span>product_management)</span>
+<span id="cb32-5"><a href="finding#cb32-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb32-6"><a href="finding#cb32-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Engineering makes the world go round</span></span>
+<span id="cb32-7"><a href="finding#cb32-7" aria-hidden="true" tabindex="-1"></a>find_jobs(role<span class="op">=</span>software_engineering)</span>
+<span id="cb32-8"><a href="finding#cb32-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb32-9"><a href="finding#cb32-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Wannabe a Data Scientist?</span></span>
+<span id="cb32-10"><a href="finding#cb32-10" aria-hidden="true" tabindex="-1"></a>find_jobs(role<span class="op">=</span>data_science)</span></code></pre></div>
 <p>The list of roles in section <a href="broadening#otheroles">9.2</a> will give you a flavour of some roles to think about, beyond software engineering.</p>
 </div>
 <div id="by-sector" class="section level3" number="8.2.2">
@@ -221,7 +233,16 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <span class="header-section-number">8.2.2</span> By sector<a class="anchor" aria-label="anchor" href="#by-sector"><i class="fas fa-link"></i></a>
 </h3>
 <p>Computing is found in every sector of business and society. You won’t just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:</p>
-<div class="sourceCode" id="cb33"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb33-1"><a href="finding#cb33-1" aria-hidden="true" tabindex="-1"></a>find_jobs(sector<span class="op">=</span>FinTech)</span></code></pre></div>
+<div class="sourceCode" id="cb33"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb33-1"><a href="finding#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb33-2"><a href="finding#cb33-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-3"><a href="finding#cb33-3" aria-hidden="true" tabindex="-1"></a><span class="co"># I've got the brains</span></span>
+<span id="cb33-4"><a href="finding#cb33-4" aria-hidden="true" tabindex="-1"></a>find_jobs(sector<span class="op">=</span>BigTech)</span>
+<span id="cb33-5"><a href="finding#cb33-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-6"><a href="finding#cb33-6" aria-hidden="true" tabindex="-1"></a><span class="co"># You've got the looks</span></span>
+<span id="cb33-7"><a href="finding#cb33-7" aria-hidden="true" tabindex="-1"></a>find_jobs(sector<span class="op">=</span>Entertainment)</span>
+<span id="cb33-8"><a href="finding#cb33-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb33-9"><a href="finding#cb33-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Let's make lots of money</span></span>
+<span id="cb33-10"><a href="finding#cb33-10" aria-hidden="true" tabindex="-1"></a>find_jobs(sector<span class="op">=</span>FinTech)</span></code></pre></div>
 <p>Like many graduate employment guides, the Guardian 300 guide (see section <a href="finding#studentjobs">8.3.1</a>) has good overview of different sectors by breaking down employers by sectors such as:</p>
 <ul>
 <li>Consulting</li>
@@ -234,26 +255,49 @@ Figure 8.1: Coding your future is all very well, but how do you actually get a j
 <h3>
 <span class="header-section-number">8.2.3</span> By skills<a class="anchor" aria-label="anchor" href="#by-skills"><i class="fas fa-link"></i></a>
 </h3>
-<p>Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs. Take <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">Amazon Web Services</a> (AWS) for example:</p>
-<div class="sourceCode" id="cb34"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb34-1"><a href="finding#cb34-1" aria-hidden="true" tabindex="-1"></a>find_jobs(skill<span class="op">=</span>AWS)</span></code></pre></div>
-<p>Picking a technology can help you narrow down the options, for example by using these keywords in your search.</p>
+<p>Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs.</p>
+<div class="sourceCode" id="cb34"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb34-1"><a href="finding#cb34-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb34-2"><a href="finding#cb34-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb34-3"><a href="finding#cb34-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Do you love using Amazon Web Services?</span></span>
+<span id="cb34-4"><a href="finding#cb34-4" aria-hidden="true" tabindex="-1"></a>find_jobs(skill<span class="op">=</span>AWS)</span>
+<span id="cb34-5"><a href="finding#cb34-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb34-6"><a href="finding#cb34-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Howabout some cutting edge AI?</span></span>
+<span id="cb34-7"><a href="finding#cb34-7" aria-hidden="true" tabindex="-1"></a>find_jobs(skill<span class="op">=</span>DeepLearning)</span>
+<span id="cb34-8"><a href="finding#cb34-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb34-9"><a href="finding#cb34-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Is your name Noelle Pointer?</span></span>
+<span id="cb34-10"><a href="finding#cb34-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Or are you Neil Pointer?</span></span>
+<span id="cb34-11"><a href="finding#cb34-11" aria-hidden="true" tabindex="-1"></a>find_jobs(skill<span class="op">=</span>C)</span>
+<span id="cb34-12"><a href="finding#cb34-12" aria-hidden="true" tabindex="-1"></a><span class="co"># See https://www.cdyf.me/hacking#neil-pointer</span></span></code></pre></div>
+<p>Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.</p>
 </div>
 <div id="by-location" class="section level3" number="8.2.4">
 <h3>
 <span class="header-section-number">8.2.4</span> By location<a class="anchor" aria-label="anchor" href="#by-location"><i class="fas fa-link"></i></a>
 </h3>
 <p>Pick a location. London? Manchester? New York? Silly Valley? The Outer Hebrides? Depending on the location, this will determine the options that are available:</p>
-<div class="sourceCode" id="cb35"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb35-1"><a href="finding#cb35-1" aria-hidden="true" tabindex="-1"></a>find_jobs(location<span class="op">=</span>Manchester)</span></code></pre></div>
-<p>or</p>
-<div class="sourceCode" id="cb36"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb36-1"><a href="finding#cb36-1" aria-hidden="true" tabindex="-1"></a>find_jobs(location<span class="op">=</span>London)</span></code></pre></div>
-<p>… and so on so locations can help you define your problem space. For example, if you’re looking in Manchester, you can get started at <a href="https://git.io/manc">git.io/manc</a>. Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending <a href="https://www.meetup.com/">meetup.com</a> events in your chosen location.</p>
+<div class="sourceCode" id="cb35"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb35-1"><a href="finding#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb35-2"><a href="finding#cb35-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb35-3"><a href="finding#cb35-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Hit the North!</span></span>
+<span id="cb35-4"><a href="finding#cb35-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Northern Powerhouse</span></span>
+<span id="cb35-5"><a href="finding#cb35-5" aria-hidden="true" tabindex="-1"></a>find_jobs(location<span class="op">=</span>Manchester)</span>
+<span id="cb35-6"><a href="finding#cb35-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb35-7"><a href="finding#cb35-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Hit the South!</span></span>
+<span id="cb35-8"><a href="finding#cb35-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Southern Powerhouse</span></span>
+<span id="cb35-9"><a href="finding#cb35-9" aria-hidden="true" tabindex="-1"></a>find_jobs(location<span class="op">=</span>London)</span></code></pre></div>
+<p>… and so on. So locations can help you define (and reduce) your problem space. For example, if you’re looking in Manchester, you can get started at <a href="https://git.io/manc">git.io/manc</a>. Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending <a href="https://www.meetup.com/">meetup.com</a> events in your chosen location.</p>
 </div>
 <div id="weakties" class="section level3" number="8.2.5">
 <h3>
 <span class="header-section-number">8.2.5</span> By network<a class="anchor" aria-label="anchor" href="#weakties"><i class="fas fa-link"></i></a>
 </h3>
 <p>The people in your network can help you find work. <a href="https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know">It’s not what you know, its who you know</a>, or so the cliché goes. The bigger your network, the more opportunities you’ll know about. So a really basic strategy for finding jobs using your network. Remember, <code>find_jobs</code> does just know what you know, it also knows who is in your professional <code>network</code> and the employers <em>they</em> know about, so we could ask it to find opportunities in your professional and social networks:</p>
-<div class="sourceCode" id="cb37"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb37-1"><a href="finding#cb37-1" aria-hidden="true" tabindex="-1"></a>find_jobs(network<span class="op">=</span><span class="va">True</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb36"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb36-1"><a href="finding#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb36-2"><a href="finding#cb36-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb36-3"><a href="finding#cb36-3" aria-hidden="true" tabindex="-1"></a><span class="co"># jobs in your network</span></span>
+<span id="cb36-4"><a href="finding#cb36-4" aria-hidden="true" tabindex="-1"></a>find_jobs(network<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb36-5"><a href="finding#cb36-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb36-6"><a href="finding#cb36-6" aria-hidden="true" tabindex="-1"></a><span class="co"># jobs outside your network</span></span>
+<span id="cb36-7"><a href="finding#cb36-7" aria-hidden="true" tabindex="-1"></a>find_jobs(network<span class="op">=</span><span class="va">False</span>)</span></code></pre></div>
 <p>Your close network probably won’t change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist <a href="https://en.wikipedia.org/wiki/Mark_Granovetter">Mark Granovetter</a> calls “weak ties”. <span class="citation">(<a href="reading#ref-granovetter" role="doc-biblioref">Granovetter 1973</a>)</span></p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:bumped-fig"></span>
@@ -299,16 +343,28 @@ https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/s
 <span class="header-section-number">8.2.6</span> By salary<a class="anchor" aria-label="anchor" href="#money"><i class="fas fa-link"></i></a>
 </h3>
 <p>You can also define your search space by salary:</p>
-<div class="sourceCode" id="cb38"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb38-1"><a href="finding#cb38-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">36000</span>)</span></code></pre></div>
-<p>or</p>
-<div class="sourceCode" id="cb39"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb39-1"><a href="finding#cb39-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">18000</span>)</span></code></pre></div>
-<p>or even the dreaded but vague, negotiable and cryptic:</p>
-<div class="sourceCode" id="cb40"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb40-1"><a href="finding#cb40-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>competitive)</span></code></pre></div>
+<!--script src="https://gist.github.com/dullhunk/45de6737e7cff0997c131acf8a1152ed.js"></script-->
+<div class="sourceCode" id="cb37"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb37-1"><a href="finding#cb37-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb37-2"><a href="finding#cb37-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb37-3"><a href="finding#cb37-3" aria-hidden="true" tabindex="-1"></a><span class="co"># are you aiming high?</span></span>
+<span id="cb37-4"><a href="finding#cb37-4" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">36000</span>)</span>
+<span id="cb37-5"><a href="finding#cb37-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb37-6"><a href="finding#cb37-6" aria-hidden="true" tabindex="-1"></a><span class="co"># or are you aiming lower?</span></span>
+<span id="cb37-7"><a href="finding#cb37-7" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">18000</span>)</span>
+<span id="cb37-8"><a href="finding#cb37-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb37-9"><a href="finding#cb37-9" aria-hidden="true" tabindex="-1"></a><span class="co"># how low can you go?</span></span>
+<span id="cb37-10"><a href="finding#cb37-10" aria-hidden="true" tabindex="-1"></a><span class="co"># is that really a "job"?</span></span>
+<span id="cb37-11"><a href="finding#cb37-11" aria-hidden="true" tabindex="-1"></a><span class="co"># or just shameless exploitation?</span></span>
+<span id="cb37-12"><a href="finding#cb37-12" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>£<span class="dv">0</span>)</span>
+<span id="cb37-13"><a href="finding#cb37-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb37-14"><a href="finding#cb37-14" aria-hidden="true" tabindex="-1"></a><span class="co"># if the salary is so competitive ...  </span></span>
+<span id="cb37-15"><a href="finding#cb37-15" aria-hidden="true" tabindex="-1"></a><span class="co"># why can't they just tell you what it is?</span></span>
+<span id="cb37-16"><a href="finding#cb37-16" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_salary<span class="op">=</span>competitive)</span></code></pre></div>
 <p>Setting a minimum salary will include or exclude certain employers from your search. To do this realistically, you need to know how much you are worth, see section <a href="finding#undersell">8.4.5</a> and figure <a href="finding#fig:salaries-fig">8.4</a> for some places to start.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:salaries-fig"></span>
-<img src="cdyf_files/figure-html/salaries-fig-1.png" alt="Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to highfliers.co.uk (Birchall 2022) Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are graduate salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don’t feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section 8.4.5" width="100%"><p class="caption">
-Figure 8.4: Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to <a href="https://www.highfliers.co.uk">highfliers.co.uk</a> <span class="citation">(<a href="reading#ref-highfliers2022" role="doc-biblioref">Birchall 2022</a>)</span> Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are <em>graduate</em> salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don’t feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section <a href="finding#undersell">8.4.5</a>
+<img src="cdyf_files/figure-html/salaries-fig-1.png" alt="Average graduate starting salaries (in £) at the UK’s “top” employers 2007 to 2022, according to highfliers.co.uk (Birchall 2022) Since 2007, graduate salaries have risen from £24,500 to £32,000k in 2022. Note that these are graduate salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don’t feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section 8.4.5" width="100%"><p class="caption">
+Figure 8.4: Average graduate starting salaries (in £) at the UK’s “top” employers 2007 to 2022, according to <a href="https://www.highfliers.co.uk">highfliers.co.uk</a> <span class="citation">(<a href="reading#ref-highfliers2022" role="doc-biblioref">Birchall 2022</a>)</span> Since 2007, graduate salaries have risen from <code>£24,500</code> to <code>£32,000k</code> in 2022. Note that these are <em>graduate</em> salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don’t feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section <a href="finding#undersell">8.4.5</a>
 </p>
 </div>
 
@@ -317,10 +373,17 @@ Figure 8.4: Average graduate starting salaries at the UK’s “top” employers
 <h3>
 <span class="header-section-number">8.2.7</span> By size<a class="anchor" aria-label="anchor" href="#by-size"><i class="fas fa-link"></i></a>
 </h3>
-<p>Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There’s advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. For example:</p>
-<div class="sourceCode" id="cb41"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb41-1"><a href="finding#cb41-1" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_employees<span class="op">=</span><span class="dv">10000</span>)</span></code></pre></div>
-<p>will find your jobs in big multinational corporations. Perhaps that’s not you:</p>
-<div class="sourceCode" id="cb42"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb42-1"><a href="finding#cb42-1" aria-hidden="true" tabindex="-1"></a>find_jobs(maximum_employees<span class="op">=</span><span class="dv">50</span>)</span></code></pre></div>
+<p>Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something in-between? There’s advantages and disadvantages to each, but like all our other parameters, picking an organisation size (or type) can help you get started. For example:</p>
+<div class="sourceCode" id="cb38"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb38-1"><a href="finding#cb38-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb38-2"><a href="finding#cb38-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb38-3"><a href="finding#cb38-3" aria-hidden="true" tabindex="-1"></a><span class="co"># looking for large multinationals?</span></span>
+<span id="cb38-4"><a href="finding#cb38-4" aria-hidden="true" tabindex="-1"></a>find_jobs(minimum_employees<span class="op">=</span><span class="dv">10000</span>)</span>
+<span id="cb38-5"><a href="finding#cb38-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb38-6"><a href="finding#cb38-6" aria-hidden="true" tabindex="-1"></a><span class="co"># howabout something more manageable?</span></span>
+<span id="cb38-7"><a href="finding#cb38-7" aria-hidden="true" tabindex="-1"></a>find_jobs(maximum_employees<span class="op">=</span><span class="dv">100</span>)</span>
+<span id="cb38-8"><a href="finding#cb38-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb38-9"><a href="finding#cb38-9" aria-hidden="true" tabindex="-1"></a><span class="co"># or even smaller still?</span></span>
+<span id="cb38-10"><a href="finding#cb38-10" aria-hidden="true" tabindex="-1"></a>find_jobs(<span class="bu">type</span><span class="op">=</span>startup)</span></code></pre></div>
 <p>Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you’d like to work for. Table <a href="finding#tab:shortcuts">8.1</a> summarises some of the when and where some employers typically advertise.</p>
 <div class="inline-table"><table class="table table-sm">
 <caption>
@@ -363,19 +426,40 @@ Figure 8.4: Average graduate starting salaries at the UK’s “top” employers
 </tr>
 </tbody>
 </table></div>
-<p>Our <code>find_jobs()</code> function is useful, if only as a thought experiment, but there’s still the question of <em>when</em> you use it and <em>how often</em>:</p>
 </div>
-<div id="by-time" class="section level3" number="8.2.8">
+<div id="by-values" class="section level3" number="8.2.8">
 <h3>
-<span class="header-section-number">8.2.8</span> By timing<a class="anchor" aria-label="anchor" href="#by-time"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.2.8</span> By values<a class="anchor" aria-label="anchor" href="#by-values"><i class="fas fa-link"></i></a>
 </h3>
-<p>For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you’re not successful, you could switch to smaller employers later in the academic year. For example:</p>
-<div class="sourceCode" id="cb43"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb43-1"><a href="finding#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“It's October, so I'm applying to large employers”</span></code></pre></div>
-<p>Armed with knowledge of <em>when</em> to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.</p>
+<p>Besides the necessary value of making a profit, which is what commercial employers need to do to survive, what are the values of the employers you are interested in? How do they match your own? Reasonably or not at all? How much of your soul do you need to sell? All of it, or just some of it? Its a difficult question to compute, see section <a href="broadening#soul">9.5</a>, but let’s imagine we can compute it:</p>
+<div class="sourceCode" id="cb39"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb39-1"><a href="finding#cb39-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb39-2"><a href="finding#cb39-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb39-3"><a href="finding#cb39-3" aria-hidden="true" tabindex="-1"></a><span class="co"># a reasonable match</span></span>
+<span id="cb39-4"><a href="finding#cb39-4" aria-hidden="true" tabindex="-1"></a>find_jobs(values_match<span class="op">=</span><span class="dv">70</span><span class="op">%</span>)</span>
+<span id="cb39-5"><a href="finding#cb39-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb39-6"><a href="finding#cb39-6" aria-hidden="true" tabindex="-1"></a><span class="co"># or no match at all?</span></span>
+<span id="cb39-7"><a href="finding#cb39-7" aria-hidden="true" tabindex="-1"></a><span class="co"># happy to sell your soul?</span></span>
+<span id="cb39-8"><a href="finding#cb39-8" aria-hidden="true" tabindex="-1"></a>find_jobs(values_match<span class="op">=</span><span class="dv">0</span><span class="op">%</span>)</span></code></pre></div>
+<p>An employers <code>values</code> are often reflected in their <code>culture</code>. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fit in? How can you find this out? If you’re struggling with these questions, you may need to do some more soul searching, see chapter <a href="knowing#knowing">2</a>.</p>
+<p>Our <code>find_jobs()</code> function is useful, if only as a thought experiment, but there’s still a strategic question of <em>when</em> you use the function and <em>how often</em> so lets look at those:</p>
 </div>
-<div id="by-quantity" class="section level3" number="8.2.9">
+<div id="by-time" class="section level3" number="8.2.9">
 <h3>
-<span class="header-section-number">8.2.9</span> By quantity<a class="anchor" aria-label="anchor" href="#by-quantity"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.2.9</span> By timing<a class="anchor" aria-label="anchor" href="#by-time"><i class="fas fa-link"></i></a>
+</h3>
+<p>For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you’re not successful, you could switch to smaller employers later in the academic year. For example “It’s October, so I’m applying to large employers” or:</p>
+<div class="sourceCode" id="cb40"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb40-1"><a href="finding#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> future <span class="im">import</span> jobs</span>
+<span id="cb40-2"><a href="finding#cb40-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb40-3"><a href="finding#cb40-3" aria-hidden="true" tabindex="-1"></a><span class="co"># jobs that are open now</span></span>
+<span id="cb40-4"><a href="finding#cb40-4" aria-hidden="true" tabindex="-1"></a>find_jobs(available<span class="op">=</span>true)</span>
+<span id="cb40-5"><a href="finding#cb40-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb40-6"><a href="finding#cb40-6" aria-hidden="true" tabindex="-1"></a><span class="co"># jobs that open later in the academic year</span></span>
+<span id="cb40-7"><a href="finding#cb40-7" aria-hidden="true" tabindex="-1"></a>find_jobs(available<span class="op">=</span>false)</span></code></pre></div>
+<p>Armed with knowledge of <em>when</em> to apply you can start to target employers. Timing is important because it some cases it will determine the type of organisation you apply to.</p>
+</div>
+<div id="by-quantity" class="section level3" number="8.2.10">
+<h3>
+<span class="header-section-number">8.2.10</span> By quantity<a class="anchor" aria-label="anchor" href="#by-quantity"><i class="fas fa-link"></i></a>
 </h3>
 <p>Should you optimise the <em>quantity</em> of your applications or the <em>quality</em>, see figure <a href="finding#fig:blunderbuss-fig">8.5</a>?</p>
 <div class="figure" style="text-align: center">
@@ -386,9 +470,9 @@ Figure 8.5: As you target employers, what will your strategy be? At one extreme 
 </div>
 
 <p>Figure <a href="finding#fig:blunderbuss-fig">8.5</a> shows two extreme approaches to job hunting, in reality you’ll probably want to strike a balance between <em>quality</em> and <em>quantity</em>. Finding jobs by quantity can set a pace and rhythm to your job search:</p>
-<div class="sourceCode" id="cb44"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb44-1"><a href="finding#cb44-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“I will do one application per week during term time”</span></code></pre></div>
+<div class="sourceCode" id="cb41"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb41-1"><a href="finding#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“I will do one application per week during term time”</span></code></pre></div>
 <p>or set a time limit for what you’re prepared to do:</p>
-<div class="sourceCode" id="cb45"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb45-1"><a href="finding#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“I'll spend two hours per week finding and applying for jobs”</span></code></pre></div>
+<div class="sourceCode" id="cb42"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb42-1"><a href="finding#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>“I'll spend two hours per week finding and applying for jobs”</span></code></pre></div>
 <p>If you find yourself:</p>
 <ul>
 <li>Making a small number of applications, you may need to consider applying more widely and spending <em>less time</em> on each application</li>
@@ -635,7 +719,7 @@ Figure 8.10: Beware of false or misleading information in the jobs marketplace. 
 <p>Likewise, you should make sure you don’t undersell yourself. Know your value (financial), know your values (see chapter are <a href="knowing#knowing">2</a>) and try to understand how that fits with a given employer. What are the employers stated values? On the financial side, it is easy to find out about salaries, for example see:</p>
 <ul>
 <li>
-<a href="https://www.glassdoor.co.uk/">glassdoor.co.uk</a> and <a href="https://www.levels.fyi/">levels.fyi</a> will give you a good idea for your current and future salary expectations</li>
+<a href="https://www.glassdoor.co.uk/">glassdoor.co.uk</a> and <a href="https://www.levels.fyi/">levels.fyi</a> (“Get Paid, Not Played!”) will give you a good idea for your current and future salary expectations</li>
 <li>
 <a href="https://github.com/IgWod/interns-salaries-uk-2018">technical intern salaries in the UK</a> <span class="citation">(<a href="reading#ref-igwod" role="doc-biblioref">Wodiany 2018</a>)</span>
 </li>
@@ -653,7 +737,7 @@ Figure 8.10: Beware of false or misleading information in the jobs marketplace. 
 <h3>
 <span class="header-section-number">8.4.6</span> Beware of compromises<a class="anchor" aria-label="anchor" href="#compromises"><i class="fas fa-link"></i></a>
 </h3>
-<p>Engineering inevitably involves compromises and trade-offs, see figure <a href="finding#fig:furber-fig">8.11</a>. You will have to make some compromises in engineering your future. This might be in the design and implementation of your career, such as your salary, location, employer, values or something else.</p>
+<p>Engineering usually involves compromises and trade-offs, see figure <a href="finding#fig:furber-fig">8.11</a>. You will have to make some compromises in <em>engineering your future</em>. This might be in the design and implementation of your career, such as your salary, location, employer, values or something else.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:furber-fig"></span>
 <img src="images/steve-furber.jpeg" alt="The design of a general-purpose processor, in common with most engineering endeavours, requires careful consideration of many trade-offs and compromises. (Furber 2000) That’s also true for your engineering your future too, what compromises and trade-offs are you happy to make? CC BY-SA portrait of microprocessor designer Steve Furber by Peter Howkins on Wikimedia Commons w.wiki/544E adapted using the Wikipedia app" width="98%"><p class="caption">
@@ -731,12 +815,13 @@ Figure 8.14: Are you ready to ride the emotional rollercoaster of job hunting? <
 <span class="header-section-number">8.5</span> Breakpoints<a class="anchor" aria-label="anchor" href="#bp8"><i class="fas fa-link"></i></a>
 </h2>
 <p>Let’s pause here. Insert a <a href="https://en.wikipedia.org/wiki/Breakpoint">breakpoint</a> in your <code>code</code> and slowly step through it so we can examine the current values of your variables and parameters.</p>
-<div class="sourceCode" id="cb46"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb46-1"><a href="finding#cb46-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
+<div class="sourceCode" id="cb43"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb43-1"><a href="finding#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
 <ul>
 <li>What are your current job search strategies?</li>
 <li>How could they be improved or tuned?</li>
 <li>How many jobs should you apply for?<br>
 </li>
+<li>What are the strengths and weaknesses of using each of the parameters of <code>find_jobs</code> described above?</li>
 <li>Why is it important to build your network?</li>
 <li>How can recruiters help you?</li>
 <li>Why do recruiters have a bad reputation?</li>
@@ -744,7 +829,7 @@ Figure 8.14: Are you ready to ride the emotional rollercoaster of job hunting? <
 <li>Should I optimise for <em>quality</em> or <em>quantity</em> of job applications?</li>
 <li>How can you deal with the inevitable rejections that come during job hunting?</li>
 </ul>
-<div class="sourceCode" id="cb47"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb47-1"><a href="finding#cb47-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
+<div class="sourceCode" id="cb44"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb44-1"><a href="finding#cb44-1" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
 </div>
 <div id="tldr8" class="section level2" number="8.6">
 <h2>
@@ -755,8 +840,8 @@ Figure 8.14: Are you ready to ride the emotional rollercoaster of job hunting? <
 <p>This chapter is under construction because I’m using agile book development methods, see figure <a href="finding#fig:deathstar5-fig">8.15</a>.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:deathstar5-fig"></span>
-<img src="images/DeathStar2.jpg" alt="Just like the Death Star, this galactic superweapon book is under construction. As of 08 September, 2022 this book is an estimated 35% complete. Image of agile weapon engineering in Star Wars via Wikimedia Commons w.wiki/5N6q adapted using the Wikipedia app" width="99%"><p class="caption">
-Figure 8.15: Just like the <a href="https://en.wikipedia.org/wiki/Death_Star">Death Star</a>, this <del>galactic superweapon</del> book is under construction. As of 08 September, 2022 this book is an estimated <strong>35% complete</strong>. Image of agile weapon engineering in <em>Star Wars</em> via Wikimedia Commons <a href="https://w.wiki/5N6q">w.wiki/5N6q</a> adapted using the <a href="https://apps.apple.com/gb/app/wikipedia/id324715238">Wikipedia app</a>
+<img src="images/DeathStar2.jpg" alt="Just like the Death Star, this galactic superweapon book is under construction. As of 09 September, 2022 this book is an estimated 35% complete. Image of agile weapon engineering in Star Wars via Wikimedia Commons w.wiki/5N6q adapted using the Wikipedia app" width="99%"><p class="caption">
+Figure 8.15: Just like the <a href="https://en.wikipedia.org/wiki/Death_Star">Death Star</a>, this <del>galactic superweapon</del> book is under construction. As of 09 September, 2022 this book is an estimated <strong>35% complete</strong>. Image of agile weapon engineering in <em>Star Wars</em> via Wikimedia Commons <a href="https://w.wiki/5N6q">w.wiki/5N6q</a> adapted using the <a href="https://apps.apple.com/gb/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
 </div>
 <!--
@@ -813,8 +898,9 @@ I hope these steps help you to bounce back from rejection – but also to preven
 <li><a class="nav-link" href="#weakties"><span class="header-section-number">8.2.5</span> By network</a></li>
 <li><a class="nav-link" href="#money"><span class="header-section-number">8.2.6</span> By salary</a></li>
 <li><a class="nav-link" href="#by-size"><span class="header-section-number">8.2.7</span> By size</a></li>
-<li><a class="nav-link" href="#by-time"><span class="header-section-number">8.2.8</span> By timing</a></li>
-<li><a class="nav-link" href="#by-quantity"><span class="header-section-number">8.2.9</span> By quantity</a></li>
+<li><a class="nav-link" href="#by-values"><span class="header-section-number">8.2.8</span> By values</a></li>
+<li><a class="nav-link" href="#by-time"><span class="header-section-number">8.2.9</span> By timing</a></li>
+<li><a class="nav-link" href="#by-quantity"><span class="header-section-number">8.2.10</span> By quantity</a></li>
 </ul>
 </li>
 <li>

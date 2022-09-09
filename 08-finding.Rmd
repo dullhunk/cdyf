@@ -11,7 +11,7 @@ knitr::include_graphics("images/Yes but how do I.png")
 At the end of this chapter you will be able to:
 
 1. Formulate job search strategies:
-    + by role, sector, skills, time, size, quantity, network, salary and location
+    + by role, sector, skills, time, size, quantity, values, culture, network, salary and location
 1. Apply your search strategies to advertised (and unadvertised) opportunities
     + Identify opportunities for finding work, online and face-to-face
     + Identify people in your existing networks who can help you
@@ -38,34 +38,47 @@ Lets imagine there is a handy AI-powered function in python called `find_jobs()`
 
 Such a function doesn't really exist yet, but lets pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments...
 
+
 ````python
 from future import jobs
 
 # call the fictional function
+# what could possibly go wrong?
 find_jobs()
 ````
 
 ...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless.
 
-We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned nine parameters:
+We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned some:
 
 1. 👨‍🔬 by role, see section \@ref(by-role)
 1. 📊 by sector, see section \@ref(by-sector)
 1. 💪 by skills, see section \@ref(by-skills)
-1. 🌇 by location, see section \@ref(by-location)
+1. 🏖️ by location, see section \@ref(by-location)
 1. 👨‍👩‍👧‍👦 by network, see section \@ref(weakties)
 1. 💰 by salary, see section \@ref(money)
-1. 🚛 by size, see section \@ref(by-size)
+1. 🏋️ by size, see section \@ref(by-size)
+1. ❤️ by values, see section \@ref(by-values)
 1. 🕰 by timing, see section \@ref(by-time)
 1. ⚖️ by quantity, see section \@ref(by-quantity)
 
-Each strategy has is own strengths and weaknesses, so you'll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you'll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:
+Each strategy has is own strengths and weaknesses, and you'll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you'll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:
 
 ### By role {#by-role}
 There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
 ````python
+from future import jobs
+
+# Fancy managing products?
 find_jobs(role=product_management)
+
+# Engineering makes the world go round
+find_jobs(role=software_engineering)
+
+# Wannabe a Data Scientist?
+find_jobs(role=data_science)
+
 ````
 
 The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
@@ -74,10 +87,19 @@ The list of roles in section \@ref(otheroles) will give you a flavour of some ro
 Computing is found in every sector of business and society. You won't just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:
 
 ````python
+from future import jobs
+
+# I've got the brains
+find_jobs(sector=BigTech)
+
+# You've got the looks
+find_jobs(sector=Entertainment)
+
+# Let's make lots of money
 find_jobs(sector=FinTech)
 ````
 
-Like many graduate employment guides, the Guardian 300 guide (see section \@ref(studentjobs)) has  good overview of different sectors by breaking down employers by sectors such as:
+Like many graduate employment guides, the Guardian 300 guide (see section \@ref(studentjobs)) has good overview of different sectors by breaking down employers by sectors such as:
 
 * Consulting
 * Public sector
@@ -87,33 +109,52 @@ Picking a sector can help you get started, to narrow what might otherwise be a m
 
 
 ### By skills {#by-skills}
-Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs. Take [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (AWS) for example:
+Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs.
 
 ````python
+from future import jobs
+
+# Do you love using Amazon Web Services?
 find_jobs(skill=AWS)
+
+# Howabout some cutting edge AI?
+find_jobs(skill=DeepLearning)
+
+# Is your name Noelle Pointer?
+# Or are you Neil Pointer?
+find_jobs(skill=C)
+# See https://www.cdyf.me/hacking#neil-pointer
 ````
 
-Picking a technology can help you narrow down the options, for example by using these keywords in your search.
+Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
 ### By location {#by-location}
 Pick a location. London? Manchester? New York? Silly Valley? The Outer Hebrides? Depending on the location, this will determine the options that are available:
 
 ````python
+from future import jobs
+
+# Hit the North!
+# Northern Powerhouse
 find_jobs(location=Manchester)
-````
 
-or
-
-````python
+# Hit the South!
+# Southern Powerhouse
 find_jobs(location=London)
 ````
- ... and so on so locations can help you define your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
+ ... and so on. So locations can help you define (and reduce) your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
 
 ### By network {#weakties}
 The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
 
 ````python
+from future import jobs
+
+# jobs in your network
 find_jobs(network=True)
+
+# jobs outside your network
+find_jobs(network=False)
 ````
 
 Your close network probably won't change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist [Mark Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) calls  “weak ties”. [@granovetter]
@@ -164,19 +205,24 @@ https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/s
 ### By salary {#money}
 You can also define your search space by salary:
 
+<!--script src="https://gist.github.com/dullhunk/45de6737e7cff0997c131acf8a1152ed.js"></script-->
+
 ````python
+from future import jobs
+
+# are you aiming high?
 find_jobs(minimum_salary=£36000)
-````
 
-or
-
-````python
+# or are you aiming lower?
 find_jobs(minimum_salary=£18000)
-````
 
-or even the dreaded but vague, negotiable and cryptic:
+# how low can you go?
+# is that really a "job"?
+# or just shameless exploitation?
+find_jobs(minimum_salary=£0)
 
-````python
+# if the salary is so competitive ...  
+# why can't they just tell you what it is?
 find_jobs(minimum_salary=competitive)
 ````
 
@@ -205,26 +251,28 @@ salaries <- tribble(
   2021, 30000,
   2022, 32000)
 
-
-salaries %>% ggplot(aes(x=year, y=salary)) + geom_line() + geom_point() + ggtitle("UK graduate starting salaries (£)")
+ggplot(data = salaries) + geom_bar(mapping = aes(x = year, y = salary), stat = "identity")
 
 ```
 
 
-(ref:captionsalaries) Average graduate starting salaries at the UK’s “top” employers 2007 to 2022, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2022] Since 2007, graduate salaries have risen from £24.5k to £32k in 2022. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don't feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section \@ref(undersell)
+(ref:captionsalaries) Average graduate starting salaries (in £) at the UK’s “top” employers 2007 to 2022, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2022] Since 2007, graduate salaries have risen from `£24,500` to `£32,000k` in 2022. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don't feature in this data and they typically pay less than the large multinational organisations dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section \@ref(undersell)
 
 
 ### By size {#by-size}
-Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something inbetween? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. For example:
+Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something in-between? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size (or type) can help you get started. For example:
 
 ````python
+from future import jobs
+
+# looking for large multinationals?
 find_jobs(minimum_employees=10000)
-````
 
-will find your jobs in big multinational corporations. Perhaps that's not you:
+# howabout something more manageable?
+find_jobs(maximum_employees=100)
 
-````python
-find_jobs(maximum_employees=50)
+# or even smaller still?
+find_jobs(type=startup)
 ````
 
 Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
@@ -241,16 +289,38 @@ job_table <- tibble::tribble(
 knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
 ```
 
-Our `find_jobs()` function is useful, if only as a thought experiment, but there's still the question of *when* you use it and *how often*:
+### By values {#by-values}
+Besides the necessary value of making a profit, which is what commercial employers need to do to survive, what are the values of the employers you are interested in? How do they match your own? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it?  Its a difficult question to compute, see section \@ref(soul), but let's imagine we can compute it:
+
+````python
+from future import jobs
+
+# a reasonable match
+find_jobs(values_match=70%)
+
+# or no match at all?
+# happy to sell your soul?
+find_jobs(values_match=0%)
+````
+
+An employers `values` are often reflected in their `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fit in? How can you find this out? If you're struggling with these questions, you may need to do some more soul searching, see chapter \@ref(knowing).
+
+Our `find_jobs()` function is useful, if only as a thought experiment, but there's still a strategic question of *when* you use the function and *how often* so lets look at those:
 
 ### By timing {#by-time}
-For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example:
+For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example “It's October, so I'm applying to large employers” or:
 
-```md
-* “It's October, so I'm applying to large employers”
-```
+````python
+from future import jobs
 
-Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will determine the size of the organisation you apply to.
+# jobs that are open now
+find_jobs(available=true)
+
+# jobs that open later in the academic year
+find_jobs(available=false)
+````
+
+Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will determine the type of organisation you apply to.
 
 ### By quantity {#by-quantity}
 Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
@@ -457,7 +527,7 @@ So beware of fake news and overselling. [Don't believe the hype](https://en.wiki
 ### Beware of underselling {#undersell}
 Likewise, you should make sure you don't undersell yourself. Know your value (financial), know your values (see chapter are \@ref(knowing)) and try to understand how that fits with a given employer. What are the employers stated values? On the financial side, it is easy to find out about salaries, for example see:
 
-* [glassdoor.co.uk](https://www.glassdoor.co.uk/) and [levels.fyi](https://www.levels.fyi/) will give you a good idea for your current and future salary expectations
+* [glassdoor.co.uk](https://www.glassdoor.co.uk/) and [levels.fyi](https://www.levels.fyi/) (“Get Paid, Not Played!”) will give you a good idea for your current and future salary expectations
 * [technical intern salaries in the UK](https://github.com/IgWod/interns-salaries-uk-2018) [@igwod]
 * [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk) [@michaelgrove]
 * [The Highest Paid Internships and Placements in the UK](https://www.ratemyplacement.co.uk/blog/highest-paid-internships-placements-uk/) [@louiseintern]
@@ -467,7 +537,7 @@ Salaries in the UK for interns (and graduates) range from [minimum wage](https:/
 Knowing your value is crucial if you're going to negotiate any job offers you receive, see section \@ref(offer).
 
 ### Beware of compromises {#compromises}
-Engineering inevitably involves compromises and trade-offs, see figure \@ref(fig:furber-fig). You will have to make some compromises in engineering your future. This might be in the design and implementation of your career, such as your salary, location, employer, values or something else.
+Engineering usually involves compromises and trade-offs, see figure \@ref(fig:furber-fig). You will have to make some compromises in *engineering your future*. This might be in the design and implementation of your career, such as your salary, location, employer, values or something else.
 
 ```{r furber-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfurber)"}
 knitr::include_graphics("images/steve-furber.jpeg")
@@ -536,6 +606,7 @@ So beware of the rollercoaster, it has ups and downs. Fasten your seatbelt. 🎢
 * What are your current job search strategies?
 * How could they be improved or tuned?
 * How many jobs should you apply for?  
+* What are the strengths and weaknesses of using each of the parameters of `find_jobs` described above?
 * Why is it important to build your network?
 * How can recruiters help you?
 * Why do recruiters have a bad reputation?
