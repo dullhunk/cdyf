@@ -71,7 +71,7 @@ knitr::include_graphics("images/rick_urshion.png")
 
 ### Marge Conflict {#marge-conflict}
 
-Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). Her superpower enables her to recognise emotions in herself and others, while using that to resolve people's differences, see figure \@ref(fig:margeconflict-fig).
+Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). Her superpower enables her to recognise emotions in herself and others so that she can resolve people's differences, see figure \@ref(fig:margeconflict-fig).
 
 ```{r margeconflict-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarge)"}
 knitr::include_graphics("images/marge_conflict.png")
@@ -121,7 +121,7 @@ knitr::include_graphics("images/polly-morphism.png")
 
 ### Neil Pointer {#neil-pointer}
 
-Neil is a mature student who loves the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), see figure \@ref(fig:neilpointer-fig). The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as twin sister Noelle, he also has [three famous sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters), [@imsoexcited] and a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers `Java`. Noelle and Neil Pointer have seen many programming languages come and go, but their favourite will always be `C`. Born in 1970s, `C` is easily “old enough to be your father” or your mother. Respect your elders! [@ritchie]
+Neil is a mature student who loves the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language)), see figure \@ref(fig:neilpointer-fig). The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as twin sister Noelle, he also has [three famous sisters](https://en.wikipedia.org/wiki/The_Pointer_Sisters), [@imsoexcited] and a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers `Java`. Noelle and Neil Pointerx have seen many programming languages come and go, but their favourite will always be `C`. Born in 1970s, `C` is easily “old enough to be your father” or your mother. Respect your elders! [@ritchie]
 
 ```{r neilpointer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionneil)"}
 knitr::include_graphics("images/neil_pointer.png")

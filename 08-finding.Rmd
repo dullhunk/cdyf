@@ -42,21 +42,20 @@ Such a function doesn't really exist yet, but lets pretend that it does to illus
 ````python
 from future import jobs
 
-# call the fictional function
 # what could possibly go wrong?
 find_jobs()
 ````
 
-...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless.
+...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless. Your *search space* is huge.
 
-We can break it down, but there are many parameters and variables in your search and the search space can be dauntingly massive. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned some:
+Thankfully, we can break it down, but there are many parameters and variables in your search that you need to think about. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned some:
 
 1. 👨‍🔬 by role, see section \@ref(by-role)
 1. 📊 by sector, see section \@ref(by-sector)
 1. 💪 by skills, see section \@ref(by-skills)
 1. 🏖️ by location, see section \@ref(by-location)
 1. 👨‍👩‍👧‍👦 by network, see section \@ref(weakties)
-1. 💰 by salary, see section \@ref(money)
+1. 💰 by salary, see section \@ref(by-salary)
 1. 🏋️ by size, see section \@ref(by-size)
 1. ❤️ by values, see section \@ref(by-values)
 1. 🕰 by timing, see section \@ref(by-time)
@@ -105,7 +104,7 @@ Like many graduate employment guides, the Guardian 300 guide (see section \@ref(
 * Public sector
 * Finance
 
-Picking a sector can help you get started, to narrow what might otherwise be a massive search space.
+Picking a sector can help you get started, by narrowing what might otherwise be a massive search space. Picking a sector will also determine the kind of salary see section \@ref(by-salary). [@letsmakelotsofmoney]
 
 
 ### By skills {#by-skills}
@@ -129,7 +128,7 @@ find_jobs(skill=C)
 Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
 ### By location {#by-location}
-Pick a location. London? Manchester? New York? Silly Valley? The Outer Hebrides? Depending on the location, this will determine the options that are available:
+Pick a location. London? Manchester? Paris? Geneva? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? Depending on the location, this will determine the options that are available:
 
 ````python
 from future import jobs
@@ -141,8 +140,15 @@ find_jobs(location=Manchester)
 # Hit the South!
 # Southern Powerhouse
 find_jobs(location=London)
+
+# Sunshine state
+find_jobs(location=California)
+
+# location isn't important
+# have skills, will travel
+find_jobs(location=anywhere)
 ````
- ... and so on. So locations can help you define (and reduce) your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending [meetup.com](https://www.meetup.com/) events in your chosen location.
+ ... and so on. So locations can help you define (and potentially reduce) your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending free [meetup.com](https://www.meetup.com/) or [evenbrite.com](https://www.eventbrite.com/) events in your chosen location.
 
 ### By network {#weakties}
 The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
@@ -202,7 +208,7 @@ https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/s
 
 
 
-### By salary {#money}
+### By salary {#by-salary}
 You can also define your search space by salary:
 
 <!--script src="https://gist.github.com/dullhunk/45de6737e7cff0997c131acf8a1152ed.js"></script-->
@@ -217,7 +223,7 @@ find_jobs(minimum_salary=£36000)
 find_jobs(minimum_salary=£18000)
 
 # how low can you go?
-# is that really a "job"?
+# is that really a “job”?
 # or just shameless exploitation?
 find_jobs(minimum_salary=£0)
 
@@ -290,20 +296,19 @@ knitr::kable(job_table, caption = "The practicalities of applying for vacancies,
 ```
 
 ### By values {#by-values}
-Besides the necessary value of making a profit, which is what commercial employers need to do to survive, what are the values of the employers you are interested in? How do they match your own? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it?  Its a difficult question to compute, see section \@ref(soul), but let's imagine we can compute it:
+Besides the necessary value of making a profit, which is what commercial employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can compute it:
 
 ````python
 from future import jobs
 
-# a reasonable match
+# should we go for a reasonable match?
 find_jobs(values_match=70%)
 
-# or no match at all?
 # happy to sell your soul?
 find_jobs(values_match=0%)
 ````
 
-An employers `values` are often reflected in their `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fit in? How can you find this out? If you're struggling with these questions, you may need to do some more soul searching, see chapter \@ref(knowing).
+An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fitted in? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@(weakties).
 
 Our `find_jobs()` function is useful, if only as a thought experiment, but there's still a strategic question of *when* you use the function and *how often* so lets look at those:
 
@@ -314,13 +319,13 @@ For graduates and undergraduates, the time of year you are looking can determine
 from future import jobs
 
 # jobs that are open now
-find_jobs(available=true)
+find_jobs(available=True)
 
 # jobs that open later in the academic year
-find_jobs(available=false)
+find_jobs(available=False)
 ````
 
-Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will determine the type of organisation you apply to.
+Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will sometimes determine the type of organisation you apply to.
 
 ### By quantity {#by-quantity}
 Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
@@ -532,7 +537,7 @@ Likewise, you should make sure you don't undersell yourself. Know your value (fi
 * [graduate salaries in the UK](https://luminate.prospects.ac.uk/graduate-salaries-in-the-uk) [@michaelgrove]
 * [The Highest Paid Internships and Placements in the UK](https://www.ratemyplacement.co.uk/blog/highest-paid-internships-placements-uk/) [@louiseintern]
 
-Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between. So beware of under-selling yourself, know your value, see \@ref(money). Some employers see students as a form of cheap labour that can be exploited because you're not “qualified” until you graduate. I'd think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉
+Salaries in the UK for interns (and graduates) range from [minimum wage](https://www.gov.uk/national-minimum-wage) to £50k and over, with everything in between. So beware of under-selling yourself, know your value, see \@ref(by-salary). Some employers see students as a form of cheap labour that can be exploited because you're not “qualified” until you graduate. I'd think twice before working for such an employer, computing skills are in demand and there are plenty of other employers who will treat you with more respect. 📉
 
 Knowing your value is crucial if you're going to negotiate any job offers you receive, see section \@ref(offer).
 
