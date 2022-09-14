@@ -38,13 +38,13 @@ Lets imagine there is a handy AI-powered function in python called `find_jobs()`
 
 Such a function doesn't really exist yet, but lets pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments...
 
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df.js"></script>')
+```
 
-````python
-from future import jobs
-
-# what could possibly go wrong?
-find_jobs()
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df')
+```
 
 ...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless. Your *search space* is huge.
 
@@ -66,37 +66,27 @@ Each strategy has is own strengths and weaknesses, and you'll probably want to c
 ### By role {#by-role}
 There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/c13ddb4dbd5c43220cd35caa5d1f40c7.js"></script>')
+```
 
-# Fancy managing products?
-find_jobs(role=product_management)
-
-# Engineering makes the world go round
-find_jobs(role=software_engineering)
-
-# Wannabe a Data Scientist?
-find_jobs(role=data_science)
-
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/c13ddb4dbd5c43220cd35caa5d1f40c7')
+```
 
 The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
 
 ### By sector {#by-sector}
 Computing is found in every sector of business and society. You won't just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:
 
-````python
-from future import jobs
 
-# I've got the brains
-find_jobs(sector=BigTech)
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/ecc64065d98a45b54ed178f370af6abf.js"></script>')
+```
 
-# You've got the looks
-find_jobs(sector=Entertainment)
-
-# Let's make lots of money
-find_jobs(sector=FinTech)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/ecc64065d98a45b54ed178f370af6abf')
+```
 
 Like many graduate employment guides, the Guardian 300 guide (see section \@ref(studentjobs)) has good overview of different sectors by breaking down employers by sectors such as:
 
@@ -110,58 +100,38 @@ Picking a sector can help you get started, by narrowing what might otherwise be 
 ### By skills {#by-skills}
 Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs.
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd.js"></script>')
+```
 
-# Do you love using Amazon Web Services?
-find_jobs(skill=AWS)
-
-# Howabout some cutting edge AI?
-find_jobs(skill=DeepLearning)
-
-# Is your name Noelle Pointer?
-# Or are you Neil Pointer?
-find_jobs(skill=C)
-# See https://www.cdyf.me/hacking#neil-pointer
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd')
+```
 
 Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
 ### By location {#by-location}
 Pick a location. London? Manchester? Paris? Geneva? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? Depending on the location, this will determine the options that are available:
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb.js"></script>')
+```
 
-# Hit the North!
-# Northern Powerhouse
-find_jobs(location=Manchester)
-
-# Hit the South!
-# Southern Powerhouse
-find_jobs(location=London)
-
-# Sunshine state
-find_jobs(location=California)
-
-# location isn't important
-# have skills, will travel
-find_jobs(location=anywhere)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb')
+```
  ... and so on. So locations can help you define (and potentially reduce) your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending free [meetup.com](https://www.meetup.com/) or [evenbrite.com](https://www.eventbrite.com/) events in your chosen location.
 
 ### By network {#weakties}
 The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/c2e05b55e55c285de8525a6952731f30.js"></script>')
+```
 
-# jobs in your network
-find_jobs(network=True)
-
-# jobs outside your network
-find_jobs(network=False)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/c2e05b55e55c285de8525a6952731f30')
+```
 
 Your close network probably won't change that much, the friends and family you trust and rely on. Its important to recognise the importance of more casual acquaintances, or what sociologist [Mark Granovetter](https://en.wikipedia.org/wiki/Mark_Granovetter) calls  “weak ties”. [@granovetter]
 
@@ -211,26 +181,13 @@ https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/s
 ### By salary {#by-salary}
 You can also define your search space by salary:
 
-<!--script src="https://gist.github.com/dullhunk/45de6737e7cff0997c131acf8a1152ed.js"></script-->
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/28c308ee12c067b95dd724eabfc9e291.js"></script>')
+```
 
-````python
-from future import jobs
-
-# are you aiming high?
-find_jobs(minimum_salary=£36000)
-
-# or are you aiming lower?
-find_jobs(minimum_salary=£18000)
-
-# how low can you go?
-# is that really a “job”?
-# or just shameless exploitation?
-find_jobs(minimum_salary=£0)
-
-# if the salary is so competitive ...  
-# why can't they just tell you what it is?
-find_jobs(minimum_salary=competitive)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/28c308ee12c067b95dd724eabfc9e291')
+```
 
 Setting a minimum salary will include or exclude certain employers from your search. To do this realistically, you need to know how much you are worth, see section \@ref(undersell) and figure \@ref(fig:salaries-fig) for some places to start.
 
@@ -268,18 +225,13 @@ ggplot(data = salaries) + geom_bar(mapping = aes(x = year, y = salary), stat = "
 ### By size {#by-size}
 Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something in-between? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size (or type) can help you get started. For example:
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/5ec7d37a60637c7083dc661e74ddcaf9.js"></script>')
+```
 
-# looking for large multinationals?
-find_jobs(minimum_employees=10000)
-
-# howabout something more manageable?
-find_jobs(maximum_employees=100)
-
-# or even smaller still?
-find_jobs(type=startup)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/5ec7d37a60637c7083dc661e74ddcaf9')
+```
 
 Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
 
@@ -298,15 +250,13 @@ knitr::kable(job_table, caption = "The practicalities of applying for vacancies,
 ### By values {#by-values}
 Besides the necessary value of making a profit, which is what commercial employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can compute it:
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9.js"></script>')
+```
 
-# should we go for a reasonable match?
-find_jobs(values_match=70%)
-
-# happy to sell your soul?
-find_jobs(values_match=0%)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9')
+```
 
 An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fitted in? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@(weakties).
 
@@ -315,15 +265,13 @@ Our `find_jobs()` function is useful, if only as a thought experiment, but there
 ### By timing {#by-time}
 For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example “It's October, so I'm applying to large employers” or:
 
-````python
-from future import jobs
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<script src="https://gist.github.com/dullhunk/83030d66f53da3d664f6cd3ed7746a36.js"></script>')
+```
 
-# jobs that are open now
-find_jobs(available=True)
-
-# jobs that open later in the academic year
-find_jobs(available=False)
-````
+```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
+cat('see https://gist.github.com/dullhunk/83030d66f53da3d664f6cd3ed7746a36')
+```
 
 Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will sometimes determine the type of organisation you apply to.
 

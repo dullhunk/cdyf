@@ -44,7 +44,7 @@ If you are affected by mental ill health, you should speak to a trained professi
 
 ## Mental ill health {#illhealth}
 
-Stress can lead to many kinds of ill health. Turing was put under lots of stress by his government bosses, people like [Alastair Denniston](https://en.wikipedia.org/wiki/Alastair_Denniston) and [Stewart Menzies](https://en.wikipedia.org/wiki/Stewart_Menzies). [@imitationgame] When asked why he punished himself so much in training, Alan Turing's reply is shown in figure \@ref(fig:turing-stress-fig).
+Stress can lead to many kinds of ill health. Turing was put under lots of stress by his government bosses, people like [Alastair Denniston](https://en.wikipedia.org/wiki/Alastair_Denniston) and [Stewart Menzies](https://en.wikipedia.org/wiki/Stewart_Menzies). [@imitationgame] When asked why he punished himself so much in training (see figure \@ref(fig:turing-fig)), Alan Turing's reply is shown in figure \@ref(fig:turing-stress-fig).
 
 ```{r turing-stress-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionturingstress)"}
 knitr::include_graphics("images/turunning-machine.jpeg")
