@@ -98,7 +98,7 @@ Picking a sector can help you get started, by narrowing what might otherwise be 
 
 
 ### By skills {#by-skills}
-Is there a specific skill you have you enjoy using, or a technology you know about that has promise? You could use this as a way to find jobs.
+Is there a specific skill you have that you enjoy using, or a technology you know that has promise? You could use this as a way to find jobs:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd.js"></script>')
@@ -223,7 +223,7 @@ ggplot(data = salaries) + geom_bar(mapping = aes(x = year, y = salary), stat = "
 
 
 ### By size {#by-size}
-Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something in-between? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size (or type) can help you get started. For example:
+Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something in-between? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. In some cases, size will also define the `type` or organisation, for example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/5ec7d37a60637c7083dc661e74ddcaf9.js"></script>')
@@ -233,7 +233,7 @@ cat('<script src="https://gist.github.com/dullhunk/5ec7d37a60637c7083dc661e74ddc
 cat('see https://gist.github.com/dullhunk/5ec7d37a60637c7083dc661e74ddcaf9')
 ```
 
-Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you'd like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
+Likewise, if you know you want to work for a multi-national, that gives you a list of employers you can target. Picking a size, can help you identify employers you would like to work for. Table \@ref(tab:shortcuts) summarises some of the when and where some employers typically advertise.
 
 ```{r shortcuts, echo = FALSE}
 job_table <- tibble::tribble(
@@ -258,7 +258,7 @@ cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620c
 cat('see https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9')
 ```
 
-An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fitted in? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@(weakties).
+An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fitted in? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@ref(weakties).
 
 Our `find_jobs()` function is useful, if only as a thought experiment, but there's still a strategic question of *when* you use the function and *how often* so lets look at those:
 
@@ -273,7 +273,7 @@ cat('<script src="https://gist.github.com/dullhunk/83030d66f53da3d664f6cd3ed7746
 cat('see https://gist.github.com/dullhunk/83030d66f53da3d664f6cd3ed7746a36')
 ```
 
-Armed with knowledge of *when* to apply you can start to target employers. Timing is important because it some cases it will sometimes determine the type of organisation you apply to.
+Armed with knowledge of *when* to apply you can start to target employers. Timing is important because in some cases it will sometimes determine the `type` of organisation you apply to.
 
 ### By quantity {#by-quantity}
 Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
