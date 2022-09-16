@@ -31,10 +31,10 @@ At the end of this chapter you will be able to:
 ## Job search strategies {#strategies}
 Lets imagine there is a handy AI-powered function in python called `find_jobs()` which knows *everything* about:
 
-* every job available, regardless of where they are advertised, incuding hidden ones
+* all the jobs available, regardless of where they are advertised, incuding hidden ones
 * your skills, knowledge and ambitions
 * employers, their services, products and values
-* people in your network.
+* people in your network, right from 1st degree through to 6th degree connections [@bacon]
 
 Such a function doesn't really exist yet, but lets pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments...
 
@@ -77,7 +77,7 @@ cat('see https://gist.github.com/dullhunk/c13ddb4dbd5c43220cd35caa5d1f40c7')
 The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
 
 ### By sector {#by-sector}
-Computing is found in every sector of business and society. You won't just find computing jobs in the technology sector (whatever that is) because the lines between sectors are becoming increasingly blurred. So you can narrow down the options by picking a sector you are interested in and pursuing that. For example:
+Computing is found in every sector of business and society. This means won't just find computing jobs in the technology sector, whatever that is. Although the lines between some sectors are becoming increasingly blurred, you can still narrow down the options by picking a sector you are interested in and pursuing that. For example:
 
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -316,7 +316,7 @@ The marketplace for job searching and job hunting advice is incredibly crowded. 
 
 ### For students and graduates {#studentjobs}
 
-The following job finding resources are specifically aimed at undergraduate students and graduates:
+The following job finding resources are specifically aimed at undergraduate students and graduates in the UK:
 
 <!-- looks obsolete now * [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/aws-educate-job-board/) has a dedicated jobs board for students with (or working towards) Amazon Web Services (AWS) cloud computing qualifications-->
 * [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)

@@ -51,7 +51,7 @@ Hacking other people's CVs will help you improve your own because you're putting
 
 ### Penelope Tester {#pen-tester}
 
-Penny Tester, or Pen as her friends call her, loves cybersecurity and [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering). She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a hacker she hates that word, see \@ref(fig:pentester-fig).
+Penny Tester, or Pen as her friends call her, loves cybersecurity and [reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering). She has a real passion for finding vulnerabilities in software and hardware. Just don't call her a hacker she dislikes that word, see \@ref(fig:pentester-fig).
 
 ```{r pentester-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpentester)"}
 knitr::include_graphics("images/pen_tester.png")
@@ -62,7 +62,7 @@ knitr::include_graphics("images/pen_tester.png")
 
 ### Rick Urshion {#rick-urshion}
 
-Rick is a big fan of [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and loves solving problems with languages like Lisp, Haskell, Clojure, Erlang and Scala. He really hates side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figure \@ref(fig:rickurshion-fig).
+Rick is a big fan of [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and loves solving problems with languages like Lisp, Haskell, Clojure, Erlang and Scala. He really doesn't like side-effects but tries to avoid getting into a state about it. His critics say he can be inefficient but Rick insists he's just lazy, see figure \@ref(fig:rickurshion-fig).
 
 ```{r rickurshion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrick)"}
 knitr::include_graphics("images/rick_urshion.png")
@@ -71,7 +71,7 @@ knitr::include_graphics("images/rick_urshion.png")
 
 ### Marge Conflict {#marge-conflict}
 
-Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). Her superpower enables her to recognise emotions in herself and others so that she can resolve people's differences, see figure \@ref(fig:margeconflict-fig).
+Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). This superpower enables her to recognise emotions in herself and others so that she can resolve people's differences, see figure \@ref(fig:margeconflict-fig).
 
 ```{r margeconflict-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarge)"}
 knitr::include_graphics("images/marge_conflict.png")
