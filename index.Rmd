@@ -877,23 +877,8 @@ Most of what I have learned about employment comes from listening to, watching a
 
 ```{r ie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:ieblurb)"}
 library(ggplot2)
-evenmoreplacements <- tribble(
-      ~year,         ~students,
-      "2008",       35,
-      "2009",       31,
-      "2010",       45,
-      "2011",       42,
-      "2012",       45,  
-      "2013",       70,  
-      "2014",       54,  
-      "2015",       70,  
-      "2016",       65,  
-      "2017",       100,  
-      "2018",       97,  
-      "2019",       110,  
-      "2020",       88,
-      "2021",       77
-    )
+
+evenmoreplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv")
 
 ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
 ```
