@@ -308,10 +308,10 @@ Using our fictional `find_jobs` function we've described and discussed some basi
 
 The marketplace for job searching and job hunting advice is incredibly crowded. Employers spend huge amounts of money on recruitment and this is reflected in the enormous range of job websites, which are often accompanied by advice on job hunting. There are three kinds of places you can look for jobs:
 
-1. Undergraduate and graduate jobs boards, such as Gradcracker \@ref(studentjobs)
-1. General jobs boards, such as Google jobs see section \@ref(generaljobs)
-1. Portfolio style, such as LinkedIn and Github etc, see \@ref(generaljobs)
-1. The jobs portal of your University, see \@ref(studentjobs)
+1. 🎓 Undergraduate and graduate jobs boards, such as Gradcracker \@ref(studentjobs)
+1. 👀 General jobs boards, such as Google jobs see section \@ref(generaljobs)
+1. 🎨 Portfolio style, such as LinkedIn and Github etc, see \@ref(generaljobs)
+1. 🏛️ The jobs portal of your University, see \@ref(studentjobs)
 
 ### For students and graduates {#studentjobs}
 
@@ -330,7 +330,7 @@ The following job finding resources are specifically aimed at undergraduate stud
 * Your University careers service. University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying. So if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html) (UoM login required)
 
 ### For any job seekers {#generaljobs}
-The following job finding tools are aimed at a wider audience (not just students and graduates) but will be useful to you nonetheless.
+The following job finding tools are aimed at a wider audience (not just undergraduates and graduates) but will be useful to you nonetheless.
 
 ```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
 knitr::include_graphics("images/google-job-search.jpeg")
