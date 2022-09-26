@@ -266,24 +266,24 @@ It's often better to describe what YOU did before you describe what the software
 
 ````md
 * WidgetWasher is a web service that washes widgets
-* Makes use of an HTTP API and secret keys
+* It uses an HTTP API and secret keys
 * Tested WidgetWasher on a range of different operating systems
 * Collaborated with one other contributor over two days
 * Designed and implemented an API
 ````
 
 
-Instead, you could reverse the order to change the emphasis like this:
+Instead, you could reverse ⇔ the order to change the emphasis like this:
 
 ````md
-* Designed and implemented an API
-* Collaborated with one other contributor over two days
+* Designed and implemented an API ↑
+* Collaborated with one other contributor over two days ↑
 * Tested WidgetWasher on a range of different operating systems
-* Makes use of an HTTP API and secret keys
-* WidgetWasher is a web service that washes widgets
+* Utilised an HTTP API and secret keys ↓
+* Created a web service that washes widgets called WidgetWasher ↓
 ````
 
-The latter has all the same information, but by reversing the order, you've emphasised what *you* did, rather than what the software did. 💪
+The latter has all the same information, but by reversing the order, you've emphasised what *you* did, rather than what the software did. Much more interesting. 💪
 <!-- need a section on 👑 Activities and leadership -->
 
 ### Your leadership & awards {#prizes}
