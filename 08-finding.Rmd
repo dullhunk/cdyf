@@ -1,6 +1,6 @@
 # Finding your future {#finding}
 
-You're keen to get some experience as described in chapter \@ref(experiencing). You've successfully debugged your CV, with help from chapter \@ref(debugging). Now, how can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? 🔭
+You're keen to get some experience as described in chapter \@ref(experiencing). You've successfully debugged your CV, with help from chapter \@ref(debugging). Now, how can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? This chapter will help you find your future. 🔭
 
 ```{r yesbut-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionyesbut)"}
 knitr::include_graphics("images/Yes but how do I.png")
@@ -29,7 +29,7 @@ At the end of this chapter you will be able to:
 <!--* Describe what it means to be **employable**-->
 
 ## Job search strategies {#strategies}
-Lets imagine there is a handy AI-powered function in python called `find_jobs()` which knows *everything* about:
+Before we look at where to look for jobs, we need to discuss what to look for. Let's imagine there is a handy AI-powered function in python called `find_jobs()` which knows *everything* about:
 
 * all the jobs available, regardless of where they are advertised, incuding hidden ones
 * your skills, knowledge and ambitions
@@ -122,7 +122,7 @@ cat('see https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb')
  ... and so on. So locations can help you define (and potentially reduce) your problem space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending free [meetup.com](https://www.meetup.com/) or [evenbrite.com](https://www.eventbrite.com/) events in your chosen location.
 
 ### By network {#weakties}
-The people in your network can help you find work. [It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know), or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs using your network. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
+The people in your network can help you find work. *[It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know)*, or so the cliché goes. The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs is using your networks. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/c2e05b55e55c285de8525a6952731f30.js"></script>')
@@ -257,7 +257,12 @@ cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620c
 cat('see https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9')
 ```
 
-An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? Would you enjoy working there and would you felt like you belonged and fitted in? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@ref(weakties).
+An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? What sort of structure would you fit into, see figure \@ref(fig:pyramid-fig)? Would you enjoy working there and would you felt like you belonged? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@ref(weakties).
+
+```{r pyramid-fig, echo = FALSE, fig.align = "center", out.width = "79%", fig.cap = "(ref:captionpyramid)"}
+knitr::include_graphics("images/Manu_Cornet_pyramid.png")
+```
+(ref:captionpyramid) Organisational culture and values are often reflected in an employers structure. Finding out about an employers structure will help you begin to understand their `culture` and `values`, see section \@ref(soul). Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/deed.en) org charts comic by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet) on Wikimedia Commons [w.wiki/5jV8](https://w.wiki/5jV8)
 
 Our `find_jobs()` function is useful, if only as a thought experiment, but there's still a strategic question of *when* you use the function and *how often* so lets look at those:
 
