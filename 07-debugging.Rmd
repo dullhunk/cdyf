@@ -668,11 +668,24 @@ Think of your covering letter as practicing some of the lines of your [elevator 
 ## Debugging summary {#tldr7}
 (ref:tldr)
 
-In this chapter we have looked at how to debug your CV. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a much better chance of getting an interview. The checklist above in section \@ref(checklist) is a good place to start.
+In this chapter we have looked at how to debug your future, with a particular focus on your CV (or résumé). If you fix the bugs we've described here, before an employer sees your CV, you'll stand a much better chance of getting an interview. The checklist above in section \@ref(checklist) is a good place to start.
 
+```{r eval=knitr::is_html_output(excludes = "epub"), manifesto-fig,echo=FALSE, fig.cap = "debugging manifesto and debugging toolkit"}
+library(tweetrmd)
+include_tweet("https://twitter.com/b0rk/status/1570060516839641092")
+```
 
+*Some* of the strategies you apply to debugging your *actual* code, can also be applied to debugging your future.
 
+* Inspect, don't squash bugs, take time to reflect (see section \@ref(reflecting)) and *understand* any bugs you find in your future
+* Being stuck is temporary, see section \@ref(nevergiveup)
+* Check your assumptions, especially if debugging makes you anxious or depressed, see chapter \@ref(nurturing)
+* Don't go it alone, grow your network, see section \@ref(weakties)
+* Build your debugging toolkit by identifying your strengths and weaknesses, see chapter \@ref(knowing)
 
+<!-- except there isn't always a reason!-->
+
+Debugging your future can be an enjoyable adventure! In the next part (chapter \@ref(finding)) we'll look at using your CV and other written applications to help you *find* your future.
 
 <!-- nine hallmarks of a powerful resume
 
