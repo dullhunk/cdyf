@@ -19,7 +19,7 @@ By the end of this chapter you will be able to
 1. Structure and style the content of your CV and résumé appropriately
 1. Articulate your story^[actually a collection of short stories] as evidenced by your `experience`, `projects` and `education` etc
 1. Identify and fix bugs in CV’s by:
-    + Their `content` (what you've done) and `presentation` (how you style your CV)
+    + Their `content` (what you've done and who you are) and `presentation` (how you style your CV)
     + Constructively criticising other people's CVs
     + Asking for, listening to, and acting on constructive criticism of your own CV
 1. Quantify and provide convincing evidence for any claims you make you on your CV
@@ -675,11 +675,11 @@ library(tweetrmd)
 include_tweet("https://twitter.com/b0rk/status/1570060516839641092")
 ```
 
-*Some* of the strategies you apply to debugging your *actual* code, can also be applied to debugging your future.
+*Some* of the strategies you apply to debugging your *actual* code, can also be applied to debugging your future:
 
 * Inspect, don't squash bugs, take time to reflect (see section \@ref(reflecting)) and *understand* any bugs you find in your future
 * Being stuck is temporary, see section \@ref(nevergiveup)
-* Check your assumptions, especially if debugging makes you anxious or depressed, see chapter \@ref(nurturing)
+* Check your assumptions, especially if debugging the `content` bugs described in section \@ref(ilo7) makes you anxious or depressed, see chapter \@ref(nurturing)
 * Don't go it alone, grow your network, see section \@ref(weakties)
 * Build your debugging toolkit by identifying your strengths and weaknesses, see chapter \@ref(knowing)
 
