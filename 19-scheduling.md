@@ -97,7 +97,7 @@ These sessions will revisit themes from semester one if you missed them last sem
 ## MONDAYS AT 1pm in 2022 {#mondays}
 
 * *Coding your Future* (COMP2CARS and COMP2TUT) takes place every Monday at 13.00 in semester 2, see [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/) for details.
-* *Discussing your Future* the online forum for course discussion is at [piazza.com/class/kted3nixlmo2on](https://piazza.com/class/kted3nixlmo2on)
+* *Discussing your Future* the online forum for course discussion is at [piazza.com/class/l8t6l0le6vu2lg/](https://piazza.com/class/l8t6l0le6vu2lg/)
 
 ## Week 1: Drop in session {#week1}
 
