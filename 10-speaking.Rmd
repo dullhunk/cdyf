@@ -145,7 +145,19 @@ All of these activities will help both your general professional development and
 
 
 ### Leetcode {#leetcode}
-LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interview see [leetcode.com](https://leetcode.com).
+LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interview see [leetcode.com](https://leetcode.com). There's *lots* of challenges on leetcode and it can be daunting, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-fig)
+
+```{r neetcode-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneetcode)"}
+knitr::include_url('https://www.youtube.com/embed/TKC98Sumg2A')
+```
+
+(ref:captionneetcode) Change your life with algorithms and data structures from [neetcode.io](https://neetcode.io). You can also watch the full 5 minute video embedded in this figure at [youtu.be/TKC98Sumg2A](https://youtu.be/TKC98Sumg2A) [@youtube-neetcode]
+
+```{r eval=knitr::is_html_output(excludes = "epub"), neetcoder-fig,echo=FALSE, fig.cap = "coding interview prep"}
+library(tweetrmd)
+include_tweet("https://twitter.com/neetcode1/status/1559175667379425280")
+```
+
 
 ### HackerRank {#hackerrank}
 HackerRank allows developers to practice their coding skills, prepare for interviews and get hired. HackerRank allows users to submit applications and apply to jobs by solving company-sponsored coding challenges. Some employers use hackerrank as part of the interviewing process, so these are not just academic exercises.
