@@ -31,12 +31,12 @@ At the end of this chapter you will be able to:
 ## Job search strategies {#strategies}
 Before we look at where to look for jobs, we need to discuss what to look for. Let's imagine there is a handy AI-powered function in python called `find_jobs()` which knows *everything* about:
 
-* all the jobs available, regardless of where they are advertised, incuding hidden ones
-* your skills, knowledge and ambitions
-* employers, their services, products and values
-* people in your network, right from 1st degree through to 6th degree connections [@bacon]
+* all the jobs available, regardless of where they are advertised, including hidden ones
+* all of your skills, knowledge, values and ambitions
+* every employer in the world, their services, products and values
+* everyone in your social and professional networks, right from first degree connections through to [sixth degree connections](https://en.wikipedia.org/wiki/Six_degrees_of_separation) [@bacon]
 
-Such a function doesn't really exist yet, but lets pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments...
+Such a function doesn't really exist yet, but let's pretend that it does to illustrate some points about job searching. If you were to run the function with no arguments...
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df.js"></script>')
@@ -259,10 +259,10 @@ cat('see https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9')
 
 An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? What sort of structure would you fit into, see figure \@ref(fig:pyramid-fig)? Would you enjoy working there and would you felt like you belonged? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@ref(weakties).
 
-```{r pyramid-fig, echo = FALSE, fig.align = "center", out.width = "79%", fig.cap = "(ref:captionpyramid)"}
+```{r pyramid-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpyramid)"}
 knitr::include_graphics("images/Manu_Cornet_pyramid.png")
 ```
-(ref:captionpyramid) Organisational culture and values are often reflected in an employers structure. Finding out about an employers structure will help you begin to understand their `culture` and `values`, see section \@ref(soul). Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/deed.en) org charts comic by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet) on Wikimedia Commons [w.wiki/5jV8](https://w.wiki/5jV8)
+(ref:captionpyramid) Culture and values are often reflected in an employers structure. Finding out about an employers structure will help you begin to understand their `culture` and `values`, see section \@ref(soul). Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/deed.en) org charts comic by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet) on Wikimedia Commons [w.wiki/5jV8](https://w.wiki/5jV8)
 
 Our `find_jobs()` function is useful, if only as a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment), but there's still the strategic questions of *when* you use the function and *how often* so lets look at those next.
 
