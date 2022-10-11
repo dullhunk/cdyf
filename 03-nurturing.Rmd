@@ -96,6 +96,16 @@ knitr::include_url('https://www.youtube.com/embed/XiCrniLQGYc')
 
 (ref:captionblackdog) Matthew Johnstone explains how he overcame the affects of depression, using the metaphor of the black dog. You can also watch the watch the 4 minute video embedded in this figure at [youtu.be/XiCrniLQGYc](https://youtu.be/XiCrniLQGYc) [@youtube-blackdog]
 
+A common issue with poor mental health is that the people affected often don't realise they need help, partly because of the social stigmas that prevent people talking about mental health in the first place. Computer Scientist [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)) explains how he recognised he was being affected by poor mental health in figure \@ref(fig:cliff-fig)
+
+```{r cliff-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondavecliff)"}
+knitr::include_url('https://www.youtube.com/embed/OtELvV8-OK0')
+```
+
+(ref:captiondavecliff) “When you haven't slept a wink for five days, the madness arrives in the post very quickly afterwards”. Dave Cliff at the University of Bristol explains how he recognised he was being affected by poor mental health, severe anxiety, depression and suicidal thoughts. [@thecliff] You can also watch the watch the 7 minute video embedded in this figure at [youtu.be/OtELvV8-OK0](https://youtu.be/OtELvV8-OK0) [@youtube-davecliff]
+
+Just *talking* about mental health is an important step in removing the social stigmas that surround them.
+
 ### Drugs {#drugs}
 Prescription medication can help some people with their mental health. For example, when I was affected by depression, [Selective Serotonin Reuptake Inhibitors](https://www.nhs.uk/conditions/ssri-antidepressants/) (SSRIs) worked for me, shown in Figure \@ref(fig:citalopram-fig), but they don't for everybody. Sometimes the drugs don't work, they just make you worse. [@drugsdontwork]
 
