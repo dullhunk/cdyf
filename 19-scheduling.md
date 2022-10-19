@@ -11,24 +11,24 @@ If you're a University of Manchester student, the live *Coding your Future* (COM
 ## Week 0: Experiencing {#week0}
 Welcome week, starting 19th September:
 
-* **Tuesday 20th September 4pm**, Following from the welcome back to year 2, a panel of students returning from their year of industrial experience will share their stories of recruitment and employment. They will be answering any questions that you have for them about their placements and their transition from students to professionals. Read *Experiencing your future* chapter \@ref(experiencing)
+* **Tuesday 20th September** at 4pm, following from the welcome back to year 2, a panel of students returning from their year of industrial experience will share their stories of recruitment and employment. They will be answering any questions that you have for them about their placements and their transition from students to professionals. Read *Experiencing your future* chapter \@ref(experiencing)
 
 ## Week 1: Debugging {#week1}
-**Monday 26th September** at midday: Depending on your when you meet your tutor
+**Monday 26th September** at 5pm: Depending on when you meet your tutor
 
 * *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist) in *Debugging your future* (chapter \@ref(debugging))
-* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2) get feedback on your CV--
+* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2) get feedback on your CV
 
 ## Week 2: Debugging {#week2}
-**Monday 3rd October** at 5pm: Depending on your when you meet your tutor
+**Monday 3rd October** at 5pm: Depending on when you meet your tutor
 
 * *Either* COMP2TUT: Meet your tutor (if you didn't meet them last weeek) see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2)
-* *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist). Read *Debugging your future* (chapter \@ref(debugging)) and *Hacking your future* (chapter \@ref(hacking)):-->
+* *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist). Read *Debugging your future* (chapter \@ref(debugging)) and *Hacking your future* (chapter \@ref(hacking))
 
 ## Week 3: Debugging & Hacking {#week3}
 **Monday 10th October** at 5pm:
 
-* *Debugging your Future* and *Hacking your Future* Lecture and workshop in (ref:mecd), see [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). Read chapter \@ref(debugging) and \@ref(hacking): creating a bug-free CV-->
+* *Debugging your Future* and *Hacking your Future* Lecture and workshop in (ref:mecd), see [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). Read chapter \@ref(debugging) and \@ref(hacking): creating a bug-free CV
 <!-- WOOP my life part of mental health-->
 <!--also semester 1: are you experienced panel-->
 <!--also semester 1: why bother with experience-->
