@@ -39,6 +39,7 @@ Studying at University opens new doors to your future, some of which will take y
 ```{r lemn-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlemn)"}
 knitr::include_graphics("images/lemninspire.jpeg")
 ```
+
 (ref:captionlemn) Open all doors, open all senses, open all defences, ask: What were these closed for? From *Inspire and be Inspired* by [Lemn Sissay](https://en.wikipedia.org/wiki/Lemn_Sissay) whose poetry is even better when you hear it, rather than just read it [youtu.be/WzZs1w3NWzg](https://youtu.be/WzZs1w3NWzg). [@sissay] Portrait of Sissay speaking in 2010 by Philosophy Football via Wikimedia Commons [w.wiki/3VYT](https://w.wiki/3VYT) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 So University is a fantastic opportunity for you to open lots of new doors in your life and see where they take you.
@@ -60,13 +61,16 @@ knitr::include_graphics("images/nobody-cares-about-your-career-except-you2.jpeg"
 ```
 (ref:captionandysc) There's only one person who REALLY cares about your career, and that's you. Quote via [Andy Stanford-Clark](https://en.wikipedia.org/wiki/Andy_Stanford-Clark) [@andystanfordclark] to an unattributed IBM manager. Image of Andy by Gizmo~enwiki via Wikimedia Commons [w.wiki/3TSn](https://w.wiki/3TSn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) Thank you Andy for permission to use your photo.
 
-Andy is now Chief Technology Officer (CTO) and [IBM Master inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor) in the UK so it was probably good advice. There are plenty people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the `code`). The sooner you get coding the better.
+Andy is now Chief Technology Officer (CTO) of IBM in the UK and an [IBM Master inventor](https://en.wikipedia.org/wiki/IBM_Master_Inventor), so it was probably good advice. There are plenty people who can help design and build your future, ultimately it is **YOU** who has to take responsibility for the implementation (if you like, the `code`). The sooner you get coding the better.
 
 At University, there are lots of people can help design and build your future: peers, friends, academic staff, your careers service, employers and your wider social and professional networks but ultimately it is *your* responsibility to sort out whatever comes next. That might sound obvious but don't wait to get started later or for somebody else to do it for you, because it probably won't happen.
 
 ## Your degree is not enough {#entitled}
 <!--Luke comments: One thing I would add in this section that you don't really think about until you go through it is the difference between going for a CS job and that job you really want. Most grads will get a job in CS, but few will get those really prized ones that they really enjoy.-->
-You have worked hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying your chosen discipline. You are really *geeking out* by going deep into your subject for a substantial period of time. Geekery, by which I mean [being interested in a subject for its own sake](https://en.wikipedia.org/wiki/Geek), is a *good* thing. Earning the title *geek* is a compliment, not an insult, and you should wear your geek badge with [geek pride](https://en.wikipedia.org/wiki/Geek_Pride_Day)! The (geeky) weirdness flows between us, anyone can tell to see us. [@freakscene] Some people even say the geeks will inherit the earth, see figure \@ref(fig:geekout-fig). You are a geek, so where is *your* inheritance?
+You have worked hard to get the grades you needed to get into University. You've spent (or are spending) a significant amount of time and money studying your chosen discipline. You are really *geeking out* by going deep into your subject for a substantial period of time. Geekery, by which I mean [being interested in a subject for its own sake](https://en.wikipedia.org/wiki/Geek), is a *good* thing. Earning the title *geek* is a compliment, not an insult, and you should wear your geek badge with [geek pride](https://en.wikipedia.org/wiki/Geek_Pride_Day)! The (geeky) weirdness flows between us, anyone can tell to see us. [@freakscene] Some people even say:
+
+* The geeks will inherit the earth, see figure \@ref(fig:geekout-fig)
+* **YOU** are a geek, so where is *your* inheritance?
 
 ```{r geekout-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongeekout)"}
 knitr::include_graphics("images/blessed-are-the-geeks.jpeg")
@@ -173,7 +177,14 @@ knitr::include_graphics("images/procrastinator.jpeg")
 
 (ref:captionprocrastination) [Procrastination](https://en.wikipedia.org/wiki/Procrastination): the attitude of “I’ll get my degree out of the way first then worry about jobs and careers when I finish University” is bad procrastination. It's too late when you graduate to start thinking about what might come next [@procrastination] Stresssed procrastinator picture by MismibaTinasheMadando on Wikimedia Commons [w.wiki/3TXo](https://w.wiki/3TXo)
 
-Postponing decisions about your career is usually bad procrastination. It probably doesn't help that many of issues described and discussed in this book are typically not closely integrated into the curriculum in Higher Education. You'll often find them on the edges, or completely outside of, standard University curricula.
+Postponing decisions about your future is usually bad procrastination, because you're relying on doing all the testing at the end, when you graduate. You are procrastinating the `testing` stage of your career development.
+
+
+* “test-last (career) development”
+* “test-driven (career) development” ([TDD](https://en.wikipedia.org/wiki/Test-driven_development))
+
+
+It probably doesn't help that many of issues described and discussed in this book are typically not closely integrated into the curriculum in Higher Education. You'll often find them on the edges, or completely outside of, standard University curricula.
 
 <!--Broadly speaking, the professional issues described in this book are usually covered by
 
@@ -194,10 +205,10 @@ That doesn't mean you have to know EXACTLY what you want to do when you finish. 
 knitr::include_graphics("images/the-future-is-now.jpg")
 ```
 
-(ref:captionfuturenow) Your Future starts now, not at some moment later in time like when you enter your final year or finish your degree. Whatever stage of your study you are at, there's plenty you can do to get some *experience*, that will make it easier to navigate your future, see chapter \@ref(experiencing). Artwork by Everydayphrase [linktr.ee/everydayphrase](https://linktr.ee/everydayphrase)
+(ref:captionfuturenow) Your Future starts now, not at some moment later in time like when you graduate. Whatever stage of your study you are at, there's plenty you can do to start experiencing your future *today*, see chapter \@ref(experiencing). Experience will make it easier to navigate your future. *THE FUTURE IS NOW** by Everydayphrase [linktr.ee/everydayphrase](https://linktr.ee/everydayphrase)
 
 
-Computer scientists call this problem “search space reduction”, [@searchspace] because you have a [feasible region](https://en.wikipedia.org/wiki/Feasible_region) of future possibilities and you need to narrow down the candidates. You could think of coding your future as an [optimisation problem](https://en.wikipedia.org/wiki/Optimization_problem). Start optimising now because it's too late when you graduate. 🎓
+Computer scientists call this problem “search space reduction”, [@searchspace] because you have a [feasible region](https://en.wikipedia.org/wiki/Feasible_region) of future possibilities and you need to narrow down the candidates. You could think of coding your future as an [optimisation problem](https://en.wikipedia.org/wiki/Optimization_problem). Start optimising now, by getting some experience  because it's too late when you graduate. 🎓
 
 
 ## Yes, this WILL be on the exam {#exams}
