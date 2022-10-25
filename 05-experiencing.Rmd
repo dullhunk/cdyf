@@ -187,8 +187,8 @@ Experience as a section of your CV usually means *paid* work. However, experienc
 * Being involved in societies: e.g. taking responsibility for things in a society
 * Getting involved in a community, either physical or online
 
-### Tinkering and hacking experience {#tinkering}
-Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as a solo project or collaboratively. Why not build an experimental:
+### Hacking & tinkering experience {#tinkering}
+Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as a solo project or collaboratively. For example, why not build an experimental:
 
 * Home media centre?
 * DIY smart energy meter?
@@ -197,11 +197,18 @@ Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/T
 
 Yes, these projects are amateurish, but tinkering and hacking will clearly demonstrate your passion for learning and engineering. Weekend hacks can look *great* in the `projects` section of your CV, see section \@ref(mycvpj).
 
-Attending [Hackathons](https://en.wikipedia.org/wiki/Hackathon) are another way to learn by tinkering, in a collaborative and social environment. They tend to be short but intense, see for example
+```{r hackathon-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhackathon)"}
+knitr::include_graphics("images/hackathon.jpeg")
+```
+(ref:captionhackathon) Hackathons are collaborative social events where you can learn how to rapidly prototype ideas in a friendly and supportive environment. Picture of participants at a Wikimedia Hackathon in Prague by [Chris Koerner](https://en.wikipedia.org/wiki/User:Ckoerner) on Wikimedia Commons [w.wiki/5rjR](https://w.wiki/5rjR) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+
+Attending [Hackathons](https://en.wikipedia.org/wiki/Hackathon) is another way to learn by tinkering, in a collaborative and social environment, see figure \@ref(fig:hackathon-fig). The word hackathon is a portmanteau of [hacking](https://en.wikipedia.org/wiki/Hacker_culture) and [marathon](https://en.wikipedia.org/wiki/Marathon), so hackathons tend to be short but intense, see for example:
 
 * [hackathons.org.uk](https://www.hackathons.org.uk/)
+    - [greatunihack.com](https://greatunihack.com/)
+    - [studenthack.com](https://www.studenthack.com/)
 * [devpost.com/hackathons](https://devpost.com/hackathons)
-* [mlh.io/](https://mlh.io/) Major League Hacking
+* [mlh.io](https://mlh.io/) (Major League Hacking)
 * [hackerearth.com](https://www.hackerearth.com/) <!--more like hackerrank than an event?-->
 * [hackzurich.com](https://hackzurich.com/)
 
