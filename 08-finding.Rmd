@@ -64,7 +64,7 @@ Thankfully, we can break it down, but there are many parameters and variables in
 Each strategy has is own strengths and weaknesses, so you'll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you'll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:
 
 ### By role {#by-role}
-There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in product management. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
+There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in `software engineering`. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/c13ddb4dbd5c43220cd35caa5d1f40c7.js"></script>')
@@ -365,7 +365,7 @@ Google job search shown in figure \@ref(fig:googlejobs-fig) is a good starting p
 ```{r linkedin-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionlinkedin)"}
 knitr::include_graphics("images/linkedin.jpeg")
 ```
-(ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows employers to advertise job vacancies online and candidates like you to apply for them. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). Image via Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows employers to advertise job vacancies online and candidates like you to apply for them. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). Picture of LinkedIn Headquarters in Sunnyvale, California by LPS.1 on Wikimedia Commons [w.wiki/5sEF](https://w.wiki/5sEF) adapted the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 * [glassdoor.co.uk](http://www.glassdoor.co.uk/) is like tripadvisor for jobs. Find out what it's *really* like to work for given employers from current and former employees. A student oriented version can be found at [glassdoor.com/Students](https://www.glassdoor.com/Students), this means you can use it without writing a review of a previous employer (which is what non-student users have to do to access the content)
