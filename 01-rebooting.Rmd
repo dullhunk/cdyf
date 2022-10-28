@@ -230,16 +230,25 @@ Students love to ask their teachers “*will this be on the exam*”? The short 
 | covering letter     | - Can you communicate well in writing?     |          |
 |                     | - Do you have any experience?              |          |
 |                     | - What interesting projects have you done? |          |
+|                     | - (ref:writtenexam)                        |          |
 +---------------------+--------------------------------------------+----------+
 | Interview           | - Should we offer you a job?               | pass/fail|
 |                     | - Would we want you on our team?           |          |
 |                     | - Can you communicate well verbally?       |          |
 |                     | - Can you communicate well nonverbally?    |          |
+|                     | - (ref:oralexam)                           |          |
 +---------------------+--------------------------------------------+----------+
 | Employee performance| - Should we promote you?                   | pass/fail|
 |                     | - Should we give you a pay rise?           |          |
 |                     | - Should we extend your contract?          |          |
+|                     | - (ref:employeeexam)                       |          |
 +---------------------+--------------------------------------------+----------+
+
+(ref:writtenexam) See *debugging your future*, chapter \@ref(debugging)
+
+(ref:oralexam)  See *speaking your future*, chapter \@ref(speaking)
+
+(ref:employeeexam)  See *surviving your future*, chapter \@ref(surviving)
 
 
 So, *yes*, this will be on the exam, but *no*, the exams are obviously not set, administered, invigilated and marked by academics at your University. The exams are set by employers and the results are **brutally binary**:
@@ -366,7 +375,7 @@ This guidebook to your future accompanies a course that has been co-designed by 
 knitr::include_graphics("images/prescriptive-vs-descriptive-pathways.png")
 ```
 
-(ref:captiondescriptive) Many formal education courses follow a *prescriptive pathway* (right), they lead you through a story from start to finish. This is the way of the University: “`our courses`” - our prospectus. This course is different, it follows a *descriptive pathway* (left) which means you pick your own way through the story. I'll guide you through the story but you'll need to choose *your* way: “`my way`”. Do it [your way](https://en.wikipedia.org/wiki/My_Way). [@sinatra] [Prescriptive vs. descriptive pathways](https://bryanmmathers.com/prescriptive-vs-descriptive-pathways/) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captiondescriptive) Many formal education courses follow a *prescriptive pathway* (right), they lead you through a story from start to finish. This is the way of the University: “`our courses`” - our prospectus. This course is different, it follows a *descriptive pathway* (left) which means you pick your own way through the story. I'll guide you through the story but you'll need to choose *your* way: “`my way`”. You stood tall and faced it all. You did it [your way](https://en.wikipedia.org/wiki/My_Way). [@sinatra] [Prescriptive vs. descriptive pathways](https://bryanmmathers.com/prescriptive-vs-descriptive-pathways/) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Although this is a course guidebook used in undergraduate teaching, you don't need to be enrolled on the course to benefit from reading it, watching the videos and doing the exercises and coding challenges.
 
