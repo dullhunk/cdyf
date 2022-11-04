@@ -98,14 +98,14 @@ jobterm_table <- tibble::tribble(
 )
 knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughout this guidebook to describe experience, employment and their definitions", booktabs = TRUE)
 ```
-## Other experience {#other}
+### Other experience {#other}
 <!-- to do compare and contrast summer vs year long-->
 
 Some of the experience outlined in table \@ref(tab:jobterms) was probably what you were already thinking of as experience, however there are three important sources of experience that students often overlook:
 
 1. **Voluntary work**: Any kind of work where you've given your time and labour to a community. That could be non-technical (working for a charity) or technical, such as contributing to open-source software, see section \@ref(opensource) and figure \@ref(fig:volunthero-fig)
 1. **Casual work**: Working in hospitality or retail (etc) is often overlooked by students as an important source of relevant experience. It doesn't have to be technical to be relevant to employers, see section \@ref(casual)
-1. **Tinkering**: having side projects as a playground to help you learn new skills and knowledge, either solo or collaboratively see section \@ref(tinkering)
+1. **Tinkering**: having side projects as a playground to help you learn new skills and knowledge, either solo or collaboratively see section \@ref(tinkering). For more competitive employers, side projects are likely to be more important. To get into ultra-competitive industries like gaming, candidates are often expected to have a portfolio of one or two games developed outside of University
 1. **Student societies** Your students' union will have hundreds of official societies you can get involved in, and they'll be plenty of unofficial fringe communities too. As well as helping you develop new or existing interests, these societies give you an opportunity to serve a particular community of interest. Many societies seek members to take on positions of responsibility, above and beyond merely participating in their events. They provide fantastic opportunities to build new skills in a safe and supportive environment.
 
 ```{r volunthero-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionvolunthero)"}
