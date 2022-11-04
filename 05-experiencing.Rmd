@@ -98,14 +98,15 @@ jobterm_table <- tibble::tribble(
 )
 knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughout this guidebook to describe experience, employment and their definitions", booktabs = TRUE)
 ```
-
+## Other experience {#other}
 <!-- to do compare and contrast summer vs year long-->
 
 Some of the experience outlined in table \@ref(tab:jobterms) was probably what you were already thinking of as experience, however there are three important sources of experience that students often overlook:
 
 1. **Voluntary work**: Any kind of work where you've given your time and labour to a community. That could be non-technical (working for a charity) or technical, such as contributing to open-source software, see section \@ref(opensource) and figure \@ref(fig:volunthero-fig)
-2. **Casual work**: Working in hospitality or retail (etc) is often overlooked by students as an important source of relevant experience. It doesn't have to be technical to be relevant to employers, see section \@ref(casual)
-3. **Student societies** Your students' union will have hundreds of official societies you can get involved in, and they'll be plenty of unofficial fringe communities too. As well as helping you develop new or existing interests, these societies give you an opportunity to serve a particular community of interest. Many societies seek members to take on positions of responsibility, above and beyond merely participating in their events. They provide fantastic opportunities to build new skills in a safe and supportive environment.
+1. **Casual work**: Working in hospitality or retail (etc) is often overlooked by students as an important source of relevant experience. It doesn't have to be technical to be relevant to employers, see section \@ref(casual)
+1. **Tinkering**: having side projects as a playground to help you learn new skills and knowledge, either solo or collaboratively see section \@ref(tinkering)
+1. **Student societies** Your students' union will have hundreds of official societies you can get involved in, and they'll be plenty of unofficial fringe communities too. As well as helping you develop new or existing interests, these societies give you an opportunity to serve a particular community of interest. Many societies seek members to take on positions of responsibility, above and beyond merely participating in their events. They provide fantastic opportunities to build new skills in a safe and supportive environment.
 
 ```{r volunthero-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionvolunthero)"}
 knitr::include_graphics("images/volunthero.jpeg")
@@ -213,6 +214,14 @@ Attending [Hackathons](https://en.wikipedia.org/wiki/Hackathon) is another way t
 * [hackzurich.com](https://hackzurich.com/)
 
 Alongside these competitions, there are other hackathon-type events which are organised by a single employer, see section \@ref(bignames). There are also opportunities to build your technical experience by practicing coding interviews online such as hackerrank and leetcode, described in section \@ref(codinginterview).
+
+Side projects like these help to distinguish you from your peers, but they don't *have* to be technical, see section \@ref(casual) and \@ref(volunteering). You might feel that you are too busy to do any side projects, but if working hard on academic study and getting top grades means that you:
+
+* Neglect hobbies, interests and friends
+* Start to suffer from anxiety or depression
+* Only have `projects` that were a compulsory part of your formal education
+
+It might be time to reflect and consider re-balancing your priorities if you can.
 
 ### Casual experience {#casual}
 You may already have experience of paid employment as a casual or part-time worker. This could include jobs such as waiting tables, serving in a bar or working in other areas of hospitality or retail, for example as a Saturday job.
