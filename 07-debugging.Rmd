@@ -650,13 +650,19 @@ knitr::include_graphics("images/Critical Friend.png")
 (ref:captionwonderfuldarling) Showing your CV to somebody else is one of the best ways to debug it. You need to find a [critical friend](https://en.wikipedia.org/wiki/Critical_friend), somebody who won't just tear it apart (`hostile witness`) or tell you it's simply *wonderful* darling (`uncritical lover`) but tell you how to improve it, whatever state it is in (`critical friend`). Critical friend by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## Covering letters & personal statements {#we3qs}
-Applications and CV's are often accompanied by covering letters or include some kind of personal statement. Whereas a lot of your CV is essentially a bulleted list of facts and statements, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to have a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for ages without providing any evidence. Usually this kind of information is better in your covering letter.
+Applications and CV's are often accompanied by covering letters or include some kind of personal statement. They are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) shown in figure \@ref(fig:elevator-fig). Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to include a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for ages without providing any evidence. This kind of information usually fits better in your covering letter anyway, because there isn't much space for it on a CV.
 
-Let's say you're applying for a widget engineering position at `widget.com`. There are three things you need to cover in this order:
+```{r elevator-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionelevator)"}
+knitr::include_graphics("images/elevator-pitch.jpeg")
+```
+
+(ref:captionelevator) Covering letters and personal statements are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch). They should summarise why you're applying and what you have to offer, in a way that persuades the reader (or listener) that they should invite you to interview. Elevator image by Downtowngal is licensed CC BY via Wikimedia Commons [w.wiki/5wGF](https://w.wiki/5wGF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+Let's say you're applying for a widget engineering position at `widget.com`. There are three things you need to convey in the following order:
 
 1. **Why them?** Why are you applying to `widget.com`
 1. **Why that role?**  Employees of `widget.com` have many roles and responsibilities but what is it about `widget engineering` (say) that attracts you?
-1. **Why you?** Why should `widget.com` employ you? What skills and experience make you stand out from all the other candidate widget engineerings? What are your Unique Selling Points (USPs)? Say why *you* would be good for *them* (**not** why widget.com would be good for you and your career).
+1. **Why you?** Why should `widget.com` employ you? What skills and experience make you stand out from all the other candidate widget engineers? What are your Unique Selling Points (USPs)? Say why *you* would be good for *them* (**not** why widget.com would be good for you and your career).
 
 You can see some examples of answers to these questions at:
 
@@ -670,7 +676,7 @@ Some employers will read your covering letter very carefully, others less so. It
 
 Even if *nobody* reads your covering letter, it is still worth writing one because formulating answers to the three basic questions in section \@ref(we3qs) will force you to rehearse standard interview questions.
 
-Think of your covering letter as practicing some of the lines of your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch).
+Think of your covering letter as practicing some of the lines of your elevator pitch shown in figure \@ref(fig:elevator-fig).
 
 ## Debugging summary {#tldr7}
 (ref:tldr)
