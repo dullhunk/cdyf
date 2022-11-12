@@ -305,9 +305,13 @@ A `leadership` section is also a good place to add any prizes you've won. If you
 * Awarded the Poppleton University scholarship for excellence
 ```
 
-Congratulations, but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known.
+Congratulations, but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known. You might talk about rank e.g.
 
-So if you're going to mention awards, give the context where you can so the reader can understand what the prize was for. 🏆
+```md
+* Won third prize in a competition
+```
+
+Again, congratulations, but third place out of how many: 3? Not so impressive. 30? 300? 3000? More impressive. Numbers make a big difference so if you're going to mention awards, quantify^[even an approximate estimate will do] and give the context where you can so the reader can understand what the prize was for. 🏆
 
 ### Your optional extras {#misc}
 If you have anything else you want to highlight besides your `education`, `experience`, `projects` and `leadership and awards` you *may* still have room for one more optional extras section. Try to come up with a better name than `Miscellaneous`, `Extracurricular` or `Other highlights`, which sound like dumping grounds for the leftovers. You might decide to have a dedicated `skills` section but see section \@ref(mycvsk).
@@ -664,7 +668,7 @@ knitr::include_graphics("images/elevator-pitch.jpeg")
 
 (ref:captionelevator) Covering letters and personal statements are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch). They should summarise why you're applying and what you have to offer, in a way that persuades the reader (or listener) that they should invite you to interview (before they get out of your metaphorical elevator). Elevator image by Downtowngal is licensed CC BY via Wikimedia Commons [w.wiki/5wGF](https://w.wiki/5wGF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Let's say you're applying for a widget engineering position at `widget.com`. There are three things you need to convey in the following order:
+Let's say you're applying for a widget engineering position at the world famous gadget company `widget.com`. There are three things you need to convey in the following order:
 
 1. **Why them?** Why are you applying to `widget.com`
 1. **Why that role?**  Employees of `widget.com` have many roles and responsibilities but what is it about `widget engineering` (say) that attracts you?
