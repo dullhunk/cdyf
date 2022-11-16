@@ -1,0 +1,18 @@
+---
+title: "Simplest possible project"
+author: Duncan Hull and illustrated by Bryan Mathers
+site: bookdown::bookdown_site
+documentclass: book
+bibliography:
+biblio-style:
+link-citations: yes
+description: "A simple project"
+github-repo: dullhunk/simplest
+# added via R4DS
+knit: "bookdown::render_book"
+always_allow_html: true
+---
+
+# Welcome to simple
+
+This is a really simple project

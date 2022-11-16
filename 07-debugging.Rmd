@@ -311,7 +311,7 @@ Congratulations, but how many people were awarded that prize? How many applicant
 * Won third prize in the flibbertigibbet competition
 ```
 
-Again, congratulations, but third place out of how many: 3? Not so impressive. 30? 300? 3000? More impressive. Numbers make a big difference so if you're going to mention awards, quantify^[even an approximation will do] where you can so the reader can understand what the prize was for. You will be familiar with the `flibbertigibbet` competition but your reader probably won't of heard of it, so give some context. 🏆
+Again, congratulations, but third place out of how many: `3`? Not so impressive. `30`? `300`? `3000`? More impressive. Numbers make a big difference so if you're going to mention awards, quantify^[even an approximation will do] where you can so the reader can understand what the prize was for. You will be familiar with the `flibbertigibbet` competition but your reader probably won't of heard of it, so give some context. 🏆
 
 ### Your optional extras {#misc}
 If you have anything else you want to highlight besides your `education`, `experience`, `projects` and `leadership and awards` you *may* still have room for one more optional extras section. Try to come up with a better name than `Miscellaneous`, `Extracurricular` or `Other highlights`, which sound like dumping grounds for the leftovers. You might decide to have a dedicated `skills` section but see section \@ref(mycvsk).
@@ -380,17 +380,21 @@ knitr::include_graphics("images/CV need a little work.png")
 ```
 (ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are invited to interview. Any time you spend getting it right is a good investment. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Seemingly trivial typographical details can make a big difference. The devil is in the detail: for example this text in a bulleted list doesn't use a proper indent...
+Seemingly trivial typographical details can make a big difference to the overall look and feel of your document. The devil is in the detail, for example this text in a bulleted list doesn't use a proper indent...
 
 • *The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog*
 
-... whereas this text does use a proper indent. It looks more professional and is much easier to read:
+... whereas this text does use a proper indent. The latter looks more professional and is easier to read, especially when you have multiple bullet points:
 
 * *The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog*
 
-Whatever your typographical style is, portable document format (`*.pdf`) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft's own products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on a range of different smartphones and tablets and you'll see what I mean. It helps your reader if you can give your CV file a descriptive name. So `ada_lovelace.pdf` is a better filename than `my_cv.pdf`, especially if it is being read by a human and not a robot. 🤖
+Whatever your typographical style is, portable document format (`*.pdf`) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft's own products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on a range of different smartphones and tablets and you'll see what I mean. It helps your reader if you can give your CV file a descriptive name, especially if it is being read by a human and not a robot. 🤖
 
-It's fine to author your CV in Microsoft Word, but you'll want to save it as a PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and there are plenty of good templates. See [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
+* ❌ `cv.pdf` not a very descriptive filename
+* ✅ `ada_lovelace.pdf` descriptive filname
+* ❌ `cv-version1-final-FINAL-version-USE-THIS-ONE.pdf` reveals more about you than you might like!
+
+It's fine to author your CV in Microsoft Word, but you'll want to save it as / print to PDF to make it more platform independent. LaTeX and overleaf can be used to create professional PDFs and there are plenty of good templates. See [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
 
 ### What's your story, coding glory? {#care}
 
@@ -593,8 +597,6 @@ My chequer told me sew
 ```
 
 While automation can help improve your writing, ultimately there is no substitute for people (you know: actual *humans*) reading your CV, and the more people that read it the better. This could be potential employers, your critical friends shown in figure \@ref(fig:wonderfuldarling-fig) or just reading it **out loud** to yourself described in section \@ref(dogfooding).
-
-
 ### Your references {#referees}
 
 You might be tempted to put your referees details on your résumé. Don't bother because;

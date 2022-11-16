@@ -24,13 +24,13 @@ bookdown::word_document2: default
 
 # gitbook not needed but it does work
 # bookdown::gitbook:
-#  config:
-#    toc:
-#      collapse: section
-#      before: |
-#        <li><a href="./">Coding Your Future</a></li>
-#    edit:
-#      link: https://github.com/dullhunk/cdyf/edit/master/%s
-#      text: "Edit"
-#    sharing: no
-#  css: r4ds.css
+#   config:
+#     toc:
+#       collapse: section
+#       before: |
+#         <li><a href="./">Coding Your Future</a></li>
+#     edit:
+#       link: https://github.com/dullhunk/cdyf/edit/master/%s
+#       text: "Edit"
+#     sharing: no
+#   css: r4ds.css

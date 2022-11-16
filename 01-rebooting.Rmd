@@ -123,9 +123,8 @@ https://www.independent.co.uk/news/education/education-news/ey-firm-says-it-will
 1. While a degree is a *necessary* condition for joining a graduate scheme or taking a graduate job it is [not a *sufficient* condition](https://en.wikipedia.org/wiki/Necessity_and_sufficiency). Having a degree will not set you apart much from your competition, every applicant will have a Bachelors degree. <!--used to be grad scheme growth slower than increase in grad but this is possibly a myth -->
 1. There are lots of graduates in your discipline. In the UK, for example, around 9,000 students graduate every year in Computer Science. If you're studying in the UK, what makes you different from the other 8,999 computer scientists graduating in your year?
 
-
 ```{r lotsofgrads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionlotsofgrads)"}
-library(ggplot2)
+library(ggplot2)  
 lotsofgrads <- tribble(
   ~year,         ~percentage,
   "1980",       15,
@@ -220,7 +219,6 @@ knitr::include_graphics("images/the-future-is-now.jpg")
 
 Computer scientists call this problem “search space reduction” [@searchspace]. You have a [feasible region](https://en.wikipedia.org/wiki/Feasible_region) of future possibilities and you need to narrow down the candidates. You could think of coding your future as an [optimisation problem](https://en.wikipedia.org/wiki/Optimization_problem). Start optimising now, by getting some experience because it's too late when you graduate. 🎓
 
-
 ## Yes, this WILL be on the exam {#exams}
 
 Students love to ask their teachers “*will this be on the exam*”? The short answer is **YES** (and **NO**)! Yes, this will be on the exam, but NO the exam won't be set by your University. Unlike other courses you've done, the examinations for this course aren't set by your University but by employers.  Roughly speaking, there are three kinds of examinations that you'll need to get good at, shown in Table \@ref(tab:examtable)
@@ -281,7 +279,7 @@ knitr::include_graphics("images/shelfie.jpg")
 ```
 (ref:captionshelfie) There are tonnes of resources out there offering advice on a huge range of professional issues. You can't read them all, but this guide aims to help you navigate the resources that will be most use to you
 
-Lots of professional advice is readily available, but how will you navigate it? This book signposts you to what I think are the most important resources, each chapter has a signposts section, and they are all gathered together in the signpost at the end alongside everything (yes, EVERYTHING!) that this guidebook cites in the references, chapter \@ref(reading).
+Lots of professional advice is readily available, but how will you navigate it? This book provides signposts to what I think are the most important resources, each chapter has a signposts section, and they are all gathered together in the signpost at the end alongside everything (yes, EVERYTHING!) that this guidebook cites in the references, chapter \@ref(reading).
 
 ## Crediting your future {#crediting}
 <!-- section needs moving, doesn't fit here-->
@@ -296,30 +294,45 @@ I'm writing this guidebook because I need a resource for students to help them d
 +---------------------------------------------+--------------------------------------------+
 | Other guidebooks                            | *Coding your Future* guidebook             |
 +=============================================+============================================+
-| - **Expensive** paper-based books           | - **Free** versions for browser, pdf and epub |
-| - Inadequate linking, inbound & outbound    |  - Every link is clickable, every section is linkable|
-| - Poor citations                            |  - Everything cited, see section \@ref(signposted)|
+| - **Expensive** paper-based books           |  - **Free** digital versions               |
+| - Inadequate linking, inbound & outbound    |  - (ref:clinkable)                         |
+| - Poor citations                            |  - (ref:signpostedtext)                    |
 | - Often can't be searched                   |  - Search by any words you choose          |
 +---------------------------------------------+--------------------------------------------+
-| - **Born printed**: digital comes second    | - **Born digital**:  paper comes second    |  
-| - Websites are crippled “companions” to book| - The website [`www.cdyf.me`](https://www.cdyf.me/) **is  ** the book |
-| - Ebook a clumsy afterthought               | - Ebook published simultaneously, see section \@ref(downloading)  |  
-| - Video and audio is separate to book       | - Video and audio is integrated & embedded  |       
+| - **Born printed**: digital comes second    | - **Born digital**:  paper comes second    |
+| - Websites are crippled “companions” to book| -  (ref:thewebsiteisthebook)               |
+| - Ebook a clumsy afterthought               | -  (ref:ebookgum)                          |
+| - Video and audio is separate to book       | - Video and audio is integrated & embedded |
 +---------------------------------------------+--------------------------------------------+
-| - **Divorced** from any curriculum          | - **Married**^[computationally wedded to the curriculum with kids and a mortgage] to the computing curriculum  |
-| - (ref:notusedforteaching)                  | - Course textbook for COMP2CARS, embedded in the curriculum <!--link-->  |
-| - (ref:doingitwrong)                        | - Tailored to computing careers, see chapter \@ref(computing), \@ref(broadening) and \@ref(hearing) |
+| - **Divorced** from any curriculum          | - (ref:marriedwithchildren)                |
+| - (ref:notusedforteaching)                  | - (ref:thisiscomp2cars)                    |
+| - (ref:doingitwrong)                        | - (ref:tailormade)                         |
 +---------------------------------------------+--------------------------------------------+
 | - **Institution centred**: (ref:institution)| - **Student centred**: (ref:agnostic)      |
 | - (ref:studentmute)                         | - (ref:studentvoice)                       |
 | - (ref:dehumanised)                         | - (ref:grassroots)                         |
 +---------------------------------------------+--------------------------------------------+
-| - **Closed** source                         | - **Open** source, see section \@ref(contributing)|
+| - **Closed** source                         | - (ref:u2cancontribute)                    |
 | - Small number of authors & editors         | - Anyone can contribute or comment         |
-| - Released late, released seldomly          | - Released early, released often, see section \@ref(version) |
+| - Released late, released seldomly          | - (ref:rero)                               |
 +---------------------------------------------+--------------------------------------------+
 
 <!--horrible table hacks, not pretty but they work-->
+
+(ref:clinkable) Every link is clickable, every section, table and figure can be linked to
+
+(ref:signpostedtext) Everything cited, see section \@ref(signposted)
+
+(ref:thewebsiteisthebook) The website [`www.cdyf.me`](https://www.cdyf.me/) **is  ** the book
+
+(ref:ebookgum) Ebook published simultaneously, see section \@ref(downloading)
+
+(ref:marriedwithchildren) **Married**^[computationally wedded to the curriculum with kids and a mortgage] to the computing curriculum
+
+(ref:thisiscomp2cars) Course textbook for COMP2CARS, embedded in the curriculum <!--link-->
+
+(ref:tailormade) Tailored to computing careers, see chapter \@ref(computing), \@ref(broadening) and \@ref(hearing)
+
 (ref:institution) Institutionalised by Universities, employers or advertisers
 
 (ref:agnostic) agnostic to institutions, employers and advertisers
@@ -336,6 +349,9 @@ I'm writing this guidebook because I need a resource for students to help them d
 
 (ref:studentmute) Often excludes the [student voice](https://en.wikipedia.org/wiki/Student_voice)
 
+(ref:u2cancontribute) **Open** source, see section \@ref(contributing)
+
+(ref:rero) Released early, released often, see section \@ref(version)
 
 <!-- possibly more here personal / impersonal, add cross links -->
 
