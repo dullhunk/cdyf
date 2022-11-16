@@ -315,12 +315,13 @@ The marketplace for job searching and job hunting advice is incredibly crowded. 
 
 1. 🎓 Undergraduate and graduate jobs boards, such as Gradcracker \@ref(studentjobs)
 1. 👀 General jobs boards, such as Google jobs see section \@ref(generaljobs)
-1. 🎨 Portfolio style, such as LinkedIn and Github etc, see \@ref(generaljobs)
-1. 🏛️ The jobs portal of your University, see \@ref(studentjobs)
+1. 🎨 Portfolio style, such as LinkedIn and Github etc, see section \@ref(generaljobs)
+1. 🏛️ The student jobs portal of your University, see section \@ref(studentjobs)
+1. 👩‍👩‍👧‍👦 Your network, online and offline, see section \@ref(weakties)
 
 ### For students and graduates {#studentjobs}
 
-The following job finding resources are specifically aimed at undergraduate students and graduates in the UK:
+The following resources are specifically tailored to undergraduate students and graduates looking for jobs in Europe and beyond:
 
 <!-- looks obsolete now * [aws.amazon.com/education](https://aws.amazon.com/education/awseducate/aws-educate-job-board/) has a dedicated jobs board for students with (or working towards) Amazon Web Services (AWS) cloud computing qualifications-->
 * [gradcracker.com](http://www.gradcracker.com/) for engineering and technology students, you can filter e.g. by [Computing/Technology jobs](https://www.gradcracker.com/search/computing-technology/jobs), from the publishers of the popular [gradcracker toolkit](http://www.gradcracker.com/career-centre/toolkit)
@@ -335,7 +336,7 @@ The following job finding resources are specifically aimed at undergraduate stud
 * Your University careers service. University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying. So if you're studying at the University of Manchester it's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html) (UoM login required)
 
 ### For any job seekers {#generaljobs}
-The following job finding tools are aimed at a wider audience (not just undergraduates and graduates) but will be useful to you nonetheless.
+The following resources are aimed at a wider audience (not just undergraduates and graduates) looking for jobs anywhere in the world:
 
 ```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
 knitr::include_graphics("images/google-job-search.jpeg")
@@ -365,7 +366,7 @@ Google job search shown in figure \@ref(fig:googlejobs-fig) is a good starting p
 ```{r linkedin-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionlinkedin)"}
 knitr::include_graphics("images/linkedin.jpeg")
 ```
-(ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows employers to advertise job vacancies online and candidates like you to apply for them. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). Picture of LinkedIn Headquarters in Sunnyvale, California by LPS.1 on Wikimedia Commons [w.wiki/5sEF](https://w.wiki/5sEF) adapted the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows employers to advertise job vacancies online and candidates like you to apply for them. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). Picture of LinkedIn Headquarters in Sunnyvale, California by LPS.1 on Wikimedia Commons [w.wiki/5sEF](https://w.wiki/5sEF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 * [glassdoor.co.uk](http://www.glassdoor.co.uk/) is like tripadvisor for jobs. Find out what it's *really* like to work for given employers from current and former employees. A student oriented version can be found at [glassdoor.com/Students](https://www.glassdoor.com/Students), this means you can use it without writing a review of a previous employer (which is what non-student users have to do to access the content)
