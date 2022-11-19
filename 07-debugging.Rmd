@@ -60,7 +60,7 @@ While it is true that some employers don't accept CVs or favour online applicati
 
 Even if an employer never asks you for your CV, you'll frequently want to use the *content* of your CV in applications and interviews. So this chapter looks at how you can debug your written applications, whatever the mechanism is for submitting them.
 
-You can of course *augment* your CV with various public digital profiles such as LinkedIn, Github etc. A public digital profile can help employers find you, see section \@ref(generaljobs).
+You can of course *augment* your CV with various public digital profiles such as LinkedIn, Github etc. A public digital profile can help employers find you, see section \@ref(portfolio).
 
 *Wherever* you're putting information about yourself for potential employers, on a CV, Résumé, LinkedIn profile the same principles apply. See the checklist in section \@ref(checklist) and for specific advice on LinkedIn see:
 
@@ -238,7 +238,7 @@ The `PROJECTS` section of your CV is where you can describe all other activities
 * hackathons, olympiads and other competitive or collaborative events, see section \@ref(tinkering)
 * University projects
     + these sometimes fit better in your `Education` section
-    + Be *careful* publishing coursework, this can make you liable for academic malpractice. If someone copies your coursework, you will **both** be guilty of academic malpractice...
+    + Be *careful* publishing coursework, this can make you liable for accusations of plagiarism. If someone copies your coursework, you will **both** be guilty of academic malpractice...
     + ... but final year (“[capstone](https://en.wikipedia.org/wiki/Capstone_course)”) projects are great as these will tend to be unique, distinguishing you from everybody else in your year group
 
 Your projects will most likely be unpaid because paid work tends to fit better under the heading `experience`, see section \@ref(mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, the [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repository is a good starting point. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in figure \@ref(fig:feynman-fig). What you cannot create you do not understand. Another great way to learn is to get involved with open source projects which we describe in section \@ref(opensource).
@@ -406,7 +406,7 @@ One way to structure descriptions of items within each section of your CV is to 
 * **CONTEXT**: So you've used `Python`, but in what context? As part of your education? For a personal project? As a volunteer? In a competition? All of the above?
 * **ACTION**:  What did you *do* with `Python`? Did you use some particular library? Did you integrate or model something? What verbs can you use to describe these actions, see chapter \@ref(actioning)
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
-* **EVIDENCE**: Where evidence exists, you should highlight it. That could be a quantification, for example describing a result in numbers (see `as measured by` below) or it might be certification described in chapter \@ref(achieving). If you're talking about software, point to a copy online if you can, but beware of plagiarism if you publish university coursework on github. Nothing says “I can build software ...” quite like “ ... and here's one I made earlier”.
+* **EVIDENCE**: Where evidence exists, you should highlight it. That could be a quantification, for example describing a result in numbers (see `as measured by` below) or it might be certification described in chapter \@ref(achieving). If you're talking about software, point to a copy online if you can, see section \@ref(portfolio). Nothing says “I can build software ...” quite like “ ... and here's one I made earlier”.
 
 You don't have to stick rigidly to the order C.A.R.E. as long as they appear somewhere. For example, recruiters at Google (see figure \@ref(fig:lopez-fig)) advise candidates to describe their experience and projects using this simple pattern:
 
@@ -721,7 +721,7 @@ include_tweet("https://twitter.com/b0rk/status/1570060516839641092")
 
 <!-- except there isn't always a reason!-->
 
-Debugging your future can be an enjoyable adventure! Debugging your future is Coding your future. 
+Debugging your future can be an enjoyable adventure! Debugging your future is Coding your future.
 
 In the next part (chapter \@ref(finding)) we'll look at using your CV and other written applications to help you *find* your future.
 
