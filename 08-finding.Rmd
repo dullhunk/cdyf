@@ -382,16 +382,16 @@ knitr::include_graphics("images/linkedin-profile.jpg")
 * **Github.com** allows you to publish code in public repositories that everyone can see, see figure \@ref(fig:github-fig). If you're comfortable doing it, publishing your software online can be a good way of demonstrating your technical skills and knowledge but be careful publishing your coursework online, see section \@ref(mycvpj)
 
 ```{r github-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongithub)"}
-knitr::include_graphics("images/pezgithub.png")
+knitr::include_graphics("images/amish-github.jpg")
 ```
-(ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of former Computer Science student Pez Cuckow: [github.com/Pezmc](https://github.com/Pezmc)
+(ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of Computer Science student Amish Shah: [github.com/amishshah](https://github.com/amishshah)
 
 * **Stackoverlflow.com** You've probably already cut-and-pasted solutions from the question and answer forum Stack Overflow. You can also create a profile on Stack Overflow too, see figure \@ref(fig:overflow-fig). As of March 2021 the site had over 14 million registered users, and had received over 21 million questions and 31 million answers.
 
 ```{r overflow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionoverflow)"}
 knitr::include_graphics("images/pezoverflow.png")
 ```
-(ref:captionoverflow) An example of using stackoverflow to create a public profile by asking and answering technical questions online. Again, the screenshot shows a profile of former Computer Science student Pez Cuckow: [stackoverflow.com/users/193376/pez-cuckow](https://stackoverflow.com/users/193376/pez-cuckow)
+(ref:captionoverflow) An example of using stackoverflow to create a public profile by asking and answering technical questions online. The screenshot shows a profile of former Computer Science student Pez Cuckow: [stackoverflow.com/users/193376/pez-cuckow](https://stackoverflow.com/users/193376/pez-cuckow)
 
 So, if you're happy to publish your work online, sites like LinkedIn, Github and Stackoverflow can help you find jobs using a *push* approach alongside more conventional *pull* approaches described in section \@ref(studentjobs) and \@ref(generaljobs). They can also be used to augument your CV, with the stuff that doesn't fit onto one or two printed pages. Digital profiles can be also be useful if you're looking for freelance, contract or part-time work.
 
@@ -402,7 +402,7 @@ Recruiters can help you find work and they operate in every industry sector. The
 1. Recruiters employed directly by an employer, for example in the human resources (HR) department of a given organisation.
 1. Recruiters who are self-employed or work for a recruitment agency. They typically earn money from the number of interview candidates and successful hires they provide for their clients. They are often deliberately coy about who their clients are.
 
-Recruiters are usually not technical people, so don't expect them to have lots of knowledge about software engineering (for example) - that isn't usually their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
+Recruiters are usually not technical people, so don't expect them to any knowledge of software engineering (for example) - that isn't usually their skill set. Although recruiters can help you, it is worth being wary of recruiters as shown in figure \@ref(fig:recruiter-fig), especially if they work for an agency rather than being directly employed by the organisation you are interested in.
 
 ```{r recruiter-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionrecruiter)"}
 knitr::include_graphics("images/recruiters-are.png")
@@ -497,8 +497,8 @@ knitr::include_graphics("images/overselling.png")
 
 There's two kinds of fake news that are common in the jobs marketplace:
 
-1. Employers overselling themselves. Recruitment can be a bit of a beauty contest, with employers trying to show you their best side. Some employers may make promises they can't deliver but a quick look on sites like [glassdoor.com](https://www.glassdoor.com) will help you evaluate employers. Even better, talk directly with actual employees of the organisation, both current and former. Is their employer really as good as they say they are?
-1. You exaggerate your achievements: It can be tempting to oversell yourself in the marketplace. An experienced reader or interviewer will be able to spot your fake news and find you out, see chapter \@ref(debugging) *debugging your future*
+1. **Employers overselling themselves**: Recruitment can be a bit of a beauty contest, with employers trying to show you their best side. Some employers may make promises they can't deliver but a quick look on sites like [glassdoor.com](https://www.glassdoor.com) will help you evaluate employers. Even better, talk directly with actual employees of the organisation, both current and former. Is their employer really as good as they say they are?
+1. **Candidates exaggerating their achievements**: It can be tempting to oversell yourself in the marketplace. An experienced reader or interviewer will be able to spot your fake news and find you out, see chapter \@ref(debugging) *debugging your future*
 
 So beware of fake news and overselling. [Don't believe the hype](https://en.wikipedia.org/wiki/Don%27t_Believe_the_Hype). [@dontbelievethehype] 📈
 

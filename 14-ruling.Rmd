@@ -22,6 +22,13 @@ knitr::include_graphics("images/Know who you are.png")
 
 <!--understand your brand your values, another word for brand is reputation. do people like you. The better you know yourself, the better-->
 
+Being able to articulate your self-awareness to employers will make writing a CV (chapter \@ref(debugging)) and interviewing (chapter \@ref(speaking)) a lot easier. Both rely on you be able to express yourself in written and spoken language. You should aim to strike a balance between humbly underselling yourself (see section \@ref(undersell)) and proudly overselling yourself, see section \@ref(oversell). If you have digital profiles like those described in section \@ref(portfolio), how accurate a reflection of you are they? Is your digital [alter ego](https://en.wikipedia.org/wiki/Alter_ego) at odds with reality?
+
+```{r eval=knitr::is_html_output(excludes = "epub"), linkedin-tweet-fig, echo=FALSE, fig.cap = "test caption"}
+library(tweetrmd)
+include_tweet("https://twitter.com/dullhunk/status/1594641377060687873")
+```
+
 
 ## Look after yourself {#onlyhuman}
 Studying at University can be enjoyable but it can also make you stressed, anxious and depressed. If you neglect to look after yourself mentally and physically, things can start to fall apart. Choose your reference points carefully, try not to compare yourself to the person at the top of the class: see Carmen's advice in chapter \@ref(carmen). Ask yourself, am I doing better than last time? Be kind to yourself because nurturing yourself now will nurture your future, see chapter \@ref(nurturing).
@@ -31,6 +38,8 @@ knitr::include_graphics("images/Look after yourself.png")
 ```
 
 (ref:captionlookafteragain) It's important not to neglect your body, mind and soul when you're working hard. Look after yourself by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+At University, you are quite likely to be surrounded by people who have more experience, better knowledge, higher grades or more skills than you. That might not have been the case at high school if you were top (or near the top) of your class. While it is natural to compare yourself to the best, you should do so with caution. The important thing is that you are working to towards the best version of yourself, not necessarily the best in your class anymore.
 
 ## Use what you have {#gregwilson}
 
