@@ -187,7 +187,7 @@ The first thing in your CV is the header, a simple section giving your name, ema
 knitr::include_graphics("images/alan-turing-header.png")
 ```
 
-(ref:captioncvheader) Keep the header of your CV simple like Alan's example here. Just your name, email, phone number and any relevant links (such as [enwp.org/Alan_Turing](https://enwp.org/Alan_Turing) for example) are all you really need. Any additional information risks wasting valuable space and distracting your reader. [Less is more](https://en.wikipedia.org/wiki/Less_(Unix)).
+(ref:captioncvheader) Keep the header of your CV simple like Alan's example here. Just your name, email, phone number and any relevant links (such as [enwp.org/Alan_Turing](https://enwp.org/Alan_Turing) here or Github/Linkedin, see section \@ref(portfolio)) are all you really need. Any additional information risks wasting valuable space and distracting your reader. [Less is more](https://en.wikipedia.org/wiki/Less_(Unix)).
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have about five sections that cover some or all of the following:
 
@@ -311,7 +311,7 @@ Congratulations, but how many people were awarded that prize? How many applicant
 * Won third prize in the flibbertigibbet competition
 ```
 
-Again, congratulations, but third place out of how many: `3`? Not so impressive. `30`? `300`? `3000`? More impressive. Numbers make a big difference so if you're going to mention awards, quantify^[even an approximation will do] where you can so the reader can understand what the prize was for. You will be familiar with the `flibbertigibbet` competition but your reader probably won't of heard of it, so give some context. 🏆
+Again, congratulations, but third place out of how many: `3`? Not so impressive. `30`? `300`? `3000`? More impressive. Numbers make a big difference so if you're going to mention awards, quantify^[even an approximation will do] where you can so the reader can understand what the prize was for. You may well be intimately acquaited with the [flibbertigibbet](https://en.wikipedia.org/wiki/Flibbertigibbet) competition but your reader probably won't of heard of it, so give some context. 🏆
 
 ### Your optional extras {#misc}
 If you have anything else you want to highlight besides your `education`, `experience`, `projects` and `leadership and awards` you *may* still have room for one more optional extras section. Try to come up with a better name than `Miscellaneous`, `Extracurricular` or `Other highlights`, which sound like dumping grounds for the leftovers. You might decide to have a dedicated `skills` section but see section \@ref(mycvsk).
