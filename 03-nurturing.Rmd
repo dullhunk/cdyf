@@ -59,12 +59,12 @@ University is a positive experience for many people, however like Alan, you may 
 * stress, how you feel under pressure-->
 <!--Your brain is a complex organ that is not fully understood, so it is not surprising that brains sometimes need treatment when things go wrong.-->
 
-The *persistent* and *lasting a long time* are important here because while its part of the human condition to worry and feel sad, that doesn't *necessarily* mean you are affected by poor mental health. How long is a long time? Definitions vary, but around two weeks is a good rule of thumb. There are many forces (F) at play, feelings of sadness or anxiousness are normally balanced out by counteracting feelings of calm or happiness shown in figure \@ref(fig:free-body-fig):
+The *persistent* and *lasting a long time* are important here because while its part of the human condition to worry and feel sad, that doesn't *necessarily* mean you are affected by poor mental health. How long is a long time? Definitions vary, but around two weeks is a good rule of thumb. There are many forces ($F$) at play, feelings of sadness or anxiousness are normally balanced out by counteracting feelings of calm or happiness shown in figure \@ref(fig:free-body-fig):
 
-* Forces that make you unhappy: **F~SAD~**
-* Forces that make you happy: **F~HAPPY~**
-* Forces that make you anxious: **F~ANXIOUS~**
-* Force that make you calm: **F~CALM~**
+* Forces that make you unhappy: **$F~SAD~$**
+* Forces that make you happy: **$F~HAPPY~$**
+* Forces that make you anxious: **$F~ANXIOUS~$**
+* Force that make you calm: **$F~CALM~$**
 
 ```{r free-body-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfreebody)"}
 knitr::include_graphics("images/Free body diagram.png")

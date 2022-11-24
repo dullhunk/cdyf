@@ -127,7 +127,7 @@ This guidebook is split into four parts, shown in the map in figure \@ref(fig:ma
 
 1. In chapters \@ref(rebooting) to \@ref(computing) we look at *designing* your future
 1. In chapters \@ref(debugging) to \@ref(researching) we look at *building* and *testing* your future
-1. In chapters \@ref(ruling) to \@ref(scheduling) we look at *supporting* your future
+1. In chapters \@ref(ruling) to \@ref(scheduling) we look at *deploying* your future
 1. In chapters \@ref(raluca) to \@ref(reading) we hear from students who are *coding* their future
 
 Let's look in a bit more detail at the content of each of the four parts of this guidebook:
@@ -151,14 +151,13 @@ knitr::include_graphics("images/brooklyn-bridge-blueprint.png")
 Building a career isn't that different to building anything else, you'll need to do some design work and it will probably be iterative. Designing things often involves answering tricky questions. So when you're designing your future you'll need to cover the following:
 
 * Chapter \@ref(rebooting): *Rebooting your future* discusses why you should bother reading this guidebook
-* Chapter \@ref(knowing): *Knowing your future* challenges you to reflect on who you are, what makes you unique and why you are here
-* Chapter \@ref(nurturing): *Nurturing your future* encourages you to take care of your mental and physical health
-* Chapter \@ref(writing): *Writing your future* explores your soft skills, and how they complement your hard skills and why employers value them so much
-* Chapter \@ref(experiencing): *Experiencing your future* asks you to reflect on your work experience and help identify where you can improve it
+* Chapter \@ref(knowing): *Knowing your future* challenges you to reflect on who you are, what makes you unique and what you have to offer
+* Chapter \@ref(nurturing): *Nurturing your future* encourages you to pay attention to your mental and physical health
+* Chapter \@ref(writing): *Writing your future* explores your soft communication skills, how they complement your hard skills and why employers value them so much
 * Chapter \@ref(computing): *Computing your future* looks at the role computing can play in your career, especially if Computer Science is not a major part of your degree
 
 
-### Building your future {#partii}
+### Building and testing your future {#partii}
 The next seven chapters look at building (and testing) your future, what engineers like to call *implementation* or *execution* shown in figure \@ref(fig:manhattan-fig).
 
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
@@ -169,6 +168,7 @@ knitr::include_graphics("images/manhattan_bridge.png")
 Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
 
 * Chapter \@ref(debugging): *Debugging your future* looks at debugging your written communication such as covering letters,  application forms and digital portfolios.
+* Chapter \@ref(experiencing): *Experiencing your future* asks you to reflect on your experience and help identify where you can improve it
 * Chapter \@ref(finding): *Finding your future* looks at where and how can you look for interesting opportunities
 * Chapter \@ref(broadening): *Broadening your future* encourages you to broaden your horizons. What are the possibilities beyond the obvious?
 * Chapter \@ref(speaking): *Speaking your future* looks how can you turn interviews to your advantage and negotiate any offers you receive
@@ -176,14 +176,14 @@ Once you've started to answer the design questions in the first part, you can st
 * Chapter \@ref(achieving): *Achieving your future* looks at evidence you can collect of your learning and development using various kinds of certifiable evidence
 * Chapter \@ref(researching): *Researching your future* discusses if a Masters degree or a PhD right for you?
 
-### Supporting your future {#partiii}
+### Deploying your future {#partiii}
 
-The third part of this book, contains supporting material that will help the design, build and test phases described above. You'll need good support to help with the inevitable stresses and strains of building your future as shown in \@ref(fig:clifton-fig)
+The third part of this book, looks at deployment issues that follow from you design, build and test phases above. You'll need good deployment strategies to help with the inevitable stresses and strains of building your future as shown in \@ref(fig:clifton-fig)
 
 ```{r clifton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclifton)"}
 knitr::include_graphics("images/clifton.png")
 ```
-(ref:captionclifton) Huge supporting chains on the [Clifton Suspension Bridge](https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge) in Bristol allow heavy loads pass over the [river Avon](https://en.wikipedia.org/wiki/River_Avon,_Bristol ). You'll need good support to cope with the stresses and strains of building your future. Clifton suspension bridge picture adapted from original by Nic Trott via Wikimedia commons [w.wiki/32tu](https://w.wiki/32tu)
+(ref:captionclifton) Huge supporting chains on the [Clifton Suspension Bridge](https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge) in Bristol allow heavy loads pass over the [river Avon](https://en.wikipedia.org/wiki/River_Avon,_Bristol ). You'll need good support to cope with the stresses and strains of building, testing and deploying your future. Clifton suspension bridge picture adapted from original by Nic Trott via Wikimedia commons [w.wiki/32tu](https://w.wiki/32tu)
 
 * Chapter \@ref(ruling): *Ruling your future* provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
 * Chapter \@ref(hacking): *Hacking your future* invites you to put yourself in the employers shoes by hacking other people's CVs
@@ -619,7 +619,7 @@ knitr::include_graphics("images/abisko.jpeg")
 So thanks (tack) Abisko for all the saunas, [fika](https://www.swedishfood.com/fika), [midnight sun](https://en.wikipedia.org/wiki/Midnight_sun) and Swedish hospitality. 🙏
 
 ### Thank you America {#usa}
-Thanks to the British Universities North America Club ([BUNAC](https://en.wikipedia.org/wiki/BUNAC)) for sponsoring my [Exchange Visitor Student Visa](https://travel.state.gov/content/travel/en/us-visas/study/exchange.html) which allowed me spend the summer cooking breakfasts for guests at the [Phillips Beach Plaza Hotel](https://www.oceancity.com/end-of-an-era-beach-plaza-hotel-closing-permanently/) in [Ocean City, Maryland](https://en.wikipedia.org/wiki/Ocean_City,_Maryland). Thanks to Andy B. for flagging it. 🇺🇸
+Thanks to the British Universities North America Club ([BUNAC](https://en.wikipedia.org/wiki/BUNAC)) for sponsoring my [Exchange Visitor Student Visa](https://travel.state.gov/content/travel/en/us-visas/study/exchange.html) which allowed me spend an enjoyable summer cooking breakfasts for guests at the [Phillips Beach Plaza Hotel](https://www.oceancity.com/end-of-an-era-beach-plaza-hotel-closing-permanently/) in [Ocean City, Maryland](https://en.wikipedia.org/wiki/Ocean_City,_Maryland). Thanks to Andy B. for flagging it. 🇺🇸
 
 <!--See also http://www.beachplazaoc.com/ and https://web.archive.org/web/20110814004632/http://www.beachplazaoc.com/ -->
 

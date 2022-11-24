@@ -489,19 +489,19 @@ knitr::include_graphics("images/lovelace-linkedin.png")
 ```
 (ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the default randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
 
-Links can provide `Context`, (Action), `Result` and `Evidence` (see `C.A.R.E.` in section \@ref(care)) by quantifying and substantiating any claims that you make. They can allow your reader to *read between the lines* and make more inferences from the information you've provided them with. For example, you might says things like:
+Links can provide `Context`, (Action), `Result` and `Evidence` (see `C.A.R.E.` in section \@ref(care)) by quantifying and substantiating any claims that you make. Links demonstrate what you've done and which communities you've been a part of. For example, you might says things like:
 
 ```md
 * Built a thing called example.com
 ```
 
-Reading between the lines: “I like building things. Look at this thing I built just for fun, its really cool”. Or you might say:
+This shows that the thing you built was substantial enough to have its own domain. It also says “I like building things. Look at this thing I built just for fun, its really cool”. Or you might say:
 
 ```md
 * Elected as a representative for hacksoc.com
 ```
 
-Reading between the lines: “I was part a bigger thing you might not have heard about but you can find out about here”. You might also say:
+The link shows you were part of a community: “I was part a bigger thing... ” you might not have heard about but you can find out about here. You might also say:
 
 ```md
 * Competed at hack-to-the-future.com part III
@@ -515,7 +515,7 @@ Reading between the lines: “I really enjoy learning from other people by going
 * your hyperlinks are clickable in the PDF. Don't expect your reader to cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
 * your hyperlinks are paper-proof. Some people still print CVs so links with opaque titles like  “My LinkedIn”, [click here](https://www.w3.org/QA/Tips/noClickHere.html), and “Projects on Github”  won't work well on printed paper unless you explicitly spell out the link. See [to print or not to print — a CV, that is](https://bbc.in/3zXv6zr) [@printcv]
 
-Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), see section \@ref(portfolio) [@stackoverflow]. You can also link to personal projects or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), be wary of social media.
+Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), see section \@ref(portfolio) [@stackoverflow]. You can also link to personal projects, any articles you've published or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), be wary of social media.
 
 ::: {.rmdnote}
 (ref:codingcomment)
