@@ -1,6 +1,6 @@
 # Finding your future {#finding}
 
-You've reflected on and identified where you can improve your experience as described in chapter \@ref(experiencing). You've successfully debugged your CV, with help from chapter \@ref(debugging). Now, how can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? This chapter will help you find your future. 🔭
+So, you've successfully debugged your CV, with help from chapter \@ref(debugging). You've reflected on and identified where you can improve your `experience` as described in chapter \@ref(experiencing).  Now, how can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? This chapter will help you find your future. 🔭
 
 ```{r yesbut-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionyesbut)"}
 knitr::include_graphics("images/Yes but how do I.png")
@@ -64,7 +64,7 @@ Thankfully, we can break it down, but there are many parameters and variables in
 Each strategy has is own strengths and weaknesses, so you'll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you'll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:
 
 ### By role {#by-role}
-There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research those roles, choose one you like and then apply for that kind of role. Let's say you are interested in `software engineering`. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
+There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research the roles described in section \@ref(otheroles), focus on some you like the sound of and then apply for that kind of role. Let's say you are interested in `software engineering`. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/c13ddb4dbd5c43220cd35caa5d1f40c7.js"></script>')
@@ -247,7 +247,7 @@ knitr::kable(job_table, caption = "The practicalities of applying for vacancies,
 ```
 
 ### By values {#by-values}
-Besides the necessary value of making a profit, which is what commercial employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can compute it:
+Besides the necessary value of making a profit or balancing the books, which is all employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9.js"></script>')
@@ -328,7 +328,7 @@ The following resources are specifically tailored to undergraduate students and 
 * [ratemyplacement.co.uk](http://www.ratemyplacement.co.uk/) is a leading UK job resource for undergraduates seeking placements and internships.
 * [targetjobs.co.uk](http://www.targetjobs.co.uk/) graduate jobs, schemes and internships from the people behind [The Guardian 300 top graduate employers](https://targetjobs.co.uk/uk300)
 * [milkround.com](http://www.milkround.com/), placements and graduate positions from the people behind [The Times Top 100 Graduate employers](https://digital.top100graduateemployers.com/view/979434180/)
-* [gradconnection.com/](https://www.gradconnection.com/), for university students and recent graduates
+* [gradconnection.com](https://www.gradconnection.com/), for university students and recent graduates
 * [graduateland.com](https://graduateland.com/), placements and graduate positions around Europe
 * [prospects.ac.uk](https://www.prospects.ac.uk/), a jobs board accompanied by job searching advice
 * [InsideCareers.co.uk](https://www.insidecareers.co.uk) is good if you're looking for jobs in the  financial sector
@@ -389,7 +389,7 @@ knitr::include_graphics("images/amish-github.jpg")
 ```
 (ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of Computer Science student Amish Shah: [github.com/amishshah](https://github.com/amishshah)
 
-* **Stackoverlflow.com** You've probably already cut-and-pasted solutions from the question and answer forum Stack Overflow. You can also create a profile on Stack Overflow too, see figure \@ref(fig:overflow-fig). As of March 2021 the site had over 14 million registered users, and had received over 21 million questions and 31 million answers.
+* **Stackoverflow.com** You've probably already cut-and-pasted solutions from the question and answer forum Stack Overflow. You can also create a profile on Stack Overflow too, see figure \@ref(fig:overflow-fig). As of March 2021 the site had over 14 million registered users, and had received over 21 million questions and 31 million answers.
 
 ```{r overflow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionoverflow)"}
 knitr::include_graphics("images/pezoverflow.png")

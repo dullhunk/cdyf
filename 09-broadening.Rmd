@@ -59,7 +59,7 @@ Software engineers (or software developers if you prefer) are one of the most po
 * Usability engineer, often specialising in [Human–Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI), [User Experience](https://en.wikipedia.org/wiki/User_experience) (UX) or front-end development
 * Security engineer, penetration testing see [prospects.ac.uk/job-profiles/penetration-tester](https://www.prospects.ac.uk/job-profiles/penetration-tester)
 * DevOps, sysadmin and [site reliability engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-* Patent attorney, protecting and organisations technical I.P. see [prospects.ac.uk/job-profiles/patent-attorney](https://www.prospects.ac.uk/job-profiles/patent-attorney)
+* Patent attorney, protecting and organisations technical intellectual property (I.P.) see [prospects.ac.uk/job-profiles/patent-attorney](https://www.prospects.ac.uk/job-profiles/patent-attorney)
 * Consultant, see [prospects.ac.uk/job-profiles/it-consultant](https://www.prospects.ac.uk/job-profiles/it-consultant) and [prospects.ac.uk/job-profiles/management-consultant](https://www.prospects.ac.uk/job-profiles/management-consultant)
 
 <!--nonprofit, governmental, social -->
@@ -126,7 +126,7 @@ You will sometimes hear people saying you need to sell your soul to get a job, s
 knitr::include_graphics("images/deal-with-the-devil.jpeg")
 ```
 
-(ref:captiondevildeal) In European folklore, doing a [deal with the devil](https://en.wikipedia.org/wiki/Deal_with_the_Devil) is a motif that recurs in culture. Wealth, power and knowledge are some of the items that might be traded for a persons soul as part of diabolical deal. Will you need to sell your soul to the devil to get the job you want? Public domain image of an engraving by Adolf Gnauth showing [Faust](https://en.wikipedia.org/wiki/Faust) doing a deal with [Mephistopheles](https://en.wikipedia.org/wiki/Mephistopheles) on Wikimedia Commons at [w.wiki/3zio](https://w.wiki/3zio) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 😈
+(ref:captiondevildeal) In European folklore, doing a [deal with the devil](https://en.wikipedia.org/wiki/Deal_with_the_Devil) is a recurring theme. Wealth, power and knowledge are some of the items that might be traded for a persons soul as part of diabolical deal. Will you need to sell your soul to the devil to get the job you want? Public domain image of an engraving by Adolf Gnauth showing [Faust](https://en.wikipedia.org/wiki/Faust) doing a deal with [Mephistopheles](https://en.wikipedia.org/wiki/Mephistopheles) on Wikimedia Commons at [w.wiki/3zio](https://w.wiki/3zio) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 😈
 
 So when you're searching for jobs and researching potential employers, one of the first things you need to find out is what the values and ethical principles of an employer are, see section \@ref(beware). This is a quick way to evaluate what makes an organisation who they are. Most employers publish their values and ethics openly, here's a small selection to give you a flavour:
 
@@ -189,10 +189,12 @@ Here are some examples to get you started:
 * Fairer algorithms: see [algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias),  [responsible.ai](https://www.responsible.ai/) and figure \@ref(fig:justice-fig). The algorithmic equivalent of the hippocratic oath [do no harm](https://en.wikipedia.org/wiki/Primum_non_nocere).
 * More humane technology that respects users attention and minimises distraction by enabling *“Time Well Spent”*. Humane technology supports democracy, rather than undermining it, by encouraging [slow thinking, rather than just fast thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) [@Kahneman]
 * Games for change, that have social impact rather than economic impact (profit) see [gamesforchange.org](https://www.gamesforchange.org/)
-* Better education enabled by computing, both as a [subject in its own right](https://en.wikipedia.org/wiki/Computer_science_education), and as an enabler of the teaching and learning of everything else
+* Better education with computing:
+     - as a subject in its own right: [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education)
+     - as [educational technology](https://en.wikipedia.org/wiki/Educational_technology) that enables the teaching and learning of every subject
 * Scientific computing for the benefit of humanity, see section \@ref(rse). Creating better, cheaper and faster software and hardware for scientists and engineers, for example:
     - Improved climate modelling and weather forecasting
-    - Quicker development of new vaccines and drugs, technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) are already making a difference to [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery) [@Jumper2021]
+    - Quicker development of new vaccines and drugs, for example technologies like [Alphafold](https://en.wikipedia.org/wiki/AlphaFold) are already making a difference to [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery) [@Jumper2021]
     - Better healthcare, with [electronic health records](https://en.wikipedia.org/wiki/Electronic_health_record), (EHR) [personal genomics](https://en.wikipedia.org/wiki/Personal_genomics) and better diagnostic tools [@alphafoldeditorial]
 
 
