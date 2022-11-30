@@ -178,7 +178,7 @@ Once you've started to answer the design questions in the first part, you can st
 
 ### Deploying your future {#partiii}
 
-The third part of this book, looks at deployment issues that follow from you design, build and test phases above. You'll need good deployment strategies to help with the inevitable stresses and strains of building your future as shown in \@ref(fig:clifton-fig)
+The third part of this book, looks at deployment issues that follow from the design, build and test phases above. You'll need good deployment strategies to help with the inevitable stresses and strains of building your future as shown in \@ref(fig:clifton-fig)
 
 ```{r clifton-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclifton)"}
 knitr::include_graphics("images/clifton.png")
