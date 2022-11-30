@@ -64,9 +64,9 @@ The *persistent* and *lasting a long time* are important here because while its 
 <!--$F_S_A_D$-->
 
 * Forces that make you unhappy: **$F$~SAD~**
-* Forces that make you happy: **F~HAPPY~**
-* Forces that make you anxious: **F~ANXIOUS~**
-* Force that make you calm: **F~CALM~**
+* Forces that make you happy: **$F$~HAPPY~**
+* Forces that make you anxious: **$F$~ANXIOUS~**
+* Force that make you calm: **$F$~CALM~**
 
 ```{r free-body-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfreebody)"}
 knitr::include_graphics("images/Free body diagram.png")
