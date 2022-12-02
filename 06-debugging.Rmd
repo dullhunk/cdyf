@@ -201,12 +201,18 @@ Let's look at each of these sections in turn:
 
 ### Your education {#mycved}
 
-Unless you have a significant amount of experience, the `EDUCATION` section of your CV is likely to be the first real section, after the header. Your education section needs to strike a balance between:
+Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first real section, after the header see figure \@ref(fig:blair-fig). Your education section needs to strike a balance between:
 
 * Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
-* Keeping it short and sweet by avoiding getting bogged down in tedious details
+* Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant details will be of little interest to your readers
 
-You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies more description than a terse one line `BSc Computer Science`. You'll need to:
+```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
+knitr::include_graphics("images/tony-blair-education-education-education.jpeg")
+```
+
+(ref:captionblair) [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair)'s top three priorities as a new Prime Minister of the United Kingdom were `education, education, education`. [@blair] Likewise, your education should be a top priority on your CV, it should go first, unless you've got a *significant* amount of `experience`. As a graduate (or undergraduate) your education is the most recent and relevant thing about you so it should have top billing, see the discussion in figure \@ref(fig:lopez-fig). [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) portrait of Tony Blair in 2007 by the Polish Presidency on Wikimedia Commons [w.wiki/64Kd](https://w.wiki/64Kd) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies a longer description than a rather terse one line `BSc Computer Science`. You'll need to:
 
 * say *more* than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf), who haven't said enough about their University education
 * say *less* than [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree.
