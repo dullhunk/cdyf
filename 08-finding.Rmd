@@ -53,7 +53,7 @@ Thankfully, we can break it down, but there are many parameters and variables in
 1. 👨‍🔬 by role, see section \@ref(by-role)
 1. 📊 by sector, see section \@ref(by-sector)
 1. 💪 by skills, see section \@ref(by-skills)
-1. 🏖️ by location, see section \@ref(by-location)
+1. 🌍 by location, see section \@ref(by-location)
 1. 👨‍👩‍👧‍👦 by network, see section \@ref(weakties)
 1. 💰 by salary, see section \@ref(by-salary)
 1. 🏋️ by size, see section \@ref(by-size)
@@ -344,7 +344,7 @@ The following resources are aimed at *anyone* (not just undergraduates and gradu
 ```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
 knitr::include_graphics("images/google-job-search.jpg")
 ```
-(ref:captiongooglejobsearch) Keywords like `job` and `intern` in an ordinary (vanilla) google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. Here's an example from clicking through on the results of a search for [google.com/search?q=software+engineer+manchester](https://www.google.com/search?q=software+engineer+manchester). You can refine results by `title`, `location`, `date posted`, `type`, `company type` and `employer` shown across the top of the screenshot, see the text below for more examples.
+(ref:captiongooglejobsearch) Keywords like `job`, `intern` and `engineer` in an ordinary (vanilla) google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. Here's an example from clicking through on the results of a search for [google.com/search?q=software+engineer+manchester](https://www.google.com/search?q=software+engineer+manchester). You can refine results by `title`, `location`, `date posted`, `type`, `company type` and `employer` shown across the top of the screenshot, see the text below for more examples.
 
 Google job search shown in figure \@ref(fig:googlejobs-fig) is a good starting point. It doesn't index *every* job listings site, see [Google's job hunting service comes to UK](https://www.bbc.co.uk/news/technology-44853472) [@noindeed], but its a pretty good place to start.
 
@@ -375,16 +375,19 @@ Jobs boards use the **pull** approach to job hunting, you search for and pull va
 
 Publishing a portfolio of your work online will allow employers and recruiters to come and find you, as well as you searching for them. Employers shouldn't expect you to have an online portfolio and you might not want to have one, but it can help. If you choose to have a public profile, you should link to it in the header of your CV, see section \@ref(mycvpd).
 
-* **LinkedIn.com** is a social media service which allows you to put professional details online a bit like a public CV, see figure \@ref(fig:linkedin-fig) and table \@ref(tab:linkedintable). LinkedIn also advertises job vacancies [linkedin.com/jobs](https://www.linkedin.com/jobs/), is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job) and you can often [apply for jobs directly on LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) (although [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)). See [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students).
+* **LinkedIn.com** is a social media service which allows you to put professional details online a bit like a semi-public or public CV, see figure \@ref(fig:linkedin-fig) and table \@ref(tab:linkedintable). Besides allow you to advertise yourself, LinkedIn also:
+    + advertises job vacancies [linkedin.com/jobs](https://www.linkedin.com/jobs/)
+    + is [frequently visited by recruiters](https://blog.linkedin.com/2016/10/06/now-you-can-privately-signal-to-recruiters-youre-open-to-new-job)
+    + allows you to [apply for jobs directly through LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en)
+    + (although [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd))
+    + provides tutorials for students to get started [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
 
 ```{r linkedin-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionlinkedin)"}
 knitr::include_graphics("images/linkedin-profile.jpg")
 ```
 (ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows you to build a professional public profile and for employers to advertise their job vacancies. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). You can see Polly's profile at [linkedin.com/in/pollymorphism/](https://www.linkedin.com/in/pollymorphism/)
 
-* **Github.com** allows you to publish code in public repositories that everyone can see, see figure \@ref(fig:github-fig). If you're comfortable doing it, publishing your software online can be a good way of demonstrating your technical skills and knowledge but be careful publishing your coursework online, see section \@ref(mycvpj).
-
-Nothing says “*I can build software*”  quite like “*here's one I made earlier*”. [@bluepeter]
+* **Github.com** allows you to publish code in public repositories that everyone can see, see figure \@ref(fig:github-fig). If you're comfortable doing it, publishing your software online can be a good way of demonstrating your technical skills and knowledge but be careful publishing your coursework online, see section \@ref(mycvpj). Nothing says “*I can build software*”  quite like “*here's one I made earlier*”. [@bluepeter]
 
 ```{r github-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongithub)"}
 knitr::include_graphics("images/amish-github.jpg")
