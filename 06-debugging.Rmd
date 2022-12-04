@@ -203,7 +203,7 @@ Let's look at each of these sections in turn:
 
 Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first real section, after the header see figure \@ref(fig:blair-fig). Your education section needs to strike a balance between:
 
-* Describing in enough detail what you've studied and any projects you've completed at University as part of your formal education
+* Describing in enough detail what you've studied and any projects^[You could put these in a `projects` section all of their own (see section @\ref(mycvpj), but make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your formal education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant details will be of little interest to your readers
 
 ```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
