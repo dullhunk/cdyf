@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.15)  5 DEC 2022 11:17
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  6 DEC 2022 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cdyf.tex
 (./cdyf.tex
-LaTeX2e <2022-11-01>
+LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-11-02> (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
 (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
@@ -19,12 +19,12 @@ File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count187
 \c@figure=\count188
 \c@table=\count189
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip49
+\@mathmargin=\skip50
 For additional information on amsmath, use the `?' option.
 (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
@@ -80,8 +80,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen148
 \lineht@=\dimen149
 \@envbody=\toks19
-\multlinegap=\skip50
-\multlinetaggap=\skip51
+\multlinegap=\skip51
+\multlinetaggap=\skip52
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -242,17 +242,17 @@ Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
 \FV@OutFile=\write3
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip52
+\OuterFrameSep=\skip53
 \fb@frw=\dimen154
 \fb@frh=\dimen155
 \FrameRule=\dimen156
 \FrameSep=\dimen157
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip53
-\LTright=\skip54
-\LTpre=\skip55
-\LTpost=\skip56
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
 \LTchunksize=\count292
 \LTcapwidth=\dimen158
 \LT@head=\box56
@@ -290,8 +290,8 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box61
 \extrarowheight=\dimen173
 \NC@list=\toks24
-\extratabsurround=\skip57
-\backup@length=\skip58
+\extratabsurround=\skip58
+\backup@length=\skip59
 \ar@cellbox=\box62
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
@@ -299,12 +299,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count302
 \calc@Adimen=\dimen174
 \calc@Bdimen=\dimen175
-\calc@Askip=\skip59
-\calc@Bskip=\skip60
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count303
-\calc@Cskip=\skip61
+\calc@Cskip=\skip62
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box63
@@ -325,7 +325,7 @@ Package graphics Info: Driver file: xetex.def on input line 107.
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box64
 \UL@hyphenbox=\box65
-\UL@skip=\skip62
+\UL@skip=\skip63
 \UL@hook=\toks25
 \UL@height=\dimen179
 \UL@pe=\count304
@@ -335,8 +335,8 @@ Package: ulem 2019/11/18
 \ULdepth=\dimen181
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip63
-\bibsep=\skip64
+\bibhang=\skip64
+\bibsep=\skip65
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count305
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bookmark.sty
@@ -443,7 +443,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip65
+\Hy@SectionHShift=\skip66
 ) (/Users/duncan/Library/TinyTeX/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 \BKM@id=\count319
@@ -913,8 +913,8 @@ File: images/st-annes-rc-high-school.jpg Graphic file (type bmp)
 [31]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 [32]
-File: images/schools-banner.jpeg Graphic file (type bmp)
-<images/schools-banner.jpeg>
+File: images/computer-science-education.jpeg Graphic file (type bmp)
+<images/computer-science-education.jpeg>
 [33]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/dreaming-spires-oxford-sunrise.png Graphic file (type bmp)
@@ -942,23 +942,26 @@ File: cdyf_files/figure-latex/this-is-the-place-fig-1.pdf Graphic file (type pdf
 <use cdyf_files/figure-latex/this-is-the-place-fig-1.pdf>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[36] [37]
 File: images/godiva.jpeg Graphic file (type bmp)
 <images/godiva.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇪 (U+1F1EA) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[36] [37] [38]
 File: images/abisko.jpeg Graphic file (type bmp)
 <images/abisko.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[38] [39]
 Missing character: There is no 🇺 (U+1F1FA) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/BUNAC.jpeg Graphic file (type bmp)
 <images/BUNAC.jpeg>
+[39] [40]
 File: cdyf_files/figure-latex/neworld-fig-1.pdf Graphic file (type pdf)
 <use cdyf_files/figure-latex/neworld-fig-1.pdf>
-[40] [41]
+[41] [42]
 Missing character: There is no 🇺 (U+1F1FA) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇸 (U+1F1F8) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
@@ -967,14 +970,11 @@ Missing character: There is no 🇳 (U+1F1F3) in font [lmroman10-regular]:mappin
 File: images/moravian-insitute.jpg Graphic file (type bmp)
 <images/moravian-insitute.jpg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 1237) has occurred while \output is active []
-
-[42]
+[43]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/keyboard.png Graphic file (type bmp)
 <images/keyboard.png>
-[43]
+[44]
 File: cdyf_files/figure-latex/appleby-fig-1.pdf Graphic file (type pdf)
 <use cdyf_files/figure-latex/appleby-fig-1.pdf>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
@@ -982,32 +982,24 @@ Missing character: There is no 😉 (U+1F609) in font [lmroman10-regular]:mappin
 File: images/os_couples.jpeg Graphic file (type bmp)
 <images/os_couples.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-[44] [45]
 File: images/wikipedians.jpeg Graphic file (type bmp)
 <images/wikipedians.jpeg>
+[45] [46] [47]
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 6125) has occurred while \output is active []
-
-[46] [47]
 File: cdyf_files/figure-latex/tedx-galway-fig-1.pdf Graphic file (type pdf)
 <use cdyf_files/figure-latex/tedx-galway-fig-1.pdf>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[48]
 File: images/kings-of-the-mountains-col-deliseran.png Graphic file (type bmp)
 <images/kings-of-the-mountains-col-deliseran.png>
 Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇫 (U+1F1EB) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🇷 (U+1F1F7) in font [lmroman10-regular]:mapping=tex-text;!
+[48] [49]
 File: images/youtube-mocs-uptown-funk.png Graphic file (type bmp)
 <images/youtube-mocs-uptown-funk.png>
 File: images/fitzmaurice-grammar-school.jpeg Graphic file (type bmp)
 <images/fitzmaurice-grammar-school.jpeg>
-[49]
 Missing character: There is no 💪 (U+1F4AA) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/st-laurence-school-logo.png Graphic file (type bmp)
 <images/st-laurence-school-logo.png>
@@ -1032,16 +1024,13 @@ File: images/st-laurence-school-logo.png Graphic file (type bmp)
 File: images/st-laurence-school-logo.png Graphic file (type bmp)
 <images/st-laurence-school-logo.png>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[50] [51]
+[50]
 File: images/hillary-clinton.jpeg Graphic file (type bmp)
 <images/hillary-clinton.jpeg>
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/radipole-lake.jpeg Graphic file (type bmp)
 <images/radipole-lake.jpeg>
-[52] [53]
+[51] [52]
 File: images/Thank-you-NHS.png Graphic file (type bmp)
 <images/Thank-you-NHS.png>
 Missing character: There is no ❤ (U+2764) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1088,14 +1077,11 @@ Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
 Missing character: There is no ώ (U+03CE) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no 🙏 (U+1F64F) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ≈ (U+2248) in font [lmroman10-regular]:mapping=tex-text;!
-[54]
+[53] [54]
 File: images/faces.jpeg Graphic file (type bmp)
 <images/faces.jpeg>
 File: cdyf_files/figure-latex/ie-fig-1.pdf Graphic file (type pdf)
 <use cdyf_files/figure-latex/ie-fig-1.pdf>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 [55]
 Underfull \hbox (badness 1616) in paragraph at lines 1481--1482
 \TU/lmr/m/n/10 The \TU/lmr/m/it/10 text \TU/lmr/m/n/10 of this guidebook is published under the []Creative Commons
@@ -1103,9 +1089,10 @@ Underfull \hbox (badness 1616) in paragraph at lines 1481--1482
 
 File: images/by-nc-nd.png Graphic file (type bmp)
 <images/by-nc-nd.png>
+[56] [57]
 File: images/CC-attribution-1.png Graphic file (type bmp)
 <images/CC-attribution-1.png>
-[56] [57] [58] [59] [60
+[58] [59] [60
 
 ] [61] [62]
 Chapter 1.
@@ -1557,9 +1544,6 @@ Missing character: There is no 🏆 (U+1F3C6) in font [lmroman10-regular]:mappin
 Missing character: There is no 🏆 (U+1F3C6) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ❓ (U+2753) in font [lmroman10-regular]:mapping=tex-text;!
-
-LaTeX Warning: Reference `(' on page 174 undefined on input line 4547.
-
 [174]
 File: images/tony-blair-education-education-education.jpeg Graphic file (type bmp)
 <images/tony-blair-education-education-education.jpeg>
@@ -1969,9 +1953,9 @@ Overfull \hbox (28.58997pt too wide) in paragraph at lines 6270--6271
 
 File: images/linkedin-profile.jpg Graphic file (type bmp)
 <images/linkedin-profile.jpg>
+[227] [228]
 File: images/amish-github.jpg Graphic file (type bmp)
 <images/amish-github.jpg>
-[227] [228] [229]
 File: images/pezoverflow.png Graphic file (type bmp)
 <images/pezoverflow.png>
 
@@ -1984,7 +1968,7 @@ Underfull \hbox (badness 1394) in paragraph at lines 6314--6314
 \TU/lmr/m/n/10 shot shows a profile of former Computer Science student Pez Cuckow:
  []
 
-[230]
+[229] [230]
 File: images/recruiters-are.png Graphic file (type bmp)
 <images/recruiters-are.png>
 [231]
@@ -2032,6 +2016,9 @@ Missing character: There is no 🤮 (U+1F92E) in font [lmroman10-regular]:mappin
 File: images/Rollercoaster-ride.png Graphic file (type bmp)
 <images/Rollercoaster-ride.png>
 Missing character: There is no 🎢 (U+1F3A2) in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 5893) has occurred while \output is active []
+
 [240]
 Missing character: There is no ⏸ (U+23F8) in font [lmmono10-regular]:!
 Missing character: There is no ️ (U+FE0F) in font [lmmono10-regular]:!
@@ -2897,57 +2884,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 782--786
  []
 
 [437]
-Underfull \hbox (badness 10000) in paragraph at lines 855--859
+Underfull \hbox (badness 10000) in paragraph at lines 860--864
 [] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][][] [] [][] [] [][] [][] [] [][] [] [][]
  []
 
 [438]
-Underfull \hbox (badness 3679) in paragraph at lines 931--936
+Underfull \hbox (badness 3679) in paragraph at lines 936--941
 []\TU/lmr/m/n/10 Johnson, H. (2020).  The ’forgotten school’ with nine head teach-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 931--936
+Underfull \hbox (badness 3189) in paragraph at lines 936--941
 \TU/lmr/m/n/10 ers in 10 years - and the man with a plan to turn it around.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 931--936
+Underfull \hbox (badness 10000) in paragraph at lines 936--941
 []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][] [] [][] [] [][] [] [][][][] [] [][][][][][][] [][] [][][][][][][][][][] [][]
  []
 
 [439] [440] [441]
-Underfull \hbox (badness 10000) in paragraph at lines 1288--1293
+Underfull \hbox (badness 10000) in paragraph at lines 1293--1298
 []$[][][][][] [] [] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][] [] [][][][][] [][] [][][][][] [][] [][][][][][][][][] [] [][][][][][][][][][] [][]
  []
 
-[442]
-Underfull \hbox (badness 3417) in paragraph at lines 1389--1393
+[442] [443]
+Underfull \hbox (badness 3417) in paragraph at lines 1394--1398
 []\TU/lmr/m/n/10 Richards, S. (2019b).  Why people do not read online.  []$[][][][][] [] [] []
  []
 
-[443]
-Underfull \hbox (badness 7344) in paragraph at lines 1491--1496
+
+Underfull \hbox (badness 7344) in paragraph at lines 1496--1501
 []\TU/lmr/m/n/10 Sandwell, I. (2020).  Educating greater manchester: What hap-
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 1491--1496
+Underfull \hbox (badness 2376) in paragraph at lines 1496--1501
 \TU/lmr/m/n/10 pened to drew povey? harrop fold school is now under different
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 1491--1496
+Underfull \hbox (badness 1642) in paragraph at lines 1496--1501
 \TU/lmr/m/n/10 leadership.  []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][][][] [] [][][][][][][][][] [][] [][][][][][][] [][]
  []
 
 [444] [445] [446]
-Underfull \hbox (badness 10000) in paragraph at lines 1731--1736
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1741
 [][][][] [] [][][] [] [][] [] [][][] [][] [][][][][] [][] [][] [][] [][] [][] [][][][] [][] [][][][][] [][] [][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [][] [][] [][] [][][] [][] [][] [][]
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 1746--1749
+Underfull \hbox (badness 1178) in paragraph at lines 1751--1754
 []\TU/lmr/m/n/10 togetherall (2020).  A quick look inside togetherall.  []$[][][][][] [] [] [] [][][][][] [] [][] []
  []
 
@@ -2960,11 +2947,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 26408 strings out of 477623
- 558480 string characters out of 5839481
- 1051731 words of memory out of 5000000
- 46999 multiletter control sequences out of 15000+600000
- 476865 words of font info for 99 fonts, out of 8000000 for 9000
+ 26406 strings out of 477620
+ 558748 string characters out of 5839442
+ 1051154 words of memory out of 5000000
+ 47002 multiletter control sequences out of 15000+600000
+ 476857 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,15n,121p,2875b,1130s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
