@@ -247,7 +247,7 @@ knitr::kable(job_table, caption = "The practicalities of applying for vacancies,
 ```
 
 ### By values {#by-values}
-Besides the necessary value of making a profit or balancing the books, which is all employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can:
+Besides the balancing the books, which is what all employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9.js"></script>')
@@ -343,8 +343,7 @@ The following resources are specifically tailored to undergraduate students and 
 knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
 ```
 
-(ref:captionwaggle) If you're a University of Manchester student, the *Wednesday Waggle* is your weekly roundup of opportunities before and after graduation, which is also available at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). Bees symbolise community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
-
+(ref:captionwaggle) If you're a University of Manchester student, the *Wednesday Waggle* is your weekly roundup of opportunities before and after graduation. The jobs newsletter is also available at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). Bees symbolise community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
 
 
 ### For any job seekers {#generaljobs}
@@ -353,7 +352,7 @@ The following resources are aimed at *anyone* (not just undergraduates and gradu
 ```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
 knitr::include_graphics("images/google-job-search.jpg")
 ```
-(ref:captiongooglejobsearch) Keywords like `job`, `intern` and `engineer` in an ordinary (vanilla) google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. Here's an example from clicking through on the results of a search for [google.com/search?q=software+engineer+manchester](https://www.google.com/search?q=software+engineer+manchester). You can refine results by `title`, `location`, `date posted`, `type`, `company type` and `employer` shown across the top of the screenshot, see the text below for more examples.
+(ref:captiongooglejobsearch) Keywords like `job`, `intern` and `engineer` in an ordinary (vanilla) google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. Here's an example from clicking through on the results of a search for `software engineer manchester` ([google.com/search?q=software+engineer+manchester](https://www.google.com/search?q=software+engineer+manchester)). You can refine results by `title`, `location`, `date posted`, `type`, `company type` and `employer` shown across the top of the screenshot. See the text below for more examples.
 
 Google job search shown in figure \@ref(fig:googlejobs-fig) is a good starting point. It doesn't index *every* jobs board, see [Google's job hunting service comes to UK](https://www.bbc.co.uk/news/technology-44853472) [@noindeed], but its a pretty good place to start.
 
@@ -401,7 +400,7 @@ knitr::include_graphics("images/linkedin-profile.jpg")
 ```{r github-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongithub)"}
 knitr::include_graphics("images/amish-github.jpg")
 ```
-(ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of Computer Science student Amish Shah: [github.com/amishshah](https://github.com/amishshah)
+(ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of Computer Science student Amish Shah: [github.com/amishshah](https://github.com/amishshah) Thanks Amish for permission to use your profile as an example.
 
 * **Stackoverflow.com** You've probably already cut-and-pasted solutions from the question and answer forum Stack Overflow. You can also create a profile on Stack Overflow too, see figure \@ref(fig:overflow-fig). As of March 2021 the site had over 14 million registered users, and had received over 21 million questions and 31 million answers.
 

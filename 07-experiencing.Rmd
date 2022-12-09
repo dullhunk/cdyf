@@ -195,12 +195,13 @@ Experience as a section of your CV usually means *paid* work. However, experienc
 ### Hacking & tinkering experience {#tinkering}
 Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as a solo project or collaboratively. For example, why not build an experimental:
 
-* Home media centre?
+* Hackable^[hackable by you, not the burglars, obvs] burglar alam?
 * DIY smart energy meter?
+* Home media centre or [network attached storage](https://en.wikipedia.org/wiki/Network-attached_storage) (NAS)?
 * Plant watering system for when you go on holiday?
-* See also [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) for inspiration
+* See also [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) and [online.coolestprojects.org](https://online.coolestprojects.org/) for inspiration
 
-Yes, these projects are amateurish, but tinkering and hacking will clearly demonstrate your passion for learning and engineering. Apart from being fun, weekend hacks can look *great* in the `projects` section of your CV, see section \@ref(mycvpj).
+Yes, these projects are amateur, but tinkering and hacking clearly demonstrates your passion for learning and engineering. Apart from being fun, weekend hacks can look *great* in the `projects` section of your CV, see section \@ref(mycvpj).
 
 ```{r hackathon-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhackathon)"}
 knitr::include_graphics("images/hackathon.jpeg")
