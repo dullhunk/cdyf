@@ -243,7 +243,7 @@ job_table <- tibble::tribble(
   "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
   "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
 )
-knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers compared to [small and medium sized enterprises](https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises) (SMEs)", booktabs = TRUE)
+knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers compared to small and medium sized enterprises (SMEs)", booktabs = TRUE)
 ```
 
 ### By values {#by-values}
