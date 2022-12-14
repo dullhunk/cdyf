@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  11 DEC 2022 19:49
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  14 DEC 2022 07:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1480,6 +1480,9 @@ Missing character: There is no ♦ (U+2666) in font [lmroman10-regular]:mapping=
 Missing character: There is no 🃏 (U+1F0CF) in font [lmroman10-regular]:mapping=tex-text;!
 File: images/wikijoker.jpeg Graphic file (type bmp)
 <images/wikijoker.jpeg>
+
+Underfull \vbox (badness 1571) has occurred while \output is active []
+
 [157] [158] [159] [160]
 File: images/DeathStar2.jpg Graphic file (type bmp)
 <images/DeathStar2.jpg>
@@ -2929,37 +2932,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 936--941
  []
 
 [437] [438] [439]
-Underfull \hbox (badness 10000) in paragraph at lines 1293--1298
+Underfull \hbox (badness 10000) in paragraph at lines 1298--1303
 []$[][][][][] [] [] [] [][][] [] [][][][][][][][] [] [][][] [] [][][][][] [] [][][][][] [][] [][][][][] [][] [][][][][][][][][] [] [][][][][][][][][][] [][]
  []
 
 [440] [441]
-Underfull \hbox (badness 3417) in paragraph at lines 1394--1398
+Underfull \hbox (badness 3417) in paragraph at lines 1404--1408
 []\TU/lmr/m/n/10 Richards, S. (2019b).  Why people do not read online.  []$[][][][][] [] [] []
  []
 
-
-Underfull \hbox (badness 7344) in paragraph at lines 1496--1501
+[442]
+Underfull \hbox (badness 7344) in paragraph at lines 1506--1511
 []\TU/lmr/m/n/10 Sandwell, I. (2020).  Educating greater manchester: What hap-
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 1496--1501
+Underfull \hbox (badness 2376) in paragraph at lines 1506--1511
 \TU/lmr/m/n/10 pened to drew povey? harrop fold school is now under different
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 1496--1501
+Underfull \hbox (badness 1642) in paragraph at lines 1506--1511
 \TU/lmr/m/n/10 leadership.  []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][][][] [] [][][][][][][][][] [][] [][][][][][][] [][]
  []
 
-[442] [443] [444]
-Underfull \hbox (badness 10000) in paragraph at lines 1736--1741
+
+Underfull \hbox (badness 1270) in paragraph at lines 1547--1551
+[]\TU/lmr/m/n/10 Sedgwick, R. (2019).  Should computer science be required?  []$[][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1547--1551
+[] [] [][][] [] [][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [][][][] [] [][] [] [][] [] [][][] [][] [][][][][] [][] [][][][][][][] [][] [][][][][][] [][]
+ []
+
+[443] [444]
+Underfull \hbox (badness 10000) in paragraph at lines 1748--1753
 [][][][] [] [][][] [] [][] [] [][][] [][] [][][][][] [][] [][] [][] [][] [][] [][][][] [][] [][][][][] [][] [][][][][][][][][][] [][] [][][][][] [][] [][][][][][][] [][] [][] [][] [][][] [][] [][] [][]
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 1751--1754
+Underfull \hbox (badness 1178) in paragraph at lines 1763--1766
 []\TU/lmr/m/n/10 togetherall (2020).  A quick look inside togetherall.  []$[][][][][] [] [] [] [][][][][] [] [][] []
  []
 
@@ -2972,12 +2985,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 26427 strings out of 477620
- 559338 string characters out of 5839442
- 1052252 words of memory out of 5000000
- 47022 multiletter control sequences out of 15000+600000
+ 26433 strings out of 477620
+ 559437 string characters out of 5839442
+ 1054325 words of memory out of 5000000
+ 47028 multiletter control sequences out of 15000+600000
  476857 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,15n,121p,2875b,1130s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,15n,121p,2875b,1134s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on cdyf.pdf (447 pages).
