@@ -243,7 +243,7 @@ job_table <- tibble::tribble(
   "Who"      , "Typically receive high volume of applications per vacancy", "Typically receive lower volume of applications per vacancy",
   "Process"  , "Unlikely to consider speculative applications", "May consider speculative or informal applications",
 )
-knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers and small to medium sized enterprises (SMEs)", booktabs = TRUE)
+knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers compared to [small and medium sized enterprises](https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises) (SMEs)", booktabs = TRUE)
 ```
 
 ### By values {#by-values}
@@ -358,11 +358,11 @@ The following resources are aimed at *anyone* (not just undergraduates and gradu
 ```{r googlejobs-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captiongooglejobsearch)"}
 knitr::include_graphics("images/google-job-search.jpg")
 ```
-(ref:captiongooglejobsearch) Keywords like `job`, `intern` and `engineer` in an ordinary (vanilla) google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. Here's an example from clicking through on the results of a search for `software engineer manchester` ([google.com/search?q=software+engineer+manchester](https://www.google.com/search?q=software+engineer+manchester)). You can refine results by `title`, `location`, `date posted`, `type`, `company type` and `employer` shown across the top of the screenshot. See the text below for more examples.
+(ref:captiongooglejobsearch) Keywords like `job`, `internship` and `engineer` in an ordinary (vanilla) google search will trigger Google's job search product, an enhanced search feature that aggregates listings from many different jobs boards. Here's an example from clicking through on the results of a Google search for `software internship` ([google.com/search?q=software+internship](https://www.google.com/search?q=software+internship)). You can refine your search results by `title`, `location` (`Manchester` automatically selected here because of my IP address), `date posted`, `type`, `company type` and `employer` shown across the top of the screenshot. See the text below for more examples.
 
 Google job search shown in figure \@ref(fig:googlejobs-fig) is a good starting point. It doesn't index *every* jobs board, see [Google's job hunting service comes to UK](https://www.bbc.co.uk/news/technology-44853472) [@noindeed], but its a pretty good place to start.
 
-* Google job search indexes jobs advertised by many of the resources mentioned in this chapter. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) structured using [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job` and `intern` in an ordinary (vanilla) google search will trigger the job search product, as shown in the following examples:
+* Google job search indexes jobs advertised by many of the resources mentioned in this chapter. You can use google job search use to find internships, placements and graduate jobs anywhere in the world, as well as saving vacancies and setting up job alert notifications by email. If you haven't used it already try the searches below. Unlike other sites, Google job search works by indexing embedded [microdata](https://en.wikipedia.org/wiki/Microdata_(HTML)) structured using [schema.org/JobPosting](https://schema.org/JobPosting). Keywords like `job` and `internship` in an ordinary (vanilla) google search will trigger the job search product, as shown in the following examples:
 
     -[google.com/search?q=software+engineering+intern+manchester](https://www.google.com/search?q=software+engineering+intern+manchester)
 
@@ -399,7 +399,7 @@ Publishing a portfolio of your work online will allow employers and recruiters t
 ```{r linkedin-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionlinkedin)"}
 knitr::include_graphics("images/linkedin-profile.jpg")
 ```
-(ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows you to build a professional public profile and for employers to advertise their job vacancies. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). You can see Polly's profile at [linkedin.com/in/pollymorphism/](https://www.linkedin.com/in/pollymorphism/)
+(ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows you to build a professional public profile and for employers to advertise their job vacancies. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). You can see Polly's profile at [linkedin.com/in/pollymorphism](https://www.linkedin.com/in/pollymorphism/)
 
 * **Github.com** allows you to publish code in public repositories that everyone can see, see figure \@ref(fig:github-fig). If you're comfortable doing it, publishing your software online can be a good way of demonstrating your technical skills and knowledge but be careful publishing your coursework online, see section \@ref(mycvpj). Nothing says “*I can build software*”  quite like “*here's one I made earlier*”. [@bluepeter]
 
