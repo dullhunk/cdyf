@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  21 DEC 2022 10:26
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.12.6)  22 DEC 2022 09:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1115,9 +1115,6 @@ Underfull \vbox (badness 1460) has occurred while \output is active []
 ] [64]
 File: images/lemninspire.jpeg Graphic file (type bmp)
 <images/lemninspire.jpeg>
-
-Underfull \vbox (badness 2343) has occurred while \output is active []
-
 [65]
 File: images/nobody-cares-about-your-career-except-you2.jpeg Graphic file (type bmp)
 <images/nobody-cares-about-your-career-except-you2.jpeg>
@@ -1381,7 +1378,17 @@ Underfull \vbox (badness 1348) has occurred while \output is active []
 
 [131
 
-] [132] [133]
+] [132]
+Underfull \hbox (badness 2512) in paragraph at lines 3614--3616
+[]\TU/lmr/m/n/10 a predominantly [science, technology, engineering, and mathemat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3614--3616
+\TU/lmr/m/n/10 ics]([]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][][][][] [][] [][][][][][][][][][][] [][] [][][][][][][][][][][][] [][]
+ []
+
+[133]
 File: images/Achilles-Heel-to-Superpower.png Graphic file (type bmp)
 <images/Achilles-Heel-to-Superpower.png>
 [134]
@@ -1399,13 +1406,14 @@ File: images/the-pen-is-mightier-than-the-sword.jpeg Graphic file (type bmp)
 [136] [137] [138]
 File: images/rosetta-stone.jpeg Graphic file (type bmp)
 <images/rosetta-stone.jpeg>
-[139] [140]
+[139]
 File: images/luis-von-ahn.jpeg Graphic file (type bmp)
 <images/luis-von-ahn.jpeg>
+[140]
 File: images/churchill.jpeg Graphic file (type bmp)
 <images/churchill.jpeg>
 
-Underfull \vbox (badness 1466) has occurred while \output is active []
+Underfull \vbox (badness 4366) has occurred while \output is active []
 
 [141]
 Missing character: There is no 🐶 (U+1F436) in font [lmroman10-regular]:mapping=tex-text;!
