@@ -721,29 +721,37 @@ Even if *nobody* reads your covering letter, it is still worth writing one becau
 
 You can think of your covering letter as writing and rehearsing some of the lines of your elevator pitch shown in figure \@ref(fig:elevator-fig).
 
-### Embedded statement? {#bullshit}
-You might be tempted to embed a short summary or `personal statement` section on your CV. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from Professor Hotair who holds the Chair of Rhetoric at the University of Poppleton:
+### Embedding a personal statement {#bullshit}
+You might be tempted to embed a short summary or `personal statement` section at the top of your CV after your header. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from **Professor Hotair** who holds the Chair of Rhetoric at the [University of Poppleton](https://www.timeshighereducation.com/academic/laurie):
 
-`I have a proven track record of delivering excellent teaching and outstanding experiences for all of my students, whatever their background. I am also a committed and persistent leader who can deliver large and ambitious projects on time and to budget. This makes me capable of leading cross-disclipinary teams of colleagues towards excellent and innovative results inline with strategic educational objectives.`
+::: {.rmdnote}
 
-Are you persuaded by this personal statement? I hope you are not convinced because it [smells of bullshit](https://en.wikipedia.org/wiki/On_Bullshit), see figure \@ref(fig:bullshit-fig). One of the reasons the statement smells so bad is because it makes lots of assertions without providing any evidence. It seems like Professor Hotair might be trying to persuade us with no regard for the truth or the facts. Without evidence, it is hard to tell which assertions are true or false, so the whole statement risks being ignored as bullshit or lies. [@onbullshit]
+`I have a proven track record of delivering excellent teaching and outstanding experiences for all of my students, whatever their background. I am also a committed and diligent leader who can deliver large and ambitious projects on time and to budget. This makes me capable of leading cross-disclipinary teams of colleagues towards excellent and innovative results that align closely with strategic educational objectives.`
+
+:::
+
+Are you persuaded by this personal statement? I *hope* you are not convinced because it [smells of bullshit](https://en.wikipedia.org/wiki/On_Bullshit), see figure \@ref(fig:bullshit-fig). One of the reasons the statement smells dodgy is because it makes lots of assertions without providing any actual evidence. Is Professor Hotair trying to persuade us to disregard the truth? Without evidence, it is hard to tell which of their assertions are true or false, so the whole statement risks being ignored as bullshit or lies. [@onbullshit]
 
 ```{r bullshit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbullshit)"}
 knitr::include_graphics("images/on-bullshit.jpeg")
 ```
 
-(ref:captionbullshit) Yes, your CV is trying to persuade the reader to invite you to an interview. Being persuasive doesn't mean you have to tell lies or try and *bullshit* your reader. People who have to read your CV will probably be trawling through *hundreds* of others too. This means your readers will have *highly trained* bullshit detectors, so you should avoid having bullshit in your CV. Fair use image of the cover of Harry G. Frankfurt's book *[On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)* [@onbullshit] via Wikimedia Commons [w.wiki/6Bnu](https://w.wiki/6Bnu) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionbullshit) Yes, your CV is trying to persuade the reader to invite you to an interview. However, being persuasive doesn't mean you have to try and *bullshit* your reader or tell lies. People who have to read your CV will probably be trawling through *hundreds* of others too. This means your readers will have *highly trained* bullshit detectors, so you should avoid wasting their valuable time by shovelling even more bullshit onto their overloaded plates. Fair use image of the cover of [Harry G. Frankfurt](https://en.wikipedia.org/wiki/Harry_Frankfurt)'s best selling little book *[On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)* [@onbullshit] via Wikimedia Commons [w.wiki/6Bnu](https://w.wiki/6Bnu) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 On a one page CV, you rarely have space to include any of this kind of hot air anyway. High level statements usually fit better on a covering letter see section \@ref(we3qs). A shorter, less *bullshitty* personal statement from a student is shown below:
 
+::: {.rmdnote}
+
 `Hello, my name is Mike Rokernel. I am a second year student in Computer Science at the University of Poppleton looking for an industrial placement in software engineering`
 
-Is this better? Personally, I think you should only be including a personal statement on your CV if you've got space to do so because you'll probably just repeat facts from your CV anyway, like Mike's example above. There are usually much more interesting things you can say about yourself on your CV. 
+:::
+
+Is this better? Personally, I think you should only be including a personal statement on your CV if you've got space to do so because you'll probably just repeat facts from your CV anyway, like Mike's example above. Save the beautiful rhetorical prose for your covering letters. There are usually much more interesting and appetising things you can say about yourself on your CV. 💩
 
 ## Debugging summary {#tldr7}
 (ref:tldr)
 
-In this chapter we have looked at how to debug your future, with a particular focus on your CV (or résumé). If you fix the bugs we've described here, before an employer sees your CV, you'll stand a much better chance of getting an interview. The checklist above in section \@ref(checklist) is a good place to start debugging your CV. 
+In this chapter we have looked at how to debug your future, with a particular focus on your CV (or résumé) and supporting communication. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a *much* better chance of getting an interview. The checklist above in section \@ref(checklist) is a good place to start debugging your CV. 
 
 ```{r eval=knitr::is_html_output(excludes = "epub"), manifesto-fig,echo=FALSE, fig.cap = "debugging manifesto and debugging toolkit"}
 library(tweetrmd)
@@ -752,7 +760,7 @@ include_tweet("https://twitter.com/b0rk/status/1570060516839641092")
 
 *Some* of the strategies you apply to debugging your *actual* code, can also be applied to debugging your future:
 
-* Inspect, don't squash bugs, take time to reflect (see section \@ref(reflecting)) and *understand* any bugs you find in your future
+* Inspect, don't squash bugs, take time to reflect (see section \@ref(reflecting)) and *understand* any bugs you find in your future [@pocketdebugging]
 * Being stuck is temporary, see section \@ref(nevergiveup)
 * Check your assumptions, especially if debugging the `content` bugs described in section \@ref(ilo7) makes you anxious or depressed, see chapter \@ref(nurturing)
 * Don't go it alone, grow your network, see section \@ref(weakties)
