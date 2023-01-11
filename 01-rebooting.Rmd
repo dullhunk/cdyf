@@ -287,7 +287,9 @@ Get credit for your contributions. As well as being openly accessible on the web
 
 ## Your future is different {#thinkdifferent}
 
-I'm writing this guidebook because I need a resource for students to help them design, build, test and code their futures in computing. I need a book to help me teach to students to compete for jobs while at University, or shortly after graduating. I can't find anything suitable that meets all the requirements of the students I teach. Some problems with the resources that are already out there, and how this book addresses them, are shown in table \@ref(tab:difftable)
+I'm writing this guidebook because I think students like you need resources to help you design, build, test and code your future in computing. I'm offering information, advice and guidance to help you learn to compete for jobs while at University, or shortly after graduating, in a flexible way. 
+
+I can't find anything suitable that meets all the requirements of the students I teach. Some problems with the resources that are already out there, and how this book addresses them, are shown in table \@ref(tab:difftable)
 
 :  (\#tab:difftable) *Coding your Future* is a guidebook that is different to all the other guidebooks
 
@@ -368,8 +370,15 @@ To following sections give a bit more detail on the differences outlined in tabl
 
 <!--This book aims to combine these perspectives and to be different from existing resources in the following ways:-->
 
+### Your future is flexible {#flexible}
+Nobody knows what the future holds so your future is flexible. This means you can choose and your own pace, place and pathway:
+
+* **PACE** By giving you greater control over how much, at what level, and what kind of intensity you study, I encourage you to choose your own speed. Take as much or as little as you want, see section \@ref(gut)
+* **PLACE** By offering you a greater choice over the physical and virtual spaces in which you learn - remote, on campus, online, hybrid, blended and transnational. 
+* **PATHWAY** By choosing your own path through this course, you can [Go Your Own Way](https://en.wikipedia.org/wiki/Go_Your_Own_Way). [@yourownway] Collect evidence of the parts you care about with stackable microcredentials in your lifelong learning loop, see chapter \@ref(achieving)
+
 ### Your future is signposted {#signposted}
-Some career resources claim (or imply) that they are the *all you will need* to solve a particular problem or worse: solve *all of your problems*! Just buy this book, do this course, watch this video, listen to this podcast and all your problems will go away!  Rather than continue this trend, this book **signposts** some of the most useful resources, see figure \@ref(fig:signposting-fig).
+Some career resources claim (or imply) that they are the *all you will need* to solve a particular problem or worse: solve *all of your problems*! Just buy this book, do this course, watch these videos, listen to this podcast, pass this test and all your problems will go away!  Rather than continue this trend, this book **signposts** some of the most useful resources, see figure \@ref(fig:signposting-fig).
 
 ```{r signposting-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsignposting)"}
 knitr::include_graphics("images/signposting.jpeg")
@@ -389,13 +398,13 @@ While this guidebook cites lots of resources, some of them are more important th
 I'm not suggesting that you read *all* these books right now, but that if a particular chapter has piqued your interest, these signposts are good places to keep going, if you haven't already read them. I hope you'll find these signposts handy for navigating the mountains of advice. Not all who wander are lost. 🗺️🧭
 
 ### Your future is guided  {#study}
-This guidebook to your future accompanies a course that has been co-designed by students for students, with input from academics and employers. It unites several disparate themes into one coherent story, from fundamental questions about identity and wellbeing through to more applied and practical advice on job hunting, career progression and life after University. Resources that do this are typically scattered around in many different places. There is usually no narrative to tie them all together to help students navigate the mountains of advice as they embark on the first stages of their careers. I'll guide you through the narrative, but it is a *descriptive* story rather than a *prescriptive* one, see figure \@ref(fig:descriptive-fig).
+This guidebook to your future accompanies a course that has been co-designed by students for students, with input from academics and employers. It unites several disparate themes into one coherent story, from fundamental questions about identity and wellbeing through to more applied and practical advice on job hunting, career progression and life after University. Resources that do this are typically scattered around in many different places. There is usually no narrative to tie them all together to help students navigate the mountains of advice as they embark on the first stages of their careers. I'll guide you through the narrative, but it is a flexible *descriptive* story rather than an inflexible *prescriptive* one, see figure \@ref(fig:descriptive-fig).
 
 ```{r descriptive-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondescriptive)"}
 knitr::include_graphics("images/prescriptive-vs-descriptive-pathways.png")
 ```
 
-(ref:captiondescriptive) Many formal education courses follow a *prescriptive pathway* (right), they lead you through a story from start to finish. This is the way of the University: “`our courses`” - our prospectus. This course is different, it follows a *descriptive pathway* (left) which means you pick your own way through the story. I'll guide you through the story but you'll need to choose *your* way: “`my way`”. You stood tall and faced it all. You did it [your way](https://en.wikipedia.org/wiki/My_Way). [@sinatra] [Prescriptive vs. descriptive pathways](https://bryanmmathers.com/prescriptive-vs-descriptive-pathways/) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captiondescriptive) Many formal education courses follow an inflexible *prescriptive pathway* (right), they lead you through a story from start to finish. This is the way of the University: “`our courses`” - our prospectus. This course is different, it follows a more flexible *descriptive pathway* (left) which means you pick your own way through the story. I'll guide you through the story but you'll need to choose *your* way: “`my way`”. You stood tall and faced it all. You did it [your way](https://en.wikipedia.org/wiki/My_Way). [@sinatra] [Prescriptive vs. descriptive pathways](https://bryanmmathers.com/prescriptive-vs-descriptive-pathways/) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Although this is a course guidebook used in undergraduate teaching, you don't need to be enrolled on the course to benefit from reading it, watching the videos and doing the exercises and coding challenges.
 
@@ -418,8 +427,8 @@ knitr::include_graphics("images/agile-vs-waterfall.jpeg")
 
 (ref:captionagile) [Agile software developers](https://en.wikipedia.org/wiki/Agile_software_development) make it up as they go along, whereas [waterfalling software developers](https://en.wikipedia.org/wiki/Waterfall_model) make it all up at the beginning and then live with the consequences. Quote via Paul Downey, thanks [psd](https://twitter.com/psd/status/568324759521501184). It's the same with natural language engineering (books). I'm making it up as I go along, using agile book development methods. Women who code image by Justice Okai Allotey via Wikimedia Commons [w.wiki/3Xnk](https://w.wiki/3Xnk) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-### Your future is personal {#firstperson}
-A lot of scientific and technical writing is written in the third person or passive voice, which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told personal stories to illustrate key points.
+### Your future is personal & emotional {#firstperson}
+A lot of scientific and technical writing is written in the third person or passive voice. It can be cold and impersonal which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told people's stories, to illustrate key points. There's plenty of emotion here too, because job searching can be an emotional rollercoaster: from anxiety, joy, depression, frustration, hope, anger and engligtenment - it's all here. 
 
 ### Your future has no paywall {#openaccess}
 You don't need to pay anything to read this book online because its not hiding behind a [paywall](https://en.wikipedia.org/wiki/Paywall), see section \@ref(license). Publishing this guidebook online makes it findable and accessible, something that isn't true of knowledge locked up inside other books.
