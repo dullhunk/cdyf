@@ -110,7 +110,7 @@ cat('see https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd')
 Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
 ### By location {#by-location}
-Pick a location. London? Manchester? Paris? Geneva? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? Depending on the location, this will determine the options that are available:
+Pick a location. Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? Depending on the location, this will determine the options that are available:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb.js"></script>')
