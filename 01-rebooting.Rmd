@@ -428,12 +428,20 @@ knitr::include_graphics("images/agile-vs-waterfall.jpeg")
 (ref:captionagile) [Agile software developers](https://en.wikipedia.org/wiki/Agile_software_development) make it up as they go along, whereas [waterfalling software developers](https://en.wikipedia.org/wiki/Waterfall_model) make it all up at the beginning and then live with the consequences. Quote via Paul Downey, thanks [psd](https://twitter.com/psd/status/568324759521501184). It's the same with natural language engineering (books). I'm making it up as I go along, using agile book development methods. Women who code image by Justice Okai Allotey via Wikimedia Commons [w.wiki/3Xnk](https://w.wiki/3Xnk) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 ### Your future is personal & emotional {#firstperson}
-A lot of scientific and technical writing is written in the third person or passive voice. It can be cold and impersonal which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. [@googler] Where relevant, I've told people's stories, to illustrate key points. There's plenty of emotion here too, because job searching can be an emotional rollercoaster: from anxiety, joy, depression, frustration, hope, anger and engligtenment - it's all here. 
+A lot of scientific and technical writing is written in the third person or passive voice. It can be cold and impersonal which is fine for academic writing, but can alienate readers. I have opted to use first person narrative where possible as it is shorter, and hopefully more engaging for you to read. Where relevant, I've told people's stories, to illustrate key points. There's plenty of emotion here too, because job searching can be an emotional rollercoaster: from anxiety, joy, depression, frustration, hope, anger and englightenment - it's all here. 
 
-### Your future has no paywall {#openaccess}
-You don't need to pay anything to read this book online because its not hiding behind a [paywall](https://en.wikipedia.org/wiki/Paywall), see section \@ref(license). Publishing this guidebook online makes it findable and accessible, something that isn't true of knowledge locked up inside other books.
+### Your future has no paywall or login {#openaccess}
+You don't need to pay anything to read this book online because its not hiding behind a [paywall](https://en.wikipedia.org/wiki/Paywall), see the license in section \@ref(license). Publishing this guidebook online makes it findable and accessible, something that isn't true of knowledge locked up inside other books. Your future is openly accessible, see figure \@ref(fig:nopaywall-fig).
 
-Because this guidebook is online, it is searchable, browsable and linkable. You can link to whatever level you like, top level, chapter level and to every section and subsection level. Everything important has a Uniform Resource Locator ([URL](https://en.wikipedia.org/wiki/URL)).
+```{r nopaywall-fig, echo = FALSE, fig.show = "hold", out.width = "32%", fig.cap = "(ref:captionnopaywall)"}
+knitr::include_graphics(rep("images/padlock.png", 3))
+```
+
+(ref:captionnopaywall) Your future has no [paywall](https://en.wikipedia.org/wiki/Paywall) or login. You do not need to pay, enrol, register or remember your username and password because the content of this book is openly accessible. Unlocked padlock image by Simpleicon on Wikimedia Commons [w.wiki/6Df3](https://w.wiki/6Df3) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238). 
+
+Because this guidebook is openly available online, it is searchable, browsable and linkable too. Everything important has a link, aka a Uniform Resource Locator ([URL](https://en.wikipedia.org/wiki/URL)) including all chapters, sections, subsections, figures, citations and tables. 
+
+There are no usernames or passwords because your future has no login. You don't need to pay, enrol or register for this course. Search and browse this material whenever and however you like, on a mobile, tablet, desktop - it doesn't matter.
 
 <!--###
 The FAIR principles have been followed in writing this book.[@FAIR] not really interoperable or reusable?
@@ -441,8 +449,6 @@ There are algorithms {#algo}
 We've suggested some algorithms to help you start.
 They're not ready yet-->
 
-### Your future has no login {#nologin}
-You don't need to enrol or register for this course, neither will you need to login to anything to use this guidebook either. There are no usernames or passwords because your future has no login. Search and browse this material whenever and however you like, mobile, tablet, desktop - it doesn't matter.
 
 ### Your future is audible and watchable {#av}
 This book is not just words and pictures, but includes audio and video as well, especially:
