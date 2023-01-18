@@ -4,7 +4,6 @@
 
 It's all very well *designing* your future but now you need to actually engineer it by *testing* and *building*. An obvious place to start is with your CV or résumé, because that's where most people get going. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
 
-
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
 knitr::include_graphics("images/Features not bugs.png")
 ```
@@ -36,7 +35,7 @@ knitr::include_graphics("images/gayle-black-hole.jpeg")
 
 If you're applying to big employers, you'll need to create a CV that is good enough to stand out before it disappears over the [event horizon](https://en.wikipedia.org/wiki/Event_horizon) and into an employers black hole, see section \@ref(rejection). Employer practices vary, but according to some estimates the person reading your CV will typically:
 
-* Spend around **7 seconds** (or less!) deciding if it is interesting
+* Spend around **7 seconds** (or less!) deciding if your CV is interesting enough to shortlist
 * Shortlist about **20%** of the all CVs they get sent
 * Interview about **2%** of the candidates on their shortlist
 
