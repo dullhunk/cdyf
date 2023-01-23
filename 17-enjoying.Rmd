@@ -89,7 +89,7 @@ knitr::include_graphics(rep("images/the-beatles.jpeg", 3))
 
 (ref:captionbeatles) [John](https://en.wikipedia.org/wiki/John_Lennon), [Paul](https://en.wikipedia.org/wiki/Paul_McCartney), [Ringo](https://en.wikipedia.org/wiki/Ringo_Starr) and [George](https://en.wikipedia.org/wiki/George_Harrison) (aka The Beatles) are from Liverpool in Lancashire. Public domain image of The Beatles in New York City in 1964 via Wikimedia Commons at [w.wiki/5UJy](https://w.wiki/5UJy)
 
-Bursting with Lancastrian Red Roses (see figure \@ref(fig:roses-fig)) this playlist will educate and entertain you in equal measure, [while my keyboard gently weeps](https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps) [@weeps]. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) shown in figure \@ref(fig:robbie-williams-fig), let me entertain you... 
+Bursting with Lancastrian Red Roses (see figure \@ref(fig:roses-fig)) this playlist will educate and entertain you in equal measure, [while my keyboard gently weeps](https://en.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps) [@weeps]. To paraphrase [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) shown in figure \@ref(fig:robbie-williams-fig), [Let Me ~~Entertain~~ Educate You](https://en.wikipedia.org/wiki/Let_Me_Entertain_You_(Robbie_Williams_song))... 
 
 ```{r robbie-williams-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionrobbie)"}
 knitr::include_graphics("images/let-me-entertain-you-let-me-educate-you.jpeg")

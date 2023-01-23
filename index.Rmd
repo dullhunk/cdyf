@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [hulld.bib, cdyf-playlist.bib, cdyf-signposts.bib, cdyf-references.bib, sigcse-journal-club-references.bib, nap.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Your future is bright, your future is coding. Welcome to coding your future. This guidebook will teach you how to design, build, test, deploy and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
+description: "Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
 url: 'https\://www.cdyf.me/'
 github-repo: dullhunk/cdyf
 cover-image: "images/Coding-your-Future-CDYF.png"
@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/Coding-your-Future-CDYF.png")
 ```
-Your future is bright, your future is coding. Hello and welcome to *Coding Your Future* at [`www.cdyf.me`](https://www.cdyf.me). This guidebook will help you to design, build, test, deploy and `code` your future in computing. Also available as a free ebook and pdf (see section \@ref(downloading)), this guide is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
+Your future is bright, your future needs coding. Welcome to *Coding Your Future* at [`www.cdyf.me`](https://www.cdyf.me), the guidebook that will help you to design, build, test and `code` your future in computing. Also available as a free ebook and pdf (see section \@ref(downloading)), this guide is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
 * *where* in the world you are studying
 * what *stage* of your degree you are at, from first year through to final year
