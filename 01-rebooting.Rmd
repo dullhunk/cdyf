@@ -451,12 +451,12 @@ They're not ready yet-->
 
 
 ### Your future is audible and watchable {#av}
-This book is not just words and pictures, but includes audio and video as well, especially:
+This book is not just words and pictures, but includes audio and video as well, for example:
 
-1. videos produced by third parties that are worth watching
-1. audio produced by third parties that are worth listening to, either individual episodes or whole series
-1. short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
-1. the *Coding Your Future* podcast (Hearing Your Future) which interviews undergraduate students, see figure \@ref(fig:hyf-fig) chapter \@ref(hearing)
+* videos produced by third parties that are illustrate key points
+* audio produced by third parties that are illustrate key points, either individual episodes or whole series
+* short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
+* the *Coding Your Future* podcast (Hearing Your Future) which interviews undergraduate students, see figure \@ref(fig:hyf-fig) chapter \@ref(hearing)
 
 ```{r hyf-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionhyf)"}
 knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
