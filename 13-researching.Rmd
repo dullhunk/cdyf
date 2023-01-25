@@ -44,13 +44,18 @@ So will you choose University **OR** real life in the longer term? With all the 
 http://pgbovine.net/PhD-memoir.htm-->
 
 ## Ask beyond academia {#prof}
-If you're thinking about doing a PhD and going into research, it's obviously a good idea to talk to Professors and academics about what is involved. Don't just ask Professors though, talk to PhD students, [postdocs](https://en.wikipedia.org/wiki/Postdoctoral_researcher) and especially people who did a PhD but didn't go into academia. Most people with a PhD don't go on into academia as a career. [@postdochell] This means that asking a Professor if you should do a PhD is a bit like asking a Hollywood film star if you should become an actor. The film star can only give you part of the story that is likely to suffer from [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). [@therock]
+If you're thinking about doing a PhD and going into research, it's obviously a good idea to talk to Professors and academics about what is involved. Don't just ask Professors though, talk to PhD students, [postdocs](https://en.wikipedia.org/wiki/Postdoctoral_researcher) and especially people who did a PhD but didn't go into academia. Most people with a PhD don't go on into academia as a career. [@postdochell] A PhD gives you lots of transferable skills but ask for advice outside and inside academia, see figure \@ref(fig:dwayne-fig)
 
-```{r eval=knitr::is_html_output(excludes = "epub"), therock-fig,echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/dullhunk/status/1519405195456917509")
+```{r dwayne-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondwayne)"}
+knitr::include_graphics("images/dwayne.jpeg")
 ```
+
+(ref:captiondwayne) Asking a Professor if you should do a PhD is a bit like asking a Hollywood film star if you should become an actor. The film star can only give you part of the story and is likely to suffer from [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias). [@therock] CC BY-SA Portrait of [Dwayne Johnson](https://en.wikipedia.org/wiki/Dwayne_Johnson) by Eva Rinaldi via Wikimedia Commons [w.wiki/6FyW](https://w.wiki/6FyW)
+
+
+
 <!--survivorship bias needs illustrating see https://github.com/dullhunk/cdyf/issues/218 -->
+
 
 
 ## Breakpoints {#rbreakpoints}

@@ -152,8 +152,10 @@ Now, don't be disillusioned by the statistics because any degree can open doors 
 
 ```{r eval=knitr::is_html_output(excludes = "epub"), gsoc-tweet-fig, echo=FALSE, fig.cap = "test caption"}
 library(tweetrmd)
-include_tweet("https://twitter.com/UniversitiesUK/status/1513439211059306497")
+tweet_screenshot(tweet_url("UniversitiesUK", "1513439211059306497"))
 ```
+
+<!--include_tweet("https://twitter.com/UniversitiesUK/status/1513439211059306497")-->
 
 What the data in figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look **beyond** your formal education to distinguish yourself from your competition. Your degree can certainly help you start a career, and computer geekery is a commercially valuable skill but a degree (however geeky) is typically not enough by itself.
 
