@@ -67,7 +67,7 @@ You can of course *augment* your CV with various public digital profiles such as
 
 ## It's not a bug, it's a feature! {#trope}
 
-An age old trope in Computer Science that engineers use to pass off their mistakes as deliberate features is the bug/feature distinction, see \@ref(fig:notabug-fig).
+An age old trope in Computer Science that engineers use to pass off their mistakes as deliberate features is the bug/feature distinction, see figure \@ref(fig:notabug-fig).
 
 ```{r notabug-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionnotabug)"}
 knitr::include_graphics("images/notabug.jpeg")
