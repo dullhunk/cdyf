@@ -319,22 +319,11 @@ So, if you have studied some flavour of Computer Science at the University of Ma
 knitr::include_url('https://www.youtube.com/embed/Vvv_btq-MRs')
 ```
 
-(ref:captionfoxdog) Former Computer Science students Peter Sutton and Lloyd Henning of [foxdogstudios.com](https://foxdogstudios.com/) demonstrate their Robot Chef. Thanks Pete and Lloyd for the inspiration and the guest lectures [@youtube-foxdog]
-
+(ref:captionfoxdog) Former Computer Science students Peter Sutton and Lloyd Henning of [foxdogstudios.com](https://foxdogstudios.com/) demonstrate their Robot Chef. Thanks Pete and Lloyd for the all the comedy, inspiration and guest lectures [@youtube-foxdog]
 
 I'd especially like to thank current and former industrial experience (IE) students who have completed a year in industry as part of their degree as well as those who have done summer internships, either as part of the Master of Engineering (MEng) program or otherwise, particularly (in alphabetical order) Matt Akerman, [Sami Alabed](https://github.com/samialabed), Teodora Balmos, Luke Beamish, Eirik Björnerstedt, Liam Breeze, Jingxuan Chen, [Raluca Cruceru](https://www.cdyf.me/raluca), [Petia Davidova](https://www.youtube.com/channel/UCDmn8CxaXGxZSKq83vhzULw), Maximilian Gama, Mihail Ghinea, David Green, [Lloyd Henning](https://github.com/eldog), Cristian Ilin, [Călin Ilie](https://github.com/calini), [Sneha Kandane](https://www.cdyf.me/sneha), Joshua Langley, Struan McDonough, Milen Orfeev, [Jason Ozuzu](https://www.cdyf.me/jason), [Alice Păcuraru](https://www.cdyf.me/alice), [Carmen Práxedes](https://www.cdyf.me/carmen), Kristina Radinova, Tom Robinson, [Teodora Stoleru](https://github.com/teostoleru), [Peter Sutton](https://github.com/dj-foxxy), Kamil Synak, Boris Vasilev and [Brian Yim Tam](https://www.cdyf.me/brian). In addition, the [PASS leaders](http://www.pass.manchester.ac.uk) and facilitators, ([PASS2-2021](https://sites.google.com/view/compscipass2-2021), [PASS2-2020](https://sites.google.com/view/compsci-pass), PASS2-2019 etc), [UniCSmcr.com](https://unicsmcr.com/), [HackSoc](https://github.com/unicsmcr/hacksoc.com), [CSSoc](https://github.com/cssoc) and [Manchester Ultimate Programming](https://github.com/Man-UP) members have all been influential on the content of this book. I've learned heaps by manually trawling through thousands of your CVs too, so if you've shown me a copy of your CV, thanks! Chapter \@ref(debugging) on *Debugging your future* (self assessment) and chapter \@ref(hacking) on *Hacking your future* (peer assessment) are based on the most common bugs (or are they features?) I've seen in CVs.
-<!--
-```{r, results = "asis", echo = FALSE, message = FALSE}
-library(dplyr)
-contributors <- readr::read_csv("data/contributions-from-students.csv", col_types = list())
-contributors <- contributors %>%
-  mutate(
-    link = glue::glue("[\\@{handle}]({link})"),
-    desc = ifelse(is.na(fullname), link, glue::glue("{fullname} ({link})"))
-  )
-cat(paste0(contributors$desc, collapse = ", "))
-```
--->
+
+<!--Use mutate here https://github.com/dullhunk/cdyf/issues/14-->
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
@@ -348,18 +337,7 @@ So, thank you students for being studious. 🙏
 
 Thanks to all the organisations who have employed students from the Department of Computer Science as either summer interns, year long placements or graduates. A big chunk of this guidebook documents their experience of employers and their graduate recruitment programs.
 
-<!--
-```{r, results = "asis", echo = FALSE, message = FALSE}
-library(dplyr)
-contributors <- readr::read_csv("data/employers.csv", col_types = list())
-contributors <- contributors %>%
-  mutate(
-    link = glue::glue("[{employer}]({link})"),
-    desc = ifelse(is.na(employer), link, glue::glue("{employer}{link}"))
-  )
-cat(paste0(contributors$desc, collapse = ", "))
-```
--->
+<!--use mutate here e.g. https://github.com/dullhunk/cdyf/issues/14-->
 
 Thanks to Niall Beard and [Sharif Salah](https://github.com/sharifsalah) at Google for introducing me to Google's Technical Writing course in section \@ref(techwriting). Writing is rewriting!
 
@@ -408,7 +386,7 @@ So thanks academics for being even more sceptical than Christopher Hitchens, see
 
 #### Thank you professional services staff {#psstaff}   
 
-Thanks also to the superb support staff (past and present) from professional services, especially the Academic Support Office (ACSO), Student Support Office (SSO) and external affairs office in the Kilburn building. Professional services staff continue to make all the magic of teaching and learning possible: Alyx Adams, Daniele Atkinson, Cassie Barlow, Jasmine Barrow, Jennie Ball-Foster, Emma Bentley, Christine Bowers, Ian Bradley, Karen Butterworth, Miriam Cadney, Chris Calland, Ben Carter, Chris Connolly, Hannah Cousins, Amanda Conway, Ellie Crompton, Jean Davison, Holly Dewsnip, Gavin Donald, Kathryn Downey, Lindsay Dunn, Nicola Evans, Tammy Goldfeld, Penney Gordon-Lanes, Amelia Graham, Charlotte Hart, Iain Hart, Kath Hopkins, Sarah Howard, Lynn Howarth, Yvonne Hung, Susie Hymas, Radina Ivanova, Dan Jagger, Alex Jones, Jeremy Jones, Jessicca Kateryniuk-Smith, Mike Keeley, Stephanie Lee, Dominic Laing, Gill Lester, Jez Lloyd, Ruth Maddocks, Cameron Macdonald, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Matthew Oakley, Alyson Owens, Chris Page, Carly Peesapati, Melanie Price, Abby Ragazzon-Smith, Chris Rhodes, Stephen Rhodes, Graham Richardson, Martin Ross, Emily Sagues, Julian Skyrme, Elaine Sheehan, Angela Standish, Martine Storey, Bernard Strutt, Hannah Thomas, Jannine Thomas, Joseph Tirone, Daisy Towers, Karen Varty, Anna Warburton-Ball, Richard Ward, Sarah White, Elizabeth Wilkinson, Andrew Whitmore, Lisa Wright and Mabel Yau.
+Thanks also to the superb support staff (past and present) from professional services, especially the Academic Support Office (ACSO), Student Support Office (SSO) and external affairs office in the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building). Professional services staff continue to make all the magic of teaching and learning possible: Alyx Adams, Daniele Atkinson, Cassie Barlow, Jasmine Barrow, Jennie Ball-Foster, Emma Bentley, Christine Bowers, Ian Bradley, Karen Butterworth, Miriam Cadney, Chris Calland, Ben Carter, Chris Connolly, Hannah Cousins, Amanda Conway, Ellie Crompton, Jean Davison, Holly Dewsnip, Gavin Donald, Kathryn Downey, Lindsay Dunn, Nicola Evans, Tammy Goldfeld, Penney Gordon-Lanes, Amelia Graham, Charlotte Hart, Iain Hart, Kath Hopkins, Sarah Howard, Lynn Howarth, Yvonne Hung, Susie Hymas, Radina Ivanova, Dan Jagger, Alex Jones, Jeremy Jones, Jessicca Kateryniuk-Smith, Mike Keeley, Stephanie Lee, Dominic Laing, Gill Lester, Jez Lloyd, Ruth Maddocks, Cameron Macdonald, Kelly-Ann Mallon, Tony McDonald, Karon Mee, Anne Milligan, Rachel Mutters, Matthew Oakley, Alyson Owens, Chris Page, Carly Peesapati, Melanie Price, Abby Ragazzon-Smith, Chris Rhodes, Stephen Rhodes, Graham Richardson, Martin Ross, Emily Sagues, Julian Skyrme, Elaine Sheehan, Angela Standish, Martine Storey, Bernard Strutt, Hannah Thomas, Jannine Thomas, Joseph Tirone, Daisy Towers, Karen Varty, Anna Warburton-Ball, Richard Ward, Sarah White, Elizabeth Wilkinson, Andrew Whitmore, Lisa Wright and Mabel Yau.
 
 And Wendy. We all miss you and love you Wendy. [#JusticeForWendy](https://www.justgiving.com/crowdfunding/byte-cafe) ✊🏽 [Fight the Power](https://en.wikipedia.org/wiki/Fight_the_Power_(Public_Enemy_song))! ✊🏽 [@fightthepower]
 
@@ -464,7 +442,7 @@ Thanks to the [University of Bath](https://en.wikipedia.org/wiki/University_of_B
 * Steve Cooper, Chemistry
 * Malcolm Ingram, Biology
 
-<!-- vortex cannon guy https://www.youtube.com/watch?v=IyAyd4WnvhU guest speakers such as [Steve Mould](https://en.wikipedia.org/wiki/Steve_Mould)-->
+<!--see vortex cannon https://github.com/dullhunk/cdyf/issues/447 -->
 
 ```{r bath-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbath)"}
 knitr::include_graphics("images/bath-panorama.jpeg")
@@ -487,12 +465,12 @@ So thanks Shaftesbury for lessons on top of Gold Hill.
 ### Thank you Swindon {#swindon}
 Thanks to headteacher & physicist [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his team of staff, Mr M. Carter <!--m.c.-->, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. It was fun teaching you about electromagnetic waves using [Alom Shaha's](https://en.wikipedia.org/wiki/Alom_Shaha) jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
 
-
 ```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionshaha)"}
 knitr::include_url('https://www.youtube.com/embed/VE520z_ugcU')
 ```
 
 (ref:captionshaha) [Alom Shaha](https://alomshaha.com/) demonstrates his awesome wave machine. Physics and jelly babies, what's not to like? You can also watch the 4 minute video embedded in this figure at [youtu.be/VE520z_ugcU](https://youtu.be/VE520z_ugcU) [@youtube-alom]
+
 
 So thanks Swindon for being [great and western](https://en.wikipedia.org/wiki/Great_Western_Railway) and [Swindon Town Football Club](https://en.wikipedia.org/wiki/Swindon_Town_F.C.), the best football team in the whole of the [West Country](https://en.wikipedia.org/wiki/West_Country). Proper job. 🙏
 
@@ -886,7 +864,7 @@ evenmoreplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhun
 ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
 ```
 
-(ref:ieblurb) Number of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program that I have been leading since 2012. We've managed to double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
+(ref:ieblurb) Number of undergraduate students completing a year in industry as part of their degrees in Computer Science at the University of Manchester. Since 2008 over 900 students have completed the program that I have been leading since 2012. We've managed to double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
 
 I've documented some of what our students have taught me, so reading this book may help you learn from some of their successes and failures.
 
