@@ -146,16 +146,17 @@ As [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher) puts it:
 Now, don't be disillusioned by the statistics because any degree can open doors to many careers in computing. Studying *computing* opens up plenty of doors, see figure \@ref(fig:nurses-fig). According to [Charlie Ball](https://twitter.com/lmicharlie), it is a myth that there aren't enough graduate jobs; one of four myths in the UK about the graduate labour market:
 
 * **Myth 1:** *Everyone goes to university nowadays* : ~50% isn't everyone [@ballmyths]
-* **Myth 2:** *There aren’t enough graduate jobs* [@ballmyths]
+* **Myth 2:** *There aren’t enough graduate jobs*, see figure \@ref(fig:uuk-fig) [@ballmyths]
 * **Myth 3:** *Some degrees have little value to employers*, see chapter \@ref(computing)
 * **Myth 4:** *All the best graduate jobs are in London*, (or your local big city) see chapter \@ref(moving)
 
-```{r eval=knitr::is_html_output(excludes = "epub"), gsoc-tweet-fig, echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-tweet_screenshot(tweet_url("UniversitiesUK", "1513439211059306497"))
+
+```{r uuk-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionuuk)"}
+knitr::include_graphics("images/does-the-uk-have-too-many-graduates.png")
 ```
 
-<!--include_tweet("https://twitter.com/UniversitiesUK/status/1513439211059306497")-->
+(ref:captionuuk) Some people have argued that some countries have too many graduates. As of 2023, the UK has one million more professional jobs than workers with degrees, suggesting that the UK probably needs more, not fewer graduates. Image from an [orginal tweet](https://twitter.com/UniversitiesUK/status/1513439211059306497) quoting the a report by [Universities UK](https://en.wikipedia.org/wiki/Universities_UK). [@ballmyths]
+ 
 
 What the data in figure \@ref(fig:lotsofgrads-fig) show is that you'll need to look **beyond** your formal education to distinguish yourself from your competition. Your degree can certainly help you start a career, and computer geekery is a commercially valuable skill but a degree (however geeky) is typically not enough by itself.
 

@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [hulld.bib, cdyf-playlist.bib, cdyf-signposts.bib, cdyf-references.bib, sigcse-journal-club-references.bib, nap.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, submitting applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
+description: "Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future. "
 url: 'https\://www.cdyf.me/'
 github-repo: dullhunk/cdyf
 cover-image: "images/Coding-your-Future-CDYF.png"
@@ -61,7 +61,7 @@ knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 
 (ref:captionhellomyname) Hello, my name is [Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me and together we can starting coding your future. Please don't call me `Sir`, `Professor` or `Doctor`, just call me **Duncan**. Titles are tinsel! [@shelley] Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
 
-*Coding your future* explores techniques for investigating career possibilities, job searching, making career decisions, submitting applications and competing successfully in interviews and the workplace.
+*Coding your future* explores techniques for investigating career possibilities, job searching, making career decisions, writing applications and competing successfully in interviews and the workplace.
 
 Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people and what your experience is. As there is a computational theme, you will also need to reflect on what your [inputs and outputs (I/O)](https://en.wikipedia.org/wiki/Input/output) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
 

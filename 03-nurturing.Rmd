@@ -177,33 +177,21 @@ The techniques described by Santos are not merely trashy [pop psychology](https:
 ## Burnout {#burnout}
 Sometimes a desire to be productive by overworking has exactly the opposite effect, because the sacrifices you make for work can be counter-productive. If you burn too brightly you might burnout completely, see [mentalhealth-uk.org/burnout](https://mentalhealth-uk.org/burnout/). 🔥
 
-
-
-```{r eval=knitr::is_html_output(excludes = "epub"), lizandmollie-fig,echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/lizandmollie/status/1231605700960432128")
-```
+<!--see https://github.com/dullhunk/cdyf/issues/454-->
 
 Sacrificing sleep, socialising, exercise and time-out to recharge your batteries can make you *less* productive, especially in the longer term.
 
-```{r eval=knitr::is_html_output(excludes = "epub"), paulnurse-fig,echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/NobelPrize/status/1485893990910148613")
+```{r paul-nurse-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:paulnursecaption)"}
+knitr::include_url('https://www.youtube.com/embed/vI0DyPkz9JI')
 ```
 
-I'm **not** saying don't work hard. Like [Paul Nurse](https://en.wikipedia.org/wiki/Paul_Nurse), I am arguing that you shouldn't work *too* hard:
+<!-- see https://github.com/dullhunk/cdyf/issues/439 -->
 
-> “if you really want to be good you musn't work too hard. If you work too hard just hard all the
-> time you will keep going in the same direction. One big advantage of taking some relaxation is it
-> makes your brain come down and then you come and look at it freshly. When you take off the
-> pressure, to go off and go and walk for day then you can imagine new things.”
->
-> `r tufte::quote_footer('--- Paul Nurse [@paulnurse]')`
+(ref:paulnursecaption) “If you really want to be good you musn't work too hard. If you work too hard just hard all the time you will keep going in the same direction. One big advantage of taking some relaxation is it makes your brain come down and then you come and look at it freshly. When you take off the pressure, to go off and go and walk for day then you can imagine new things.” Advice from Nobel laureate [Paul Nurse](https://en.wikipedia.org/wiki/Paul_Nurse). You can also watch the 1 minute video embedded in this figure at [youtu.be/vI0DyPkz9JI](https://youtu.be/vI0DyPkz9JI) [@paulnurse]
 
+I'm **not** saying don't work hard. Like Paul Nurse in figure \@ref(fig:paul-nurse-fig), I am arguing that you shouldn't work *too* hard. So work hard but don't overwork. Overworking [will literally kill you](https://www.bbc.com/worklife/article/20210518-how-overwork-is-literally-killing-us). [@overworking]
 
-So work hard but don't overwork. Overworking [will literally kill you](https://www.bbc.com/worklife/article/20210518-how-overwork-is-literally-killing-us). [@overworking]
-
-If you're making to many sacrifices to get the grades you want, ask yourself, is it really worth it. See section \@ref(entitled), \@ref(regret) and read [Is a first class degree really that important](https://on.ft.com/3Cc4Ynh)? You may need to recalibrate your relationship and expectations of work to either recover from burnout, or stop burning out in the first place [@happyburnout]
+If you're making too many sacrifices to get the grades you want, ask yourself: is it really worth it? See section \@ref(entitled), \@ref(regret) and read [Is a first class degree really that important](https://on.ft.com/3Cc4Ynh)? You may need to recalibrate your relationship and expectations of work to either recover from burnout, or stop burning out in the first place [@happyburnout]
 
 <!-- todo: how hard should you work for first class-->
 
