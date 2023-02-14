@@ -148,7 +148,7 @@ knitr::include_graphics("images/glastonbury-festival.jpeg")
 :::
 
 ## Thanks Jim {#jimusic}
-Thanks to [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for the descriptions of the birth of electronic music installed in the Atlas lobby and museum of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) shown in figure \@ref(fig:atlassuite-fig). Some of the text from these displays has been adapted and re-used in section \@ref(electronica). [@ieeemilestones]
+Thanks to [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for the descriptions of the birth of electronic music installed in the Atlas lobby and museum of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) shown in figure \@ref(fig:atlassuite-fig). Some of the text from these displays has been adapted and re-used in section \@ref(electronica). [@ieeemilestones; @reflections]
 
 ```{r atlassuite-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionatlas)"}
 knitr::include_graphics("images/atlas-suite-kilburn-building-manchester.jpeg")
