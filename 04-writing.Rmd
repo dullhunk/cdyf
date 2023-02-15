@@ -222,9 +222,9 @@ Google occasionally delivers these technical writing courses as free sessions op
 
 ### Writing machines {#machines}
 
-There are plenty of software tools to help you write better, that go beyond simple spell-checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI). Some of these tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection is shown below:
+There are plenty of software tools (robo-writers) to help you write better, that go beyond simple spell-checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI). Some of these tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection of tools you could experiment with, if you haven't already, is shown below:
 
-* [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) see figure \@ref(fig:chatgpt-fig), [Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) and [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) [@bingai; @bardai]
+* [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) (see figure \@ref(fig:chatgpt-fig)), [Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) and [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) [@bingai; @bardai]
 * [coauthor.stanford.edu](https://coauthor.stanford.edu) a dataset built from human-AI collaborative writing [@coauthor]
 * [DrivelDefence](https://www.plainenglish.co.uk/drivel-defence.html) part of the [Plain English Campaign](https://en.wikipedia.org/wiki/Plain_English_Campaign), see also *[The Complete Plain Words](https://en.wikipedia.org/wiki/The_Complete_Plain_Words)* [@gowers]
 * [ecree.com](https://www.ecree.com) a writing tutor 
@@ -232,7 +232,7 @@ There are plenty of software tools to help you write better, that go beyond simp
 * [jasper.ai](https://www.jasper.ai/) AI powered content generator
 * [paperpal.com](https://paperpal.com) for academic writing 
 * [quillbot.com](https://quillbot.com) tool for paraphrasing 
-* [toowrite](https://www.researchinformation.info/company/toowrite) helps you to write a paper 
+* [toowrite](https://www.tswrevolution.com/) helps you to write a paper 
 * [wordtune.com](https://www.wordtune.com) summarises long documents 
 * [writefull.com](https://www.writefull.com) helps you to write, paraphrase and edit 
 
@@ -240,9 +240,9 @@ There are plenty of software tools to help you write better, that go beyond simp
 knitr::include_graphics("images/chatgpt.jpeg")
 ```
 
-(ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/) and launched in 2022. It is built on top of OpenAI's GPT-3 family of large [language models](https://en.wikipedia.org/wiki/Language_model) and has been fine-tuned using both supervised learning and reinforcement learning techniques. ChatGPT is one of several *writing machines* that you can use as an assistant to help you communicate more quickly and clearly. OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/) and launched in 2022. It is built on top of OpenAI's GPT-3 family of large [language models](https://en.wikipedia.org/wiki/Language_model) and has been fine-tuned using both supervised learning and reinforcement learning techniques. ChatGPT is one of several *writing machines* or *robo-writers* that you can use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-All of these tools will be biased by whatever data they've been trained on and encode some of the prejudices of the engineers that wrote their algorithms. Despite their limitations, they can all help you to communicate more clearly and quickly. [@mairead]
+All of these tools will be biased by whatever data they've been trained on and encode some of the prejudices of the engineers that wrote their algorithms. Despite their limitations, and the fact that we're still trying to figure out what their long term impacts will be, they can all help you to communicate more clearly and quickly. [@mairead; @noordenai; @hutsonai]
 
 ### Deliberate daily writing {#dailywrite}
 Another technique for improving your written communication is to write something every day, that might be a personal diary that only you read, or it could be something more public like blog.  Schedule a time every day, say 15 to 30 minutes when you will do this without fail. That writing could take several forms:
