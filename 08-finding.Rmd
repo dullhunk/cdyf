@@ -262,7 +262,7 @@ An employers `values` are often reflected in the organisations `culture`. What i
 ```{r pyramid-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpyramid)"}
 knitr::include_graphics("images/Manu_Cornet_pyramid.png")
 ```
-(ref:captionpyramid) Culture and values are often reflected in an employers structure. Finding out about an employers structure will help you begin to understand their `culture` and `values`, see section \@ref(soul). Creative Commons [Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/deed.en) org charts comic by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet) on Wikimedia Commons [w.wiki/5jV8](https://w.wiki/5jV8)
+(ref:captionpyramid) Culture and values are often reflected in an employers structure. Finding out about an employers structure will help you begin to understand their `culture` and `values`, see section \@ref(soul). Creative Commons [Attribution-NonCommercial-NoDerivs](https://creativecommons.org/licenses/by-nc-nd/3.0/) org charts comic by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet) at [bonkersworld.net/organizational-charts](https://bonkersworld.net/organizational-charts)
 
 Our `find_jobs()` function is useful, if only as a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment), but there's still the strategic questions of *when* you use the function and *how often* so lets look at those next.
 
