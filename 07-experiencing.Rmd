@@ -95,13 +95,34 @@ jobterm_table <- tibble::tribble(
   "Social", "Unpaid, participating in a club or society e.g. students union, sport etc",
   "Entrepreneurial", "Self-employment, freelancing, contracting, “moonlighting” in a [side job](https://en.wikipedia.org/wiki/Side_job) or starting as a [sole-trader](https://en.wikipedia.org/wiki/Sole_proprietorship) or small business",  
   "Insight", "Usually no contract of employment. One to three weeks, sometimes known as work experience, [work shadowing](https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-shadowing), spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Sometimes unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
-  "Internship", "Fixed term contract of employment, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree. Usually prior to graduation, but some employers offer *graduate internships*, which should really be called fixed-term graduate jobs (or schemes)",
+  "Internship", "Fixed term contract of employment, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree. Usually prior to graduation, but some employers offer *graduate internships* such as the [Silicon Valley Internship Program](https://siliconvalleyinternship.com/) (SVIP). These kinds of internships should really be called fixed-term graduate jobs (or schemes)",
   "Placement", "Fixed term contract of employment, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as a “sandwich” or “industrial experience” years because they typically take place in the *penultimate* (last but one) year of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html)",
   "Graduate job", "Full-time permanent contract typically working in one department of an organisation",
   "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier managerial scheme, in your first two years, you'll probably rotate around different departments in an organisation"
 )
 knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughout this guidebook to describe experience, employment and their definitions", booktabs = TRUE)
 ```
+
+
+### Summer vs. year-long experience? {#interns}
+
+You might be wondering which length of experience is better, a summer internship or a year long industrial placemnt (aka co-op). Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
+
+```{r interntable, echo = FALSE}
+intern_table <- tibble::tribble(
+    ~ ""                        , ~ "Pros",      ~ "Cons",
+  "Summer-long internship"    , "You won't pay tuition fees to your University",        "You get less time to make a good impression and learn new skills",
+  " "     , "You graduate sooner",      "Some employers don't offer summer internships, and only do year long placements",
+  "Year-long placement"    , "You get more time to make a good impression and learn more",      " You graduate later, after four years of study rather than three^[this might also be an advantage if demand if the economy is in recession]",
+    " "    , "Some employers offer two sixth-month rotations, thereby giving you a wider variety of experience",      "You will have to pay tuition fees if industrial experience is a part of your degree^[See for example [https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/)]",
+    " "    , "In the UK, there tend to be more placements available than internships, though it depends on the sector and location",      "If you hold a [student visa](https://www.gov.uk/student-visa) and [biometric residence permit](https://www.gov.uk/biometric-residence-permits) (BRP) and you need to transfer from a three year course onto a four year one in order to do a placement, you will need to extend your visa and update your BRP. This can take time and money.",
+  " "     , "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",      "Some employers don't offer year long placements, and only have summer internships",
+
+)
+knitr::kable(intern_table, caption = "Some pros and cons of a summer internship vs. a year-long placement ", booktabs = TRUE)
+```
+Although valuable, your experience of paid employment isn't the only kind of experience that employers value. What other kinds of experience are there?
+
 ### Other experience {#other}
 <!-- to do compare and contrast summer vs year long-->
 
