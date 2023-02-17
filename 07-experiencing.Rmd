@@ -106,7 +106,7 @@ knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughou
 
 ### Summer vs. year-long experience? {#interns}
 
-You might be wondering which length of experience is better, a summer internship or a year long industrial placemnt (aka co-op). Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
+You might be wondering which length of experience is better, a short summer internship or year-long industrial placemnt (aka co-op). Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
 
 ```{r interntable, echo = FALSE}
 intern_table <- tibble::tribble(
@@ -121,6 +121,12 @@ intern_table <- tibble::tribble(
 )
 knitr::kable(intern_table, caption = "Some pros and cons of a summer internship vs. a year-long placement ", booktabs = TRUE)
 ```
+
+In some cases you can do *both* a year long placement AND a summer internship, for example: 
+
+* From June of year $x$ to June of year $x + 1$: you complete a year-long placement 
+* During June, July and September of year $x+1$: you complete a summer Internship
+
 Although valuable, your experience of paid employment isn't the only kind of experience that employers value. What other kinds of experience are there?
 
 ### Other experience {#other}
