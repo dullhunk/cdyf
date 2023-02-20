@@ -4,20 +4,38 @@ Writing your thoughts down has multiple uses, or to use a programming metaphor, 
 
 ## Communication {#bff1}
 
-Writing is communication. Well Duh! I'm stating the obvious, but you will sometimes hear software engineers talking disparingly about writing `documentation`. Writing about software can be a chore, that is done at the end, if there is time. This might go some way to explaining why some software documentation is so bad because:
+Writing is communication. Well Duh! I'm stating the obvious, but you will sometimes hear software engineers talking disparingly about writing the `documentation`. Sigh.  Writing about software or hardware can be a chore, they will tell you. When engineers write about their software they often do it at the end, *if* there is time and *if* they can be bothered. This might go some way to explaining why some software documentation is so bad because:
 
-* It's written as an afterthought
-* It's might not written by the person who built it
-* The author may not be able to empathise with the reader trying to use it
-* It's been translated and mangled from another language 
+* It is probably written as an afterthought or in a hurry
+* It might not be authored by the person who designed or built the software
+* The documentation may be describing complex processes or abstract concepts
+* It has been translated and mangled from another language and something has been lost in translation
+* The author may lack empathy with their readers 
 
-Its worth stating the obvious but writing is about communication. Writing forces you to say exactly what you think. Whereas thoughts can be vague, writing that is vague doesn't communicate well. 
+A good example of this is the documentation for the distributed version control system [git](https://en.wikipedia.org/wiki/Git). While `git` is a powerful tool, it is also quite complicated. While some of the documentation is very good [@progit] other parts of it can be inpenetrable. Take this example describing a command known as `git-wave-stash` [@sigman07; @youtube-git]
+
+```md
+wave all staged stashes next to various cherry-picked non-applied applied trees
+```
+
+Can you work out what that actually means? Me neither. No doubt, you can think of many other examples where you've been reading software documentation and thought WTF? This is just one example from many. It shows why writing is important for communication. 
+
+Badly written text like the example above, fails to communicate with the reader. We've all been on the receiving end of badly written text, especially when it comes to software and hardware documentation. When its done well, writing communicates. 
+
 
 
 
 ## Recording {#bff2}
 
-Writing is about recording something that happened.
+What were you doing on the 6th March 2005? You probably don't know. You'll probably struggle to find out. I don't know either. 
+
+Besides communicating, writing records something that happened. 
+
+* Lecture notes you've written
+* Minutes from a meeting 
+* A bug you've been working on 
+
+That might be notes. Or a bug you're workign on 
 
 ## Leadership {bff3}
 
@@ -26,6 +44,9 @@ Writing can be leadership too. Ever felt moved or influenced by a piece of writi
 ## Slowing down {#bff4}
 
 Writing can help you slow down. Your brain tends to work more quickly that your fingers can type (or write). Your brain will often work faster than you can speak as well. So writing forces you to slow down and focus on a given topic or problem. 
+
+Writing forces you to say exactly what you think. Whereas thoughts can be vague and slippery, writing that is vague doesn't communicate well. 
+
 
 ## Problem solving {#bff5}
 
