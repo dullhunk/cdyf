@@ -1,8 +1,15 @@
 # Writing
 
-Writing performs many functions that we often take for granted so we need to look at those . eight reasons why writing is your new [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF). 
+Writing your thoughts down has multiple uses, or to use a programming metaphor, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these functions, because they are sometimes overlooked or taken for granted. If you don't like writing, remember that writing is actually your friend. So here are eight reasons why writing is your new [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF). 
 
 ## Communication {#bff1}
+
+Writing is communication. Well Duh! I'm stating the obvious, but you will sometimes hear software engineers talking disparingly about writing `documentation`. Writing about software can be a chore, that is done at the end, if there is time. This might go some way to explaining why some software documentation is so bad because:
+
+* It's written as an afterthought
+* It's might not written by the person who built it
+* The author may not be able to empathise with the reader trying to use it
+* It's been translated and mangled from another language 
 
 Its worth stating the obvious but writing is about communication. Writing forces you to say exactly what you think. Whereas thoughts can be vague, writing that is vague doesn't communicate well. 
 
