@@ -8,7 +8,7 @@ We all have strengths and weaknesses, and for students of Computer Science, it 
 ```{r no-writing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnowriting)"}
 knitr::include_graphics("images/Avoiding writing.png")
 ```
-(ref:captionnowriting) There are many motivations for studying computer science, unfortunately for some students, minimising the amount of reading and writing they have to do in natural languages (like English) can be one of them. You can *run* from written communication, but you can't *hide* from it. Writing a CV, covering letter or filling in an application form is just the tip of the *writing iceberg*, section \@ref(nle) outlines the some of the rest. This chapter looks at some simple techniques for improving your written communication skills. Avoidance sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionnowriting) There are many motivations for studying computer science, unfortunately for some students, minimising the amount of reading and writing they have to do in natural languages (like English) can be one of them. You can *run* from written communication, but you can't *hide* from it. Writing a CV, covering letter or filling in an application form is just the tip of the *natural language iceberg*, section \@ref(nle) outlines the some of the rest. This chapter looks at some simple techniques for improving your written communication skills. Avoidance sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 Your ability to write clearly isn't just important when putting together CV's like in figure \@ref(fig:no-writing-fig). Your ability to write clearly isn't just important when composing covering letters or filling in application forms either, it's a fundamental skill that will help you become a valued employee in the longer term. Learn to write more clearly now and you'll improve your chances of success later. Learn how to get better at writing your future. ✍️
@@ -124,13 +124,13 @@ Written communication skills are important because:
       + chapter \@ref(hacking) on *Hacking your future* for details. <!--editing your future-->
 
 ### Natural language engineering {#nle}
-As a species, we've been writing stuff down for millenia in order to communicate with each other, see figure \@ref(fig:rosetta-fig). If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing. As well as engineering `code`, they also spend a significant amount of time engineering *messages* in natural languages like english.
+As a species, we've been writing stuff down for millenia in order to communicate with each other. If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing, see figure \@ref(fig:iceberg-fig). As well as engineering `code`, they also spend a significant amount of time engineering *messages* in [natural languages](https://en.wikipedia.org/wiki/Natural_language) like english.
 
-```{r rosetta-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrosetta)"}
-knitr::include_graphics("images/rosetta-stone.jpeg")
+```{r iceberg-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniceberg)"}
+knitr::include_graphics("images/iceberg.jpeg")
 ```
 
-(ref:captionrosetta) Have you ever noticed how when people become serious about communication, they want it in [writing](https://en.wikipedia.org/wiki/Writing)? CC BY-SA image of language in Ancient Egyptian using hieroglyphic, demotic and Ancient Greek written on the [Rosetta Stone](https://en.wikipedia.org/wiki/Rosetta_Stone) by [Hans Hillewaert](https://commons.wikimedia.org/wiki/Category:Photographs_by_Hans_Hillewaert) on Wikimedia commons [w.wiki/3Ycn](https://w.wiki/3Ycn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captioniceberg) As a student you might be focussed on the tip of the *natural language iceberg* most visible at University: CV's, covering letters and the odd project report for coursework. These are just the tip of the iceberg, underneath is a tonne of other communication you'll need to write (and read) to be a successful engineer or scientist: Emails, bug reports, FAQs, case studies, white-papers, design specifications, in-code documentation, marketing, news, social media etc. So, there is a lot more to the natural language iceberg than meets the eye. Natural language iceberg by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Consider the following:
 
@@ -143,7 +143,7 @@ Consider the following:
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code) that describes itself
 * Executable specifications in test suites like [cucumber.io](https://en.wikipedia.org/wiki/Cucumber_(software))
 * Laboratory manuals and laboratory notebooks
-* The one or two page summary for management
+* The $x$ page summary for your manager(s) [@bezos; @mad]
 * [reddit.com](https://www.reddit.com/) and hacker news [news.ycombinator.com](https://news.ycombinator.com/) etc
 * User documentation, release notes
 * Case studies of software use
@@ -164,7 +164,7 @@ What do they all have in common? They're all written in natural languages like t
 knitr::include_graphics("images/luis-von-ahn.jpeg")
 ```
 
-(ref:captionvonahn) Luis von Ahn is the Chief Executive Officer (CEO) of Duolingo. Since 2012, the duolingo app has been downloaded 500 million times. Luis wishes he'd concentrated on developing his social skills earlier his career. Are you developing your hard technical skills at the expense of your softer social skills? Portrait of Luis von Ahn by EneasMx on Wikimedia commons [w.wiki/4VPU](https://w.wiki/4VPU) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionvonahn) [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn) is the Chief Executive Officer (CEO) of Duolingo. Since 2012, the duolingo app has been downloaded 500 million times. Luis wishes he'd concentrated on developing his social skills earlier his career. Are you developing your hard technical skills at the expense of your softer social skills? Portrait of Luis von Ahn by EneasMx on Wikimedia commons [w.wiki/4VPU](https://w.wiki/4VPU) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Making software isn't all about what you can do as an individual but rather how you communicate with and contribute to your team. It's easy to get carried away with your ego. Remember that most jobs require *lots* of softer people skills and collaboration, written communication is a huge part of that, alongside spoken communication see for example [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ). [@Fitzpatrick]
 
@@ -257,16 +257,6 @@ Another technique for improving your written communication is to write something
 <!--* contributing to Wikipedia-->
 
 The technique of *30 minutes per day* can be a very effective way of getting things done, incrementally over time. In my experience it works for lots of things besides writing including getting exercise (discussed in chapter \@ref(nurturing)) to gardening. [@leendertz]
-
-<!-- why write
-
-* Writing speeds your brain up "worrying about remembering one idea gets in the way of having the next. Pen and paper wick ideas." [1]
-* Writing slows your brain down, mindfulness etc
-* Writing is therapy (for the writer)
-* Writing helps the writer reflect on and clarify complicated thoughts
-* The pen is mightier than the sword (etc)
-http://www.paulgraham.com/island.html
--->
 
 ### Deliberate daily reading {#dailyread}
 Reading other people's code will improve your software engineering skills. Likewise, reading other peoples writing will improve your natural language engineering skills. Read anything, it might be novels, magazines, newspapers, stuff online or any of the books cited in chapter \@ref(reading). Find a time and place to do this every day and stick to it, see figure \@ref(fig:reading-fig)
