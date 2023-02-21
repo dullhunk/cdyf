@@ -35,17 +35,18 @@ So besides communicating, writing records what happened. If you don't write it d
 
 ## Leadership {bff3}
 
-Have ever felt moved or influenced by a piece of writing? Writing motivates. Writing influences. Writing specifies.
+Have ever felt moved or influenced by a piece of writing? Ever read something that motivated or influenced you in some way? Of course you have.
 
-Why do people study the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) more than 240 years after it was written? [@declarationofi] It's not just because it is historically important, its because somebody bothered to write it down. The seemingly mundane act of writing. Just words, written down on a piece of paper. But words that changed the course of history. 
+Why do people study the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) more than 240 years after it was written? [@declarationofi] It's not just because it was influential, its because somebody bothered to write it down. The seemingly mundane act of low technology writing, as opposed to high technology. The declaration is just words, written down on a piece of paper, but words that changed the course of history. 
 
-Whatever the size of your revolution, you'll stand much more chance of enabling it, if you write it down. This might include: 
+Whatever kind of revolution you want to start, you'll stand better chance of making it happen, if you write down your ideas in an way that people can clearly understand. This might include: 
 
-* Getting a job interview, by crafting a persuasive covering letter and CV 
-* Encouraing people to join an interesting `projects` you've started, see section \@ref(projects) 
-* Negotiating terms and conditions of a contract of employment
+* Getting a job interview, by crafting a persuasive covering letter and compellng CV 
+* Encouraging people to join `projects` you've started, see section \@ref(mycvpj) 
+* Negotiating terms and conditions of a contract of employment, you might start by email
+* Getting someone to invest in your startup or offer you some freelance or contact work
 
-So writing well won't just help you communicate and record, it will help you to become a more successful leader too.
+So writing well won't just help you communicate and record, it will help you to become a more successful leader too by specifying exactly what's in your head.
 
 ## Slowing down {#bff4}
 
