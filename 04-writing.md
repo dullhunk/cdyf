@@ -1,10 +1,10 @@
 # Writing
 
-Writing your thoughts down has multiple uses, or to use a programming metaphor, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these functions, because they are sometimes overlooked or taken for granted. If you don't like writing, remember that writing is actually your friend. So here are eight reasons why writing is your new [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF). 
+Writing has multiple uses, or to use a programming metaphor, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these functions, because they easily overlooked or taken for granted. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF). So here are eight reasons why writing is your new BFF:
 
 ## Communication {#bff1}
 
-Writing is communication. Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparingly about writing the `documentation`. Sigh. Writing about software or hardware can be a chore, they will tell you. When engineers write about their software they often do it at the end, *if* there is time and *if* they can be bothered. This might go some way to explaining why software and hardware documentation can be so bad because:
+Writing is communication. Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparingly about writing the (sigh)`documentation`. Writing about software or hardware can be a chore, engineers may tell you. If engineers bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features or bugs to added or removed. This might go some way to explaining why software and hardware documentation can be so bad because:
 
 * It is probably written as an afterthought or in a hurry
 * It might not be authored by the person who designed or built the software
@@ -12,7 +12,7 @@ Writing is communication. Well Duh! I'm stating the obvious, because you will so
 * It may have been mangled with the original meaning lost in translation to a different (natural) language
 * The author may lack empathy with their readers 
 
-A good example of this is the documentation for the distributed version control system [git](https://en.wikipedia.org/wiki/Git). While `git` is a powerful tool, it is also quite complicated. Some of the documentation is very good [@progit] but other parts of it can tend towards inpenetrable jargon-ridden nonsense. Take this example describing a command known as `git-wave-stash` [@sigman07; @youtube-git]
+A good example of this is the documentation for the distributed version control system [git](https://en.wikipedia.org/wiki/Git). While `git` is a powerful tool that is worth learning to use, like most powerful tools, it is also quite complicated. Some of the documentation on git is very good [@progit] but other parts of it tend towards inpenetrable jargon-ridden nonsense. Take this example describing a command known as `git-wave-stash` [@sigman07; @youtube-git]
 
 ```md
 wave all staged stashes next to various cherry-picked non-applied applied trees
@@ -20,31 +20,31 @@ wave all staged stashes next to various cherry-picked non-applied applied trees
 
 Can you work out what that actually means? Me neither. No doubt, you can think of many other examples where you've been reading documentation and thought `WTF`? This is just one example from many that shows why good writing is crucial for communication. 
 
-Badly written text like the example above, fails to communicate with the reader. We've all been on the receiving end of badly written text, especially when it comes to software and hardware documentation. When its done well, writing communicates what needs to be communicated.
+Badly written text like the example above, fails to communicate with the reader. We've all been on the receiving end of badly written prose, especially when it comes to software and hardware documentation. When it is done well, writing communicates in ways that readers can actually understand quickly.
 
 
 ## Recording {#bff2}
 
-What were you doing on the 6th March 2005? You probably don't know and you'll probably struggle to find out. I don't know either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what's happening. If it is important, it is probably worth writing down. Sometimes things you think are trivial are still worth writing down as they can come in handly later. 
+What were you doing on the 6th March 2005? You probably don't know and you'll probably struggle to find out. I don't know either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened. If it is important, it is probably worth writing down. Even things you think are trivial are still worth writing down as they can come in handly later. 
 
-* Minutes from a meeting 
+* Minutes from a meeting,  
 * Lecture notes you've written
 * A bug you've been working on including how you fixed it 
 
-So besides communicating, writing records what happened. If you don't write it down, it might just disappear forever without trace. The person you'll be communicating with isn't just other people, it might be your future self. Your future you might really need to know, and it could save you *hours* of re-figuring out how to solve a problem you've already solved.
+So besides communicating, writing records what happened. If you don't write it down, it might just disappear forever without trace. The audience you'll be communicating with isn't just other people, it might be your future self. Your future you might *really* need to know how you fixed that bug, and it could save you *hours* of re-figuring out how to solve a problem you've already solved.
 
 ## Leadership {bff3}
 
 Have ever felt moved or influenced by a piece of writing? Ever read something that motivated or influenced you in some way? Of course you have.
 
-Why do people study the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) more than 240 years after it was written? [@declarationofi] It's not just because it was influential, its because somebody bothered to write it down. The seemingly mundane act of low technology writing, as opposed to high technology. The declaration is just words, written down on a piece of paper, but words that changed the course of history. 
+Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence). We're still talking about more than 240 years after it was written. [@declarationofi] People are still writing plays about it.  It's not just because it was influential, its because somebody bothered to write it down. The seemingly mundane act of low technology writing, as opposed to high technology. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
 
-Whatever kind of revolution you want to start, you'll stand better chance of making it happen, if you write down your ideas in an way that people can clearly understand. This might include: 
+You say you want a revolution? Well, you know, we all want to change the world. [@revolution] Whatever kind of revolution you want to start or join, you'll stand a much better chance of making it happen, if you write down your ideas in an way that people can clearly understand. This might include mini-revolutions such as: 
 
 * Getting a job interview, by crafting a persuasive covering letter and compellng CV 
 * Encouraging people to join `projects` you've started, see section \@ref(mycvpj) 
 * Negotiating terms and conditions of a contract of employment, you might start by email
-* Getting someone to invest in your startup or offer you some freelance or contact work
+* Getting someone to invest in your startup or offer you some freelance or contract work
 
 So writing well won't just help you communicate and record, it will help you to become a more successful leader too by specifying exactly what's in your head.
 
