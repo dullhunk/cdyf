@@ -42,10 +42,13 @@ Communicating with other people and working in teams is inherently difficult bec
 * **THE GOOD NEWS** is, people can be diligent, humble, competent, honest, caring and reliable. They can be co-operative, generous, supportive, kind, thoughtful, intelligent, sensitive, understanding, punctual and professional too!
 * **THE BAD NEWS** is, unfortunately people can also be lazy, stupid, ignorant, vain, incompetent, dishonest, unreliable, greedy, egomaniacal, unpredictable and moody. They can be proud, selfish, competitive, lustful, angry, envious, mean, busy, insensitive and thoughtless too. Some will disagree with you, boss you around, betray, exploit, misunderstand and mislead you, deliberately or otherwise. [@sevendeadly]
 
-This *shouldn't* be news to you but it means communicating with and understanding other people can be hard work, but don't worry, **everyone** finds this challenging, it's not just you! It doesn't matter if you're an extrovert or an introvert, communication is a challenge for everybody, and everyone can get better at it too. It’s easy to undervalue the importance of communication because we do it everyday. Scientists and engineers can be particularly bad at this, often overlooking the importance of written and spoken language. It probably doesn’t help that in the UK, and many other countries, many students in the latter stages of their education, choose either
+This *shouldn't* be news to you but it means communicating with and understanding other people can be hard work, but don't worry, **everyone** finds this challenging, it's not just you! It doesn't matter if you're an extrovert or an introvert, communication is a challenge for everybody, and everyone can get better at it too. It’s easy to undervalue the importance of communication because we do it everyday. Scientists and engineers can be particularly bad at this, often overlooking the importance of written and spoken language. It probably doesn’t help that in the UK, and many other countries, many students in the latter stages of their education, choose between **EITHER**:
 
-* a predominantly [science, technology, engineering, and mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM) path OR
-* an “artier” humanities path 
+* a predominantly [science, technology, engineering, and mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM) pathway 
+
+**OR**:
+
+* an “artier” or allegedly more “creative” humanities pathway 
 
 This means that [the two cultures](https://en.wikipedia.org/wiki/The_Two_Cultures) of humanities and science are thriving, but still living in separate houses like an estranged and bickering couple. [@twocultures] In the worst case scenario, two cultures in society produces:
 
@@ -174,18 +177,18 @@ Making software isn't all about what you can do as an individual but rather how 
 
 ## Writing your future {#BFF}
 
-Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially engineers and scientists. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
+Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially engineers and scientists. We read and write everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
 
 ```{r bff-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbff)"}
 knitr::include_graphics("images/8 reasons why writing is your new BFF.png")
 ```
 
-(ref:captionbff) Eight reasons why writing is your new Best Friend Forever (BFF). 1. Communication 2. Recording 3. Leadership 4. Slowing down 5. Problem solving 6. Process not product 7. Therapy and 8. Speeding up. B.F.F. by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionbff) Eight reasons why writing is your new Best Friend Forever (BFF). `1.` Communication, see section \@ref(communicating) `2.` Recording, see section \@ref(recording) `3.` Leadership, see section \@ref(leadership) `4.` Slowing down, see section \@ref(slowing) `5.` Problem solving, see section \@ref(solving) `6.` Process not product, see section \@ref(product) `7.` Therapy, see section \@ref(therapy) and `8.` Speeding up, see section \@ref(accelerating). B.F.F. by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 So let's expand on each of the reasons in figure \@ref(fig:bff-fig) why writing is your new BFF:
 
-### Communication {#communicating}
-Writing is communication, see figure \@ref(fig:comms-fig). Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparingly about writing the (*sigh*)`documentation`. 
+### Writing as communication {#communicating}
+Writing is communication, see figure \@ref(fig:comms-fig). Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparagingly about writing the (*sigh*)`documentation`. 
 
 ```{r comms-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncomms)"}
 knitr::include_graphics("images/8 reasons why writing - Communication.png")
@@ -193,15 +196,15 @@ knitr::include_graphics("images/8 reasons why writing - Communication.png")
 
 (ref:captioncomms) Your writing will often communicate better if you spend a bit more time and effort making it clearer. [Tin can telephone](https://en.wikipedia.org/wiki/Tin_can_telephone) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Engineers may sometimes tell you that writing about their software or hardware can be a chore. If they bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features or bugs to added or removed. This might go some way to explaining why software and hardware documentation can be so bad because:
+Engineers may sometimes tell you that writing about their software or hardware can be a chore. If they bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features or bugs to be added or removed. This might go some way to explaining why software and hardware documentation can be so bad because:
 
 * It is probably written as an afterthought or in a hurry
 * It might not be authored by the person who designed or built the software
 * The documentation may be describing complex processes or very abstract concepts
 * It may have been mangled with the original meaning lost in translation to a different (natural) language
-* The author may lack empathy with their readers 
+* The author may lack empathy with their readers^[Unfortunatley this is very common in Computing!] 
 
-A good example of this is the documentation for the distributed version control system [git](https://en.wikipedia.org/wiki/Git). While `git` is a powerful tool that is worth learning to use, like most powerful tools, it is also quite complicated. Some of the documentation on git is very good [@progit] but other parts of it tend towards impenetrable jargon-ridden nonsense. Take this example highlighted by [Santiago Perez De Rosso](https://github.com/spderosso) from the documentation describing a command known as `git-wave-stash` [@youtube-git]
+A good example of this is the documentation for the distributed version control system [git](https://en.wikipedia.org/wiki/Git). While `git` is a powerful tool that is worth spending time learning about, like most powerful tools, it is also quite complicated. Some of the documentation on git is very good [@progit] but other parts of it tend towards impenetrable jargon-ridden nonsense. Take this example selected by [Santiago Perez De Rosso](https://github.com/spderosso) from the documentation describing a command known as `git-wave-stash` [@youtube-git]
 
 
 > wave all staged stashes next to various cherry-picked non-applied applied trees
@@ -210,21 +213,21 @@ A good example of this is the documentation for the distributed version control 
 
 Can you work out what that actually means? Me neither. No doubt, you can think of many other examples where you've been reading documentation and thought `WTF`? This is just one example from many that shows why good writing is crucial for communication. 
 
-Badly written text like the example above, fails to communicate with the reader. We've all been on the receiving end of badly written prose, especially when it comes to software and hardware documentation. When it is done well, writing communicates in ways that readers can actually understand quickly.
+Badly written text like the example above, fails to communicate with the reader. We've all been on the receiving end of badly written prose, especially when it comes to software and hardware documentation. When it is done well, writing quickly communicates what readers actually need to understand.
 
 
-### Recording {#recording}
+### Writing as recording {#recording}
 
-What were you doing on the 6th March 2005? You probably don't know and you'll probably struggle to find out. I don't know either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
+What were you doing on the March 6th 2005? You probably don't know and I'll bet you would probably struggle to find out. I don't know what I was doing on March 6th 2005 either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
 
 ```{r start-record-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrecording)"}
 knitr::include_graphics("images/8 reasons why writing - Recording.png")
 ```
 
-(ref:captionrecording) If you don't write it down there will be no record that it actually happened. Whatever *it* was. While its difficult to know in advance exactly what you'll need to record, the safest option is to write it down anyway, just in case. Old school reel to reel [tape recorder](https://en.wikipedia.org/wiki/Tape_recorder) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionrecording) If you don't write it down there will be no record that it actually happened, whatever *it* was. While it is difficult to know in advance exactly what you might need to record, the safest option is to write as much of it as you can anyway, just in case. Old school reel to reel [tape recorder](https://en.wikipedia.org/wiki/Tape_recorder) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
-If it is important, it is probably worth writing down. Even things you think are trivial are still worth writing down as they might turn out to be important later:
+If it *might* be important, it is *probably* worth writing down. Even things you think are trivial are still worth writing down as they might turn out to be important later:
 
 * Minutes from a meeting  
 * Lecture notes you've written
@@ -234,15 +237,15 @@ If it is important, it is probably worth writing down. Even things you think are
 
 So besides communicating, writing records what happened. If you don't write it down, it might just disappear forever without trace. The audience you'll be communicating with isn't just other people, it might be your future self. The future you might *really* need to know how you fixed that bug, and it could save you *hours* of re-figuring out how to solve a problem you've already solved.
 
-### Leadership {#leadership}
+### Writing as leadership {#leadership}
 
-Have ever felt moved or influenced by a piece of writing, see figure \@ref(fig:constitution-fig)? Ever read something that motivated or influenced you in some way? Of course you have.
+Have ever felt moved or influenced by a piece of writing, like in figure \@ref(fig:constitution-fig)? Ever read something that motivated or influenced you to do something? Of course you have.
 
 ```{r constitution-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionconstitution)"}
 knitr::include_graphics("images/8 reasons why writing - Leadership.png")
 ```
 
-(ref:captionconstitution) *We hold these truths to be self-evident, that all men are created equal...* Just words on a piece of paper, but words that lead. United States Constitution sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionconstitution) *We hold these truths to be self-evident, that all men are created equal...* Just words on a piece of paper, but words that lead. Declaration sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence). We're still talking about more than 240 years after it was written. [@declarationofi] It's not just because it was influential, it's because somebody bothered to write it down. The seemingly mundane and low technology act of humble writing. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
 
@@ -255,9 +258,9 @@ You say you want a revolution? Well, you know, we all want to change the world. 
 
 So writing well won't just help you communicate and record, it will help you to become a more successful leader too by specifying exactly what you mean so you can convince other people.
 
-### Slowing down {#slowing}
+### Writing as slowing down {#slowing}
 
-Your brain tends to work *much* more quickly than your fingers can type or your hands can write. Your brain will often work faster than you can speak as well. Writing can slow that process down to something more manageable and concrete, by focussing on a given topic or problem, see figure \@ref(fig:slowing-fig).
+Your brain tends to work *much* more quickly than your fingers can type or your hands can write. Your brain will often work much faster than you can speak as well. Writing can slow that process down to something more manageable and concrete, by focussing your thoughts on a given topic or problem, see figure \@ref(fig:slowing-fig).
 
 ```{r slowing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionslowing)"}
 knitr::include_graphics("images/8 reasons why writing - Slowing down.png")
@@ -267,9 +270,9 @@ knitr::include_graphics("images/8 reasons why writing - Slowing down.png")
 
 Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. Getting that level of precision and accuracy takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite]
 
-### Problem solving {#solving}
+### Writing as problem solving {#solving}
 
-Ever got stuck on a difficult problem? Ever tried writing that problem down or articulating the problem to a rubber duck? There's something about writing a problem down or articulating a problem to another person. Even a rubber duck will do, see figure \@ref(fig:rubber-duck-fig). So writing can be a useful technique for solving problems, even if nobody else reads what you've written. 
+Ever got stuck on a difficult problem? Ever tried writing that problem down or articulating the problem to a rubber duck? There's something about writing a problem down or articulating a problem to another person. Even a rubber duck will do, see figure \@ref(fig:rubber-duck-fig). So writing can be a useful technique for solving problems, even if nobody else ever reads what you've written or heard what you've spoken.
 
 ```{r rubber-duck-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionduck)"}
 knitr::include_graphics("images/8 reasons why writing - Problem Solving.png")
@@ -280,7 +283,7 @@ knitr::include_graphics("images/8 reasons why writing - Problem Solving.png")
 By the time you've written that [stackoverflow.com](https://stackoverflow.com/) question about a techincal problem you are struggling to solve, your brain may have figured it out. This is much more likely to happen if you articulate the problem in words, either written down or spoken, to a rubber duck. 
 
 
-### Process not product {#product}
+### Writing as process (not product) {#product}
 
 When you are writing a CV, résumé or a covering letter, the *product* of your writing is the most important output. But sometimes, it is the *process* of writing that matters more than the product, see figure \@ref(fig:process-fig).
 
@@ -289,9 +292,9 @@ When you are writing a CV, résumé or a covering letter, the *product* of your 
 knitr::include_graphics("images/8 reasons why writing - Process (not product).png")
 ```
 
-(ref:captionprocess) Sometimes the *process* of writing (the blue bit) is more important than the *product* of writing, the red output. Process sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionprocess) Sometimes the *process* of writing (the blue bit) is more important than the *product* of writing (the red output). Process sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Here are some examples where the process of writing can be more important than the product:
+Here are some examples where the process of writing can be more important than its product:
 
 * Taking notes helps you concentrate on what a speaker is saying 
 * Writing a reflection which forces you to analyse on what has happened and what you'll do next, see section \@ref(reflecting). Cognitive psychologists call this [metacognition](https://en.wikipedia.org/wiki/Metacognition), thinking about thinking 
@@ -308,7 +311,7 @@ knitr::include_graphics("images/8 reasons why writing - Therapy.png")
 
 (ref:captiontherapy) Dear Diary ... The therapeutic effects of writing are well documented, writing doesn't *have* to be read by anyone to benefit the writer. Therapy sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
-Prime minister [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill) found that writing helped to keep the “black dog” of his depression under control, see section \@ref(depression) and figure \@ref(fig:winston-fig).
+The UK Prime Minister [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill) found that writing helped to keep the “black dog” of his depression under control, see section \@ref(depression) and figure \@ref(fig:winston-fig).
 
 ```{r winston-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwinston)"}
 knitr::include_graphics("images/churchill.jpeg")
@@ -319,14 +322,14 @@ knitr::include_graphics("images/churchill.jpeg")
 So writing can be therapeutic, a powerful tool for developing [mindfulness](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/) as well as communicating with other people.
 
 
-### Speeding up {#accelerating}
+### Writing as speeding up {#accelerating}
 
 As well as slowing your brain down discussed in section \@ref(slowing), writing can also speed it up by *wicking* ideas like a [candle wick](https://en.wikipedia.org/wiki/Candle_wick) does for candle wax. Without the wick, the candle wax can't undergo the chemical reaction to make carbon dioxide and water. As the software engineer [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) puts it:  
 
 > “If I can't write things down, worrying about remembering one idea gets in the way of having the next. Pen and paper wick ideas”
 > `r tufte::quote_footer('--- Paul Graham [@theislandtest]')`
 
-Writing down your ideas or solutions will often help you refine them and generate even more new ones shown in figure  \@ref(fig:wicking-fig).
+Writing down your ideas or solutions will often help you refine them and generate even more new ones shown in figure \@ref(fig:wicking-fig).
 
 ```{r wicking-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwicking)"}
 knitr::include_graphics("images/8 reasons why writing - Speeding up.png")
@@ -358,11 +361,18 @@ You might want to choose carefully where you do this as it might look a bit stra
 
 A screen reader will often reveal mistakes you haven't spotted by reading your text silently.
 
-### Try Google's Tech Writing course {#techwriting}
+### Try Google's Tech Writing courses {#techwriting}
 Google have developed some excellent written communication courses for software engineers, and those looking to become technical writers:
 
 1. Technical Writing One: Technical Writing Fundamentals for Engineers [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
 1. Technical Writing Two: Intermediate Technical Writing for Engineers [developers.google.com/tech-writing/two](https://developers.google.com/tech-writing/two)
+
+
+```{r googleplex-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionplex)"}
+knitr::include_graphics("images/googleplex.jpeg")
+```
+
+(ref:captionplex) While engineers can write code, they often struggle to communicate effectively in written natural languages like English. Technical writing courses like the free ones held by Google can help you become a better communicator. CC BY-SA picture of the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California by The Pancake of Heaven via Wikimedia Commons [https://w.wiki/3X4t](w.wiki/3X4t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 You might also be interested in the follow on courses:
 
@@ -371,7 +381,7 @@ You might also be interested in the follow on courses:
 
 The first two tech writing courses run as part of the second year course COMP2CARS at the University of Manchester, see chapter \@ref(scheduling) for details.
 
-Google occasionally delivers these technical writing courses as free sessions open to the general public. For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
+Google occasionally delivers these technical writing courses as free sessions open to the general public, see figure \@ref(fig:googleplex-fig). For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
 
 ### Writing machines {#machines}
 
