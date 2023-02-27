@@ -4,7 +4,7 @@ Writing has multiple uses, or to use a programming metaphor, it is an [overloade
 
 ## Communication {#bff1}
 
-Writing is communication. Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparingly about writing the (sigh)`documentation`. Writing about software or hardware can be a chore, engineers may tell you. If engineers bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features or bugs to added or removed. This might go some way to explaining why software and hardware documentation can be so bad because:
+Writing is communication. Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparingly about writing the (*sigh*)`documentation`. Writing about software or hardware can be a chore, engineers may tell you. If engineers bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features or bugs to added or removed. This might go some way to explaining why software and hardware documentation can be so bad because:
 
 * It is probably written as an afterthought or in a hurry
 * It might not be authored by the person who designed or built the software
@@ -37,9 +37,9 @@ So besides communicating, writing records what happened. If you don't write it d
 
 Have ever felt moved or influenced by a piece of writing? Ever read something that motivated or influenced you in some way? Of course you have.
 
-Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence). We're still talking about more than 240 years after it was written. [@declarationofi] People are still writing plays about it.  It's not just because it was influential, its because somebody bothered to write it down. The seemingly mundane act of low technology writing, as opposed to high technology. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
+Take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) for exapmle. We're still talking about more than 240 years after it was written. [@declarationofi] People are still writing plays about it.  It's not just because it was influential, its because somebody bothered to write it down. The seemingly mundane act of low technology writing, pen and paper, as opposed to anything high technology. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
 
-You say you want a revolution? Well, you know, we all want to change the world. [@revolution] Whatever kind of revolution you want to start or join, you'll stand a much better chance of making it happen, if you write down your ideas in an way that people can clearly understand. This might include mini-revolutions such as: 
+You say you want a revolution? Well, you know, we'd all love to change the world. [@revolution] Whatever kind of revolution you want to start or join, you'll stand a much better chance of making it happen, if you write down your ideas in an way that your audience can clearly understand. This might include mini-revolutions such as: 
 
 * Getting a job interview, by crafting a persuasive covering letter and compellng CV 
 * Encouraging people to join `projects` you've started, see section \@ref(mycvpj) 
@@ -65,13 +65,13 @@ By the time you've written that [stackoverflow.com](https://stackoverflow.com/) 
 
 When you're writing a CV or a covering letter, the *product* of your writing is the most important output. But sometimes, its the *process* of writing that matters more than the product. Here are some examples:
 
-* Taking notes helps you concentrate on what the speaker is saying 
-* Writing a reflection which forces you to analyse on what has happened and what you'll do next, see section \@ref(reflecting)
-* Writing down a problem helps you to solve it, as described in  section \@ref(bff5)
+* Taking notes helps you concentrate on what the speaker is saying regardless of what do with the notes afterwards
+* Writing a reflection forces you to analyse on what has happened and what you'll do next, see section \@ref(reflecting)
+* Writing down a problem helps you to solve it, as described in  section \@ref(solving)
 
 So writing is important as a *process* as well as a *product*. 
 
-## Therapy {#bff7}
+## Therapy {#therapy}
 
 If you're feeling anxious, writing down the things that are making you anxious may help you distance yourself from negative emotions. Likewise, if you're feeling depressed, articulating what makes you feel miserable could help you identify self-destructive emotions.
 
