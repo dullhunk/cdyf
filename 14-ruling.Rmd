@@ -24,10 +24,7 @@ knitr::include_graphics("images/Know who you are.png")
 
 Being able to articulate your self-awareness to employers will make writing a CV (chapter \@ref(debugging)) and interviewing (chapter \@ref(speaking)) a lot easier. Both rely on you be able to express yourself in written and spoken language. You should aim to strike a balance between humbly underselling yourself (see section \@ref(undersell)) and proudly overselling yourself, see section \@ref(oversell). If you have digital profiles like those described in section \@ref(portfolio), how accurate a reflection of you are they? Is your digital [alter ego](https://en.wikipedia.org/wiki/Alter_ego) at odds with reality?
 
-```{r eval=knitr::is_html_output(excludes = "epub"), linkedin-tweet-fig, echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/dullhunk/status/1594641377060687873")
-```
+<!--https://twitter.com/dullhunk/status/1594641377060687873-->
 
 
 ## Look after yourself {#onlyhuman}
@@ -83,7 +80,7 @@ Grow your networks, make use of all the contacts you have and foster new connect
 ```{r yournetwork-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionyournetwork)"}
 knitr::include_graphics("images/Grow your networks.png")
 ```
-(ref:captionyournetwork) Grow and use your networks, both the strong ties and the weak ties described in section \@ref(weakties). Grow your network by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionyournetwork) Grow and use your networks, both the strong ties and the weak ties described in section \@ref(weakties). [Traversing your (personal) graph](https://en.wikipedia.org/wiki/Graph_traversal) will help you find work. Grow your network by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Remember that the weaker ties in your network (see section \@ref(weakties)) may be more important than your stronger ties, especially when it comes to finding jobs. [It's not (just) what you know, but *who* you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know).
 

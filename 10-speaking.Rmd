@@ -148,7 +148,7 @@ All of these activities will help both your general professional development and
 
 
 ### Leetcode {#leetcode}
-LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews, see [leetcode.com](https://leetcode.com). There's *lots* of challenges on leetcode which can make it a daunting place for novices, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-fig)
+LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews, see [leetcode.com](https://leetcode.com). There's *lots* of challenges on leetcode which can make it a daunting place for novices, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-fig).
 
 ```{r neetcode-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneetcode)"}
 knitr::include_url('https://www.youtube.com/embed/TKC98Sumg2A')
@@ -156,10 +156,13 @@ knitr::include_url('https://www.youtube.com/embed/TKC98Sumg2A')
 
 (ref:captionneetcode) Change your life with algorithms and data structures from [neetcode.io](https://neetcode.io). You can also watch the full 5 minute video embedded in this figure at [youtu.be/TKC98Sumg2A](https://youtu.be/TKC98Sumg2A) [@youtube-neetcode]
 
-```{r eval=knitr::is_html_output(excludes = "epub"), neetcoder-fig,echo=FALSE, fig.cap = "coding interview prep"}
-library(tweetrmd)
-include_tweet("https://twitter.com/neetcode1/status/1559175667379425280")
+[neetcode.io](https://neetcode.io/) is useful, but you can't expect to prepare for every interview question, either technical or non-technical. Be prepared to think on your feet, a good interviewer will probably have questions designed to test exactly that, see figure \@ref(fig:knightcode-fig)
+
+```{r knightcode-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionknightcode)"}
+knitr::include_graphics("images/neetcode.jpeg")
 ```
+
+(ref:captionknightcode) Have you solved 500 [leetcode.com](https://leetcode.com/) questions? Beware of the *Question In Interview* cunningly aimed to pierce your interview armour. Screenshot of an [orginal tweet via \@neetcode1](https://twitter.com/neetcode1/status/1559175667379425280) and Chandan Kumar [Chandan555](https://linkedin.com/in/chandan55555)
 
 
 ### HackerRank {#hackerrank}

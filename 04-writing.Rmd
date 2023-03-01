@@ -127,7 +127,7 @@ Written communication skills are important because:
       + chapter \@ref(hacking) on *Hacking your future* for details. <!--editing your future-->
 
 ### Natural language engineering {#nle}
-As a species, we've been writing stuff down for millenia in order to communicate with each other. If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing, see figure \@ref(fig:iceberg-fig). As well as engineering `code`, they also spend a significant amount of time engineering *messages* in [natural languages](https://en.wikipedia.org/wiki/Natural_language) like english.
+We have been writing stuff down for millenia in order to communicate with each other. If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing, see figure \@ref(fig:iceberg-fig). As well as engineering `code`, they also spend a significant amount of time engineering *messages* in [natural languages](https://en.wikipedia.org/wiki/Natural_language) like english.
 
 ```{r iceberg-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniceberg)"}
 knitr::include_graphics("images/iceberg.jpeg")
@@ -146,7 +146,7 @@ Consider the following:
 * [Self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code) that describes itself
 * Executable specifications in test suites like [cucumber.io](https://en.wikipedia.org/wiki/Cucumber_(software))
 * Laboratory manuals and laboratory notebooks
-* The $x$ page summary for management, where $x$ might be equal to $1$, or $2$ or $6$ if you work at Amazon [@bezos; @mad]
+* The $x$ page summary for management, where $x$ might be equal to $1$, or $2$ or even $6$ if you work at Amazon [@bezos; @mad]
 * [reddit.com](https://www.reddit.com/) and hacker news [news.ycombinator.com](https://news.ycombinator.com/) etc
 * User documentation, release notes and the like
 * Case studies of software use
@@ -159,7 +159,7 @@ Consider the following:
 * [Jupyter.org notebooks](https://jupyter.org/), code and natural language mixed together, as do many other systems like, [quarto.org](https://quarto.org/) and [bookdown.org](https://bookdown.org/)
 
 
-What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless. Using written (and spoken) natural language is a key social skill and a communication skill. You might be using your language to influence, persuade, convince or argue with members of your team. So it is important that you do it to the best of your abilities. Computer Scientist [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn), shown in figure \@ref(fig:vonahn-fig), is the creator of [Duolingo.com](https://www.duolingo.com/). Luis regrets that he didn't spend any effort developing his social skills early in his career. Instead, like many computer scientists he focussed his effort on his mathematical and technical skills instead. [@vonahn]
+What do they all have in common? They're all written in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language), but without them, the software or hardware they describe and discuss would be useless. Using written (and spoken) natural language is a key social skill and a communication skill. You might be using your language to influence, persuade, convince or argue with members of your team. So it is important that you do it to the best of your abilities. Computer Scientist [Luis von Ahn](https://en.wikipedia.org/wiki/Luis_von_Ahn), shown in figure \@ref(fig:vonahn-fig), is the creator of [duolingo.com](https://www.duolingo.com/). Luis regrets that he didn't spend any effort developing his social skills early in his career. Instead, like many computer scientists he focussed his effort on his mathematical and technical skills instead. [@vonahn]
 
 <!-- I did not spend any effort developing my social skills. A lot of management skills are just social skills-->
 
@@ -183,7 +183,7 @@ Writing has multiple uses, or to use a programming analogy, it is an [overloaded
 knitr::include_graphics("images/8 reasons why writing is your new BFF.png")
 ```
 
-(ref:captionbff) Eight reasons why writing is your new Best Friend Forever (BFF). Communication, see section \@ref(communicating). Recording, see section \@ref(recording). Leadership, see section \@ref(leadership). Slowing down, see section \@ref(slowing). Problem solving, see section \@ref(solving). Process not product, see section \@ref(product). Therapy, see section \@ref(therapy). Speeding up, see section \@ref(accelerating). B.F.F. by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionbff) Eight reasons why writing is your new Best Friend Forever (BFF): Communication, see section \@ref(communicating). Recording, see section \@ref(recording). Leadership, see section \@ref(leadership). Slowing down, see section \@ref(slowing). Problem solving, see section \@ref(solving). Process not product, see section \@ref(product). Therapy, see section \@ref(therapy). Speeding up, see section \@ref(accelerating). B.F.F. by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 So let's expand on each of the reasons in figure \@ref(fig:bff-fig) why writing is your new BFF:
 
@@ -245,9 +245,9 @@ Have ever felt moved or influenced by a piece of writing, like in figure \@ref(f
 knitr::include_graphics("images/8 reasons why writing - Leadership.png")
 ```
 
-(ref:captionconstitution) *We hold these truths to be self-evident, that all men and women are created equal...* Just words on a piece of paper, but leading words that made people follow. [@declarationofi] Declaration sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionconstitution) *We hold these truths to be self-evident, that all men* and women *[are created equal](https://en.wikipedia.org/wiki/All_men_are_created_equal)...* Just words on a piece of paper, but leading words that made people follow. [@declarationofi] Declaration sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence). We're still talking about more than 240 years after it was written. [@declarationofi] It's not just because it was influential, it's because somebody bothered to write it down. The seemingly mundane and low technology act of humble writing. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
+Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence). We're still talking about more than 200 years after it was written. [@declarationofi] It's not just because it was influential, it's because somebody bothered to write it down. The seemingly mundane and low technology act of humble writing. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
 
 You say you want a revolution? Well, you know, we all want to change the world. [@revolution] Whatever kind of revolution you want to start or join, you'll stand a much better chance of making it happen, if you write down your ideas in an way that people can clearly understand. This might include mini-revolutions such as: 
 
@@ -303,13 +303,13 @@ Here are some examples where the process of writing can be more important than i
 So writing is important as a *process* as well as a *product*. 
 
 ### Writing as therapy {#therapy}
-Besides being a tool for communication, writing can be therapeutic for the writer too. The simple act of writing can help you tackle mental health issues discussed in chapter \@ref(nurturing). You might think it tragic somebody writing a diary that nobody reads, but actually, that's not the only point of the diary. The metacognition we described in section \@ref(product) is a valuable exercise in its own right. You could think of writing like a therapists couch shown in figure \@ref(fig:therapy-fig).
+Besides being a tool for communication, writing can be therapeutic for the writer too. The simple act of writing can help you tackle mental health issues discussed in chapter \@ref(nurturing). You might think it tragic somebody writing a diary that nobody reads, but actually, that's not the only point of the diary. The metacognition we described in section \@ref(product) is a valuable exercise in its own right. You could think of writing like a therapists couch shown in figure \@ref(fig:therapy-fig). [@writingtherapy]
 
 ```{r therapy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontherapy)"}
 knitr::include_graphics("images/8 reasons why writing - Therapy.png")
 ```
 
-(ref:captiontherapy) Dear Diary ... The therapeutic effects of writing are well documented, writing doesn't *have* to be read by anyone to benefit the writer. Therapy sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
+(ref:captiontherapy) *Dear Diary ...*: The therapeutic effects of writing are well documented, even if that writing isnt actually read by anyone. Therapy sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
 The UK Prime Minister [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill) found that writing helped to keep the “black dog” of his depression under control, see section \@ref(depression) and figure \@ref(fig:winston-fig).
 
@@ -329,7 +329,12 @@ As well as slowing your brain down discussed in section \@ref(slowing), writing 
 > “If I can't write things down, worrying about remembering one idea gets in the way of having the next. Pen and paper wick ideas”
 > `r tufte::quote_footer('--- Paul Graham [@theislandtest]')`
 
-Writing down your ideas or solutions will often help you refine them and generate even more new ones shown in figure \@ref(fig:wicking-fig).
+and also 
+
+> “I think it's far more important to write well than most people realise. Writing doesn't just communicate ideas; it generates them. If you're bad at writing and don't like to do it, you'll miss out on most of the ideas writing would have generated”
+> `r tufte::quote_footer('--- Paul Graham [@writingbriefly]')`
+
+So writing down whatever is in your head will often help you refine your ideas and generate even more new ones shown in figure \@ref(fig:wicking-fig).
 
 ```{r wicking-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwicking)"}
 knitr::include_graphics("images/8 reasons why writing - Speeding up.png")

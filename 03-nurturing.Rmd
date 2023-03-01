@@ -420,11 +420,11 @@ Anxiety and depression are serious conditions that are very likely to affect you
 
 We've only talked about two particular mental health issues, anxiety and depression, but there are many other conditions such as phobias, obsessive-compulsive disorder (OCD), eating disorders, self-harm and more that are beyond the scope of this chapter. They do have one thing in common, and that is that talking about them is an important part of starting to develop better mental health. Mental health can affect everyone, all genders, classes and races.
 
-```{r eval=knitr::is_html_output(excludes = "epub"), menshealth-fig,echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/profbuchan/status/1540228377608585216")
+```{r buchan-fig, echo = FALSE, fig.show = "hold", out.width = "100%", fig.cap = "(ref:captionmindyourhealth)"}
+knitr::include_graphics("images/men-can.jpeg")
 ```
 
+(ref:captionbuchan) Both men and women can be affected by mental health. Poster via [an original tweet by Iain Buchan](https://twitter.com/profbuchan/status/1540228377608585216)
 
 If you are affected by mental ill health, talking about it is the best place to start, but often the hardest. You can continue by:
 

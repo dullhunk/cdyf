@@ -55,7 +55,7 @@ Software engineers (or software developers if you prefer) are one of the most po
 * Technical writer, see section \@ref(techwriting)
 * Technical sales and marketing, see [prospects.ac.uk/job-profiles/technical-sales-engineer](https://www.prospects.ac.uk/job-profiles/technical-sales-engineer)
 * Test engineer (QA) see [prospects.ac.uk/job-profiles/software-tester](https://www.prospects.ac.uk/job-profiles/software-tester)
-* Research software engineer, see \@ref(rse)
+* Research software engineer, see \@ref(rse) and figure \@ref(fig:rse-fig)
 * Usability engineer, often specialising in [Human–Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI), [User Experience](https://en.wikipedia.org/wiki/User_experience) (UX) or front-end development
 * Security engineer, penetration testing see [prospects.ac.uk/job-profiles/penetration-tester](https://www.prospects.ac.uk/job-profiles/penetration-tester)
 * DevOps, sysadmin and [site reliability engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
@@ -100,10 +100,11 @@ An non-exhaustive list of laboratories from the UK and Europe that employ comput
 
 These are mainly UK opportunities, but it is a similar story around the world. Many Universities and research institutes have summer internships for computer science students working alongside researchers. For example, at the University of Manchester, summer vacancies tend to be advertised each year around April/May. Wherever you are, speak to the head of a research lab you're interested in. Ask them if they have plans to take on summer students.
 
-```{r eval=knitr::is_html_output(excludes = "epub"), rse-fig,echo=FALSE, fig.cap = "test caption"}
-library(tweetrmd)
-include_tweet("https://twitter.com/ResearchSoftEng/status/1531944240170909696")
+```{r rse-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrse)"}
+knitr::include_graphics("images/rse-tweet-screenshot.png")
 ```
+
+(ref:captionrse) Research software engineer [Paul Richmond](https://paulrichmond.shef.ac.uk/) was interviewed by *Nature* about the demand for research software engineers and [society-rse.org](https://society-rse.org). [@rses] Screenshot of an [original tweet \@Nature](https://twitter.com/ResearchSoftEng/status/1531944240170909696).
 
 If you're thinking of doing postgraduate study, see chapter \@ref(researching). Commercial experience gained on a summer internship or placement year is valued by *all* employers (not just commercial ones) so doing an internship or placement during your undergraduate degree is valuable wherever you end up, see section \@ref(realworld).
 

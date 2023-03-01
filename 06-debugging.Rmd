@@ -721,7 +721,7 @@ Even if *nobody* reads your covering letter, it is still worth writing one becau
 You can think of your covering letter as writing and rehearsing some of the lines of your elevator pitch shown in figure \@ref(fig:elevator-fig).
 
 ### Embedding a personal statement {#bullshit}
-You might be tempted to embed a short summary or `personal statement` section at the top of your CV after your header. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from **Professor Hotair** who holds the Chair of Rhetoric at the [University of Poppleton](https://www.timeshighereducation.com/academic/laurie):
+You might be tempted to embed a short summary or `personal statement` section at the top of your CV after your header. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from **Professor Hotair** [FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) who holds the Endowed Chair of Rhetoric at the [University of Poppleton](https://www.timeshighereducation.com/academic/laurie):
 
 ::: {.rmdnote}
 
@@ -752,10 +752,7 @@ Is this better? Personally, I think you should only be including a personal stat
 
 In this chapter we have looked at how to debug your future, with a particular focus on your CV (or résumé) and supporting communication. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a *much* better chance of getting an interview. The checklist above in section \@ref(checklist) is a good place to start debugging your CV. 
 
-```{r eval=knitr::is_html_output(excludes = "epub"), manifesto-fig,echo=FALSE, fig.cap = "debugging manifesto and debugging toolkit"}
-library(tweetrmd)
-include_tweet("https://twitter.com/b0rk/status/1570060516839641092")
-```
+<!--https://twitter.com/b0rk/status/1570060516839641092-->
 
 *Some* of the strategies you apply to debugging your *actual* code, can also be applied to debugging your future:
 

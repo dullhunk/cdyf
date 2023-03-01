@@ -142,7 +142,7 @@ As [Sally Fincher](https://en.wikipedia.org/wiki/Sally_Fincher) puts it:
 > Computing is one of the largest subject areas in UK higher education, and is taught in almost every institution, graduating around 9,000 students every year
 > `r tufte::quote_footer('--- Sally Fincher [@fincherreview]')`
 
-Now, don't be disillusioned by the statistics because any degree can open doors to many careers in computing. Studying *computing* opens up plenty of doors, see figure \@ref(fig:nurses-fig). According to [Charlie Ball](https://twitter.com/lmicharlie), it is a myth that there aren't enough graduate jobs; one of four myths in the UK about the graduate labour market:
+Now, don't be disillusioned by the statistics because any degree can open doors to many careers in computing. Studying *computing* opens up plenty of doors, see figure \@ref(fig:nurses-fig). According to [Charlie Ball](https://www.jisc.ac.uk/staff/charlie-ball), it is a myth that there aren't enough graduate jobs; one of four myths in the UK about the graduate labour market:
 
 * **Myth 1:** *Everyone goes to university nowadays* : ~50% isn't everyone [@ballmyths]
 * **Myth 2:** *There aren’t enough graduate jobs*, see figure \@ref(fig:uuk2-fig) [@ballmyths]
@@ -297,7 +297,7 @@ I can't find anything suitable that meets all the requirements of the students I
 +---------------------------------------------+--------------------------------------------+
 | Other guidebooks                            | *Coding your Future* guidebook             |
 +=============================================+============================================+
-| - **Expensive** paper-based books           |  - **Free** digital versions               |
+| - (ref:ripoff)                              |  - (ref:betterproduct)                     |
 | - Inadequate linking, inbound & outbound    |  - (ref:clinkable)                         |
 | - Poor citations                            |  - (ref:signpostedtext)                    |
 | - Often can't be searched                   |  - Search by any words you choose          |
@@ -320,7 +320,7 @@ I can't find anything suitable that meets all the requirements of the students I
 | - Released late, released seldomly          | - (ref:rero)                               |
 +---------------------------------------------+--------------------------------------------+
 
-<!--horrible table hacks, not pretty but they work-->
+<!--horrible table hacks to make the spacing work, I know they are not pretty but they work-->
 
 (ref:clinkable) Every link is clickable, every section, table and figure can be linked to
 
@@ -355,6 +355,13 @@ I can't find anything suitable that meets all the requirements of the students I
 (ref:u2cancontribute) **Open** source, see section \@ref(contributing)
 
 (ref:rero) Released early, released often, see section \@ref(version)
+
+(ref:ripoff) **Expensive** paper-based books, out of date as soon as they are printed
+
+(ref:betterproduct) **Free** digital versions, constantly updated (daily or weekly)
+
+
+
 
 <!-- possibly more here personal / impersonal, add cross links -->
 
