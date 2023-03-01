@@ -239,15 +239,15 @@ So besides communicating, writing records what happened. If you don't write it d
 
 ### Writing as leadership {#leadership}
 
-Have ever felt moved or influenced by a piece of writing, like in figure \@ref(fig:constitution-fig)? Ever read something that motivated or influenced you to do something? Of course you have.
+Have ever felt moved or influenced by a piece of writing. Ever read something that motivated or influenced you to do something? Of course you have.
 
 ```{r constitution-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionconstitution)"}
 knitr::include_graphics("images/8 reasons why writing - Leadership.png")
 ```
 
-(ref:captionconstitution) *We hold these truths to be self-evident, that all men* and women *[are created equal](https://en.wikipedia.org/wiki/All_men_are_created_equal)...* Just words on a piece of paper, but leading words that made people follow. [@declarationofi] Declaration sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionconstitution) *We hold these truths to be self-evident, that all men* (and women) *[are created equal](https://en.wikipedia.org/wiki/All_men_are_created_equal)...* Just words on a piece of paper, but leading words that made people follow. [@declarationofi] Declaration sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence). We're still talking about more than 200 years after it was written. [@declarationofi] It's not just because it was influential, it's because somebody bothered to write it down. The seemingly mundane and low technology act of humble writing. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
+Let's take the [United Sates Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence) shown in figure \@ref(fig:constitution-fig). We're still talking about it more than 200 years after it was written. [@declarationofi] That's not just because it was influential, it's because somebody bothered to write it down. The seemingly mundane and low technology act of humble writing. The declaration is “just” words, written down on a piece of paper, but words that changed the course of history. 
 
 You say you want a revolution? Well, you know, we all want to change the world. [@revolution] Whatever kind of revolution you want to start or join, you'll stand a much better chance of making it happen, if you write down your ideas in an way that people can clearly understand. This might include mini-revolutions such as: 
 
@@ -334,7 +334,7 @@ and also
 > “I think it's far more important to write well than most people realise. Writing doesn't just communicate ideas; it generates them. If you're bad at writing and don't like to do it, you'll miss out on most of the ideas writing would have generated”
 > `r tufte::quote_footer('--- Paul Graham [@writingbriefly]')`
 
-So writing down whatever is in your head will often help you refine your ideas and generate even more new ones shown in figure \@ref(fig:wicking-fig).
+So writing down whatever is in your head will often help you refine your ideas and generate even more new ones as shown in figure \@ref(fig:wicking-fig).
 
 ```{r wicking-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwicking)"}
 knitr::include_graphics("images/8 reasons why writing - Speeding up.png")

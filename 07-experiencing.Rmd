@@ -110,16 +110,18 @@ You might be wondering which length of experience is better, a short summer inte
 
 ```{r interntable, echo = FALSE}
 intern_table <- tibble::tribble(
-    ~ "Duration"                        , ~ "Pros",      ~ "Cons",
-  "**Summer**"    , "You won't pay tuition fees to your University",        "You get less time to make a good impression and learn new skills",
-  ""     , "You graduate sooner",      "Some employers don't offer summer internships, and only do year long placements",
-  "**12 months**"    , "You get more time to make a good impression and learn more",      " You graduate later, after four years of study rather than three^[this might also be an advantage if demand if the economy is in recession]",
-    "  "    , "Some employers offer two sixth-month rotations, thereby giving you a wider variety of experience",      "You will have to pay tuition fees if industrial experience is a part of your degree^[See for example [https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/)]",
-    " "    , "In the UK, there tend to be more placements available than internships, though it depends on the sector and location",      "If you hold a [student visa](https://www.gov.uk/student-visa) and [biometric residence permit](https://www.gov.uk/biometric-residence-permits) (BRP) and you need to transfer from a three year course onto a four year one in order to do a placement, you will need to extend your visa and update your BRP. This can take time and money.",
-  "  "     , "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",      "Some employers don't offer year long placements, and only have summer internships",
+    ~ "Summer internship",      ~ "Year long placement ",
+ "You won't pay tuition fees to your University",        "You will have to pay tuition fees if industrial experience is a part of your degree^[See for example [https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/)]",
+  "You can graduate sooner, after three years of study rather than four",  " You graduate later, after four years of study rather than three^[this might also be an advantage if the economy is in recession]",    
+  "Some employers don't offer summer internships, and only do year long placements", "Some employers don't offer year long placements, and only have summer internships",
+  "You get less time to make a good impression and pick up new skills", "You get more time to make a good impression and learn more", 
+  "You will typically be working in one department for three months", "Some employers offer two sixth-month rotations, thereby giving you a wider variety of experience than a summer internship",     
+  "In the UK, summer internships can be harder to find, for some employers they are too short for you to payback the employers investment of time before you leave", "In the UK, there tend to be more year-long placements available than summer internships, though it depends on the sector and location",      
+  "Your visa may not need extending (but check what it says about working)", "If you hold a [student visa](https://www.gov.uk/student-visa) and [biometric residence permit](https://www.gov.uk/biometric-residence-permits) (BRP) and you need to transfer from a three year course onto a four year one in order to do a placement, you will need to extend your visa and update your BRP. This can take time and money.",
+"fits around studies",  "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",     
 
 )
-knitr::kable(intern_table, caption = "Some pros and cons of a summer internship vs. a year-long placement ", booktabs = TRUE)
+knitr::kable(intern_table, caption = "A comparison of some of the advantages and disadvantages of a short summer internship compared to a longer year-in-industry   ", booktabs = TRUE)
 ```
 
 In some cases you can do *both* a year long placement AND a summer internship, for example: 
