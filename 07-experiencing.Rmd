@@ -110,13 +110,13 @@ You might be wondering which length of experience is better, a short summer inte
 
 ```{r interntable, echo = FALSE}
 intern_table <- tibble::tribble(
-    ~ ""                        , ~ "Pros",      ~ "Cons",
-  "Summer-long internship"    , "You won't pay tuition fees to your University",        "You get less time to make a good impression and learn new skills",
-  " "     , "You graduate sooner",      "Some employers don't offer summer internships, and only do year long placements",
-  "Year-long placement"    , "You get more time to make a good impression and learn more",      " You graduate later, after four years of study rather than three^[this might also be an advantage if demand if the economy is in recession]",
-    " "    , "Some employers offer two sixth-month rotations, thereby giving you a wider variety of experience",      "You will have to pay tuition fees if industrial experience is a part of your degree^[See for example [https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/)]",
+    ~ "Duration"                        , ~ "Pros",      ~ "Cons",
+  "**Summer**"    , "You won't pay tuition fees to your University",        "You get less time to make a good impression and learn new skills",
+  ""     , "You graduate sooner",      "Some employers don't offer summer internships, and only do year long placements",
+  "**12 months**"    , "You get more time to make a good impression and learn more",      " You graduate later, after four years of study rather than three^[this might also be an advantage if demand if the economy is in recession]",
+    "  "    , "Some employers offer two sixth-month rotations, thereby giving you a wider variety of experience",      "You will have to pay tuition fees if industrial experience is a part of your degree^[See for example [https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/](https://www.studentsupport.manchester.ac.uk/finances/tuition-fees/fee-amounts/other-fees/)]",
     " "    , "In the UK, there tend to be more placements available than internships, though it depends on the sector and location",      "If you hold a [student visa](https://www.gov.uk/student-visa) and [biometric residence permit](https://www.gov.uk/biometric-residence-permits) (BRP) and you need to transfer from a three year course onto a four year one in order to do a placement, you will need to extend your visa and update your BRP. This can take time and money.",
-  " "     , "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",      "Some employers don't offer year long placements, and only have summer internships",
+  "  "     , "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",      "Some employers don't offer year long placements, and only have summer internships",
 
 )
 knitr::kable(intern_table, caption = "Some pros and cons of a summer internship vs. a year-long placement ", booktabs = TRUE)
