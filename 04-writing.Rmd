@@ -8,7 +8,7 @@ We all have strengths and weaknesses, and for students of Computer Science, it 
 ```{r no-writing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnowriting)"}
 knitr::include_graphics("images/Avoiding writing.png")
 ```
-(ref:captionnowriting) There are many motivations for studying computer science, unfortunately for some students, minimising the amount of reading and writing they have to do in natural languages (like English) can be one of them. You can *run* from written communication, but you can't *hide* from it. Writing a CV, covering letter or filling in an application form is just the tip of the *natural language iceberg*, section \@ref(nle) outlines the some of the rest. This chapter looks at some simple techniques for improving your written communication skills. Avoidance sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionnowriting) I often ask students about their motivation for studying Computer Science, see chapter \@ref(hearing). One of my tutees^[who shall remain anonymous] once told me, *I chose to study computing because I didn't like all the arty-farty humanities subjects at school. Literature, history, languages, culture, all that writing and talking. Bla bla bla. I hated that stuff!*. They preferred the precision and accuracy of mathematics and science. Fair enough, but while you can *run* from written and spoken communication, but you can't *hide* from it. Writing a CV, covering letter or filling in an application form is just the tip of the *natural language iceberg*, section \@ref(nle) outlines the some of the rest. This chapter looks at some simple techniques for improving and investing in your written communication skills. Avoidance sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 Your ability to write clearly isn't just important when putting together CV's like in figure \@ref(fig:no-writing-fig). Your ability to write clearly isn't just important when composing covering letters or filling in application forms either, it's a fundamental skill that will help you become a valued employee in the longer term. Learn to write more clearly now and you'll improve your chances of success later. Learn how to get better at writing your future. ✍️
@@ -280,7 +280,7 @@ knitr::include_graphics("images/8 reasons why writing - Problem Solving.png")
 By the time you've written that [stackoverflow.com](https://stackoverflow.com/) question about a techincal problem you are struggling to solve, your brain may have figured it out. This is much more likely to happen if you articulate the problem in words, either written down or spoken, to a rubber duck. 
 
 
-### Writing as process (not product) {#product}
+### Writing as a process (not a product) {#product}
 
 When you are writing a CV, résumé or a covering letter, the *product* of your writing is the most important output. But sometimes, it is the *process* of writing that matters more than the product, see figure \@ref(fig:process-fig).
 
@@ -297,7 +297,20 @@ Here are some examples where the process of writing can be more important than i
 * Writing a reflection which forces you to analyse on what has happened and what you'll do next, see section \@ref(reflecting). Cognitive psychologists call this [metacognition](https://en.wikipedia.org/wiki/Metacognition), thinking about thinking 
 * Writing down a problem helps you to solve it, as described in section \@ref(solving)
 
-So writing is important as a *process* as well as a *product*. 
+So writing is important as a *process* as well as a *product*. It forces you to be clear and focus, it is a *process* for working, not just the *product* (output) of working. When you write a dissertation or thesis for your bachelors or masters degree the process of writing is as important as the product. The computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) outlines how knowing this can help you to write a better dissertation or thesis in figure \@ref(fig:peyton-jones-fig). 
+
+```{r peyton-jones-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpeyton)"}
+knitr::include_url('https://www.youtube.com/watch?v=VK51E3gHENc')
+```
+
+(ref:captionpeyton) [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains how to write a better dissertation or thesis by writing early and often, rather than waiting to write it all at the end. Writing helps you be clear by crystallising what you understand. It's important as a process as well as a product. You can also watch the full 57 minute video embedded in this figure at [youtu.be/VK51E3gHENc](https://youtu.be/VK51E3gHENc) [@youtube-peyton]
+
+<!-- 
+related work last, state contributions, give an example not a generic introduction (yawn) explicitly mention weaknesses at end of related work, giving credit doesn't diminish your contributions
+
+1. Don't wait, write 2. Identify your key idea 3. Tell a story 4. Nail your contributions to the mast 5. related work later 6. put your readers first (by using examples) 7. Listen to your readers.
+-->
+
 
 ### Writing as therapy {#therapy}
 Besides being a tool for communication, writing can be therapeutic for the writer too. The simple act of writing can help you tackle mental health issues discussed in chapter \@ref(nurturing). You might think it tragic somebody writing a diary that nobody reads, but actually, that's not the only point of the diary. The metacognition we described in section \@ref(product) is a valuable exercise in its own right. You could think of writing like a therapists couch shown in figure \@ref(fig:therapy-fig). [@writingtherapy]
@@ -389,6 +402,7 @@ Google occasionally delivers these technical writing courses as free sessions op
 
 There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI). Some of these tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection of tools you could experiment with, if you haven't already, is shown below:
 
+* [angryreviewer.com](https://www.angryreviewer.com/) by [Roman Anufriev](https://anufrievroman.com/) its a bit blunt but will give you honest feedback on your writing
 * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) (see figure \@ref(fig:chatgpt-fig)), [Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) and [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) [@bingai; @bardai]
 * [coauthor.stanford.edu](https://coauthor.stanford.edu) a dataset built from human-AI collaborative writing [@coauthor]
 * [DrivelDefence](https://www.plainenglish.co.uk/drivel-defence.html) part of the [Plain English Campaign](https://en.wikipedia.org/wiki/Plain_English_Campaign), see also *[The Complete Plain Words](https://en.wikipedia.org/wiki/The_Complete_Plain_Words)* [@gowers]

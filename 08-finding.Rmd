@@ -97,7 +97,7 @@ Like many graduate employment guides, the Guardian 300 guide (see section \@ref(
 Picking a sector can help you get started, by narrowing what might otherwise be a massive search space. The sector(s) you choose will also determine the kind of salary you can expect, see section \@ref(by-salary). I've got the brains, you've got the looks, let's make lots of money. [@letsmakelotsofmoney]
 
 ### By skills {#by-skills}
-Is there a specific skill you have that you enjoy using, or a technology you know that has a bright future? You could use this as a way to find jobs, for example:
+Is there a specific skill you have that you enjoy using, or a technology you think has a promising future? You could use this as a way to find jobs, for example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd.js"></script>')
@@ -316,7 +316,7 @@ The marketplace for job searching and job hunting advice is *incredibly* overcro
 1. 🎓 Undergraduate and graduate jobs boards, such as Gradcracker and your University \@ref(studentjobs)
 1. 👀 General jobs boards and search engines that index them, such as Google jobs, see section \@ref(generaljobs)
 1. 🎨 Portfolio style, such as LinkedIn, Github and others which allow you to publish a public profile, see section \@ref(portfolio)
-1. 👩‍👩‍👧‍👦 Your network, online (virtual) AND offline (actual); professional AND personal, see section \@ref(weakties)
+1. 🎰 Speculation, approaching employers to find out about un-advertised vacancies, see section \@ref(speculative)
 1. 🕵️ Recruiters, get a recruiter to help you, see section \@ref(recruiters)
 
 ### For graduates and undergraduates {#studentjobs}
@@ -418,6 +418,27 @@ knitr::include_graphics("images/pezoverflow.png")
 (ref:captionoverflow) An example of using stackoverflow to create a public profile by asking and answering technical questions online. The screenshot shows a profile of former Computer Science student Pez Cuckow: [stackoverflow.com/users/193376/pez-cuckow](https://stackoverflow.com/users/193376/pez-cuckow)
 
 So, if you're happy to publish your work online, sites like LinkedIn, Github and Stackoverflow can help you find jobs using a *push* approach alongside more conventional *pull* approaches described in section \@ref(studentjobs) and \@ref(generaljobs). They can also be used to augument your CV, with the stuff that doesn't fit onto one or two printed pages. Digital profiles can be also be useful if you're looking for freelance, contract or part-time work.
+
+### Speculative applications {#speculative}
+
+Some job vacancies are not advertised. Smaller employers do not always offer the kinds of experience described in table \@ref(tab:interntable). Making a speculative approach might be one of the few ways in. You need to: 
+
+* Do some research about the employer, see section \@ref(bp10)
+* A debugged CV or resume, see section \@ref(checklist)
+* A personalised covering letter, see section \@ref(we3qs) 
+* Remember that a phone call, especially to a smaller employer, can work wonders. You can ask if they've considered employing interns or graduates. 
+
+Your networks that we described in section \@ref(weakties) can be useful in approaching employers including:
+
+* **virtual**: people you've met online, for example in places like those described in section \@ref(portfolio)  
+* **actual**: people you've met in real-time face to face, offline 
+* **professional** contacts: employers who have visited your University or you know via some other means
+* **personal** contacts: friends, family, fellow students etc 
+
+Making speculative applications may require you [cold calling](https://en.wikipedia.org/wiki/Cold_calling) employers, by email phone or online. The people in your networks can help you to make job applications that aren't completely cold. 
+
+Smaller employers are more likely to be receptive to speculative job applications than larger employers. While speculative applications are a gamble, sometimes they will pay off.
+
 
 ### What about recruiters? {#recruiters}
 

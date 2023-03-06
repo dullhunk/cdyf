@@ -118,7 +118,7 @@ intern_table <- tibble::tribble(
   "You will typically be working in one department for three months", "Some employers offer two sixth-month rotations, thereby giving you a wider variety of experience than a summer internship",     
   "In the UK, summer internships can be harder to find, for some employers they are too short for you to payback the employers investment of time before you leave", "In the UK, there tend to be more year-long placements available than summer internships, though it depends on the sector and location",      
   "Your visa may not need extending (but check what it says about working)", "If you hold a [student visa](https://www.gov.uk/student-visa) and [biometric residence permit](https://www.gov.uk/biometric-residence-permits) (BRP) and you need to transfer from a three year course onto a four year one in order to do a placement, you will need to extend your visa and update your BRP. This can take time and money.",
-"fits around studies",  "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",     
+"A summer internship can fit more conveniently around your studies with minimal interruption",  "Unless are employed in the same location as where you studied, you will spend less time with the cohort of students in your year group that aren't doing a placement ",     
 
 )
 knitr::kable(intern_table, caption = "A comparison of some of the advantages and disadvantages of a short summer internship compared to a longer year-in-industry   ", booktabs = TRUE)
