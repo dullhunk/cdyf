@@ -300,10 +300,10 @@ Here are some examples where the process of writing can be more important than i
 So writing is important as a *process* as well as a *product*. It forces you to be clear and focus, it is a *process* for working, not just the *product* (output) of working. When you write a dissertation or thesis for your bachelors or masters degree the process of writing is as important as the product. The computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) outlines how knowing this can help you to write a better dissertation or thesis in figure \@ref(fig:peyton-jones-fig). 
 
 ```{r peyton-jones-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpeyton)"}
-knitr::include_url('https://www.youtube.com/watch?v=VK51E3gHENc')
+knitr::include_url('https://www.youtube.com/embed/VK51E3gHENc')
 ```
 
-(ref:captionpeyton) [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains how to write a better dissertation or thesis by writing early and often, rather than waiting to write it all at the end. Writing helps you be clear by crystallising what you understand. It's important as a process as well as a product. You can also watch the full 57 minute video embedded in this figure at [youtu.be/VK51E3gHENc](https://youtu.be/VK51E3gHENc) [@youtube-peyton]
+(ref:captionpeyton) Computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains how to write a better dissertation or thesis by writing early and often, rather than waiting to write it all at the end. He's talking about writing papers here, but what he says applies to writing a thesis too: Writing helps you be clear by crystallizing what you understand. It's important as a *process* as well as a product. You can also watch the full 57 minute video embedded in this figure at [youtu.be/VK51E3gHENc](https://youtu.be/VK51E3gHENc) [@youtube-peyton]
 
 <!-- 
 related work last, state contributions, give an example not a generic introduction (yawn) explicitly mention weaknesses at end of related work, giving credit doesn't diminish your contributions
