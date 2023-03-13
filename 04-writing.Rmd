@@ -49,7 +49,7 @@ This *shouldn't* be news to you but it means communicating with and understandin
 knitr::include_graphics("images/two-cutures.png")
 ```
 
-(ref:captioncpsnow) Many Computer Scientists are steeped in the culture of [Science, Technology, Engineering and Mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM), seperated by a gulf from their counterparts in the humanities. This gulf between the two cultures is bad for *both* sides as it handicaps our abilities to solve major global problems. [@twocultures] Fair use image of the cover of *[The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)* via Wikimedia Commons [w.wiki/6Rhv](https://w.wiki/6Rhv) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captioncpsnow) Many Computer Scientists are steeped in the culture of [Science, Technology, Engineering and Mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM), seperated by a gulf from their counterparts in the humanities. This gulf between the two cultures is bad for *both* sides as it handicaps our abilities to solve major global problems. [@twocultures] Fair use image of [C. P. Snow](https://en.wikipedia.org/wiki/C._P._Snow) on the cover of *[The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)* via Wikimedia Commons [w.wiki/6Rhv](https://w.wiki/6Rhv) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
  It probably doesn’t help that in the UK, and numerous other countries, many students in the latter stages of their education, choose between: 
 
@@ -183,7 +183,7 @@ Making software isn't all about what you can do as an individual but rather how 
 
 ## Writing your future {#BFF}
 
-Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially engineers and scientists. We read and write everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
+Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially by engineers and scientists. We read and write everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
 
 ```{r bff-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbff)"}
 knitr::include_graphics("images/8 reasons why writing is your new BFF.png")
@@ -224,7 +224,7 @@ Badly written text like the example above, fails to communicate with the reader.
 
 ### Writing as recording {#recording}
 
-What were you doing on the March 6th 2005? You probably don't know and I'll bet you would probably struggle to find out. I don't know what I was doing on March 6th 2005 either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
+What were you doing on the March 6th 2013? You probably don't know and I'll bet you would probably struggle to find out. I don't know what I was doing on March 6th 2013 either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
 
 ```{r start-record-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrecording)"}
 knitr::include_graphics("images/8 reasons why writing - Recording.png")
@@ -241,7 +241,7 @@ If it *might* be important, it is *probably* worth writing down. Even things you
 
 <!--https://twitter.com/b0rk/status/1554456645530435588-->
 
-So besides communicating, writing records what happened. If you don't write it down, it might just disappear forever without trace. The audience you'll be communicating with isn't just other people, it might be your future self. The future you might *really* need to know how you fixed that bug, and it could save you *hours* of re-figuring out how to solve a problem you've already solved.
+So besides communicating, writing records what happened. If you don't write it down, it might just disappear forever without trace. The audience you'll be communicating with isn't just other people, it might be your future self. That future self might *really* need to know how you fixed that bug, and it could save you *hours* of re-figuring out how to solve a problem you've already solved.
 
 ### Writing as leadership {#leadership}
 
@@ -275,11 +275,18 @@ knitr::include_graphics("images/8 reasons why writing - Slowing down.png")
 
 (ref:captionslowing) Is your brain working too quickly for its own good? Writing can help to slow it down and take it one step at a time. Slowing down sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. Getting that level of precision and accuracy takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite]
+Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. Getting that level of precision and accuracy takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite] The author [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) puts it another way, see figure \@ref(fig:hanif-fig).
+
+```{r hanif-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhanif)"}
+knitr::include_graphics("images/hanif-kureishi.jpeg")
+```
+
+(ref:captionhanif) The playright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks. [@kureishi] Whatever you are writing, you'll have a much better understanding of what you are *actually* thinking after you've tried to write it down. CC [BY-SA](https://creativecommons.org/licenses/by-sa/2.5/deed.en) portrait of Hanif Kureishi speaking at Emory University in 2008 by [Brett Weinstein](https://www.brettweinstein.com/) on Wikimedia Commons [w.wiki/6SKv](https://w.wiki/6SKv)
+
 
 ### Writing as problem solving {#solving}
 
-Ever got stuck on a difficult problem? Ever tried writing that problem down or articulating the problem to a rubber duck? There's something about writing a problem down or articulating a problem to another person. Even a rubber duck will do, see figure \@ref(fig:rubber-duck-fig). So writing can be a useful technique for solving problems, even if nobody else ever reads what you've written or heard what you've spoken.
+Ever got stuck on a difficult problem? Ever tried writing that problem down or articulating the details to a rubber duck? There's something about writing a problem down or articulating the issue to another person. Even a rubber duck will do, see figure \@ref(fig:rubber-duck-fig). So writing can be a useful technique for solving problems, even if nobody else ever reads what you've written or heard what you've spoken. 
 
 ```{r rubber-duck-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionduck)"}
 knitr::include_graphics("images/8 reasons why writing - Problem Solving.png")
@@ -344,7 +351,7 @@ So writing can be therapeutic, a powerful tool for developing [mindfulness](http
 
 ### Writing as speeding up {#accelerating}
 
-As well as slowing your brain down discussed in section \@ref(slowing), writing can also speed it up by *wicking* ideas like a [candle wick](https://en.wikipedia.org/wiki/Candle_wick) does for candle wax. Without the wick, the candle wax can't undergo the chemical reaction to make carbon dioxide and water. As the software engineer [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) puts it:  
+As well as slowing your brain down discussed in section \@ref(slowing), writing can also speed it up by *wicking* ideas like a [candle wick](https://en.wikipedia.org/wiki/Candle_wick) does for candle wax. Without the wick, the candle wax can't undergo the chemical reaction that transforms it into carbon dioxide and water. As the software engineer [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) puts it:  
 
 > “If I can't write things down, worrying about remembering one idea gets in the way of having the next. Pen and paper wick ideas”
 > `r tufte::quote_footer('--- Paul Graham [@theislandtest]')`
