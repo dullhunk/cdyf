@@ -466,7 +466,7 @@ This book is not just words and pictures, but includes audio and video as well, 
 * videos produced by third parties that are illustrate key points
 * audio produced by third parties that are illustrate key points, either individual episodes or whole series
 * short videos produced by me, which augment the written content of this book, see the [Coding your Future YouTube channel](https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg)
-* the *Coding Your Future* podcast (Hearing Your Future) which interviews undergraduate students, see figure \@ref(fig:hyf-fig) chapter \@ref(hearing)
+* the *Coding Your Future* podcast (Hearing Your Future) which interviews undergraduate students, see figure \@ref(fig:hyf-fig) and chapter \@ref(hearing)
 
 ```{r hyf-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionhyf)"}
 knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
