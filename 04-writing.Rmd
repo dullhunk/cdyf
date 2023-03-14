@@ -51,7 +51,7 @@ knitr::include_graphics("images/two-cutures.png")
 
 (ref:captioncpsnow) Many Computer Scientists are steeped in the culture of [Science, Technology, Engineering and Mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM), seperated by a gulf of mutual incomprehension from their counterparts in the humanities. Snow argued that this gulf between the two cultures was bad for *both* sides as it handicapped our abilities to solve major global problems. [@twocultures] Fair use image of [C. P. Snow](https://en.wikipedia.org/wiki/C._P._Snow) on the cover of *[The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)* via Wikimedia Commons [w.wiki/6Rhv](https://w.wiki/6Rhv) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
- It probably doesn’t help that in the UK, and numerous other countries, many students in the latter stages of their education, choose between: 
+ It probably doesn’t help that in the UK, and several other countries, many students specialise early in their education by choosing between: 
 
 * **EITHER** a predominantly [science, technology, engineering, and mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM) pathway 
 * **OR** an “artier” and allegedly more “creative” humanities pathway [@notcreatives]
@@ -275,13 +275,13 @@ knitr::include_graphics("images/8 reasons why writing - Slowing down.png")
 
 (ref:captionslowing) Is your brain working too quickly for its own good? Writing can help to slow it down and take it one step at a time. Slowing down sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. Getting that level of precision and accuracy takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite] The author [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) puts it another way, see figure \@ref(fig:hanif-fig).
+Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. The author and playwright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks, see figure \@ref(fig:hanif-fig). Working out what you think takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite]
 
 ```{r hanif-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhanif)"}
 knitr::include_graphics("images/hanif-kureishi.jpeg")
 ```
 
-(ref:captionhanif) The playright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks. [@kureishi] Whatever you are writing, you'll have a much better understanding of what you are *actually* thinking after you've tried to write it down. CC [BY-SA](https://creativecommons.org/licenses/by-sa/2.5/deed.en) portrait of Hanif Kureishi speaking at Emory University in 2008 by [Brett Weinstein](https://www.brettweinstein.com/) on Wikimedia Commons [w.wiki/6SKv](https://w.wiki/6SKv)
+(ref:captionhanif) Like many authors, the playright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks. [@kureishi] Whatever you are writing, you'll have a much better understanding of what you are *actually* thinking after you've tried to write it down. CC [BY-SA](https://creativecommons.org/licenses/by-sa/2.5/deed.en) portrait of Hanif Kureishi speaking at Emory University in 2008 by [Brett Weinstein](https://www.brettweinstein.com/) on Wikimedia Commons [w.wiki/6SKv](https://w.wiki/6SKv)
 
 
 ### Writing as problem solving {#solving}
@@ -314,7 +314,7 @@ Here are some examples where the process of writing can be more important than i
 * Writing a reflection which forces you to analyse on what has happened and what you'll do next, see section \@ref(reflecting). Cognitive psychologists call this [metacognition](https://en.wikipedia.org/wiki/Metacognition), thinking about thinking 
 * Writing down a problem helps you to solve it, as described in section \@ref(solving)
 
-So writing is important as a *process* as well as a *product*. It forces you to be clear and focus, it is a *process* for working, not just the *product* (output) of working. When you write a dissertation or thesis for your bachelors or masters degree the process of writing is as important as the product. The computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) outlines how knowing this can help you to write a better dissertation or thesis in figure \@ref(fig:peyton-jones-fig). 
+So writing is important as a *process* as well as a *product*. That process might include slowing down (section \@ref(slowing)), speeding up (section \@ref(accelerating)) or both. Either way, writing forces you to be clear and focus, it is a *process* for working, not just the *product* (output) of working. When you write a dissertation or thesis for your bachelors or masters degree the process of writing is as important as the product. The computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) outlines how recognising this can help you to write a better dissertation or thesis in figure \@ref(fig:peyton-jones-fig). 
 
 ```{r peyton-jones-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpeyton)"}
 knitr::include_url('https://www.youtube.com/embed/VK51E3gHENc')
