@@ -202,10 +202,10 @@ knitr::include_graphics("images/8 reasons why writing - Communication.png")
 
 (ref:captioncomms) Your writing will often communicate better if you spend a bit more time and effort making it clearer. [Tin can telephone](https://en.wikipedia.org/wiki/Tin_can_telephone) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Engineers may sometimes tell you that writing about their software or hardware can be a chore. If they bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features or bugs to be added or removed. This might go some way to explaining why software and hardware documentation can be so bad because:
+Engineers may sometimes tell you that writing about their software or hardware can be a chore. If they bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features to be added or bugs to be removed. This might go some way to explaining why software and hardware documentation can be so bad because:
 
 * It is probably written as an afterthought or in a hurry
-* It might not be authored by the person who designed or built the software
+* It might not be authored by the person who actually designed or built the software
 * The documentation may be describing complex processes or very abstract concepts
 * It may have been mangled with the original meaning lost in translation to a different (natural) language
 * The author may lack empathy with their readers^[Unfortunatley this is very common in Computing!] 
