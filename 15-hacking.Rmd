@@ -71,13 +71,19 @@ knitr::include_graphics("images/rick_urshion.png")
 
 ### Marge Conflict {#marge-conflict}
 
-Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). This superpower enables her to recognise emotions in herself and others so that she can quickly resolve people's inevitable differences, see figure \@ref(fig:margeconflict-fig).
+Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). This superpower enables her to recognise emotions in herself and others so that she can quickly resolve people's differences, see figure \@ref(fig:margeconflict-fig).
 
 ```{r margeconflict-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarge)"}
 knitr::include_graphics("images/marge_conflict.png")
 ```
 (ref:captionmarge) Marge Conflict's full CV can be viewed at [cdyf.me/Marge_Conflict.pdf](https://www.cdyf.me/Marge_Conflict.pdf)
 
+Resolving people's differences is an important skill, not just for `git merge` shown in figure \@ref(fig:git-merge-fig), but any kind of team collaboration where some kind of conflict is inevitable.
+
+```{r git-merge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongitmerge)"}
+knitr::include_graphics("images/git-merge-giphy.gif")
+```
+(ref:captiongitmerge) [Git merge](https://git-scm.com/docs/git-merge) can get messy, but Marge Conflict can handle it. Meme from [giphy.com](https://giphy.com/)
 
 ### Michael Rokernel {#mike-rokernel}
 
