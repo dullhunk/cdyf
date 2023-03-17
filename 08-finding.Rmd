@@ -434,7 +434,7 @@ To improve your chances of winning with a speculative application you need to:
 The networks that we described in section \@ref(weakties) can be useful in approaching employers including:
 
 * **virtual**: people you've met online, for example in places like those described in section \@ref(portfolio)  
-* **actual**: people you've met in real-time face to face, offline 
+* **actual**: people you've met in real-time face to face, offline and [IRL](https://en.wikipedia.org/wiki/Real_life#Related_terminology) 
 * **professional** contacts: employers who have visited your University or you know via some other means
 * **personal** contacts: friends, family, fellow students etc 
 
@@ -481,6 +481,7 @@ When you're looking for job you're acting as both a buyer *and* a seller.
 As a buyer and seller, you should be wary of the following:
 
 * 🤥  Job scammers: section \@ref(scams)
+* 🐷  Job spammers: section \@ref(spamming)
 * 🤣  Over-specified jobs: section \@ref(overspec)
 * 😭  Unpaid internships: section \@ref(unpaid)
 * 📈  Overselling: section \@ref(oversell)
@@ -504,6 +505,19 @@ knitr::include_graphics("images/Job-Scams-Signs-GOVUK.png")
 (ref:captionjobscams) Beware of the job scammers. You should be highly suspicious of illegitimate companies, poorly-written job adverts, dodgy contact details and emails, unrealistic salaries, job offers without an interview and being asked for money up front. Spotting the signs of job scammers by gov.uk is licensed under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) [@jobscammers2]
 
 Reputable employers (and jobs boards) will not try to scam you, but you should beware of job scammers if you find yourself looking for employment off the beaten track. Like [Pinocchio](https://en.wikipedia.org/wiki/Pinocchio), its quite easy to spot lies once you recognise some of their nosey signals. 🤥
+
+### Beware of the job spammers {#spamming}
+You'll hopefully avoid the job scamming but its harder to avoid the job spamming. Not just any old spam, but jobspam. It isn't particularly difficult to find lots of job adverts and by the time you've registered with a few different systems described in section \@ref(looking), you'll find your inbox full of email, your notifications relentessly pinging and your LinkedIn feed full of jobspam, see figure \@ref(fig:jobspam-fig).
+
+```{r spam-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionjobspam)"}
+knitr::include_graphics("images/spam.jpeg")
+```
+
+(ref:captionjobspam) Spam, Spam, Spam, Spam… Lovely Spam! Wonderful Spam! Job adverts are just another form of advertising, so when you're looking for a job, beware of the jobspam. [Spamming](https://en.wikipedia.org/wiki/Spamming) is named after a [*Monty Python* sketch](https://en.wikipedia.org/wiki/Spam_(Monty_Python_sketch)) where customers are relentlessly offered spam. [@pythonspam] CC BY-SA picture of the menu from Monty Python’s "Spam" sketch by Eduardo Unda-Sanzana on Wikimedia Commons [w.wiki/6T8F](https://w.wiki/6T8F) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+
+
+So beware of the jobspam. 🐷
 
 ### Beware of over-specified jobs {#overspec}
 Employers and recruiters routinely over-specify job descriptions, see figure \@ref(fig:impossible-fig). A good example of this is, when the [Swift programming language](https://en.wikipedia.org/wiki/Swift_(programming_language)) was first publicly released in 2014 at the [Apple Worldwide Developers Conference](https://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference) (WWDC) in California, job adverts instantly appeared asking for programmers with `5 years experience in Swift`! How can *anyone* have five years experience in a programming language that's only just been made public?! Aside from the people who developed the language, like [Chris Lattner](https://en.wikipedia.org/wiki/Chris_Lattner), the recruiters and employers must have had a *long* search trying to find their candidate. It must have taken them at least five years!

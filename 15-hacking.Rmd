@@ -71,7 +71,7 @@ knitr::include_graphics("images/rick_urshion.png")
 
 ### Marge Conflict {#marge-conflict}
 
-Marjorie loves version control, she has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). This superpower enables her to recognise emotions in herself and others so that she can quickly resolve people's differences, see figure \@ref(fig:margeconflict-fig).
+Marjorie loves version control because Marge is the master of the merge. She also has very high [emotional intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence) (EQ). This superpower enables her to recognise emotions in herself and others so that she can quickly resolve people's differences, see figure \@ref(fig:margeconflict-fig).
 
 ```{r margeconflict-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmarge)"}
 knitr::include_graphics("images/marge_conflict.png")
