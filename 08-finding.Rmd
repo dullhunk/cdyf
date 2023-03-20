@@ -509,7 +509,7 @@ Reputable employers (and jobs boards) will not try to scam you, but you should b
 ### Beware of the job spammers {#spamming}
 You'll hopefully be able to spot the job scamming but its harder to avoid the job spamming. It isn't particularly difficult to find lots of job adverts and by the time you've registered with a few different systems described in section \@ref(looking), you'll find your inbox full of email, your notifications relentessly pinging and your LinkedIn feed full of jobspam, see figure \@ref(fig:jobspam-fig).
 
-```{r spam-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionjobspam)"}
+```{r jobspam-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionjobspam)"}
 knitr::include_graphics("images/spam.jpeg")
 ```
 
