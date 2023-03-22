@@ -122,14 +122,14 @@ You're not trying to tell your *whole* life story from section \@ref(story) but 
 
 ## Is it a bug or a feature? {#mycv}
 
-Wherever criticism of your CV comes from, don't take it personally - it is probably one of the first you have written. Think of your current CV as an alpha or beta version that you continuously test, release and redeploy. There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this. Here are some common bugs and features to pay attention to on the first draughts of your CV:
+Wherever criticism of your CV comes from, don't take it personally - it is probably one of the first you have written. Think of your current CV as an alpha or beta version that you continuously test, release and redeploy. There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this. Here are some common bugs (or are they features?) to pay attention to on initial draughts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(mycved)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Most important (usually recent) things first? Not too many sections or anything missing? See section \@ref(mycvst)
 1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent `verbs`, rather than just what you think you know? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
-1. **STYLE**: Does it look good, with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some typos can only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
+1. **STYLE**: Does it look good, with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklist in section \@ref(checklist)
 
@@ -302,15 +302,22 @@ The latter has all the same information, but by reversing the order, you've emph
 <!-- need a section on 👑 Activities and leadership -->
 
 ### Your leadership & awards {#prizes}
-If you can demonstrate leadership, you may want to dedicate a whole separate section for it. If you have experience of tutoring or mentoring other students, perhaps younger or more junior ones, make sure you highlight it as leadership. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless.
+If you can demonstrate leadership, you may want to dedicate a whole separate section for it. If you have experience of tutoring or mentoring other students, perhaps younger or more junior ones, make sure you highlight it as leadership. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
 
-A `leadership` section is also a good place to add any prizes you've won. If you've been granted any interesting awards or honours be sure to mention them, because they show the reader that a third party has endorsed you. *Other* people think you are good at something, and this says much more than *you* thinking you're good at something. You'll typically need a bit more than this:
+```{r trophy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy)"}
+knitr::include_graphics("images/trophy.jpeg")
+```
+
+(ref:captiontrophy) Have you won any awards or prizes? Make sure you describe what your prizes were awarded for and any ranking associated with them, as discussed in the text below. You're not just blowing your own trumpet, but clearly demonstrating to your reader that  *somebody else* (besides yourself) recognised and rewarded your achievements. [Creative Commons BY](https://creativecommons.org/licenses/by/2.0/deed.en) licensed picture of the [UEFA Champions League](UEFA Champions League) trophy by David Flores on Wikimedia Commons [w.wiki/6Ubh](https://w.wiki/6Ubh) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+
+If you've been granted any interesting awards or honours be sure to mention them, because they provide evidence to the reader that a third party has endorsed you. *Other* people think you are good at something, and this says much more than *you* thinking you're good at something. You'll typically need a bit more than this:
 
 ```md
 * Awarded the Poppleton University scholarship for excellence
 ```
 
-Congratulations, but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known. You might talk about rank e.g.
+Congratulations, but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known. You might talk about your ranking e.g.
 
 ```md
 * Won third prize in the flibbertigibbet competition
@@ -323,10 +330,12 @@ Again, congratulations, but third place out of how many?
 * `3/300`?
 * `3/3000`? More impressive
 
- Numbers can speak louder than words, so if you're going to mention awards, quantify^[an approximation will do if you don't have exact figures] where you can so the reader can understand what the prize was for. You may well be intimately acquainted with the [flibbertigibbet](https://en.wikipedia.org/wiki/Flibbertigibbet) competition but your reader probably won't of heard of it, so give some context. 🏆
+ Numbers can speak louder than words, so if you're going to mention awards, quantify^[an approximation will do if you don't have exact figures] where you can so the reader can understand what the prize was for. You may well be intimately acquainted with the [flibbertigibbet](https://en.wikipedia.org/wiki/Flibbertigibbet) competition but your reader probably won't of heard of it, so give some context. 
+ 
+ Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section. This might include any [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials (digital or otherwise) you've collected such as those described in section \@ref(otherbadges). 🏆
 
 ### Your optional extras {#misc}
-If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects` and `Leadership and Awards` you *may* still have room for one more optional extras section. Try to come up with a better names than: 
+If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects` and `Leadership and Awards` you *may* still have room for one more optional extras section. Try to come up with a better names for this sectionthan: 
 
 * `Miscellaneous`
 * `Extracurricular` 

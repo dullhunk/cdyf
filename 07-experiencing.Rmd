@@ -92,6 +92,7 @@ jobterm_table <- tibble::tribble(
   ~ "Experience", ~ "Description",
   "Casual", "Part-time or casual work, for example in hospitality or retail etc",
   "Voluntary", "Unpaid, both in technical and non-technical roles for charity or nonprofit organisation, for example in Manchester see [find-volunteering.manchester.ac.uk](https://find-volunteering.manchester.ac.uk/)",
+  "Virtual", "Since the pandemic, more employers are offering [virtual work experience](https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/virtual-work-experience)",
   "Social", "Unpaid, participating in a club or society e.g. students union, sport etc, for example in Manchester see [manchesterstudentsunion.com](https://manchesterstudentsunion.com/)",
   "Entrepreneurial", "Self-employment, freelancing, contracting, “moonlighting” in a [side job](https://en.wikipedia.org/wiki/Side_job) or starting as a [sole-trader](https://en.wikipedia.org/wiki/Sole_proprietorship) or small business",  
   "Insight", "Usually no contract of employment. One to three weeks, sometimes known as work experience, [work shadowing](https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-shadowing), spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Sometimes unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
