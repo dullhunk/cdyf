@@ -50,20 +50,20 @@ cat('see https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df')
 
 Thankfully, we can break it down, but there are many parameters and variables in your search that you need to think about. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned some:
 
-1. 👨‍🔬 by role, see section \@ref(by-role)
-1. 📊 by sector, see section \@ref(by-sector)
-1. 💪 by skills, see section \@ref(by-skills)
-1. 🌍 by location, see section \@ref(by-location)
-1. 👨‍👩‍👧‍👦 by network, see section \@ref(weakties)
-1. 💰 by salary, see section \@ref(by-salary)
-1. 🏋️ by size, see section \@ref(by-size)
-1. ❤️ by values, see section \@ref(by-values)
-1. 🕰 by timing, see section \@ref(by-time)
-1. ⚖️ by quantity, see section \@ref(by-quantity)
+1. 👨‍🔬 search by role, see section \@ref(by-role)
+1. 📊 search by sector, see section \@ref(by-sector)
+1. 💪 search by skills, see section \@ref(by-skills)
+1. 🌍 search by location, see section \@ref(by-location)
+1. 👨‍👩‍👧‍👦 search by network, see section \@ref(weakties)
+1. 💰 search by salary, see section \@ref(by-salary)
+1. 🏋️ search by size, see section \@ref(by-size)
+1. ❤️ search by values, see section \@ref(by-values)
+1. 🕰 search by timing, see section \@ref(by-time)
+1. ⚖️ search by quantity, see section \@ref(by-quantity)
 
 Each strategy has is own strengths and weaknesses, so you'll probably want to combine more than one and experiment with different strategies as your search progresses over time. No doubt, you'll have some extra strategies of your own, this is not meant to be an exhaustive list, just a starting point:
 
-### By role {#by-role}
+### Search by role {#by-role}
 There are many different roles that studying computing gives you access to besides software engineering. So one strategy is to research the roles described in section \@ref(otheroles), focus on some you like the sound of and then apply for those kinds of roles. Let's say you are interested in `software engineering`. This is a strategy that will help you narrow down a huge number of jobs into something more manageable. For example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -76,7 +76,7 @@ cat('see https://gist.github.com/dullhunk/c13ddb4dbd5c43220cd35caa5d1f40c7')
 
 The list of roles in section \@ref(otheroles) will give you a flavour of some roles to think about, beyond software engineering.
 
-### By sector {#by-sector}
+### Search by sector {#by-sector}
 Computing is found in every sector of business and society. This means won't just find computing jobs in the technology sector, whatever that is. Although the lines between some sectors are becoming increasingly blurred, you can still narrow down the options by picking a sector you are interested in and pursuing that. For example:
 
 
@@ -96,7 +96,7 @@ Like many graduate employment guides, the Guardian 300 guide (see section \@ref(
 
 Picking a sector can help you get started, by narrowing what might otherwise be a massive search space. The sector(s) you choose will also determine the kind of salary you can expect, see section \@ref(by-salary). I've got the brains, you've got the looks, let's make lots of money. [@letsmakelotsofmoney]
 
-### By skills {#by-skills}
+### Search by skills {#by-skills}
 Is there a specific skill you have that you enjoy using, or a technology you think has a promising future? You could use this as a way to find jobs, for example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -109,7 +109,7 @@ cat('see https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd')
 
 Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
-### By location {#by-location}
+### Search by location {#by-location}
 Pick a location. Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? Depending on the location, this will determine the options that are available:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -121,7 +121,7 @@ cat('see https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb')
 ```
  ... and so on. So locations can help you define (and potentially reduce) your search space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending free [meetup.com](https://www.meetup.com/) or [eventbrite.com](https://www.eventbrite.com/) events in your chosen location.
 
-### By network {#weakties}
+### Search by network {#weakties}
 The people in your network can help you find work. *[It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know)*, or so the cliché goes. [@newfads] The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs is using your networks. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -172,7 +172,7 @@ knitr::include_graphics("images/teachers-purveyors-of-confidence.png")
 * sector ### Gaming grads in games-->
 <!--https://www.youtube.com/watch?v=PpvdbADLJAY-->
 
-### By salary {#by-salary}
+### Search by salary {#by-salary}
 You can also define your search space by salary:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -217,8 +217,8 @@ ggplot(data = salaries) + geom_bar(mapping = aes(x = year, y = salary), stat = "
 (ref:captionsalaries) Average graduate starting salaries (in £) at the UK’s “top” employers 2007 to 2023, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2023] Since 2007, graduate salaries have risen from `£24,500` to `£33,500k` in 2023. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don't feature in this data and they typically pay less than the large multinational employers dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section \@ref(undersell)
 
 
-### By size {#by-size}
-Do you see yourself working for a large multi-national corporation or a bedroom startup? Or something in-between? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. In some cases, size will also define the `type` or organisation, for example:
+### Search by size {#by-size}
+Do you see yourself working for a large multi-national corporation or a bedroom startup? Perhaps you prefer something in-between? There's advantages and disadvantages to each, but like all our other parameters, picking an organisation size can help you get started. In some cases, size will also define the `type` or organisation, for example:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/5ec7d37a60637c7083dc661e74ddcaf9.js"></script>')
@@ -242,7 +242,7 @@ job_table <- tibble::tribble(
 knitr::kable(job_table, caption = "The practicalities of applying for vacancies, internships, placements, graduate jobs and schemes in large multinational employers compared to small and medium sized enterprises (SMEs)", booktabs = TRUE)
 ```
 
-### By values {#by-values}
+### Search by values {#by-values}
 Besides the balancing the books, which is what all employers need to do to survive, what are the values of the employers you are interested in? How do they match your own, the `values_match` below? Reasonably or not at all?  How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -262,7 +262,7 @@ knitr::include_graphics("images/Manu_Cornet_pyramid.png")
 
 Our `find_jobs()` function is useful, if only as a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment), but there's still the strategic questions of *when* you use the function and *how often* so lets look at those next.
 
-### By timing {#by-time}
+### Search by timing {#by-time}
 For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example “It's October, so I'm applying to large employers” or:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
@@ -275,7 +275,7 @@ cat('see https://gist.github.com/dullhunk/83030d66f53da3d664f6cd3ed7746a36')
 
 Armed with knowledge of *when* to apply you can start to target employers. Timing is important because in some cases it will determine the `type` of organisation you apply to.
 
-### By quantity {#by-quantity}
+### Search by quantity {#by-quantity}
 Should you optimise the *quantity* of your applications or the  *quality*, see figure \@ref(fig:blunderbuss-fig)?
 
 ```{r blunderbuss-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblunderbuss)"}
@@ -416,13 +416,13 @@ So, if you're happy to publish your work online, sites like LinkedIn, Github and
 
 ### Speculative applications {#speculative}
 
-Some job vacancies are not advertised. Employers may deliberately hide them or make them difficult to find so they aren't swamped with lots of unsuitable applicants. Smaller employers do not always offer the kinds of experience described in section \@ref(areuexperienced). In these cases, a speculative application might the only way to get a foot in the door, see figure \@ref(fig:gambling-fig). In competitive sectors which can be harder to break into like [video games](https://en.wikipedia.org/wiki/Video_game), a speculative application is worth considering alongside getting a recruiter to help you, described in section \@ref(recruiters).
+Some job vacancies are not advertised. Employers may deliberately hide them or make them difficult to find so they aren't swamped with lots of unsuitable applicants. Smaller employers do not always offer the kinds of experience described in section \@ref(areuexperienced). In these cases, a speculative application might the only way to get a foot in the door, see figure \@ref(fig:gambling-fig). In popular sectors which can be harder to break into like [video games](https://en.wikipedia.org/wiki/Video_game), a speculative application is worth considering alongside getting a recruiter to help you, described in section \@ref(recruiters).
 
 ```{r gambling-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captiongambling)"}
 knitr::include_graphics("images/gambling.jpeg")
 ```
 
-(ref:captiongambling) Are you playing your cards right? Like [gambling](https://en.wikipedia.org/wiki/Gambling), speculative applications can sometimes pay off and they can help you find unadvertised or hidden vacancies. You will improve your odds and strengthen your hand by researching the employer (see section \@ref(bp10)), using your social networks to connect and playing your (computational) joker, see section \@ref(joker). Public domain image of *[The Cardsharps](https://en.wikipedia.org/wiki/The_Cardsharps)* painting by [Carvaggio](https://en.wikipedia.org/wiki/Caravaggio) on Wikimedia Commons [w.wiki/6R6q](https://w.wiki/6R6q) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 🃏
+(ref:captiongambling) Are you playing your cards right? Like [gambling](https://en.wikipedia.org/wiki/Gambling), speculative applications can sometimes pay off, especially for hidden or unadvertised vacancies. You will improve your odds and strengthen your hand by researching the employer (see section \@ref(bp10)), using your social networks to connect and playing your (computational) joker, see section \@ref(joker). Public domain image of *[The Cardsharps](https://en.wikipedia.org/wiki/The_Cardsharps)* painting by [Carvaggio](https://en.wikipedia.org/wiki/Caravaggio) on Wikimedia Commons [w.wiki/6R6q](https://w.wiki/6R6q) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) ♣♥♠♦🃏
 
 To improve your chances of winning with a speculative application you need to: 
 

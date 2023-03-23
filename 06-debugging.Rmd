@@ -138,9 +138,9 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 
 
-## Structure your CV {#mycvst}
+## Structure your CV or Résumé {#mycvst}
 
-How you structure your CV will depend on who you are and what your story is. Recruiters at Google suggest you have four or five sections, that follow a header section. Before we look at those, lets look at some general points about CVs. Start by watching the short video shown in figure \@ref(fig:lopez-fig).
+How you structure your CV and Résumé will depend on who you are and what your story is. Recruiters at Google suggest you have four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs. Start by watching the short video shown in figure \@ref(fig:lopez-fig).
 
 ```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
@@ -200,7 +200,7 @@ Let's look at each of these sections in turn:
 
 ### Your education, education, education {#mycved}
 
-Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first real section, after the header see figure \@ref(fig:blair-fig). Your `education` section needs to strike a balance between:
+Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first real section, after the header. Your education section is important, see figure \@ref(fig:blair-fig) and needs to strike a balance between:
 
 * Describing in enough detail what you've studied and any projects^[If you put these in a `projects` section all of their own (see section \@ref(mycvpj)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant details that will be of little interest to your readers
@@ -216,7 +216,7 @@ You've invested a significant amount of time and money in getting your degree. A
 * say *more* than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf), who haven't said enough about their University education
 * say *less* than [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree.
 
-You don't need to name every single module, course code with a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: `71.587%`^[Do you *really* think academic performance can be measured that precisely?]. Two significant figures will do just fine: `72% (first class)`. You might like to pick out relevant modules, or the ones you enjoyed most. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page CV, you might only have two or three lines to describe your higher education. 🎓
+You don't need to name every single module, course code with a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: `71.587%`^[Do you *really* think academic performance can be measured that precisely?]. Two significant figures will do just fine: `72% (first class)`. You might like to pick out relevant modules, or the ones you enjoyed most. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page Résumé, you'll probably only have two or three lines to summarise some of the modules you've studied at University. 🎓
 
 ### Your experience {#mycvex}  
 
@@ -302,7 +302,7 @@ The latter has all the same information, but by reversing the order, you've emph
 <!-- need a section on 👑 Activities and leadership -->
 
 ### Your leadership & awards {#prizes}
-If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, or more junior ones, can serve as a good example through [Peer-assisted study schemes](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/) (like PASS) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
+If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through [Peer-assisted study schemes](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/) (like PASS) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
 
 ```{r trophy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy)"}
 knitr::include_graphics("images/trophy.jpeg")
@@ -335,7 +335,7 @@ Again, congratulations, but third place out of how many?
  Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrates your learning interests beyond just ticking the boxes of what your University asks of you in your formal education]. Extra courses might include [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges). 🏆
 
 ### Your optional extras {#misc}
-If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects` and `Leadership and Awards` you *may* still have room for one more optional extras section. Try to come up with a better names for this sectionthan: 
+If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with a better names for this section than: 
 
 * `Miscellaneous`
 * `Extracurricular` 
@@ -343,7 +343,7 @@ If you have anything else you want to highlight besides your `Education`, `Exper
 
 These titles sound like dumping grounds for your leftovers. You might decide to have a dedicated `skills` or `personal statement` section but see section \@ref(mycvsk) and \@ref(bullshit).
 
-You may opt to have a `hobbies and interests` section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
+You could opt to have a `hobbies and interests` section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
@@ -395,8 +395,8 @@ This applies to soft skills too, not just hard technical skills. It is often bet
 
 If you're a computer scientist, you also have demonstrable `meta` skills like the ability to learn things quickly. You can also think logically and critically, reason, problem solve, analyse, generalise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these `meta` capabilities and your potential than in any specific technical skills you may or may not have.
 
-## Birds eye view
-Having looked at the sections you're likely to have, we'll take a birds eye view of your whole CV. The issues in this section apply to the whole of your CV, rather than individual sections.
+## Bird's eye view
+Having zoomed in on the details of sections you're likely to have, we'll zoom back out to take a [bird's eye view](https://en.wikipedia.org/wiki/Bird%27s-eye_view) of your whole CV. The issues in this section apply to the whole of your CV, rather than individual sections.
 
 ### Your style {#pdf}
 
