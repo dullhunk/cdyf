@@ -234,16 +234,16 @@ Are you experienced? Whatever it is, make sure you add it to your `experience` s
 
 ### Your projects {#mycvpj}
 
-The `Projects` section of your CV is where you can describe all other activities you get up to. Your projects might include activities that are neither part of your `Education` or your paid `Experience` section such as:
+The `Projects` section of your CV is where you can describe all your other activities. Your projects will include activities that you haven't already described in your `Education` or your paid `Experience` section such as:
 
 * personal side projects, see section \@ref(tinkering)
 * social responsibility projects, not neccesarily technical, see section \@ref(volunteering)
 * open source projects, see section \@ref(opensource)
 * entrepreneurial projects, your “[side hustles](https://en.wikipedia.org/wiki/Side_job)” (if you have any)
 * hackathons, olympiads and other competitive or collaborative events, see section \@ref(tinkering)
-* University projects
-    + these sometimes fit better in your `Education` section
-    + Be *careful* publishing coursework, this can make you liable for accusations of plagiarism. If someone copies your coursework, you will **both** be guilty of academic malpractice...
+* University projects:
+    + these sometimes fit better in your `Education` section, depending on how many non-Uni projects you have
+    + Be *careful* publishing coursework, this can make you liable for accusations of plagiarism. If someone copies your coursework, you will **BOTH** be guilty of academic malpractice...
     + ... but final year (“[capstone](https://en.wikipedia.org/wiki/Capstone_course)”) projects are great as these will tend to be unique, distinguishing you from everybody else in your year group
 
 Your projects will most likely be unpaid because paid work tends to fit better under the heading `experience`, see section \@ref(mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, the [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repository is a good starting point. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in figure \@ref(fig:feynman-fig). What you cannot create you do not understand. Another great way to learn is to get involved with open source projects which we describe in section \@ref(opensource).
@@ -302,7 +302,7 @@ The latter has all the same information, but by reversing the order, you've emph
 <!-- need a section on 👑 Activities and leadership -->
 
 ### Your leadership & awards {#prizes}
-If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through [Peer-assisted study schemes](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/) (like PASS) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
+If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like [PASS]((https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/))) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
 
 ```{r trophy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy)"}
 knitr::include_graphics("images/trophy.jpeg")
@@ -332,7 +332,7 @@ Again, congratulations, but third place out of how many?
 
  Numbers can speak louder than words, so if you're going to mention awards, quantify^[an approximation will do if you don't have exact figures] where you can so the reader can understand what the prize was for. You may well be intimately acquainted with the [flibbertigibbet](https://en.wikipedia.org/wiki/Flibbertigibbet) competition but your reader probably won't of heard of it, so give some context. 
  
- Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrates your learning interests beyond just ticking the boxes of what your University asks of you in your formal education]. Extra courses might include [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges). 🏆
+ Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrates your learning interests beyond just ticking the boxes of what your University asks of you in your formal education]. Extra skills and knowledge you've picked up from [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges), are worth mentioning. 🏆
 
 ### Your optional extras {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with a better names for this section than: 
@@ -407,7 +407,7 @@ knitr::include_graphics("images/CV need a little work.png")
 ```
 (ref:captionworkcv) Does your CV need a little work? The truth is your CV is never finished, you will be continuously developing, debugging and releasing it throughout your life. It's such a crucial document because it will determine if you are invited to interview. Any time you spend getting it right is a good investment. CV work sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Seemingly trivial typographical details can make a big difference to the overall look and feel of your document. The devil is in the detail, for example this text in a bulleted list doesn't use a proper indent...
+Seemingly trivial typographical details can make a big difference to the overall look and feel of your document. The [devil is in the details](https://en.wikipedia.org/wiki/The_devil_is_in_the_details), for example this text in a bulleted list doesn't use a proper indent...
 
 • `The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog`
 

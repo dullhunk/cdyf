@@ -59,7 +59,7 @@ This guidebook aims to help you develop stronger habits of mind, body and soul u
 knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 ```
 
-(ref:captionhellomyname) Hello, my name is [Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me and together we can starting coding your future. Please don't call me `Sir`, `Professor` or `Doctor`, just call me **Duncan**. Titles are tinsel! [@shelley] Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
+(ref:captionhellomyname) Hello, my name is [Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me and together we can starting coding your future. Please don't call me `Sir`, `Professor` or `Doctor`, [That's not my name](https://en.wikipedia.org/wiki/That%27s_Not_My_Name)! [@tingtings] Just call me **Duncan** because titles are tinsel. [@shelley] Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
 
 *Coding your future* explores techniques for investigating career possibilities, job searching, making career decisions, writing applications and competing successfully in interviews and the workplace.
 
@@ -485,7 +485,7 @@ knitr::include_graphics("images/st-annes-rc-high-school.jpg")
 
 (ref:captionstannes) Good governance is crucial to good schools. Many forgotten schools like [St. Anne's R.C. High School](https://en.wikipedia.org/wiki/St_Anne%27s_RC_Voluntary_Academy), and the thousands of children in the UK they educate every year, need help from skilled people like you on their governing boards. Why not serve your local community as a “[critical friend](https://en.wikipedia.org/wiki/Critical_friend)” on the governing board of a school? All ages are welcome, but especially younger governors, see [where are all the young school governors?](https://www.theguardian.com/teacher-network/2015/mar/11/young-people-school-governors) [@youngovernors] Take a look at [governorsforschools.org.uk](https://governorsforschools.org.uk/). Fair use image via Wikimedia Commons [w.wiki/3Swt](https://w.wiki/3Swt) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So thanks Stockport for being Stockport. Thanks for the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.): It's all that matters, Stockport Hatters. 🙏
+So thanks Stockport for being [Stopfordian](https://en.wiktionary.org/wiki/Stopfordian). Thanks for the magnificent [Stockport Viaduct](https://en.wikipedia.org/wiki/Stockport_Viaduct) and for [The Hatters](https://en.wikipedia.org/wiki/Stockport_County_F.C.): It's all that matters, Stockport Hatters. 🙏
 
 ### Thank you schools {#schools}
 Thanks to all the schools who've hosted our undergraduate students as part of an ongoing partnership between the University of Manchester and local schools called [Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future), see figure \@ref(fig:coding-their-future-fig):
@@ -891,7 +891,7 @@ This means you can copy and redistribute the written material provided that:
 
 See the [full license](https://creativecommons.org/licenses/by-nc-nd/3.0/) (CC-BY-NC-ND) for details.
 
-The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are published under [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/), [fair use](https://en.wikipedia.org/wiki/Fair_use) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details for that images licence.
+The *images* used in this guidebook are published under different licenses, depending on their source. For example, Bryan Mathers illustrations are licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/ ), see figure \@ref(fig:kapow-fig). Other images have different licences, for example, images from Wikimedia Commons ([commons.wikimedia.org](https://commons.wikimedia.org/)) are typically published [CC-BY](https://creativecommons.org/licenses/by/2.0/) or [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/), [fair use](https://en.wikipedia.org/wiki/Fair_use), [GFDL](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) or [public domain](https://en.wikipedia.org/wiki/Public_domain). Each figure caption gives details for that images licence.
 
 ```{r kapow-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkapow)"}
 knitr::include_graphics("images/CC-attribution-1.png")
