@@ -52,14 +52,14 @@ This guidebook aims to help you develop stronger habits of mind, body and soul u
 1. **`D is for DATA`**: From big data to microdata, your data to my data and our data. Structured data, semi-structured data and un-structured data. Factual, statistical, graphical, readable and audible data. Bytes, bits and bobs collected together for your analysis and amusement
 1. **`Y is for YOU`**: This book is all about you, with activities and other *coding challenges* for you to do in addition to just passively reading
 1. **`F is for FUTURES`**: Possible futures for you to think about. Try not to dwell on the past. Think about the future. Think about *your* future. [@thinkaboutthefuture; @wroteforluck]
-1. **`.me is for ME`**: Hello, my name is Duncan, see figure \@ref(fig:hello-my-name-fig). I'm your tour guide here. If you're feeling a bit lost, follow me and together we can starting coding your future.
+1. **`.me is for ME`**: Hello, [my name is Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)), see figure \@ref(fig:hello-my-name-fig). I'm your tour guide here. If you're feeling a bit lost, follow me and together we can starting coding your future.
 
 
 ```{r hello-my-name-fig, echo = FALSE, fig.align = "center", out.width = "89%", fig.cap = "(ref:captionhellomyname)"}
 knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 ```
 
-(ref:captionhellomyname) Hello, my name is [Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me and together we can starting coding your future. Please don't call me `Sir`, `Professor` or `Doctor`, [That's not my name](https://en.wikipedia.org/wiki/That%27s_Not_My_Name)! [@tingtings] Just call me **Duncan** because titles are tinsel. [@shelley] Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
+(ref:captionhellomyname) Hello, [my name is Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me and together we can starting coding your future. Please don't call me `Sir`, `Professor` or `Doctor`, [That's not my name](https://en.wikipedia.org/wiki/That%27s_Not_My_Name)! [@tingtings] Just call me **Duncan** because titles are tinsel. [@shelley] Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
 
 *Coding your future* explores techniques for investigating career possibilities, job searching, making career decisions, writing applications and competing successfully in interviews and the workplace.
 
