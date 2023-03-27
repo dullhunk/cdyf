@@ -193,14 +193,14 @@ Your header doesn't need to include any more information than your name, email, 
 1. 🎓 `Education`: the formal stuff, see section \@ref(mycved)
 1. 💰 `Experience`: paid work, see section \@ref(mycvex)
 1. 💪 `Projects`: personal, school, social, side or University projects see section \@ref(mycvpj)
-1. 🏆 `Leadership and awards`: see section \@ref(prizes)
+1. 🏆 `Leadership and awards`: your trophy cabinet, see section \@ref(prizes)
 1. ❓ `Optional`: but don't call it that, see section \@ref(misc)
 
 Let's look at each of these sections in turn:  
 
 ### Your education, education, education {#mycved}
 
-Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first real section, after the header. Your education section is important, see figure \@ref(fig:blair-fig) and needs to strike a balance between:
+Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig) so your description of it needs to strike a balance between:
 
 * Describing in enough detail what you've studied and any projects^[If you put these in a `projects` section all of their own (see section \@ref(mycvpj)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant details that will be of little interest to your readers
@@ -302,13 +302,13 @@ The latter has all the same information, but by reversing the order, you've emph
 <!-- need a section on 👑 Activities and leadership -->
 
 ### Your leadership & awards {#prizes}
-If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like [PASS]((https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/))) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
+If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like [PASS](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/)) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
 
 ```{r trophy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy)"}
 knitr::include_graphics("images/trophy.jpeg")
 ```
 
-(ref:captiontrophy) Have you won any awards or prizes? Make sure you describe what your prizes were awarded for and any ranking associated with them, as discussed in the text below. You're not just blowing your own trumpet, but clearly demonstrating to your reader that  *somebody else* (besides yourself) recognised and rewarded your achievements. [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) licensed picture of the [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) trophy by David Flores on Wikimedia Commons [w.wiki/6Ubh](https://w.wiki/6Ubh) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captiontrophy) Have you won any awards or prizes? Make sure you describe what your prizes were awarded for and any ranking associated with them, as discussed in the text below. You're not just blowing your own trumpet, but clearly demonstrating to your reader that  *somebody else* (besides yourself) recognised and rewarded your achievements. [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) licensed picture of the [UEFA Champions League](https://en.wikipedia.org/wiki/UEFA_Champions_League) trophy by David Flores on Wikimedia Commons [w.wiki/6Ubh](https://w.wiki/6Ubh) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) ⚽️
 
 
 If you've been granted any interesting awards or honours be sure to mention them, because they provide evidence to the reader that a third party has endorsed you. *Other* people think you are good at something, and this says much more than *you* thinking you're good at something. You'll typically need a bit more than this:
@@ -348,7 +348,7 @@ You could opt to have a `hobbies and interests` section which can add a bit of c
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
 ```
-(ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say). [@quidditch] However, such coincidences are unlikely so if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills or knowledge you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say). [@quidditch] However, such coincidences are unlikely so if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills, knowledge or experience you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 The fact that you enjoy `swimming`, `reading`, `football`, `cooking` and `hiking` is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
 
@@ -711,7 +711,7 @@ Applications and CV's are often accompanied by covering letters or include some 
 knitr::include_graphics("images/elevator-pitch.jpeg")
 ```
 
-(ref:captionelevator) Covering letters and personal statements are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch). They should summarise why you're applying and what you have to offer, in a way that persuades the reader (or listener) that they should invite you to interview, before they get out of your metaphorical elevator. Elevator image by Downtowngal is licensed CC BY via Wikimedia Commons [w.wiki/5wGF](https://w.wiki/5wGF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionelevator) Covering letters and personal statements are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch). Whatever floor you're destined for, your pitch should summarise why you're applying and what you have to offer, in a way that persuades the reader (or listener) that they should invite you to interview, before they get out of your metaphorical elevator. Elevator image by Downtowngal is licensed CC BY via Wikimedia Commons [w.wiki/5wGF](https://w.wiki/5wGF) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Let's say you're applying for a widget engineering position at the world famous gadget company `widget.com`. There are three things you need to convey in the following order:
 
