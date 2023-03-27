@@ -436,11 +436,15 @@ There is no shortage of software to help you write better, beyond the basic spel
 knitr::include_graphics("images/chatgpt.jpeg")
 ```
 
-(ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/) and launched in 2022. It is built on top of OpenAI's GPT-3 family of large [language models](https://en.wikipedia.org/wiki/Language_model) and has been fine-tuned using both supervised learning and reinforcement learning techniques. ChatGPT is one of several *writing machines* or *robo-writers* that you can use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/) and launched in 2022. It is built on top of OpenAI's GPT-4 family of large [language models](https://en.wikipedia.org/wiki/Language_model) and has been fine-tuned using both supervised learning and reinforcement learning techniques. ChatGPT is one of several *writing machines* or *robo-writers* that you can potentially use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 All of these tools will be biased by whatever data they've been trained on and encode some of the prejudices of the engineers that wrote their algorithms. You need to be careful about plagirism (if it is academic work) and writing generic job applications that are de-personalised and de-humanised. Employers will be able to spot these a mile off.
 
-Despite their limitations, and the fact that we're still trying to figure out what their long term impacts will be, they can all help you to communicate more clearly and quickly. [@mairead; @noordenai; @hutsonai]
+Another problem with using writing machines to help you communicate is that while the more sophisticated software might help overcome some of the dreaded *writer's block*, they bypass the important *process* of writing discussed in section \@ref(product). Writing about something is one of the best ways to learn about it, and sometimes the best time to write is when you're trying to figure out the subject for yourself. If you wait until you're an expert, it will be too late to start.
+
+So viewing writing as just another kind of `output`, overlooks a lot of the value of writing in the first place. 
+
+Despite their limitations, and the fact that we're still trying to figure out what their long term impacts will be, writing machines may help you to communicate more clearly and quickly. [@mairead; @noordenai; @hutsonai]
 
 ### Deliberate daily writing {#dailywrite}
 Another technique for improving your written communication is to write something every day, that might be a personal diary that only you read, or it could be something more public like blog.  Schedule a time every day, say 15 to 30 minutes when you will do this without fail. That writing could take several forms:
