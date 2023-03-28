@@ -85,7 +85,7 @@ According to Redmond, your employability ($E$) is the sum of your qualifications
 
 ## Are you experienced? {#areuexperienced}
 
-So what counts as `experience`? I'm going to use experience to mean applying what you've learnt in your formal education outside of school or University, this includes but its not limited to, paid work. Employers use terms to describe jobs and experience for undergraduates and graduates inconsistently. So I've defined and outlined terms for relevant kinds of experience shown in table \@ref(tab:jobterms) and we'll use these definitions throughout the book.
+So what counts as `experience`? I'm going to use experience to mean applying what you've learnt in your formal education *outside* of school or University, this includes but is not limited to, paid employment. Employers use terms to describe jobs and experience for undergraduates and graduates inconsistently. So I've defined and outlined terms for relevant kinds of experience shown in table \@ref(tab:jobterms) and we'll use these definitions throughout the book.
 
 ```{r jobterms, echo = FALSE}
 jobterm_table <- tibble::tribble(

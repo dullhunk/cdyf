@@ -125,20 +125,22 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into four parts, shown in the map in figure \@ref(fig:map-fig):
+This guidebook is split into five parts:
 
 1. In chapters \@ref(rebooting) to \@ref(computing) we look at *designing* your future
-1. In chapters \@ref(debugging) to \@ref(researching) we look at *building* and *testing* your future
+1. In chapters \@ref(debugging) to \@ref(researching) we look at *testing* your future
+1. In chapters \@ref(debugging) to \@ref(researching) we also look at *building* your future
 1. In chapters \@ref(ruling) to \@ref(scheduling) we look at *deploying* your future
-1. In chapters \@ref(raluca) to \@ref(reading) we hear from students who are *coding* their future
+1. In chapters \@ref(raluca) to \@ref(reading) we meet students who are *coding* their future
 
-Let's look in a bit more detail at the content of each of the four parts of this guidebook:
+Although presented in a linear order, I recommend you follow whatever order suits you best, as shown in figure \@ref(fig:map-fig).
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
-knitr::include_graphics("images/Course Map V3.png")
+knitr::include_graphics("images/Course Map Pentagram.png")
 ```
-(ref:captionmapping) Mapping your future: Each yellow dot on this diagram is a chapter in *Coding Your Future*. The chapters on the left tackle design issues like *who are you*? Chapters on the right tackle the practicalities of executing and testing your career choices, such as *debugging your CV*. Mapping your Future artwork by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionmapping) Mapping your future: sometimes learning is *linear*, as shown in the left hand side of this picture. This guidebook encourages you to follow a *non-linear* iterative learning journey, shown on the right hand side. Start where you like, follow your nose and be prepared to repeat stages as you progress through the early stages of your career.
 
+Let's look in a bit more detail at each of the five parts of this guidebook.
 
 ### Designing your future {#parti}
 
@@ -200,7 +202,9 @@ knitr::include_graphics("images/clifton.png")
 * A soundtrack, also available as a Spotify and YouTube playlist
 -->
 
-The final part, *Coding your Future*, from chapter \@ref(hearing) gives an overview of the podcast which accompanies this book: *Hearing your Future*. Each subsequent chapter meets a student who is *Coding their Future* and asks, how did they get to where they are and where are they going next? The final chapter \@ref(reading): *Reading your future* lists everything cited in this guidebook.
+### Future coders {#partiv}
+
+The final part of this guidebook, from chapter \@ref(hearing) onwards meets students who are *Coding their Future* and asks, how did they get to where they are and where are they going next? These chapters form part of a podcast which accompanies this book: *Hearing your Future*. The final chapter \@ref(reading): *Reading your future* lists everything cited in this guidebook.
 
 ## Your future themes {#themes}
 This guidebook aims to help you build a bridge from where you are now to where you'd like to be in the future. Each chapter of the book contains the following recurring themes:
