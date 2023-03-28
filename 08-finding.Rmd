@@ -253,7 +253,7 @@ cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620c
 cat('see https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9')
 ```
 
-An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? What sort of structure would you fit into, see figure \@ref(fig:pyramid-fig)? Would you enjoy working there and would you felt like you belonged? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(knowing). Talk to employees too, this is why networking is important, see section \@ref(weakties).
+An employers `values` are often reflected in the organisations `culture`. What is the employers culture like? What sort of structure would you fit into, see figure \@ref(fig:pyramid-fig)? Would you enjoy working there and would you felt like you belonged? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(exploring). Talk to employees too, this is why networking is important, see section \@ref(weakties).
 
 ```{r pyramid-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpyramid)"}
 knitr::include_graphics("images/Manu_Cornet_pyramid.png")
@@ -573,7 +573,7 @@ There's two kinds of fake news that are common in the jobs marketplace:
 So beware of fake news and overselling. [Don't believe the hype](https://en.wikipedia.org/wiki/Don%27t_Believe_the_Hype). [@dontbelievethehype] 📈
 
 ### Beware of underselling {#undersell}
-Likewise, you should make sure you don't undersell yourself. Know your value (financial), know your values (see chapter \@ref(knowing)) and try to understand how that fits with a given employer. What are the employers stated values? When it comes to financial value, it is easy to find out about salaries, for example see:
+Likewise, you should make sure you don't undersell yourself. Know your value (financial), know your values (see chapter \@ref(exploring)) and try to understand how that fits with a given employer. What are the employers stated values? When it comes to financial value, it is easy to find out about salaries, for example see:
 
 
 * [levels.fyi](https://www.levels.fyi/) (“*Get Paid, Not Played!*”) will give you a good idea of salaries
@@ -595,7 +595,7 @@ knitr::include_graphics("images/steve-furber.jpeg")
 
 (ref:captionfurber) The design of a [general-purpose processor](https://en.wikipedia.org/wiki/History_of_general-purpose_CPUs), in common with most engineering endeavours, requires careful consideration of many trade-offs and compromises. [@furberarm] That's also true for your engineering your future too, what compromises and trade-offs are you happy to make? CC BY-SA portrait of microprocessor designer [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) by Peter Howkins on Wikimedia Commons [w.wiki/544E](https://w.wiki/544E) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) Thanks Steve for permission to use your photo.
 
-To work out what compromises and trade-offs you are prepared to make, you may need to revisit the issues discussed in chapter \@ref(knowing). 🤔
+To work out what compromises and trade-offs you are prepared to make, you may need to revisit the issues discussed in chapter \@ref(exploring). 🤔
 
 ### Beware of the time sink {#timesink}
 Finding employers that you are interested in and submitting high quality job applications takes lots of time. Many students under estimate the time needed to job hunt. It can be a very time consuming process for everyone, both employers and candidates alike, see figure \@ref(fig:timesink-fig).
@@ -607,8 +607,8 @@ knitr::include_graphics("images/timesink.jpeg")
 
 Even after you have managed to:
 
-1. Identify and articulate your skills and knowledge, see chapter \@ref(knowing)
-1. Understand what you're interested in, see chapter \@ref(knowing)
+1. Identify and articulate your skills and knowledge, see chapter \@ref(exploring)
+1. Understand what you're interested in, see chapter \@ref(exploring)
 1. Update your CV, see chapter \@ref(debugging)
 1. Consider all your options, see chapter \@ref(broadening)
 1. Target employers or sectors of interest

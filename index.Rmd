@@ -125,22 +125,22 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-This guidebook is split into five parts:
+This guidebook is split into five parts, with two parts merged into one:
 
-1. In chapters \@ref(rebooting) to \@ref(computing) we look at *designing* your future
-1. In chapters \@ref(debugging) to \@ref(researching) we look at *testing* your future
-1. In chapters \@ref(debugging) to \@ref(researching) we also look at *building* your future
-1. In chapters \@ref(ruling) to \@ref(scheduling) we look at *deploying* your future
-1. In chapters \@ref(raluca) to \@ref(reading) we meet students who are *coding* their future
+1. Chapters \@ref(rebooting) to \@ref(computing) look at *designing* your future
+1. Chapters \@ref(debugging) to \@ref(researching) look at *testing* your future
+1. Chapters \@ref(debugging) to \@ref(researching) also look at *building* your future
+1. Chapters \@ref(ruling) to \@ref(scheduling) look at *deploying* your future
+1. Chapters \@ref(raluca) to \@ref(reading) meet students who are *coding* their future
 
-Although presented in a linear order, I recommend you follow whatever order suits you best, as shown in figure \@ref(fig:map-fig).
+Although *presented* in a linear order, follow whatever path suits you best, as shown in figure \@ref(fig:map-fig). Many students start with chapter \@ref(debugging), but individual entry and exit points to your future will differ.
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map Pentagram.png")
 ```
-(ref:captionmapping) Mapping your future: sometimes learning is *linear*, as shown in the left hand side of this picture. This guidebook encourages you to follow a *non-linear* iterative learning journey, shown on the right hand side. Start where you like, follow your nose and be prepared to repeat stages as you progress through the early stages of your career.
+(ref:captionmapping) Mapping your future: sometimes your learning follows a predictable *linear* path, as shown in the left hand side of this picture. Whatever path you take in life, your future is unlikely to be either predictable *or* linear. Consequently, this guidebook encourages you to follow a *non-linear* iterative learning journey, shown on the right hand side. Start where you like, follow your nose and be prepared to repeat stages as you progress through the early moves in your career.
 
-Let's look in a bit more detail at each of the five parts of this guidebook.
+Let's look in a bit more detail at each of the five parts of this guidebook, starting with design.
 
 ### Designing your future {#parti}
 
@@ -154,8 +154,8 @@ knitr::include_graphics("images/brooklyn-bridge-blueprint.png")
 
 Building a career isn't that different to building anything else, you'll need do many iterations of designing, testing, building and deploying. Designing things often involves answering tricky questions. So when you're designing your future you'll need to cover the following:
 
-* Chapter \@ref(rebooting): *Rebooting your future* discusses why you should bother reading this guidebook
-* Chapter \@ref(knowing): *Knowing your future* challenges you to reflect on who you are, what makes you unique and what you have to offer
+* Chapter \@ref(rebooting): *Rebooting your future* discusses why you should bother reading this guidebook and coding your future 
+* Chapter \@ref(exploring): *Exploring your future* challenges you to reflect on who you are, what makes you unique and what you have to offer to build better self-awareness
 * Chapter \@ref(nurturing): *Nurturing your future* encourages you to pay attention to your mental and physical health
 * Chapter \@ref(writing): *Writing your future* explores your soft communication skills, how they complement your hard skills and why employers value them so much
 * Chapter \@ref(computing): *Computing your future* looks at the role computing can play in your career, especially if Computer Science is not a major part of your degree
@@ -169,14 +169,14 @@ knitr::include_graphics("images/manhattan_bridge.png")
 ```
 (ref:captionbridge) Just like the [Manhattan Bridge](https://en.wikipedia.org/wiki/Manhattan_Bridge), your future will be easier to build once you've done some preliminary design. You don't need a grand design with tonnes of details, a simple sketch will do. Design questions are covered in the first part of this guidebook on designing your future. Picture of the Manhattan bridge under construction in 1909 adapted from a public domain image via Wikimedia commons [w.wiki/32Rg](https://w.wiki/32Rg)
 
-Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what the next steps will be.
+Once you've started to answer the design questions in the first part, you can start to implement (or build) your career and think about what your next moves will be.
 
 * Chapter \@ref(debugging): *Debugging your future* looks at debugging your written communication such as covering letters,  application forms and digital portfolios.
 * Chapter \@ref(experiencing): *Experiencing your future* asks you to reflect on your experience and help identify where you can improve it
 * Chapter \@ref(finding): *Finding your future* looks at where and how can you look for interesting opportunities
 * Chapter \@ref(broadening): *Broadening your future* encourages you to broaden your horizons. What are the possibilities beyond the obvious?
 * Chapter \@ref(speaking): *Speaking your future* looks how can you turn interviews to your advantage and negotiate any offers you receive
-* Chapter \@ref(surviving): *Surviving your future* looks at the next steps. Once you've landed a job, how will you survive and thrive outside (and after) University
+* Chapter \@ref(surviving): *Surviving your future* looks at the moves you make after landing your first job. During your transition, how will you survive and thrive outside (and after) University
 * Chapter \@ref(achieving): *Achieving your future* looks at evidence you can collect of your learning and development using various kinds of certifiable evidence
 * Chapter \@ref(researching): *Researching your future* discusses if a Masters degree or a PhD right for you?
 
@@ -860,7 +860,7 @@ knitr::include_graphics("images/faces.jpeg")
 
 This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights and exercises useful. I've sat on both sides of many interview tables, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
-Most of what I have learned about employment comes from listening to, watching and helping students as they interact with employers on the first tentative steps in their careers, particularly through our industrial experience program, see figure \@ref(fig:ie-fig).
+Most of what I have learned about employment comes from listening to, watching and helping students as they interact with employers on the first tentative moves in their careers, particularly through our industrial experience program, see figure \@ref(fig:ie-fig).
 
 
 ```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:ieblurb)"}

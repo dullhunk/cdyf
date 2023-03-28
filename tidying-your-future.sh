@@ -11,8 +11,8 @@ echo "replaced index.html"
 find . -name "*.html" -exec sed -I '' 's/rebooting.html/rebooting/g' {} +
 echo "replaced rebooting.html"
 
-find . -name "*.html" -exec sed -I '' 's/knowing.html/knowing/g' {} +
-echo "replaced knowing.html "
+find . -name "*.html" -exec sed -I '' 's/exploring.html/exploring/g' {} +
+echo "replaced exploring.html "
 
 find . -name "*.html" -exec sed -I '' 's/nurturing.html/nurturing/g' {} +
 echo "replaced nurturing.html "

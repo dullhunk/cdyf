@@ -53,7 +53,7 @@ While it is true that some employers don't accept CVs or favour online applicati
 
 * Your CV provides a record for you of relevant things you've done
 * Your CV enables you to get your story straight, *What's your story, coding glory?* see section \@ref(story) [@whatsthestory]
-* Your CV forces you to articulate who you are and what you want, see chapter \@ref(knowing)
+* Your CV forces you to articulate who you are and what you want, see chapter \@ref(exploring)
 * Some employers will still ask you for one, see section \@ref(robotproof) and figure \@ref(fig:longlive-fig)
 * Your CV helps you script and practice your “lines” for interviews, see chapter \@ref(speaking)
 
@@ -540,13 +540,13 @@ Reading between the lines: “I really enjoy learning from other people by going
 
 * your hyperlinks are [readable and descriptive](https://readabilityguidelines.co.uk/content-design/links/) [@readable]  
 * your hyperlinks are clickable in the PDF. Don't expect your reader to cut and paste (or even type) URLs, they are too busy. If they are clickable, people are much more likely to follow them
-* your hyperlinks are paper-proof: links with opaque titles like  “[My LinkedIn](linkedin.com/in/duncanhull)”, “[click here](https://www.w3.org/QA/Tips/noClickHere.html)”, and “[My Projects on Github](https://github.com/dullhunk)”  won't work well on printed paper unless you explicitly spell them out like this: 
+* your hyperlinks are paper-proof: links with opaque titles like  “[My LinkedIn](linkedin.com/in/duncanhull)”, “[click here](https://www.w3.org/QA/Tips/noClickHere.html)”, and “[My Projects on Github](https://github.com/dullhunk)”  won't work well on printed paper unless you explicitly spell the URL out like this: 
     + [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull) 
     + [github.com/dullhunk](https://github.com/dullhunk)
 
 Some people still print CV's so it is worth making links work on paper as well as online, see [to print or not to print — a CV, that is](https://bbc.in/3zXv6zr) [@printcv]
 
-Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), see section \@ref(portfolio) [@stackoverflow]. You can also link to personal projects, any articles you've published or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), be wary of social media.
+Besides LinkedIn you could include public profiles from [github.com](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile), [devpost.com](https://help.devpost.com/hc/en-us/articles/360021734632-Update-your-profile-and-username), [hackerrank.com](https://www.hackerrank.com/leaderboard) and [stackoverflow](https://medium.com/@rhamedy/contribution-debt-why-how-to-contribute-to-stack-overflow-a69d4bd50d0c), see section \@ref(portfolio) [@stackoverflow]. You can also link to personal projects, any articles you've published or your blog if you have one. Obviously, you need to be careful about what you link to and what employers can find out about you online. They *will* Google you. So keep it professional and, as we discussed in a section \@ref(signposts3), if you're not already, be wary of social media.
 
 ::: {.rmdnote}
 (ref:codingcomment)
@@ -773,7 +773,7 @@ In this chapter we have looked at how to debug your future, with a particular fo
 * Being stuck is temporary, see section \@ref(nevergiveup)
 * Check your assumptions, especially if debugging the `content` bugs described in section \@ref(ilo7) makes you anxious or depressed, see chapter \@ref(nurturing)
 * Don't go it alone, grow your network, see section \@ref(weakties)
-* Build your debugging toolkit by identifying your strengths and weaknesses, see chapter \@ref(knowing)
+* Build your debugging toolkit by identifying your strengths and weaknesses, see chapter \@ref(exploring)
 
 <!-- except there isn't always a reason!-->
 

@@ -41,7 +41,7 @@ Welcome week, starting 19th September:
 ## Week 5: Knowing {#week5}
 **Monday 24th October** at 5pm:
 
-* *Knowing your future* read chapter \@ref(knowing): How well do you know yourself? Lecture and workshop in (ref:mecd), see  [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). What are your unique talents (superpowers) and where is your achilles heel (weakness)? What are you doing to improve both sets of skills?--
+* *Exploring your future* read chapter \@ref(exploring): How well do you know yourself? Lecture and workshop in (ref:mecd), see  [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). What are your unique talents (superpowers) and where is your achilles heel (weakness)? What are you doing to improve both sets of skills?--
 
 ## Week 6: Pausing {#week6}
 **Monday 31st October** at 5pm:
@@ -182,7 +182,7 @@ Welcome week, starting 20th September:
 ## Week 5: Knowing {#week5}
 **Monday 25th October** at midday:
 
-* *Knowing your future* read chapter \@ref(knowing): How well do you know yourself? Lecture and workshop in (ref:mecd), see  [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). What are your unique talents (superpowers) and where is your achilles heel (weakness)? What are you doing to improve both sets of skills?--
+* *Exploring your future* read chapter \@ref(exploring): How well do you know yourself? Lecture and workshop in (ref:mecd), see  [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). What are your unique talents (superpowers) and where is your achilles heel (weakness)? What are you doing to improve both sets of skills?--
 
 ## Week 6: Pausing {#week6}
 **Monday 1st November** at midday:
