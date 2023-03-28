@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="$if(lang)$$lang$$else$en$endif$">
+
+<!-- this doesn't work-->
+<footer>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="d-none d-lg-block col-lg-2 sidebar"></div>
+      <div class="col-sm-12 col-md-9 col-lg-7 mt-3" style="max-width: 45rem;">
+        <p><strong>$title$</strong>$if(subtitle)$: $subtitle$$endif$ by <a href="https://personalpages.manchester.ac.uk/staff/duncan.hull/">Duncan Hull</a> and illustrated by Bryan Mathers. $if(date)$Updated on $date$.$endif$ This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+      </div>
+  </div>
+</footer>
+
+
+
+</html>

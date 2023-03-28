@@ -1,6 +1,7 @@
 ---
 title: "Coding Your Future: A Guidebook for Students"
-author: Duncan Hull and illustrated by Bryan Mathers
+# hack license and date information in footer, see https://github.com/dullhunk/cdyf/issues/210
+author: Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license, it was last updated on `r format(Sys.time(), '%d %B, %Y')` 
 # date: "last updated `r format(Sys.time(), '%d %B, %Y')`"
 site: bookdown::bookdown_site
 documentclass: book

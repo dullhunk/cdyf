@@ -4,6 +4,7 @@ bookdown::bs4_book:
   twitter-handle: dullhunk
   includes:
     in_header: [header.html]
+    # after_body: [footer.html]
   theme:
     primary: "#556B2F"
   repo: https://github.com/dullhunk/cdyf
