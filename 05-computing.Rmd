@@ -102,16 +102,17 @@ During 2022 and 2023, there were significant redundancies at [Big Tech](https://
 library(ggplot2)
 nursesdata <- tribble(
   ~profession,        ~graduates,
-  "1. Nurses",	6660,
-  "2. Software developers",	4340,
-  "3. Primary school teachers",	3505,
-  "4. Marketing associates",	3465,
-  "5. General medical practitioners",	3240,
-  "6. Secondary school teachers",	2890,
-  "7. Accountants",	2470	,
-  "8. Financiers and investors",	2050,
-  "9. Graphic and multimedia designers",	1715,
-  "10. Sales executives",	1455
+  "1. Nurses",	7195,
+  "2. Software developers",	3980,
+  "3. Marketing associates",	3720,
+  "4. Primary school teachers",	3325,
+  "5. General medical practitioners",	3115,
+  "6. Secondary school teachers",	2960,
+  "7. Accountants",	2430	,
+  "8. Financiers and investors",	1695,
+  "9. Graphic and multimedia designers",	1530,
+  "10. Human resources",	1460
+
 
 )
 
@@ -134,7 +135,7 @@ Reorder bars in geom_bar ggplot2 by value
 https://stackoverflow.com/questions/25664007/reorder-bars-in-geom-bar-ggplot2-by-value
 -->
 
-(ref:captionball) The top ten professions in the UK in 2019 based on numbers of graduates starting work, shown on the x axis. In 2019, 4340 graduates started a job in the UK job as a software developer (or programmer), with many developer vacancies unfilled. So, demand for software developers is high, comparable to teachers and nurses, according to data published by prospects.ac.uk [@labourmarket2022]
+(ref:captionball) The top ten professions in the UK based on numbers of graduates starting work, shown on the x axis. An estimated 3980 graduates started jobs in the UK as programmers and software development professionals, with many vacancies unfilled. So, demand for software developers is high, comparable to teachers, nurses and medical professionals, according to data published by prospects.ac.uk [@labourmarket2023]
 
 So if you can develop software, there's lots of choice and opportunities on offer. Although the data in figure \@ref(fig:nurses-fig) is from the UK, the story is the same in many other countries around the world.
 
