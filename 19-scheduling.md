@@ -62,7 +62,7 @@ Welcome week, starting 19th September:
 ## Week 9: Broadening {#week9}
 **Monday 21st November** at 5pm:
 
-* *Broadening your future*: expanding your job search, what are the options. Read chapter \@ref(broadening)
+* *Broadening your future*: expanding your job search, what are the options. Read chapter \@ref(choosing)
 * *Achieving your future*: providing evidence of your achievements, read chapter \@ref(achieving)-->
 
 ## Week 10: Speaking {#week10}

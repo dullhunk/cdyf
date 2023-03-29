@@ -311,7 +311,7 @@ I'm writing this guidebook because I need a resource for students to help them d
 +---------------------------------------------+--------------------------------------------+
 | - **Divorced** from any curriculum          | - **Married**^[computationally wedded to the curriculum with kids and a mortgage] to the computing curriculum  |
 | - (ref:notusedforteaching)                  | - Course textbook for COMP2CARS, embedded in the curriculum <!--link-->  |
-| - (ref:doingitwrong)                        | - Tailored to computing careers, see chapter \@ref(computing), \@ref(broadening) and \@ref(hearing) |
+| - (ref:doingitwrong)                        | - Tailored to computing careers, see chapter \@ref(computing), \@ref(choosing) and \@ref(hearing) |
 +---------------------------------------------+--------------------------------------------+
 | - **Institution centred**: (ref:institution)| - **Student centred**: (ref:agnostic)      |
 | - (ref:studentmute)                         | - (ref:studentvoice)                       |
