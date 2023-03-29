@@ -181,9 +181,9 @@ Making software isn't all about what you can do as an individual but rather how 
 1. **Its not just engineers that can improve** If the huge volume of literature on the importance of writing is anything to go by,  it's not just engineers and scientists that could improve their written communication skills, see for example the complete plain words. [@gowers; @writingatuni]-->
 
 
-## Writing your future {#BFF}
+## Rewriting your future {#BFF}
 
-Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially by engineers and scientists. We read and write everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
+Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially by engineers and scientists. We read, write and rewrite everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
 
 ```{r bff-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbff)"}
 knitr::include_graphics("images/8 reasons why writing is your new BFF.png")
@@ -200,7 +200,7 @@ Writing is communication, see figure \@ref(fig:comms-fig). Well Duh! I'm stating
 knitr::include_graphics("images/8 reasons why writing - Communication.png")
 ```
 
-(ref:captioncomms) Your writing will often communicate better if you spend a bit more time and effort making it clearer. [Tin can telephone](https://en.wikipedia.org/wiki/Tin_can_telephone) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captioncomms) Your writing will often communicate better if you invest more time in rewriting to make it clearer. [Tin can telephone](https://en.wikipedia.org/wiki/Tin_can_telephone) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Engineers may sometimes tell you that writing about their software or hardware can be a chore. If they bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features to be added or bugs to be removed. This might go some way to explaining why software and hardware documentation can be so bad because:
 
