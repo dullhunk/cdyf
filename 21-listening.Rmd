@@ -37,8 +37,6 @@ You can subscribe (for free!) by following one of the links below to your favour
 
 If all else fails, you can cut-and-paste the raw `rss` feed URL below into the relevant settings on your podcast app:
 
-
-
 ```md
 http://feeds.libsyn.com/299189/rss
 ```
@@ -135,7 +133,14 @@ knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 
 (ref:captionyfnu) Your ~~country~~ future wants YOU. 🫵 Join your future. If you are a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by [Alfred Leete](https://en.wikipedia.org/wiki/Alfred_Leete) on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
 
-If you're preparing to come on the show, please have a think about the following questions:
+If you're coming on the show, please prepare answers to the following questions:
+
+1. 📕 What's your story, coding glory see section \@ref(your-story)
+1. 🤏 Minority report, see section \@ref(minority)
+1. 🤴 You are the Vice Chancellor, see section \@ref(vc)
+1. 🎼 One tune, one podcast, one film: see section \@ref(otopof)
+1. ⏱ Time traveller, see section \@ref(your-time)
+
 
 ### What's your story, coding glory? {#your-story}
 
@@ -177,8 +182,8 @@ knitr::include_graphics("images/minority-report.jpeg")
 ```
 (ref:captionminority) Are you in a minority?  Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we'll hear from some of our minorities. *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-### What would you do Vice chancellor? {#vc}
-Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate](https://www.manchester.ac.uk/discover/governance/structure/senate/) of the University of Manchester have just appointed you their leader and Vice Chancellor. What would you change about how the University is run?
+### Your are the Vice Chancellor {#vc}
+Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate](https://www.manchester.ac.uk/discover/governance/structure/senate/) of the University of Manchester have just appointed you it's leader and Vice Chancellor. What would you change about how the University is run?
 
 ### One tune, one podcast and one film {#otopof}
 
