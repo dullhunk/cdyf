@@ -182,11 +182,11 @@ knitr::include_graphics("images/minority-report.jpeg")
 ```
 (ref:captionminority) Are you in a minority?  Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we'll hear from some of our minorities. *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-### Your are the Vice Chancellor {#vc}
+### You are the Vice Chancellor {#vc}
 Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate](https://www.manchester.ac.uk/discover/governance/structure/senate/) of the University of Manchester have just appointed you it's leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell) shown in figure \@ref(fig:vc-fig).
 
-```{r vc-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captiongambling)"}
-knitr::include_graphics("images/gambling.jpeg")
+```{r vc-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionvc)"}
+knitr::include_graphics("images/nancy-rothwell.jpeg")
 ```
 
 (ref:captionvc) Professor [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell) at the University of Manchester. Now that you are VC, what would you change about how the University is run? [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) portrait of Nancy Rothwell by Manchester University Maths on Wikimedia Commons [w.wiki/6WjS](https://w.wiki/6WjS) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
@@ -195,12 +195,12 @@ Now that you are the VC, what would you change about how the University is run?^
 
 ### One tune, one podcast and one film {#otopof}
 
-We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say our playlist in chapter \@ref(enjoying) is clogged up with:
+We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say many of the playlists in chapter \@ref(enjoying) are clogged up with:
 
 * Lancashire boy bands, see section \@ref(lancashire)
-* [DadRock](https://www.amazon.co.uk/Dad-Rock/dp/B09F6GQSKK) and [BritPop](https://en.wikipedia.org/wiki/Britpop), see section \@ref(dadrock)
-* cardigan-swinging, [shoe-gazing](https://en.wikipedia.org/wiki/Shoegaze), [glastonbury-going](https://en.wikipedia.org/wiki/Glastonbury_Festival) [indie music](https://en.wikipedia.org/wiki/Indie_rock), see section \@ref(indie)
-* music made with digital computers rather than analogue instruments, see section  \@ref(electronica)
+* [BritPop](https://en.wikipedia.org/wiki/Britpop) and Dad-Rock, see section \@ref(dadrock) [@dadrock]
+* Cardigan-swinging, [shoe-gazing](https://en.wikipedia.org/wiki/Shoegaze), [Glastonbury-going](https://en.wikipedia.org/wiki/Glastonbury_Festival) [indie music](https://en.wikipedia.org/wiki/Indie_rock), see section \@ref(indie)
+* Music made with digital computers rather than analogue instruments, see section  \@ref(electronica)
 * other antiquities from a bygone era [@dadrock2]
 
 So, can you recommend a:

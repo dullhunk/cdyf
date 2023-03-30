@@ -10,5 +10,11 @@ IMAGE images/Decoding Your Future.png
 There are patterns, or anti-patterns, I've spotted in trying to understand and decode problems students have coding their future. This chapter describes them, maybe you'll recognise some of them in yourself or your peers.
 
 ## What you will learn
+
+In this chapter you will learn
+
+
+* Identify patterns and 
+* Decode your future
 ## Coding your future 
 
