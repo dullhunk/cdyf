@@ -49,7 +49,7 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you)
 
-## Episode 5: Sneha Kandane {#ep5}
+## Episode 5: Sneha Kandane on Matillion {#ep5}
 
 Interview with Sneha Kandane, see figure \@ref(fig:sneha2-fig) and the transcript and show notes in chapter \@ref(sneha).
 
@@ -64,7 +64,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 ```
 
 
-## Episode 4: Carmen Faura Práxedes {#ep4}
+## Episode 4: Carmen Faura Práxedes on Disney & McKinsey {#ep4}
 
 Interview with Carmen Faura Práxedes, see figure \@ref(fig:carmen2-fig) and the transcript and show notes in chapter \@ref(carmen)
 
@@ -77,7 +77,7 @@ knitr::include_graphics(rep("images/carmen.jpeg", 3))
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23797640/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
-## Episode 3: Brian Yim Tam {#ep3}
+## Episode 3: Brian Yim Tam on Disney+ and Wise {#ep3}
 
 Interview with Brian Yim Tam, see figure \@ref(fig:brian2-fig) and the transcript and show notes in chapter \@ref(brian)
 
@@ -91,7 +91,7 @@ knitr::include_graphics(rep("images/brian.jpeg", 3))
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23796200/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
-## Episode 2: Jason Ozuzu {#ep2}
+## Episode 2: Jason Ozuzu on Morgan Stanley, Fitbit and Google {#ep2}
 
 Interview with Jason Ozuzu, see figure \@ref(fig:jason2-fig) and the transcript in chapter \@ref(jason).
 
@@ -105,7 +105,7 @@ knitr::include_graphics(rep("images/jason.jpeg", 3))
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/23795996/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
-## Episode 1: Raluca Cruceru {#ep1}
+## Episode 1: Raluca Cruceru on Koderly and CERN {#ep1}
 
 Interview with Raluca Cruceru, see figure \@ref(fig:raluca2-fig) and the transcript and show notes in chapter \@ref(raluca)
 
@@ -232,6 +232,13 @@ knitr::include_graphics("images/Everything-I-had-to-know-I-heard-it-on-my-radio.
 ```
 
 (ref:captiongaga) All we hear is [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga) but everything I had to know, I heard it on my radio. [@radiogaga] So don't become some background noise, a backdrop to the girls and boys, who just don't know and just don't care and just complain when you're not there.
+
+## Summarising your hearing {#tldr21}
+(ref:tldr)
+
+Your future is bright, your future needs listening. Listening to your future, will help you code your future. 
+
+In *Hearing your Future*, you can listen to students about how they are Coding their Future. We hope you can find some inspiring stories to help you on your journey.
 
 ### Thanks Jez {#jez}
 This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏

@@ -130,7 +130,7 @@ Your future is split into five parts, each of which has six or more chapters:
 1. Chapters \@ref(rebooting) to \@ref(computing) look at **DESIGNING** your future
 1. Chapters \@ref(debugging) to \@ref(researching) look at **TESTING** your future
 1. (Chapters \@ref(debugging) to \@ref(researching) also look at **BUILDING** your future)
-1. Chapters \@ref(ruling) to \@ref(scheduling) look at **DEPLOYING** your future
+1. Chapters \@ref(ruling) to \@ref(organising) look at **DEPLOYING** your future
 1. Chapters \@ref(raluca) to \@ref(reading) meet students who are **CODING** their future
 
 Although *presented* in a linear order, follow whatever path suits you best, as shown on the right hand side of figure \@ref(fig:map-fig). Many students start with chapter \@ref(debugging), but individual entry and exit points to your future will differ.
@@ -138,7 +138,7 @@ Although *presented* in a linear order, follow whatever path suits you best, as 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map Pentagram.png")
 ```
-(ref:captionmapping) A map to your future: sometimes your learning follows a predictable *linear* path, as shown in the left hand side of this picture. Whatever path you take in life, your future is unlikely to be either predictable *or* linear. Consequently, this guidebook encourages you to follow a *non-linear* iterative learning journey, shown on the right hand side. Start with whatever chapter you like, follow your nose and be prepared to revisit chapters as you progress through the early moves in your career.
+(ref:captionmapping) A map to your future: sometimes your learning follows a predictable *linear* path, as shown in the left hand side of this picture. Whatever path you take in life, your future is unlikely to be either predictable *or* linear. Consequently, this guidebook encourages you to follow a *non-linear* iterative learning journey, shown on the right hand side. Start with whatever chapter you like, follow your nose and be prepared to revisit chapters as you progress through the early moves in your career. CC BY-SA map of your future by Yours Truly.
 
 Let's look in a bit more detail at each of the five parts of your future, starting with designing your future.
 
@@ -194,7 +194,7 @@ knitr::include_graphics("images/clifton.png")
 * Chapter \@ref(moving): *Moving your future* looks at opportunities outside of capital cities like London
 * Chapter \@ref(enjoying): *Enjoying your future* provides a soundtrack that might help with your wellbeing
 * Chapter \@ref(actioning): *Actioning your future* gets you to think about your actions by emphasising verbs on your job applications
-* Chapter \@ref(scheduling): *Scheduling your future* is the live synchronous sessions for this course, if you're not participating in these, schedule a time every day or week for personal development
+* Chapter \@ref(organising): *Organising your future* gives details for the live synchronous sessions for this course, if you're not participating in these, schedule a time every day or week for personal development
 
 <!-- creating your future-->
 <!--
@@ -224,7 +224,7 @@ knitr::include_graphics("images/goldengate.png")
 1. **Discussing** your future: [breakpoints](https://en.wikipedia.org/wiki/Breakpoint) invite you to pause your code and think about the variables and parameters you are using. Can they be improved? Reflect and discuss.
 1. **Reading** your future: because reading is good for your mind, body and soul. Read The Friendly Manual. [`RTFM`](https://en.wikipedia.org/wiki/RTFM). Read THIS Friendly Manual.
 1. **Writing** your future and **rewriting** your future: written exercises using natural language
-1. **Quizzing** your future: quick quizzes to be done in real-time live scheduled sessions described in chapter \@ref(scheduling) (synchronously) and in your own time (asynchronously)
+1. **Quizzing** your future: quick quizzes to be done in real-time live scheduled sessions described in chapter \@ref(organising) (synchronously) and in your own time (asynchronously)
 1. **Assessing** your future: activities to be assessed by yourself, your peers, an employer or an academic (depending on who and where you are)
 1. **Challenging** your future: coding challenges are designed to take you out of your comfort zone by encouraging you to experiment with your thoughts, discussions and actions
 1. **Signposting** your future: the most useful resources that I recommend you read, listen to or watch
@@ -911,7 +911,11 @@ This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify
 
 Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)
 
-So now that we've dispensed with the formalities, let's look at why should you bother reading this guidebook in the first place.
+### Welcome to your future {#welcoming}
+
+Your future is bright, your future needs coding. Welcome to Coding Your Future: the guidebook that will help you to design, build, test and code your future in computing.
+
+So now that we've dispensed with the formalities, the next part, chapter \@ref(rebooting): *Rebooting your Future* looks at why should you bother reading any this guidebook in the first place. 
 
 <!--boilerplate text that gets re-used throughout-->
 (ref:breakpoint) Let's pause here. Insert a [breakpoint](https://en.wikipedia.org/wiki/Breakpoint) in your `code` and slowly step through it so we can examine the current values of your variables and parameters.
@@ -929,10 +933,6 @@ So now that we've dispensed with the formalities, let's look at why should you b
 (ref:podcastblurbshort) Listen to the episode by clicking Play ▶️ below, or subscribe wherever you get your podcasts, see section \@ref(subscribing).
 
 (ref:transcript-disclaimer) Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some [speech disfluency](https://en.wikipedia.org/wiki/Speech_disfluency) has been manually removed and links, cross references and pictures have been manually added for clarification. Extra (non-quoted) words are given in brackets like this: (some text added afterwards).
-
-
-
-
 
 
 <!-- rmarkdown::render_site(output_format = 'bookdown::bs4_book', encoding = 'UTF-8') -->
