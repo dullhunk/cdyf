@@ -127,13 +127,13 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 <!-- or should it be structuring-->
 This guidebook is split into five parts, with two parts merged into one:
 
-1. Chapters \@ref(rebooting) to \@ref(computing) look at *designing* your future
-1. Chapters \@ref(debugging) to \@ref(researching) look at *testing* your future
-1. Chapters \@ref(debugging) to \@ref(researching) also look at *building* your future
-1. Chapters \@ref(ruling) to \@ref(scheduling) look at *deploying* your future
-1. Chapters \@ref(raluca) to \@ref(reading) meet students who are *coding* their future
+1. Chapters \@ref(rebooting) to \@ref(computing) look at **DESIGNING** your future
+1. Chapters \@ref(debugging) to \@ref(researching) look at **TESTING** your future
+1. (Chapters \@ref(debugging) to \@ref(researching) also look at **BUILDING** your future)
+1. Chapters \@ref(ruling) to \@ref(scheduling) look at **DEPLOYING** your future
+1. Chapters \@ref(raluca) to \@ref(reading) meet students who are **CODING** their future
 
-Although *presented* in a linear order, follow whatever path suits you best, as shown in figure \@ref(fig:map-fig). Many students start with chapter \@ref(debugging), but individual entry and exit points to your future will differ.
+Although *presented* in a linear order, follow whatever path suits you best, as shown on the right hand side of figure \@ref(fig:map-fig). Many students start with chapter \@ref(debugging), but individual entry and exit points to your future will differ.
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
 knitr::include_graphics("images/Course Map Pentagram.png")
