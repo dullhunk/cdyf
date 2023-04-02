@@ -36,6 +36,7 @@ Your future is bright, your future needs coding. Welcome to *Coding Your Future*
 There is something in this guidebook for *any* student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
 ## Your future is bright, your future needs coding {#picturethis}
+<!-- was imagining your future-->
 This is a self-help guide but a lot of self-help literature can be dry, dull, textbooky, generic and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland] shown in figure \@ref(fig:aiw-fig), the protagonist Alice wonders why her sister is reading a book without pictures.
 
 
@@ -913,7 +914,7 @@ Some of these services use cookies. These can be disabled in your browser, see [
 
 ## Your future is bright, your future needs coding {#welcoming}
 
-Your future is bright, your future needs coding. Welcome to Coding Your Future: the guidebook that will help you to design, build, test and code your future in computing, see figure \@ref(fig:bright-fig)
+Your future is bright, your future needs coding, see figure \@ref(fig:bright-fig). Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and code your future in computing.
 
 ```{r bright-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbright)"}
 knitr::include_graphics("images/your-future-is-bright-your-future-needs-coding.png")

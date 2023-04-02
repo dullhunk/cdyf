@@ -36,7 +36,7 @@ Many technology jobs exist outside of technology companies, [@outsideit] because
 ## Vocational or academic? {#vocation}
 Some undergraduate degrees like medicine, dentistry and nursing are highly vocational. According to some studies, vocational degrees like these can be the best route to highly skilled jobs. [@vocational] Computer Science degrees often contain highly vocational content, with disciplines like software engineering for example. They often contain more theoretical, scientific and academic topics like the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation) too. 
 
-What is the blend of vocational vs. academic in your degree? It's good to have a balance and mixture of both, as employers value both of them. However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the vocational side of your degree that gives you the clearest intial direction into paid employment. 
+What is the blend of vocational vs. academic in your degree? It's good to have a balance and mixture of both, see figure \@ref(fig:ometer-fig), as employers value both of them. However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the vocational side of your degree that gives you the clearest intial direction into paid employment. 
 
 ```{r ometer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionometer)"}
 knitr::include_graphics("images/computer-sience-o-meter.png")
