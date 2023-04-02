@@ -35,7 +35,7 @@ Your future is bright, your future needs coding. Welcome to *Coding Your Future*
 
 There is something in this guidebook for *any* student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
-## Imagining your future {#picturethis}
+## Your future is bright, your future needs coding {#picturethis}
 This is a self-help guide but a lot of self-help literature can be dry, dull, textbooky, generic and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland] shown in figure \@ref(fig:aiw-fig), the protagonist Alice wonders why her sister is reading a book without pictures.
 
 
@@ -44,7 +44,7 @@ knitr::include_graphics("images/alicequotation.jpeg")
 ```
 (ref:captionalicecover) Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations? [@wonderland] Public domain image of the cover of the 1898 edition of the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* via Wikimedia Commons [w.wiki/3S4C](https://w.wiki/3S4C) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Pictures tell stories, pictures explain. Pictures help you understand. Pictures help you imagine. So this book uses pictures (and conversations) to help you imagine your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
+Pictures tell stories, pictures explain. Pictures help you understand. Pictures help you imagine. Pictures help you code. So this book uses pictures (and conversations) to help you imagine and code your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
 
 ## Your future aims {#vaccine}
 This guidebook aims to help you develop stronger habits of mind, body and soul using five key ingredients: **`C`**, **`D`**, **`Y`**, **`F`** and **`.me`**:
@@ -125,7 +125,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 
 ## Mapping your future {#mapping}
 <!-- or should it be structuring-->
-Your future is split into five parts, each of which has six or more chapters:
+Your future is split into five parts, each of which has several chapters:
 
 1. Chapters \@ref(rebooting) to \@ref(computing) look at **DESIGNING** your future
 1. Chapters \@ref(debugging) to \@ref(researching) look at **TESTING** your future
@@ -911,11 +911,16 @@ This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify
 
 Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)
 
-## Welcome to your future {#welcoming}
+## Your future is bright, your future needs coding {#welcoming}
 
-Your future is bright, your future needs coding. Welcome to Coding Your Future: the guidebook that will help you to design, build, test and code your future in computing.
+Your future is bright, your future needs coding. Welcome to Coding Your Future: the guidebook that will help you to design, build, test and code your future in computing, see figure \@ref(fig:bright-fig)
 
-So now that we've dispensed with the formalities, the next part, chapter \@ref(rebooting): *Rebooting your Future* looks at why should you bother reading any this guidebook in the first place. 
+```{r bright-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbright)"}
+knitr::include_graphics("images/your-future-is-bright-your-future-needs-coding.png")
+```
+(ref:captionbright) Your future is bright, your future needs coding. You're doing alright, getting good grades, [the future's so bright, you gotta wear shades](https://en.wikipedia.org/wiki/The_Future%27s_So_Bright,_I_Gotta_Wear_Shades). [@sobright]  Shades by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), [remixed by Yours Truly](https://remixer.visualthinkery.com/r/h11Im5kxL9MNne6Qrydb). Make your own at [remixer.visualthinkery.com/a/xrayspecs](https://remixer.visualthinkery.com/a/xrayspecs)
+
+So now that we've dispensed with the formalities, we can move on to the next part. Chapter \@ref(rebooting): *Rebooting your Future* looks at why should you bother reading any this guidebook in the first place. 
 
 <!--boilerplate text that gets re-used throughout-->
 (ref:breakpoint) Let's pause here. Insert a [breakpoint](https://en.wikipedia.org/wiki/Breakpoint) in your `code` and slowly step through it so we can examine the current values of your variables and parameters.
