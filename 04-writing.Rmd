@@ -322,6 +322,8 @@ knitr::include_url('https://www.youtube.com/embed/VK51E3gHENc')
 
 (ref:captionpeyton) Computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains how to write a better dissertation or thesis by writing early and often, rather than waiting to write it all at the end. He's talking about writing papers here, but what he says applies to writing a thesis too: Writing helps you be clear by crystallizing what you understand. It's important as a *process* as well as a product. You can also watch the full 57 minute video embedded in this figure at [youtu.be/VK51E3gHENc](https://youtu.be/VK51E3gHENc) [@youtube-peyton]
 
+If you're using a machine like ChatGPT to help you write (see section \@ref(machines)), you'll be bypassing some of the valuable *process* of writing. Yes, writing can sometimes be painful and slow, but its one of the best ways to learn.
+
 <!-- 
 related work last, state contributions, give an example not a generic introduction (yawn) explicitly mention weaknesses at end of related work, giving credit doesn't diminish your contributions
 
@@ -370,7 +372,7 @@ knitr::include_graphics("images/8 reasons why writing - Speeding up.png")
 (ref:captionwicking) Want to have more ideas? Want to have better ideas? Just writing them down can help you refine your ideas as well as generating novel ones too. Thinking sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
 ## Improving your writing {#wyf}
-Hopefully I've convinced you that written communication skills (both as a writer and reader) are important soft skills that engineers often neglect. Writing performs multiple functions, so how can you improve?
+Hopefully I've convinced you that written communication skills (both as a writer and reader) are important soft skills that scientists and engineers often neglect. Writing performs multiple functions, so how can you improve?
 
 ### Dogfooding {#dogfooding}
 
