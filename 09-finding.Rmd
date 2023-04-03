@@ -335,7 +335,7 @@ knitr::include_graphics("images/gradcracker.jpg")
 * [graduateland.com](https://graduateland.com/), placements and graduate positions around Europe
 * [prospects.ac.uk](https://www.prospects.ac.uk/), a jobs board accompanied by job searching advice
 * [InsideCareers.co.uk](https://www.insidecareers.co.uk) is good if you're looking for jobs in the  financial sector
-* [](https://www.virtualinternships.com/) for remote (WFH) opportunities
+* [virtualinternships.com](https://www.virtualinternships.com/) for remote (WFH) opportunities
 * [Year in Industry](https://www.etrust.org.uk/yini-vacancies) if you're looking for a year in industry
 * Your University. University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying, for example:
     + The Wednesday Waggle is for University of Manchester students looking for jobs in computing, see figure \@ref(fig:waggle-fig) and [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/)  🐝
@@ -545,15 +545,22 @@ In the UK, it is illegal to employ people without paying them a salary. However,
 * This article on [Why I Regret Doing an Unpaid Internship](https://www.ratemyplacement.co.uk/blog/why-i-regret-doing-an-unpaid-internship/) [@louiseregret]
 * For more horror stories see [google.com/search?q=unpaid+internships](https://www.google.com/search?q=unpaid+internships)
 
-In science, technology and engineering, unpaid internships are much less common than in other sectors as demand for skilled scientists, technologists, engineers and mathematicians ([STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)) is generally high. Some employers, particularly startups, may offer company [equity](https://en.wikipedia.org/wiki/Equity_(finance)) (such as shares) as an alternative to a salary - again you should be wary of this. Unless you're very lucky, the chances are those shares will probably be worthless. Although many startups aspire to become [Unicorns](https://en.wikipedia.org/wiki/Unicorn_(finance)), very few do. Like many people, I don't endorse unpaid internships, and I recommend you avoid them completely, see section \@ref(by-salary). An unpaid internship might *claim* to be giving you:
+In science, technology and engineering, unpaid internships are much less common than in other sectors as demand for skilled scientists, technologists, engineers and mathematicians ([STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)) is generally high. Some employers, particularly startups, may offer company [equity](https://en.wikipedia.org/wiki/Equity_(finance)) (such as shares) as an alternative to a salary - again you should be wary of this. Unless you're very lucky, the chances are those shares will probably be worthless. Although many startups aspire to become [Unicorns](https://en.wikipedia.org/wiki/Unicorn_(finance)), very few do. Like many people, I don't endorse unpaid internships, and I recommend you avoid them completely, see section \@ref(by-salary) and figure \@ref(fig:slavery-fig).
+
+```{r slavery-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionslavery)"}
+knitr::include_graphics("images/slavery.jpeg")
+```
+(ref:captionslavery) Unpaid internships have been likened to [modern slavery](https://en.wikipedia.org/wiki/Modern_slavery). You are vulnerable to exploitation when taking unpaid work. [@slavery] CC [BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) image of footcuffs by the Collectie Stichting Nationaal Museum van Wereldculturen on Wikimedia Commons [w.wiki/6XaW](https://w.wiki/6XaW) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+An unpaid internship might *claim* to be giving you:
 
 * some “experience” or “exposure”
 * equity-for-work
 * something impressive for your CV
 * opportunities to “build up your portfolio”
-* improved access to paid employment at some vague point the future
+* improved access to paid employment at some vague (but unspecified) point the future
 
-Unfortunately, in the worst case, taking an unpaid internship leaves you vulnerable to exploitation by ruthless employers looking for cheap or free labour. 😭
+Unfortunately, in the worst case, taking an unpaid internship leaves you vulnerable to exploitation by ruthless employers looking for cheap or free labour. Unpaid internships have been likened to modern slavery, see figure \@ref(fig:slavery-fig), so I recommend you avoid them. 😭
 
 There is *one* exception to this: expenses paid work-shadowing for a short period of time (two or three weeks) such as spring insights described in section \@ref(areuexperienced). Otherwise, if you can't find paid employment, doing voluntary work is a much safer bet and has mental health and social benefits too, see section \@ref(areuexperienced).
 
