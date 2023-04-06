@@ -36,15 +36,15 @@ Your future is bright, your future needs choosing, so let's start choosing your 
 
 
 ## Vocational or academic? {#vocation}
-Some undergraduate degrees like medicine, dentistry and nursing are highly vocational. According to some studies, vocational degrees like these can be the best route to highly skilled jobs. [@vocational] Computer Science degrees often contain highly vocational content, with disciplines like software engineering for example. They often contain more theoretical, scientific and academic topics like the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation) too. 
+Some undergraduate degrees like medicine, dentistry and nursing are highly vocational. Other degrees have a stronger academic flavour. According to some studies, vocational degrees can be the best route to highly skilled jobs. [@vocational] Computer Science degrees often develop highly vocational skills and knowledge, through disciplines like software engineering for example. They often contain more theoretical, scientific and academic topics like the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation), [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and [probability theory](https://en.wikipedia.org/wiki/Probability) too. 
 
-What is the blend of vocational vs. academic study in your degree? It's good to have a balance and mixture of both, see figure \@ref(fig:ometer-fig), because employers value both of them. [@vocational] However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the *vocational* part of your degree that will give you the clearest intial direction into paid employment. 
+What is the blend of vocational vs. academic study in your degree? It's good to have a balance and mixture of theory and practice, see figure \@ref(fig:ometer-fig), because employers value both of them. [@vocational] However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the *vocational* part of your degree that will give you the clearest intial direction into paid employment. 
 
 ```{r ometer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionometer)"}
 knitr::include_graphics("images/computer-sience-o-meter.png")
 ```
 
-(ref:captionometer) Where does your Computer Science degree fit on this `Computer Science O'Meter`? Are you scientifically pure and theoretical (red)? Maybe you lean towards the highly vocational and applied aspects of engineering (blue)? Perhaps you're a healthy balance of each? Computer Science O'Meter by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). [Remix by Yours Truly](https://remixer.visualthinkery.com/r/DbmOQ1OnqIS5xWPzWqa1), make your own at [remixer.visualthinkery.com](https://remixer.visualthinkery.com/)
+(ref:captionometer) Where does your Computer Science degree fit on this `Computer Science O'Meter`? Are you scientifically pure and theoretical (red)? Maybe you lean towards the highly vocational and applied aspects of engineering and technology (blue)? Perhaps you're a healthy balance of each? Computer Science O'Meter by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). [Remix by Yours Truly](https://remixer.visualthinkery.com/r/DbmOQ1OnqIS5xWPzWqa1), make your own at [remixer.visualthinkery.com](https://remixer.visualthinkery.com/)
 
 Those who came before me, [lived through their vocations](https://en.wikipedia.org/wiki/Blue_Monday_(New_Order_song)), from the past until completion, they'll turn away no more. [@bluemonday] Many computer scientists live through their vocation of software engineering, but software engineering isn't the only vocation available to students of Computing. Let's look at some of the other options so that we can broaden your computational horizons.
 
@@ -102,7 +102,7 @@ knitr::include_graphics("images/cern-engineering.jpeg")
 
 Some examples of science laboratories in the UK and Europe that employ computer scientists is shown below:
 
-* CERN, see [careers.cern/summer](https://careers.cern/summer) for summer internships and [careers.cern](https://careers.cern/) for placements and everything else
+* CERN, see [careers.cern/summer](https://careers.cern/summer) for summer internships and [careers.cern](https://careers.cern/) for placements and everything else. Chapter \@ref(raluca) has more details on life at CERN.
 * The [Francis Crick Institute](https://en.wikipedia.org/wiki/Francis_Crick_Institute) see e.g. [crick.ac.uk/careers-study/students/sandwich-students](https://www.crick.ac.uk/careers-study/students/sandwich-students)
 * The [Daresbury Laboratory](https://en.wikipedia.org/wiki/Daresbury_Laboratory), see [stfccareers.co.uk/students/](https://stfccareers.co.uk/students/) under *Computing*
 * The Diamond Light Source [diamond.ac.uk](https://www.diamond.ac.uk/) see [diamond.ac.uk/Careers/Students/Year-in-Industry.html](https://www.diamond.ac.uk/Careers/Students/Year-in-Industry.html)
