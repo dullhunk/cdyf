@@ -228,7 +228,7 @@ Computer scientists call this problem “search space reduction” [@searchspace
 
 Students love to ask their teachers “*will this be on the exam*”? The short answer is **YES** (and **NO**)! Yes, this will be on the exam, but NO the exam won't be set by your University. Unlike other courses you've done, the examinations for this course aren't set by your University but by employers.  Roughly speaking, there are three kinds of examinations that you'll need to get good at, shown in Table \@ref(tab:examtable)
 
-:  (\#tab:examtable) Examining your future: The "exams" used by employers, what gets assessed and the grades you can get. For written "exams" see chapters \@ref(writing) and \@ref(debugging), for speaking "exams" see chapter \@ref(speaking) and for your employee "exams" see chapter \@ref(surviving).
+:  (\#tab:examtable) Examining your future: The "exams" used by employers, what gets assessed and the grades you can get. For written "exams" see chapters \@ref(writing) and \@ref(debugging), for speaking "exams" see chapter \@ref(speaking) and for your employee "exams" see chapter \@ref(starting).
 
 +---------------------+--------------------------------------------+----------+
 | Examination         | What examiners are assessing               | Grade    |
@@ -255,7 +255,7 @@ Students love to ask their teachers “*will this be on the exam*”? The short 
 
 (ref:oralexam)  See *speaking your future*, chapter \@ref(speaking)
 
-(ref:employeeexam)  See *surviving your future*, chapter \@ref(surviving)
+(ref:employeeexam)  See *starting your future*, chapter \@ref(starting)
 
 
 So, *yes*, this will be on the exam, but *no*, the exams are obviously not set, administered, invigilated and marked by academics at your University. The exams are set by employers and the results are **brutally binary**:
@@ -443,7 +443,7 @@ knitr::include_graphics("images/captain-jean-luc-picard.jpeg")
 
 Each chapter in this book has a signposts section, highlighting key reading, watching or listening you could do next. This chapter has addressed the question of **why should you bother coding your future**? The answer is that your future is your responsibility and no-one elses. There are lots of people can help shape your future, but none more than yourself. Software engineer [Robert C. Martin](https://en.wikipedia.org/wiki/Robert_C._Martin) argues this point in his book *The Clean Coder: A Code of Conduct for Professional Programmers*. [@cleancoder]
 
-What's good about *The Clean Coder* is that it is short (only 200 pages), well written and to the point. The main part of the book covers professional issues in software engineering, some of which I discuss further in chapter \@ref(surviving), *surviving your future*.
+What's good about *The Clean Coder* is that it is short (only 200 pages), well written and to the point. The main part of the book covers professional issues in software engineering, some of which I discuss further in chapter \@ref(starting), *starting your future*.
 
 
 ## Summarising your future {#tldr1}
