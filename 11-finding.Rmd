@@ -1,6 +1,6 @@
 # Finding your future {#finding}
 
-So, you've successfully debugged your CV, with help from chapter \@ref(debugging). You've reflected on and identified where you can improve your `experience` as described in chapter \@ref(experiencing).  Now, how can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? This chapter will help you find your future. 🔭
+So, you've successfully debugged your CV, with help from chapters \@ref(debugging), \@ref(hacking) and \@ref(actioning). You've reflected on and identified where you can improve your `experience` as described in chapter \@ref(experiencing).  Now, how can find an interesting job? How can use your CV, covering letter and any other communication to persuade employers to invite you to an interview? What techniques exist and how can you use your networks to help you? Where can you look? This chapter will help you find your future. 🔭
 
 ```{r yesbut-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap = "(ref:captionyesbut)"}
 knitr::include_graphics("images/Yes but how do I.png")
@@ -112,7 +112,13 @@ cat('see https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd')
 Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
 ### Search by location {#by-location}
-Pick a location. Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? Depending on the location, this will determine the options that are available:
+You could argue that the three most important parameters of your job search are:
+
+1. Location
+1. Location 
+1. Location
+
+So pick a location. Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? The location(s) you choose will determine the options that are available:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb.js"></script>')
@@ -121,10 +127,10 @@ cat('<script src="https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d1
 ```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
 cat('see https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb')
 ```
- ... and so on. So locations can help you define (and potentially reduce) your search space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications. You could find out about employers by attending free [meetup.com](https://www.meetup.com/) or [eventbrite.com](https://www.eventbrite.com/) events in your chosen location.
+ ... and so on. So locations can help you define (and potentially reduce) your search space. For example, if you're looking in Manchester, you can get started at [git.io/manc](https://git.io/manc). Picking a location can also help you identify networking opportunities for hidden, un-advertised vacancies and making speculative applications, described in section \@ref(speculative). You could find out about employers by attending free [meetup.com](https://www.meetup.com/) or [eventbrite.com](https://www.eventbrite.com/) events in your chosen location.
 
 ### Search by network {#weakties}
-The people in your network can help you find work. *[It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know)*, or so the cliché goes. [@newfads] The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs is using your networks. Remember, `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
+The people in your network can help you find work. *[It's not what you know, its who you know](https://en.wiktionary.org/wiki/it%27s_not_what_you_know_but_who_you_know)*, or so the cliché goes. [@newfads] The bigger your network, the more opportunities you'll know about. So a really basic strategy for finding jobs is using your networks. Remember, our `find_jobs` does just know what you know, it also knows who is in your professional `network` and the employers *they* know about, so we could ask it to find opportunities in your professional and social networks:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/c2e05b55e55c285de8525a6952731f30.js"></script>')
@@ -424,7 +430,7 @@ Some job vacancies are not advertised. Employers may deliberately hide them or m
 knitr::include_graphics("images/gambling.jpeg")
 ```
 
-(ref:captiongambling) Are you playing your cards right? The stakes are high in the game of employment. Like [gambling](https://en.wikipedia.org/wiki/Gambling), speculative applications can sometimes pay off, especially for hidden or unadvertised vacancies. You will improve your chances and strengthen your hand by researching the employer (see section \@ref(bp10)), using your social networks to connect and playing your (computational) joker, see section \@ref(joker). Public domain image of *[The Cardsharps](https://en.wikipedia.org/wiki/The_Cardsharps)* painting by [Carvaggio](https://en.wikipedia.org/wiki/Caravaggio) on Wikimedia Commons [w.wiki/6R6q](https://w.wiki/6R6q) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) ♣♥♠♦🃏
+(ref:captiongambling) Are you playing your cards right? The stakes are high in the game of employment. Like [gambling](https://en.wikipedia.org/wiki/Gambling), speculative applications can sometimes pay off, especially for hidden or unadvertised vacancies. You will improve your chances and strengthen your hand by researching the employer (see section \@ref(bp10)), using your social networks to connect and playing your (computational) joker, see section \@ref(joker). Public domain image of *[The Cardsharps](https://en.wikipedia.org/wiki/The_Cardsharps)* painting by [Caravaggio](https://en.wikipedia.org/wiki/Caravaggio) on Wikimedia Commons [w.wiki/6R6q](https://w.wiki/6R6q) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) ♣♥♠♦🃏
 
 To improve your chances of winning bets placed by your speculative applications you need to: 
 
@@ -681,11 +687,11 @@ So beware of the rollercoaster, it has ups *and* downs. 🎢
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
-Your future is bright, your future needs finding. Finding your future will help you to build and test your future. Building and testing your future will help you to start coding your future.
+Your future is bright, your future needs finding. Finding your future will help you to test your future. Testing your future will help you to start coding your future.
 
 We've looked at search techniques that will help you find opportunities you care about. Figuring out what you want to do is tricky at times but it usually works out well in the end. 
 
-In the next part, chapter \@ref(speaking): *Speaking your Future* we'll look at preparing for interviews which will test your spoken communication skills. You've used the techniques in this chapter to get an interview, now you need to get ready to demonstrate that you are a good communicator, not just in writing but in listening and speaking too.
+Before applying the search criteria, making successful applications to get that interview offer, there's more search techniques we need to look at. In the next part, chapter \@ref(moving): *Moving your future*, we'll look at three of most important search criteria of all: location, location, location.
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar5-fig).
 

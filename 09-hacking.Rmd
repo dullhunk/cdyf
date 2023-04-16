@@ -11,9 +11,9 @@ knitr::include_graphics("images/bridge-kludge-hack.png")
 
 Your future is bright, your future needs hacking, so let's start hacking your future.
 
-## Hack their futures {#cvs}
+## Hacking their futures {#cvs}
 
-A useful hacking technique is to take somebody elses stuff and fix or improve it. That works for written communication as well as actual `code`. The dogfooding technique described in section \@ref(dogfooding) is a useful hack which you can use by:
+Hacking other people's code is a good way to learn how to code. Hacking other people's CV's is a good way to learn how to write better CVs too. The dogfooding technique described in section \@ref(dogfooding) is a useful hack which you can use by:
 
 1. Eating your *own* dogfood by reading your own written work ALOUD <!--self assess using the rubric-->
 1. Eating *somebody elses* dogfood by:
@@ -107,7 +107,7 @@ knitr::include_graphics("images/flo_ting_point.png")
 
 ### Peter Byte {#peter-byte}
 
-Peter Byte and his [twin sister Peta Byte](https://en.wikipedia.org/wiki/Peta_(given_name)), both *love* big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with eleven other siblings including [Deca](https://en.wikipedia.org/wiki/Deca-), [Hector](https://en.wikipedia.org/wiki/Hecto-), [Kilo](https://en.wikipedia.org/wiki/Kilo-), [Megan](https://en.wikipedia.org/wiki/Mega-), [Giga](https://en.wikipedia.org/wiki/Giga-), [Terry](https://en.wikipedia.org/wiki/Tera-), [Exa](https://en.wikipedia.org/wiki/Exa-), [Zita](https://en.wikipedia.org/wiki/Zetta-),  [Yotta](https://en.wiktionary.org/wiki/yottabyte), [Rona](https://en.wiktionary.org/wiki/ronnabyte) and [Quetta](https://en.wikipedia.org/wiki/Quetta-). The byte family are wildly ambitious, but critics say they have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
+Peter Byte and his [twin sister Peta Byte](https://en.wikipedia.org/wiki/Peta_(given_name)), both *love* big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with eleven other siblings including [Deca](https://en.wikipedia.org/wiki/Deca-), [Hector](https://en.wikipedia.org/wiki/Hecto-), [Kilo](https://en.wikipedia.org/wiki/Kilo-), [Megan](https://en.wikipedia.org/wiki/Mega-), [Giga](https://en.wikipedia.org/wiki/Giga-), [Terry](https://en.wikipedia.org/wiki/Tera-), [Exa](https://en.wikipedia.org/wiki/Exa-), [Zita](https://en.wikipedia.org/wiki/Zetta-),  [Yotta](https://en.wiktionary.org/wiki/yottabyte), [Rona](https://en.wiktionary.org/wiki/ronnabyte) and [Quetta](https://en.wikipedia.org/wiki/Quetta-). The byte family are highly trained^[Using supervised and unsupervised methods] and wildly ambitious, but critics say they have been terribly over-hyped, see figure \@ref(fig:peterbyte-fig).
 
 ```{r peterbyte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpeter)"}
 knitr::include_graphics("images/peter_byte.png")
@@ -159,11 +159,11 @@ Developers at CoolTech are involved in the full software cycle, and work closely
 
 (ref:tldr)
 
-Your future is bright, your future needs hacking. Hacking your future will help you to deploy your future. Deploying your future will help you to start coding your future. 
+Your future is bright, your future needs hacking. Hacking your future will help you to test your future by debugging your own CV. Testing your future will help you to start coding your future. 
 
 Reading other people's code will help you write better code yourself. Reading other people's CVs helps you write a better CV yourself. The more you read, the better you get. So, find a critical friend and do a CV swap: you'll both benefit by putting yourself in the shoes of a recruiter.
 
-In the next part, chapter \@ref(moving): *Moving your Future* we'll look at some geographical location issues in finding your future. 
+In the next part, chapter \@ref(actioning): *Actioning your Future* we'll look one more debugging technique, paying attention to the *verbs* on your CV and what they say about you.
 
 <!-- suggestions from toby
 

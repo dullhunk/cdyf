@@ -1,0 +1,65 @@
+# (PART) BUILDING YOUR FUTURE {-}
+
+# Organising your future {#organising}
+You might find it a bit scary thinking about your future. You might be tempted to procrastinate making important decisions about your future, see figure \@ref(fig:schedule-fig). There is a risk of [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)) or getting stuck in a `do-nothing` or [`busy waiting`](https://en.wikipedia.org/wiki/Busy_waiting) loop. This guidebook is here to help you break out of that loop. One way to breakout of an unproductive loop is to organise and schedule some time every week where you work on personal development and job applications. Doing good applications takes time and you'll probably find you can't do as many applications as you might like.
+
+```{r schedule-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionschedule)"}
+knitr::include_graphics("images/is-it-just-me.png")
+```
+(ref:captionschedule) The biggest waste of time is the time spent not getting started on a project. Your future might seem big and unknown but it's really not as scary as you might think and getting started can be surprisingly enjoyable. [New Project? Every time…](https://bryanmmathers.com/new-project-every-time/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Your future is bright, your future needs organising, so let's start organising your future.
+
+## Building your future {#make}
+In section \@ref(by-quantity)and \@ref(by-quantity) we talked about timing as an key factor in your job search. *When* you apply for jobs will determine *what* kind of jobs are available because most graduate schemes and graduate jobs follow a rhythmic recruitment cycle of some kind. How many jobs you apply for is largely a function of how much time you spend doing it. The more time you spend, the more applications you can do.
+
+We haven't explicitly discussed the timing and organisation of the activities outlined in the preceding chapters:
+
+1. *Designing your Fututure* in chapters \@ref(rebooting) to \@ref(computing)
+1. *Testing your Future* in chapters \@ref(debugging) to \@ref(speaking)
+
+Let's imagine you could precisely specify all of the tests using [make](https://en.wikipedia.org/wiki/Make_(software)) in a `makefile` or specify them somehow in your favourite Integrated Development Environment (IDE). Ideally, you'd like to automatically run these tests, so that you can build your future systematically. You'd like to repeat these tests periodically, e.g. once a day, week, month or whatever your schedule is, similar to [build automation](https://en.wikipedia.org/wiki/Build_automation) in software engineering. Attempts to automate aspects of job applications and interviews have so far had very mixed results. [@airesume; @dastinai] But, as another thought experiment, let's image it was possible
+
+## Breakpoints {#bp6}
+(ref:breakpoint)
+
+```md
+* PAUSE ⏸️
+```
+
+* So what's in your make file? 
+* How often will you run it?
+* Which tasks can you automate?
+* Which tasks are always going to be manual?
+
+```md
+* RESUME ▶️
+```
+
+## Scheduling your future {#scheduling}
+
+If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) workshops sessions are also here to help, every Monday at 5pm.  COMP2CARS complements the second year tutorials (COMP2TUT) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/).
+
+Outside of that, its a good idea to organise some scheduled time to work on continuous professional development (CPD), particularly the not very scary and actually quite enjoyable tasks of designing, building, testing, deploying and coding your future.
+
+<!-- your future is bright, your future needs organising, so let's start organising your future-->
+
+## Discussing your Future {#discussing}
+
+The accompanying online forum for course discussion will be at [piazza.com/class/l8t6l0le6vu2lg](https://piazza.com/class/l8t6l0le6vu2lg)
+
+<!-- was at [piazza.com/class/kted3nixlmo2on](https://piazza.com/class/kted3nixlmo2on)-->
+
+## Summarising your organisation {#tldr19}
+(ref:tldr)
+
+Your future is bright, your future needs organising. Organising your future will help you build your future. Building your future will help to start coding your future. 
+
+Building your future is a bit like building software, with testing and compilation. Except for when it isn't. Like many analogies, are computational analogy of building software breaks down,  so in the rest of this section, we'll look at some other aspects of building, not in the automated software sense, but the broader sense of *Building your Future* generally.
+ 
+
+We'll start with chapter \@ref(researching): *Researching your Future* investigating postgraduate study and research. Are they the right path for you? How can you know?
+
+*Researching your Future* might sound like a part of *Designing your Future* section, but it fits better as a *Deploying your Future* chapter. Your decision to do further study and research might come *after* a period of paid employment, either as a summer internship, year long placement or graduate position. 
+
+So researching is a deployment issue, rather than a design issue as we shall see.

@@ -1,7 +1,7 @@
 # Choosing your future {#choosing}
 <!--old name broadening -->
 
-Your future is full of exciting new possibilities, but which ones will you choose? What are all these intriguing possibilities for students of computing? How will you choose which one is best for *you*? When choosing your future, do you see yourself as a `default user` or the `weird edge case` pictured in figure \@ref(fig:default-user-fig)?  
+Your future is full of exciting new possibilities, but which ones will you choose? What are all the opportunities for students of computing? How will you choose which one is best for *you*? When choosing your future, do you see yourself as a `default user` or the `weird edge case` pictured in figure \@ref(fig:default-user-fig)?  
 
 ```{r default-user-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondefaultuser)"}
 knitr::include_graphics("images/default-user-1280x959.png")
@@ -38,13 +38,13 @@ Your future is bright, your future needs choosing, so let's start choosing your 
 ## Vocational or academic? {#vocation}
 Some undergraduate degrees like medicine, dentistry and nursing are highly vocational. Other degrees have a stronger academic flavour. According to some studies, vocational degrees can be the best route to highly skilled jobs. [@vocational] Computer Science degrees often develop highly vocational skills and knowledge, through disciplines like software engineering for example. They often contain more theoretical, scientific and academic topics like the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation), [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and [probability theory](https://en.wikipedia.org/wiki/Probability) too. 
 
-What is the blend of vocational vs. academic study in your degree? It's good to have a balance and mixture of theory and practice, see figure \@ref(fig:ometer-fig), because employers value both of them. [@vocational] However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the *vocational* part of your degree that will give you the clearest intial direction into paid employment. 
+What is the blend of vocational vs. academic study in your degree? It's good to have a mixture of theory and practice, see figure \@ref(fig:ometer-fig), because employers value both of them. [@vocational] However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the *vocational* part of your degree that will give you the clearest intial direction into paid employment. 
 
 ```{r ometer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionometer)"}
 knitr::include_graphics("images/computer-sience-o-meter.png")
 ```
 
-(ref:captionometer) Where does your Computing degree fit on this `Computer Science O'Meter`? Are you scientifically pure and theoretical (red)? Maybe you lean towards the highly vocational and applied aspects of engineering and technology (blue)? [@whatsthediff] Perhaps you're a healthy balance of each? Computer Science O'Meter by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). [Remix by Yours Truly](https://remixer.visualthinkery.com/r/DbmOQ1OnqIS5xWPzWqa1), make your own at [remixer.visualthinkery.com](https://remixer.visualthinkery.com/)
+(ref:captionometer) Where does your Computing degree fit on this `Computer Science O'Meter`? Are you theoretiacl and scientifically pure (red)? Maybe you lean towards the highly vocational and applied aspects of engineering and technology (blue)? [@whatsthediff] Perhaps you're a healthy balance of each? Computer Science O'Meter by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). [Remix by Yours Truly](https://remixer.visualthinkery.com/r/DbmOQ1OnqIS5xWPzWqa1), make your own at [remixer.visualthinkery.com](https://remixer.visualthinkery.com/)
 
 Those who came before me, [lived through their vocations](https://en.wikipedia.org/wiki/Blue_Monday_(New_Order_song)), from the past until completion, they'll turn away no more. [@bluemonday] Many computer scientists live through their vocation of software engineering, but software engineering isn't the only vocation available to students of Computing. Let's look at some of the other options so that we can broaden your computational horizons.
 
@@ -79,6 +79,9 @@ Software engineers (or software developers if you prefer) are one of the most po
 * [DevOps](https://en.wikipedia.org/wiki/DevOps), [sysadmin](https://en.wikipedia.org/wiki/System_administrator) and [site reliability engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
 * [Patent attorney](https://en.wikipedia.org/wiki/Patent_attorney), protecting and organisations technical intellectual property (I.P.) see [prospects.ac.uk/job-profiles/patent-attorney](https://www.prospects.ac.uk/job-profiles/patent-attorney)
 * [Consultant](https://en.wikipedia.org/wiki/Information_technology_consulting), see [prospects.ac.uk/job-profiles/it-consultant](https://www.prospects.ac.uk/job-profiles/it-consultant) and [prospects.ac.uk/job-profiles/management-consultant](https://www.prospects.ac.uk/job-profiles/management-consultant)
+* [Web desginer](https://www.prospects.ac.uk/job-profiles/web-designer) can involve both back-end (e.g. databases, network) and front-end development, but usually focussed on front-end (HTML, CSS, Graphics etc). You'll sometimes hear web designers calling themselves [full stack developers](https://www.google.com/search?q=full+stack+developer), this role is closer to software engineering, speaking of which ... 
+* [Software engineering](https://www.prospects.ac.uk/job-profiles/software-engineer) goes by many different names (including some of the synonyms above) with closely related roles such as [machine learning engineer](https://www.prospects.ac.uk/job-profiles/machine-learning-engineer) `solutions architect` or `technical analyst` etc 
+
 
 <!--nonprofit, governmental, social -->
 What do these roles entail?
@@ -92,7 +95,7 @@ knitr::include_graphics("images/data-science-vs-data-hell.gif")
 
 ## Research software engineering {#rse}
 
-There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. For example, there are [lots roles in research software engineering](https://dx.doi.org/10.1038/d41586-022-01516-2) (RSE), using software engineering to facilitate better scientific research, see [society-rse.org](https://society-rse.org/).[@rses] For example, CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and many of them won't be physicists. [@hullcern]
+There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as Physicists at [home.cern](https://home.cern/) or conventional scientists working at the laboratory bench. For example, there are [lots roles in research software engineering](https://dx.doi.org/10.1038/d41586-022-01516-2) (RSE), using software engineering to facilitate better scientific research, see the *Society of Research Software Engineering*: [society-rse.org](https://society-rse.org/).[@rses] For example, CERN employs ten times more engineers and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and many of them won't be physicists. [@hullcern]
 
 ```{r cern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
 knitr::include_graphics("images/cern-engineering.jpeg")
@@ -140,6 +143,8 @@ knitr::include_graphics("images/With great code.png")
 (ref:captionspiderman) The greater your code, the greater your superpower. [The greater your superpower, the greater your responsibility](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility). What powers does computing give you and how can you use that power responsibly? [@Shapiro2021] With great code sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? Do computer scientists need to sell their soul to the highest bidder? How can computer science be used to make the world a better place, not just making rich people richer? Lets look at these in turn
+
+<!-- or powerful people more powerful -->
 
 ## Do you need to sell your soul? {#soul}
 You will sometimes hear people saying you need to sell your soul to get a job, shown in figure \@ref(fig:diabolical-fig). See for example:

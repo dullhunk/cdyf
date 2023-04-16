@@ -7,7 +7,7 @@ We all have strengths and weaknesses, and for students of Computer Science, it 
 ```{r no-writing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnowriting)"}
 knitr::include_graphics("images/Avoiding writing.png")
 ```
-(ref:captionnowriting) I often ask students about their motivation for studying Computer Science, see chapter \@ref(hearing). One of my tutees^[who shall remain anonymous] once told me, *I chose to study computing because I didn't like all the arty-farty humanities subjects at school. Literature, history, languages, culture, all that writing and talking. Bla bla bla. I hated that stuff!* My tutee preferred the precision and accuracy of mathematics and science. Fair enough, but while you can *run* from written and spoken communication, but you can't *hide* from it. Writing a CV, covering letter or filling in an application form is just the tip of the *natural language iceberg*, section \@ref(nle) outlines the some of the rest. This chapter looks at some simple techniques for improving and investing in your written communication skills. Avoidance sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionnowriting) I often ask students about their motivation for studying Computer Science, see chapter \@ref(hearing). One of my tutees^[who shall remain anonymous] once told me, *I chose to study computing because I didn't like all the arty-farty humanities subjects at school. Literature, history, politics, languages, culture, all that writing and talking. Bla bla bla. I hated that stuff!* My tutee preferred the precision and accuracy of mathematics and science. Fair enough, but while you can *run* from written and spoken communication, but you can't *hide* from it. Writing a CV, covering letter or filling in an application form is just the tip of the *natural language iceberg*, section \@ref(nle) outlines the some of the rest. This chapter looks at some simple techniques for improving and investing in your written communication skills. Avoidance sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 Your ability to write clearly isn't just important when putting together CV's like in figure \@ref(fig:no-writing-fig). Your ability to write clearly isn't just important when composing covering letters or filling in application forms either, it's a fundamental skill that will help you become a valued employee in the longer term. Learn to write more clearly now and you'll improve your chances of success later. 
@@ -50,7 +50,7 @@ This *shouldn't* be news to you but it means communicating with and understandin
 knitr::include_graphics("images/two-cutures.png")
 ```
 
-(ref:captioncpsnow) Many Computer Scientists are steeped in the culture of [Science, Technology, Engineering and Mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM), seperated by a gulf of mutual incomprehension from their counterparts in the humanities. Snow argued that this gulf between the two cultures was bad for *both* sides as it handicaps our abilities to solve major global problems. [@twocultures] Fair use image of [C. P. Snow](https://en.wikipedia.org/wiki/C._P._Snow) on the cover of *[The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)* via Wikimedia Commons [w.wiki/6Rhv](https://w.wiki/6Rhv) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captioncpsnow) Many Computer Scientists are steeped in the culture of [Science, Technology, Engineering and Mathematics](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) (STEM), seperated by a gulf of mutual incomprehension from their counterparts in the humanities. C.P. Snow argued that this gulf between the two cultures was bad for *both* sides as it handicaps our abilities to solve major global problems. [@twocultures] Fair use image of [C. P. Snow](https://en.wikipedia.org/wiki/C._P._Snow) on the cover of *[The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)* via Wikimedia Commons [w.wiki/6Rhv](https://w.wiki/6Rhv) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
  It probably doesn’t help that in the UK, and several other countries, many students specialise early in their education by choosing between: 
 
@@ -75,7 +75,9 @@ knitr::include_graphics("images/Achilles-Heel-to-Superpower.png")
 
 Your computational superpower is less powerful if it isn't complemented by a broad range of softer skills. Typically, these skills are not closely examined in most computer science degrees, for example by repeated assessment. There's an awful lot of [technical computing curriculum](https://www.acm.org/education/curricula-recommendations) that tends to have a higher priority over soft skills. It's not that soft skills aren't important but that they can be hard to quantify.
 
-For example, if I want to know how good you are at understanding the syntax and semantics of a programming language like Python, there are tried and tested techniques for measuring this. However, if I want to know how good you are at using your communication skills to work in a team of engineers to negotiate, lead, resolve conflicts, persuade others, show empathy etc that's **much** harder to measure accurately. What technical degrees tend to measure is technical skills because softer skills, shown in figure \@ref(fig:allskills-fig), are much harder to assess by examination and coursework. This is one of the many reasons that you are much more than your grades, see figure \@ref(fig:more-than-grades-fig).
+For example, if I want to know how good you are at understanding the syntax and semantics of a programming language like Python, there are tried and tested techniques for measuring this. However, if I want to know how good you are at using your communication skills to work in a team of engineers to negotiate, lead, resolve conflicts, persuade others, show empathy etc that's **much** harder to measure accurately. What technical degrees tend to measure is technical skills because softer skills, shown in figure \@ref(fig:allskills-fig), are much harder to assess by examination and coursework. 
+
+This is one of the many reasons that you are much more than your grades, see figure \@ref(fig:more-than-grades-fig).
 
 ```{r allskills-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallskills)"}
 knitr::include_graphics("images/Hard and soft skills.png")
@@ -420,11 +422,11 @@ Google occasionally delivers these technical writing courses as free sessions op
 
 ### Writing machines {#machines}
 
-There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI). Some of these tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection of tools you could experiment with, if you haven't already, is shown below:
+There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI). [@hogarth] Some of these tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection of tools you could experiment with, if you haven't already, is shown below:
 
 * [angryreviewer.com](https://www.angryreviewer.com/) by [Roman Anufriev](https://anufrievroman.com/) its a bit blunt but will give you honest feedback on your writing
 * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) (see figure \@ref(fig:chatgpt-fig)), [Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) and [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) [@bingai; @bardai]
-* [coauthor.stanford.edu](https://coauthor.stanford.edu) a dataset built from human-AI collaborative writing [@coauthor]
+<!--coauthor.stanford.edu-->
 * [DrivelDefence](https://www.plainenglish.co.uk/drivel-defence.html) part of the [Plain English Campaign](https://en.wikipedia.org/wiki/Plain_English_Campaign), see also *[The Complete Plain Words](https://en.wikipedia.org/wiki/The_Complete_Plain_Words)* [@gowers]
 * [ecree.com](https://www.ecree.com) a writing tutor 
 * [grammarly.com](https://www.grammarly.com/) reviews the spelling, grammar, punctuation and clarity of your writing 
@@ -447,7 +449,7 @@ Another problem with using writing machines to help you communicate is that whil
 
 So viewing writing as just another kind of `output`, overlooks a lot of the value of writing in the first place. 
 
-Despite their limitations, and the fact that we're still trying to figure out what their long term impacts will be, writing machines may help you to communicate more clearly and quickly. [@mairead; @noordenai; @hutsonai]
+Despite their limitations, and the fact that we're still trying to figure out what their long term impacts will be, writing machines may help you to communicate more clearly and quickly. [@mairead; @noordenai; @hutsonai] 
 
 ### Deliberate daily writing {#dailywrite}
 Another technique for improving your written communication is to write something every day, that might be a personal diary that only you read, or it could be something more public like blog.  Schedule a time every day, say 15 to 30 minutes when you will do this without fail. That writing could take several forms:
@@ -577,7 +579,7 @@ knitr::include_graphics("images/What - other people.png")
 
 So communicating with other people is a key skill, see figure \@ref(fig:allpeople-fig). This chapter has looked at written communication, and its importance in persuading people to invite you to a job interview, in chapter \@ref(speaking) we will look at the closely related skill of spoken communication. 
 
-In the next part, chapter \@ref(choosing): *Choosing your Future*, we'll look at deciding where to send your written job applications to. What are the possibilities, and how are you going to decide between them? 
+In the next part, chapter \@ref(experiencing) you will reflect on what experience you have and how you can articulate that to potential employers, with written and spoken communication.
 
 ```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
 knitr::include_graphics("images/its-all-about-people-2.png")
