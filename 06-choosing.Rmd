@@ -142,15 +142,15 @@ knitr::include_graphics("images/With great code.png")
 
 (ref:captionspiderman) The greater your code, the greater your superpower. [The greater your superpower, the greater your responsibility](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility). What powers does computing give you and how can you use that power responsibly? [@Shapiro2021] With great code sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? For example, recent advances in Artificial Intelligence have raised many ethical questions. According to some people (see figure \@ref(fig:putin-fig)), the people that control AI, could potentially rule the world. 
+Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? For example, recent advances in Artificial Intelligence have raised many ethical questions. [@hogarth] According to some people (see figure \@ref(fig:putin-fig)), the people that control AI, could potentially rule the world. 
 
 ```{r putin-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionputin)"}
 knitr::include_graphics("images/putin.jpeg")
 ```
 
-(ref:captionputin) According to Putin, whoever controls Artificial Intelligence will rule the world [@putin]. Whatever you think of this point of view, there is no denying that computing can give it's creators plenty of power and wealth, and not just in AI either. [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) licensed portrait of [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) by [kremlin.ru](http://www.kremlin.ru/) on Wikimidia Commons [w.wiki/6bRD](https://w.wiki/6bRD) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionputin) According to Putin, whoever becomes a leader in Artificial Intelligence will become the ruler of the world [@putin]. Whatever you think of this point of view, there is no denying that computing can give it's creators plenty of power and wealth, and not just in AI either. [CC-BY](https://creativecommons.org/licenses/by/4.0/deed.en) licensed portrait of [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) by [kremlin.ru](http://www.kremlin.ru/) on Wikimidia Commons [w.wiki/6bRD](https://w.wiki/6bRD) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Since there's so much power and money tied up in computing, do computer scientists need to sell their soul to the highest or most powerful bidder? How can computing be used to make the world a better place, not just making rich people richer? Or powerful people more powerful? This is not a book about ethics in computing, [@systemerror; @codeofethics] but lets look at some of these questions in more detail.
+Since there's so much power and money tied up in computing, do computer scientists need to sell their soul to the highest or most powerful bidder for their services? How can computing be used to make the world a better place, not just making rich people richer? Or powerful people more powerful? This is not a book about ethics in computing, [@systemerror; @codeofethics] but lets look at some of these questions in more detail.
 
 <!-- or powerful people more powerful -->
 
