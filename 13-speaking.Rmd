@@ -196,7 +196,7 @@ knitr::include_graphics("images/project-euler.jpeg")
 
 (ref:captioneuler) Since its creation in 2001 by Colin Hughes [projecteuler.net](https://projecteuler.net/) has become internationally popular, with new problems added approximately every two weeks. [@colinhughes] Public domain image of a painting of [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler) by [Jakob Emanuel Handmann](https://en.wikipedia.org/wiki/Jakob_Emanuel_Handmann) on Wikimedia Commmons [w.wiki/3WAV](https://w.wiki/3WAV) adapted using the Wikipedia app.
 
-### Codewars
+### Codewars {#codewars}
 Codewars allows you to challenge yourself on [kata](https://en.wikipedia.org/wiki/Kata) (型), created by the community to strengthen different skills. Master your current language of choice, or expand your understanding of a new one. Find out more at [codewars.com](https://www.codewars.com) and see figure \@ref(fig:codewars-kata-fig)
 
 ```{r codewars-kata-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captioncodewars)"}
@@ -206,9 +206,12 @@ knitr::include_graphics("images/kata.jpeg")
 (ref:captioncodewars) Just like martial arts, you can practice the computational arts with [kata](https://en.wikipedia.org/wiki/Kata) (型) on [codewars.com](https://www.codewars.com) and elsewhere. CC BY-SA Picture of world champion Emmanuelle Fumonde by Thierry Caro on Wikimedia Commmons [w.wiki/3XeE](https://w.wiki/3XeE) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 
-<!--https://open.kattis.com via Ian Pratt-Harman-->
+### Kattis {#kattis}
 
-### ICPC
+Kattis provides hundreds of programming problems to solve. Register and start solving at [open.kattis.com](https://open.kattis.com), used by employers see [kattis.com](https://www.kattis.com/).
+<!-- via Ian Pratt-Harman-->
+
+### ICPC {#icpc}
 
 More than 50,000 students worldwide from more than 3,000 universities in 111 countries participate in over 400 on-site competitions as part of the International Collegiate Programming Contest (ICPC) see [icpc.global](https://icpc.global/) and figure \@ref(fig:icpc-fig).
 
