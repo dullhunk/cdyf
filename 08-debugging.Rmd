@@ -141,7 +141,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 ## Structure your CV and Résumé {#mycvst}
 
-How you structure your CV and Résumé will depend on who you are and what your story is. Recruiters at Google suggest you have four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs. Start by watching the short video shown in figure \@ref(fig:lopez-fig).
+How you structure your CV and Résumé will depend on who you are and what your story is. Recruiters at Google suggest you have four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short video shown in figure \@ref(fig:lopez-fig).
 
 ```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
@@ -399,7 +399,7 @@ If you're a computer scientist, you also have demonstrable `meta` skills like th
 ## Bird's eye view
 Having zoomed in on the details of sections you're likely to have, we'll zoom back out to take a [bird's eye view](https://en.wikipedia.org/wiki/Bird%27s-eye_view) of your whole CV. The issues in this section apply to the whole of your CV, rather than individual sections.
 
-### Your style {#pdf}
+### Your style {#style}
 
 Making your CV look good can take ages, but a well presented CV will stand out. While its worth making an effort to style carefully and consistently, you need to be be wary of the huge time sink of [typography](https://en.wikipedia.org/wiki/Typography).
 
@@ -416,7 +416,9 @@ Seemingly trivial typographical details can make a big difference to the overall
 
 * `The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog`
 
-Whatever your typographical style is, portable document format (`*.pdf`) is the safest way to deliver it. It's called portable for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft's own products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on a range of different smartphones and tablets and you'll see what I mean. It helps your reader if you can give your CV file a descriptive name, especially if it is being read by a human and not a robot. 🤖
+### Porting your future {#pdf}
+
+Whatever your typographical style is, portable document format (`*.pdf`) is the safest way to deliver it. It's called *portable* for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft's own products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on a range of different smartphones and tablets and you'll see what I mean. It helps your reader if you can give your CV file a descriptive name, especially if it is being read by a human and not a robot. 🤖
 
 * ❌ `cv.pdf` (not a very descriptive filename)
 * ✅ `ada_lovelace.pdf`(a descriptive filname)
