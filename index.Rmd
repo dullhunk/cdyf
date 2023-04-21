@@ -137,7 +137,7 @@ Your future is split into five parts, each of which has several chapters:
 Although *presented* in a linear order, follow whatever path suits you best, as shown on the right hand side of figure \@ref(fig:map-fig). Many students start with chapter \@ref(debugging), but individual entry and exit points to your future will differ.
 
 ```{r map-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmapping)"}
-knitr::include_graphics("images/Course Map Pentagram.png")
+knitr::include_graphics("images/Course Map Pentagram downsampled.png")
 ```
 (ref:captionmapping) A map to your future: traditional learning often tries to follow a predictable *linear* path, as shown in the left hand side of this picture. Whatever path you take in life, your future is unlikely to be either predictable *or* linear. Consequently, this guidebook encourages you to follow a *non-linear* iterative learning journey, shown on the right hand side. Start with whatever chapter you like, follow your nose and be prepared to revisit chapters as you progress through the early moves in your career. CC BY-SA map of your future by Yours Truly.
 
