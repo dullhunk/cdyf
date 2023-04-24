@@ -169,12 +169,12 @@ Other ways to get a big name on your CV include joining a big name competition o
 * Amazon hosts the Alexa challenge, see [developer.amazon.com/alexaprize](https://developer.amazon.com/alexaprize/challenges/current-challenge/rules) <!--and the AWS Educate Challenge [aws.amazon.com/education/awseducate/university-challenge](https://aws.amazon.com/education/awseducate/university-challenge/)-->
 * Apple hosts the Swift Student Challenge [developer.apple.com/wwdc22/swift-student-challenge/](https://developer.apple.com/wwdc22/swift-student-challenge/)
 <!--* CERN publishes data at [opendata.cern.ch](https://opendata.cern.ch/)-->
-* The European Space Agency (ESA) organises the CANSAT competition (satellite in a can) see [esa.int/Education/CanSat](https://www.esa.int/Education/CanSat) and [cansatcompetition.com](http://www.cansatcompetition.com/) (NASA)
+* The European Space Agency (ESA) organises the CANSAT competition (satellite in a can) see [esa.int/Education/CanSat](https://www.esa.int/Education/CanSat) and [cansatcompetition.com](https://www.cansatcompetition.com/) (NASA)
 * Facebook has hackathons, see [facebook.com/hackathon](https://en-gb.facebook.com/hackathon) and [developers.facebook.com](https://developers.facebook.com/)
 * Google hosts several events including:
     + Code Jam, HashCode and Kick Start [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/)
     + Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/), see figure \@ref(fig:gsoc-fig) [@gsoc]
-    + Developer Student Club Leads [developers.google.com/community/dsc/leads](https://developers.google.com/community/dsc/leads)
+    + Developer Student Club Leads [developers.google.com/community/gdsc/leads](https://developers.google.com/community/gdsc/leads)
     + Inside Look [buildyourfuture.withgoogle.com/programs/inside-look](https://buildyourfuture.withgoogle.com/programs/inside-look/)
 * [Outreachy.org](https://www.outreachy.org/) provides internships for people subject to [systemic bias](https://en.wikipedia.org/wiki/Systemic_bias) and underrepresentation in the technical industry where they are living, and is backed by big employers.
 * IBM hosts the annual Call for Code [developer.ibm.com/callforcode](https://developer.ibm.com/callforcode) unlike other competitions, these have a [corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR) themes for the benefit of society at large
@@ -221,7 +221,7 @@ There are lots of different motivations for getting involved in open source, sho
 ```{r opensource-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionopensource)"}
 knitr::include_graphics("images/OS-contribution-motivations-1200x675.png")
 ```
-(ref:captionopensource) There are lots of good reasons for getting involved in open source software, gaining skills and experience of real software engineering in the wild is just one of them. [Open Source Motivations](https://bryanmmathers.com/open-source-motivations) by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionopensource) There are lots of good reasons for getting involved in open source software, gaining skills and experience of real software engineering in the wild is just one of them. [Open Source Motivations](https://bryanmmathers.com/open-source-motivations/) by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 If you're looking for a project to get stuck into, here are [Diomidis Spinellis](https://en.wikipedia.org/wiki/Diomidis_Spinellis) tips for getting started [@sigman18]:
 
