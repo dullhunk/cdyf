@@ -231,13 +231,18 @@ https://academicworks.cuny.edu/gc_pubs/562/
 
 Your future is bright, your future needs computing. Computing your future will help you design your future. Designing your future will help you to start coding you future. 
 
-There are lots of opportunities in computing but you don't *need* to have studied Computer Science to take advantage of them.  In the next part, chapter \@ref(debugging): *Debugging your Future* we'll look at techniques for identifying and fixing bugs in your written applications so that you can maximise your chances of being invited to job interviews. 
+There are lots of opportunities in computing but you don't *need* to have studied Computer Science at Unviersity to take advantage of them. Apple co-founder [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) likened the computer to a “*bicycle for the mind*”, see figure \@ref(fig:stevejobs-fig). Just as cycling is a tool we've invented that makes locomotion more efficient, so too computing is a tool which enables us to do some cognitive tasks more efficiently. While studying computing at Unviersity will help you ride your computational bike, it's not a prerequisite. Steve Jobs bike can be ridden by anyone keen enough to have a go and keep pedalling.
 
-This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar3-fig).
-
-```{r deathstar3-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
-knitr::include_graphics("images/DeathStar2.jpg")
+```{r stevejobs-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionstevejobs)"}
+knitr::include_graphics("images/steve-jobs.jpeg")
 ```
+
+(ref:captionstevejobs) “I think one of the things that really separates us from the high primates is that we’re tool builders. I read a study that measured the efficiency of locomotion for various species on the planet. The condor used the least energy to move a kilometre. And, humans came in with a rather unimpressive showing, about a third of the way down the list. So, that didn’t look so good. But, then somebody at *Scientific American* [@scientificbicycle] had the insight to test the efficiency of locomotion for a man on a bicycle. And, a man on a bicycle, a human on a bicycle, blew the condor away, completely off the top of the charts. And that’s what a computer is to me. What a computer is to me is it’s the most remarkable tool that we’ve ever come up with, and it’s the equivalent of a bicycle for our minds.” [@stevejobs]
+
+In the next part, chapter \@ref(debugging): *Debugging your Future* we'll look at techniques for identifying and fixing bugs in your written applications so that you can maximise your chances of being invited to job interviews. 
+
+(Please note this chapter is under construction as I'm using agile book development methods, see figure \@ref(fig:deathstar8-fig))
+
 
 <!--
 
