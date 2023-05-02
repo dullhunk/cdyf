@@ -23,6 +23,15 @@ knitr::include_graphics("images/bill-gates.jpeg")
 
 Please note that some of the references below may require subscriptions, depending on the configuration of your [paywall](https://en.wikipedia.org/wiki/Paywall). Where possible I've linked to free or archived versions and I've only linked to paywalled content if its really worth reading.
 
+<!--START MOVE-->
+
+```{r truman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontruman)"}
+knitr::include_graphics("images/harry-truman.jpeg")
+```
+(ref:captiontruman) According to [Harry Truman](https://en.wikipedia.org/wiki/Harry_S._Truman): “*readers are preparing themselves for leadership. Not all readers become leaders. But all leaders must be readers.*”[@truman] Public domain portrait of Harry S. Truman by the United States National Archives Catalog on Wikimedia Commons [w.wiki/6e8P](https://w.wiki/6e8P) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+<!--END MOVE-->
+
 <!--`r if (knitr::is_html_output()) '
 was like this see
 LaTeX or HTML output
