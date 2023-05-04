@@ -1,7 +1,7 @@
 # Reading your future {#reading}
 <!-- was References -->
 
-Not all readers become leaders. But all leaders must be readers. [@truman] If you want *read* your future, there is no need to gaze into any [crystal balls](https://en.wikipedia.org/wiki/Crystal_ball) to have your fortune told. 🔮 
+According to President [Harry Truman](https://en.wikipedia.org/wiki/Harry_S._Truman) “*Readers are preparing themselves for leadership. Not all readers become leaders, but all leaders must be readers.*” [@truman] So if you want *read* your future, there is no need to gaze into any [crystal balls](https://en.wikipedia.org/wiki/Crystal_ball) to have your fortune told. 🔮 
 
 If you want to *lead* your future you can read all about it right here. These books, journals, websites, magazines will help you to read your future, alongside all the other places you find the written word described in section \@ref(nle). Reading can be good for your mind, body and soul too because [libraries give us power](https://en.wikipedia.org/wiki/A_Design_for_Life) [@designforlife; @librariesgaveuspower], see figure \@ref(fig:library-power-fig).
 
@@ -30,6 +30,11 @@ knitr::include_graphics("images/harry-truman.jpeg")
 ```
 (ref:captiontruman) According to [Harry Truman](https://en.wikipedia.org/wiki/Harry_S._Truman): “*readers are preparing themselves for leadership. Not all readers become leaders. But all leaders must be readers.*”[@truman] Public domain portrait of Harry S. Truman by the United States National Archives Catalog on Wikimedia Commons [w.wiki/6e8P](https://w.wiki/6e8P) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
+<!--some spacing for linking to references-->
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>')
+```
+
 <!--END MOVE-->
 
 <!--`r if (knitr::is_html_output()) '
@@ -42,4 +47,4 @@ https://bookdown.org/yihui/rmarkdown-cookbook/latex-html.html
 Since you are reading the pdf version, all the references can be found in the bibliography section following this page.
 '`
 
-<!-- would like to add an image AFTER the references but can't work out how to do so-->
+<!-- would like to add an image AFTER the references but can't work out how to do that yet, possibly lua-->
