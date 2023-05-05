@@ -515,7 +515,7 @@ As a buyer and seller, you should be wary of the following:
 
 ### Beware of broken recruitment practices {#broken}
 
-There's no shortage of people saying that recruitment and hiring are broken see figure \@ref(fig:stroustrup-fig).
+There's no shortage of people saying that recruitment and hiring are broken in various ways, see figure \@ref(fig:stroustrup-fig). 
 
 ```{r stroustrup-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionstroustrup)"}
 knitr::include_graphics("images/bjarne-stroustrup.jpeg")
@@ -535,7 +535,7 @@ Here is a small sample of complaints about recruitment, both from employers and 
 * “*I Cheated on My Microsoft Interview*” [@cheated]
 * “*What are some common criticisms of Cracking the Coding interview?*” [@murashenkov]
 
-... and the general unreliability of the hiring process... 
+... and the general unreliability of hiring ... 
 
 * “*Your Approach to Hiring Is All Wrong*” [@capelli]
 * “*It's time to streamline the hiring process*” [@streamline]
