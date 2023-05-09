@@ -158,7 +158,7 @@ knitr::include_url('https://www.youtube.com/embed/TKC98Sumg2A')
 
 (ref:captionneetcode) Change your life with algorithms and data structures from [neetcode.io](https://neetcode.io). You can also watch the full 5 minute video embedded in this figure at [youtu.be/TKC98Sumg2A](https://youtu.be/TKC98Sumg2A) [@youtube-neetcode]
 
-[neetcode.io](https://neetcode.io/) is useful, but you can't expect to prepare for every interview question, either technical or non-technical. Be prepared to think on your feet, a good interviewer will probably have questions designed to test exactly that, see figure \@ref(fig:knightcode-fig)
+[neetcode.io](https://neetcode.io/) is useful, but you can't expect to prepare for every interview question, either technical or non-technical. Be prepared to think on your feet and explain your reasoning. A good interviewer will probably have questions designed to test exactly that, see figure \@ref(fig:knightcode-fig). If they don't, the technical interview risks being a measure of how good you are at *grinding* leetcode and *memorising* algorithms. [@grinding] It is debateable how either of those skills will help you to become a valued employee.
 
 ```{r knightcode-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionknightcode)"}
 knitr::include_graphics("images/neetcode.jpeg")
