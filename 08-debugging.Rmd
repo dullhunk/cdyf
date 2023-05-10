@@ -36,11 +36,19 @@ knitr::include_graphics("images/gayle-black-hole.jpeg")
 
 If you're applying to big employers, you'll need to create a CV that is good enough to stand out before it disappears over the [event horizon](https://en.wikipedia.org/wiki/Event_horizon) and into an employers black hole, see section \@ref(rejection). Employer practices vary, but according to some estimates the person reading your CV will typically:
 
-* Spend around **7 seconds** (or less!) deciding if your CV is interesting enough to shortlist
-* Shortlist about **20%** of the all CVs they get sent
-* Interview about **2%** of the candidates on their shortlist
+* Spend around **7 seconds** (or less!) deciding if your CV is interesting enough to shortlist and read in a bit more depth. This is a pessimistic view, see the discussion by Andrew Fennell a more complete story [@fennell]
+* Shortlist about **20%** of the all CVs they get sent [@fennell]
+* Interview about **2%** of the candidates on their shortlist [@fennell]
 
-So, the FIRST thing your CV or résumé needs to do is, *persuade an employer to invite you to an interview*. You can start with an employer-agnostic CV but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
+So, the *first* thing your CV or résumé needs to do is:
+
+* *catch attention so it ends up in the lets read that a bit more pile*. 
+
+Having passed the 7 second test, the second thing your CV or résumé needs to do is:
+
+* *persuade an employer to invite you to an interview*. 
+
+You can start with an employer-agnostic CV but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
 
 ## The CV is dead, long live the CV! {#dead}  
 Résumés and CV's have reigned supreme in the kingdom of employment and recruitment for many years but their demise has often been predicted, see figure \@ref(fig:longlive-fig).
@@ -276,7 +284,7 @@ By themselves, those project names are pretty opaque. They are OK for giving the
 ```{r cvfodder-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfodder)"}
 knitr::include_graphics("images/CV Fodder.png")
 ```
-(ref:captionfodder) Have you ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great stories (aka CV [fodder](https://en.wikipedia.org/wiki/Fodder)) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfodder) Have you ever had a project that didn't go very well? Did it all go [pear-shaped](https://en.wikipedia.org/wiki/Pear-shaped)? [@piriform] Perhaps you managed to turn the project around? Maybe you learned some lessons from those painful mistakes you won't be repeating? Difficult projects can make great stories (aka CV [fodder](https://en.wikipedia.org/wiki/Fodder)) because mistakes *can* be good, see section \@ref(estherdyson), as long as you don't repeat them. CV fodder sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 It's often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is much more likely to be interested in the former than the latter. Let's imagine you've developed a piece of software called `WidgetWasher`. You might describe it like this:
 
@@ -557,7 +565,7 @@ Besides LinkedIn you could include public profiles from [github.com](https://doc
 LinkedIn is much more than a tool for publishing your CV or résumé because it also allows you to:
 
 * search and apply for jobs
-* create a digital portfolio that is publicly available^[you might want to be careful about what information you put out there!]
+* create a digital portfolio that is publicly available^[Obviously, you might want to be careful about what information you put out there!]
 * connect with professionals, think social media for jobs
 
 Chapter \@ref(finding) looks at job searching in more detail but for now just note the similarities and differences between LinkedIn, CVs and résumés outlined in table \@ref(tab:linkedintable). Some of these differences also apply to other places online where you might augment your CV with extra information such as github, devpost and others mentioned in section \@ref(links) and \@ref(portfolio).
