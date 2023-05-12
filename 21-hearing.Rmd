@@ -135,11 +135,11 @@ knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 
 (ref:captionyfnu) Your ~~country~~ future wants YOU. 🫵 Join your future. If you are a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by [Alfred Leete](https://en.wikipedia.org/wiki/Alfred_Leete) on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
 
-If you're coming on the show, please prepare answers to the following questions:
+If you're coming on the show, please have a think about the following questions which we ask all our guests:
 
-1. 📕 What's your story, coding glory see section \@ref(your-story)
-1. 🤏 Minority report, see section \@ref(minority)
-1. 🤴 You are the next Vice Chancellor, see section \@ref(vc)
+1. 🎸 What's your story, coding glory see section \@ref(your-story)
+1. ✊🏽 Minority report, see section \@ref(minority)
+1. 👑 You are the next Vice Chancellor, see section \@ref(vc)
 1. 🍿 One tune, one podcast, one film: see section \@ref(otopof)
 1. ⏱ Time traveller, see section \@ref(your-time)
 
@@ -169,7 +169,7 @@ knitr::include_graphics("images/whats-the-story.jpeg")
 
 (ref:caption2gallagher) [(What's your Story) ~~Morning~~ Coding Glory?](https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F) [@whatsthestory]. CC BY portrait of [Noel Gallagher](https://en.wikipedia.org/wiki/Noel_Gallagher) by [alterna2.com](https://alterna2.com/) on Wikimedia Commons [w.wiki/3bimy](https://w.wiki/3bim) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So what's your story? 📕
+So what's your story, coding glory? 🎸
 
 ### Minority report {#minority}
 This is an optional question taken from the title of the [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) novel *[The Minority Report](https://en.wikipedia.org/wiki/The_Minority_Report)* and subsequent film adaptation, see figure \@ref(fig:minority-fig). Minority report asks our guests:
@@ -186,10 +186,10 @@ knitr::include_graphics("images/minority-report.jpeg")
 ```
 (ref:captionminority) Are you in a minority?  Inspired by the book [@theminorityreport] and its film adaptation [@minorityreport], we'll hear from some of our minorities. *The Minority Report* is short story by Philip K. Dick first published by *[Fantastic Universe](https://en.wikipedia.org/wiki/Fantastic_Universe)* magazine in 1956. What is it like being in minority and how could universities and employers be more welcoming to your minority group(s)? Public domain image of magazine cover by [Ed Emshwiller](https://en.wikipedia.org/wiki/Ed_Emshwiller) via Wikimedia Commons [w.wiki/5Swn](https://w.wiki/5Swn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-If you are in a minority, what's your report?  🤏
+If you're in a minority that you're happy to talk about, what's your report? ✊🏽
 
 ### You are the next Vice Chancellor {#vc}
-Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate of the University of Manchester](https://www.manchester.ac.uk/discover/governance/structure/senate/) have just appointed you their next leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell), shown in figure \@ref(fig:vc-fig). Nancy has served as VC since 2010, and will step down in 2024, the [200th anniversary](https://www.manchester.ac.uk/discover/history-heritage/history/umist/) of the foundation of the University of Manchester. As VC, you now have responsibility for 11,000 staff, 40,000 students and access to a global network of over 500,000 alumni. You'll also take over as chair of the [russellgroup.ac.uk](https://russellgroup.ac.uk/).
+Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate of the University of Manchester](https://www.manchester.ac.uk/discover/governance/structure/senate/) have just appointed you their next leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell), shown in figure \@ref(fig:vc-fig). Nancy has served as VC since 2010, and will step down in 2024, the [200th anniversary](https://www.manchester.ac.uk/discover/history-heritage/history/umist/) of the foundation of the University of Manchester. As VC, you now have responsibility for 11,000 staff, 40,000 students and access to a global network of over 500,000 alumni. You'll also take over as chair of the [russellgroup.ac.uk](https://russellgroup.ac.uk/). No pressure!
 
 ```{r vc-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionvc)"}
 knitr::include_graphics("images/nancy-rothwell.jpeg")
