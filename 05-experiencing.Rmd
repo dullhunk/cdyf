@@ -99,7 +99,7 @@ jobterm_table <- tibble::tribble(
   "Social", "Unpaid, participating in a club or society e.g. students union, sport etc, for example in Manchester see [manchesterstudentsunion.com](https://manchesterstudentsunion.com/)",
   "Entrepreneurial", "Self-employment, freelancing, contracting, “moonlighting” in a [side job](https://en.wikipedia.org/wiki/Side_job) or starting as a [sole-trader](https://en.wikipedia.org/wiki/Sole_proprietorship) or small business",  
   "Insight", "Usually no contract of employment. One to three weeks, sometimes known as work experience, [work shadowing](https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-shadowing), spring weeks, vacation schemes or even [externships](https://en.wikipedia.org/wiki/Externship). Sometimes unpaid, but often expensed. See [ratemyplacement.co.uk/insights](https://www.ratemyplacement.co.uk/insights) for some examples",
-  "Internship", "Fixed term contract of employment, typically 3 months full-time over summer, but anywhere between 1 and 6 months. Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree. Usually prior to graduation, but some employers offer *graduate internships* such as the [Silicon Valley Internship Program](https://siliconvalleyinternship.com/) (SVIP). These kinds of internships should *really* be called fixed-term graduate jobs (or schemes) instead of internships",
+  "Internship", "Fixed term contract of employment, typically 8-12 weeks full-time over summer, but anywhere between 1 and 6 months. [@kaplong] Sometimes part-time, *may* be an assessed part of an undergraduate or postgraduate degree. Usually prior to graduation, but some employers offer *graduate internships* such as the [Silicon Valley Internship Program](https://siliconvalleyinternship.com/) (SVIP). These kinds of internships should *really* be called fixed-term graduate jobs (or schemes) instead of internships",
   "Placement", "Fixed term contract of employment, typically 12 months long and an assessed part of a degree. In Europe they are sometimes known as a “sandwich” or “industrial experience” years because they typically take place in the *penultimate* (last but one) year of a degree. In America, placements are usually [known as co-ops](https://career.vt.edu/experience/ceip/ceip-internship-coop.html) [@coops]",
   "Graduate job", "Full-time permanent contract typically working in one department of an organisation",
   "Graduate scheme", "Full-time permanent contract. Fast-track or high-flier managerial scheme, in your first two years, you'll probably rotate around different departments in an organisation"
@@ -110,7 +110,7 @@ knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughou
 
 ### Summer vs. year-long experience? {#interns}
 
-You might be wondering which length of experience is better, a short summer internship or year-long industrial placemnt (aka co-op). Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
+You might be wondering which length of experience is better, a short summer internship or year-long industrial placemnt (aka co-op). [@kaplong] Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
 
 ```{r interntable, echo = FALSE}
 intern_table <- tibble::tribble(
@@ -138,7 +138,7 @@ Although valuable, your experience of paid employment isn't the only kind of exp
 ### Other experience {#other}
 <!-- to do compare and contrast summer vs year long-->
 
-Some of the experience outlined in table \@ref(tab:jobterms) was probably what you were already thinking of as experience, however there are three important sources of experience that students often overlook:
+Some of the experience outlined in table \@ref(tab:jobterms) was probably what you were already thinking of as experience, however there are four other important sources of experience that students often overlook:
 
 1. **Voluntary work**: Any kind of work where you've given your time and labour to a community. That could be non-technical (working for a charity) or technical, such as contributing to open-source software, see section \@ref(opensource) and figure \@ref(fig:volunthero-fig)
 1. **Casual work**: Working in hospitality or retail (etc) is often overlooked by students as an important source of relevant experience. It doesn't have to be technical to be relevant to employers, see section \@ref(casual)
@@ -151,13 +151,13 @@ knitr::include_graphics("images/volunthero.jpeg")
 
 (ref:captionvolunthero) [Volunteering](https://en.wikipedia.org/wiki/Volunteering) is a great source of experience that employers value. That could mean volunteering for charitable causes, taking responsibility in a student society or getting involved in open source projects. Picture of volunteers cleaning up after Hurricane Sandy in 2012 by Jim Henderson via Wikimedia Commons [w.wiki/3Z96](https://w.wiki/3Z96) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238).
 
-Before we discuss these experiences, lets look at some of the more conventional places for getting experience:
+Before we discuss these experiences, lets look at some of the more conventional places for getting experience.
 
 <!--* Competitions: participating in competitions and hackathons will make your CV stand out-->
 
 ### Big name experience {#bignames}
 
-It's probably easier than you might think to get a [big tech](https://en.wikipedia.org/wiki/Big_Tech) or big employer name on your CV. For example, many large employers run [insight days, vacation schemes and spring weeks ](https://www.ratemyplacement.co.uk/insights). These are often aimed at first year undergraduates, and are sometimes less competitive to get into than a longer term commitment such as a summer internship, year-long placement or even graduate job. A big name on your CV early in your degree can help it stand out later, as fluff bucket the grinning [cheshire cat](https://en.wikipedia.org/wiki/Cheshire_Cat) demonstrates on their CV shown in figure \@ref(fig:bigname-fig). 😻
+It's probably easier than you might think to get a [big tech](https://en.wikipedia.org/wiki/Big_Tech) or [blue chip name](https://en.wikipedia.org/wiki/Blue_chip_(stock_market)) on your CV. For example, many large employers run [insight days, vacation schemes and spring weeks ](https://www.ratemyplacement.co.uk/insights). These are often aimed at first year undergraduates, and are sometimes less competitive to get into than a longer term commitment such as a summer internship, year-long placement or even graduate job. A big name on your CV early in your degree can help it stand out later, as fluff bucket the grinning [cheshire cat](https://en.wikipedia.org/wiki/Cheshire_Cat) demonstrates on their CV shown in figure \@ref(fig:bigname-fig). 😻
 
 ```{r bigname-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbigname)"}
 knitr::include_graphics("images/Big Name.png")
@@ -167,8 +167,8 @@ knitr::include_graphics("images/Big Name.png")
 Other ways to get a big name on your CV include joining a big name competition or event, for example:
 
 * Amazon hosts the Alexa challenge, see [developer.amazon.com/alexaprize](https://developer.amazon.com/alexaprize/challenges/current-challenge/rules) <!--and the AWS Educate Challenge [aws.amazon.com/education/awseducate/university-challenge](https://aws.amazon.com/education/awseducate/university-challenge/)-->
-* Apple hosts the Swift Student Challenge [developer.apple.com/wwdc22/swift-student-challenge/](https://developer.apple.com/wwdc22/swift-student-challenge/)
-<!--* CERN publishes data at [opendata.cern.ch](https://opendata.cern.ch/)-->
+* Apple hosts the Swift Student Challenge [developer.apple.com/wwdc23/swift-student-challenge](https://developer.apple.com/wwdc23/swift-student-challenge/)
+* CERN publishes data at [opendata.cern.ch](https://opendata.cern.ch/), anyone can try to visualise collisions and dive into the data [@cernopendata]
 * The European Space Agency (ESA) organises the CANSAT competition (satellite in a can) see [esa.int/Education/CanSat](https://www.esa.int/Education/CanSat) and [cansatcompetition.com](https://www.cansatcompetition.com/) (NASA)
 * Facebook has hackathons, see [facebook.com/hackathon](https://en-gb.facebook.com/hackathon) and [developers.facebook.com](https://developers.facebook.com/)
 * Google hosts several events including:
