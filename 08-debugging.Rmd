@@ -129,9 +129,18 @@ While referring to this guide, remember that:
 
 You're not trying to tell your *whole* life story from section \@ref(story) but to distill the essentials into several short stories which can be summarised into a handful of bullets or sentences. It's a bit like the [blurb](https://en.wikipedia.org/wiki/Blurb) or synopsis on the back of a novel, can you entice the reader into wanting to find out more (by inviting you to an interview)?
 
-## Is it a bug or a feature? {#mycv}
+## Write something, anything! {#mycv}
 
-Wherever criticism of your CV comes from, don't take it personally - it is probably one of the first you have written. Think of your current CV as an alpha or beta version that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this. Here are some common bugs (or are they features?) to pay attention to on initial draughts of your CV:
+Wherever criticism of your CV or résumé comes from, don't take it personally - it is probably one of the first you have written. Just as you can't edit a blank page, see figure \@ref(fig:jodi-picoult-fig), you can't debug a blank CV either.
+
+```{r jodi-picoult-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongarbage)"}
+knitr::include_graphics("images/jodi-picoult.jpeg")
+```
+
+(ref:captiongarbage)  “*I may write garbage, but you can always edit garbage. You can't edit a blank page*” --Jodi Picoult [@picoult] I often speak to students who tell me their CV isn't ready yet. Just as you can't edit a blank page, you can't debug an unwritten (or unseen) CV either. So write something, *anything*. Even if you think its garbage you won't be able to improve it until you've written it. Likewise, if you're doing a CV swap - go easy on the writer, you'll often be treading on delicate and personal ground. Public domain portrait of novelist [Jodi Picoult](https://en.wikipedia.org/wiki/Jodi_Picoult) by Lauren Gerson via the U.S. National Archives on Wikimedia Commons [w.wiki/6i4E](https://w.wiki/6i4E) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+
+It might help to think of first version of your CV as an alpha or beta version that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this. Here are some common bugs (or are they features?) to pay attention to on initial draughts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(mycved)
@@ -341,7 +350,7 @@ Again, congratulations, but third place out of how many?
 
  Numbers can speak louder than words, so if you're going to mention awards, quantify^[an approximation will do if you don't have exact figures] where you can so the reader can understand what the prize was for. You may well be intimately acquainted with the [flibbertigibbet](https://en.wikipedia.org/wiki/Flibbertigibbet) competition but your reader probably won't of heard of it, so give some context. 
  
- Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrates your learning interests beyond just ticking the boxes of what your University asks of you in your formal education]. Extra skills and knowledge you've picked up from [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges), are worth mentioning. 🏆
+ Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrate your learning interests beyond just ticking the boxes of what your University requires of you for your formal education]. Extra skills and knowledge you've picked up from [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges), are worth mentioning. 🏆
 
 ### Your optional extras {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with a better names for this section than: 
