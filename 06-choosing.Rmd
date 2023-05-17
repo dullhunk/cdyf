@@ -1,7 +1,7 @@
 # Choosing your future {#choosing}
 <!--old name broadening -->
 
-Your future is full of exciting new possibilities, but which options will you choose? What are all the opportunities for students of computing? How will you choose which one is best for *you*? When choosing your future, do you see yourself as a `default user` or the `weird edge case` pictured in figure \@ref(fig:default-user-fig)?  
+Your future is full of exciting new possibilities, but which of these options will you choose? What are all the opportunities for students of computing? How will you choose *the one* is best for *you*? When choosing your future, do you see yourself as a `default user` or the `weird edge case` pictured in figure \@ref(fig:default-user-fig)?  
 
 ```{r default-user-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondefaultuser)"}
 knitr::include_graphics("images/default-user-1280x959.png")
@@ -38,7 +38,7 @@ Your future is bright, your future needs choosing, so let's start choosing your 
 ## Vocational or academic? {#vocation}
 Some undergraduate degrees like medicine, dentistry and nursing are highly vocational. Other degrees have a stronger academic flavour. According to some studies, vocational degrees can be the best route to highly skilled jobs. [@vocational] Computer Science degrees often develop highly vocational skills and knowledge, through disciplines like software engineering for example. They often contain more theoretical, scientific and academic topics like the [theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation), [graph theory](https://en.wikipedia.org/wiki/Graph_theory) and [probability theory](https://en.wikipedia.org/wiki/Probability) too. 
 
-What is the blend of vocational vs. academic study in your degree? It's good to have a mixture of theory and practice, see figure \@ref(fig:ometer-fig), because employers value both of them. [@vocational] However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the *vocational* part of your degree that will give you the clearest intial direction into paid employment. 
+What is the blend of vocational vs. academic study in your degree? It's good to have a mixture of theory and practice, see figure \@ref(fig:ometer-fig), because employers value both of them. [@vocational] However, unless you're considering a career in research or academia (see chapter \@ref(researching)) it's probably the *vocational* part of your degree that will give you the clearest initial direction into paid employment. 
 
 ```{r ometer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionometer)"}
 knitr::include_graphics("images/computer-sience-o-meter.png")
@@ -283,10 +283,17 @@ knitr::include_graphics("images/Sell your soul.png")
 
 Your future is bright, your future needs choosing. Choosing your future will help you design your future. Designing your future will help you to start coding your future. 
 
-This chapter has looked at the choices and options available to you as a student of computing. In the next part, chapter \@ref(computing): *Computing your Future* we'll take a broader look at why computing is a subject for everyone, not just Computer Scientists. 
+This chapter has looked at the choices and options available to you as a student of computing. Each of these choices are starting points, *directions* rather than *destinations*, so you don't need to get too hung up worrying if they are the right choice for you in the longer term. As Bill Gates puts it, your life isn't a one-act play, see figure \@ref(fig:one-act-fig).
+
+```{r one-act-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeact)"}
+knitr::include_graphics("images/one-act.jpeg")
+```
+
+(ref:captiononeact) “*The five things I wish I was told at the graduation I never attended. The first thing is, your life isn’t a one-act play. You probably feel a lot of pressure right now to make the right decisions about your career. It might feel like those decisions are permanent. They’re not. What you do tomorrow—or for the next ten years—does not have to be what you do forever.*” —Bill Gates [@golumberjacks] If you're bewildered by the choices outlined in this chapter, don't be. Try something out and if you don't like it, you can easily change direction because its just the first act of your career, not the whole play. [CC BY](https://creativecommons.org/licenses/by/3.0/de/deed.en) portrait of [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) by Kuhlmann / MSC on Wikimedia Commons [w.wiki/3W7k](https://w.wiki/3W7k) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+In the next part of this guidebook, chapter \@ref(computing): *Computing your Future* we'll take a broader look at why computing is a subject for everyone, not just Computer Scientists. 
 
 If you're studying Computer Science as a major or minor part of your degree, you can probably skip this chapter which is aimed at a more general audience and go straight to chapter \@ref(debugging): *Debugging your Future* which will help you identify and fix bugs in your written job applications. 
-
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar8-fig).
 
