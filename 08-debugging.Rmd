@@ -131,7 +131,7 @@ You're not trying to tell your *whole* life story from section \@ref(story) but 
 
 ## Write something, anything! {#mycv}
 
-Just as you can't edit a blank page, see figure \@ref(fig:jodi-picoult-fig), you can't debug an unwritten CV either. Debugging and editing your CV can be time consuming but wherever criticism of your CV or résumé comes from, don't take it personally - it is probably one of the first you have written.
+Just as you can't edit a blank page, you can't debug an unwritten CV either, see figure \@ref(fig:jodi-picoult-fig). Debugging and editing your CV can be time consuming but wherever criticism of your CV or résumé comes from, don't take it personally - it is probably one of the first you have written.
 
 ```{r jodi-picoult-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongarbage)"}
 knitr::include_graphics("images/jodi-picoult.jpeg")
@@ -140,7 +140,7 @@ knitr::include_graphics("images/jodi-picoult.jpeg")
 (ref:captiongarbage)  “*I may write garbage, but you can always edit garbage. You can't edit a blank page*” --Jodi Picoult [@picoult] I often speak to students who tell me their CV isn't ready yet. Just as you can't edit a blank page, you can't debug an unwritten (or unseen) CV either. So write something, *anything*. Even if you think its garbage you won't be able to improve it until you've written it. Likewise, if you're doing a CV swap - go easy on the writer, you'll often be treading on delicate and personal ground. Public domain portrait of novelist [Jodi Picoult](https://en.wikipedia.org/wiki/Jodi_Picoult) by Lauren Gerson via the U.S. National Archives on Wikimedia Commons [w.wiki/6i4E](https://w.wiki/6i4E) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
-It might help to think of first version of your CV as an alpha or beta version that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this. Here are some common bugs (or are they features?) to pay attention to on initial draughts of your CV:
+It might help to think of first version of your CV as an [alpha or beta version](https://en.wikipedia.org/wiki/Software_release_life_cycle) that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble that Computer Science graduates lack written communication skills. Written applications and CV's are a common example of this. Here are some common bugs (or are they features?) to pay attention to on initial draughts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(mycved)
@@ -606,6 +606,7 @@ It's a good idea get feedback from as many different sources as you can on your 
 * [careerset.com](https://careerset.com), a free service provided by a UK based company, careerset Ltd. If you're a manchester student login at [careerset.com/manchester](https://careerset.com/manchester)
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
 * [jobscan.co](https://www.jobscan.co), a free service provided by an American company not really a CV checker
+* [kickresume.com](https://www.kickresume.com/) AI-powered resume builder also does cover letters
 * [google.com/search?q=resume+checker](https://www.google.com/search?q=resume+checker)
 * [google.com/search?q=CV+checker](https://www.google.com/search?q=cv+checker)
 
