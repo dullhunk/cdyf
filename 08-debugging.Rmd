@@ -42,7 +42,7 @@ If you're applying to big employers, you'll need to create a CV that is good eno
 
 So, the *first* thing your CV or résumé needs to do is:
 
-* *catch attention so it ends up in the lets read that a bit more pile*. 
+* catch attention so it ends up in the *lets read that a bit more pile*. 
 
 Having passed the 7 second test, the second thing your CV or résumé needs to do is:
 
@@ -409,7 +409,8 @@ This applies to soft skills too, not just hard technical skills. It is often bet
 
 * keep it short, no more than two or three lines on a one-page CV
 * stick to your strongest and most relevant skills that you are comfortable to answer questions on in your interview, rather than an exhaustive encyclopædic inventory
-* avoid listing mass marketed office products of Microsoft (e.g. Word etc) as a skill, they are *not* generally very interesting skill because almost *everyone* has them. They won't set you apart much from your competition, so don't waste valuable space talking about office unless you've done something interesting with them, like some advanced integration with other software. Cloud services can be a slightly different matter, see section \@ref(techie).
+* avoid vague metrics of skill like `beginner`, `intermediate` and `advanced` as these are very subjective and won't help the reader much. You might under or over-estimate your skill level anyway. Some people choose to quantify coding skills with `years of experience` or the `lines of code` (LoC), but these still don't tell the reader very much. [@linesofcode] 
+* avoid listing mass marketed office products of Microsoft (e.g. Word etc) as a skill, they are *not* generally very interesting skill because almost *everyone* has them. They won't set you apart much from your competition, so don't waste valuable space talking about office applications unless you've done something interesting with them, like some advanced integration with other software. Cloud services can be a slightly different matter, see section \@ref(techie).
 
 If you're a computer scientist, you also have demonstrable `meta` skills like the ability to learn things quickly. You can also think logically and critically, reason, problem solve, analyse, generalise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these `meta` capabilities and your potential than in any specific technical skills you may or may not have.
 
@@ -502,7 +503,13 @@ knitr::include_graphics("images/an-engineering-state-of-mind.png")
 
 (ref:captionmorefeatures) If it ain't broke it doesn't have enough features yet. Adding more features to software doesn't necessarily make it better. Likewise, adding more pages and content to your CV or résumé won't always improve it. It's often better to be precise and concise, rather than bloated and potentially more buggy. [An engineering state of mind](https://bryanmmathers.com/an-engineering-state-of-mind/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), with help from Dilbert cartoonist [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams)
 
-If you're struggling to fit all the information onto a one page résumé, revisit each section and item carefully. Is there anything you can drop? Can you save a wasteful word here, or a lazy line there? Check for any spurious line breaks because every pixel counts. Don't throw your two page CV away, it is still a good store of stuff you might want to add to customised one-page résumés.
+If you're struggling to fit all the information onto a one page résumé, revisit each section and item carefully: 
+
+* Is there anything you can cut? 
+* Can you save a wasteful word here or a lazy line there? 
+* Check for any spurious line breaks, like a line with just one or two words on it, because every pixel counts.
+
+Your two page CV is still a good store of stuff you might want to add to customised one-page résumés. If you find yourself cutting important stuff, you could list it somewhere else (like LinkedIn etc, see section \@ref(portfolio)) and link to it from your CV. 
 
 ### Verbs first: lead with your actions {#verbsfirst}
 
@@ -592,7 +599,7 @@ linkedin_table <- tibble::tribble(
   "Only one profile, you can't easily transfer connections if you open more than one account"    , "You might create multiple CV's that emphasise different skills and knowledge, or have different lengths such as a one page résumé and two page CV",  
   "Generic, allows employers and recruiters to target you"    , "Specific, can be targeted to a given employer or vacancy",  
 )
-knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional CV's and résumés. The two mediums have a lot in common but also provide different communication channels which can be complementary, e.g. you include your LinkedIn profile on your CV to augment it.", booktabs = TRUE)
+knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional CV's and résumés. The two mediums have a lot in common but also provide different communication channels which can be complementary, e.g. you could include your LinkedIn profile on your CV to augment it.", booktabs = TRUE)
 ```
 
 <!--this is a nasty hack to get references into table cells-->
