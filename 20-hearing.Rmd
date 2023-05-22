@@ -140,7 +140,7 @@ If you're coming on the show, please have a think about the following questions 
 1. 🎸 What's your story, coding glory see section \@ref(your-story)
 1. ✊🏽 Minority report, see section \@ref(minority)
 1. 👑 You are the next Vice Chancellor, see section \@ref(vc)
-1. 🍿 One tune, one podcast, one film: see section \@ref(otopof)
+1. 🍿 One tune, one podcast, one book, one film: see section \@ref(otopof)
 1. ⏱ Time traveller, see section \@ref(your-time)
 
 
@@ -199,7 +199,7 @@ knitr::include_graphics("images/nancy-rothwell.jpeg")
 
 Now that you are the VC, what would you change about the University of Manchester? What would be your first task? 👑
 
-### One tune, one podcast and one film {#otopof}
+### One tune, one podcast, one book and one film {#otopof}
 
 We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say many of the playlists in chapter \@ref(enjoying) are clogged up with:
 
@@ -213,7 +213,7 @@ We love our music, films and podcasts and make gratuitous references to them thr
 knitr::include_graphics("images/dad-rock.jpeg")
 ```
 
-(ref:captiondadrock) From the Beatles to the Stones, U2 to Fleetwood Mac, Oasis to Guns N' Roses, Jimi  Hendrix to Queen: the [Dad-rock](https://en.wikipedia.org/wiki/Dad-rock) playlist shamelessly revels in classic but bygone glories of yesteryear. [@dadrock2] Public domain portrait of Mick Fleetwood, Christine McVie, John McVie, Stevie Nicks and Lindsey Buckingham ([Fleetwood Mac](https://en.wikipedia.org/wiki/Fleetwood_Mac)) on Wikimedia Commons [w.wiki/6hxg](https://w.wiki/6hxg) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+(ref:captiondadrock) From the Beatles to the Stones, U2 to Fleetwood Mac, Oasis to Guns N' Roses, Jimi  Hendrix to Queen: the [Dad-rock](https://en.wikipedia.org/wiki/Dad-rock) playlist shamelessly revels in classic but bygone glories of yesteryear. [dadrock; @dadrock2] Public domain portrait of Mick Fleetwood, Christine McVie, John McVie, Stevie Nicks and Lindsey Buckingham ([Fleetwood Mac](https://en.wikipedia.org/wiki/Fleetwood_Mac)) on Wikimedia Commons [w.wiki/6hxg](https://w.wiki/6hxg) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
 So, can you recommend a:
 
@@ -221,7 +221,8 @@ So, can you recommend a:
     - Perhaps it makes you relax, feel happy or comforted?
     - Maybe it reminds you of special people, a special time or special place in your life?
     - We'll add it to *The Coder's Playlist* in section \@ref(coders)
-* **PODCAST:** One podcast (or audiobook) you’ve enjoyed that you’d recommend people listen or subscribe to 🎧
+* **PODCAST:** One podcast  you’ve enjoyed that you’d recommend people listen or subscribe to 🎧
+* **BOOK:** One book (or audiobook) you’ve enjoyed, either fiction or non-fiction 📕
 * **FILM:** One film we’ve got to go and watch right now, old or new 🍿
 
 ### Time traveller {#your-time}
