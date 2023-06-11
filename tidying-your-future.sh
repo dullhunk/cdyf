@@ -92,5 +92,14 @@ echo "replaced jonathan.html "
 find . -name "*.html" -exec sed -I '' 's/ivo.html/ivo/g' {} +
 echo "replaced ivo.html "
 
+find . -name "*.html" -exec sed -I '' 's/pedro.html/pedro/g' {} +
+echo "replaced pedro.html "
+
+find . -name "*.html" -exec sed -I '' 's/nadine.html/nadine/g' {} +
+echo "replaced nadine.html "
+
+find . -name "*.html" -exec sed -I '' 's/ingy.html/ingy/g' {} +
+echo "replaced ingy.html "
+
 find . -name "*.html" -exec sed -I '' 's/reading.html/reading/g' {} +
 echo "replaced reading.html "
