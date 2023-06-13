@@ -1,6 +1,6 @@
 # Nadine's story {#nadine}
 
-Meet Nadine Abdelhalim, see figure \@ref(fig:ivo-fig) she graduated with a Bachelor of Science degree in Computer Science in 2023.
+Meet Nadine Abdelhalim, see figure \@ref(fig:ivo-fig) she graduated with a Bachelor of Science degree in Computer Science in 2023 when this episode was first recorded.
 
 ```{r nadine-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnadine)"}
 knitr::include_graphics("images/nadine.jpeg")
