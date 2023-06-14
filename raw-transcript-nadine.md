@@ -1,6 +1,14 @@
-Thank you Nadine for joining us today. And can you say a little about who you are and where you're from? So high, I'm the dean. Um, I'm Miss. I come through science here. Yeah I don't know what else to say honestly.
 
-And so can you say a little bit about Where does the interesting computing come from? Okay. So this one's kind of unconventional, I guess. It. So originally like as I when I was growing up, I really just wanted to job that has like a positive impact on people's lives.
+## UNSPLICED
+
+Thank you Nadine for joining us today. Can you say a little about who you are and where you're from? 
+
+> Nadine: So hi, I'm Nadine
+
+Can you say a little bit about your interest in computing come froms? 
+
+
+> Nadine: Okay. So this one's kind of unconventional, I guess. It. So originally like as I when I was growing up, I really just wanted to job that has like a positive impact on people's lives.
 
 Um and for most of my life, I actually want to be a doctor because I felt like medicine was the best way to do that but then as I grew older I realised I didn't want to just be doing like the diagnosing. I kind of wanted to make solutions that could help or predict early stuff like that.
 
@@ -199,7 +207,7 @@ They're not. Like, thank God. I'm not. I know you mean it's difficult to like, b
 There is a connection there. Yeah. What what happens at the top does have an impact on? On. What you're doing at anyway saying stuff about you know, software licences for things. Oh yeah, that's true. Like grabberly and over and yeah. Okay, that's true. That's a good point. Good talking to you.
 
 
-EXTRA BIT TO SPLICE IN 
+## EXTRA BIT TO SPLICE IN 
 
 That's recording. Little bit, my phone inside that.
 

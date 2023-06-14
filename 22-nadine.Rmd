@@ -5,8 +5,29 @@ Meet Nadine Abdelhalim, see figure \@ref(fig:ivo-fig) she graduated with a Bache
 ```{r nadine-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnadine)"}
 knitr::include_graphics("images/nadine.jpeg")
 ```
-(ref:captionnadine) Nadine Abdenlhalim. Picture reused from [linkedin.com/in/nadineabdelhalim](https://www.linkedin.com/in/nadineabdelhalim) with permission, thanks Nadine.
+(ref:captionnadine) Nadine Abdelhalim. Picture reused from [linkedin.com/in/nadineabdelhalim](https://www.linkedin.com/in/nadineabdelhalim) with permission, thanks Nadine.
+
+(ref:podcastblurb)
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/27147834/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
 
 ## What's your story Nadine? {#nadine-story}
 
-Podcast episode and transcript to appear here
+An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-nadine.md).
+
+
+
+## Disclaimer  
+
+
+::: {.rmdcaution}
+
+(ref:codingcaution)
+
+(ref:transcript-disclaimer)  
+
+:::
+
+
