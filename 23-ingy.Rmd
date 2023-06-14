@@ -7,6 +7,27 @@ knitr::include_graphics("images/ingy.jpeg")
 ```
 (ref:captioningy) Ingy Abdelhalim. Picture reused from [linkedin.com/in/ingyabdehalim](https://www.linkedin.com/in/ingyabdehalim) with permission, thanks Ingy.
 
+(ref:podcastblurb)
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/27146787/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
 ## What's your story Ingy? {#ingy-story}
 
-Podcast episode and transcript to appear here
+An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-ingy.md).
+
+
+
+
+## Disclaimer  
+
+
+::: {.rmdcaution}
+
+(ref:codingcaution)
+
+(ref:transcript-disclaimer)  
+
+:::
+
