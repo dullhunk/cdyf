@@ -51,6 +51,20 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
+## Episode 8: Ivaylo (Ivo) Iliev on Amazon Web Services {#ep8}
+
+Interview with Ivaylo (Ivo) Iliev, see figure \@ref(fig:ivo2-fig) and the transcript and show notes in chapter \@ref(jonathan).
+
+```{r ivo2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionivo)"}
+knitr::include_graphics(rep("images/ivo.jpeg", 3))
+```
+
+(ref:podcastblurbshort)
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/27145818/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
 ## Episode 7: Jonathan Cowling on moneysupermarket and Infinity Works {#ep7}
 
 Interview with Jonathan Cowling, see figure \@ref(fig:jonathan2-fig) and the transcript and show notes in chapter \@ref(jonathan).
