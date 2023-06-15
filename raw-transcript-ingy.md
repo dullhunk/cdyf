@@ -1,16 +1,21 @@
-Right, I think we're ready. Yeah. Okay. So, Welcome. In English. I said that right in G. Yeah, I was quite Ingy but I can get it wrong, but it's like Turkish. But in like Arabic we don't have a I mean Egyptians have about, but there's not actual gussound, right?
+So, Welcome Ingy. Have I said that right? 
 
-There's only a job, Okay? And then in Turkish is like chia Andy? Yeah. So can you introduce yourself? Say a little bit about who you are waiting form. So your name is engine. Um, so technically I'm no longer a third year computer science student Because i did my last exam.
+> Ingy: In "G". Yeah, it's like Turkish but in like Arabic we don't have a G mean Egyptians have about, but there's not actual "guh" sound, right? There's only a "juh", Okay? And then in Turkish is like chia Andy? Yeah. 
 
-I'm originally from Egypt, but I kind of lived all over the place. So I loved in Egypt for a bit and then Sweden and then the UAE And a mad dresser, right. So, so Where did the interest in computing? Come from? Um, both my parents are engineers, right? So and like, Most of my like my aunt is also an engineer And so is my uncle.
 
-So it's not like that far off but different kinds of engineering. Yeah, so like chemical engineering both, my parents are electrical electronical. And they both work in tech companies, right? So So I grew up around, like tech but The thing that made me like want to go into computer science specifically compared to like circuit boards Um, was that you can build stuff?
+So can you introduce yourself? Say a little bit about who you are waiting form. 
+
+> Ingy: So my name is Ingy. Technically I'm no longer a third year computer science student Because I did my last exam. I'm originally from Egypt, but I kind of lived all over the place. So I live in Egypt for a bit and then Sweden and then the UAE and then Manchester. 
+
+So where did the interest in computing? Come from? 
+
+> Ingy: both my parents are engineers, right? So and like, Most of my like my aunt is also an engineer And so is my uncle. So it's not like that far off but different kinds of engineering. Yeah, so like chemical engineering both, my parents are electrical electronical. And they both work in tech companies, right? So So I grew up around, like tech but the thing that made me like want to go into computer science specifically compared to like circuit boards Um, was that you can build stuff?
 
 Yes, but it's more, you're not limited by the hardware that you have, your more like, you can build whatever you want, right? Okay. So I guess, No software engineers in your family. No, that's new. Okay, good. Yeah. So that's interesting. And so was it something that Was it something that you kind of the interest came from your family or did it come from school as well?
 
 Was there something in your education? The made? You think actually This is a subject like to spend three years doing it university. It was more my parents. So my mum had programmed before like her university project was like a programming project so she always like tried to push me into programming, right?
 
-But the school, well the schools that I were in And they didn't really push you towards programming. So, like people new to avoid IB, computer science because everyone who took it, did not go into computer science and you need So you did. I didn't do it a computer. Yeah, international law yet.
+But the school, well the schools that I were in And they didn't really push you towards programming. So, like people knew to avoid IB [International Baccalaureate](https://en.wikipedia.org/wiki/International_Baccalaureate), computer science because everyone who took it, did not go into computer science and you need So you did. I didn't do it a computer. Yeah, international law yet.
 
 I didn't do computer science. I did. HL moth and HL Physics instead. Um and then I took chemistry as like oh if I wanted to go until like one of the other engineerings But every single person I knew who took computer science and IB did not go into computer science and uni just because it was the teachers who taught it or just the course itself.
 

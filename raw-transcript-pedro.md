@@ -1,4 +1,6 @@
-Started to University of Manchester, So it I moved to the.
+Welcome Pedro
+
+> Pedro: Started to University of Manchester, So it I moved to the.
 
 I moved to the UK in 2019 to to study at University of Manchester. So it's been four years now, that I've been in the country Mystic, good weather but everything else. So you arrived here in Was it pre-pandemic or was it poop and demic, you know, my full my 19 2019, Toyota a year.
 

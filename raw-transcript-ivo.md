@@ -1,6 +1,9 @@
-So Welcome. Evo, could you just tell us a little bit about what Tell us? Watch your name on where to come from? I've already introduced you, but who are you? So my name is Elro Elief but just call me evil. That's easier for everybody and that's anywhere what everybody calls me.
+So Welcome. Evo, could you just tell us a little bit about what Tell us? Watch your name on where to come from? I've already introduced you, but who are you? 
 
-And, I am from Bulgaria from Sofia, the Capital, right? And right now I'm a final year students, it's gonna graduate in a couple of months Actually in a month. So you just had exams, you're in the middle of exam. So thank you for coming in the middle face and period.
+> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from Sofia, the Capital, right? And right now I'm a final year students, 
+
+
+it's gonna graduate in a couple of months Actually in a month. So you just had exams, you're in the middle of exam. So thank you for coming in the middle face and period.
 
 Right. Yeah, exams on the moment. So how many exams you got left? I got only two examples total and I've not done any book, so that's good. I'm yeah, it's not going to be anything too much and I'm kind of calm about everything right now, so it's fine. Good.
 

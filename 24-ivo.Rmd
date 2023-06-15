@@ -1,6 +1,6 @@
 # Ivo's story {#ivo}
 
-Meet Ivaylo Iliev, see figure \@ref(fig:ivo-fig) he graduated with a Bachelor of Science degree in Computer Science in 2023 when this episode was first recorded.
+Meet Ivaylo Iliev, see figure \@ref(fig:ivo-fig) he graduated with a Bachelor of Science degree in Computer Science in 2023 when this episode was first recorded. Ivo spent a summer interning at [aws.amazon.com](https://aws.amazon.com/) in London.
 
 ```{r ivo-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionivo)"}
 knitr::include_graphics("images/ivo.jpeg")

@@ -1,7 +1,11 @@
 
-So let's start the beginning and what your name and where you come from. Um yeah so I'm I'm Jonathan born and raised in Manchester so I'm didn't have to to come very far today. The moment I'm I'm in Salvage. So you know a little bit cheaper, Can you say?
+So let's start the beginning and what your name and where you come from. 
 
-Yeah. So you local and he said what was it that made use choose to study computer science? Can you remember was it a particular moment or was it something over time? Did you did you study it as an A level or as a GCSE or So, it wasn't there wasn't like one moment really?
+> Jonathan:  I'm Jonathan born and raised in Manchester so I'm didn't have to to come very far today. The moment I'm in Salford so you know a little bit cheaper, what can you say?
+
+Yeah. So you're local and what was it that made use choose to study computer science? Can you remember was it a particular moment or was it something over time? Did you did you study it as an A level or as a GCSE?
+
+> Jonathan: So, it wasn't there wasn't like one moment really?
 
 Well, I went like computer sciences isn't is the thing for me. Something I've always kind of done and it was this, a sort of going into university was almost this transition from it, being a thing, I've done on the side as more of a hobby, like, say overengineering, Excel.
 

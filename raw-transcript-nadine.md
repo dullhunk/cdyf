@@ -3,14 +3,11 @@
 
 Thank you Nadine for joining us today. Can you say a little about who you are and where you're from? 
 
-> Nadine: So hi, I'm Nadine
+> Nadine: So hi, I'm Nadine and I'm studying Computer Science here.
 
-Can you say a little bit about your interest in computing come froms? 
+Can you say a little bit about your interest in computing comes from? 
 
-
-> Nadine: Okay. So this one's kind of unconventional, I guess. It. So originally like as I when I was growing up, I really just wanted to job that has like a positive impact on people's lives.
-
-Um and for most of my life, I actually want to be a doctor because I felt like medicine was the best way to do that but then as I grew older I realised I didn't want to just be doing like the diagnosing. I kind of wanted to make solutions that could help or predict early stuff like that.
+> Nadine: Okay. So this one's kind of unconventional, I guess. It. So originally like as I when I was growing up, I really just wanted to job that has like a positive impact on people's lives. For most of my life, I actually want to be a doctor because I felt like medicine was the best way to do that but then as I grew older I realised I didn't want to just be doing like the diagnosing. I kind of wanted to make solutions that could help or predict early stuff like that.
 
 And then, Up and a few years into my high school. I did computer science. I didn't do it for IB but I did it just all age with this. Have been like teenager. Yeah, teenager teenager for you dude, I did some computer science before that middle school as well, right?
 
