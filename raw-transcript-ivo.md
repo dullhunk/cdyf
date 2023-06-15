@@ -1,6 +1,6 @@
 So Welcome. Evo, could you just tell us a little bit about what Tell us? Watch your name on where to come from? I've already introduced you, but who are you? 
 
-> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from Sofia, the Capital, right? And right now I'm a final year students, 
+> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from [Sofia](https://en.wikipedia.org/wiki/Sofia), the Capital, right? And right now I'm a final year students, 
 
 
 it's gonna graduate in a couple of months Actually in a month. So you just had exams, you're in the middle of exam. So thank you for coming in the middle face and period.

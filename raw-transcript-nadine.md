@@ -53,7 +53,7 @@ When I was doing the interview. So then I ended up actually well, both nittorshi
 
 Yeah. Like, a mine, was not hardware at all. Like, I mean, I, when you apply it to ask you like, what your main interest is. So, I was like, I like the architecture but I don't see myself doing it long-term. So when I was applying, I said, I want higher level more software based, and so, yeah, mine was fully cloud computing, like so, my first year I was doing tests, basically was going from AWS to GCP.
 
-Because I had experience with AWS, so Well, they were migrating my from one to the other. Yeah, they were like testing. So they wanted to test the plant virtual machines both on, like, Amazon computer and Google ones. And I was basically doing the testing and running different ones in building them.
+Because I had experience with AWS, so Well, they were migrating my from one to the other. Yeah, they were like testing. So they wanted to test [virtual machines](https://en.wikipedia.org/wiki/Virtual_machine) both on, like, Amazon computer and Google ones. And I was basically doing the testing and running different ones in building them.
 
 And then in my second year, is also the continuing and there was a new launch. So I was like doing different things with Google Cloud Platform from basically, right, It so women. That's so I guess I could experience to set you up. You learn a lot. Yeah, I mean we don't do any cloud computing.
 
