@@ -18,8 +18,31 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-ivo.md).
 
+```{r ivotalking-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionivotalking)"}
+knitr::include_graphics("images/ivo-talking.jpg")
+```
+
+(ref:captionivotalking) Ivo talking
+
+<!--
 
 
+
+
+ 
+```{r circlesquare-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncirclesquare)"}
+knitr::include_graphics("images/circle-square.jpeg")
+```
+
+(ref:captioncirclesquare) circle square
+
+
+
+
+```{r igen-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionigen)"}
+knitr::include_graphics("images/igen.jpeg")
+```
+(ref:captionigen) is igen [@igen]-->
 
 ## Disclaimer  
 

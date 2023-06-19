@@ -209,7 +209,11 @@ knitr::include_graphics("images/clifton.png")
 
 ### Future coders {#partv}
 
-The fifth and final part of this guidebook, from chapter \@ref(hearing) onwards meets students who are *Coding their Future* and asks them, how did they get to where they are and where are they going next? These chapters form part of a podcast which accompanies this book: *Hearing your Future*. 
+The fifth and final part of this guidebook, from chapter \@ref(hearing) onwards meets students who are *Coding their Future* and asks them, how did they get to where they are and where are they going next? These chapters form part of a podcast which accompanies this book: *Hearing your Future*, see figure \@ref(fig:nearing-fig).
+
+```{r nearing-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionhearing)"}
+knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
+```
 
 The final chapter \@ref(reading) of the section and book: *Reading your future* lists everything cited in this guidebook.
 
