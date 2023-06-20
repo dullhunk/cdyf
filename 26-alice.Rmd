@@ -42,7 +42,7 @@ What, if Bucharest is a village?!
 
 > Alice: No, if Romania is a village in the UK and I was like, Not really, but sure, okay good.
 
-## Why study computing? {#why-alice}
+## Why study Computer Science? {#why-alice}
 
 So can you say a little bit about what made you choose to study computer science as a thing to study for four years? 
 
@@ -60,7 +60,7 @@ So that's quite a heavy (difficult) language to start with?
 
 > Alice: Yeah, we're also doing it on paper. We did have a Informatics lab in our, and we kind of knew how to use I think we're using code blocks, to run code, but day-to-day, just because we're so many students, we couldn't all fit in that lab. So we're just coding on paper. So I feel like that's even more difficult because then you write on paper and then the teacher needs to be like yeah. That's not right. Checking your syntax. Yeah you can't run in be like why the teacher needs to tell you but I think it's really good for debugging now because then when I came to uni and then we're doing Java, the lecturer asked us to code on paper before I never was so outraged. I was like oh this is like school. So I think it's good. Maybe 
 
-I think maybe it develops skills in code reading perhaps in that you're not computer science often focuses on *writing* code and that's a skill you need to learn but actually *reading* other people's code. Maybe doing it on paper helps you?
+I think maybe it develops skills in [code reading](https://en.wikipedia.org/wiki/Code_Reading) [@codereading] perhaps in that you're not computer science often focuses on *writing* code and that's a skill you need to learn but actually *reading* other people's code. Maybe doing it on paper helps you?
 
 > Alice: Yeah, it does help because 
 
@@ -98,7 +98,7 @@ Right.
 So fast forwarding to well. So what did you do in your first year team project? What you did you build? Can you remember? So yeah, time ago now. 
 
 
-> Alice Oh my god. I remember it clearly. It was called unicycle and it was this app. I think someone was telling me everyone does that. Like there's at least one team that does it. I think they were two teams and I, yeah, that did it. But we incorporated more parts of things that we felt like uni students need. Which obviously one of them was having a list of ingredients and spitting out the recipes. That's the go-to for everyone. Yeah, I think we had another bit, which was a Google Calendar integration. Um, so you can see your classes where they are at deadlines. And then the other one was a [Yelp](https://en.wikipedia.org/wiki/Yelp) API.
+> Alice: Oh my god. I remember it clearly. It was called unicycle and it was this app. I think someone was telling me everyone does that. Like there's at least one team that does it. I think they were two teams and I, yeah, that did it. But we incorporated more parts of things that we felt like uni students need. Which obviously one of them was having a list of ingredients and spitting out the recipes. That's the go-to for everyone. Yeah, I think we had another bit, which was a Google Calendar integration. Um, so you can see your classes where they are at deadlines. And then the other one was a [Yelp](https://en.wikipedia.org/wiki/Yelp) API.
 
 Right.
 
@@ -146,7 +146,7 @@ And then I think the thing about that is good is then you've got a big name on y
 
 So there is (only) a few tech companies.
 
-> Alice Yeah. 
+> Alice: Yeah. 
 
 So there's not much diversity. I'm not gonna find a startup doing a spring insight?
 
@@ -267,7 +267,7 @@ So interviews, we're in to March. The pandemic has hit everything's online. You'
 
 In the middle of the technical interview?
 
-> Alice No, I think it was also at the end, I was like, at that point I was a bit like cocky. I was like, oh my god, I know this. And then the next question, who's the CEO of the company? The funny thing is, I just came from a room with  200 posters of that, man. Obviously, it was a man, right? And I was just looking at him and I started doing this monologue about how I don't care about men in power. So I don't know his name, but it doesn't matter that, I don't know, It was, it was really bad. So yeah, things like this happen. 
+> Alice: No, I think it was also at the end, I was like, at that point I was a bit like cocky. I was like, oh my god, I know this. And then the next question, who's the CEO of the company? The funny thing is, I just came from a room with  200 posters of that, man. Obviously, it was a man, right? And I was just looking at him and I started doing this monologue about how I don't care about men in power. So I don't know his name, but it doesn't matter that, I don't know, It was, it was really bad. So yeah, things like this happen. 
 
 
 A good interviewer will ask you difficult questions, but sometimes there's a bit of a power imbalance and sometimes people ask you a nasty question, just because they can and they want to see you suffer.
@@ -288,7 +288,7 @@ Know one product, and one service that the company makes and then..
 ```{r thg-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionthg)"}
 knitr::include_graphics("images/thg.jpeg")
 ```
-(ref:captionthg) THG plc (formerly The Hut Group) is a British e-commerce retail company headquartered at Manchester Airport, England. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) picture of THG Distribution Centre in Omega Business Park, Warrington by 50Stripes on Wikimedia Commons [w.wiki/p5v](https://w.wiki/p5v)
+(ref:captionthg) [THG plc](https://en.wikipedia.org/wiki/THG_plc) (formerly The Hut Group) is a British e-commerce company headquartered at Manchester Airport, England. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) picture of THG Distribution Centre in Omega Business Park, Warrington by 50Stripes on Wikimedia Commons [w.wiki/p5v](https://w.wiki/p5v)
 
 
 
@@ -352,7 +352,7 @@ So we've got a couple of things here. what were the main things you learnt, woul
 
 So let's move on to final year a project. So you've done your placement, you've come back to university and things were returning to normal at this point so you've done the entirety of your placement online?
 
-> Alice Yeah. Except the end right.
+> Alice: Yeah. Except the end right.
 
 Okay, so you did finally get to actually meet the people that you were working and that must have been good, I guess, but kind of at the same time a little bit crazy
 
@@ -408,7 +408,7 @@ Great. Okay, so the next bit is what comes next. So what, what are your plans fo
 
 What's the name? Would you rather not say? 
 
-> Alice: Oh no, it's called [Publicis Sapient](https://en.wikipedia.org/wiki/Publicis_Sapient) (see figure \@ref(fig:sapient-fig))
+> Alice: It's called [Publicis Sapient](https://en.wikipedia.org/wiki/Publicis_Sapient) (see figure \@ref(fig:sapient-fig))
 
 ```{r sapient-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsapent)"}
 knitr::include_graphics("images/publicis-sapient.jpeg")
@@ -453,7 +453,7 @@ So your fellow students on that. I mean, I guess you're still in touch or you kn
 
 It wasn't an issue? 
 
-> Alice Obviously, I came here. 
+> Alice: Obviously, I came here. 
 
 Was that not a shock then? So, you've gone from an environment where there is no gender imbalance and then all the sudden it's switched and you're in an environment which is very male-dominated.
 
@@ -468,7 +468,7 @@ knitr::include_graphics("images/microaggression.jpeg")
 
 So perhaps give an example? 
 
-> Alice Yeah, I don't know that this might be wrong. I'm gonna say that first. But what hands from microaggression, I think what I think is it's kind of like when someone does something that they don't think is inherently aggressive, or racist, or sexist, or whatever towards a person. But obviously, if you think about the reason why they did it, it is.
+> Alice: Yeah, I don't know that this might be wrong. I'm gonna say that first. But what hands from microaggression, I think what I think is it's kind of like when someone does something that they don't think is inherently aggressive, or racist, or sexist, or whatever towards a person. But obviously, if you think about the reason why they did it, it is.
 
 It *seems* innocuous. You might initially think it's innocuous and it's not until afterwards. You think that was not a minute? Yeah, I was out of order. Yeah, I yeah. Happen again.
 
@@ -485,7 +485,7 @@ knitr::include_graphics("images/mansplaining.jpeg")
 (ref:captionmansplaining) When a man comments on or explains something to a woman in a condescending, overconfident, inaccurate or oversimplified manner, that's [mansplaining](https://en.wikipedia.org/wiki/Mansplaining). Picture by Ralf Schlesener of the “mansplaining statue” in San Antonio, Texas [@mansplaining] on Wikimedia Commons [w.wiki/6qfC](https://w.wiki/6qfC) 
 
 
-> Alice Yeah, it's kind of like, oh let me explain to you about why your computer does this. And I'm like, thank you, I wrote the program, I know why. So obviously it's quite a fine line, right? Because sometimes you don't know what the other person knows, etc. That a lot of grey areas. However, sometimes like clear mansplaining and initially, I just used to kind of ignoring and be, like it's fine. Just because I kind of like society kind of made that acceptable for mansplaining to happen and no one really questions it. But while talking to the girls, I'd be like, oh my god, that WAS mansplaining! I started calling out people on it. It's quite funny, actually. I don't know if it's rude or not, but I just call them out just because I feel like it's nice. And then for them to know, 
+> Alice: Yeah, it's kind of like, oh let me explain to you about why your computer does this. And I'm like, thank you, I wrote the program, I know why. So obviously it's quite a fine line, right? Because sometimes you don't know what the other person knows, etc. That a lot of grey areas. However, sometimes like clear mansplaining and initially, I just used to kind of ignoring and be, like it's fine. Just because I kind of like society kind of made that acceptable for mansplaining to happen and no one really questions it. But while talking to the girls, I'd be like, oh my god, that WAS mansplaining! I started calling out people on it. It's quite funny, actually. I don't know if it's rude or not, but I just call them out just because I feel like it's nice. And then for them to know, 
 
 If you were a man doing that, you'd be called assertive, right? But if you're a woman doing that, you might be called something not very nice.
 
@@ -506,7 +506,7 @@ Right. Yeah. So talking about it
 
 It's exhausting. 
 
-> Alice: Sometimes you're exhausted. Sometimes why do I need to teach you how terrible it is? Just try to like be a bit more aware, so I feel like it's a bit of a double-edged sword in that That you want to educate people, but sometimes you just don't have time and resources to do it. So yeah. I'm pretty sure universities would sort it out though because they're quite good with things like this. 
+> Alice: Sometimes you're exhausted. Sometimes why do I need to teach you how terrible it is? Just try to like be a bit more aware, so I feel like it's a bit of a double-edged sword in that you want to educate people, but sometimes you just don't have time and resources to do it. So yeah. I'm pretty sure universities would sort it out though because they're quite good with things like this. 
 
 And I think employers are wising up to these kinds of things. 
 
@@ -518,18 +518,18 @@ They know we have a diversity problem in, for example, in technology companies a
 
 Yeah, its takes years, doesn't it? Yeah. Things change because of culture. Okay, good. So, is there anything else you want to say more about minorities?
 
- > Alice Oh, I love to talk about it, but I feel like we are getting on for time?
+ > Alice: Oh, I love to talk about it, but I feel like we are getting on for time?
 
 
- ## One tune {#alice-tune}
+## One tune {#alice-tune} 
 
-Let's move on, there's two things left. So this is one tune one podcast, one film. So we love our music and our films and our podcasts. And Unfortunately, my playlist is dominated by lots of dad rock. So, I've been asking students to well, two things rejuvenate it with something a bit different or perhaps internationalise it, you know, because obviously, a lot of the music I listen to is British and American.
+Let's move on, there's two things left. So this is one tune, one podcast, one film. So we love our music and our films and our podcasts. And Unfortunately, my playlist is dominated by lots of dad rock. So, I've been asking students to well, two things rejuvenate it with something a bit different or perhaps internationalise it, you know, because obviously, a lot of the music I listen to is British and American.
 
 > Alice: Yeah. 
 
 And, you know, it's kind of fun when people recommend stuff, I would never otherwise have listened to. So one tune that you the special to you for some reason, one podcast. Mybe you don't listen to podcasts, but if perhaps some kind of could be a radio programming, let's do and then one film.
 
-Yeah, so I'm gonna try to be brief. It took, it's very difficult. See, it's very difficult. So I want to say, I'm gonna recommend you two tunes because I can't think one. So, the first one is also quite broad. I would recommend you literally anything by [Harry Styles](https://en.wikipedia.org/wiki/Harry_Styles). [@asitwas] I love it, but it's British see, that's another thing, but then it's also British so I don't think it's gonna widen your playlist enough. I adore hairstyles anyway. 
+> Alice: Yeah, so I'm gonna try to be brief. It took, it's very difficult. See, it's very difficult. So I want to say, I'm gonna recommend you two tunes because I can't think one. So, the first one is also quite broad. I would recommend you literally anything by [Harry Styles](https://en.wikipedia.org/wiki/Harry_Styles). [@asitwas] I love it, but it's British see, that's another thing, but then it's also British so I don't think it's gonna widen your playlist enough. I adore hairstyles anyway. 
 
 He's quite, what's the word? Well dressed 
 
@@ -539,26 +539,31 @@ Sad song or an uplifting song?
 
 > Alice: literally uplifting. I don't even know what she's saying. I don't know Spanish, it's just it's very funny. Yes. And I used to listen in on the speaker every single morning during exam season because I would be so tired so done, to have to go to the library again, or Kilburn again. So I just had, I just needed a little bit of joy, my life so that was my morning song. 
 
-Excellent 
+Excellent, (see the coders playlist in section \@ref(coders))
 
 ## One podcast {#alice-podcast}
 
-Podcast wise. I really like *on being*  with [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett). [@onbeing]  It's really nice, she interviews a lot of people, the ones that I like the most. What I think he's called Eileen the boton. 
+> Alice: Podcast wise. I really like *On Being* with [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett). [@onbeing] It's really nice, she interviews a lot of people, the one that I like the most, I think he's called [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton).
 
-Alright, Yeah the philosopher. 
+Alright, yeah the philosopher. 
 
+> Alice: Yeah, I really don't know how to cook. Yeah, the lights. Lots of interesting books. This guy, which one? Oh yeah, that one.
 
-> Alice Yeah, I really don't know how to cook. Yeah, the lights. Lots of interesting books. This guy, which one? Oh yeah, that one.
+Yes, I'm trying to say his name. But yeah, it's interesting stuff and he does *The School of Life* (see figure \@ref(fig:school-of-life-fig)), he's a philosopher by training but he writes interesting stuff. (For example, *Religion for Atheists* [@religionforatheists])
 
-Yes, I'm trying to say his name. But yeah, it's an interesting stuff and he does. He does a, is it called school of school of life? I think stuff. Oh yeah, what's one video on YouTube? Sure. I mean he's a philosopher I think by training but he writes, interesting stuff.
+```{r school-of-life-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionschooloflife)"}
+knitr::include_url('https://www.youtube.com/embed/q28W7N6Th58')
+```
 
-> Alice Yeah, he was the one that I liked the most and I think that the only ones that she did with him, what about relationships and love and kind of relationship with any kind. And I thought it was so nice and so sweet and absolutely loved it. So I recommend it 
+(ref:captionschooloflife) *The School of Life* offers lessons on everything they don't teach you at school and University, from work to relationships, emotions, your self and others. [@schooloflifeweb; @schooloflifebook] You can also watch the 1.5 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/q28W7N6Th58). [@schooloflifevideo]
+
+> Alice: Yeah, he was the one that I liked the most and I think that the only ones that she did with him, what about relationships and love and kind of relationship with any kind. And I thought it was so nice and so sweet and absolutely loved it. So I recommend it. [@wrongperson; @wrongperson2]
 
 ## One film {#alice-film}
 
-Good, Okay. And then last one is one film. 
+Good, Okay. And then last one is, one film. 
 
-> Alice: I'm gonna recommend again *The Imitation Game* [@imitationgame] because I feel like that kind of gives you a really good taste of what's happening and in general with the [(Manchester) baby](https://en.wikipedia.org/wiki/Manchester_Baby) and Alan Turing and everything, 
+> Alice: I'm gonna recommend again *The Imitation Game* [@imitationgame] because I feel like that kind of gives you a really good taste of what's happening and in general with the [(Manchester) baby](https://en.wikipedia.org/wiki/Manchester_Baby) and Alan Turing and everything, (see figure \@ref(fig:imitationgame-fig)).
 
 ```{r imitationgame-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionimitationgame)"}
 knitr::include_graphics("images/the-imitation-game.jpeg")
@@ -568,16 +573,23 @@ knitr::include_graphics("images/the-imitation-game.jpeg")
 
 Was that your introduction to some of that history?
 
-> Alice: I didn't realise all this stuff and then I went to [Science (and Industry) Museum](https://en.wikipedia.org/wiki/Science_and_Industry_Museum). I started, Oh my god, I watched a movie about this. I loved it. I thought was really cool. So I recommend it to everyone else, but if you watch there, you can watch *[Call Me by Your Name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film))* [@callmebyyourname]. It's a gay love story, right? It's adorable. It's set in Italy, as well. So, it has very much summer vibes because obviously, the weather, Manchester is amazing for this, right? So I might, as well pretend I am in Italy.
+> Alice: I didn't realise all this stuff and then I went to [Science (and Industry) Museum](https://en.wikipedia.org/wiki/Science_and_Industry_Museum). I started, Oh my god, I watched a movie about this. I loved it. I thought was really cool. So I recommend it to everyone else, but if you watch there, you can watch *Call Me by Your Name*, (see figure \@ref(fig:callme-fig))[@callmebyyourname]. It's a gay love story, right? It's adorable. It's set in Italy, as well. So, it has very much summer vibes because obviously, the weather, Manchester is amazing for this, right? So I might, as well pretend I am in Italy.
 
-So, yeah, we've gone from Mediterranean at the beginning of the week. Yeah. 40 degree heat to then, like typical Manchester weather, where it's
+```{r callme-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncallmebyyourname)"}
+knitr::include_graphics("images/call-me-by-your-name.jpeg")
+```
+
+(ref:captioncallmebyyourname) A coming-of-age romantic drama, *[Call Me by Your Name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film))* was directed by Luca Guadagnino and first released in 2017. [@callmebyyourname]  
+
+
+So, yeah, we've gone from Mediterranean at the beginning of the week. Yeah. 40 degree heat to then, like typical Manchester weather, where it's...
 
 > Alice: 15 degrees and raining sideways already. Yeah, I love it! You've got love it, right? 
 
 So good. So thank you for those recommendations, we'll put them on the playlist and we'll put them on the show notes that go with this.
 
 ## Advice to your former self {#alice-travel}
-So, the last thing is I call this time travel. So, if you could travel back in time to meet you as a first year, incoming student, what advice would you give yourself? Now it might be advice for yourself, and that might be different from advice you'd give to other people. So what you'd advise like how to get the most out of university? 
+So, the last thing is I call this time travel. So, if you could travel back in time to meet yourself as a first year, incoming student, what advice would you give yourself? Now it might be advice for yourself, and that might be different from advice you'd give to other people. So what you'd advise like how to get the most out of university? 
 
 > Alice: I think my personal advice realising now this year, how amazing everyone that I was friends with was I would recommend myself to kind of make a bit more. Obviously it's quite overwhelming, right? First year you have a lot of people but I feel like I didn't try to make as many friends that were international and British in first year just because probably I was a bit scared language barrier. A bit stressful time Romanian. Yeah, I thought I feel like I was trying to stay a bit more Romanians which I think it was very good for me. Especially in the first semester right now. Working very yeah character to come to a different country and then study in a different language that was shocking.
 
@@ -587,9 +599,9 @@ Yeah.
 
 And I think it's an important part of, I mean, we touched a little bit on grades, but I see quite a few students, you know, and it's good if they want to get good grades, but then they miss out on some of that social stuff. Which is important and I know it's not always easy to balance grades and social life, but I think it's an important part of why you're here is to meet people from all over the world and you know, some of those people you'll still be in touch with 30 years later.
 
-> Alice So, I think I think is really good and I feel like Kilburn does that amazingly just because obviously it's difficult to balance friends and grades but what is even better is to have friends that you exactly that hope you get your grades. So that's why I've been doing. It's been amazing. It's been great. Great mix great. 
+> Alice: So, I think I think is really good and I feel like Kilburn does that amazingly just because obviously it's difficult to balance friends and grades but what is even better is to have friends that you exactly that hope you get your grades. So that's why I've been doing. It's been amazing. It's been great. Great mix great. 
 
-Okay. So I think that's that's everything. So, important advice to be bold
+Okay. So I think that's everything. So, important advice, to be bold.
 
 > Alice: make friends 
 

@@ -16,13 +16,13 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 ## What's your story Ivo? {#ivo-story}
 
 
-An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-ivo.md).
+An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-ivo.md). Ivo gave a guest lecture on his experiences shown in figure \@ref(fig:ivotalking-fig).
 
 ```{r ivotalking-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionivotalking)"}
 knitr::include_graphics("images/ivo-talking.jpg")
 ```
 
-(ref:captionivotalking) Ivo talking
+(ref:captionivotalking) Ivo delivering a guest lecture as part of COMP101. [@ivotimes]
 
 <!--
 

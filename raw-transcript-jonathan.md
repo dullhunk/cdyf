@@ -9,7 +9,7 @@ So you're local and what was it that made use choose to study computer science? 
 
 Right So, I did you do computing as an A level or a GCSE? Or was it something... 
 
-> AliceSo at college, I studied engineering. I went to University  Technical College (UTC, see figure (fig:utc-fig)). 
+> Jonathan: at college, I studied engineering. I went to a University  Technical College (UTC, see figure (fig:utc-fig)). 
 
 ```{r utc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionutc)"}
 knitr::include_graphics("images/utc.jpeg")
