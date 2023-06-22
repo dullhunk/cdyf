@@ -418,7 +418,7 @@ knitr::include_graphics("images/linkedin-profile.jpg")
 ```{r github-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongithub)"}
 knitr::include_graphics("images/amish-github.jpg")
 ```
-(ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of Computer Science student Amish Shah: [github.com/amishshah](https://github.com/amishshah) Thanks Amish for permission to use your profile as an example.
+(ref:captiongithub) Github is commonly used to host open source software development projects. As of June 2022, GitHub reported having over 83 million developers and more than 200 million repositories, including at least 28 million public repositories. The screenshot shows a profile of Computer Science student Amish Shah: [github.com/amishshah](https://github.com/amishshah) Thanks Amish for permission to use your profile as an example, find out more about Amish in chapter \@ref(amish).
 
 * **Stackoverflow.com** You've probably already cut-and-pasted solutions from the question and answer forum Stack Overflow. You can also create a profile on Stack Overflow too, see figure \@ref(fig:overflow-fig). As of March 2021 the site had over 14 million registered users, and had received over 21 million questions and 31 million answers.
 
