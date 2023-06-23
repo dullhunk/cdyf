@@ -523,27 +523,39 @@ Let's move on, there's two things left. So this is one tune, one podcast, one fi
 
 And, you know, it's kind of fun when people recommend stuff, I would never otherwise have listened to. So one tune that you the special to you for some reason, one podcast. Mybe you don't listen to podcasts, but if perhaps some kind of could be a radio programming, let's do and then one film.
 
-> Alice: Yeah, so I'm gonna try to be brief. It took, it's very difficult. See, it's very difficult. So I want to say, I'm gonna recommend you two tunes because I can't think one. So, the first one is also quite broad. I would recommend you literally anything by [Harry Styles](https://en.wikipedia.org/wiki/Harry_Styles), (see figure \@ref(fig:harry-styles-fig)). [@asitwas] I love it, but it's British see, that's another thing, but then it's also British so I don't think it's gonna widen your playlist enough. I adore hairstyles anyway. 
+> Alice: Yeah, so I'm gonna try to be brief. It took, it's very difficult. See, it's very difficult. So I want to say, I'm gonna recommend you two tunes because I can't think one. So, the first one is also quite broad. I would recommend you literally anything by [Harry Styles](https://en.wikipedia.org/wiki/Harry_Styles), (see figure \@ref(fig:harry-styles-fig)). I love it, but it's British see, that's another thing, but then it's also British so I don't think it's gonna widen your playlist enough. I adore Harry Styles anyway. 
 
 ```{r harry-styles-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionharry)"}
 knitr::include_graphics("images/harry-styles.jpeg")
 ```
-(ref:captionharry) [Harry Styles](https://en.wikipedia.org/wiki/Harry_Styles) (born 1994) is an English singer, songwriter, and actor. [@asitwas] His musical career began in 2010 as part of One Direction, one of the best-selling boy-bands of all time. [CC-BY](https://creativecommons.org/licenses/by/2.0/) portrait of Harry Styles performing at Wembley Stadium in London in 2023 by [Ralph PH](https://flickr.com/people/raph_ph/) via Wikimedia Commons [w.wiki/6rd5](https://w.wiki/6rd5) 
+(ref:captionharry) [Harry Styles](https://en.wikipedia.org/wiki/Harry_Styles) is an English singer, songwriter, and actor with hits including [As It Was](https://en.wikipedia.org/wiki/As_It_Was) [@asitwas] and [Sign of the Times](https://en.wikipedia.org/wiki/Sign_of_the_Times_(Harry_Styles_song)) [@signofthetimes]. His musical career began in 2010 as part of One Direction, one of the best-selling boy-bands of all time. [CC-BY](https://creativecommons.org/licenses/by/2.0/) portrait of Harry Styles performing at Wembley Stadium in London in 2023 by [Raph PH](https://flickr.com/people/raph_ph/) via Wikimedia Commons [w.wiki/6rd5](https://w.wiki/6rd5) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 He's quite, what's the word? Well dressed ... 
 
-> Alice: He's amazing. I aodre him but this is not Harry Styles fan podcast so I have to move on. The next one is one that I used to play during the hard times of exam season. So it's actually she is Romanian she's a Romanian artist. Her name is [Inna](https://en.wikipedia.org/wiki/Inna). The song that I like from high is called Iguana. [@iguana] It's in Spanish. Yeah. I think yeah. She actually sings in Spanish. She's wearing either way. Absolutely amazing I used to listen to it every single time 
+> Alice: He's amazing. I aodre him but this is not Harry Styles fan podcast so I have to move on. The next one is one that I used to play during the hard times of exam season. So it's actually she is Romanian she's a Romanian artist, her name is [INNA](https://en.wikipedia.org/wiki/Inna), see figure \@ref(fig:inna-fig). The song that I like from her is called Iguana. [@iguana] It's in Spanish. Yeah. She actually sings in Spanish. She's wearing either way. Absolutely amazing I used to listen to it every single time 
 
 Sad song or an uplifting song?
 
+
+
 > Alice: literally uplifting. I don't even know what she's saying. I don't know Spanish, it's just it's very funny. Yes. And I used to listen in on the speaker every single morning during exam season because I would be so tired so done, to have to go to the library again, or Kilburn again. So I just had, I just needed a little bit of joy, my life so that was my morning song. 
+
+```{r inna-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionthisisinna)"}
+knitr::include_graphics("images/inna.jpeg")
+```
+
+
+(ref:captionthisisinna) Elena Alexandra Apostoleanu, known
+professionally as INNA, is a Romanian singer. [@iguana] Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons [w.wiki/_wB2j](https://w.wiki/_wB2j) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+
 
 Excellent, (see the coders playlist in section \@ref(coders))
 
 ## One podcast {#alice-podcast}
 
-> Alice: Podcast wise. I really like [On Being](https://en.wikipedia.org/wiki/On_Being) with [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett), see figure \@ref(fig:krista-tippett-fig). It's really nice, she interviews a lot of people, the one that I like the most, I think he's called [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton).
+> Alice: Podcast wise. I really like *[On Being](https://en.wikipedia.org/wiki/On_Being)* with [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett) (see figure \@ref(fig:krista-tippett-fig)). It's really nice, she interviews a lot of people, the one that I like the most, I think he's called [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton).
 
 Alright, yeah the philosopher. 
 
@@ -551,11 +563,7 @@ Alright, yeah the philosopher.
 knitr::include_graphics("images/krista-tippett.jpeg")
 ```
 
-(ref:captionkrista) [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett) is a journalist, author and
-entrepreneur. She created and hosts the public radio program and
-podcast *On Being*. [@onbeing]  In 2014, Tippett was awarded the National Humanities Medal by Barack Obama. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) portrait of Krista Tippett at the Brookings Institution by Ghz89med via Wikimedia Commons [w.wiki/6rwQ](https://w.wiki/6rwQ) 
-
-
+(ref:captionkrista) The author [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett) created and hosts the radio program and podcast *On Being*. [@onbeing] In 2014, Tippett was awarded the [National Humanities Medal](https://en.wikipedia.org/wiki/National_Humanities_Medal) by Barack Obama. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) portrait of Krista Tippett at the Brookings Institution by Ghz89med via Wikimedia Commons [w.wiki/6rwQ](https://w.wiki/6rwQ)  adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 > Alice: Yeah, He writes lots of interesting books. This guy, which one? Oh yeah, that one.
 
