@@ -213,8 +213,8 @@ knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
 If you're coming on the show, please have a think about the following questions which we ask all our guests:
 
 1. 🎸 What's your story, coding glory see section \@ref(your-story)
-1. ✊🏽 Minority report, see section \@ref(minority)
-1. 👑 You are the next Vice Chancellor, see section \@ref(vc)
+1. ✊🏽 Minority report (optional) see section \@ref(minority)
+1. 👑 You are the next Vice Chancellor (optional) see section \@ref(vc)
 1. 🍿 One tune, one podcast, one book, one film: see section \@ref(otopof)
 1. ⏱ Time traveller, see section \@ref(your-time)
 
@@ -264,7 +264,7 @@ knitr::include_graphics("images/minority-report.jpeg")
 If you're in a minority that you're happy to talk about, do you have anything you'd like to report? ✊🏽
 
 ### You are the next Vice Chancellor {#vc}
-Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate of the University of Manchester](https://www.manchester.ac.uk/discover/governance/structure/senate/) have just appointed you their next leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell), shown in figure \@ref(fig:vc-fig). Nancy has served as VC since 2010, and will step down in 2024, the [200th anniversary](https://www.manchester.ac.uk/discover/history-heritage/history/umist/) of the foundation of the University of Manchester. [@umist] As VC, you now have responsibility for 11,000 staff, 40,000 students and access to a global network of over 500,000 alumni. You'll also take over as chair of the [russellgroup.ac.uk](https://russellgroup.ac.uk/). No pressure!
+Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate of the University of Manchester](https://www.manchester.ac.uk/discover/governance/structure/senate/) have just appointed you their next leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell), shown in figure \@ref(fig:vc-fig). Nancy has served as VC since 2010, and will step down in 2024, the [200th anniversary](https://www.manchester.ac.uk/discover/history-heritage/history/umist/) of the foundation of the University of Manchester. [@umist] As VC, you now have responsibility for 11,000 staff, 40,000 students and access to a global network of over 500,000 alumni. You'll also take over as chair of the [russellgroup.ac.uk](https://russellgroup.ac.uk/). Since this is an optional question, you can dodgy this bullet if you'd rather not attempt to answer it.
 
 ```{r vc-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionvc)"}
 knitr::include_graphics("images/nancy-rothwell.jpeg")
