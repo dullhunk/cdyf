@@ -224,7 +224,7 @@ One of my colleagues ([Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/)) talks
 
 > Jason: Exactly. What I think, a lot of people that I've spoken to try and get into tech and try and do coding. They could they do code for maybe like maybe two three weeks and then like yeah, I couldn't figure out. All right. You kind of need to do. Maybe I think you can't even say you've really given it a try until maybe six months. I say, three to six months of actual of graft and then maybe you can now, say, okay? Maybe this is or isn't for me.
 
-## One tune {#jtune}
+## One tune {#don-toliver}
 
 Okay good. So to finish up then, this podcast is part of *coding your future* and it has a soundtrack (see section \@ref(coders)) with it. There are musical references in the text but because I'm older, a lot of the references are old. So, can you recommend us
 
@@ -239,24 +239,38 @@ So let's start with one tune
 
 It could be something that you helps you relax. It might make you feel happy or remind you of home or, you know, might be something that helps you study. Or maybe opposite. Something that helps you get your mind off study when you're when you're stressed.
 
->Jason: I mean, if you're a big fan of hip hop, I'm a really big fan of hip hop, but that kind of thing, American rap and stuff. So, I say anything by [Don Toliver](https://en.wikipedia.org/wiki/Don_Toliver). [@noidea] People probably might not have hard of it. I'm big. Big, big, big fan, right? So anything by him. If you want, like a chill, like hip hop, kind of vibe type thing.
+>Jason: I mean, if you're a big fan of hip hop, I'm a really big fan of hip hop, but that kind of thing, American rap and stuff. So, I say anything by [Don Toliver](https://en.wikipedia.org/wiki/Don_Toliver). [@noidea] People probably might not have hard of it. I'm a big, big, big, big fan, right? So anything by him. If you want, like a chill, like hip hop, kind of vibe type thing.
 
-## One podcast {#jpodcast}
+```{r don-toliver-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontoliver)"}
+knitr::include_graphics("images/don-toliver.jpeg")
+```
+(ref:captiontoliver) [Don Toliver](https://en.wikipedia.org/wiki/Don_Toliver) is an American rapper and singer-songwriter. [CC-BY](https://creativecommons.org/licenses/by/3.0/legalcode) portrait of Don Toliver by Catch XXII Radio Show via Wikimedia Commons [w.wiki/6t9P](https://w.wiki/6t9P) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Yeah, good. Okay. And then one podcast that you listen to recommend
+Yeah, good. Okay. 
 
->Jason: one, I really recommend is under the skin, by [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand). [@undertheskin] So for those of you may not know that Russell Brand was a really big Reality TV guy for a while but went on a bit of a bender and lost himself to drugs and addiction and stuff like that. Then he rediscovered himself, completely reformed himself and he has a podcast called under the skin where he brings different people on to talk about different things. Sometimes he'll talk about spiritual things to talk about, the concept of the soul, and what it means like, life and death and stuff like that. You can get really deep like that. Or he might do stuff about social economic stuff and current issues and current problems we have in our society right now. And yeah, it's really good, like blend of like just a bunch of different things. So yeah, I recommend if anyone looking to kind of broaden their horizons,
+## One podcast {#russell-brand}
 
-## One film {#jfilm}
+And then one podcast that you listen to and recommend.
 
-Sounds good. Well I'll put a link in the show notes and then the last one was a film any films? Any films that you'd recommend people go and watch. Netflix or wherever, wherever people consume films these days.
+>Jason: one, I really recommend is *Under the Skin*, by [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand). [@undertheskin] So for those of you may not know that Russell Brand was a really big Reality TV guy for a while but went on a bit of a bender and lost himself to drugs and addiction and stuff like that (see figure \@ref(fig:russell-brand-fig)). Then he rediscovered himself, completely reformed himself and he has a podcast called under the skin where he brings different people on to talk about different things. Sometimes he'll talk about spiritual things to talk about, the concept of the soul, and what it means like, life and death and stuff like that. You can get really deep like that. Or he might do stuff about social economic stuff and current issues and current problems we have in our society right now. And yeah, it's really good, like blend of like just a bunch of different things. So yeah, I recommend if anyone looking to kind of broaden their horizons. 
 
-> Jason: I recommend my favourite movie, probably of all time is The Matrix, the first one, [@thematrix] not the fourth one. That's come out now.  Don't watch it. It's trash. The graphics are amazing. The CGI is amazing. The story. Yeah. Not so much I wasn't a great fan. But, I mean, the first original, the first matrix was one of the movies, I always tell people that and Iron Man [@ironman] are the things that made me like computers in first place. So I'd recommend The Matrix, (see figure \@ref(fig:matrix-fig))
+```{r russell-brand-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionundertheskin)"}
+knitr::include_graphics("images/russell-brand.jpeg")
+```
+(ref:captionundertheskin) [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand) is a comedian and actor, known for his flamboyant, loquacious style and manner. He hosts the podcast *Under the Skin* [@undertheskin] and has been diagnosed with attention deficit hyperactivity disorder (ADHD) and bipolar disorder. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.en) portrait of Russell Brand by [Eva Rinaldi](https://www.flickr.com/photos/evarinaldiphotography/) on Wikimedia Commons [w.wiki/6t9E](https://w.wiki/6t9E) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+Sounds good. Well I'll put a link in the show notes.
+
+## One film {#the-matrix}
+
+The last one was a film. Any films that you'd recommend people go and watch. Netflix or wherever, wherever people consume films these days.
+
+> Jason: I recommend my favourite movie, probably of all time is *The Matrix*, the first one, [@thematrix] not the fourth one. That's come out now.  Don't watch it. It's trash. The graphics are amazing. The CGI is amazing. The story. Yeah. Not so much, I wasn't a great fan. But, I mean, the first original, the first matrix was one of the movies, I always tell people that and Iron Man [@ironman] are the things that made me like computers in first place. So I'd recommend *The Matrix*, (see figure \@ref(fig:matrix-fig))
 
 ```{r matrix-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmatrix)"}
 knitr::include_graphics("images/the-matrix.jpeg")
 ```
-(ref:captionmatrix) *The Matrix* depicts a dystopian future in which humanity is unknowingly trapped inside a simulated reality, the Matrix, which intelligent machines have created to distract humans while using their bodies as an energy source. [@thematrix]
+(ref:captionmatrix) *The Matrix* depicts a dystopian future in which humanity is unknowingly trapped inside a simulated reality, the Matrix, which intelligent machines have created to distract humans while using their bodies as an energy source. [@thematrix] Fair use image from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 How old is that film now?
 

@@ -31,9 +31,14 @@ You're from Romania.
 So my Romanian geography... it's kind of a circle-ish?
 
 
-> Alice: A fish. Oh it looks like a fish in my opinion. 
+> Alice: A fish. Oh it looks like a fish in my opinion. (See figure \@ref(fig:romania-fig))
 
-You've got the black sea? You've got [Bucharest](https://en.wikipedia.org/wiki/Bucharest) in the South. Are you from Bucharest or somewhere else ? Right. So yeah. That's easy to locate them. 
+```{r romania-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionromania)"}
+knitr::include_graphics("images/romania.png")
+```
+(ref:captionromania) Romanian geography for beginners: Romania is a country located at the crossroads of Central, Eastern and Southeastern Europe shown in dark green here, looking a bit like a fish. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) map of Romania by NuclearVacuum via Wikimedia Commons [w.wiki/6t8B](https://w.wiki/6t8B) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🐟
+
+You've got the [Black Sea](https://en.wikipedia.org/wiki/Black_Sea)? You've got [Bucharest](https://en.wikipedia.org/wiki/Bucharest) in the South. Are you from Bucharest or somewhere else? Right. So yeah. That's easy to locate then. 
 
 
 > Alice: Yeah. Just Bucharest is quite easy. I feel like your Romanian geography is really good because I've been asked if it's a village in the UK before. 
@@ -515,7 +520,7 @@ Yeah, its takes years, doesn't it? Yeah. Things change because of culture. Okay,
  > Alice: Oh, I love to talk about it, but I feel like we are getting on for time?
 
 
-## One tune {#alice-tune} 
+## One tune {#harry-styles} 
 
 Let's move on, there's two things left. So this is one tune, one podcast, one film. So we love our music and our films and our podcasts. And Unfortunately, my playlist is dominated by lots of dad rock. So, I've been asking students to well, two things rejuvenate it with something a bit different or perhaps internationalise it, you know, because obviously, a lot of the music I listen to is British and American.
 
@@ -533,27 +538,24 @@ knitr::include_graphics("images/harry-styles.jpeg")
 
 He's quite, what's the word? Well dressed ... 
 
-> Alice: He's amazing. I aodre him but this is not Harry Styles fan podcast so I have to move on. The next one is one that I used to play during the hard times of exam season. So it's actually she is Romanian she's a Romanian artist, her name is [INNA](https://en.wikipedia.org/wiki/Inna), see figure \@ref(fig:inna-fig). The song that I like from her is called Iguana. [@iguana] It's in Spanish. Yeah. She actually sings in Spanish. She's wearing either way. Absolutely amazing I used to listen to it every single time 
+> Alice: He's amazing. I aodre him but this is not a Harry Styles fan podcast so I have to move on. The next one is one that I used to play during the hard times of exam season. So she is Romanian, she's a Romanian artist, her name is [INNA](https://en.wikipedia.org/wiki/Inna), see figure \@ref(fig:inna-fig). The song that I like from her is called *Iguana*. [@iguana] It's in Spanish. She actually sings in Spanish. Absolutely amazing I used to listen to it every single time 
 
 Sad song or an uplifting song?
 
 
 
-> Alice: literally uplifting. I don't even know what she's saying. I don't know Spanish, it's just it's very funny. Yes. And I used to listen in on the speaker every single morning during exam season because I would be so tired so done, to have to go to the library again, or Kilburn again. So I just had, I just needed a little bit of joy, my life so that was my morning song. 
+> Alice: literally uplifting. I don't even know what she's saying. I don't know Spanish, it's just it's very funny. Yes. And I used to listen in on the speaker every single morning during exam season because I would be so tired, so done, to have to go to the library again, or Kilburn (building) again. So I just had, I just needed a little bit of joy in my life, so that was my morning song. 
 
 ```{r inna-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionthisisinna)"}
 knitr::include_graphics("images/inna.jpeg")
 ```
 
-
-(ref:captionthisisinna) Elena Alexandra Apostoleanu, known
-professionally as INNA, is a Romanian singer. [@iguana] Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons [w.wiki/_wB2j](https://w.wiki/_wB2j) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionthisisinna) Elena Alexandra Apostoleanu, known professionally as INNA, is a Romanian singer. [@iguana] Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons [w.wiki/_wB2j](https://w.wiki/_wB2j) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)  
 
 
+Excellent (song added to the coders playlist in section \@ref(coders))
 
-Excellent, (see the coders playlist in section \@ref(coders))
-
-## One podcast {#alice-podcast}
+## One podcast {#onbeing}
 
 > Alice: Podcast wise. I really like *[On Being](https://en.wikipedia.org/wiki/On_Being)* with [Krista Tippett](https://en.wikipedia.org/wiki/Krista_Tippett) (see figure \@ref(fig:krista-tippett-fig)). It's really nice, she interviews a lot of people, the one that I like the most, I think he's called [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton).
 
@@ -577,7 +579,7 @@ knitr::include_url('https://www.youtube.com/embed/q28W7N6Th58')
 
 > Alice: Yeah, he was the one that I liked the most and I think that the only ones that she did with him, what about relationships and love and kind of relationship with any kind. And I thought it was so nice and so sweet and absolutely loved it. So I recommend it. [@wrongperson1; @wrongperson2]
 
-## One film {#alice-film}
+## One film {#imitationgame}
 
 Good, Okay. And then last one is, one film. 
 
