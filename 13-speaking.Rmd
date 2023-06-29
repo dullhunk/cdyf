@@ -124,10 +124,10 @@ The competitive coding and technical interviews described in this chapter test a
 Solving different coding challenges can help you become a better problem solver, master a given programming language, prepare for job interviews and learn new algorithms. It will help you become a better engineer and can provide good evidence for the experience section of your CV.-->
 
 
-There are a lots of resources to help you prepare for and practice coding interview questions, a good place to start is *Cracking the Coding Interview* by [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, Computer Science graduate Petia Davidova explains in figure \@ref(fig:petia-fig) what she learned from failing several coding interviews at big technology companies. 😭
+There are a lots of resources to help you prepare for and practice coding interview questions, a good place to start is *Cracking the Coding Interview* by [Gayle Laakmaan McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). [@cracking] As well as reading Gayle's book, there are lots of online resources to help you prepare for coding interviews. Before we look at those, Computer Science graduate Petia Davidova explains in figure \@ref(fig:petia-vid) what she learned from failing several coding interviews at big technology companies. 😭
 
 
-```{r petia-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpetia)"}
+```{r petia-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpetia)"}
 knitr::include_url('https://www.youtube.com/embed/qkeQNNjZuQk')
 ```
 
@@ -150,9 +150,9 @@ All of these activities will help both your general professional development and
 
 
 ### Leetcode {#leetcode}
-LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews, see [leetcode.com](https://leetcode.com). There's *lots* of challenges on leetcode which can make it a daunting place for novices, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-fig).
+LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews, see [leetcode.com](https://leetcode.com). There's *lots* of challenges on leetcode which can make it a daunting place for novices, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-vid).
 
-```{r neetcode-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneetcode)"}
+```{r neetcode-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneetcode)"}
 knitr::include_url('https://www.youtube.com/embed/TKC98Sumg2A')
 ```
 

@@ -332,7 +332,7 @@ knitr::include_graphics("images/standing-on-the-shoulders-of-students.png")
 
 So, if you have studied some flavour of Computer Science at the University of Manchester since 2012, there's a high probability you have contributed to this book. Thank you for having the courage to tell me your stories. Thank you for being ambitious, hard working, talented, fearless, creative, inspirational and listening to me (sometimes). It has been my pleasure and privilege to work with you all.
 
-```{r foxdog-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfoxdog)"}
+```{r foxdog-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfoxdog)"}
 knitr::include_url('https://www.youtube.com/embed/Vvv_btq-MRs')
 ```
 
@@ -449,7 +449,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a big influence on this book had a gradual but significant effect on my personal and professional life. I've tried to distill some of the ideas into chapter \@ref(nurturing) on *Nurturing your future*
 * Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to [David Walker](https://en.wikipedia.org/wiki/David_A._Walker_(scientist)) for his book *Energy, Plants & Man* which inspired the conversations and pictures idea behind this book. [@epm]
-* Thanks to [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)) for your entertaining guest lectures for COMP101, see also figure \@ref(fig:cliff-fig)
+* Thanks to [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)) for your entertaining guest lectures for COMP101, see also figure \@ref(fig:cliff-vid)
 
 So thanks scientists (and engineers) for being scientific and engineering. 🙏
 
@@ -481,9 +481,9 @@ knitr::include_graphics("images/shaftesbury.jpg")
 So thanks Shaftesbury for lessons on top of Gold Hill.
 
 ### Thank you Swindon {#swindon}
-Thanks to headteacher & physicist [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his team of staff, Mr M. Carter, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. [@swindon] It was fun teaching you about electromagnetic waves using [Alom Shaha's](https://en.wikipedia.org/wiki/Alom_Shaha) jelly babies and kebab sticks shown in figure \@ref(fig:shaha-fig).
+Thanks to headteacher & physicist [Clive Zimmerman](https://www.swindonadvertiser.co.uk/news/14113118.lydiard-school-looking-to-help-others-improve-gcse-results/), his team of staff, Mr M. Carter, Mr K. Thomas and the students of [Greendown Community School (now Lydiard Park Academy)](https://en.wikipedia.org/wiki/Lydiard_Park_Academy) in Swindon, Wiltshire for hosting my second PGCE teaching placement. [@swindon] It was fun teaching you about electromagnetic waves using [Alom Shaha's](https://en.wikipedia.org/wiki/Alom_Shaha) jelly babies and kebab sticks shown in figure \@ref(fig:shaha-vid).
 
-```{r shaha-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionshaha)"}
+```{r shaha-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionshaha)"}
 knitr::include_url('https://www.youtube.com/embed/VE520z_ugcU')
 ```
 
@@ -586,13 +586,13 @@ So thanks Cambridge for [Silicon Fen](https://en.wikipedia.org/wiki/Silicon_Fen)
 ### Thank you Manchester {#manchester}
 Thanks to Greater Mancunians beyond the University of Manchester: Anna, Mark Anderton, Andrea, Rob Aspin, Jon Atkinson, Charlie Ball, Paul Bason, Iain, Julian Bass, Amul Batra, Dean Belfield, Lisa Chan Brown, Martin Bryant, Gemma Cameron, Matthew Clark, Jeremy Coates, Craig, Darren Dancey, Craig Dean, Farhat Din, Anne Dornan, David Edmundson-Bird, Emily, Diana Erskine, Sherelle Fairweather, Shaun Fensom, Steven Flower, Tony Foggett, Katie Gallagher, Giles, Emma Grant, David Haikney, [Damian Hughes](https://liquidthinker.com), Mehran Jalaei, Daniel Jamieson, Matt Jarvis, Jamil Khalil, Ross Keeping, Val Kelly, Kitty, David Levine, Julie Lowndes, Tony McGrath, Chris Marsh, [Amy Mather](https://twitter.com/MiniGirlGeek), Lisa Mather, Claire McDonald, Keith Miller, Geraint North, [Alan O'Donohoe](https://twitter.com/teknoteacher), Tomas Paulik, Damian Payton, Francesco Petrogalli, Paul, Peppi, Phil, Rich, Ros, Miles Rothbury, Paul Sherwood, Howard Simms, Adrian Slatcher, Jason Souloglou, Joe Sparrow, Martyn Spink, [Katie Steckles](https://www.katiesteckles.co.uk/), Matt Squire, Julian Tait, Rob Taylor, Rachel Thompson, Tom, Andrew Toolan, Hannah Tracey, Wesley Verne, Paul Vlissidis, [Tony Walsh](https://en.wikipedia.org/wiki/Tony_Walsh_(poet)), Travis Walton, Ben Webb, Paul Wilshaw and Zoe for friendly Northern support and advice. Thanks to [Andrew Back](https://twitter.com/9600) and [Tim Harbour](https://twitter.com/timharbour) for wuthering my bytes at [wutheringbytes.com](https://wutheringbytes.com/).
 
-```{r this-is-the-place-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlongfella)"}
+```{r this-is-the-place-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlongfella)"}
 knitr::include_url('https://www.youtube.com/embed/PszMmYpQjPo')
 ```
 
 (ref:captionlongfella) I'm with [Longfella (aka Tony Walsh)](https://en.wikipedia.org/wiki/Tony_Walsh_(poet)) in believing that **THIS** is the place! You can watch the full 4 minute video embedded in this figure at [youtu.be/PszMmYpQjPo](https://youtu.be/PszMmYpQjPo) [@longfella] 🙏
 
-So thank you for [the music](https://en.wikipedia.org/wiki/Popular_music_of_Manchester), the songs I'm singing. Thanks for all the joy they're bringing. Thanks Manchester for [the best football team in the world](https://en.wikipedia.org/wiki/Manchester_United_F.C.) and being Mancunian, see figure \@ref(fig:this-is-the-place-fig). This is the place! [@longfella]
+So thank you for [the music](https://en.wikipedia.org/wiki/Popular_music_of_Manchester), the songs I'm singing. Thanks for all the joy they're bringing. Thanks Manchester for [the best football team in the world](https://en.wikipedia.org/wiki/Manchester_United_F.C.) and being Mancunian, see figure \@ref(fig:this-is-the-place-vid). This is the place! [@longfella]
 
 ### Thank you Coventry {#coventry}
 Thanks to [Phil Harris](https://www.coventry.ac.uk/research/research-people/professor-phil-harris/), Steph Harris, Alan Gear, Jackie Gear, Ally, Neil, Esther, Francis Rayns, Graham Smith, [Jeremy Cherfas](https://www.jeremycherfas.net/), [Morgen Cheshire](https://cheshirenonprofitlaw.com/people/team/morgen/), [Margi Lennartsson Turner](https://pureportal.coventry.ac.uk/en/persons/margi-lennartsson-turner), Lady Godiva (see figure \@ref(fig:coventry-fig)) and everyone else at the [Henry Doubleday Research Association](https://en.wikipedia.org/wiki/Henry_Doubleday_Research_Association) (HDRA) and Coventry University for hosting my industrial experience year during my undergraduate degree.
@@ -628,9 +628,9 @@ knitr::include_graphics("images/BUNAC.jpeg")
 
 Thanks to Mitch at [Green Tortoise Adventure Travel](https://greentortoise.com/) for driving, entertaining and feeding a bus load of us [gentle people with flowers in our hair](https://en.wikipedia.org/wiki/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)) from San Francisco to New York via Chicago and some of America's finest wildernesses (and cookouts) in Nevada, Utah, Wyoming, South Dakota, the [Yellowstone](https://en.wikipedia.org/wiki/Yellowstone_National_Park), [Grand Teton](https://en.wikipedia.org/wiki/Grand_Teton_National_Park) and [Badlands](https://en.wikipedia.org/wiki/Badlands_National_Park) National Parks. [@flowersinyourhair]
 
-Thanks to [Tom and Letty Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) for your excellent hospitality in New York City, your transatlantic history lessons and showing me the very best that Manhattan has to offer. You can hear it in my accent when I talk, I'm an [Englishman in New York](https://en.wikipedia.org/wiki/Englishman_in_New_York). [@sting] Thanks Pat, Colin and Rob Willmott for the introduction via the [Single-handed Trans-Atlantic Race](https://en.wikipedia.org/wiki/Single-Handed_Trans-Atlantic_Race ) (STAR) in Plymouth, Devon from where the [Mayflower](https://en.wikipedia.org/wiki/Mayflower) (eventually) set off for the so-called “[New World](https://en.wikipedia.org/wiki/New_World)” in 1620, see figure \@ref(fig:neworld-fig).
+Thanks to [Tom and Letty Gochberg](https://wi.mit.edu/news/memoriam-thomas-gochberg) for your excellent hospitality in New York City, your transatlantic history lessons and showing me the very best that Manhattan has to offer. You can hear it in my accent when I talk, I'm an [Englishman in New York](https://en.wikipedia.org/wiki/Englishman_in_New_York). [@sting] Thanks Pat, Colin and Rob Willmott for the introduction via the [Single-handed Trans-Atlantic Race](https://en.wikipedia.org/wiki/Single-Handed_Trans-Atlantic_Race ) (STAR) in Plymouth, Devon from where the [Mayflower](https://en.wikipedia.org/wiki/Mayflower) (eventually) set off for the so-called “[New World](https://en.wikipedia.org/wiki/New_World)” in 1620, see figure \@ref(fig:neworld-vid).
 
-```{r neworld-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneworld)"}
+```{r neworld-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneworld)"}
 knitr::include_url('https://www.youtube.com/embed/Y2Ya4d1oSQc')
 ```
 
@@ -676,7 +676,7 @@ knitr::include_graphics("images/keyboard.png")
 So here are some people whose stuff I read, watch, listen to or use, maybe you'll enjoy their words, pictures and software too:
 
 * [Euan Adie](https://twitter.com/stew) at [blog.overton.io/author/euan-adie](https://blog.overton.io/author/euan-adie)
-* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [twitter.com/stevenappleby](https://twitter.com/stevenappleby), see figure \@ref(fig:appleby-fig)
+* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [twitter.com/stevenappleby](https://twitter.com/stevenappleby), see figure \@ref(fig:appleby-vid)
 * [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)
 * [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [ongoing](https://www.tbray.org/ongoing/)
 * Geoffrey Challen at [geoffreychallen.com/essays](https://www.geoffreychallen.com/essays)
@@ -709,7 +709,7 @@ So here are some people whose stuff I read, watch, listen to or use, maybe you'l
 * [Greg Wilson](https://twitter.com/gvwilson) at [third-bit.com](https://third-bit.com/)
 
 
-```{r appleby-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionappleby)"}
+```{r appleby-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionappleby)"}
 knitr::include_url('https://www.youtube.com/embed/G_Vz7gTh1VE')
 ```
 
@@ -755,11 +755,11 @@ Special wiki-thanks to English speaking Wikipedians [Evan Amos](https://en.wikip
 So, thanks Wikipedians for being Wikipedia. 🙏
 
 ### Thank you Bryan {#visualthinkery}
-Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/) shown in figure \@ref(fig:tedx-galway-fig).
+Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/) shown in figure \@ref(fig:tedx-galway-vid).
 
 Bryan is an artist, visual thinker, entrepreneur and listener who turns stories into pictures. He also happens to have a Bachelors degree in Computer Science from the University of Glasgow. As a [renaissance man](https://en.wikipedia.org/wiki/Renaissance_man), his combined skills in art, science and engineering made him the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm very glad we randomly bumped into each other at the `#wikiedu20` conference: [wikiedusummit.coventry.domains](https://wikiedusummit.coventry.domains/).
 
-```{r tedx-galway-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongalway)"}
+```{r tedx-galway-vid, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongalway)"}
 knitr::include_url('https://www.youtube.com/embed/IapGM5ZYBEw')
 ```
 

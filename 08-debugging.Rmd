@@ -158,16 +158,16 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 ## Structure your CV and Résumé {#mycvst}
 
-How you structure your CV and Résumé will depend on who you are and what your story is. Recruiters at Google suggest you have four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short video shown in figure \@ref(fig:lopez-fig).
+How you structure your CV and Résumé will depend on who you are and what your story is. Recruiters at Google suggest you have four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short video shown in figure \@ref(fig:lopez-vid).
 
-```{r lopez-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
+```{r lopez-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
 ```
 
 (ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your résumé. You can also watch the 8 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE). [@youtube-google-recruiters]
 
 <!-- this doesn't really fit here in structure, is there somewhere better? -->
-As Jonathan Black, director of the careers service at the University of Oxford points out in figure \@ref(fig:black-fig), there are three key things you want to demonstrate in your CV:
+As Jonathan Black, director of the careers service at the University of Oxford points out in figure \@ref(fig:black-vid), there are three key things you want to demonstrate in your CV:
 
 1. that you can take responsibility
 1. that you achieve things
@@ -176,13 +176,14 @@ As Jonathan Black, director of the careers service at the University of Oxford p
 How will you demonstrate and provide evidence each of these traits? 
 
 <!--Remember that no applicant meets all the criteria, so 80% means you're doing really well [@topnotchcv]-->
-```{r black-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionjonathanblack)"}
+```{r black-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionjonathanblack)"}
 knitr::include_url('https://www.youtube.com/embed/yjdvCHWVtE4')
 ```
+
 (ref:captionjonathanblack) [Jonathan Black](https://twitter.com/jonathanpblack), head of the careers service at the University of Oxford,  explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. You can also watch the 11 minute video embedded in this figure at [youtu.be/yjdvCHWVtE4](https://youtu.be/yjdvCHWVtE4). [@topnotchcv]
 
 <!-- if moving this to a new section move reference from big bad buglist to mycvst -->
-Quantifying and providing evidence for any claims you make will create a much more convincing CV. Numbers can transform meaningless assertions described in figure \@ref(fig:black-fig) into meaningful evidence. So for example:
+Quantifying and providing evidence for any claims you make will create a much more convincing CV. Numbers can transform meaningless assertions described in figure \@ref(fig:black-vid) into meaningful evidence. So for example:
 
 ```md
 * Achieved excellent results
@@ -227,7 +228,7 @@ Unless you have a *significant* amount of experience, the `Education` section of
 knitr::include_graphics("images/tony-blair-education-education-education.jpeg")
 ```
 
-(ref:captionblair) [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair)'s top three priorities as a new Prime Minister of the United Kingdom were `education, education and education`. [@tonyblair; @blair] Likewise, at this stage of your career, your education should be a top priority on your CV. Education should go first, unless you've got a *significant* amount of `experience`. As a graduate (or undergraduate) your education is the most recent, relevant and important thing about you so it should have top billing, see the discussion in figure \@ref(fig:lopez-fig). This [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) portrait of Tony Blair in 2007 by the Polish Presidency on Wikimedia Commons [w.wiki/64Kd](https://w.wiki/64Kd) has been adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionblair) [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair)'s top three priorities as a new Prime Minister of the United Kingdom were `education, education and education`. [@tonyblair; @blair] Likewise, at this stage of your career, your education should be a top priority on your CV. Education should go first, unless you've got a *significant* amount of `experience`. As a graduate (or undergraduate) your education is the most recent, relevant and important thing about you so it should have top billing, see the discussion in figure \@ref(fig:lopez-vid). This [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) portrait of Tony Blair in 2007 by the Polish Presidency on Wikimedia Commons [w.wiki/64Kd](https://w.wiki/64Kd) has been adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies a longer description than a rather terse one line `BSc Computer Science`. You'll need to:
 
@@ -456,7 +457,7 @@ One way to structure descriptions of items within each section of your CV is to 
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
 * **EVIDENCE**: Where evidence exists, you should highlight it. That could be a quantification, for example describing a result in numbers (see `as measured by` below) or it might be certification described in chapter \@ref(achieving). If you're talking about software, point to a copy online if you can, see section \@ref(portfolio). Nothing says “I can build software ...” quite like “ ... and here's one I made earlier”.
 
-You don't have to stick rigidly to the order C.A.R.E. as long as they appear somewhere. For example, recruiters at Google (see figure \@ref(fig:lopez-fig)) advise candidates to describe their experience and projects using this simple pattern:
+You don't have to stick rigidly to the order C.A.R.E. as long as they appear somewhere. For example, recruiters at Google (see figure \@ref(fig:lopez-vid)) advise candidates to describe their experience and projects using this simple pattern:
 
 ````md
 * Accomplished [X], as measured by [Y], by doing [Z]
@@ -478,10 +479,10 @@ The latter is better because it is more specific, captures the result (`accompli
 
 
 ### Your length {#length}
-How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-fig). It is also advisable to [create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). It is also advisable to [create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
 
 
-```{r oneortwopager-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
+```{r oneortwopager-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
 knitr::include_url('https://www.youtube.com/embed/0abDOKHS5T0')
 ```
 
@@ -495,7 +496,7 @@ knitr::include_graphics("images/shorterletter.jpeg")
 
 (ref:captionshorterletter) I would have written a shorter ~~letter~~, ~~CV~~, Résumé but I did not have the time. This quote (or meme) is frequently attributed to Blaise Pascale's  *[Lettres provinciales](https://en.wikipedia.org/wiki/Lettres_provinciales)* [@shorterletter]. Public domain image by Gallica on Wikimedia Commons [w.wiki/3Uzn](https://w.wiki/3Uzn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇫🇷
 
-It takes more time to write less. Writing a one page résumé is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page résumé than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-fig). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
+It takes more time to write less. Writing a one page résumé is a valuable exercise, because it forces you to distill and edit out any filler or fluff, which you sometimes find on two page undergraduate or graduate CVs. It is much better to have a strong one-page résumé than a weaker two-page CV that is padded out with filler to make up the space, as described in the video in figure \@ref(fig:oneortwopager-vid). Adding more features (pages and content) to your CV doesn't necessarily make it better. Sometimes adding more features to your CV will make it worse, as shown in figure \@ref(fig:morefeatures-fig).
 
 ```{r morefeatures-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionmorefeatures)"}
 knitr::include_graphics("images/an-engineering-state-of-mind.png")

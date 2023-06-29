@@ -214,10 +214,18 @@ I feel like that's already quite inviting because it's quite difficult for you t
 
 To finish up then I've got we've got a few things here. So, and this is one tune, one podcast, One film. Yes. So, we have a playlist that's associated with this podcast coders. Unfortunately, it's full of lots of dad music because its put together by me. I've been asking students. So, is there a tune that you can use to rejuvenate, or freshen up our playlist? So, it might be something that's important to to you. It might be something, it help a piece of music that helps you relax or might even help you work, or take your mind off work or remind your friends family, and that kind of thing. So, any any one, tune that you would recommend?
 
-> Carmen: There's one that I've kind of got into lately, which is LOUD by [Sofia Carson](https://en.wikipedia.org/wiki/Sofia_Carson), [@loud] which is all about. How how women are starting to give a bit more voice and things? And that's making some people not feel uncomfortable. How do you spell? C.A.R.S.O.N. Okay. So that and it's like why should you feel uncomfortable? Now that I actually speak up so I thought found that quite motivational in times where it gets a bit tough.
+> Carmen: There's one that I've kind of got into lately, which is LOUD by Sofia Carson (see figure \@ref(fig:sofia-carson-fig)) which is all about how how women are starting to give a bit more voice and things? And that's making some people not feel uncomfortable. So that and it's like why should you feel uncomfortable? Now that I actually speak up so I thought found that quite motivational in times where it gets a bit tough.
+
+```{r sofia-carson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncarson)"}
+knitr::include_graphics("images/sofia-carson.jpeg")
+```
+(ref:captioncarson) [Sofia Carson](https://en.wikipedia.org/wiki/Sofia_Carson) is an American actress and singer. [@loud] Public domain picture of Sofia Carson performing in Washington D.C. in 2017 by Reese Brown via Wikimedia Commons [w.wiki/5YES](https://w.wiki/5YES) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🇺🇸
+
+
+Yeah. Okay good. 
 
 ## One podcast {#metime}
-Yeah. Okay good. The one is so one podcast, I mean, you may or may not listen to podcasts?
+The one is, one podcast, I mean, you may or may not listen to podcasts?
 
 > Carmen: There's only one to listen to, one of them is my friends, it's called **ME time** [@metime]. So I used to listen to that on the way to work throughout  and it's just about real life, stuff. They speak about how to deal with things that you need had to do things in life. How to grow up as very related with this point in my life.
 
@@ -225,12 +233,12 @@ Yeah. Okay good. The one is so one podcast, I mean, you may or may not listen to
 
 And the last one is one film. It could be something contemporary. Could be something as just out now or that you seem in the last couple of weeks or it could be something older.
 
-> Carmen: You the last one I've seen is, [She's the Man](https://en.wikipedia.org/wiki/She%27s_the_Man). [@shestheman] Because a friend mentioned earlier they and it's quite ahead of its time. It's like from 2000 and it's about how the females could also play football, right? And they didn't have to not be allowed on the team because they're a female. (see figure \@ref(fig:shes-the-man-fig))
+> Carmen: You the last one I've seen is, *[She's the Man](https://en.wikipedia.org/wiki/She%27s_the_Man)*. [@shestheman] Because a friend mentioned earlier they and it's quite ahead of its time. It's like from 2000 and it's about how the females could also play football, right? And they didn't have to not be allowed on the team because they're a female. (see figure \@ref(fig:shes-the-man-fig))
 
 ```{r shes-the-man-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionshestheman)"}
 knitr::include_graphics("images/shes-the-man.jpeg")
 ```
-(ref:captionshestheman) *She's the Man* is a 2006 American romantic comedy teen sports film directed by Andy Fickman and starring Amanda Bynes, Channing Tatum, Laura Ramsey, Vinnie Jones, and David Cross. [@shestheman]
+(ref:captionshestheman) *She's the Man* is a 2006 American romantic comedy teen sports film directed by Andy Fickman and starring Amanda Bynes, Channing Tatum, Laura Ramsey, Vinnie Jones, and David Cross. [@shestheman] Fair use image from Wikimedia Commons adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 ## Advice to your former self {#carmen-time}
 

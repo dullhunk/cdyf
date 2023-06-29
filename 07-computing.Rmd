@@ -34,18 +34,20 @@ Of course not, that would be ludicrous! You learned to read and write because th
 
 So why should everyone learn about computing? Is it so that everyone can become software engineers? Again, this is patently ludicrous.
 
-Everyone should study computing for the same reasons everyone studies maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-fig).
+Everyone should study computing for the same reasons everyone studies maths and english at school. Like writing, computing is one of the most creative tools for expression and communication that we have today. Just like mathematics, studying computing will also help you to solve important problems too. Sam Aaron, creator of [Sonic Pi](https://en.wikipedia.org/wiki/Sonic_Pi), puts exactly this case for creative computing in his TEDx talk [@youtube-sonicpi] shown in figure \@ref(fig:sonicpi-vid).
 
-```{r sonicpi-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsonicpi)"}
+```{r sonicpi-vid, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsonicpi)"}
 knitr::include_url('https://www.youtube.com/embed/0lTZ8Tuyu5I')
 ```
+
 (ref:captionsonicpi) Sam Aaron puts the creative case for computing by discussing programming as performance in his TEDx talk. You can watch the watch the 18 minute video embedded in this figure at [youtu.be/0lTZ8Tuyu5I](https://youtu.be/0lTZ8Tuyu5I). [@youtube-sonicpi]
 
-Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. If you are a humanities student, have a look at Silvio Peroni's free computational thinking and programming textbook at [comp-think.github.io](https://comp-think.github.io/). [@peroni] If you like doing [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs), you might also enjoy [CS50](https://en.wikipedia.org/wiki/CS50), with [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) shown in figure \@ref(fig:malan-fig).
+Computing is also an intellectually stimulating and challenging subject to study in its own right. If you don't believe me, I'm not going to make the case here. If you are a humanities student, have a look at Silvio Peroni's free computational thinking and programming textbook at [comp-think.github.io](https://comp-think.github.io/). [@peroni] If you like doing [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs), you might also enjoy [CS50](https://en.wikipedia.org/wiki/CS50), with [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) shown in figure \@ref(fig:malan-vid).
 
-```{r malan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmalan)"}
+```{r malan-vid, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmalan)"}
 knitr::include_url('https://www.youtube.com/embed/3oFAJtFE8YU')
 ```
+
 (ref:captionmalan) [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) on CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. You can also watch the watch the full 2 minute introduction video embedded in this figure at [youtu.be/3oFAJtFE8YU](https://youtu.be/3oFAJtFE8YU). [@youtube-malan; @cs50]
 
 So computing is for everyone, not just those with scientific, technological or engineering interests. What's it actually all about. 

@@ -62,18 +62,24 @@ Don't they see how you had some rejections? I guess was location of factor. Use 
 
 Okay.
 
-> Sneha: So the company ended up working for was a Matillion. It's in Manchester's.
+> Sneha: So the company ended up working for was a [matillion.com](https://www.matillion.com/). It's in Manchester. (see figure \@ref(fig:matillion-fig)
+
 
 So can you tell us about what Matillion does?
 
 
 > Sneha: So Matillion's focus is data transformation. ([ETL: Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)) So for cloud data warehouses, so it helps  companies transform their data, especially, to move it to the cloud and it provides that kind of like middle kind of software (middleware) that like the product basically helps take the data, you know, extract it from wherever their company may have their data transform it like it allows the company to transform in a way they see fit. And then, you know, we work with like a AWS ([Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services)) and  Google [BigQuery](https://en.wikipedia.org/wiki/BigQuery) and my [Microsoft Azure](https://en.wikipedia.org/wiki/Microsoft_Azure) to like, you know, their day to warehouses, is to keep them all the data there. And I also other products help like analyse data and, like, in the cloud and help, you know, people be able to, like,
 
-What was your particular role you there?
+```{r matillion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmatillon)"}
+knitr::include_graphics("images/matillion.png")
+```
+(ref:captionmatillion) Matillion is a platform that makes data more productive by empowering coders and non-coders alike to move, transform, and orchestrate data pipelines, faster. Screenshot of the matillion website from [matillion.com](https://www.matillion.com/)
 
-> Sneha: I was a so going in as a placement software engineer. So, the good thing was, I wasn't even treated as a placement software engineer. I was just treated as a normal software engineer, in the sense that my work wasn't separate like in, like, oh, you can do this little project on the side. It was very much. You're on the product and you're gonna impact as much as anyone else. Yeah. That's good. To be to be a part of the team. Yeah, not
+What was your particular role you there (at matillion)?
 
-not sort of somebody's making cups of tea?
+> Sneha: I was going in as a placement software engineer. So, the good thing was, I wasn't even treated as a placement software engineer. I was just treated as a normal software engineer, in the sense that my work wasn't separate like in, like, oh, you can do this little project on the side. It was very much. You're on the product and you're gonna impact as much as anyone else. Yeah. That's good. To be to be a part of the team. Yeah, not
+
+not sort of somebody who is making cups of tea?
 
 > Sneha: Exactly.
 
@@ -90,9 +96,14 @@ Culture is important I think some people sometimes lose sight of that. It's just
 
 > Sneha Yeah.
 
-And sometimes I think sometimes an interview can be quite hard to work out what the culture is actually like until you actually start there and but it was good to hear you had a good experience of that. So you came back to university, so come back from doing a placement back to university doing your final year project. And so can you tell us a little bit about your final year project? But for our listeners. Can you tell us a little bit about what you to feel?
+And sometimes I think sometimes an interview can be quite hard to work out what the culture is actually like until you actually start there and but it was good to hear you had a good experience of that. 
 
-> Sneha:  Yes, so my final year project was coding their future and my supervisor was you! So, the final year project basically looked into the current state of secondary school, education of computer science and the focus I wanted to take with it was identifying potential problems or issues with the current, state of the education potentially, even the curriculum and then finding actual practical solutions for teaching because currently, the uptake of it is very low. So how can we make that, you know, much better. And so the way that was done, was I worked with a school and a class and trialled different teaching methods, how different materials make create a different materials, used hardware and various other resources to enthuse the students to actually enjoy computer science rather than just have to do it because it's part of the school curriculum
+
+## Final year project: coding their future {#sneha-ctf}
+
+So you came back to university, so come back from doing a placement back to university doing your final year project. And so can you tell us a little bit about your final year project? But for our listeners. Can you tell us a little bit about what you to feel?
+
+> Sneha:  Yes, so my final year project was *[Coding their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future)* and my supervisor was you! So, the final year project basically looked into the current state of secondary school, education of computer science and the focus I wanted to take with it was identifying potential problems or issues with the current, state of the education potentially, even the curriculum and then finding actual practical solutions for teaching because currently, the uptake of it is very low. So how can we make that, you know, much better. And so the way that was done, was I worked with a school and a class and trialled different teaching methods, how different materials make create a different materials, used hardware and various other resources to enthuse the students to actually enjoy computer science rather than just have to do it because it's part of the school curriculum
 
 Yes, did you find going back into school? Because it's very different, isn't it being at the front of the classroom? As opposed to being *in* the classroom as a student. So, how was that? How did you find that?
 

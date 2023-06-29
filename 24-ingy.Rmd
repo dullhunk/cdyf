@@ -20,10 +20,10 @@ An edited podcast transcript will appear here in due course. In the meantime, an
 
 ## One tune {#ingy-tune}
 
-Ingy chose *You Can*, see figure \@ref(fig:banque-misr-fig) as her tune.
+Ingy chose *You Can*, see figure \@ref(fig:banque-misr-vid) as her tune.
 
 
-```{r banque-misr-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbanque)"}
+```{r banque-misr-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbanque)"}
 knitr::include_url('https://www.youtube.com/embed/w6KhkbcMC6w')
 ```
 
