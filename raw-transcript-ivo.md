@@ -1,63 +1,88 @@
 So welcome Ivo, could you just tell us a little bit about yourself? Watch your name on where to come from? I've already introduced you, but who are you? 
 
-> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from [Sofia](https://en.wikipedia.org/wiki/Sofia), the Capital, right? And right now I'm a final year students, 
+> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from [Sofia](https://en.wikipedia.org/wiki/Sofia), the Capital and right now I'm a final year students, 
+ it's gonna graduate in a couple of months Actually in a month. 
+ 
+So you just had exams, you're in the middle of exam. So thank you for coming in the middle face and period. Right. 
+ 
+> Ivo: Yeah, exams on the moment. 
+ 
+So how many exams you got left?
+ 
+> Ivo: I got only two examples total and I've not done any book, so that's good. I'm yeah, it's not going to be anything too much and I'm kind of calm about everything right now, so it's fine. 
+ 
+
+## Why study Computer Science {#ivowhy}
+
+Good. So if we can take a step back to the beginning, so why did you decide to come in us or not? Why Manchester, but why computer science what was it about studying computer science that interests. Had it been something from a long time ago or ?
+
+> Ivo: it's quite interesting because honestly when I had to choose I had a year and how before I started uni and I had to kind of choose what I wanted to study. It was between a lot of things I had business in mind because I had been doing a bit of startups back then. Computer science definitely since I was in mathematical high school and a lot of the people over there went to to do computer science or something software engineering related. And there were a bunch of other things but I think definitely the the big choice was between business and computer science. And Definitely, the thing that pushed me over a little bit into computer science because that I wanted to get something tangible and something that I can see, some skills that I can practically do and get myself some kind of job that way. 
+
+So that kind of Applied aspect of it, the kind of vocational expoed aspect of computing?
+
+> Ivo: Yeah. Definitely and as well since it's related to mathematics definitely and I've always had this kind of interest, I mean, I used to be a gamer. I always had an interest in computers, how they work, why they do stuff that they do. And, yeah, I was always fascinated by by computers. So that was kind of an addition to all of it.
+
+Okay good. So you arrived here? Two and a half years ago was that after was that after lockdown or was your first year in lockdown or yeah, It's a little bit of a blurb, 
+
+> Ivo: Definitely for me, as well, honestly, because when I arrived in September 2020, it was kind of in the middle of the pandemic or like, it's starred-ish of the pandemic, right? It was like March, I think it's started, Um, and i went here hopeful that everything is going to be fine and there's not going to be any more lockdowns. And unfortunately, two months later. So just for two months and then I went back home because there was imposed Lockdown. And I thought that myself that since everything is online right now, I might as well just do it from home. 
 
 
-it's gonna graduate in a couple of months Actually in a month. So you just had exams, you're in the middle of exam. So thank you for coming in the middle face and period.
+All right, 
 
-Right. Yeah, exams on the moment. So how many exams you got left? I got only two examples total and I've not done any book, so that's good. I'm yeah, it's not going to be anything too much and I'm kind of calm about everything right now, so it's fine. Good.
+> Ivo: so fast forward a year and something After that. And I came actually, I came in Manchester honestly quite reasonably just January last year. So 2022, I've had kind of a year and a half here.
 
-So if we can take a step back to the beginning, so why did you decide to come in us or not? Why Manchester, but why computer science what was it about studying computer science that interests. You had it been something from a long time ago or it's it's quite interesting because honestly when I had to choose I had like a year and how before I started uni and I had to kind of choose what I wanted to study.
+Right. Okay.  And so in your first year you did a summer internship in was that the end of your first year at the end of your second year? 
 
-It was between a lot of things I had business in my because I had been doing a bit of startups back then. A computer science definitely since I was in mathematical high school and a lot of the people over there went to to do computer science or something software engineering related.
+> Ivo: It was the end of my second year it summer between second and third year so last summer basically, right?
 
-And there were a bunch of other things but I think definitely the And the big choice was between business and computer science. And Definitely, the thing that pushed me over a little bit into computer science because that I wanted to get something dangibles and something that I can, I can see some skills that I can.
+So and did you have, did you do anything in the summer of first year, where you just you would just at home. 
 
-Um, i can practically practically do and get myself some kind of job that way. So that kind of Applied aspect of it, the kind of vocational exposed aspect of computing. His kind of Part of the interest. Yeah. Definitely and as well since it's It's related to to mathematics definitely.
+> Ivo: So I really try doing a couple of things. So first, I was part of I became part of a society game development Society that we were working on a game. And I wanted to kind of extend that into the summer, right? And also, the other thing that, I was searching for internships on honestly. Well, I couldn't land one. I was very ill-informed and didn't put too much effort into it but eventually I got kind of not a role but I was helping some like a startup as a voluntary work. But both this and again development society kind of they did in didn't continue through the whole summer They kind of fell apart. So basically my first summer between first and second year it was like but of hanger because I didn't I wasn't really able to get any serious internship and any real work done, right?
 
-And I've always had this kind of interest, I mean, I used to be a gamer. I always had interesting computers, how they work, why they do stuff that they do. And, yeah, I was always fascinated by by computers. So that was kind of an addition to all of it.
+Okay. So you came back in to second year? 
 
-Okay good. So you arrived here? Two and a half years ago was that after was that after lockdown or was your first year in lockdown or yeah, I thought just It's a little bit of a blurb, Definitely what for me, as well, honestly, because when I arrived in September 2020, it was kind of in the middle of the pandemic or like, it's starred-ish of the pandemic, right?
+> Jonathan: I've done sort of bits and pieces in the summer. That was in Bulgaria. I guess was it? Um, so that was for a UK startup and for those society that's in the university. So I try to direct myself you next or the game dev part of Unix or game deaf part of unique i think, right?
 
-It was like March, I think it's started, Um, and i went here hopeful that everything is going to be fine and there's not going to be any more lockdowns. And unfortunately, two months later. So I was imaginator just for two months and And then i went back home because there was imposed Lockdown.
+It was yeah. Okay. 
 
-And i thought that myself that since everything is online right now, I might as well just do it from home. All right, And so fast forward basically a year and something After that. And I came actually, I came in Manchester honestly quite reasonably just January last year. So 2022, I've had kind of a year and a half here.
+So, Then in your beginning of second year, I guess you kind of did that make you think actually, I do want to get a summer internship next summer. And then, did you start looking in September? Or how did that work out in your second year?
 
-Right. Okay. And And so in your i know you you did a summary internship in was that the end of your first year at the end of your second year. It was the end of my second year it summer between second and third year so last summer basically, right?
+> Ivo: So it was, it was kind of mixed because I definitely wanted to get an internship. But at the same time, I didn't really have the the capacity especially the start of second year then have the capacity to get my applications done and look for companies kind of And, So the result of all that was that I came here in like January and I had to study for exams and at the same time it was high time that I start applying and start looking for companies and positions. I mean, looking back now, I think that was very late doing that but still I Yeah, I did my exams and then after that immediately, I focused on. 
 
-So and did you have, did you do anything in the summer of first year, where you just you would just at home. So I really try doing a couple of things. So first, I was part of I became part of a society game development Society that we were working on a game.
+Well, sometimes you to advertise a bit later in the year so if you would have been looking for a placement sometimes these get advertised the beginning of the academically are September but sometimes somewhere internships sometimes get advertised a little bit later Is that whereas I've been your experience or would you think you would have been better applying for summer internships?
 
-And I wanted to kind of extend that into the summer, right? And also, the other thing that i'm i was searching for internships on honestly. Well, I couldn't land one. I was very ill-informed and didn't put too much effort into it but eventually I got kind of not a role but I was helping some like a startup as a voluntary work.
+> Ivo: From September rather than you started in January. I mean i'll definitely prefer to how started in let's say September, but I think for me from what I've seen, it's more about, I guess, definitely for for placements, people want to get it out of the way, like companies want to get it out of the way sooner rather than later. While summer internships is a different thing, but I've seen that, I mean Yeah, banks definitely want to get out all of the internships. And finish with selecting candidates until like December. Let's say, so I had virtually no chances with banks, right? Okay, 
 
-But both this and again development society kind of they did in didn't continue through the whole summer They kind of fell apart. So basically my first summer between first and second year it was like but of hanger because I didn't I wasn't really able to get any serious internship and any real work done, right?
+So you mentioned, one choice of students faces like should I do a submer internship? Or should I do a young placement?  And so I was interested to know like why did you choose somewhere internship rather than a year long placement?
 
-Okay. So you came back in to second year, I'm usually done sort of bits and pieces in the summer. That was in Bulgaria. I guess was it? Um, so that was for a UK startup and for those society that's in the university. So I try to direct myself you next or the game dev part of Unix or game deaf part of unique i think, right?
+> Ivo: So the deciding factor for me because I had an offer for a placement and for a summer internship, I had to office and the deciding factor for me, wasn't what I wanted to do, one of the other. But rather their companies that and the positions that I was selected for, right? Um, so yeah, definitely I was open to both of them. I thought that it will be good because obviously, in a placement, you do get a whole year of experience, but Um, at the same time, if you don't get a placement then, by the time people finish their placement, you already graduated so that you can start a graduate role. 
 
-It was yeah. Okay. So, Then in your beginning of second year, I guess you kind of did that make you think actually, I do want to get a summer internship next summer. And then, did you start looking in September? Or how did that work out in your second year?
+Yes, yeah. It's quite I guess it's quicker, right? So you graduated sooner,  you don't pay fees for that,  You probably. I think, I don't know if it's a factor in your case, but I know some students say that's a factor, I don't want to pay fees for that? (See section \@ref(interns) for a fuller discussion)
 
-So it was, it was Kind of kind of mixed because I definitely wanted to get an internship. But at the same time, I I didn't really have the the capacity especially the start of second year then have the capacity to Um, To get my applications done and look for companies kind of And, So there's a result of all that was that I came here in like January and I had to study for exams and at the same time it was high time that I start applying and start looking for companies and positions.
+## Amazon Web Services {#aws}
 
-I mean, looking back now, I think that was very late doing that but still I Yeah, i did my exams and then after that immediately, I focused on. Well, sometimes you to advertise a bit later in the year so if you would have been looking for a placement sometimes these get advertised the beginning of the academically are September but sometimes somewhere internships sometimes get advertised a little bit later Is that whereas I've been your experience or would you think you would have been better applying for summer internships?
+Which organisation, were you employed by because we haven't actually mentioned this. 
 
-From September rather than you started in January. I mean i'll definitely prefer to how started in. Let's say September, but I think for me from what I've seen, it's more about, I guess, definitely for for placements, people want to get it out of the way, like companies want to get it out of the way sooner rather than later.
+> Ivo: I went to to work in Amazon Web Services in their London office. (See figure \@ref(aws-fig))
 
-While summer internships is a different thing, but I've seen that, I mean Yeah, banks definitely want to get out all of the internships. And finish finish with we selecting candidates until like December. Let's say, so I had virtually not chances for for banks, right? Okay, I'm so, So you mentioned sort of.
+```{r aws-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionaws)"}
+knitr::include_graphics("images/amazon-web-services.jpeg")
+```
+(ref:captionaws) [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (AWS) provides on-demand cloud computing platforms to individuals, companies and governments, on a pay-
+as-you-go basis. Losses in Amazons retail sector are subsidised from the tens of billions of income generated by AWS and Advertising. [@awstim; @amazad; @howamazonmakesmoney] [Apache licensed](https://www.apache.org/licenses/LICENSE-2.0) logo from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-So one choice of students faces like should I do a submer internship? Or should I do a young placement? And so I was interested to know like why did you choose somewhere internship rather than a year long placement? So the deciding factor for me because I had an offer for a placement and for somewhere internship, I had to office and the deciding factor for me, wasn't what I wanted to do, one of the other.
 
-But rather their companies that and the positions that I was That was selected for, right? Um, so yeah, definitely I was open to both of them. I thought that it will be good because obviously you and in a placement, you do get a whole year of experience, but Um, at the same time, if you don't get a placement then, By the time people finish their placement.
+Remote or in person? Ivo: entirely in person or bit, Both
 
-You already graduated so that you can start a graduate role. Yes, yeah. It's quite I guess it's quicker, right? So you graduated sooner. You don't pay fees for that. You probably. I think, I don't know if it's a factory in your case, but I know some students say that's a factors like well, I don't want to pay feats for that.
+>Ivo: it was honestly a bit of both but I really, really wanted to be in person for the whole time. And i think this was a great decision because I found out to that, it brings you a lot of value to actually go into office, meet people and make theses sort of connections.
 
-That. Yeah, university, even though you're not really at university, you're part of the university. And so, which organisation, we you employed by So, because we haven't actually mentioned this. Yeah, yeah. That's yeah. Mmm. I went to to work in Amazon, Web Services and there London office. It so remote or in person entirely in person or bit.
+I think, especially early on in your career definitely, I would say that I think once you become established it's kind of easier to work remotely but I think at the beginning, Is that those kinds of social interactions and Some help has more important than they are later on.
 
-Both it was honestly a bit of both but I really, really wanted to be in person for the whole time. And i think this was a great decision because I found out to that, it brings you a lot of value to actually go into office, meet people and like, make this sort of connections.
+> Ivo: Because you're looking for. Mentors and guidance and learning from people who've. Done, you know, done this sort of for years. 
 
-I think, especially Early on in your career definitely, I would say that I think once you become a stablished it's kind of easier to work remotely by. I think at the beginning, Is that those kinds of social interactions and Some help has more important than they are later on.
+So what was your role at amazon web services? So this actually came up as a question in the presentation to First years about this and someone said, what's a solution's architect? And I don't think we actually had time to answer the question, but what is a you were a solution's architect?
 
-Because you're looking for. Mentors and guidance and learning from people who've. Done, you know, done this sort of for years. Um, so It. So what was your role at amazon web services? So this actually came up as a question in In the because you came to the presentation to.
-
-Yeah. First years about this And someone said, what's a solution's architect? And I don't think we actually had time to answer the question, but what is a you were a solution's architect. Yeah. What architect too? Because that's kind of some people that mean that name means nothing When I gonna go idea what it is, but what does a solution's architect do?
+Yeah. What architect too? Because that's kind of some people that mean that name means nothing When I gonna go idea what it is, but what does a solution's architect do?
 
 Well, I don't blame them because the first time I saw the base sent me the test for the, for the position. I was like, oh, why did I apply to this? And then I read the description. I was like, okay, that's sounds interesting. But yeah, basically solutions architect is a role which entails many different responsibility.
 

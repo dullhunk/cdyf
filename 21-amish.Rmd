@@ -7,13 +7,27 @@ knitr::include_graphics("images/amish.jpeg")
 ```
 (ref:captionamish) Amish Shah [linkedin.com/in/amish-shah](https://www.linkedin.com/in/amish-shah/). Picture re-used from github profile shown in figure \@ref(fig:github-fig) with permission, thanks Amish.
 
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/27355713/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
 ## What's your story Amish? {#amish-story}
 
-Podcast episode and transcript to appear here early July 2023.
+An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-amish.md).
 
 ```{r amish-bloom, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionamishb)"}
 knitr::include_graphics("images/amish-bloomberg.jpeg")
 ```
 (ref:captionamishb) Amish Shah at the end of his placement at [Bloomberg London](https://en.wikipedia.org/wiki/Bloomberg_London) (right hand side) where he worked on graph-based worksheets (`W <GO>`, left hand side) available in the [Bloomberg Terminal](https://en.wikipedia.org/wiki/Bloomberg_Terminal). [@terminalcost] Pictures used with permission from Amish. [@amishtimes]
 
+## Disclaimer  
+
+
+::: {.rmdcaution}
+
+(ref:codingcaution)
+
+(ref:transcript-disclaimer)  
+
+:::
 

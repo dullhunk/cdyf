@@ -25,7 +25,7 @@ bookdown::bs4_book:
 
 # WORD version at https://cdyf.me/cdyf.docx
 # Pagination is horrible but good for editing sometimes
-bookdown::word_document2: default
+# bookdown::word_document2: default
 
 # gitbook not needed but it does work
 # bookdown::gitbook:
