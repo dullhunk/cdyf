@@ -46,17 +46,22 @@ So it's doing A level that made, you think, actually, this is an interesting sub
 
 ## Morgan Stanley {#jstanley}
 
-Okay, interesting. So, and then so your story your arrived here, four years ago, you've done a three-year bachelor's degree with a year in industry. So can you tell us a little bit about that journey? I think you you did a placement at Morgan Stanley, wasn't it initially? You started looking for that beginning of your second year. So you tell us a little bit about how you found the job and that whole process.
+Okay, interesting. So, and then so your story your arrived here, four years ago, you've done a three-year bachelor's degree with a year in industry. So can you tell us a little bit about that journey? I think you you did a placement at Morgan Stanley, wasn't it initially (see figure \@ref(fig:morgan-stanley2-fig))? You started looking for that beginning of your second year. So you tell us a little bit about how you found the job and that whole process.
 
 > Jason: Yeah. Essentially, just a ton of applications. I mean, I think the main thing for me, I wanted to keep my horizons pretty broad. I wanted to make sure I didn't limit myself to just tech companies or limit myself to any kind of niche. So and I always found finance pretty interesting how that mentioned before, you know, I always had that always had that prior finance interest. So essentially I was applying for you know, traditional tech companies, investment banks and yeah, after a bunch of applications I was able to get to the final round, the assessment centre of Morgan Stanley. I managed to smash that and then you know, got called in to do the placement. So that was yeah scheduled to be a year but obviously was caught a month short because of COVID. You know it's funny because I literally started in the middle of COVID.
 
-So that was all online. I guess.
+```{r morgan-stanley2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmorganstanley)"}
+knitr::include_graphics("images/morgan-stanley-times-square.jpeg")
+```
+
+
+So that was all online I guess?
 
 > Jason: Exactly.
 
 Were you in London or Manchester?
 
-> Jason:  I'm back and forth. I mean coming up here, see some friends, do some work, why not? And yeah, so I only go to go into the office in the last, maybe two months of the placements, right? It was a bit, not ideal, but, I mean, you know, life gives you lemons, you make lemonade right? So, just took it for it was, and still managed have a really great experience off the back of it.
+> Jason: I'm back and forth. I mean coming up here, see some friends, do some work, why not? And yeah, so I only go to go into the office in the last, maybe two months of the placements, right? It was a bit, not ideal, but, I mean, you know, life gives you lemons, you make lemonade right? So, just took it for it was, and still managed have a really great experience off the back of it.
 
 Did, you do a rotation? Did you do two six months (rotations)?
 
@@ -83,7 +88,15 @@ Being able to understand the business is always beneficial. You're not just a te
 
 So, following on from your placement, you've got a summer internship which was remote as well?
 
-> Jason: COVID, the gift that keeps on giving! So that was, I did some internship with Google which was actually yeah. It was a story that one. I've always been pretty ambitious. So for me like the placement I wasn't dead set amongst only obviously I did really find finance interesting but I wanted to hedge my bets and see, you know, after I think I finished a place with about three or four months to spare before I started university again. So I figured if I have that time and COVID is still a thing, I'm not gonna be going anywhere. So I might as well, you know, do an internship. So I was applying to, you know, a bunch of different places like Facebook, Bloomberg, a couple hedge funds. I was interviewing alongside the placement, which was pretty tough to be fair because preparing while working a full-time job. Really. Difficult a lot of late nights. Well, you know, I'd log off work and then turn around and be up, like, hackerrank (see section \@ref(hackerrank)) and leetcode (see section \@ref(leetcode)). But yeah, like, we'll see. It worked in my favour.
+> Jason: COVID, the gift that keeps on giving! So that was, I did some internship with Google (see figure \@ref(fig:google-alphabet-fig)) which was actually yeah. It was a story that one. I've always been pretty ambitious. So for me like the placement I wasn't dead set amongst only obviously I did really find finance interesting but I wanted to hedge my bets and see, you know, after I think I finished a place with about three or four months to spare before I started university again. So I figured if I have that time and COVID is still a thing, I'm not gonna be going anywhere. So I might as well, you know, do an internship. So I was applying to, you know, a bunch of different places like Facebook, Bloomberg, a couple hedge funds. I was interviewing alongside the placement, which was pretty tough to be fair because preparing while working a full-time job. Really. Difficult a lot of late nights. Well, you know, I'd log off work and then turn around and be up, like, hackerrank (see section \@ref(hackerrank)) and leetcode (see section \@ref(leetcode)). But yeah, like, we'll see. It worked in my favour.
+
+```{r google-alphabet-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglealpha)"}
+knitr::include_graphics("images/google-alphabet.jpeg")
+```
+
+(ref:captiongooglealpha) Google's parent company Alphabet Inc. is one of the five  “[Big Tech](https://en.wikipedia.org/wiki/Big_Tech)” companies, alongside Amazon, Apple Inc., Meta Platforms (formerly known as Facebook) and Microsoft. CC BY-SA picture of the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California by The Pancake of Heaven via Wikimedia Commons [w.wiki/3X4t](https://w.wiki/3X4t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)  
+
+
 
 Do you think you could have got that job at Google without the Morgan Stanley experience.  Having that bit of experience helps because they'll ask you about situations: in my current job I'm doing this and that can help. Whereas, I think going from zero to Google is a big ask for a lot of people.
 
