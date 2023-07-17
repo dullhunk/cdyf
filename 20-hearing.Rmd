@@ -49,7 +49,7 @@ http://feeds.libsyn.com/299189/rss
 knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 ```
 
-(ref:captionhearing) *Hearing your future* is the Coding your Future podcast. Subscribe and listen wherever you get your podcasts. Hearing sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionhearing) *Hearing your future* is the Coding your Future podcast. Subscribe and listen wherever you get your podcasts, see section \@ref(subscribing). Hearing sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
@@ -295,7 +295,7 @@ knitr::include_graphics("images/minority-report.jpeg")
 If you're in a minority that you're happy to talk about, do you have anything you'd like to report? ✊🏽
 
 ### You are the next Vice Chancellor {#vc}
-Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate of the University of Manchester](https://www.manchester.ac.uk/discover/governance/structure/senate/) have just appointed you their next leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell), shown in figure \@ref(fig:vc-fig). Nancy has served as VC since 2010, and will step down in 2024, the [200th anniversary](https://www.manchester.ac.uk/discover/history-heritage/history/umist/) of the foundation of the University of Manchester. [@umist] As VC, you now have responsibility for 11,000 staff, 40,000 students and access to a global network of over 500,000 alumni. You'll also take over as chair of the [russellgroup.ac.uk](https://russellgroup.ac.uk/). Since this is an optional question, you can dodgy this bullet if you'd rather not attempt to answer it.
+Congratulations, the [board of governors](https://www.manchester.ac.uk/discover/governance/structure/board-governors/) and [senate of the University of Manchester](https://www.manchester.ac.uk/discover/governance/structure/senate/) have just appointed you their next leader where you'll take over from the current Vice Chancellor (VC) [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell), shown in figure \@ref(fig:vc-fig). Nancy has served as VC since 2010, and will step down in 2024, the [200th anniversary](https://www.manchester.ac.uk/discover/history-heritage/history/umist/) of the foundation of the University of Manchester. [@umist] As VC, you now have responsibility for 11,000 staff, 40,000 students and access to a global network of over 500,000 alumni. You'll also take over as chair of the [russellgroup.ac.uk](https://russellgroup.ac.uk/). Since this is an optional question, you can dodge this bullet if you'd rather not attempt to answer it.
 
 ```{r vc-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionvc)"}
 knitr::include_graphics("images/nancy-rothwell.jpeg")
@@ -303,16 +303,16 @@ knitr::include_graphics("images/nancy-rothwell.jpeg")
 
 (ref:captionvc) Professor [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell) is Vice Chancellor (VC) of the University of Manchester. If *you* were VC, what would you change about how the University is run? [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) portrait of Nancy Rothwell by Manchester University Maths on Wikimedia Commons [w.wiki/6WjS](https://w.wiki/6WjS) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
-Now that you are the VC, what would you change about the University of Manchester? What would be your first task? 👑
+Now that you are the VC, what would you change about the University of Manchester to improve the teaching of students like you and the skills and knowledge they learn? What would be your first task? 👑
 
 ### One tune, one podcast, one book and one film {#otopof}
 
-We love our music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say many of the playlists in chapter \@ref(enjoying) are clogged up with:
+We love our books, music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say many of the playlists in chapter \@ref(enjoying) are clogged up with:
 
 * Lancashire boy bands, see section \@ref(lancashire)
 * [BritPop](https://en.wikipedia.org/wiki/Britpop) and Dad-Rock, see section \@ref(dadrock) [@dadrock]
 * Cardigan-swinging, [shoe-gazing](https://en.wikipedia.org/wiki/Shoegaze), [Glastonbury-gigging](https://en.wikipedia.org/wiki/Glastonbury_Festival), [indie music](https://en.wikipedia.org/wiki/Indie_rock), see section \@ref(indie)
-* Music made with digital computers rather than analogue instruments, see section  \@ref(electronica)
+* Music made with digital computers rather than analogue instruments, see section \@ref(electronica)
 * other antiquities from a bygone era, see figure \@ref(fig:dadrock-fig).
 
 ```{r dadrock-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captiondadrock)"}
