@@ -1,27 +1,47 @@
 So, Welcome Ingy. Have I said that right? 
 
-> Ingy: In "G". Yeah, it's like Turkish but in like Arabic we don't have a G mean Egyptians have about, but there's not actual "guh" sound, right? There's only a "juh", Okay? And then in Turkish is like chia Andy? Yeah. 
+> Ingy: In "G". Yeah, it's Turkish but in Arabic we don't have a G. I mean Egyptians have, but there's not actual "guh" sound, right? There's only a "juh", Okay? And then in Turkish is like "chuh". 
 
 
-So can you introduce yourself? Say a little bit about who you are waiting form. 
+So can you introduce yourself? Say a little bit about who you are form. 
 
-> Ingy: So my name is Ingy. Technically I'm no longer a third year computer science student Because I did my last exam. I'm originally from Egypt, but I kind of lived all over the place. So I live in Egypt for a bit and then Sweden and then the UAE and then Manchester. 
+> Ingy: So my name is Ingy. Technically I'm no longer a third year computer science student because I did my last exam. I'm originally from Egypt, but I've lived all over the place. So I've lived in Egypt for a bit and then Sweden and then the UAE and then Manchester. 
 
-So where did the interest in computing? Come from? 
+So where did the interest in computing come from? 
 
-> Ingy: both my parents are engineers, right? So and like, Most of my like my aunt is also an engineer And so is my uncle. So it's not like that far off but different kinds of engineering. Yeah, so like chemical engineering both, my parents are electrical electronical. And they both work in tech companies, right? So So I grew up around, like tech but the thing that made me like want to go into computer science specifically compared to like circuit boards Um, was that you can build stuff?
+> Ingy: Both my parents are engineers so are most of my (family) like my aunt is also an engineer and so is my uncle. So it's not that far off 
 
-Yes, but it's more, you're not limited by the hardware that you have, your more like, you can build whatever you want, right? Okay. So I guess, No software engineers in your family. No, that's new. Okay, good. Yeah. So that's interesting. And so was it something that Was it something that you kind of the interest came from your family or did it come from school as well?
+Different kinds of engineering? 
 
-Was there something in your education? The made? You think actually This is a subject like to spend three years doing it university. It was more my parents. So my mum had programmed before like her university project was like a programming project so she always like tried to push me into programming, right?
+> Ingy: Yeah, so chemical engineering both, my parents are electrical electronical. And they both work in tech companies, right? So I grew up around tech but the thing that made me want to go into computer science specifically compared to circuit boards, was that you can build stuff. 
 
-But the school, well the schools that I were in And they didn't really push you towards programming. So, like people knew to avoid IB [International Baccalaureate](https://en.wikipedia.org/wiki/International_Baccalaureate), computer science because everyone who took it, did not go into computer science and you need So you did. I didn't do it a computer. Yeah, international law yet.
+Yes, 
 
-I didn't do computer science. I did. HL moth and HL Physics instead. Um and then I took chemistry as like oh if I wanted to go until like one of the other engineerings But every single person I knew who took computer science and IB did not go into computer science and uni just because it was the teachers who taught it or just the course itself.
 
-Made it hard for you to like it in the end, right? It kind of like it had this project that you had to find that client to do a project for and it didn't make you like the subject that cards, Okay? Right. So So you would, I guess you might have done it but decided against.
+> Ingy: But it's more, you're not limited by the hardware that you have, your more like, you can build whatever you want, right?
 
-Yeah, I decided to look some maths. Yeah, I was saying chemistry. So I did you do six subjects? So I did HR physics. HR mouse HR Arabic SL Chemistry as our business, as our English langulet, right? And then extend the essay to okay and cast, Right? So quite a probably probably more of a mixture than some of your peers here in Manchester in that.
+Okay, so I guess, No software engineers in your family?
+
+> Ingy: No, that's new. Okay, good. Yeah. So that's interesting. And so was it something that Was it something that you kind of the interest came from your family or did it come from school as well?
+
+Was there something in your education that made you think, actually this is a subject I'd like to spend three years doing it university? 
+
+> Ingy: It was more my parents. So my mum had programmed before, her university project was a programming project so she always tried to push me into programming, right? But the school, well the schools that I were in, they didn't really push you towards programming. So, people knew to avoid IB [International Baccalaureate](https://en.wikipedia.org/wiki/International_Baccalaureate), computer science because everyone who took it, did not go into computer science
+
+So you did? 
+
+> Ingy: I didn't do it. I did International Baccalaureate. I didn't do computer science. I did HL (higher level) Math and HL Physics instead and then I took chemistry as if I wanted to go into one of the other engineerings. But every single person I knew who took computer science IB did not go into computer science at uni just because it was the teachers who taught it or just the course itself nade it hard for you to like it in the end
+
+Right
+
+> Ingy: It had this project that you had to find that client to do a project for and it didn't make you like the subject afterwards, 
+
+
+Okay? Right. So you would, I guess you might have done it but decided against.
+
+> Ingy: Yeah, I decided to look some maths. Yeah, I was saying chemistry. So I did you do six subjects? So I did HL physics, HL maths, HL Arabic, SL (Standard Level) Chemistry and SL Business, as our English language, right? And then extend the essay to okay and cast, Right? 
+
+So more of a mixture than some of your peers here in Manchester in that.
 
 Having that backloight education, you will probably got abroad a spread of subjects and English students. For example I got to do more things for longer so I know some of my friends want on to do a levels instead of IB and they got three or four subjects max. And I think that like getting to do business and chemistry and like even continuing English It, let me to like develop different skills that I wouldn't have done it.
 
