@@ -144,7 +144,7 @@ knitr::include_graphics("images/With great code.png")
 
 (ref:captionspiderman) The greater your code, the greater your superpower. [The greater your superpower, the greater your responsibility](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility). What powers does computing give you and how can you use that power responsibly? [@Shapiro2021] With great code sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? For example, recent advances in Artificial Intelligence have raised many ethical questions. [@hogarth] According to some people (see figure \@ref(fig:putin-fig)), the people that control AI, could potentially rule the world. 
+Given the growing power of computing in the twenty-first century, computer scientists have a duty to society to use that power responsibly and justly. How can they do so? For example, recent advances in Artificial Intelligence have raised many ethical questions. [@hogarth] According to some people (see figure \@ref(fig:putin-fig)), the people that control AI, could potentially rule the world or save it. [@andreessensaves]
 
 ```{r putin-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionputin)"}
 knitr::include_graphics("images/putin.jpeg")
@@ -171,7 +171,7 @@ knitr::include_graphics("images/deal-with-the-devil.jpeg")
 
 So when you're searching for jobs and researching potential employers, one of the first things you need to find out is what the values and ethical principles of an employer are, see section \@ref(beware). This is a quick way to evaluate what makes an organisation who they are. Most employers publish their values and ethics openly, here's a small selection to give you a flavour:
 
-* Amazon [amazon.jobs/principles](https://www.amazon.jobs/principles) [@ameaning]
+* Amazon [amazon.jobs/principles](https://www.amazon.jobs/principles) [@amazonprinciples; @ameaning]
 * Microsoft [microsoft.com/en-us/about/corporate-values](https://www.microsoft.com/en-us/about/corporate-values)
 * Apple [apple.com/compliance](https://www.apple.com/compliance/)
 * Google [ai.google/principles](https://ai.google/principles/)

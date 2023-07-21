@@ -30,66 +30,118 @@ Was there something in your education that made you think, actually this is a su
 
 So you did? 
 
-> Ingy: I didn't do it. I did International Baccalaureate. I didn't do computer science. I did HL (higher level) Math and HL Physics instead and then I took chemistry as if I wanted to go into one of the other engineerings. But every single person I knew who took computer science IB did not go into computer science at uni just because it was the teachers who taught it or just the course itself nade it hard for you to like it in the end
+> Ingy: I didn't do it. I did International Baccalaureate. I didn't do computer science. I did HL (higher level) Math and HL Physics instead and then I took chemistry as I wanted to go into one of the other engineerings. But every single person I knew who took computer science IB did not go into computer science at uni just because it was the teachers who taught it or just the course itself nade it hard for you to like it in the end
 
 Right
 
-> Ingy: It had this project that you had to find that client to do a project for and it didn't make you like the subject afterwards, 
+> Ingy: It had this project that you had to find that client to do a project for and it didn't make you like the subject afterwards.
+
+Okay? Right. So you would, I guess you might have done it but decided against it.
+
+> Ingy: Yeah, I decided to look some maths. So I did, you do six subjects. So I did HL physics, HL maths, HL Arabic, SL (Standard Level) Chemistry and SL Business, SL English language / literature. And then extend the essay to TOK (Theory of Knowledge) and CAS (Creativity, activity, service).
+
+So more of a mixture than some of your peers here in Manchester in that having that baccalaureate education, you probably got a broader spread of subjects than most English students. 
+
+> Ingy: For example I got to do more things for longer so I know some of my friends want on to do [A-levels](https://en.wikipedia.org/wiki/A-level) instead of IB and they got three or four subjects max. And I think that getting to do business and chemistry and even continuing English it let me develop different skills that I wouldn't have done if I'd just done A levels.  Because if I'd done A levels, I would have just done Maths, Physics and Chemistry probably but I think what's even better was that for the extended essay? It's a 4000 word essay, so you learn how to cite, you learn how to do research. So it prepared me for essay writing that I didn't get to do in uni until later on. Also, because of other subjects, I learnt how to do stuff last minute! 
+
+You mean prioritise demanding workload? 
+
+> Yeah, that. We had exams every week and coursework every week. So you learn how to prioritise stuff and you learn what was worth spending weeks over and what was worth spending a day over and I think for me, I stressed more in high school than I did over uni because **I went in knowing it's not worth taking everything with equal importance. Some stuff is more important than others and you need to learn what's more important** to not die from stress
+
+And not waste time on stuff thats not going to get the results that you want, I guess 
+
+> Ingy: Exactly, there's always a choice, work that's hard and you know you're not going to get insanely high marks on it. So it's not worth spending weeks trying to do it when you know, you're not going to get it. I mean, I can remember one specifically that I was like, everyone was trying to do this [Haskell](https://en.wikipedia.org/wiki/Haskell) coursework and I just, I looked at it and I was like, I know I can't get higher than a five. But getting the five marks out of 10 was relatively easy compared to getting the other five marks.
+
+This was Haskell here or in high school? 
+
+> Ingy: Here. So it was like it was PLP I think and it was a 10 mark coursework, and there's five extension marks and then five that you could get by doing fancy programming or just [brute force](https://en.wikipedia.org/wiki/Brute-force_attack)
+
+Right. Yeah.
+
+> Ingy: A lot of people spent weeks on it only to get five marks and I just did the five marks and I was I'm okay with this. It's only 5% of my grade, I have other stuff to do. 
+
+Yeah, Okay good.  So you arrived here in 2020, would that be right? 
+
+> Ingy: Yeah
+
+Because it was in 2020. So we've just come out lockdown. I think you said, I'm remember you saying your high school was ... 
+
+> Ingy: I didn't have graduation a high school because it wasn't, you know, yeah, I got my degree and they're like, congrats and was like thanks but... 
+
+So the graduation you have next month will be the first graduation that you have.
+
+> Ingy: I'm very excited to finally graduate. 
+
+And so you're right here in 2020 we're just coming out. Well, we just started starting lockdown 2020 so that must have been tough. So, Um, What how, what happened in your first year? How did your first year ago?
+
+> Ingy: The uni kept saying, we're gonna do hybrid, or we're gonna do stuff in person. And then, I think I came technically two weeks before uni is supposed to start or something like that. And I came to pick up my BRP id. 
+
+BRP is Biometric Residents Permit? [www.gov.uk/biometric-residence-permits](https://www.gov.uk/biometric-residence-permits)
+
+> Ingy: Yeah, it's your visa but on a card for some reason because they want you to lose it. But the problem is, if you don't pick it up within a month of it being issued, you have to re=apply for the whole visa
+
+Right
+
+> Ingy: So a lot of people in COVID would come pick it up and leave and that's what I ended up doing because the day I was in the airport, as my flight was taking off to go back home. You came out of lockdown, right? And it stays on lockdown, for like three months
+
+Oh golly
+
+> Ingy: Was like that Tuesday or something afternoon when they were like we're going until lockdown and There was no like it's not like what we're going to lock down like in the week. It was like tomorrow. You can't leave. Yeah. Um, and I'm so glad that we got onto that flight because my sister wanted to stay. Right. Um, But, Yeah. And then I didn't come back until second year And then it was really weird because I'd only seen Manchester empty and then you come in second year and it's still kind of, it's not what it is now
+
+We're coming out a lockdown. Yeah, sort of 
+
+> Ingy: yeah. 
+
+I guess getting to know your fellow students was a new thing. 
+
+> Ingy: I mean, the nice thing was I feel like COVID brought our year group closer. I don't know about other year groups, but our your group tried to like know people in first year. So there's a lot of people that I knew online but I'd never met in person. Like, I either, we literally never even like, zoom called so, I don't know what they look like.
+
+But you would have been, tried to interact on ...  But I guess this school Like discord.
+
+> Ingy: Yeah. Like they had the years, just one. Yeah. 
+
+So you would have known people's names. 
+
+> Ingy: Exactly. 
+
+And maybe seen their avatar or whatever, but not really met them in person. 
+
+> Ingy: Yeah. 
+
+That's always a nice thing, when you kind of, when you've been interacting with people online and then you finally get to meet them in person
+
+> Ingy: Its kind of weird too especially if you've never seen them fully, then it's a new perspective. But then sometimes, even when you see people through zoom like, The video versus in person like one time, I just, I kept looking at this person. Sounds like, I, I know I've seen you before, but like this feels different. 
+
+Well, you can't remember what you saw, recognise their face. Yeah, I'm sure I've met you somewhere before, but I can always was online was yeah, that's why it doesn't really add it up
+
+> Ingy: but it was, it was pretty, honestly, I think it wasn't too bad a year considering the global pandemic. 
+
+Yeah. I'm mean not ideal by any means. 
+
+> Ingy: I feel like I've only done two years of uni. Yeah, but Oh, it's better than a lot of other cases, You know, like I feel bad for the people who are in the second year during COVID because that's the people who graduated during COVID, like that was harder in my opinion.
 
 
-Okay? Right. So you would, I guess you might have done it but decided against.
+## Imago and IN3 internships {#ingy-imago}
 
-> Ingy: Yeah, I decided to look some maths. Yeah, I was saying chemistry. So I did you do six subjects? So I did HL physics, HL maths, HL Arabic, SL (Standard Level) Chemistry and SL Business, as our English language, right? And then extend the essay to okay and cast, Right? 
+Yeah, definitely. So, we go back to first year. I think you appled for internships during your first year, is that, right? 
 
-So more of a mixture than some of your peers here in Manchester in that.
+> Ingy: Yeah. 
 
-Having that backloight education, you will probably got abroad a spread of subjects and English students. For example I got to do more things for longer so I know some of my friends want on to do a levels instead of IB and they got three or four subjects max. And I think that like getting to do business and chemistry and like even continuing English It, let me to like develop different skills that I wouldn't have done it.
+Which was. Where was where was that? 
 
-I just done a levels because I've done a levels, I would have just done mats physics and like chemistry probably but I think what's even better was that like for the extended essay? It's a 4000 word essay So you learn how to cite, you learn how to do research.
+> Ingy: So I technically did two 
 
-So it prepared me for like essay writing that I didn't get to do in uni until later on. Also, like Because of other subjects, I learnt how to do stuff last minute. You mean prioritise demanding work? Yeah. Because we had exams every week and coursework do every week. So you you learn how to prioritise stuff and you learn what was worth spending weeks over and what was worth spending a day over and I think For me, I stressed more in high school than I did over uni because I I went in knowing it's not worth.
+Right in this in where they online they were.
 
-Taking everything with equal importance. Like some stuff is more important than others and you need to learn what's more important to not. Diagrams. No, I'm not waste time on stuff. That's kind of Not going to get the results that you want, I guess exactly. Like there's always a choice work that's hard and you know you're not going to get like insanely high marks on it.
+> Ingy: Yeah, they were both remote. So I worked part-time with imago [imago.cs.manchester.ac.uk](https://imago.cs.manchester.ac.uk/)
 
-So it's not worth spending weeks trying to do it when you know, you're not going to get it. I mean, I can remember one specifically that I was like, everyone was trying to do this Haskell, like coursework and I just, I looked at it and I was like, I know I can't get higher than a five But getting the five marks out of 10 was Relatively easy compared to getting the other five marks.
+The student software company. 
 
-So just go here or Haskell or high school, I know here. So it was like it was PLP I think right and Um, it was like a 10 more coursework, and there's like, five extension marks and then five that you could get by doing look fancy programming or just brute force, right?
+> Ingy: Yeah, that's run like through the University of Manchester, and I worked part-time during first year. Throughout I think second semester and then over the summer, I did a summer internship. Yeah, and then during the summer, first year, I worked in this company called IN3. It's Egyptian, based, I was based in Egypt, and it's a machine learning company. So I worked on NLP ([Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)) tasks and basically, creating a system that finds the sentiment that people have towards companies through twitter. Then I was also doing an 
 
-You could the treatment? Yeah, yeah. And a lot of people spent weeks on it only to get five marks and I I just did the five marks and I was like, I'm okay with this. It's only 5% of my grade like I have other stuff to do. Yeah, yeah.
+This is pre-twitter meltdown? When will the APIs were still open and you get the day to you?  Ingy: Before we were actually face-to-face in person or this was online again? 
 
-Okay good. So you arrived here in 2020 what? They'll be right? You would, yeah, because she was in 2020. So we've just coming out lockdown, I guess. I think you said, I'm gonna be saying a high school was I didn't have graduation a high school because it wasn't, you know, yeah, I got my degree and they're like, congrats smells like I thanks but So the graduation you have next month.
-
-Yeah, we'll be the first graduation that you have. I'm very excited to finally graduate. And so you're right here in 2017 we're just coming out. Well, we just started starting lockdown 2020 so that must have been tough. So, Um, What how, what happened in your first year? How did your first year ago?
-
-I the uni kept saying, we're gonna do hybrid, or we're gonna do stuff in person. And then, I think I came The technically two weeks before you supposed to start or something like that. And I came to pick up my BRP like ID and whatever and PLP is Biometric.
-
-Something Residents. President's permit permit? Yeah, it's like your visa. Yes. Yeah, but on a card for some reason because they want you to lose it. But the problem is, if you don't pick it up within a month of it being issued, you have to be apply for the whole visa, right?
-
-So a lot of people in COVID would come pick it up and leave and that's what I ended up doing because the day I was in the airport like, as my flight was taking off to go back home. You came out into lockdown, right? And it stays on lockdown, for like three months, a goalie, right?
-
-Was like that Tuesday or something afternoon when they were like we're going until lockdown and There was no like it's not like what we're going to lock down like in the week. It was like tomorrow. You can't leave. Yeah. Um, and i'm so glad that we got to that flight because My sister wanted to stay.
-
-Right. Um, But, Yeah. And then I didn't come back until second year And then it was really weird because I don't only see Manchester empty and then you come in second year and it's still kind of It's not what it is. Now We're coming out a lockdown. Yeah, sort of yeah.
-
-Um, I'm, i guess kind of Getting to know your student. Hello students was kind of a new thing. I mean, the nice thing was I feel like COVID brought our ear group closer. I don't know about other year groups, but are your group tried to like know people in first year?
-
-So there's a lot of people that I knew online. But I'd never met in person. Like, i either, we literally never even like, zoom called so, I don't know what they look like, or but you would have been tried to quite a lot on. But I guess this school Like discord.
-
-Yeah. Like they had the years, just one. Yeah. So you would have known people's names. Exactly. And maybe tune there like the avatar or whatever, but not really met them in person. Yeah. That's always a nice thing. When you kind of It when you've been interesting people online and then you finally get to meet them in person, It kind of weird too especially like If you've never seen them fully, then it's kind of like A new perspective.
-
-But then sometimes, even when you see people through zoom like, The video versus imperson like one time, I just, I kept looking at this person. Sounds like, I, I know I've seen you before, but like this feels different. Well, you can't remember what you saw, recognise their face. Yeah, I'm sure I've met you somewhere before, but I can always was online was yeah, that's why it doesn't really add it, but it was, it was pretty honestly.
-
-I think it wasn't too bad a year considering The global pandemic. Yeah. I'm not not ideal by any means. Yeah, you I feel like I've only done two years of uni. Yeah, but Oh, it's better than a lot of other cases, You know, like I feel bad for the people who are in the second year during COVID because that's like Like the people who graduated during COVID, like that was harder in my opinion.
-
-Yeah, definitely. So, you had So we go back to 30, so you did your first. I think you apply for us somewhere internship during our first year, is that, right? Yeah. Which was. Where was where was that? So I technically did too Right in this in where they online they were.
-
-Yeah, they were both remote. So I worked part-time with Amago. Amigo. I'm really sure how it's said it goes. The student software company. Yeah. That's run like through UM, and I worked part-time during first year. Like throughout i think seconds semester. Um, and then over the summer, I did a summer internship.
-
-I'm ago, you're ago. Yeah, and then during the summer, first year, I worked in this company called Ian 3 in. It's Egyptian, based, I was based in Egypt, and it's like a machine learning company. So I work on like NLP tasks and basically, creating a system that finds the sentiment that people have towards companies through Twitter.
-
-Um, and then I was also doing an immigree Twitter amount down. Yeah, pretty Twitter. When will the APIs were still open and you get the day to you? Yeah. Yeah. Before we were actually face-to-face in person or this was online again. So even though Egypt was a bit more open than the UK, This was fully remote.
-
-Um, which was it wasn't too bad considering like Some people's internship got cancelled. But it was it was a really good learning experience. Like it was a lot to juggle both because I was working in technically two different times and sometimes I wasn't even in both. So like I would be in dey or something and Egypt is a few hours ahead and then the UK is a few hours behind.
+> Ingy: So even though Egypt was a bit more open than the UK, this was fully remote which was it wasn't too bad considering some people's internship got cancelled. But it was it was a really good learning experience. It was a lot to juggle both because I was working in technically two different time zones and sometimes I wasn't even in both. So I would be in Dubai or something and Egypt is a few hours ahead and then the UK is a few hours behind.
 
 So be like Working like weird hours but doing both, I learnt a lot. So for the iron31 it's the reason why I picked my third year project. And it's the reason I got NLP experience, so early on and then for the immigoan I learnt like how to deal with tough people and also like a lot of web developments of What is this barriers you faced in the job of working?
 

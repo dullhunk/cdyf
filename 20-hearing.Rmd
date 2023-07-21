@@ -307,7 +307,7 @@ Now that you are the VC, what would you change about the University of Mancheste
 
 ### One tune, one podcast, one book and one film {#otopof}
 
-We love our books, music, films and podcasts and make gratuitous references to them throughout *Coding your Future*. Critics say many of the playlists in chapter \@ref(enjoying) are clogged up with:
+We love our books, music, films and podcasts. This love is expressed in gratuitous popular culture references throughout *Coding your Future*. Critics say the musical playlists in chapter \@ref(enjoying) are clogged up with:
 
 * Lancashire boy bands, see section \@ref(lancashire)
 * [BritPop](https://en.wikipedia.org/wiki/Britpop) and Dad-Rock, see section \@ref(dadrock) [@dadrock]
@@ -352,7 +352,7 @@ Let's leave the last words on podcasting to *[The Buggles](https://en.wikipedia.
 knitr::include_graphics("images/Everything-I-had-to-know-I-heard-it-on-my-radio.jpeg")
 ```
 
-(ref:captiongaga) All we hear is [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga) but everything I had to know, I heard it on my radio. [@radiogaga] So don't become some background noise, a backdrop to the girls and boys, who just don't know and just don't care and just complain when you're not there.
+(ref:captiongaga) All we hear is [Radio Ga Ga](https://en.wikipedia.org/wiki/Radio_Ga_Ga) but everything I had to know, I heard it on my radio. So don't become some background noise, a backdrop to the girls and boys, who just don't know and just don't care and just complain when you're not there. [@radiogaga]
 
 I'd sit alone and watch your light, my only friend through teenage nights... [@radiogaga]
 
@@ -365,6 +365,8 @@ In *Hearing your Future*, you can listen to students about how they are Coding t
 
 ### Thanks Jez {#jez}
 This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏
+
+This podcast has borrowed ideas from the BBC. If it were broadcast on Radio 4, it would be a cross between *Desert Island Discs* and *The Life Scientific*. [@thelifescientific] Thanks to Jim Al-Khalili, Lauren Laverne, Sue Lawley, Kirsty Young, Michael Parkinson and Roy Plumley for the inspiration. [@desertislandddiscs]
 
 ```{r jez-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionjez)", dev='png'}
 knitr::include_url('https://www.podomatic.com/podcasts/cs-engagement')
