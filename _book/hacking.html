@@ -1,45 +1,65 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students</title>
-<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 25 July, 2023">
-<meta name="description" content="It’s all too easy to overlook mistakes in your own writing because its difficult to be both an author and an editor of the same text. That’s true of any written communication such as a covering...">
-<meta name="generator" content="bookdown 0.33 with bs4_book()">
-<meta property="og:title" content="Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students">
-<meta property="og:type" content="book">
-<meta property="og:url" content="https://www.cdyf.me/hacking">
-<meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
-<meta property="og:description" content="It’s all too easy to overlook mistakes in your own writing because its difficult to be both an author and an editor of the same text. That’s true of any written communication such as a covering...">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students">
-<meta name="twitter:site" content="@dullhunk">
-<meta name="twitter:description" content="It’s all too easy to overlook mistakes in your own writing because its difficult to be both an author and an editor of the same text. That’s true of any written communication such as a covering...">
-<meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><link href="libs/vembedr-0.1.5/css/vembedr.css" rel="stylesheet">
-<script defer data-domain="cdyf.me" src="https://plausible.io/js/script.outbound-links.js"></script><!--script src="https://platform.twitter.com/widgets.js"></script--><link rel="shortcut icon" href="favicon.ico">
-<meta property="og:title" content="Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.cdyf.me/">
-<meta property="og:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
-<meta name="author" content="Duncan Hull and Bryan Mathers">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:creator" content="@dullhunk">
-<meta name="twitter:title" content="Coding Your Future: a Guidebook for Students">
-<meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
-<!-- same again for LinkedIn--><meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
-<meta name="twitter:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students</title>
+
+    <meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 26 July, 2023" />
+  
+   <meta name="description" content="Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You’ll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future." />
+   <meta name="generator" content="placeholder" />
+  <meta property="og:title" content="Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://www.cdyf.me/" />
+  <meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png" />
+  <meta property="og:description" content="Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You’ll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future." />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students" />
+  <meta name="twitter:site" content="@dullhunk" />
+  <meta name="twitter:description" content="Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You’ll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future." />
+  <meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png" />
+  <!-- JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script>
+    <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet" />
+    <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script>
+    <script src="libs/bs3compat-0.4.2/transition.js"></script>
+    <script src="libs/bs3compat-0.4.2/tabs.js"></script>
+    <script src="libs/bs3compat-0.4.2/bs3compat.js"></script>
+    <link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet" />
+    <script src="libs/bs4_book-1.0.0/bs4_book.js"></script>
+    <link href="libs/vembedr-0.1.5/css/vembedr.css" rel="stylesheet" />
+    <script defer data-domain="cdyf.me" src="https://plausible.io/js/script.outbound-links.js"></script>
+    <!--script src="https://platform.twitter.com/widgets.js"></script-->
+    <link rel="shortcut icon" href="favicon.ico" />
+    <meta property="og:title" content="Chapter 9 Hacking your future | Coding Your Future: A Guidebook for Students" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.cdyf.me/" />
+    <meta property="og:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png" />
+    <meta name="author" content="Duncan Hull and Bryan Mathers">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@dullhunk">
+    <meta name="twitter:title" content="Coding Your Future: a Guidebook for Students">
+    <meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
+    <!-- same again for LinkedIn-->
+    <meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
+    <meta name="twitter:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script>
+
+  <!-- CSS -->
+  <style type="text/css">
     
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   </style>
-<style type="text/css">
+    <style type="text/css">
     /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
     div.csl-bib-body { }
     div.csl-entry {
@@ -61,16 +81,19 @@
       margin-left: 2em;
     }
   </style>
+    
 </head>
+
 <body data-spy="scroll" data-target="#toc">
 
 <div class="container-fluid">
 <div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book">
+    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 
     <div class="d-flex align-items-start justify-content-between">
       <h1>
-        <a href="https://www.cdyf.me" title="">Coding Your Future: A Guidebook for Students</a>
+        <a href="index.html" title="">Coding Your Future: A Guidebook for Students</a>
       </h1>
       <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
     </div>
@@ -78,233 +101,166 @@
     <div id="main-nav" class="collapse-lg">
       <form role="search">
         <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
+      </form>
 
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="https://www.cdyf.me">Welcome to your future</a></li>
-<li class="book-part">DESIGNING YOUR FUTURE</li>
-<li><a class="" href="rebooting"><span class="header-section-number">1</span> Rebooting your future</a></li>
-<li><a class="" href="exploring"><span class="header-section-number">2</span> Exploring your future</a></li>
-<li><a class="" href="nurturing"><span class="header-section-number">3</span> Nurturing your future</a></li>
-<li><a class="" href="writing"><span class="header-section-number">4</span> Writing your future</a></li>
-<li><a class="" href="experiencing"><span class="header-section-number">5</span> Experiencing your future</a></li>
-<li><a class="" href="choosing"><span class="header-section-number">6</span> Choosing your future</a></li>
-<li><a class="" href="computing"><span class="header-section-number">7</span> Computing your future</a></li>
-<li class="book-part">TESTING YOUR FUTURE</li>
-<li><a class="" href="debugging"><span class="header-section-number">8</span> Debugging your future</a></li>
-<li><a class="active" href="hacking"><span class="header-section-number">9</span> Hacking your future</a></li>
-<li><a class="" href="actioning"><span class="header-section-number">10</span> Actioning your future</a></li>
-<li><a class="" href="finding"><span class="header-section-number">11</span> Finding your future</a></li>
-<li><a class="" href="moving"><span class="header-section-number">12</span> Moving your future</a></li>
-<li><a class="" href="speaking"><span class="header-section-number">13</span> Speaking your future</a></li>
-<li class="book-part">BUILDING YOUR FUTURE</li>
-<li><a class="" href="organising"><span class="header-section-number">14</span> Organising your future</a></li>
-<li><a class="" href="researching"><span class="header-section-number">15</span> Researching your future</a></li>
-<li><a class="" href="enjoying"><span class="header-section-number">16</span> Enjoying your future</a></li>
-<li class="book-part">DEPLOYING YOUR FUTURE</li>
-<li><a class="" href="starting"><span class="header-section-number">17</span> Starting your future</a></li>
-<li><a class="" href="achieving"><span class="header-section-number">18</span> Achieving your future</a></li>
-<li><a class="" href="ruling"><span class="header-section-number">19</span> Ruling your future</a></li>
-<li class="book-part">CODING YOUR FUTURE</li>
-<li><a class="" href="hearing"><span class="header-section-number">20</span> Hearing your future</a></li>
-<li><a class="" href="amish"><span class="header-section-number">21</span> Amish’s story</a></li>
-<li><a class="" href="pedro"><span class="header-section-number">22</span> Pedro’s story</a></li>
-<li><a class="" href="nadine"><span class="header-section-number">23</span> Nadine’s story</a></li>
-<li><a class="" href="ingy"><span class="header-section-number">24</span> Ingy’s story</a></li>
-<li><a class="" href="ivo"><span class="header-section-number">25</span> Ivo’s story</a></li>
-<li><a class="" href="jonathan"><span class="header-section-number">26</span> Jonathan’s story</a></li>
-<li><a class="" href="alice"><span class="header-section-number">27</span> Alice’s story</a></li>
-<li><a class="" href="sneha"><span class="header-section-number">28</span> Sneha’s story</a></li>
-<li><a class="" href="carmen"><span class="header-section-number">29</span> Carmen’s story</a></li>
-<li><a class="" href="brian"><span class="header-section-number">30</span> Brian’s story</a></li>
-<li><a class="" href="jason"><span class="header-section-number">31</span> Jason’s story</a></li>
-<li><a class="" href="raluca"><span class="header-section-number">32</span> Raluca’s story</a></li>
-<li><a class="" href="reading"><span class="header-section-number">33</span> Reading your future</a></li>
-</ul>
+      <nav aria-label="Table of contents">
+        <h2>Table of contents</h2>
+        <div id="book-toc"></div>
 
         <div class="book-extra">
-          <p><a id="book-repo" href="https://github.com/dullhunk/cdyf">View book source <i class="fab fa-github"></i></a></p>
+          <p><a id="book-repo" href="#">View book source <i class="fab fa-github"></i></a></li></p>
         </div>
       </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="hacking" class="section level1" number="9">
-<h1>
-<span class="header-section-number">9</span> Hacking your future<a class="anchor" aria-label="anchor" href="#hacking"><i class="fas fa-link"></i></a>
-</h1>
-<p>It’s all too easy to overlook mistakes in your own writing because its difficult to be both an <em>author</em> and an <em>editor</em> of the same text. That’s true of any written communication such as a covering letter, personal statement, email, essay or any message that you write. Mistakes are particularly common in CVs (or résumés) because they are so personal. You can spend <em>hours</em> carefully polishing the words and the formatting but not see a fatal error at the top of page one. Hacking<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;The term &lt;a href="https://en.wikipedia.org/wiki/Hacker_(disambiguation)"&gt;hacking&lt;/a&gt; is a horribly overloaded word with many different meanings, but I’m using it here to mean an “ingenious temporary solution to a problem”&lt;/p&gt;'><sup>21</sup></a> other people’s CV’s will help you debug and improve your own. You may need to use ingenious hacks like the temporary fix to the bridge in figure <a href="hacking#fig:kludge-fig">9.1</a>. Fixing other peoples bridges will help you improve your own bridge, see section <a href="https://www.cdyf.me#parti">0.5.1</a>. You’ll build better bridges to more interesting and ambitious destinations.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:kludge-fig"></span>
-<img src="images/bridge-kludge-hack.png" alt="Your CV is a bridge which enables you to cross from where you are now to where you’d like to be in the future. Like the bridge in this picture, the CV’s in this chapter are all faulty in some way, can you fix them? You may need to use ingenious hacks and kludges like the one shown here on the Million Dollar Bridge in Alaska . Public domain image of kludgy repairs adapted from an original by Jet Lowe on Wikimedia Commons w.wiki/3Uvn" width="100%"><p class="caption">
+    </div>
+  </header>
+
+  <main class="col-sm-12 col-md-9 col-lg-7" id="content">
+<div id="hacking" class="section level1" number="9">
+<h1><span class="header-section-number">Chapter 9</span> Hacking your future</h1>
+<p>It’s all too easy to overlook mistakes in your own writing because its difficult to be both an <em>author</em> and an <em>editor</em> of the same text. That’s true of any written communication such as a covering letter, personal statement, email, essay or any message that you write. Mistakes are particularly common in CVs (or résumés) because they are so personal. You can spend <em>hours</em> carefully polishing the words and the formatting but not see a fatal error at the top of page one. Hacking<a href="#fn21" class="footnote-ref" id="fnref21"><sup>21</sup></a> other people’s CV’s will help you debug and improve your own. You may need to use ingenious hacks like the temporary fix to the bridge in figure <a href="hacking.html#fig:kludge-fig">9.1</a>. Fixing other peoples bridges will help you improve your own bridge, see section <a href="index.html#parti">0.5.1</a>. You’ll build better bridges to more interesting and ambitious destinations.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:kludge-fig"></span>
+<img src="images/bridge-kludge-hack.png" alt="Your CV is a bridge which enables you to cross from where you are now to where you’d like to be in the future. Like the bridge in this picture, the CV’s in this chapter are all faulty in some way, can you fix them? You may need to use ingenious hacks and kludges like the one shown here on the Million Dollar Bridge in Alaska . Public domain image of kludgy repairs adapted from an original by Jet Lowe on Wikimedia Commons w.wiki/3Uvn" width="100%" />
+<p class="caption">
 Figure 9.1: Your CV is a bridge which enables you to cross from where you are now to where you’d like to be in the future. Like the bridge in this picture, the CV’s in this chapter are all faulty in some way, can you fix them? You may need to use ingenious hacks and <a href="https://en.wikipedia.org/wiki/Kludge">kludges</a> like the one shown here on the <a href="https://en.wikipedia.org/wiki/Miles_Glacier_Bridge">Million Dollar Bridge</a> in Alaska . Public domain image of kludgy repairs adapted from an original by <a href="https://en.wikipedia.org/wiki/Jet_Lowe">Jet Lowe</a> on Wikimedia Commons <a href="https://w.wiki/3Uvn">w.wiki/3Uvn</a>
 </p>
 </div>
 
 <p>Your future is bright, your future needs hacking, so let’s start hacking your future.</p>
 <div id="cvs" class="section level2" number="9.1">
-<h2>
-<span class="header-section-number">9.1</span> Hacking their futures<a class="anchor" aria-label="anchor" href="#cvs"><i class="fas fa-link"></i></a>
-</h2>
-<p>Hacking other people’s code is a good way to learn how to code. Hacking other people’s CV’s is a good way to learn how to write better CVs too. The dogfooding technique described in section <a href="writing#dogfooding">4.6.1</a> is a useful hack which you can use by:</p>
+<h2><span class="header-section-number">9.1</span> Hacking their futures</h2>
+<p>Hacking other people’s code is a good way to learn how to code. Hacking other people’s CV’s is a good way to learn how to write better CVs too. The dogfooding technique described in section <a href="writing.html#dogfooding">4.6.1</a> is a useful hack which you can use by:</p>
 <ol style="list-style-type: decimal">
-<li>Eating your <em>own</em> dogfood by reading your own written work ALOUD <!--self assess using the rubric-->
-</li>
+<li>Eating your <em>own</em> dogfood by reading your own written work ALOUD <!--self assess using the rubric--></li>
 <li>Eating <em>somebody elses</em> dogfood by:
 <ul>
 <li>Hacking a friends or peers CV by swapping with them and giving them constructive feedback</li>
-<li>Hacking the fictitious CVs below by ranking them against a job advert in section <a href="hacking#cooltech">9.4</a>. Who would you want to interview and why?</li>
-</ul>
-</li>
+<li>Hacking the fictitious CVs below by ranking them against a job advert in section <a href="hacking.html#cooltech">9.4</a>. Who would you want to interview and why?</li>
+</ul></li>
 <li>Eating your own dogfood again, re-reading and re-editing repeatedly</li>
-<li>Persuade someone else to eat your dogfood - get feedback from as many people (and bots see section <a href="debugging#robotproof">8.7.7</a>) as you can</li>
+<li>Persuade someone else to eat your dogfood - get feedback from as many people (and bots see section <a href="debugging.html#robotproof">8.7.7</a>) as you can</li>
 </ol>
-<p>So, here are some fictitious CVs for you to hack, from students of Computer Science. They are based on CVs I’ve seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can fix their CVs and work out which candidate is best for the sample job description at CoolTech in section <a href="hacking#cooltech">9.4</a>? Can you hack their future?</p>
-<p>Special thanks to <a href="https://en.wikipedia.org/wiki/Toby_Howard">Toby Howard</a> and <a href="https://personalpages.manchester.ac.uk/staff/sean.bechhofer/">Sean Bechhofer</a> for coming up with some of these silly fictional names for the late arrivals at the Computer Science ball. <span class="citation">(<a href="reading#ref-isihac">Lyttelton, Cryer, and Dee 1972</a>)</span> Please direct any complaints about the terribly geeky puns and in-jokes to Toby and Sean! Can you spot all the bad jokes? Thanks also Ben Carter and Penny Gordon Lanes in the careers service at the University of Manchester, some of these CVs are based on examples they have collected and anonymised. 🙏</p>
+<p>So, here are some fictitious CVs for you to hack, from students of Computer Science. They are based on CVs I’ve seen, warts and all, with personal information removed and anonymised. Can you spot their triumphs and tragedies? Can fix their CVs and work out which candidate is best for the sample job description at CoolTech in section <a href="hacking.html#cooltech">9.4</a>? Can you hack their future?</p>
+<p>Special thanks to <a href="https://en.wikipedia.org/wiki/Toby_Howard">Toby Howard</a> and <a href="https://personalpages.manchester.ac.uk/staff/sean.bechhofer/">Sean Bechhofer</a> for coming up with some of these silly fictional names for the late arrivals at the Computer Science ball. <span class="citation">(<a href="reading.html#ref-isihac">Lyttelton, Cryer, and Dee 1972</a>)</span> Please direct any complaints about the terribly geeky puns and in-jokes to Toby and Sean! Can you spot all the bad jokes? Thanks also Ben Carter and Penny Gordon Lanes in the careers service at the University of Manchester, some of these CVs are based on examples they have collected and anonymised. 🙏</p>
 </div>
 <div id="breakpoints" class="section level2" number="9.2">
-<h2>
-<span class="header-section-number">9.2</span> Breakpoints<a class="anchor" aria-label="anchor" href="#breakpoints"><i class="fas fa-link"></i></a>
-</h2>
+<h2><span class="header-section-number">9.2</span> Breakpoints</h2>
 <p>Let’s pause here. Insert a <a href="https://en.wikipedia.org/wiki/Breakpoint">breakpoint</a> in your <code>code</code> and slowly step through it so we can examine the current values of your variables and parameters.</p>
-<div class="sourceCode" id="cb34"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb34-1"><a href="hacking#cb34-1" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
+<div class="sourceCode" id="cb34"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb34-1"><a href="hacking.html#cb34-1" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
 <p>When you read these CVs make a note of:</p>
 <ol style="list-style-type: decimal">
-<li>
-<strong>What Went Well?</strong> (<code>WWW</code>) What do you like about any given CV, what have they done well?</li>
-<li>
-<strong>Even Better If?</strong> (<code>EBI</code>) What could be fixed or improved, can you hack it?</li>
-<li>
-<strong>Their Rank order</strong> (<code>1,2,3...</code>) Who is top of your list to interview? Who is going in the bin and why?</li>
+<li><strong>What Went Well?</strong> (<code>WWW</code>) What do you like about any given CV, what have they done well?</li>
+<li><strong>Even Better If?</strong> (<code>EBI</code>) What could be fixed or improved, can you hack it?</li>
+<li><strong>Their Rank order</strong> (<code>1,2,3...</code>) Who is top of your list to interview? Who is going in the bin and why?</li>
 </ol>
-<div class="sourceCode" id="cb35"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb35-1"><a href="hacking#cb35-1" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
+<div class="sourceCode" id="cb35"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb35-1"><a href="hacking.html#cb35-1" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
 <!-- also use the CV rubric and CV checklist-->
 <p>Imagine the person is real, what would you tell them about their CV if they’d given it to you for advice without hurting their feelings? How could you be a critical friend by giving them actionable feedback?</p>
 </div>
 <div id="sample-cvs" class="section level2" number="9.3">
-<h2>
-<span class="header-section-number">9.3</span> Sample CVs<a class="anchor" aria-label="anchor" href="#sample-cvs"><i class="fas fa-link"></i></a>
-</h2>
+<h2><span class="header-section-number">9.3</span> Sample CVs</h2>
 <p>Hacking other people’s CVs will help you improve your own because you’re putting yourself in the shoes of your reader. Here are some samples:</p>
 <div id="pen-tester" class="section level3" number="9.3.1">
-<h3>
-<span class="header-section-number">9.3.1</span> Penelope Tester<a class="anchor" aria-label="anchor" href="#pen-tester"><i class="fas fa-link"></i></a>
-</h3>
-<p>Penelope Tester, or Pen as her friends call her, loves cybersecurity and <a href="https://en.wikipedia.org/wiki/Reverse_engineering">reverse engineering</a>. She has a real passion for finding vulnerabilities in software and hardware. Just don’t call her a hacker she dislikes that word, see figure <a href="hacking#fig:pentester-fig">9.2</a>.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:pentester-fig"></span>
-<img src="images/pen_tester.png" alt="Penelope Tester’s full CV can be viewed at cdyf.me/Penelope_Tester.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.1</span> Penelope Tester</h3>
+<p>Penelope Tester, or Pen as her friends call her, loves cybersecurity and <a href="https://en.wikipedia.org/wiki/Reverse_engineering">reverse engineering</a>. She has a real passion for finding vulnerabilities in software and hardware. Just don’t call her a hacker she dislikes that word, see figure <a href="hacking.html#fig:pentester-fig">9.2</a>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:pentester-fig"></span>
+<img src="images/pen_tester.png" alt="Penelope Tester’s full CV can be viewed at cdyf.me/Penelope_Tester.pdf" width="100%" />
+<p class="caption">
 Figure 9.2: Penelope Tester’s full CV can be viewed at <a href="https://www.cdyf.me/Penelope_Tester.pdf">cdyf.me/Penelope_Tester.pdf</a>
 </p>
 </div>
 
 </div>
 <div id="rick-urshion" class="section level3" number="9.3.2">
-<h3>
-<span class="header-section-number">9.3.2</span> Rick Urshion<a class="anchor" aria-label="anchor" href="#rick-urshion"><i class="fas fa-link"></i></a>
-</h3>
-<p>Rick is a big fan of <a href="https://en.wikipedia.org/wiki/Functional_programming">functional programming</a> and loves solving problems with languages like <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>, <a href="https://en.wikipedia.org/wiki/Haskell">Haskell</a>, <a href="https://en.wikipedia.org/wiki/Clojure">Clojure</a>, <a href="https://en.wikipedia.org/wiki/Erlang_(programming_language)">Erlang</a> and <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)">Scala</a>. He really doesn’t like side-effects but tries to avoid getting into a state about it. Critics say he can be inefficient but Rick insists he’s just lazy, see figure <a href="hacking#fig:rickurshion-fig">9.3</a>. Rick’s father and grandfather were also called Rick, and his great-grandfather was too. You’ll never guess what Rick and his partner are going to call their son…</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:rickurshion-fig"></span>
-<img src="images/rick_urshion.png" alt="Rick Urshion’s full CV can be viewed at cdyf.me/Rick_Urshion.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.2</span> Rick Urshion</h3>
+<p>Rick is a big fan of <a href="https://en.wikipedia.org/wiki/Functional_programming">functional programming</a> and loves solving problems with languages like <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>, <a href="https://en.wikipedia.org/wiki/Haskell">Haskell</a>, <a href="https://en.wikipedia.org/wiki/Clojure">Clojure</a>, <a href="https://en.wikipedia.org/wiki/Erlang_(programming_language)">Erlang</a> and <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)">Scala</a>. He really doesn’t like side-effects but tries to avoid getting into a state about it. Critics say he can be inefficient but Rick insists he’s just lazy, see figure <a href="hacking.html#fig:rickurshion-fig">9.3</a>. Rick’s father and grandfather were also called Rick, and his great-grandfather was too. You’ll never guess what Rick and his partner are going to call their son…</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:rickurshion-fig"></span>
+<img src="images/rick_urshion.png" alt="Rick Urshion’s full CV can be viewed at cdyf.me/Rick_Urshion.pdf" width="100%" />
+<p class="caption">
 Figure 9.3: Rick Urshion’s full CV can be viewed at <a href="https://www.cdyf.me/Rick_Urshion.pdf">cdyf.me/Rick_Urshion.pdf</a>
 </p>
 </div>
 
 </div>
 <div id="marge-conflict" class="section level3" number="9.3.3">
-<h3>
-<span class="header-section-number">9.3.3</span> Marge Conflict<a class="anchor" aria-label="anchor" href="#marge-conflict"><i class="fas fa-link"></i></a>
-</h3>
-<p>Marjorie loves version control because Marge is the master of the merge. She also has very high <a href="https://en.wikipedia.org/wiki/Emotional_intelligence">emotional intelligence</a> (EQ). This superpower enables her to recognise emotions in herself and others so that she can quickly resolve people’s differences, see figure <a href="hacking#fig:margeconflict-fig">9.4</a>.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:margeconflict-fig"></span>
-<img src="images/marge_conflict.png" alt="Marge Conflict’s full CV can be viewed at cdyf.me/Marge_Conflict.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.3</span> Marge Conflict</h3>
+<p>Marjorie loves version control because Marge is the master of the merge. She also has very high <a href="https://en.wikipedia.org/wiki/Emotional_intelligence">emotional intelligence</a> (EQ). This superpower enables her to recognise emotions in herself and others so that she can quickly resolve people’s differences, see figure <a href="hacking.html#fig:margeconflict-fig">9.4</a>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:margeconflict-fig"></span>
+<img src="images/marge_conflict.png" alt="Marge Conflict’s full CV can be viewed at cdyf.me/Marge_Conflict.pdf" width="100%" />
+<p class="caption">
 Figure 9.4: Marge Conflict’s full CV can be viewed at <a href="https://www.cdyf.me/Marge_Conflict.pdf">cdyf.me/Marge_Conflict.pdf</a>
 </p>
 </div>
 
-<p>Resolving people’s differences is an important skill, not just for <code>git merge</code> shown in figure <a href="hacking#fig:git-merge-fig">9.5</a>, but any kind of team collaboration where some kind of conflict is inevitable.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:git-merge-fig"></span>
-<img src="images/git-merge-giphy.gif" alt="Sometimes git merge can get messy, but Marge Conflict can handle it. Meme from giphy.com" width="100%"><p class="caption">
+<p>Resolving people’s differences is an important skill, not just for <code>git merge</code> shown in figure <a href="hacking.html#fig:git-merge-fig">9.5</a>, but any kind of team collaboration where some kind of conflict is inevitable.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:git-merge-fig"></span>
+<img src="images/git-merge-giphy.gif" alt="Sometimes git merge can get messy, but Marge Conflict can handle it. Meme from giphy.com" width="100%" />
+<p class="caption">
 Figure 9.5: Sometimes <a href="https://git-scm.com/docs/git-merge">git merge</a> can get messy, but Marge Conflict can handle it. Meme from <a href="https://giphy.com/">giphy.com</a>
 </p>
 </div>
 
 </div>
 <div id="mike-rokernel" class="section level3" number="9.3.4">
-<h3>
-<span class="header-section-number">9.3.4</span> Michael Rokernel<a class="anchor" aria-label="anchor" href="#mike-rokernel"><i class="fas fa-link"></i></a>
-</h3>
-<p>Mike lives in Los Angeles and loves operating systems, but not if they get too bloated, see figure <a href="hacking#fig:mikrokernel-fig">9.6</a>.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:mikrokernel-fig"></span>
-<img src="images/mike_rokernel_usa.png" alt="Mike Rokernel’s full CV can be viewed at cdyf.me/Mike_Rokernel.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.4</span> Michael Rokernel</h3>
+<p>Mike lives in Los Angeles and loves operating systems, but not if they get too bloated, see figure <a href="hacking.html#fig:mikrokernel-fig">9.6</a>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:mikrokernel-fig"></span>
+<img src="images/mike_rokernel_usa.png" alt="Mike Rokernel’s full CV can be viewed at cdyf.me/Mike_Rokernel.pdf" width="100%" />
+<p class="caption">
 Figure 9.6: Mike Rokernel’s full CV can be viewed at <a href="https://www.cdyf.me/Mike_Rokernel.pdf">cdyf.me/Mike_Rokernel.pdf</a>
 </p>
 </div>
 
 </div>
 <div id="flo-ting-point" class="section level3" number="9.3.5">
-<h3>
-<span class="header-section-number">9.3.5</span> Florence Ting-Point<a class="anchor" aria-label="anchor" href="#flo-ting-point"><i class="fas fa-link"></i></a>
-</h3>
-<p>Flo loves maths and is a particularly big fan of <a href="https://en.wikipedia.org/wiki/Floating-point_arithmetic">floating-point arithmetic</a>, see figure <a href="hacking#fig:floatingpoint-fig">9.7</a>.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:floatingpoint-fig"></span>
-<img src="images/flo_ting_point.png" alt="Flo Ting-Point’s full CV can be viewed at cdyf.me/Flo_Ting-Point.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.5</span> Florence Ting-Point</h3>
+<p>Flo loves maths and is a particularly big fan of <a href="https://en.wikipedia.org/wiki/Floating-point_arithmetic">floating-point arithmetic</a>, see figure <a href="hacking.html#fig:floatingpoint-fig">9.7</a>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:floatingpoint-fig"></span>
+<img src="images/flo_ting_point.png" alt="Flo Ting-Point’s full CV can be viewed at cdyf.me/Flo_Ting-Point.pdf" width="100%" />
+<p class="caption">
 Figure 9.7: Flo Ting-Point’s full CV can be viewed at <a href="https://www.cdyf.me/Flo_Ting-Point.pdf">cdyf.me/Flo_Ting-Point.pdf</a>
 </p>
 </div>
 
 </div>
 <div id="peter-byte" class="section level3" number="9.3.6">
-<h3>
-<span class="header-section-number">9.3.6</span> Peter Byte<a class="anchor" aria-label="anchor" href="#peter-byte"><i class="fas fa-link"></i></a>
-</h3>
-<p>Peter Byte and his <a href="https://en.wikipedia.org/wiki/Peta_(given_name)">twin sister Peta Byte</a>, both <em>love</em> big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with eleven other siblings including <a href="https://en.wikipedia.org/wiki/Deca-">Deca</a>, <a href="https://en.wikipedia.org/wiki/Hecto-">Hector</a>, <a href="https://en.wikipedia.org/wiki/Kilo-">Kilo</a>, <a href="https://en.wikipedia.org/wiki/Mega-">Megan</a>, <a href="https://en.wikipedia.org/wiki/Giga-">Giga</a>, <a href="https://en.wikipedia.org/wiki/Tera-">Terry</a>, <a href="https://en.wikipedia.org/wiki/Exa-">Exa</a>, <a href="https://en.wikipedia.org/wiki/Zetta-">Zita</a>, <a href="https://en.wiktionary.org/wiki/yottabyte">Yotta</a>, <a href="https://en.wiktionary.org/wiki/ronnabyte">Rona</a> and <a href="https://en.wikipedia.org/wiki/Quetta-">Quetta</a>. The byte family are highly trained<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;Using supervised and unsupervised methods&lt;/p&gt;"><sup>22</sup></a> and wildly ambitious, <span class="citation">(<a href="reading#ref-stateofai">Benaich and Hogarth 2022</a>)</span> but critics say they have been terribly over-hyped, see figure <a href="hacking#fig:peterbyte-fig">9.8</a>.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:peterbyte-fig"></span>
-<img src="images/peter_byte.png" alt="Peter Byte’s full CV can be viewed at cdyf.me/Peter_Byte.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.6</span> Peter Byte</h3>
+<p>Peter Byte and his <a href="https://en.wikipedia.org/wiki/Peta_(given_name)">twin sister Peta Byte</a>, both <em>love</em> big data, machine learning, statistics, data science and Artificial Intelligence (AI). They come from a big family with eleven other siblings including <a href="https://en.wikipedia.org/wiki/Deca-">Deca</a>, <a href="https://en.wikipedia.org/wiki/Hecto-">Hector</a>, <a href="https://en.wikipedia.org/wiki/Kilo-">Kilo</a>, <a href="https://en.wikipedia.org/wiki/Mega-">Megan</a>, <a href="https://en.wikipedia.org/wiki/Giga-">Giga</a>, <a href="https://en.wikipedia.org/wiki/Tera-">Terry</a>, <a href="https://en.wikipedia.org/wiki/Exa-">Exa</a>, <a href="https://en.wikipedia.org/wiki/Zetta-">Zita</a>, <a href="https://en.wiktionary.org/wiki/yottabyte">Yotta</a>, <a href="https://en.wiktionary.org/wiki/ronnabyte">Rona</a> and <a href="https://en.wikipedia.org/wiki/Quetta-">Quetta</a>. The byte family are highly trained<a href="#fn22" class="footnote-ref" id="fnref22"><sup>22</sup></a> and wildly ambitious, <span class="citation">(<a href="reading.html#ref-stateofai">Benaich and Hogarth 2022</a>)</span> but critics say they have been terribly over-hyped, see figure <a href="hacking.html#fig:peterbyte-fig">9.8</a>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:peterbyte-fig"></span>
+<img src="images/peter_byte.png" alt="Peter Byte’s full CV can be viewed at cdyf.me/Peter_Byte.pdf" width="100%" />
+<p class="caption">
 Figure 9.8: Peter Byte’s full CV can be viewed at <a href="https://www.cdyf.me/Peter_Byte.pdf">cdyf.me/Peter_Byte.pdf</a>
 </p>
 </div>
 
 </div>
 <div id="polly-morphism" class="section level3" number="9.3.7">
-<h3>
-<span class="header-section-number">9.3.7</span> Polina Morphism<a class="anchor" aria-label="anchor" href="#polly-morphism"><i class="fas fa-link"></i></a>
-</h3>
-<p>Polly <em>loves</em> object-oriented programming. She has lots of siblings, and <a href="https://en.wikipedia.org/wiki/Isomorphism">a cousin called Isa</a>. Instead of a CV or résumé, Polly has put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure <a href="hacking#fig:polly-fig">9.9</a>.</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:polly-fig"></span>
-<img src="images/polly-morphism.png" alt="A pdf of Polina Morphism’s LinkedIn profile can be found at cdyf.me/Polly_Morphism.pdf, the original can be found at linkedin.com/in/pollymorphism (you may be asked to login to see her profile)" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.7</span> Polina Morphism</h3>
+<p>Polly <em>loves</em> object-oriented programming. She has lots of siblings, and <a href="https://en.wikipedia.org/wiki/Isomorphism">a cousin called Isa</a>. Instead of a CV or résumé, Polly has put some basic details on her LinkedIn profile which she primarily uses for professional social networking, see figure <a href="hacking.html#fig:polly-fig">9.9</a>.</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:polly-fig"></span>
+<img src="images/polly-morphism.png" alt="A pdf of Polina Morphism’s LinkedIn profile can be found at cdyf.me/Polly_Morphism.pdf, the original can be found at linkedin.com/in/pollymorphism (you may be asked to login to see her profile)" width="100%" />
+<p class="caption">
 Figure 9.9: A pdf of Polina Morphism’s LinkedIn profile can be found at <a href="https://www.cdyf.me/Polly_Morphism.pdf">cdyf.me/Polly_Morphism.pdf</a>, the original can be found at <a href="https://www.linkedin.com/in/pollymorphism/">linkedin.com/in/pollymorphism</a> (you may be asked to login to see her profile)
 </p>
 </div>
 
 </div>
 <div id="neil-pointer" class="section level3" number="9.3.8">
-<h3>
-<span class="header-section-number">9.3.8</span> Neil Pointer<a class="anchor" aria-label="anchor" href="#neil-pointer"><i class="fas fa-link"></i></a>
-</h3>
-<p>Neil is a mature student who loves the <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C programming language</a>, see figure <a href="hacking#fig:neilpointer-fig">9.10</a>. The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as twin sister Noelle, he also has <a href="https://en.wikipedia.org/wiki/The_Pointer_Sisters">three famous sisters</a>, <span class="citation">(<a href="reading#ref-imsoexcited">Pointer, Pointer, and Pointer 1984</a>)</span> and a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers <code>Java</code>. Noelle and Neil Pointer have seen many programming languages come and go, but their favourite will always be <code>C</code>. Like <code>C</code>, Neil and Noelle are children of the 1970s, easily “old enough to be your father” or (in Noelle’s case) your mother. Respect your elders! <span class="citation">(<a href="reading#ref-ritchie">Ritchie 1993</a>)</span></p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:neilpointer-fig"></span>
-<img src="images/neil_pointer.png" alt="Neil Pointer’s full CV can be viewed at cdyf.me/Neil_Pointer.pdf" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.8</span> Neil Pointer</h3>
+<p>Neil is a mature student who loves the <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C programming language</a>, see figure <a href="hacking.html#fig:neilpointer-fig">9.10</a>. The Pointer family are sometimes misunderstood, but Neil compensates for this with his excellent memory management skills and efficiency. As well as twin sister Noelle, he also has <a href="https://en.wikipedia.org/wiki/The_Pointer_Sisters">three famous sisters</a>, <span class="citation">(<a href="reading.html#ref-imsoexcited">Pointer, Pointer, and Pointer 1984</a>)</span> and a younger half-brother, Neil Pointer-Exception, from his fathers second marriage. Neil Pointer-Exception prefers <code>Java</code>. Noelle and Neil Pointer have seen many programming languages come and go, but their favourite will always be <code>C</code>. Like <code>C</code>, Neil and Noelle are children of the 1970s, easily “old enough to be your father” or (in Noelle’s case) your mother. Respect your elders! <span class="citation">(<a href="reading.html#ref-ritchie">Ritchie 1993</a>)</span></p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:neilpointer-fig"></span>
+<img src="images/neil_pointer.png" alt="Neil Pointer’s full CV can be viewed at cdyf.me/Neil_Pointer.pdf" width="100%" />
+<p class="caption">
 Figure 9.10: Neil Pointer’s full CV can be viewed at <a href="https://www.cdyf.me/Neil_Pointer.pdf">cdyf.me/Neil_Pointer.pdf</a>
 </p>
 </div>
 
 </div>
 <div id="bryn" class="section level3" number="9.3.9">
-<h3>
-<span class="header-section-number">9.3.9</span> Bryn Hanby-Roberts<a class="anchor" aria-label="anchor" href="#bryn"><i class="fas fa-link"></i></a>
-</h3>
-<p>The last CV is a real one. Bryn kindly gave his permission to share it with you, see figure <a href="hacking#fig:bryn-fig">9.11</a>. Bryn graduated in 2016, his CV is longer as he has five years of experience under his belt but it provides a useful counterpoint to the examples above. Thanks Bryn. 🙏</p>
-<div class="figure" style="text-align: center">
-<span style="display:block;" id="fig:bryn-fig"></span>
-<img src="images/bryn.png" alt="Bryn Hanby-Roberts full CV can be viewed at cdyf.me/bryn.pdf a snapshot taken in 2021 from bryn.co.uk" width="100%"><p class="caption">
+<h3><span class="header-section-number">9.3.9</span> Bryn Hanby-Roberts</h3>
+<p>The last CV is a real one. Bryn kindly gave his permission to share it with you, see figure <a href="hacking.html#fig:bryn-fig">9.11</a>. Bryn graduated in 2016, his CV is longer as he has five years of experience under his belt but it provides a useful counterpoint to the examples above. Thanks Bryn. 🙏</p>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:bryn-fig"></span>
+<img src="images/bryn.png" alt="Bryn Hanby-Roberts full CV can be viewed at cdyf.me/bryn.pdf a snapshot taken in 2021 from bryn.co.uk" width="100%" />
+<p class="caption">
 Figure 9.11: Bryn Hanby-Roberts full CV can be viewed at <a href="https://www.cdyf.me/bryn.pdf">cdyf.me/bryn.pdf</a> a snapshot taken in 2021 from <a href="http://bryn.co.uk">bryn.co.uk</a>
 </p>
 </div>
@@ -312,22 +268,18 @@ Figure 9.11: Bryn Hanby-Roberts full CV can be viewed at <a href="https://www.cd
 </div>
 </div>
 <div id="cooltech" class="section level2" number="9.4">
-<h2>
-<span class="header-section-number">9.4</span> Sample CoolTech Job advert<a class="anchor" aria-label="anchor" href="#cooltech"><i class="fas fa-link"></i></a>
-</h2>
+<h2><span class="header-section-number">9.4</span> Sample CoolTech Job advert</h2>
 <p>We’re looking for bright and geeky graduates to join our software engineering team. No experience is required, and many of our successful applicants have never programmed before. If you think logically and enjoy problem solving, then you have the potential to become a great developer.</p>
 <p>A career at CoolTech will challenge you every day. In your first few weeks you will be solving real-world problems as you help to develop software used by professionals across the world.</p>
 <p>You’ll be part of an agile development team, working on one of the largest real-time databases in the world. You’ll work on a wide variety of projects, ranging from Artificial Intelligence assisting clinicians with early diagnosis of cancer to an iOS app helping patients manage their diabetes.</p>
 <p>Developers at CoolTech are involved in the full software cycle, and work closely with all teams across the company to scope out new projects as they design, develop and deploy our products.</p>
 </div>
 <div id="tldr15" class="section level2" number="9.5">
-<h2>
-<span class="header-section-number">9.5</span> Summarising your hacks<a class="anchor" aria-label="anchor" href="#tldr15"><i class="fas fa-link"></i></a>
-</h2>
+<h2><span class="header-section-number">9.5</span> Summarising your hacks</h2>
 <p>Too long, didn’t read (<a href="https://en.wiktionary.org/wiki/too_long;_didn%27t_read">TL;DR</a>)? Here’s a summary:</p>
 <p>Your future is bright, your future needs hacking. Hacking your future will help you to test your future by debugging your own CV. Testing your future will help you to start coding your future.</p>
 <p>Reading other people’s code will help you write better code yourself. Reading other people’s CVs helps you write a better CV yourself. The more you read, the better you get. So, find a critical friend and do a CV swap: you’ll both benefit by putting yourself in the shoes of a recruiter.</p>
-<p>In the next part, chapter <a href="actioning#actioning">10</a>: <em>Actioning your Future</em> we’ll look one more debugging technique, paying attention to the <em>verbs</em> on your CV and what they say about you.</p>
+<p>In the next part, chapter <a href="actioning.html#actioning">10</a>: <em>Actioning your Future</em> we’ll look one more debugging technique, paying attention to the <em>verbs</em> on your CV and what they say about you.</p>
 <!-- suggestions from toby
 
 Alex Hacker
@@ -346,49 +298,37 @@ Ceaser Craplanguage-->
 
 </div>
 </div>
+<div class="footnotes">
+<hr />
+<ol start="21">
+<li id="fn21"><p>The term <a href="https://en.wikipedia.org/wiki/Hacker_(disambiguation)">hacking</a> is a horribly overloaded word with many different meanings, but I’m using it here to mean an “ingenious temporary solution to a problem”<a href="hacking.html#fnref21" class="footnote-back">↩︎</a></p></li>
+<li id="fn22"><p>Using supervised and unsupervised methods<a href="hacking.html#fnref22" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+  </main>
 
-  <div class="chapter-nav">
-<div class="prev"><a href="debugging"><span class="header-section-number">8</span> Debugging your future</a></div>
-<div class="next"><a href="actioning"><span class="header-section-number">10</span> Actioning your future</a></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#hacking"><span class="header-section-number">9</span> Hacking your future</a></li>
-<li><a class="nav-link" href="#cvs"><span class="header-section-number">9.1</span> Hacking their futures</a></li>
-<li><a class="nav-link" href="#breakpoints"><span class="header-section-number">9.2</span> Breakpoints</a></li>
-<li>
-<a class="nav-link" href="#sample-cvs"><span class="header-section-number">9.3</span> Sample CVs</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#pen-tester"><span class="header-section-number">9.3.1</span> Penelope Tester</a></li>
-<li><a class="nav-link" href="#rick-urshion"><span class="header-section-number">9.3.2</span> Rick Urshion</a></li>
-<li><a class="nav-link" href="#marge-conflict"><span class="header-section-number">9.3.3</span> Marge Conflict</a></li>
-<li><a class="nav-link" href="#mike-rokernel"><span class="header-section-number">9.3.4</span> Michael Rokernel</a></li>
-<li><a class="nav-link" href="#flo-ting-point"><span class="header-section-number">9.3.5</span> Florence Ting-Point</a></li>
-<li><a class="nav-link" href="#peter-byte"><span class="header-section-number">9.3.6</span> Peter Byte</a></li>
-<li><a class="nav-link" href="#polly-morphism"><span class="header-section-number">9.3.7</span> Polina Morphism</a></li>
-<li><a class="nav-link" href="#neil-pointer"><span class="header-section-number">9.3.8</span> Neil Pointer</a></li>
-<li><a class="nav-link" href="#bryn"><span class="header-section-number">9.3.9</span> Bryn Hanby-Roberts</a></li>
-</ul>
-</li>
-<li><a class="nav-link" href="#cooltech"><span class="header-section-number">9.4</span> Sample CoolTech Job advert</a></li>
-<li><a class="nav-link" href="#tldr15"><span class="header-section-number">9.5</span> Summarising your hacks</a></li>
-</ul>
+  <div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page">
+      <h2>On this page</h2>
+      <div id="book-on-this-page"></div>
 
       <div class="book-extra">
         <ul class="list-unstyled">
-<li><a id="book-source" href="https://github.com/dullhunk/cdyf/blob/master/09-hacking.Rmd">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="https://github.com/dullhunk/cdyf/edit/master/09-hacking.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+          <li><a id="book-source" href="#">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="#">Edit this page <i class="fab fa-github"></i></a></li>
         </ul>
-</div>
+      </div>
     </nav>
-</div>
+  </div>
 
 </div>
 </div> <!-- .container -->
 
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+<footer class="bg-primary text-light mt-5">
+  <div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 25 July, 2023. </p>
+    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 26 July, 2023. </p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">
@@ -396,7 +336,11 @@ Ceaser Craplanguage-->
   </div>
 
 </div></div>
-</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+</footer>
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
@@ -408,7 +352,8 @@ Ceaser Craplanguage-->
     script.src = src;
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
-</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+</script>
+<script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
 for (let popover of popovers) {
   const div = document.createElement('div');
   div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
@@ -426,4 +371,5 @@ for (let popover of popovers) {
 }
 </script>
 </body>
+
 </html>
