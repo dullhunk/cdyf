@@ -1,65 +1,45 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <title>Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students</title>
-
-    <meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 26 July, 2023" />
-  
-   <meta name="description" content="Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You’ll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future." />
-   <meta name="generator" content="placeholder" />
-  <meta property="og:title" content="Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students" />
-  <meta property="og:type" content="book" />
-  <meta property="og:url" content="https://www.cdyf.me/" />
-  <meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png" />
-  <meta property="og:description" content="Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You’ll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future." />
-
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students" />
-  <meta name="twitter:site" content="@dullhunk" />
-  <meta name="twitter:description" content="Your future is bright, your future needs coding. Welcome to coding your future. This guidebook will teach you how to design, build, test and code your future in computing. You’ll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more strategically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future." />
-  <meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png" />
-  <!-- JS -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script>
-  <script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script>
-    <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet" />
-    <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script>
-    <script src="libs/bs3compat-0.4.2/transition.js"></script>
-    <script src="libs/bs3compat-0.4.2/tabs.js"></script>
-    <script src="libs/bs3compat-0.4.2/bs3compat.js"></script>
-    <link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet" />
-    <script src="libs/bs4_book-1.0.0/bs4_book.js"></script>
-    <link href="libs/vembedr-0.1.5/css/vembedr.css" rel="stylesheet" />
-    <script defer data-domain="cdyf.me" src="https://plausible.io/js/script.outbound-links.js"></script>
-    <!--script src="https://platform.twitter.com/widgets.js"></script-->
-    <link rel="shortcut icon" href="favicon.ico" />
-    <meta property="og:title" content="Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.cdyf.me/" />
-    <meta property="og:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png" />
-    <meta name="author" content="Duncan Hull and Bryan Mathers">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:creator" content="@dullhunk">
-    <meta name="twitter:title" content="Coding Your Future: a Guidebook for Students">
-    <meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
-    <!-- same again for LinkedIn-->
-    <meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
-    <meta name="twitter:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script>
-
-  <!-- CSS -->
-  <style type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students</title>
+<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 26 July, 2023">
+<meta name="description" content="Meet Alexandra (Alice) Păcuraru, see figure 27.1 she graduated with a Bachelor of Science degree in Computer Science with Business and Management and Industrial Experience in 2022 when this...">
+<meta name="generator" content="bookdown 0.33 with bs4_book()">
+<meta property="og:title" content="Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://www.cdyf.me/alice">
+<meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
+<meta property="og:description" content="Meet Alexandra (Alice) Păcuraru, see figure 27.1 she graduated with a Bachelor of Science degree in Computer Science with Business and Management and Industrial Experience in 2022 when this...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students">
+<meta name="twitter:site" content="@dullhunk">
+<meta name="twitter:description" content="Meet Alexandra (Alice) Păcuraru, see figure 27.1 she graduated with a Bachelor of Science degree in Computer Science with Business and Management and Industrial Experience in 2022 when this...">
+<meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.4.2/transition.js"></script><script src="libs/bs3compat-0.4.2/tabs.js"></script><script src="libs/bs3compat-0.4.2/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><link href="libs/vembedr-0.1.5/css/vembedr.css" rel="stylesheet">
+<script defer data-domain="cdyf.me" src="https://plausible.io/js/script.outbound-links.js"></script><!--script src="https://platform.twitter.com/widgets.js"></script--><link rel="shortcut icon" href="favicon.ico">
+<meta property="og:title" content="Chapter 27 Alice’s story | Coding Your Future: A Guidebook for Students">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.cdyf.me/">
+<meta property="og:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
+<meta name="author" content="Duncan Hull and Bryan Mathers">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@dullhunk">
+<meta name="twitter:title" content="Coding Your Future: a Guidebook for Students">
+<meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
+<!-- same again for LinkedIn--><meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
+<meta name="twitter:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
     
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   </style>
-    <style type="text/css">
+<style type="text/css">
     /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
     div.csl-bib-body { }
     div.csl-entry {
@@ -81,19 +61,16 @@
       margin-left: 2em;
     }
   </style>
-    
 </head>
-
 <body data-spy="scroll" data-target="#toc">
 
 <div class="container-fluid">
 <div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book">
-    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 
     <div class="d-flex align-items-start justify-content-between">
       <h1>
-        <a href="index.html" title="">Coding Your Future: A Guidebook for Students</a>
+        <a href="https://www.cdyf.me" title="">Coding Your Future: A Guidebook for Students</a>
       </h1>
       <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
     </div>
@@ -101,35 +78,75 @@
     <div id="main-nav" class="collapse-lg">
       <form role="search">
         <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-      </form>
+</form>
 
-      <nav aria-label="Table of contents">
-        <h2>Table of contents</h2>
-        <div id="book-toc"></div>
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="https://www.cdyf.me">Welcome to your future</a></li>
+<li class="book-part">DESIGNING YOUR FUTURE</li>
+<li><a class="" href="rebooting"><span class="header-section-number">1</span> Rebooting your future</a></li>
+<li><a class="" href="exploring"><span class="header-section-number">2</span> Exploring your future</a></li>
+<li><a class="" href="nurturing"><span class="header-section-number">3</span> Nurturing your future</a></li>
+<li><a class="" href="writing"><span class="header-section-number">4</span> Writing your future</a></li>
+<li><a class="" href="experiencing"><span class="header-section-number">5</span> Experiencing your future</a></li>
+<li><a class="" href="choosing"><span class="header-section-number">6</span> Choosing your future</a></li>
+<li><a class="" href="computing"><span class="header-section-number">7</span> Computing your future</a></li>
+<li class="book-part">TESTING YOUR FUTURE</li>
+<li><a class="" href="debugging"><span class="header-section-number">8</span> Debugging your future</a></li>
+<li><a class="" href="hacking"><span class="header-section-number">9</span> Hacking your future</a></li>
+<li><a class="" href="actioning"><span class="header-section-number">10</span> Actioning your future</a></li>
+<li><a class="" href="finding"><span class="header-section-number">11</span> Finding your future</a></li>
+<li><a class="" href="moving"><span class="header-section-number">12</span> Moving your future</a></li>
+<li><a class="" href="speaking"><span class="header-section-number">13</span> Speaking your future</a></li>
+<li class="book-part">BUILDING YOUR FUTURE</li>
+<li><a class="" href="organising"><span class="header-section-number">14</span> Organising your future</a></li>
+<li><a class="" href="researching"><span class="header-section-number">15</span> Researching your future</a></li>
+<li><a class="" href="enjoying"><span class="header-section-number">16</span> Enjoying your future</a></li>
+<li class="book-part">DEPLOYING YOUR FUTURE</li>
+<li><a class="" href="starting"><span class="header-section-number">17</span> Starting your future</a></li>
+<li><a class="" href="achieving"><span class="header-section-number">18</span> Achieving your future</a></li>
+<li><a class="" href="ruling"><span class="header-section-number">19</span> Ruling your future</a></li>
+<li class="book-part">CODING YOUR FUTURE</li>
+<li><a class="" href="hearing"><span class="header-section-number">20</span> Hearing your future</a></li>
+<li><a class="" href="amish"><span class="header-section-number">21</span> Amish’s story</a></li>
+<li><a class="" href="pedro"><span class="header-section-number">22</span> Pedro’s story</a></li>
+<li><a class="" href="nadine"><span class="header-section-number">23</span> Nadine’s story</a></li>
+<li><a class="" href="ingy"><span class="header-section-number">24</span> Ingy’s story</a></li>
+<li><a class="" href="ivo"><span class="header-section-number">25</span> Ivo’s story</a></li>
+<li><a class="" href="jonathan"><span class="header-section-number">26</span> Jonathan’s story</a></li>
+<li><a class="active" href="alice"><span class="header-section-number">27</span> Alice’s story</a></li>
+<li><a class="" href="sneha"><span class="header-section-number">28</span> Sneha’s story</a></li>
+<li><a class="" href="carmen"><span class="header-section-number">29</span> Carmen’s story</a></li>
+<li><a class="" href="brian"><span class="header-section-number">30</span> Brian’s story</a></li>
+<li><a class="" href="jason"><span class="header-section-number">31</span> Jason’s story</a></li>
+<li><a class="" href="raluca"><span class="header-section-number">32</span> Raluca’s story</a></li>
+<li><a class="" href="reading"><span class="header-section-number">33</span> Reading your future</a></li>
+</ul>
 
         <div class="book-extra">
-          <p><a id="book-repo" href="#">View book source <i class="fab fa-github"></i></a></li></p>
+          <p><a id="book-repo" href="https://github.com/dullhunk/cdyf">View book source <i class="fab fa-github"></i></a></p>
         </div>
       </nav>
-    </div>
-  </header>
-
-  <main class="col-sm-12 col-md-9 col-lg-7" id="content">
-<div id="alice" class="section level1" number="27">
-<h1><span class="header-section-number">Chapter 27</span> Alice’s story</h1>
-<p>Meet Alexandra (Alice) Păcuraru, see figure <a href="alice.html#fig:alice-fig">27.1</a> she graduated with a Bachelor of Science degree in Computer Science with Business and Management and Industrial Experience in 2022 when this episode was first recorded. Alice worked at <a href="https://home.barclays/">home.barclays</a>, <a href="https://www.morganstanley.com/">morganstanley.com</a> and <a href="https://www.thg.com/">thg.com</a> before moving to <a href="https://www.publicissapient.com/">publicissapient.com</a> in London.</p>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:alice-fig"></span>
-<img src="images/alice.jpeg" alt="Alice Păcuraru. Picture reused from linkedin.com/in/alexandra-pacuraru with permission, thanks Alice." width="100%" />
-<p class="caption">
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="alice" class="section level1" number="27">
+<h1>
+<span class="header-section-number">27</span> Alice’s story<a class="anchor" aria-label="anchor" href="#alice"><i class="fas fa-link"></i></a>
+</h1>
+<p>Meet Alexandra (Alice) Păcuraru, see figure <a href="alice#fig:alice-fig">27.1</a> she graduated with a Bachelor of Science degree in Computer Science with Business and Management and Industrial Experience in 2022 when this episode was first recorded. Alice worked at <a href="https://home.barclays/">home.barclays</a>, <a href="https://www.morganstanley.com/">morganstanley.com</a> and <a href="https://www.thg.com/">thg.com</a> before moving to <a href="https://www.publicissapient.com/">publicissapient.com</a> in London.</p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:alice-fig"></span>
+<img src="images/alice.jpeg" alt="Alice Păcuraru. Picture reused from linkedin.com/in/alexandra-pacuraru with permission, thanks Alice." width="100%"><p class="caption">
 Figure 27.1: Alice Păcuraru. Picture reused from <a href="https://uk.linkedin.com/in/alexandra-pacuraru">linkedin.com/in/alexandra-pacuraru</a> with permission, thanks Alice.
 </p>
 </div>
 
-<p>Listen to the episode by clicking Play ▶️ below, or subscribing wherever you get your podcasts, see section <a href="hearing.html#subscribing">20.2</a>. An annotated and edited transcript of the audio is shown below.</p>
-<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/27118155/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;">
+<p>Listen to the episode by clicking Play ▶️ below, or subscribing wherever you get your podcasts, see section <a href="hearing#subscribing">20.2</a>. An annotated and edited transcript of the audio is shown below.</p>
+<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/27118155/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no" allowfullscreen webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true">
 </iframe>
 <div id="alice-story" class="section level2" number="27.1">
-<h2><span class="header-section-number">27.1</span> What’s your story Alice?</h2>
+<h2>
+<span class="header-section-number">27.1</span> What’s your story Alice?<a class="anchor" aria-label="anchor" href="#alice-story"><i class="fas fa-link"></i></a>
+</h2>
 <p>So, welcome Alice, thank you for coming on the show. So, it’d be good to hear more about your journey from student professional. You’ve been here for four years and lots happened in four years. You’ve done a lot of things. A lot of things have happened in the world in the last four years, you’ve had your graduation yesterday. Yeah, which was very cool. And so can you tell us a little bit more about what? Let’s start with, what’s your name and where’d you come from?</p>
 <blockquote>
 <p>Alice: Yes. So, hi thank you for having me. My name is actually Alexandra but I go by Alice, to not confuse people. .</p>
@@ -144,11 +161,11 @@ Figure 27.1: Alice Păcuraru. Picture reused from <a href="https://uk.linkedin.c
 </blockquote>
 <p>So my Romanian geography… it’s kind of a circle-ish?</p>
 <blockquote>
-<p>Alice: A fish. Oh it looks like a fish in my opinion. (See figure <a href="alice.html#fig:romania-fig">27.2</a>)</p>
+<p>Alice: A fish. Oh it looks like a fish in my opinion. (See figure <a href="alice#fig:romania-fig">27.2</a>)</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:romania-fig"></span>
-<img src="images/romania.png" alt="Romania, shown in dark green here, is a country which borders borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the southwest, Moldova to the east, and the Black Sea to the southeast. It is shaped like a fish, with its tail touching the Black Sea. Creative Commons BY-SA map of Romania by NuclearVacuum via Wikimedia Commons w.wiki/6t8B adapted using the Wikipedia App 🇷🇴" width="100%" />
-<p class="caption">
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:romania-fig"></span>
+<img src="images/romania.png" alt="Romania, shown in dark green here, is a country which borders borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the southwest, Moldova to the east, and the Black Sea to the southeast. It is shaped like a fish, with its tail touching the Black Sea. Creative Commons BY-SA map of Romania by NuclearVacuum via Wikimedia Commons w.wiki/6t8B adapted using the Wikipedia App 🇷🇴" width="100%"><p class="caption">
 Figure 27.2: <a href="https://en.wikipedia.org/wiki/Romania">Romania</a>, shown in dark green here, is a country which borders borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the southwest, Moldova to the east, and the Black Sea to the southeast. It is shaped like a fish, with its tail touching the Black Sea. Creative Commons <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">BY-SA</a> map of Romania by <a href="https://commons.wikimedia.org/wiki/User:NuclearVacuum">NuclearVacuum</a> via Wikimedia Commons <a href="https://w.wiki/6t8B">w.wiki/6t8B</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a> 🇷🇴
 </p>
 </div>
@@ -163,7 +180,9 @@ Figure 27.2: <a href="https://en.wikipedia.org/wiki/Romania">Romania</a>, shown 
 </blockquote>
 </div>
 <div id="why-alice" class="section level2" number="27.2">
-<h2><span class="header-section-number">27.2</span> Why study Computer Science?</h2>
+<h2>
+<span class="header-section-number">27.2</span> Why study Computer Science?<a class="anchor" aria-label="anchor" href="#why-alice"><i class="fas fa-link"></i></a>
+</h2>
 <p>So can you say a little bit about what made you choose to study computer science as a thing to study for four years?</p>
 <blockquote>
 <p>Alice: Yeah, so I’ll begin by announcing that I finished computer science with business and management and I feel the reason behind it is because I was very unsure what I wanted to study, I really liked organising, little events for my high school so I was thinking maybe business or management might be cool but then I joined the robotics club in my high school and then I was like, well, computer science, quite cool but maybe not on its own because it was an all more or less a boys club and it was robotics. So it’s a lot more hardware than I personally like and then and then I was thinking maybe I should do something completely different. I don’t know why. I have a theory that everyone at one point wants to do criminology. I’m not sure exactly what happens maybe, just because it sounds really cool. But I wanted to do that as well. And then, in the end, I decided that I want to study something that I feel is challenging for three years. Just because I had a fear of getting bored of my degree because it’s three years. It’s a lot of doing just one degree. So then I was like, you know what? I’m just gonna do computer science, seems a very challenging so for me, at least, so I’m gonna have a lot of fun and also do it with business and management just because University of Manchester, obviously, they stopped doing the course, but it was out the point where I applied one of the only, I think four or five unis …</p>
@@ -180,7 +199,7 @@ Figure 27.2: <a href="https://en.wikipedia.org/wiki/Romania">Romania</a>, shown 
 <blockquote>
 <p>Alice: Yeah, we’re also doing it on paper. We did have a Informatics lab in our, and we kind of knew how to use I think we’re using code blocks, to run code, but day-to-day, just because we’re so many students, we couldn’t all fit in that lab. So we’re just coding on paper. So I feel like that’s even more difficult because then you write on paper and then the teacher needs to be like yeah. That’s not right. Checking your syntax. Yeah you can’t run in be like why the teacher needs to tell you but I think it’s really good for debugging now because then when I came to uni and then we’re doing Java, the lecturer asked us to code on paper before I never was so outraged. I was like oh this is like school. So I think it’s good. Maybe</p>
 </blockquote>
-<p>I think maybe it develops skills in <a href="https://en.wikipedia.org/wiki/Code_Reading">code reading</a> <span class="citation">(<a href="reading.html#ref-codereading">Spinellis 2003</a>)</span> perhaps in that you’re not computer science often focuses on <em>writing</em> code and that’s a skill you need to learn but actually <em>reading</em> other people’s code. Maybe doing it on paper helps you?</p>
+<p>I think maybe it develops skills in <a href="https://en.wikipedia.org/wiki/Code_Reading">code reading</a> <span class="citation">(<a href="reading#ref-codereading">Spinellis 2003</a>)</span> perhaps in that you’re not computer science often focuses on <em>writing</em> code and that’s a skill you need to learn but actually <em>reading</em> other people’s code. Maybe doing it on paper helps you?</p>
 <blockquote>
 <p>Alice: Yeah, it does help because</p>
 </blockquote>
@@ -226,7 +245,9 @@ Figure 27.2: <a href="https://en.wikipedia.org/wiki/Romania">Romania</a>, shown 
 </blockquote>
 </div>
 <div id="alice-second" class="section level2" number="27.3">
-<h2><span class="header-section-number">27.3</span> Second year</h2>
+<h2>
+<span class="header-section-number">27.3</span> Second year<a class="anchor" aria-label="anchor" href="#alice-second"><i class="fas fa-link"></i></a>
+</h2>
 <p>Good so fast forward to second year. So this is things started happening and you were applying for placement, had you decided before that you were going to do a placement or was it something? Because some people decide at the beginning the second year, like, oh, that’s a good idea, let’s do that. Had you decided before you came or so you’d already. You knew that you wanted to do a placement right from the beginning?</p>
 <blockquote>
 <p>Alice: Yeah, for me was actually one of the reasons why I wanted University of Manchester just because obviously I wanted to go abroad which is on its own a big cost for anyone coming from. Especially I feel like a country where people are less (wealthy?) than the country they are going in. So for example, from Romania to the UK, so I was kind of like a little plan. I was pitching it to my parents and I was like you support me for two years from then on I’m on my own I’ll do a little placement. I’ll put money aside, I’ll do my last two years of uni so that was the plan from the beginning and that’s why Manchester because also the people that I knew that graduated from Manchester did the same thing. They did the placement, they really liked it. So that was kind of my top choice, I think it played it big role of picking University of Manchester.</p>
@@ -235,17 +256,17 @@ Figure 27.2: <a href="https://en.wikipedia.org/wiki/Romania">Romania</a>, shown 
 <blockquote>
 <p>Alice: Don’t think, I’m not sure because I did the spring insights in first year. Yeah. Okay. So that would have helped.</p>
 </blockquote>
-<p>So actually for people who don’t know, what is spring insight? (See section <a href="experiencing.html#areuexperienced">5.3</a>)</p>
+<p>So actually for people who don’t know, what is spring insight? (See section <a href="experiencing#areuexperienced">5.3</a>)</p>
 <blockquote>
 <p>Alice: Oh yeah, people don’t know this stuff. True. Because that’s also that’s also another thing I found out from my PASS (Peer Assisted Study Scheme) leaders who were also my friends but they did one and they were you all need to apply because it’s so fun. It’s so important and everything. So I did the same in when I was a first year.</p>
 </blockquote>
 <p>That was a JP Morgan, was it?</p>
 <blockquote>
-<p>Alice: I was at Morgan Stanley and Barclays (see figure <a href="alice.html#fig:barclays-tower-fig">27.3</a>). I did two of them.</p>
+<p>Alice: I was at Morgan Stanley and Barclays (see figure <a href="alice#fig:barclays-tower-fig">27.3</a>). I did two of them.</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:barclays-tower-fig"></span>
-<img src="images/barclays.jpeg" alt="Barclays is a British multinational universal bank, headquartered in Canary Wharf, London, England. CC-BY picture of Barclays offices at One Churchill Place in London by Matt Brown on Wikimedia Commons w.wiki/6qK9" width="100%" />
-<p class="caption">
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:barclays-tower-fig"></span>
+<img src="images/barclays.jpeg" alt="Barclays is a British multinational universal bank, headquartered in Canary Wharf, London, England. CC-BY picture of Barclays offices at One Churchill Place in London by Matt Brown on Wikimedia Commons w.wiki/6qK9" width="100%"><p class="caption">
 Figure 27.3: <a href="https://en.wikipedia.org/wiki/Barclays">Barclays</a> is a British multinational universal bank, headquartered in Canary Wharf, London, England. <a href="https://creativecommons.org/licenses/by/2.0/deed.en">CC-BY</a> picture of Barclays offices at <a href="https://en.wikipedia.org/wiki/One_Churchill_Place">One Churchill Place</a> in London by Matt Brown on Wikimedia Commons <a href="https://w.wiki/6qK9">w.wiki/6qK9</a>
 </p>
 </div>
@@ -276,7 +297,7 @@ Figure 27.3: <a href="https://en.wikipedia.org/wiki/Barclays">Barclays</a> is a 
 </blockquote>
 <p>And relatively, I mean not easy, but <em>easier</em> if you’re applying for an internship or a permanent job, the interview might be a bit more involved. But an interview for a spring insight is probably a bit less, you know, not so difficult. Because they’re just kind of checking that you’re not crazy.</p>
 <blockquote>
-<p>Alice: Yeah, it is very much also behavioural (interview) heavy (see section <a href="speaking.html#hrinterview">13.2.2</a>) and I feel like it really helped me because ..</p>
+<p>Alice: Yeah, it is very much also behavioural (interview) heavy (see section <a href="speaking#hrinterview">13.2.2</a>) and I feel like it really helped me because ..</p>
 </blockquote>
 <p>What do you mean by behavioural interviews, right? So they’re asking you questions and trying to find out about your personality.</p>
 <blockquote>
@@ -356,7 +377,7 @@ Figure 27.3: <a href="https://en.wikipedia.org/wiki/Barclays">Barclays</a> is a 
 </blockquote>
 <p>To get the practice?</p>
 <blockquote>
-<p>Yeah, exactly. To get the practice because I cannot for the life of me, make myself do leetcode (see section <a href="speaking.html#leetcode">13.2.4</a>), or to do hackerrank. I just cannot do it. I don’t know why I’ll start doing it and then it doesn’t work out and I’m like, you know, what, in the interview I’ll just figure out. So, I was like, let’s just give myself an extra incentive and actually I show up in London at an interview and talk to the person, surely that will make me do a little bit of leetcode, right?</p>
+<p>Yeah, exactly. To get the practice because I cannot for the life of me, make myself do leetcode (see section <a href="speaking#leetcode">13.2.4</a>), or to do hackerrank. I just cannot do it. I don’t know why I’ll start doing it and then it doesn’t work out and I’m like, you know, what, in the interview I’ll just figure out. So, I was like, let’s just give myself an extra incentive and actually I show up in London at an interview and talk to the person, surely that will make me do a little bit of leetcode, right?</p>
 </blockquote>
 <p>Yeah. And I think it’s good to practice. I mean, you can practice standard interview questions in front of a mirror but then that will help a little bit but actually the only way to get good at doing interviews is to DO them</p>
 <blockquote>
@@ -389,13 +410,15 @@ Figure 27.3: <a href="https://en.wikipedia.org/wiki/Barclays">Barclays</a> is a 
 <p>Know one product, and one service that the company makes and then..</p>
 </div>
 <div id="alice-thg" class="section level2" number="27.4">
-<h2><span class="header-section-number">27.4</span> THG.com</h2>
+<h2>
+<span class="header-section-number">27.4</span> THG.com<a class="anchor" aria-label="anchor" href="#alice-thg"><i class="fas fa-link"></i></a>
+</h2>
 <blockquote>
-<p>Alice: But yeah, so I was in these interviews. I didn’t manage to get a job by Christmas, which was really stressful because all of my, most of my friends, got their jobs by Christmas. So it wasn’t necessarily. I knew there were other companies that would hire, it’s just because my friends got the jobs already. I was a bit like, always how much a bit alone in this now, after Christmas, I did some more interviews actually. I think my interview because I did my place at the Hut Group (<a href="https://www.thg.com/">THG.com</a>, see figure <a href="alice.html#fig:thg-fig">27.4</a>) in Manchester, oh, to be fair. It was remote. But, you know, it was supposed to be a Manchester. When did that in, when did it offer come through? So, the interview happened in February, it was also online because they were really quick to react to like with restrictions, they were like sorry we’re not letting anyone in our offices. We’re doing it online. I was like, okay, sure. So it was still online the interview and they sent me the off I think that day after. So it’s like beginning of February.</p>
+<p>Alice: But yeah, so I was in these interviews. I didn’t manage to get a job by Christmas, which was really stressful because all of my, most of my friends, got their jobs by Christmas. So it wasn’t necessarily. I knew there were other companies that would hire, it’s just because my friends got the jobs already. I was a bit like, always how much a bit alone in this now, after Christmas, I did some more interviews actually. I think my interview because I did my place at the Hut Group (<a href="https://www.thg.com/">THG.com</a>, see figure <a href="alice#fig:thg-fig">27.4</a>) in Manchester, oh, to be fair. It was remote. But, you know, it was supposed to be a Manchester. When did that in, when did it offer come through? So, the interview happened in February, it was also online because they were really quick to react to like with restrictions, they were like sorry we’re not letting anyone in our offices. We’re doing it online. I was like, okay, sure. So it was still online the interview and they sent me the off I think that day after. So it’s like beginning of February.</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:thg-fig"></span>
-<img src="images/thg.jpeg" alt="THG plc (formerly The Hut Group) is a British e-commerce company headquartered at Manchester Airport, England. In 2017, The Hut Group was valued at more than £2.5 billion making it one of the most valuable private companies in the United Kingdom, and one of the UK’s unicorn companies. Creative Commons BY-SA picture of THG Distribution Centre in Omega Business Park, Warrington by 50Stripes on Wikimedia Commons w.wiki/p5v adapted using the Wikipedia App 🦄" width="100%" />
-<p class="caption">
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:thg-fig"></span>
+<img src="images/thg.jpeg" alt="THG plc (formerly The Hut Group) is a British e-commerce company headquartered at Manchester Airport, England. In 2017, The Hut Group was valued at more than £2.5 billion making it one of the most valuable private companies in the United Kingdom, and one of the UK’s unicorn companies. Creative Commons BY-SA picture of THG Distribution Centre in Omega Business Park, Warrington by 50Stripes on Wikimedia Commons w.wiki/p5v adapted using the Wikipedia App 🦄" width="100%"><p class="caption">
 Figure 27.4: <a href="https://en.wikipedia.org/wiki/THG_plc">THG plc</a> (formerly The Hut Group) is a British e-commerce company headquartered at Manchester Airport, England. In 2017, The Hut Group was valued at more than £2.5 billion making it one of the most valuable private companies in the United Kingdom, and one of the UK’s <a href="https://en.wikipedia.org/wiki/Unicorn_(finance)">unicorn companies</a>. Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> picture of THG Distribution Centre in Omega Business Park, Warrington by 50Stripes on Wikimedia Commons <a href="https://w.wiki/p5v">w.wiki/p5v</a> adapted using the Wikipedia App 🦄
 </p>
 </div>
@@ -443,7 +466,9 @@ Figure 27.4: <a href="https://en.wikipedia.org/wiki/THG_plc">THG plc</a> (former
 <p>Okay good. So, we’ve talked about this a little bit but the were there are many other obstacles that you faced in finding employment? I think we talked about most of them. Were there any anything else that we haven’t mentioned about your struggle to find a job?</p>
 </div>
 <div id="alice-struggle" class="section level2" number="27.5">
-<h2><span class="header-section-number">27.5</span> Job struggles</h2>
+<h2>
+<span class="header-section-number">27.5</span> Job struggles<a class="anchor" aria-label="anchor" href="#alice-struggle"><i class="fas fa-link"></i></a>
+</h2>
 <blockquote>
 <p>Alice: I feel like the main struggle was to find a job that matched what I needed from a placement. I’ve liked a lot easier to find companies that you like that do grad schemes, just because in the worst case scenario just apply for an entry level job, whereas having a placement, there’s so many types of placements, right? There is the three-month placement. Six months placement finding one company was quite limiting choices. So that kind of raised the bar with the interviews and it was a bit more stress involved, but I think the main one was just kind of juggling everything and preparing for interviews. There were kind of the first technical interviews I’ve done as well so it was that.</p>
 </blockquote>
@@ -453,7 +478,9 @@ Figure 27.4: <a href="https://en.wikipedia.org/wiki/THG_plc">THG plc</a> (former
 </blockquote>
 </div>
 <div id="alice-final" class="section level2" number="27.6">
-<h2><span class="header-section-number">27.6</span> Final year project: Coding their Future</h2>
+<h2>
+<span class="header-section-number">27.6</span> Final year project: Coding their Future<a class="anchor" aria-label="anchor" href="#alice-final"><i class="fas fa-link"></i></a>
+</h2>
 <p>So let’s move on to final year a project. So you’ve done your placement, you’ve come back to university and things were returning to normal at this point so you’ve done the entirety of your placement online?</p>
 <blockquote>
 <p>Alice: Yeah. Except the end right.</p>
@@ -508,11 +535,11 @@ Figure 27.4: <a href="https://en.wikipedia.org/wiki/THG_plc">THG plc</a> (former
 </blockquote>
 <p>What’s the name? Would you rather not say?</p>
 <blockquote>
-<p>Alice: It’s called <a href="https://en.wikipedia.org/wiki/Publicis_Sapient">Publicis Sapient</a> (see figure <a href="alice.html#fig:sapient-fig">27.5</a>)</p>
+<p>Alice: It’s called <a href="https://en.wikipedia.org/wiki/Publicis_Sapient">Publicis Sapient</a> (see figure <a href="alice#fig:sapient-fig">27.5</a>)</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:sapient-fig"></span>
-<img src="images/publicis-sapient.jpeg" alt="Publicis Sapient is a global digital transformation consulting company and the digital business transformation hub of Publicis Groupe with 20,000 people and over 50 offices worldwide. Logo from Wikimedia Commons w.wiki/6qKD." width="100%" />
-<p class="caption">
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:sapient-fig"></span>
+<img src="images/publicis-sapient.jpeg" alt="Publicis Sapient is a global digital transformation consulting company and the digital business transformation hub of Publicis Groupe with 20,000 people and over 50 offices worldwide. Logo from Wikimedia Commons w.wiki/6qKD." width="100%"><p class="caption">
 Figure 27.5: <a href="https://en.wikipedia.org/wiki/Publicis_Sapient">Publicis Sapient</a> is a global <a href="https://en.wikipedia.org/wiki/Digital_transformation">digital transformation</a> consulting company and the digital business transformation hub of Publicis Groupe with 20,000 people and over 50 offices worldwide. Logo from Wikimedia Commons <a href="https://w.wiki/6qKD">w.wiki/6qKD</a>.
 </p>
 </div>
@@ -523,7 +550,9 @@ Figure 27.5: <a href="https://en.wikipedia.org/wiki/Publicis_Sapient">Publicis S
 </blockquote>
 </div>
 <div id="alice-minority" class="section level2" number="27.7">
-<h2><span class="header-section-number">27.7</span> Minority report</h2>
+<h2>
+<span class="header-section-number">27.7</span> Minority report<a class="anchor" aria-label="anchor" href="#alice-minority"><i class="fas fa-link"></i></a>
+</h2>
 <p>Okay, well, good luck with that wish you all the best, and so, there’s a few other things, a few other things left is so one of them is minority report. So, I asked people, if they identify as being a member of a minority group, we’ve talked about a bit about women in computing. So I guess that’s one minority group that we can talk about. So we, I think our stats are in Manchester out of about 1300 undergraduate students.</p>
 <blockquote>
 <p>Alice: Yeah</p>
@@ -560,11 +589,11 @@ Figure 27.5: <a href="https://en.wikipedia.org/wiki/Publicis_Sapient">Publicis S
 <blockquote>
 <p>Alice: Exactly. It was, it was really, I don’t think I picked it up initially, I made a couple of friends where everything was fine. I started noticing, I think all female events and computer science and I thought I was like, oh, that’s interesting, why did they need that? I mean, obviously I knew that there weren’t that many women in computer science but I was like why would you need more events? And then I started kind of like understanding how I feel like after doing like groupwork and everything and kind of like seeing that there are little <a href="https://en.wikipedia.org/wiki/Microaggression">microaggressions</a> that people do.</p>
 </blockquote>
-<p>So Carmen (see chapter <a href="carmen.html#carmen">29</a>) was talking about this and we didn’t really explore. Can you explain what a microaggression is? See figure <a href="alice.html#fig:microagression-fig">27.6</a>.</p>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:microagression-fig"></span>
-<img src="images/microaggression.jpeg" alt="Microaggressions are something that somebody says to you; they can be a way that you’ve been made to feel. They are often subtle behaviours, but their effects are far from subtle. (Hollowood 2022) Creative Commons BY-SA licensed picture of aggressive teeth-bearing behaviour in a domestic dog by Samasjamas on Wikimedia Commons w.wiki/6qJ6" width="100%" />
-<p class="caption">
-Figure 27.6: <a href="https://en.wikipedia.org/wiki/Microaggression">Microaggressions</a> are something that somebody says to you; they can be a way that you’ve been made to feel. They are often subtle behaviours, but their effects are far from subtle. <span class="citation">(<a href="reading.html#ref-microaggression">Hollowood 2022</a>)</span> Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> licensed picture of aggressive teeth-bearing behaviour in a domestic dog by Samasjamas on Wikimedia Commons <a href="https://w.wiki/6qJ6">w.wiki/6qJ6</a>
+<p>So Carmen (see chapter <a href="carmen#carmen">29</a>) was talking about this and we didn’t really explore. Can you explain what a microaggression is? See figure <a href="alice#fig:microagression-fig">27.6</a>.</p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:microagression-fig"></span>
+<img src="images/microaggression.jpeg" alt="Microaggressions are something that somebody says to you; they can be a way that you’ve been made to feel. They are often subtle behaviours, but their effects are far from subtle. (Hollowood 2022) Creative Commons BY-SA licensed picture of aggressive teeth-bearing behaviour in a domestic dog by Samasjamas on Wikimedia Commons w.wiki/6qJ6" width="100%"><p class="caption">
+Figure 27.6: <a href="https://en.wikipedia.org/wiki/Microaggression">Microaggressions</a> are something that somebody says to you; they can be a way that you’ve been made to feel. They are often subtle behaviours, but their effects are far from subtle. <span class="citation">(<a href="reading#ref-microaggression">Hollowood 2022</a>)</span> Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> licensed picture of aggressive teeth-bearing behaviour in a domestic dog by Samasjamas on Wikimedia Commons <a href="https://w.wiki/6qJ6">w.wiki/6qJ6</a>
 </p>
 </div>
 
@@ -576,12 +605,12 @@ Figure 27.6: <a href="https://en.wikipedia.org/wiki/Microaggression">Microaggres
 <p>I discovered all of these micro aggressions more I feel like my final year just because in my final years when I started hanging out, I feel like in my first two years it would be like me with one or two friends, right? So it would be like us against computer science, I guess, but in my final year I started staying more in <a href="https://en.wikipedia.org/wiki/Kilburn_Building">Kilburn (building)</a> obviously with my third year project and I think it was also after COVID, we wanted we wanted to be yeah I’m being a PASS leader that we want to be in Kilburn more just because we’ve been apart for such a long time. I’ve started hanging out more with females and we started talking more about things that would happen and then I would realise some things would be microaggressions while talking to them.</p>
 <p>So, can you give an example that you’re comfortable talking about?</p>
 <blockquote>
-<p>Alice: No, I’m making myself comfortable talking about it. I feel like it’s very important to just chat about things like this. I think that most important one would be, I think, <a href="https://en.wikipedia.org/wiki/Mansplaining">mansplaining</a> which is a very delicate topic (see figure <a href="alice.html#fig:mansplaining-fig">27.7</a>), just because some people genuinely explain in the rude, way to everyone, it’s not necessarily that they explain. So mansplaining being like a man explaining to someone, I think the word itself is to a female usually or someone that identifies a female.</p>
+<p>Alice: No, I’m making myself comfortable talking about it. I feel like it’s very important to just chat about things like this. I think that most important one would be, I think, <a href="https://en.wikipedia.org/wiki/Mansplaining">mansplaining</a> which is a very delicate topic (see figure <a href="alice#fig:mansplaining-fig">27.7</a>), just because some people genuinely explain in the rude, way to everyone, it’s not necessarily that they explain. So mansplaining being like a man explaining to someone, I think the word itself is to a female usually or someone that identifies a female.</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:mansplaining-fig"></span>
-<img src="images/mansplaining.jpeg" alt="When a man comments on or explains something to a woman in a condescending, overconfident, inaccurate or oversimplified manner, that’s mansplaining. Picture by Ralf Schlesener of the “mansplaining statue” in San Antonio, Texas (Tadlock 2015) on Wikimedia Commons w.wiki/6qfC adapted using the Wikipedia app" width="100%" />
-<p class="caption">
-Figure 27.7: When a man comments on or explains something to a woman in a condescending, overconfident, inaccurate or oversimplified manner, that’s <a href="https://en.wikipedia.org/wiki/Mansplaining">mansplaining</a>. Picture by Ralf Schlesener of the “mansplaining statue” in San Antonio, Texas <span class="citation">(<a href="reading.html#ref-mansplaining">Tadlock 2015</a>)</span> on Wikimedia Commons <a href="https://w.wiki/6qfC">w.wiki/6qfC</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:mansplaining-fig"></span>
+<img src="images/mansplaining.jpeg" alt="When a man comments on or explains something to a woman in a condescending, overconfident, inaccurate or oversimplified manner, that’s mansplaining. Picture by Ralf Schlesener of the “mansplaining statue” in San Antonio, Texas (Tadlock 2015) on Wikimedia Commons w.wiki/6qfC adapted using the Wikipedia app" width="100%"><p class="caption">
+Figure 27.7: When a man comments on or explains something to a woman in a condescending, overconfident, inaccurate or oversimplified manner, that’s <a href="https://en.wikipedia.org/wiki/Mansplaining">mansplaining</a>. Picture by Ralf Schlesener of the “mansplaining statue” in San Antonio, Texas <span class="citation">(<a href="reading#ref-mansplaining">Tadlock 2015</a>)</span> on Wikimedia Commons <a href="https://w.wiki/6qfC">w.wiki/6qfC</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia app</a>
 </p>
 </div>
 
@@ -622,89 +651,96 @@ Figure 27.7: When a man comments on or explains something to a woman in a condes
 </blockquote>
 </div>
 <div id="harry-styles" class="section level2" number="27.8">
-<h2><span class="header-section-number">27.8</span> One tune</h2>
+<h2>
+<span class="header-section-number">27.8</span> One tune<a class="anchor" aria-label="anchor" href="#harry-styles"><i class="fas fa-link"></i></a>
+</h2>
 <p>Let’s move on, there’s two things left. So this is one tune, one podcast, one film. So we love our music and our films and our podcasts. And Unfortunately, my playlist is dominated by lots of dad rock. So, I’ve been asking students to well, two things rejuvenate it with something a bit different or perhaps internationalise it, you know, because obviously, a lot of the music I listen to is British and American.</p>
 <blockquote>
 <p>Alice: Yeah.</p>
 </blockquote>
 <p>And, you know, it’s kind of fun when people recommend stuff, I would never otherwise have listened to. So one tune that you the special to you for some reason, one podcast. Mybe you don’t listen to podcasts, but if perhaps some kind of could be a radio programming, let’s do and then one film.</p>
 <blockquote>
-<p>Alice: Yeah, so I’m gonna try to be brief. It took, it’s very difficult. See, it’s very difficult. So I want to say, I’m gonna recommend you two tunes because I can’t think one. So, the first one is also quite broad. I would recommend you literally anything by <a href="https://en.wikipedia.org/wiki/Harry_Styles">Harry Styles</a>, (see figure <a href="alice.html#fig:harry-styles-fig">27.8</a>). I love it, but it’s British see, that’s another thing, but then it’s also British so I don’t think it’s gonna widen your playlist enough. I adore Harry Styles anyway.</p>
+<p>Alice: Yeah, so I’m gonna try to be brief. It took, it’s very difficult. See, it’s very difficult. So I want to say, I’m gonna recommend you two tunes because I can’t think one. So, the first one is also quite broad. I would recommend you literally anything by <a href="https://en.wikipedia.org/wiki/Harry_Styles">Harry Styles</a>, (see figure <a href="alice#fig:harry-styles-fig">27.8</a>). I love it, but it’s British see, that’s another thing, but then it’s also British so I don’t think it’s gonna widen your playlist enough. I adore Harry Styles anyway.</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:harry-styles-fig"></span>
-<img src="images/harry-styles.jpeg" alt="Harry Styles is an English singer, songwriter, and actor with hits including As It Was (Styles, Hull, and Johnson 2022) and Sign of the Times (Styles et al. 2017). His musical career began in 2010 as part of One Direction, one of the best-selling boy-bands of all time. CC-BY portrait of Harry Styles performing at Wembley Stadium in London in 2023 by Raph PH via Wikimedia Commons w.wiki/6rd5 adapted using the Wikipedia App" width="100%" />
-<p class="caption">
-Figure 27.8: <a href="https://en.wikipedia.org/wiki/Harry_Styles">Harry Styles</a> is an English singer, songwriter, and actor with hits including <a href="https://en.wikipedia.org/wiki/As_It_Was">As It Was</a> <span class="citation">(<a href="reading.html#ref-asitwas">Styles, Hull, and Johnson 2022</a>)</span> and <a href="https://en.wikipedia.org/wiki/Sign_of_the_Times_(Harry_Styles_song)">Sign of the Times</a> <span class="citation">(<a href="reading.html#ref-signofthetimes">Styles et al. 2017</a>)</span>. His musical career began in 2010 as part of One Direction, one of the best-selling boy-bands of all time. <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a> portrait of Harry Styles performing at Wembley Stadium in London in 2023 by <a href="https://flickr.com/people/raph_ph/">Raph PH</a> via Wikimedia Commons <a href="https://w.wiki/6rd5">w.wiki/6rd5</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:harry-styles-fig"></span>
+<img src="images/harry-styles.jpeg" alt="Harry Styles is an English singer, songwriter, and actor with hits including As It Was (Styles, Hull, and Johnson 2022) and Sign of the Times (Styles et al. 2017). His musical career began in 2010 as part of One Direction, one of the best-selling boy-bands of all time. CC-BY portrait of Harry Styles performing at Wembley Stadium in London in 2023 by Raph PH via Wikimedia Commons w.wiki/6rd5 adapted using the Wikipedia App" width="100%"><p class="caption">
+Figure 27.8: <a href="https://en.wikipedia.org/wiki/Harry_Styles">Harry Styles</a> is an English singer, songwriter, and actor with hits including <a href="https://en.wikipedia.org/wiki/As_It_Was">As It Was</a> <span class="citation">(<a href="reading#ref-asitwas">Styles, Hull, and Johnson 2022</a>)</span> and <a href="https://en.wikipedia.org/wiki/Sign_of_the_Times_(Harry_Styles_song)">Sign of the Times</a> <span class="citation">(<a href="reading#ref-signofthetimes">Styles et al. 2017</a>)</span>. His musical career began in 2010 as part of One Direction, one of the best-selling boy-bands of all time. <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a> portrait of Harry Styles performing at Wembley Stadium in London in 2023 by <a href="https://flickr.com/people/raph_ph/">Raph PH</a> via Wikimedia Commons <a href="https://w.wiki/6rd5">w.wiki/6rd5</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a>
 </p>
 </div>
 
 <p>He’s quite, what’s the word? Well dressed …</p>
 <blockquote>
-<p>Alice: He’s amazing. I aodre him but this is not a Harry Styles fan podcast so I have to move on. The next one is one that I used to play during the hard times of exam season. So she is Romanian, she’s a Romanian artist, her name is <a href="https://en.wikipedia.org/wiki/Inna">INNA</a> (see figure <a href="alice.html#fig:inna-fig">27.9</a>). The song that I like from her is called <em>Iguana</em>. <span class="citation">(<a href="reading.html#ref-iguana">Apostoleanu 2018</a>)</span> It’s in Spanish. She actually sings in Spanish. Absolutely amazing I used to listen to it every single time</p>
+<p>Alice: He’s amazing. I aodre him but this is not a Harry Styles fan podcast so I have to move on. The next one is one that I used to play during the hard times of exam season. So she is Romanian, she’s a Romanian artist, her name is <a href="https://en.wikipedia.org/wiki/Inna">INNA</a> (see figure <a href="alice#fig:inna-fig">27.9</a>). The song that I like from her is called <em>Iguana</em>. <span class="citation">(<a href="reading#ref-iguana">Apostoleanu 2018</a>)</span> It’s in Spanish. She actually sings in Spanish. Absolutely amazing I used to listen to it every single time</p>
 </blockquote>
 <p>Sad song or an uplifting song?</p>
 <blockquote>
 <p>Alice: literally uplifting. I don’t even know what she’s saying. I don’t know Spanish, it’s just it’s very funny. Yes. And I used to listen in on the speaker every single morning during exam season because I would be so tired, so done, to have to go to the library again, or Kilburn (building) again. So I just had, I just needed a little bit of joy in my life, so that was my morning song.</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:inna-fig"></span>
-<img src="images/inna.jpeg" alt="Elena Alexandra Apostoleanu, known professionally as INNA, is a Romanian singer. (Apostoleanu 2018) Creative Commons BY-SA portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons w.wiki/_wB2j adapted using the Wikipedia App" width="100%" />
-<p class="caption">
-Figure 27.9: Elena Alexandra Apostoleanu, known professionally as INNA, is a Romanian singer. <span class="citation">(<a href="reading.html#ref-iguana">Apostoleanu 2018</a>)</span> Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons <a href="https://w.wiki/_wB2j">w.wiki/_wB2j</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:inna-fig"></span>
+<img src="images/inna.jpeg" alt="Elena Alexandra Apostoleanu, known professionally as INNA, is a Romanian singer. (Apostoleanu 2018) Creative Commons BY-SA portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons w.wiki/_wB2j adapted using the Wikipedia App" width="100%"><p class="caption">
+Figure 27.9: Elena Alexandra Apostoleanu, known professionally as INNA, is a Romanian singer. <span class="citation">(<a href="reading#ref-iguana">Apostoleanu 2018</a>)</span> Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> portrait of INNA at Masked Singer Romania in 2021 by Global Records on Wikimedia Commons <a href="https://w.wiki/_wB2j">w.wiki/_wB2j</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a>
 </p>
 </div>
 
-<p>Excellent (song added to the coders playlist in section <a href="enjoying.html#coders">16.1</a>)</p>
+<p>Excellent (song added to the coders playlist in section <a href="enjoying#coders">16.1</a>)</p>
 </div>
 <div id="onbeing" class="section level2" number="27.9">
-<h2><span class="header-section-number">27.9</span> One podcast</h2>
+<h2>
+<span class="header-section-number">27.9</span> One podcast<a class="anchor" aria-label="anchor" href="#onbeing"><i class="fas fa-link"></i></a>
+</h2>
 <blockquote>
-<p>Alice: Podcast wise. I really like <em><a href="https://en.wikipedia.org/wiki/On_Being">On Being</a></em> with <a href="https://en.wikipedia.org/wiki/Krista_Tippett">Krista Tippett</a> (see figure <a href="alice.html#fig:krista-tippett-fig">27.10</a>). It’s really nice, she interviews a lot of people, the one that I like the most, I think he’s called <a href="https://en.wikipedia.org/wiki/Alain_de_Botton">Alain de Botton</a>.</p>
+<p>Alice: Podcast wise. I really like <em><a href="https://en.wikipedia.org/wiki/On_Being">On Being</a></em> with <a href="https://en.wikipedia.org/wiki/Krista_Tippett">Krista Tippett</a> (see figure <a href="alice#fig:krista-tippett-fig">27.10</a>). It’s really nice, she interviews a lot of people, the one that I like the most, I think he’s called <a href="https://en.wikipedia.org/wiki/Alain_de_Botton">Alain de Botton</a>.</p>
 </blockquote>
 <p>Alright, yeah the philosopher.</p>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:krista-tippett-fig"></span>
-<img src="images/krista-tippett.jpeg" alt="The author Krista Tippett created and hosts the radio program and podcast On Being. (Tippett 2023) In 2014, Tippett was awarded the National Humanities Medal by Barack Obama. Creative Commons BY-SA portrait of Krista Tippett at the Brookings Institution by Ghz89med via Wikimedia Commons w.wiki/6rwQ adapted using the Wikipedia App" width="100%" />
-<p class="caption">
-Figure 27.10: The author <a href="https://en.wikipedia.org/wiki/Krista_Tippett">Krista Tippett</a> created and hosts the radio program and podcast <em>On Being</em>. <span class="citation">(<a href="reading.html#ref-onbeing">Tippett 2023</a>)</span> In 2014, Tippett was awarded the <a href="https://en.wikipedia.org/wiki/National_Humanities_Medal">National Humanities Medal</a> by Barack Obama. Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> portrait of Krista Tippett at the Brookings Institution by Ghz89med via Wikimedia Commons <a href="https://w.wiki/6rwQ">w.wiki/6rwQ</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:krista-tippett-fig"></span>
+<img src="images/krista-tippett.jpeg" alt="The author Krista Tippett created and hosts the radio program and podcast On Being. (Tippett 2023) In 2014, Tippett was awarded the National Humanities Medal by Barack Obama. Creative Commons BY-SA portrait of Krista Tippett at the Brookings Institution by Ghz89med via Wikimedia Commons w.wiki/6rwQ adapted using the Wikipedia App" width="100%"><p class="caption">
+Figure 27.10: The author <a href="https://en.wikipedia.org/wiki/Krista_Tippett">Krista Tippett</a> created and hosts the radio program and podcast <em>On Being</em>. <span class="citation">(<a href="reading#ref-onbeing">Tippett 2023</a>)</span> In 2014, Tippett was awarded the <a href="https://en.wikipedia.org/wiki/National_Humanities_Medal">National Humanities Medal</a> by Barack Obama. Creative Commons <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">BY-SA</a> portrait of Krista Tippett at the Brookings Institution by Ghz89med via Wikimedia Commons <a href="https://w.wiki/6rwQ">w.wiki/6rwQ</a> adapted using the <a href="https://apps.apple.com/us/app/wikipedia/id324715238">Wikipedia App</a>
 </p>
 </div>
 
 <blockquote>
 <p>Alice: Yeah, He writes lots of interesting books. This guy, which one? Oh yeah, that one.</p>
 </blockquote>
-<p>Yes, I’m trying to say his name. But yeah, it’s interesting stuff and he does <em>The School of Life</em> (see figure <a href="alice.html#fig:school-of-life-vid">27.11</a>), he’s a philosopher by training but he writes interesting stuff. (For example, <em>Religion for Atheists</em> <span class="citation">(<a href="reading.html#ref-religionforatheists">Botton 2012</a>)</span>)</p>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:school-of-life-vid"></span>
+<p>Yes, I’m trying to say his name. But yeah, it’s interesting stuff and he does <em>The School of Life</em> (see figure <a href="alice#fig:school-of-life-vid">27.11</a>), he’s a philosopher by training but he writes interesting stuff. (For example, <em>Religion for Atheists</em> <span class="citation">(<a href="reading#ref-religionforatheists">Botton 2012</a>)</span>)</p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:school-of-life-vid"></span>
 <iframe src="https://www.youtube.com/embed/q28W7N6Th58" width="99%" height="400px" data-external="1">
 </iframe>
 <p class="caption">
-Figure 27.11: <em>The School of Life</em> offers lessons on everything they don’t teach you at school and University, from work to relationships, emotions, your self and others. <span class="citation">(<a href="reading.html#ref-schooloflifeweb">Botton 2023</a>, <a href="reading.html#ref-schooloflifebook">2019</a>)</span> You can also watch the 1.5 minute video embedded in this figure at <a href="https://youtu.be/q28W7N6Th58">youtu.be/BYUy1yvjHxE</a>. <span class="citation">(<a href="reading.html#ref-schooloflifevideo">Botton 2014</a>)</span>
+Figure 27.11: <em>The School of Life</em> offers lessons on everything they don’t teach you at school and University, from work to relationships, emotions, your self and others. <span class="citation">(<a href="reading#ref-schooloflifeweb">Botton 2023</a>, <a href="reading#ref-schooloflifebook">2019</a>)</span> You can also watch the 1.5 minute video embedded in this figure at <a href="https://youtu.be/q28W7N6Th58">youtu.be/BYUy1yvjHxE</a>. <span class="citation">(<a href="reading#ref-schooloflifevideo">Botton 2014</a>)</span>
 </p>
 </div>
 
 <blockquote>
-<p>Alice: Yeah, he was the one that I liked the most and I think that the only ones that she did with him, what about relationships and love and kind of relationship with any kind. And I thought it was so nice and so sweet and absolutely loved it. So I recommend it. <span class="citation">(<a href="reading.html#ref-wrongperson1">Botton 2016</a>; <a href="reading.html#ref-wrongperson2">Tippett 2017</a>)</span></p>
+<p>Alice: Yeah, he was the one that I liked the most and I think that the only ones that she did with him, what about relationships and love and kind of relationship with any kind. And I thought it was so nice and so sweet and absolutely loved it. So I recommend it. <span class="citation">(<a href="reading#ref-wrongperson1">Botton 2016</a>; <a href="reading#ref-wrongperson2">Tippett 2017</a>)</span></p>
 </blockquote>
 </div>
 <div id="imitationgame" class="section level2" number="27.10">
-<h2><span class="header-section-number">27.10</span> One film</h2>
+<h2>
+<span class="header-section-number">27.10</span> One film<a class="anchor" aria-label="anchor" href="#imitationgame"><i class="fas fa-link"></i></a>
+</h2>
 <p>Good, Okay. And then last one is, one film.</p>
 <blockquote>
-<p>Alice: I’m gonna recommend again <em>The Imitation Game</em> <span class="citation">(<a href="reading.html#ref-imitationgame">Tyldum 2014</a>)</span> because I feel like that kind of gives you a really good taste of what’s happening and in general with the <a href="https://en.wikipedia.org/wiki/Manchester_Baby">(Manchester) baby</a> and Alan Turing and everything, (see figure <a href="alice.html#fig:imitationgame-fig">27.12</a>).</p>
+<p>Alice: I’m gonna recommend again <em>The Imitation Game</em> <span class="citation">(<a href="reading#ref-imitationgame">Tyldum 2014</a>)</span> because I feel like that kind of gives you a really good taste of what’s happening and in general with the <a href="https://en.wikipedia.org/wiki/Manchester_Baby">(Manchester) baby</a> and Alan Turing and everything, (see figure <a href="alice#fig:imitationgame-fig">27.12</a>).</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:imitationgame-fig"></span>
-<img src="images/the-imitation-game.jpeg" alt="Starring Benedict Cumberbatch and Kiera Knightley, The Imitation Game is a biographical thriller film directed by Morten Tyldum and written by Graham Moore. (Tyldum 2014) The film is based on Andrew Hodges biography: Alan Turing: The Enigma. (Hodges 1983)" width="100%" />
-<p class="caption">
-Figure 27.12: Starring Benedict Cumberbatch and Kiera Knightley, <a href="https://en.wikipedia.org/wiki/The_Imitation_Game">The Imitation Game</a> is a biographical thriller film directed by Morten Tyldum and written by Graham Moore. <span class="citation">(<a href="reading.html#ref-imitationgame">Tyldum 2014</a>)</span> The film is based on <a href="https://en.wikipedia.org/wiki/Andrew_Hodges">Andrew Hodges</a> biography: <em>Alan Turing: The Enigma</em>. <span class="citation">(<a href="reading.html#ref-hodgesturing">Hodges 1983</a>)</span>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:imitationgame-fig"></span>
+<img src="images/the-imitation-game.jpeg" alt="Starring Benedict Cumberbatch and Kiera Knightley, The Imitation Game is a biographical thriller film directed by Morten Tyldum and written by Graham Moore. (Tyldum 2014) The film is based on Andrew Hodges biography: Alan Turing: The Enigma. (Hodges 1983)" width="100%"><p class="caption">
+Figure 27.12: Starring Benedict Cumberbatch and Kiera Knightley, <a href="https://en.wikipedia.org/wiki/The_Imitation_Game">The Imitation Game</a> is a biographical thriller film directed by Morten Tyldum and written by Graham Moore. <span class="citation">(<a href="reading#ref-imitationgame">Tyldum 2014</a>)</span> The film is based on <a href="https://en.wikipedia.org/wiki/Andrew_Hodges">Andrew Hodges</a> biography: <em>Alan Turing: The Enigma</em>. <span class="citation">(<a href="reading#ref-hodgesturing">Hodges 1983</a>)</span>
 </p>
 </div>
 
 <p>Was that your introduction to some of that history?</p>
 <blockquote>
-<p>Alice: I didn’t realise all this stuff and then I went to <a href="https://en.wikipedia.org/wiki/Science_and_Industry_Museum">Science (and Industry) Museum</a>. I started, Oh my god, I watched a movie about this. I loved it. I thought was really cool. So I recommend it to everyone else, but if you watch there, you can watch <em>Call Me by Your Name</em>, (see figure <a href="alice.html#fig:callme-fig">27.13</a>)<span class="citation">(<a href="reading.html#ref-callmebyyourname">Guadagnino 2017</a>)</span>. It’s a gay love story, right? It’s adorable. It’s set in Italy, as well. So, it has very much summer vibes because obviously, the weather, Manchester is amazing for this, right? So I might, as well pretend I am in Italy.</p>
+<p>Alice: I didn’t realise all this stuff and then I went to <a href="https://en.wikipedia.org/wiki/Science_and_Industry_Museum">Science (and Industry) Museum</a>. I started, Oh my god, I watched a movie about this. I loved it. I thought was really cool. So I recommend it to everyone else, but if you watch there, you can watch <em>Call Me by Your Name</em>, (see figure <a href="alice#fig:callme-fig">27.13</a>)<span class="citation">(<a href="reading#ref-callmebyyourname">Guadagnino 2017</a>)</span>. It’s a gay love story, right? It’s adorable. It’s set in Italy, as well. So, it has very much summer vibes because obviously, the weather, Manchester is amazing for this, right? So I might, as well pretend I am in Italy.</p>
 </blockquote>
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:callme-fig"></span>
-<img src="images/call-me-by-your-name.jpeg" alt="A coming-of-age romantic drama, Call Me by Your Name was directed by Luca Guadagnino and first released in 2017. (Guadagnino 2017) Fair use image from Wikimedia Commons. 🇮🇹" width="100%" />
-<p class="caption">
-Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)">Call Me by Your Name</a></em> was directed by Luca Guadagnino and first released in 2017. <span class="citation">(<a href="reading.html#ref-callmebyyourname">Guadagnino 2017</a>)</span> Fair use image from Wikimedia Commons. 🇮🇹
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:callme-fig"></span>
+<img src="images/call-me-by-your-name.jpeg" alt="A coming-of-age romantic drama, Call Me by Your Name was directed by Luca Guadagnino and first released in 2017. (Guadagnino 2017) Fair use image from Wikimedia Commons. 🇮🇹" width="100%"><p class="caption">
+Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)">Call Me by Your Name</a></em> was directed by Luca Guadagnino and first released in 2017. <span class="citation">(<a href="reading#ref-callmebyyourname">Guadagnino 2017</a>)</span> Fair use image from Wikimedia Commons. 🇮🇹
 </p>
 </div>
 
@@ -715,7 +751,9 @@ Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.
 <p>So good. So thank you for those recommendations, we’ll put them on the playlist and we’ll put them on the show notes that go with this.</p>
 </div>
 <div id="alice-travel" class="section level2" number="27.11">
-<h2><span class="header-section-number">27.11</span> Advice to your former self</h2>
+<h2>
+<span class="header-section-number">27.11</span> Advice to your former self<a class="anchor" aria-label="anchor" href="#alice-travel"><i class="fas fa-link"></i></a>
+</h2>
 <p>So, the last thing is I call this time travel. So, if you could travel back in time to meet yourself as a first year, incoming student, what advice would you give yourself? Now it might be advice for yourself, and that might be different from advice you’d give to other people. So what you’d advise like how to get the most out of university?</p>
 <blockquote>
 <p>Alice: I think my personal advice realising now this year, how amazing everyone that I was friends with was I would recommend myself to kind of make a bit more. Obviously it’s quite overwhelming, right? First year you have a lot of people but I feel like I didn’t try to make as many friends that were international and British in first year just because probably I was a bit scared language barrier. A bit stressful time Romanian. Yeah, I thought I feel like I was trying to stay a bit more Romanians which I think it was very good for me. Especially in the first semester right now. Working very yeah character to come to a different country and then study in a different language that was shocking.</p>
@@ -738,7 +776,9 @@ Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.
 </blockquote>
 </div>
 <div id="disclaimer-6" class="section level2" number="27.12">
-<h2><span class="header-section-number">27.12</span> Disclaimer</h2>
+<h2>
+<span class="header-section-number">27.12</span> Disclaimer<a class="anchor" aria-label="anchor" href="#disclaimer-6"><i class="fas fa-link"></i></a>
+</h2>
 <div class="rmdcaution">
 <p>⚠️ <strong>Coding Caution</strong> ⚠️</p>
 <p>Please note these transcripts are generated with speech to text software and are not perfect word-for-word transcriptions. Some <a href="https://en.wikipedia.org/wiki/Speech_disfluency">speech disfluency</a> has been manually removed and links, cross references and pictures have been manually added for clarification. Extra (non-quoted) words are given in brackets like this: (some text added afterwards).</p>
@@ -746,27 +786,40 @@ Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.
 
 </div>
 </div>
-  </main>
-
-  <div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page">
-      <h2>On this page</h2>
-      <div id="book-on-this-page"></div>
+  <div class="chapter-nav">
+<div class="prev"><a href="jonathan"><span class="header-section-number">26</span> Jonathan’s story</a></div>
+<div class="next"><a href="sneha"><span class="header-section-number">28</span> Sneha’s story</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#alice"><span class="header-section-number">27</span> Alice’s story</a></li>
+<li><a class="nav-link" href="#alice-story"><span class="header-section-number">27.1</span> What’s your story Alice?</a></li>
+<li><a class="nav-link" href="#why-alice"><span class="header-section-number">27.2</span> Why study Computer Science?</a></li>
+<li><a class="nav-link" href="#alice-second"><span class="header-section-number">27.3</span> Second year</a></li>
+<li><a class="nav-link" href="#alice-thg"><span class="header-section-number">27.4</span> THG.com</a></li>
+<li><a class="nav-link" href="#alice-struggle"><span class="header-section-number">27.5</span> Job struggles</a></li>
+<li><a class="nav-link" href="#alice-final"><span class="header-section-number">27.6</span> Final year project: Coding their Future</a></li>
+<li><a class="nav-link" href="#alice-minority"><span class="header-section-number">27.7</span> Minority report</a></li>
+<li><a class="nav-link" href="#harry-styles"><span class="header-section-number">27.8</span> One tune</a></li>
+<li><a class="nav-link" href="#onbeing"><span class="header-section-number">27.9</span> One podcast</a></li>
+<li><a class="nav-link" href="#imitationgame"><span class="header-section-number">27.10</span> One film</a></li>
+<li><a class="nav-link" href="#alice-travel"><span class="header-section-number">27.11</span> Advice to your former self</a></li>
+<li><a class="nav-link" href="#disclaimer-6"><span class="header-section-number">27.12</span> Disclaimer</a></li>
+</ul>
 
       <div class="book-extra">
         <ul class="list-unstyled">
-          <li><a id="book-source" href="#">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="#">Edit this page <i class="fab fa-github"></i></a></li>
+<li><a id="book-source" href="https://github.com/dullhunk/cdyf/blob/master/27-alice.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/dullhunk/cdyf/edit/master/27-alice.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
         </ul>
-      </div>
+</div>
     </nav>
-  </div>
+</div>
 
 </div>
 </div> <!-- .container -->
 
-<footer class="bg-primary text-light mt-5">
-  <div class="container"><div class="row">
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
     <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 26 July, 2023. </p>
@@ -777,11 +830,7 @@ Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.
   </div>
 
 </div></div>
-</footer>
-
-
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
@@ -793,8 +842,7 @@ Figure 27.13: A coming-of-age romantic drama, <em><a href="https://en.wikipedia.
     script.src = src;
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
-</script>
-<script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
 for (let popover of popovers) {
   const div = document.createElement('div');
   div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
@@ -812,5 +860,4 @@ for (let popover of popovers) {
 }
 </script>
 </body>
-
 </html>
