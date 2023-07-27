@@ -2,13 +2,13 @@
 
 # Hearing your future {#hearing}
 
-*Hearing your Future* is the Coding your Future podcast which accompanies this guidebook. We talk to [graduands](https://en.wiktionary.org/wiki/graduand) and graduates of computer science to hear more about their journey from student to professional. What happens after graduation like the one shown in figure \@ref(fig:graduation-fig)? What comes next?
+*Hearing your Future* is the Coding your Future podcast which accompanies this guidebook. We talk to the [graduands](https://en.wiktionary.org/wiki/graduand) and graduates of computer science shown in figure \@ref(fig:collage-fig), to hear more about their journey from student to professional. What happens after graduation like the one shown in figure \@ref(fig:graduation-fig)? What comes next?
 
-```{r graduation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongraduation)"}
-knitr::include_graphics("images/graduation2.jpeg")
+```{r collage-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncollage)"}
+knitr::include_graphics("images/alltwelve.jpeg")
 ```
 
-(ref:captiongraduation) Silly hat? ✅ Silly frock? ✅ Wearing your best outfit? ✅ It must be time for graduation! What comes next? *Hearing your future* interviews current and former students to find out more about how they got to where they are and where they are going to next. Picture of obligatory hat throwing outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building in 2018. Photobombing by [Gavin Brown](https://profgavinbrown.github.io/) 🎓
+(ref:captioncollage) Collage of Computer Scientist portraits re-used from LinkedIn and Github with permission. From left to right, top to bottom: thanks Raluca (chapter \@ref(raluca)), Jason (chapter \@ref(jason)), Brian (chapter \@ref(brian)), Carmen (chapter \@ref(carmen)), Sneha (chapter \@ref(sneha)), Alice (chapter \@ref(alice)), Jonathan (chapter \@ref(jonathan)), Ivo (chapter \@ref(ivo)), Ingy (chapter \@ref(ingy)), Nadine (chapter \@ref(nadine)), Pedro (chapter \@ref(pedro)) and Amish (chapter \@ref(amish)). 🙏
 
 ## From student to professional {#pro}
 
@@ -361,12 +361,19 @@ I'd sit alone and watch your light, my only friend through teenage nights. Every
 
 Your future is bright, your future needs listening. Listening to your future, will help you code your future. 
 
+```{r graduation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongraduation)"}
+knitr::include_graphics("images/graduation2.jpeg")
+```
+
+(ref:captiongraduation) Silly hat? ✅ Silly frock? ✅ Wearing your best outfit? ✅ It must be time for graduation! What comes next? *Hearing your future* interviews current and former students to find out more about how they got to where they are and where they are going to next. Picture of obligatory hat throwing outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building in 2018. Photobombing by [Gavin Brown](https://profgavinbrown.github.io/) 🎓
+
+
 In *Hearing your Future*, you can listen to students about how they are Coding their Future. We hope you'll be  inspired and encouraged by their stories to help you on your journey.
 
 ### Thanks Jez {#jez}
-This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏
+This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer, director, editor, sound engineer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏
 
-This podcast has borrowed ideas from the BBC. If it were broadcast on Radio 4, it would be a cross between *Desert Island Discs* and *The Life Scientific*. [@thelifescientific] Thanks to Jim Al-Khalili, Lauren Laverne, Sue Lawley, Kirsty Young, Michael Parkinson and Roy Plumley for the inspiration. [@desertislandddiscs]
+This podcast has also borrowed ideas from the BBC. If it were broadcast on Radio 4, it would be a cross between *Desert Island Discs* and *The Life Scientific*. [@thelifescientific] Thanks to Jim Al-Khalili, Lauren Laverne, Sue Lawley, Kirsty Young, Michael Parkinson and Roy Plumley for the inspiration. [@desertislandddiscs]
 
 ```{r jez-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionjez)", dev='png'}
 knitr::include_url('https://www.podomatic.com/podcasts/cs-engagement')
