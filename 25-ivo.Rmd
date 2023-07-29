@@ -14,10 +14,14 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 ```
 
 ## What's your story Ivo? {#ivo-story}
-So welcome Ivo, could you just tell us a little bit about yourself? What's your name on where do you come from? I've already introduced you, but who are you? 
+So welcome Ivo, could you just tell us a little bit about yourself? What's your name on where do you come from?
 
-> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from [Sofia](https://en.wikipedia.org/wiki/Sofia), the Capital and right now I'm a final year student, 
-who is gonna graduate in a couple of months, actually in a month. 
+> Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria (See figure \@ref(fig:bulgaria-fig)) from [Sofia](https://en.wikipedia.org/wiki/Sofia), the capital. Right now I'm a final year student, who is gonna graduate in a couple of months, actually in a month. 
+
+```{r bulgaria-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbulgaria)"}
+knitr::include_graphics("images/bulgaria.png")
+```
+(ref:captionbulgaria) [Bulgaria](https://en.wikipedia.org/wiki/Bulgaria), shown in dark green here, is bordered by Romania to the north, Serbia and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) map of Romania by [NuclearVacuum](https://commons.wikimedia.org/wiki/User:NuclearVacuum) via Wikimedia Commons [w.wiki/792q](https://w.wiki/792q) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🇧🇬  
  
 So you just had exams, you're in the middle of exam. So thank you for coming in the middle of the exam period. Right. 
  
