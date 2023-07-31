@@ -226,9 +226,15 @@ Right and that'll be in London again, I guess?
 
 Yeah no thanks to all the time but I thought I'd like to thank you again for the record. Thank you for coming in talking to first year because it's quite difficult to find speak as you can engage with the audience, right You can find people to come and talk about their organisation, that's not very hard. What's difficult is finding somebody can talk knowledeably about an organisation but also *engage* with the audience and one thing I haven't at the end of viewers and you had got some pictures of it, (shown in figure \@ref(fig:ivotalking-fig)). There's a big queue of people coming to speak to you after. That's my measure of has a talk been successful? If lots of people come up with the end of talk to you, then you know you're winning. So thanks for doing that. That was a really good talk.
 
-> Ivo: Yeah, I think definitely there is a need for for students because we have a lot of like we have ever more information available to us. Ever more opportunities to choose from. At the same time, it's a matter of [Gen Z](https://en.wikipedia.org/wiki/Generation_Z), the generation I'm in, I have seen studies and I have seen for myself as well that we are, definitely not ready for this kind of information to be able to kind of crunch it and make a choice. And that's what I find most people struggle with is that we are supposed to be more independent than ever in terms of making our own choices. But what I've seen is studies that people are even more getting used to, let's say leave home later, like they rely on their parents way more in terms of financials in terms of where to live, but also in terms of like emotional support and kind of this decision making. So long story short, people don't want to make  choices. But they *have* to make a lot of choices right now. 
+> Ivo: Yeah, I think definitely there is a need for for students because we have a lot of like we have ever more information available to us. Ever more opportunities to choose from. At the same time, it's a matter of [Gen Z](https://en.wikipedia.org/wiki/Generation_Z), the generation I'm in, I have seen studies (see figure \@ref(fig:igen-fig)) and I have seen for myself as well that we are, definitely not ready for this kind of information to be able to kind of crunch it and make a choice. And that's what I find most people struggle with is that we are supposed to be more independent than ever in terms of making our own choices. But what I've seen is studies that people are even more getting used to, let's say leave home later, like they rely on their parents way more in terms of financials in terms of where to live, but also in terms of like emotional support and kind of this decision making. So long story short, people don't want to make  choices. But they *have* to make a lot of choices right now. 
 
-It's an American expression but the "fire hose", people talk about the fire hose as just this kind of fire hose of information blasting at you about opportunities that there are things that you could do and it's you know it's like you're saying you searching inside yourself as well as searching inside the fire hose it's a big challenge I think for most people.
+```{r igen-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionigen)"}
+knitr::include_graphics("images/igen.jpeg")
+```
+(ref:captionigen) First published in 2017, *iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy—and Completely Unprepared for Adulthood* is a book by [Jean Twenge](https://en.wikipedia.org/wiki/Jean_Twenge) that studied the lifestyles, habits and values of Americans born 1995-2012, the first generation to reach adolescence after smartphones became widespread. [@twenge] [Fair use](https://en.wikipedia.org/wiki/Fair_use) image from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🤳
+
+
+It's an American expression but the expression "[drink from a fire hose](https://en.wiktionary.org/wiki/drink_from_a_firehose)" captures this idea information blasting at you about opportunities that there are things that you could do and it's you know it's like you're saying you searching inside yourself as well as searching inside the fire hose it's a big challenge I think for most people.
 
 > Ivo: It's definitely like an enormous challenge and that's that's the reason why I did, I think I told you this story about how I decided. Did I tell you how I decided?
 
@@ -292,7 +298,7 @@ So the subscriptions worth it.
 ```{r hall-of-fame-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhalloffame)"}
 knitr::include_graphics("images/hall-of-fame.jpeg")
 ```
-(ref:captionhalloffame) *Hall of Fame* is a song by Irish pop rock band the Script featuring American rapper will.i.am of The Black Eyed Peas. [@halloffame] Fair use image from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionhalloffame) *Hall of Fame* is a song by Irish pop rock band the Script featuring American rapper will.i.am of The Black Eyed Peas. [@halloffame] [Fair use](https://en.wikipedia.org/wiki/Fair_use) image from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 
 
@@ -330,7 +336,7 @@ And then one, one film, I don't know if you are a big film buff but is there a p
 ```{r interstellar-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioninterstellar)"}
 knitr::include_graphics("images/interstellar.jpeg")
 ```
-(ref:captioninterstellar) Set in a dystopian future where humanity is embroiled in a catastrophic blight and famine, interstellar follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humankind. [@interstellar] Fair use movie poster from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captioninterstellar) Set in a dystopian future where humanity is embroiled in a catastrophic blight and famine, interstellar follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humankind. [@interstellar] [Fair use](https://en.wikipedia.org/wiki/Fair_use) movie poster from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Right
 
@@ -357,7 +363,7 @@ Yeah, for me it's it's kind of weird what a book is anymore.
 ```{r seven-habits-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsevenhabits)"}
 knitr::include_graphics("images/seven-habits.jpeg")
 ```
-(ref:captionsevenhabits) The 7 habits of highly effective people is the best-known book of Richard R. Covey, and has sold more than 40 million copies worldwide since its first publication in 1989. [@sevenhabits] Fair use image from Wikimedia Commons [w.wiki/74Hz](https://w.wiki/74Hz) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionsevenhabits) The 7 habits of highly effective people is the best-known book of Richard R. Covey, and has sold more than 40 million copies worldwide since its first publication in 1989. [@sevenhabits] [Fair use](https://en.wikipedia.org/wiki/Fair_use) image from Wikimedia Commons [w.wiki/74Hz](https://w.wiki/74Hz) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 And this is quite an old book, isn't it? That's been around for a long time, I think.
