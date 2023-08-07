@@ -884,7 +884,7 @@ evenmoreplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhun
 ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
 ```
 
-(ref:ieblurb) Number of undergraduate students completing a year in industry as part of their degrees in Computer Science at the University of Manchester. Since 2008 over 900 students have completed the program that I have been leading since 2012. We've managed to double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
+(ref:ieblurb) Number of undergraduate students completing a year in industry as part of their degrees in Computer Science at the University of Manchester. Since 2008 over 1100 students have completed the program that I have been leading since 2012. We've managed to triple the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
 
 I've documented some of what our students have taught me, so reading this book may help you learn from some of their successes and failures.
 
