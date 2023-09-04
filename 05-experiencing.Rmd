@@ -110,7 +110,7 @@ knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughou
 
 ### Summer vs. year-long experience? {#interns}
 
-You might be wondering which length of experience is better, a short summer internship or year-long industrial placemnt (aka co-op). [@kaplong] Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
+You might be wondering which length of experience is better, a short summer internship or year-long industrial placement (aka co-op). [@kaplong] Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
 
 ```{r interntable, echo = FALSE}
 intern_table <- tibble::tribble(
