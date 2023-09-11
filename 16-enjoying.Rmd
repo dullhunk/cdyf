@@ -117,7 +117,7 @@ knitr::include_graphics(rep("images/Red-Rose-of-Lancaster.png", 5))
 
 
 ## The Dad-rock playlist {#dadrock}
-Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists using *proper* musical instruments, see figure \@ref(fig:jimi-hendrix-fig). None of this social media powered digital nonsense thank you very much! [@lanier]
+Using the medium of rock, this playlist grumpily reminds you that “*when I was your age*” music was much better and it's all gone downhill since the good old days. Nostalgia isn't what it used to be but these classics were made by *true* artists using *proper* musical instruments, see figure \@ref(fig:jimi-hendrix-fig). None of this social media and AI powered digital nonsense thank you very much! [@lanier]
 
 ```{r jimi-hendrix-fig, echo = FALSE, fig.show = "hold", out.width = "99%", fig.cap = "(ref:captionhendrix)"}
 knitr::include_graphics("images/jimi-hendrix.jpeg")
