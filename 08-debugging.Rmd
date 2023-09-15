@@ -84,7 +84,7 @@ knitr::include_graphics("images/notabug.jpeg")
 
 (ref:captionnotabug)  “It's not a *bug*, it's a *feature*...” (according to A. Hacker). Do you have [software bugs](https://en.wikipedia.org/wiki/Software_bug) or [undocumented features](https://en.wikipedia.org/wiki/Undocumented_feature) on your CV or résumé? Although tolerated in software, bugs in your CV, résumé and written applications can be fatal. Picture of gold-dust weevil *[Hypomeces pulviger](https://en.wikipedia.org/wiki/Hypomeces_pulviger)* by [Basile Morin](https://commons.wikimedia.org/wiki/User:Basile_Morin) is licensed CC BY SA via Wikimedia Commons [w.wiki/3E62](https://w.wiki/3E62) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Nobody likes buggy software, but unfortunately we routinely have to tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware]
+Nobody likes buggy software, but unfortunately we routinely have to tolerate badly-designed, low quality, bug-ridden software in our everyday lives. [@badsoftware; @failware] 
 
 In contrast, buggy CVs are rarely tolerated, they will usually end up in the bin. Even a tiny defect, like an innocent typo, can be ~~fetal~~ fatal. [@typos] Most employers (particularly large and well known ones) have to triage hundreds or even thousands of CV's for any given vacancy. This means the person reading your CV is as likely to be looking for reasons to `REJECT` your CV, than `ACCEPT` it, because that's a sensible strategy for shortlisting from a huge pool of candidates. A buggy CV, application and covering letter could ruin your chances of being invited to an interview, see chapter \@ref(speaking).
 
@@ -634,7 +634,7 @@ Besides providing feedback on the content of your CV, using these systems can he
 * Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see [what happens to tables and columns in an applicant tracking system](https://www.jobscan.co/blog/resume-tables-columns-ats/) [@jobscan]
 
 ### Spellchecking {#spelling}
-Bots, grammar checkers, Artificial Intelligence (AI) and spell checkers can help improve your written applications and CV. However, you can't rely on machines and their algorithms completely. The résumé robots described in section \@ref(robotproof) will just encode the biases and prejudices of whoever wrote their algorithms, see section \@ref(machines). Basic spellcheckers can't be relied on completely either, as shown in the poem below:
+Bots, grammar checkers, Artificial Intelligence (AI) and spell checkers can help improve your written applications and CV. However, you can't rely on machines and their algorithms completely. The résumé robots described in section \@ref(robotproof) will just encode the prejudices of whoever wrote their algorithms and whatever bias there was in the data it was trained on, see section \@ref(machines). Basic spellcheckers can't be relied on completely either, as shown in the poem below:
 
 ```
 
