@@ -141,81 +141,128 @@ The student software company.
 
 This is pre-twitter meltdown? When will the APIs were still open and you get the day to you?  Ingy: Before we were actually face-to-face in person or this was online again? 
 
-> Ingy: So even though Egypt was a bit more open than the UK, this was fully remote which was it wasn't too bad considering some people's internship got cancelled. But it was it was a really good learning experience. It was a lot to juggle both because I was working in technically two different time zones and sometimes I wasn't even in both. So I would be in Dubai or something and Egypt is a few hours ahead and then the UK is a few hours behind.
+> Ingy: So even though Egypt was a bit more open than the UK, this was fully remote which was it wasn't too bad considering some people's internship got cancelled. But it was it was a really good learning experience. It was a lot to juggle both because I was working in technically two different time zones and sometimes I wasn't even in both. So I would be in Dubai or something and Egypt is a few hours ahead and then the UK is a few hours behind. So working weird hours but doing both, I learnt a lot. So for the IN3 one it's the reason why I picked my third year project. And it's the reason I got NLP experience, so early on and then for the imago one I learnt how to deal with tough people and also a lot of web development
 
-So be like Working like weird hours but doing both, I learnt a lot. So for the iron31 it's the reason why I picked my third year project. And it's the reason I got NLP experience, so early on and then for the immigoan I learnt like how to deal with tough people and also like a lot of web developments of What is this barriers you faced in the job of working?
+So as well as the barriers you faced in the job of working, I supposed it was your first serious job, I guess ?
 
-Now I'm supposed to kind of first serious job. I guess some ways I generally like volunteering roles but nothing that paid having a paid, um, but I got really lucky that there is this volunteer. Coding thing, that one of like, the graduates from you and code first girls or that.
+> Ingy: I generally had volunteering roles 
 
-Not. So, I did cause cold first girls as like, I took the course right in first year and then Um, I did this thing called tech together. I think, um, and It basically, we did we provided software solutions for charities, right? So it wasn't paid or anything. I'm just volunteering and it was technically with the uni.
+but nothing that paid?
 
-Um so that is what got me the immigod we're all which got me the immigo summer and the IN3. So it like all kind of like Yeah, I think one of the biggest barriers that Most students face in getting that first internship. Yes, it's having something something volunteven, voluntary work.
+> Ingy: but I got really lucky that there is this volunteer Coding thing, that one of like, the graduates from the University did.
 
-Yeah, or especially voluntary work. Good valuable, but it's getting that in the first place, right? It's like this kind of I think that's why like volunteering is the easiest route to getting experience because a no one's gonna say no to an extra volunteer but also, like the diversity. You get from volunteering is like you work with like Completely different people and on completely different projects like one of the projects we work like we worked on was for like this organisation based in Rwanda and another one was based in the UK.
+Is that code first girls? [codefirstgirls.com](https://codefirstgirls.com/)?
 
-So it's you work with a bunch of different people on different projects and the experience you get is pretty good comparatively right? Okay, good. So then that show some spend juggling. Yeah, two jobs that no one and you about until today, coming out of pandem. Well, beginning to come out of pandemic.
+> Ingy: So, I did cause code first girls, I took the course right in first year and then I did this thing called tech together [techtogether.io](https://techtogether.io/). It basically, we provided software solutions for charities? So it wasn't paid or anything. I'm just volunteering and it was technically with the uni. So that is what got me the imago role which got me the imago summer and the IN3. 
 
-Yeah. And your second year. So then what happened in the second year you were then also, as well as All right. Doing a degree you were applying for stuff. Yeah. Following summer. Yeah. So um, so can you talk a little people told you earlier is you apply September October time, right?
+I think one of the biggest barriers that most students face in getting that first internship. is having something  even, voluntary work.
 
-Which she didn't, which I did yeah. Because I applied in year one, right. But a lot of my friends who hadn't tried to apply your own, They were like, oh I'm gonna take this year off, didn't realise until like end of October that a lot of the more competitive roles where starting applications September October.
+> Ingy: Yeah, or especially voluntary work. Good valuable, but it's getting that in the first place, right?  I think **that's why like volunteering is the easiest route to getting experience because a no one's gonna say NO to an extra volunteer** but also, the diversity. You get from volunteering is like you work with completely different people and on completely different projects like one of the projects we worked on was for  this organisation based in Rwanda and another one was based in the UK. So it's you work with a bunch of different people on different projects and the experience you get is pretty good comparatively 
 
-And even I think like AWS, like films, like all their spaces by September, like, end of some, there's a little bit of sometimes. Even do talk about August. Yeah, trying to get in there before. Yeah, exactly. Like the August one's are insane to me because, yeah, you haven't even started.
+right? Okay, good. So then that your summer spent juggling two jobs 
 
-Second year you're applying as a second year student, But I Yeah, I was applying for roles in this time. I was trying to do something like More structured. So like some internship scheme or like some big company like and I guess, looking for stuff face to face. Yeah. Because you're experiences have been limited to online.
+> Ingy: that no one knew about until today, 
 
-Only. Yeah, which is an important skill. Now yeah, to be able to work online and that And people are still kind of learning how to do that, But that's becoming an increase. I mean we've always had bank computing. I think. Yeah. But It's, it's an important skill to be able to master even when you're working face to face.
+coming out of pandemic, Well, beginning to come out of pandemic. And your second year. So then what happened in the second year you were then also as well as doing a degree you were applying for stuff. Yeah. Following summer. Yeah. So um, so can you talk a little people told you earlier is you apply September October time, right?
 
-Yeah, you're gonna be able to navigate all this stuff. I like I was used to my parents being in meetings and like I've probably yeah. Like they've always done like Skype meetings before when Skype was a thing And I kind of like interrupted those meetings before so moving to remote was like I know it's not to do now, you know, like I know to turn off my camera and they're like turn off my mic but it was it was different doing it for work than like when I'm on a call with my friends but definitely I want to something in person because I wanted to like talk to people because I think everyone Yeah, everyone.
+Because I applied in year one, right. But a lot of my friends who hadn't tried to apply your own, They were like, oh I'm gonna take this year off, didn't realise until end of October that a lot of the more competitive roles were starting applications September October. And even I think like AWS, (Amazon Web Services), fill all their spaces by September, end of September
 
-I'd worked with Emma, go. I I think Emma go. I'd only met two people. As a whole and I'd worked on technically three projects over the span of like two years. So it was fellow students who are working with or No, I never met this too because it was all online, but you saw your meeting clients?
+there's a little bit of, some even talk about August. Yeah, trying to get in there before. Yeah, exactly. Like 
 
-No. So I met like I either the lectures who are in charge or like, There is expression called exam. Embry and Garrett. I mean Gareth I had to do it first year so but I met Yan who used to work at Disney and he came into like advise okay, yeah just me and him worked on the project together so then afterwards when lockdown ended we agreed to like go grab coffee or something And it was nice to like see people that I worked with.
+> Ingy: The August ones are insane to me because, yeah, you haven't even started second year you're applying as a second year student, But I was applying for roles in this time. I was trying to do something more structured. So like some internship scheme or like some big company  
 
-Um, but i never, i think I only met one person that I'd worked with. I know other people have met more, but everyone I worked with either graduated or actually no. I met two people but they were a year older. So they went on placement, right? And then this year, I finally met them face to face because they came back.
+and I guess, looking for stuff face to face? Yeah. Because you're experiences have been limited to online only. Yeah, which is an important skill. Now 
 
-I was it Amish? Oh, some unicias right. But Zane A last year was my co-pass leader, and Gabby, right? She was on my first ever project so we tried to like stay in touch because her placement was based in Manchester and then we ended up meeting like I think end of the second year.
+> Ingy: yeah
 
-Um, and that was really like surreal because I see her through Zoom, 'Cause I think the thing is like when you're for somebody's established like like your parents, say those established, their already built relationships with their colleagues face to face in real time. That transition to online's kind of easier because they know all those people really when you're starting out fresh, you don't know anyone.
+To be able to work online and that people are still kind of learning how to do that, But that's becoming an increase. I mean we've always had that in computing. I think. Yeah. But It's, it's an important skill to be able to master even when you're working face to face. You're gonna be able to navigate all this stuff. 
 
-Yeah. And so don't have a company. Cultures are being like, oh, high by through Zoom and you never talk again. Yeah. So it was like you're trying to like see who who's just being friendly and like, who can you actually like talk to after? And I like, honestly, I'm very grateful for having Gabby on my first project because I ended up talking to her and asking it for advice about like second year and stuff.
+> Ingy: I was used to my parents being in meetings and they've always done Skype meetings before, when Skype was a thing, and I interrupted those meetings before so moving to remote was I know what not to do now, you know, like I know to turn off my camera and turn off my mic but it was it was different doing it for work than like when I'm on a call with my friends but definitely I wanted something in person because I wanted to talk to people because I think everyone I'd worked with at imgao, I'd only met two people as a whole and I'd worked on technically three projects over the span of two years. 
 
-So what helped So then whatso places we applying to in your second year and what sort of barriers did you face? How did you ever come? Yeah, talked about some of those things already, but there are any other things. So, like, second year, I think, was the hardest and like my mental health.
+So that was fellow students you were working with?
 
-For like a lot of reasons. But also like internship applications. I like I decided to boycott LinkedIn because I do not recommend anyone searching for jobs to be on LinkedIn at that time. Well, because of the sort of social media toxic kind of Just oh my, it's like, oh my god.
+> Ingy: No, I never met tese too because it was all online, 
 
-I'm so grateful to have these three offers, but I decided to take this like, dude, you don't need to do that. Yeah. Like Kind of just turn Google and Microsoft down. I'm going to take this job with Amazon, Exactly. I've literally seen someone, who's like, oh, I decided to go with apple and I said, bye to like Google and Microsoft and I'm like, you don't, you don't need to do that.
+But you saw your meeting clients?
 
-I know that's pretty interesting point because I think actually that's a problem social media isn't it? People only talk about good stuff. Yeah so you never hear about the bad stuff or you rarely hear about exactly. So you can kind of get this impression and everything was going well everything's going well for everyone else but for me yeah it's my 30 job you know rejections of had from exact components.
+> Ingy: No. So I met like I either the lectures who are in charge or like, Suzanne Embury and Gareth Hendhall. I mean Gareth I had to do it first year so but I met Jan who used to work at Disney and he came into like advise okay, yeah just me and him worked on the project together so then afterwards when lockdown ended we agreed to like go grab coffee or something and it was nice to see people that I worked with. But I never, I think I only met one person that I'd worked with. I know other people have met more, but everyone I worked with either graduated or... actually no, I met TWO people but they were a year older so they went on placement. And then this year, I finally met them face to face because they came back.
 
-So You know, applying for summer intentions which where did you end up working? In the end of your second, No end of second year and ended up working at McKenzie specifically like MacKenzie digital And that was, Partly thanks to my past leader Carmen who also worked in McKenzie and she's been a guest on the shit.
+I was it Amish? But Zane last year was my co-pass leader, and Gabby, right? She was on my first ever project so we tried to like stay in touch because her placement was based in Manchester and then we ended up meetingike I think end of the second year. Um, and that was really surreal because I see her through Zoom, 
 
-Yeah, exactly. So she I was talking to her about wanting to do something that isn't pure software engineering, because after all the interviews that I've done, I realised that I don't want to be working on like the tiny search button on the Google Homepage. You know, like I want to have more variety and more control over what I do.
+> Cause I think the thing is like when you're somebody who is established like like your parents, say those established, their already built relationships with their colleagues face to face in real time. That transition to online is easier because they know all those people. When you're starting out fresh, you don't know anyone.
 
-Um, and she recommended because Mackenzie's project based that it would be a good fit. So I ended up applying for that solely talking to her. Um, And I think like when I guess that's the case with consultancy generally, isn't it not just McKinsey is that you're getting where you're what doing stuff with clients rather than just one company.
+> Ingy: like, oh, "HI BYE" through Zoom and you never talk again. Yeah. So it was like you're trying to like see who who's just being friendly and like, who can you actually talk to after? And I like, honestly, I'm very grateful for having Gabby on my first project because I ended up talking to her and asking it for advice about  second year and stuff.
 
-You're more. You're more likely to get exposed to different kind of practises. Exactly people and you get different industries too, That's actors. Yeah and different technology And that was based in London. So you actually in London I was actually in London finding a place to stay with very hard.
+So then what sort of places were you applying to in your second year and what sort of barriers did you face? How did you overcome? You  talked about some of those things already, but there are any other things. 
 
-Expensive. Yeah it it's not like Manchester no. But I I think because I applied to very different things in the beginning, versus the end of my application period. Like first as applying to like the Googles, the Meadows, the whatever and then after doing a bunch of interviews and realising, I'm not the kind of person who memorizes coated like memorizes, coating questions and I wouldn't want my interview to be solely based on how well I can pretend to not know a question that I've seen before.
+> Ingy: second year, I think, was the hardest and like my mental health for a lot of reasons. But also like internship applications. I like I decided to boycott [LinkedIn.com](https://www.linkedin.com/) because I do not recommend anyone searching for jobs to be on LinkedIn at that time!
 
-Well, let me think about yeah, I only got it. Like I think one time I sat down I was like okay, let me Oh coming out right let me try and memorise. Like let me try and do some link code questions and I got one interview. That was a question.
+Because of the social media toxic 
 
-I'd done something similar to and it just felt wrong pretending that I didn't know how to do it and I didn't like that. I mean, did they say Did they say or is it implied that if you know this then don't let on that. You know it? Why you're trying to really smart and you're working this out on the fly actually you've prepared this one.
+> Ingy: Just *oh my god I'm so grateful to have these three offers*, but I decided to take this, dude, you don't need to do that. Yeah. 
 
-Yeah, it's one. Before The advice that I saw online was that like if you get one that you've seen before, It's best to like give a bad answer first Pretend like you're thinking And then optimise and then get a very good optimal solution and it looks like you can like think on like in seconds and it Having interviews that were solely based on.
+Like Kind of just turn Google and Microsoft down. I'm going to take this job with Amazon,
 
-That isn't where I like, that's not where I want to work. I don't want to work in a place where All they care about is how well I can turn out algorithm. I think actually the employers probably don't care about that as much as they. Yeah. Anyway, it's just because that the hiring is so competitive.
+> Ingy: Exactly. I've literally seen someone, who's like, oh, I decided to go with Apple and I said, bye to like Google and Microsoft and I'm like, you don't, you don't need to do that.
 
-Exactly. The bill have these coding interviews and actually, That doesn't necessarily select the best engineers because you're just selecting on technical skill. Yeah, no. Any of the other stuff? Yeah, So I started applying for jobs that were like, soft skill more. And that this was like, before the McKenzie one, which is like half the interviews were literature just soft skills.
+I know that's pretty interesting point because I think actually that's a problem social media isn't it? People only talk about good stuff. Yeah so you never hear about the bad stuff or you rarely hear about exactly. So you can kind of get this impression and everything was going well everything's going well for everyone else but for me, it's my 30 job rejections. So You know, applying for summer internships which where did you end up working? 
 
-Um, i even want all the way to, like, product management. Refund, is infuse, okay? Or I prefer it? I personally like, yeah, I prefer being myself and like, talking with someone over. Asking like answering and coding question. When you come, they can be tough but in a different way, right?
+> Ingy: In the end of your second, No end of second year and ended up working at McKinsey specifically like McKinsey digital And that was, Partly thanks to my PASS leader [https://www.cdyf.me/carmen](Carmen) who also worked in McKinsey.
 
-So if somebody asks you a question like I don't know. Give me an example of way you've resolved. The conflict, your team. It's quite difficult to come up with a good answer to that question on the flying as you thought about it just beforehand, I think with doing UNICS and second year, I got very good experience for the kind of questions.
+She's been a guest on the show
 
-It's harder. If you don't have experience with, like, roles that would let you do those things. But like, would you see us definitely like, have you dealt with a challenging person? Absolutely. Have you, That was someone who didn't want to do their work, like, what did you 100%? But I think that, like, for people who haven't had the opportunity to like lead teams or work with the big variety of people, it those questions become harder but there's I think it's like, There's a structure like star or something that tells you how you should answer it Situation.
+> Ingy: Yeah, exactly. I was talking to her about wanting to do something that isn't pure software engineering, because after all the interviews that I'd done, I realised that I don't want to be working on the tiny search button on the Google Homepage. You know, I want to have more variety and more control over what I do. She recommended, because McKinsey is project based, and that it would be a good fit. So I ended up applying for that solely talking to her. 
 
-Task action result. I was I put an ear on the end for evidence. Yeah. I mean that's part of the results in a way but if you can provide some sort of evidence, yeah, which is probably your results actually. So doing that. Like and I think before I prepared for interviews, I had like an Excel sheet and I got the most generic possible ranges of questions like challenging person, different environment, whatever.
+I guess that's the case with consultancy generally, not just McKinsey is that you're getting where you're what doing stuff with clients rather than just one company, you're more likely to get exposed to different kinds of practices, different people
 
-And I just sat down and I thought of like two scenarios for each question And just thinking about trying pick examples from different places. Yeah. So they're not all. Are you this? So yeah, this you kind of want because you can't be like they ask you two questions. You're like, let me tell you about Unity.
+> Ingy: :you get different industries too, sectors. Yeah and different technology 
+
+And that was based in London. 
+
+> Ingy: I was actually in London finding a place to stay was very hard.
+
+Expensive. 
+
+> Ingy: Yeah it's not like Manchester 
+
+No! 
+
+> Ingy: But I think because I applied to very different things in the beginning, versus the end of my application period. Like first as applying to like the Googles, the Metas, the whatever and then after doing a bunch of interviews and realising, I'm not the kind of person who memorizes coding questions and I wouldn't want my interview to be solely based on how well I can pretend to not know a question that I've seen before.
+
+> Oooh let me think about yeah, 
+
+> Ingy: I only got it. Like I think one time I sat down I was okay, let me Oh coming out right let me try and memorise. Like let me try and do some leetcode questions and I got one interview. That was a question. I'd done something similar to and it just felt wrong pretending that I didn't know how to do it and I didn't like that. 
+
+Did they say or is it implied that if you know this then don't let on that you know it? Because you're trying to look really smart and you're working this out on the fly actually you've prepared this one.
+
+> Ingy: The advice that I saw online was that if you get one that you've seen before, it's best to give a bad answer first and pretend you're thinking 
+
+... and then optimise? 
+
+> and then get a very good optimal solution and it looks like you can think in seconds and having interviews that were solely based on that isn't, that's not where I want to work. **I don't want to work in a place where all they care about is how well I can turn out algorithm**.
+
+
+I think actually the employers probably don't care about that as much that Anyway, it's just because that the hiring is so competitive.
+
+> Ingy: Exactly. 
+
+They'll have these coding interviews and actually, that doesn't necessarily select the best engineers because you're just selecting on technical skill. not any of the other stuff? 
+
+> Ingy: So I started applying for jobs that were like, soft skill more. And that this was like, before the McKinsey one, which is half the interviews were literally just soft skills. Um, I even want all the way to, like, product management. 
+
+Did you find those interviews okay? Or 
+
+> Ingy: I prefer it. I personally, I prefer being myself and talking with someone over answering a coding question.
+
+They can be tough but in a different way, right? So if somebody asks you a question like *Give me an example of way you've resolved a conflict in your team*. It's quite difficult to come up with a good answer to that question on the fly unless you've thought about it just a ltitle bit beforehand.
+
+> Ingy: I think with doing [UNICS](https://unicsmcr.com/) in second year, I got very good experience for the kind of questions. It's harder. If you don't have experience with, like, roles that would let you do those things. But like, would you see us definitely like, have you dealt with a challenging person? Absolutely. Have you, That was someone who didn't want to do their work, like, 100%? But I think that, like, for people who haven't had the opportunity to  lead teams or work with the big variety of people, it those questions become harder but there's I think it's. There's a structure like STAR or something that tells you how you should answer it 
+
+Situation, Task, Action, Result. Or CAR: Context, Action, Result. I put an E on the end for Evidence. `C.A.R.E.` see section \@ref(mycvsk). That's part of the results in a way but if you can provide some sort of evidence, yeah, which is probably your results actually.
+
+> Ingy: So doing that, before I prepared for interviews, I had like an Excel sheet and I got the most generic possible ranges of questions like challenging person, different environment, whatever and I just sat down and I thought of two scenarios for each question and just thinking about trying pick examples from different places. 
+
+Yeah. So they're not all. Are you this? So yeah, this you kind of want because you can't be like they ask you two questions. You're like, let me tell you about Unity.
 
 Yes again, But that like doing that, just once I didn't have to read it. I just it made me think of the scenarios and then when I was asked it in the behavioural interviews, it became really easy to think about versus like I don't know, like it made it easier to also apply to different situations because you've thought about it previously.
 
