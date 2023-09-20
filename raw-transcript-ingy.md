@@ -260,39 +260,49 @@ They can be tough but in a different way, right? So if somebody asks you a quest
 
 Situation, Task, Action, Result. Or CAR: Context, Action, Result. I put an E on the end for Evidence. `C.A.R.E.` see section \@ref(mycvsk). That's part of the results in a way but if you can provide some sort of evidence, yeah, which is probably your results actually.
 
-> Ingy: So doing that, before I prepared for interviews, I had like an Excel sheet and I got the most generic possible ranges of questions like challenging person, different environment, whatever and I just sat down and I thought of two scenarios for each question and just thinking about trying pick examples from different places. 
+> Ingy: So doing that, before I prepared for interviews, I had an Excel sheet and I got the most generic possible ranges of questions like "challenging person", "different environment", whatever and I just sat down and I thought of two scenarios for each question 
 
-Yeah. So they're not all. Are you this? So yeah, this you kind of want because you can't be like they ask you two questions. You're like, let me tell you about Unity.
+Trying to pick examples from different places. 
 
-Yes again, But that like doing that, just once I didn't have to read it. I just it made me think of the scenarios and then when I was asked it in the behavioural interviews, it became really easy to think about versus like I don't know, like it made it easier to also apply to different situations because you've thought about it previously.
+> Ingy: Yeah. So they're not all. Are you this? So yeah, this you kind of want because you can't be like they ask you two questions. You're like, let me tell you about UNICS. Yes again, But that like doing that, just once I didn't have to read it. I just it made me think of the scenarios and then when I was asked it in the behavioural interviews, it became really easy to think about versus I don't know, it made it easier to also apply to different situations because you've thought about it previously. Whereas, if you hadn't you're like, okay, wait, what? Challenging person have I worked with recently and that's kind of harder
 
-Whereas, if you hadn't you're like, okay, wait, what? Challenging person have I worked with recently and that's kind of harder to yeah, yeah, definitely. So you've got the job at McKenzie in the second summate. I mean, can you say a little bit about what you're doing at McInty? Talk about.
+Definitely. So you've got the job at McKinsey in the second semester. I mean, can you say a little bit about what you're were doing at McKinsey? Talk about the clients and the kind of whworkere you were doing?
 
-Yeah, the clients and the kind of where you were doing the centre tells you use. Technically I'm I was a digital analyst. I think that's my actual title but I was. Like a technical consultant. So either I consult on the technical tools that they use or I program. So for my projects, I was programming on them and And I just languages technologies.
+> Ingy: Technically I was a digital analyst. I think that's my actual title but I was a technical consultant. So either I consult on the technical tools that they use or I program. So for my projects, I was programming on them 
 
-Yeah, so I did two. And for one of them, I was the only software engineer on that one and that posed. It's on challenges and imagine And that was web development based. So it was like TypeScript JavaScript A bit of API stuff. Um and i can't really remember the rest and then for the other one it was more like Slockbot and Also, like, but What's called?
+Any partiular languages and technologies?
 
-Like flutter, it was like app development with some web development and that one, I had a team with me and that that was so much easier like I worked wayless hours on that team. Then I did from my first project You can just go off the person next to, how do I exactly this, or what's this thing?
+> Ingy: Yeah, so I did two. And for one of them, I was the only software engineer on that one and that posed its own challenges and that was web development based. So it was like TypeScript, JavaScript, a bit of API stuff. Um and I can't really remember the rest and then for the other one it was more like [Slackbot](https://en.wikipedia.org/wiki/Slack_(software)) and [Flutter](https://en.wikipedia.org/wiki/Flutter_(software)), it was app development with some web development and that one, I had a team with me and that that was *so* much easier, I worked way less hours on that team than I did from my first project 
 
-Yeah, I I mean the nice thing is there's other software engineers. So one time I got really really stuck and I just went someone who wasn't even In the entire like project. And I was just like, hey, I'm having this bug. Do you have any idea how to solve this?
 
-Because I've tried everything And he knew the answer straight away and I was like I should just ask you earlier. But I like people were friendly enough to be able to ask, but I think that like, learning when to ask is an important part because if you go for every little thing then, Yeah, yeah.
+You can just go off the person next to, how do I exactly this, or what's this thing?
 
-Okay. Good. So That's the withdrew this in the night in your second year come into final year now. So, You mentioned your project at the beginning. Could you tell me a little bit about what? You're finally a project was on? And so my project is kind of inspired by my first year summer internship where it looks that it's focused on Arabic text.
+> Ingy: Yeah, I mean the nice thing is there's other software engineers. So one time I got really really stuck and I just went someone who wasn't even in the entire  project. And I was I'm having this bug. Do you have any idea how to solve this? Because I've tried everything and he knew the answer straight away and I was like I should just ask you earlier. But I like people were friendly enough to be able to ask, but I think that like, **learning when to ask is an important part** because if you go for every little thing then, 
 
-But Um, i wanted to focus on Sarcasm detection and dialect detection in Arabic text. And I used tweets which, you know, currently not the best thing. So the beginning of the year, the API was open. And yeah what's up close down since Oh, I said been February something like that.
+## Final year {#ingy-final}
 
-It was like beginning of this 2023, right? So you've got all your data, I was good. I before I even proposed my thing, I made sure to get my data. Yeah. And i downloaded everything I needed just in case someone was like this GitHub needs to go down. Um, but i i used hat like pre annotated data.
+Yeah, yeah. Okay. Good. So we've wizzed through this in in your second year come into final year now. So, You mentioned your project at the beginning. Could you tell me a little bit about what? You're final year project was on? 
 
-Anyway, that was like open source and used in other publications that I set called. All right sarcasm. So there's version one and version, two. And it's labours in our language, or I know our as in AR AR, okay? So, like Arabic sarcasm. Okay. And it's like a mix of technically, I think.
+> Ingy: so my project is kind of inspired by my first year summer internship where it focused on Arabic text.But I wanted to focus on Sarcasm detection and dialect detection in Arabic text. And I used tweets which, you know, currently not the best thing. 
 
-Two data sets and like newly labelled data and it's annotated on sarcasm dialect and sentiment. So, I wanted to explore those three areas so that for me was great. And then I think over the summer they came out with our sarcasm version 2. It's sarcasm. Another kind of sentiment or is it different from a sense, as you mean sentiment, like happy sentiment like positive negative natural and then for sarcasm it's like currently they're all labelled sarcastic or not sarcastic but Working on during the summer of second year, I worked on a shared task with The person who became my supervisor in third year, Batista Navarro.
+So at the beginning of the year, the API was open, and its all closed down since February something like that.
 
-Yeah. Um, and she's a gutsend. Oh, so she had a PhD student, who's doing a share task. On. Dialect detection and sarcasm detection, right? Um, and she asked me, she was like I know you propose this project to me. Would you want to do the shared task as well?
+> Ingy: It was like beginning of this year, 2023
 
-So I did that over the summer while I was also working at McKenzie and we end up getting our paper published for that one And that basically led me to find tuning. My project idea. Because I realised, when I was Doing the model for the Nadi shared task that there's different variations of sarcasm and different dialects.
+So you've got all your data?
 
-All right, so like Egyptians are very sarcastic. Um, whereas like the golf has like kind of a different approach to sarcasm. And like, In Egypt. We're kind of more ironic and If you say something is extremely good, you mean, it's terrible? Um, which is hard when someone's reading it difficult to attack.
+> Ingy: I was good. I before I even proposed my thing, I made sure to get my data. Yeah. And I downloaded everything I needed just in case someone was like this GitHub needs to go down. Um, but I used pre annotated data. Anyway, that was open source and used in other publications that I set called [ar_sarcasm](https://huggingface.co/datasets/ar_sarcasm). [@arsarcasm] It's a mix of technically, I think two data sets and newly labelled data and it's annotated on sarcasm dialect and sentiment. So, I wanted to explore those three areas so that for me was great. And then I think over the summer they came out with ar_sarcasm version 2. 
+
+
+Is sarcasm another kind of sentiment or is it different, like happy sentiment. 
+
+> Ingy: Positive negative natural and then for sarcasm it's like currently they're all labelled sarcastic or not sarcastic but Working on during the summer of second year, I worked on a shared task with the person who became my supervisor in third year, Riza 
+
+[Riza Batista-Navarro](https://personalpages.manchester.ac.uk/staff/riza.batista/).
+
+> She's a godsend. Oh, so she had a PhD student, who's doing a shared task on dialect detection and sarcasm detection, right? Um, and she asked me, she was like I know you proposed this project to me. Would you want to do the shared task as well? So I did that over the summer while I was also working at McKinsey and we end up getting our paper published [@ingy1] for that one and that basically led me to fine tuning my project idea. Because I realised, when I was doing the model for the Nadi shared task that there's different variations of sarcasm and different dialects.    
+
+All right, so like Egyptians are very sarcastic. Um, whereas like the gulf has kind of a different approach to sarcasm. In Egypt. We're kind of more ironic and If you say something is extremely good, you mean, it's terrible? Um, which is hard when someone's reading it difficult to attack.
 
 Yeah, somebody's being, especially in text. So like in speech, you can tell based on tone and the scenario you're in and the context but for speech, like looking at the tweets, sometimes I was like okay wait and then you could tell based on the emojis Right. Um but basically for my project I created a new labelling system for sarcasm detection so I made it as a spectrum from 0 to 100 so 0, 25 75 and 100 and it would be house.
 

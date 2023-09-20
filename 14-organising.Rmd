@@ -15,7 +15,7 @@ In section \@ref(by-quantity) and \@ref(by-quantity) we discussed the importance
 
 We haven't explicitly discussed the timing and organisation of the activities outlined in the preceding chapters:
 
-1. *Designing your Fututure* in chapters \@ref(rebooting) to \@ref(computing)
+1. *Designing your Future* in chapters \@ref(rebooting) to \@ref(computing)
 1. *Testing your Future* in chapters \@ref(debugging) to \@ref(speaking)
 
 Let's imagine you could precisely specify all of the tests using [make](https://en.wikipedia.org/wiki/Make_(software)) in a `makefile` or specify them somehow in your favourite Integrated Development Environment (IDE). Ideally, you'd like to automatically run these tests, so that you can build your future systematically. You'd like to repeat these tests periodically, e.g. once a day, week, month or whatever your schedule is, similar to [build automation](https://en.wikipedia.org/wiki/Build_automation) in software engineering. Attempts to automate aspects of job applications and interviews have so far had very mixed results. [@airesume; @dastinai] But, as another thought experiment, let's image it was possible
@@ -38,28 +38,37 @@ Let's imagine you could precisely specify all of the tests using [make](https://
 
 ## Scheduling your future {#scheduling}
 
-If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) workshops sessions are also here to help, every Monday at 5pm.  COMP2CARS complements the second year tutorials (COMP2TUT) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/).
+If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) workshops sessions are also here to help, every Tuesday at 4pm.  COMP2CARS complements the second year tutorials (COMP2TUT) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/). The outline is:
+
+ 
+* Weeks 1 and 2: COMP2TUT, meet with personal tutor
+* Weeks 3 to 6: Seminars in Lecture Theatre A, engineering building 
+* Week 7: Reading week - take a breather
+* Weeks 8 to 10: Seminars in Lecture Theatre A, engineering building
+* Weeks 11 & 12: COMP2TUT, meet with personal tutor
 
 Outside of that, its a good idea to organise some scheduled time to work on continuous professional development (CPD), particularly the not very scary and actually quite enjoyable tasks of designing, building, testing, deploying and coding your future.
 
-<!-- your future is bright, your future needs organising, so let's start organising your future-->
+## Week 0: Experiencing {#week0}
+Welcome week, starting 1th September. 
 
-## Discussing your Future {#discussing}
+* Following from the welcome back to year 2 talk from the second year tutor Ahmed Saeed, a panel of students returning from their year of industrial experience told their stories of recruitment and employment 
+* Organisations represented included [alpine-cars.co.uk](https://www.alpine-cars.co.uk/), [arm.com](https://www.arm.com/), [bentleymotors.com](https://www.bentleymotors.com/), [cantarus.com](https://www.cantarus.com/), [codethink.co.uk](https://www.codethink.co.uk/), [interactsoftware.com](https://www.interactsoftware.com/), [jpmorgan.com](https://www.jpmorgan.com/), [meta.com](meta.com) (Facebook),  [netcraft.com](https://www.netcraft.com/), [ocado.com](https://www.ocado.com/) and [recourseai.com](https://www.recourseai.com/).
 
-The accompanying online forum for course discussion will be at [piazza.com/class/l8t6l0le6vu2lg](https://piazza.com/class/l8t6l0le6vu2lg)
+Thanks to our panellists for answering questions via mentimeter Ask Me Anything (A.M.A.) from the audience about their placements and their transition from students to professionals. 
 
-<!-- was at [piazza.com/class/kted3nixlmo2on](https://piazza.com/class/kted3nixlmo2on)-->
+There is more information on *Experiencing Your Future* chapter \@ref(experiencing) and student case studies of employment in chapter \@ref(hearing) on *Hearing your Future*: the Coding Your Future podcast.
 
-## Summarising your organisation {#tldr19}
-(ref:tldr)
+## Week 1: Debugging {#week1}
+**Tuesday 26th September** at 4pm: Depending on your when you meet your tutor
 
-Your future is bright, your future needs organising. Organising your future will help you build your future. Building your future will help to start coding your future. 
+* *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist) in *Debugging your future* (chapter \@ref(debugging))
+* *Or* COMP2TUT: Meet your tutor see [digital.cs.manchester.ac.uk/student-groups](https://digital.cs.manchester.ac.uk/student-groups/) get feedback on your CV
 
-Building your future is a bit like building software, with testing and compilation. Except for when it isn't. Like many analogies, are computational analogy of building software breaks down,  so in the rest of this section, we'll look at some other aspects of building, not in the automated software sense, but the broader sense of *Building your Future* generally.
- 
+## Week 2: Debugging {#week2}
+**Tuesday 3rd October** at 4pm: Depending on your when you meet your tutor
 
-We'll start with chapter \@ref(researching): *Researching your Future* investigating postgraduate study and research. Are they the right path for you? How can you know?
+* *Either* COMP2TUT: Meet your tutor (if you didn't meet them last week) see [digital.cs.manchester.ac.uk/student-groups](https://digital.cs.manchester.ac.uk/student-groups/)
+* *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist). Read *Debugging your future* (chapter \@ref(debugging)) and *Hacking your future* (chapter \@ref(hacking))
 
-*Researching your Future* might sound like a part of *Designing your Future* section, but it fits better as a *Deploying your Future* chapter. Your decision to do further study and research might come *after* a period of paid employment, either as a summer internship, year long placement or graduate position. 
-
-So researching is a deployment issue, rather than a design issue as we shall see.
+## Week 3: TBC {#week3}
