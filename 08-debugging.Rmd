@@ -794,7 +794,13 @@ Is this better? Personally, I think you should only include a personal statement
 ## Debugging summary {#tldr7}
 (ref:tldr)
 
-Your future is bright, your future needs debugging. Debugging your future will help you test future. Testing your future will help you to start coding your future.
+Your future is bright, your future needs debugging. Debugging your future will help you test future. Testing your future will help you to start coding your future. One of the best ways to debug your own CV is to fix bugs in *other peoples* CVs, see figure \@ref(fig:cvswap-fig)
+
+```{r cvswap-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvswap)"}
+knitr::include_graphics("images/Ill-show-you-mine.png")
+```
+
+(ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 In this chapter we have looked at how to debug your future, with a particular focus on your CV (or résumé) and any supporting written communication. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a *much* better chance of getting an interview. The checklist in section \@ref(checklist) is a good place to start debugging your CV. 
 

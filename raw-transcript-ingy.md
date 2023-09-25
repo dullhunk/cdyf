@@ -300,55 +300,59 @@ Is sarcasm another kind of sentiment or is it different, like happy sentiment.
 
 [Riza Batista-Navarro](https://personalpages.manchester.ac.uk/staff/riza.batista/).
 
-> She's a godsend. Oh, so she had a PhD student, who's doing a shared task on dialect detection and sarcasm detection, right? Um, and she asked me, she was like I know you proposed this project to me. Would you want to do the shared task as well? So I did that over the summer while I was also working at McKinsey and we end up getting our paper published [@ingy1] for that one and that basically led me to fine tuning my project idea. Because I realised, when I was doing the model for the Nadi shared task that there's different variations of sarcasm and different dialects.    
+> She's a godsend. Oh, so she had a PhD student, who's doing a shared task on dialect detection and sarcasm detection, right? Um, and she asked me, she was like I know you proposed this project to me. Would you want to do the shared task as well? So I did that over the summer while I was also working at McKinsey and we end up getting our paper published [@ingy1] for that one and that basically led me to fine tuning my project idea. Because I realised, when I was doing the model for the shared task that there's different variations of sarcasm and different dialects.    
 
-All right, so like Egyptians are very sarcastic. Um, whereas like the gulf has kind of a different approach to sarcasm. In Egypt. We're kind of more ironic and If you say something is extremely good, you mean, it's terrible? Um, which is hard when someone's reading it difficult to attack.
+All right, 
 
-Yeah, somebody's being, especially in text. So like in speech, you can tell based on tone and the scenario you're in and the context but for speech, like looking at the tweets, sometimes I was like okay wait and then you could tell based on the emojis Right. Um but basically for my project I created a new labelling system for sarcasm detection so I made it as a spectrum from 0 to 100 so 0, 25 75 and 100 and it would be house.
+> So Egyptians are very sarcastic, whereas the gulf has  a different approach to sarcasm. In Egypt. We're more ironic and if you say something is extremely good, you mean, it's terrible.
 
-Sarcastic is the text and then I had like guidelines for each criteria. And then for that model, I put it into a sentiment detection model to see how well that performed and it ended up performing better because the model was better at picking up. Sarcasm. Because Sarcastic or not.
+Which is hard to detect when someone's reading it
 
-Sarcastic is kind of a harsh line to draw because someone could be funny. Someone could be ironic And some people would see it is not sarcastic. There's others would see it as being sarcastic. So having the zero in the 25 or the 75 and the hundred made it better a detecting different levels, right?
+> Yeah,especially in text. So  in speech, you can tell based on tone and the scenario you're in and the context but for speech, looking at the tweets, sometimes I was like okay wait, and then you could tell based on the emojis but basically for my project I created a new labelling system for sarcasm detection so I made it as a spectrum from 0 to 100 so 0, 25, 75 and 100 and it would be how sarcastic is the text and then I had like guidelines for each criteria. And then for that model, I put it into a sentiment detection model to see how well that performed and it ended up performing better because the model was better at picking up Sarcasm. Because Sarcastic or not. Sarcastic is kind of a harsh line to draw because someone could be funny. Someone could be ironic and some people would see it is not sarcastic. There's others would see it as being sarcastic. So having the zero in the 25 or the 75 and the hundred made it better a detecting different levels, right?
 
-Okay. So that sounds like quite an interesting project in that you got very open-ended. Yeah. Using skills you already had in kind of obviously Arabic. Yeah. Quality of machine learning and LP type stuff. Yeah. And you got paper, which was nice, which is pretty going for a 30 project.
+Okay. So that sounds like quite an interesting project, very open-ended. 
 
-I think that's, that's Unusual. Yeah, i mean the paper was before, Right? I'm trying to get a paper. Oh, you said there's another paper that might come out. Yeah, I've done that. Actually, the next iteration, Fingers crossed I I was kind of unlucky technically because in the beginning of 2023 of paper came out doing what I wanted to do.
+> Yeah. 
 
-And that created a new baseline to compare. My work too and I was already like doing my system. So I had to switch directions, halfway through my project but switching directions is actually better for me in the end. So the flexibility is definitely. More. Like, Better at providing space for growth in different ideas, Right?
+Using skills you already had in, obviously Arabic. Yeah. Quality of machine learning and NLP type stuff. Yeah. And you got paper, which was nice, which is pretty going for a third year project. That's unusual. 
 
-Like my initial idea was Basically using dialect to enforce inform sentiment, instead of using Sarcasm to inform sentiment. Okay? So you need to have that flexibility and you set up if you're doing something that's kind of research you like this you kind of you don't really know how yeah do it and then you discover actually this approach is no good.
+> Yeah, I mean the paper was before, right? I'm trying to get a paper. 
 
-Exactly like I think before I finally got it a model that works. I had. 10 models that didn't work. And like I had a whole labelled data set that I can't even use because it was doing something. I didn't need anymore, but I think the flexibility of a self-proposed third year project is that you can you have all the room to explore it?
+Oh, you said there's another paper that might come out?
 
-And I think that's what ended ended up making me like my project even more. Because any time I was like, oh, this is interesting. I got to look and you are more invested in as well. Yeah, because you're kind of issue baby. Exactly like He's your kind of you must have been interested in it to propose it in the first place.
+> Yeah, I've done that. Actually, the next iteration, fingers crossed I was kind of unlucky technically because in the beginning of 2023 a paper came out doing what I wanted to do and that created a new baseline to compare my work too and I was already like doing my system. So I had to switch directions, halfway through my project but switching directions is actually better for me in the end. So the flexibility is definitely better at providing space for growth in different ideas.
 
-So I was like, even though I'm not sleeping I like I was literally like refreshing my model like and I was training it and it was like I think it was like 4 a.m. and Riza was like go to sleep and I was like, no but it's still running.
+Right?
 
-You, but i like, i don't regret any of the time that I've spent on it because without all the models that failed and without all the setbacks, I wouldn't have the final thing that did work, and I wouldn't have learnt so much right. Good. Okay. Asking here. So, we, with through three years of your degree, your you've done your last exam last week, Like come out of that and you'll be graduating next week.
+> Like my initial idea was basically using dialect to  inform sentiment, instead of using sarcasm to inform sentiment. 
 
-So it's kind of, it's kind of end of end of an error. I spoke in some ways, Um, so reflecting on a few sort of broader things here, so And one thing I ask or guess is about, if you remember of minority, what what's your experience been as and what could the university or?
+Okay? So you need to have that flexibility and you set up if you're doing something that's kind of research you like this you kind of you don't really know how yeah do it and then you discover actually this approach is no good.
 
-Or your employer, even do better to make. That's that start with women in computing. So that's that's a obvious place to start. What's your, what's been your experience of being a woman in computing? And how could that have been? How could the university and employers line McKinsey make? Make.
+> Exactly like I think before I finally got a model that works. I had 10 models that didn't work. I had a whole labelled data set that I can't even use because it was doing something I didn't need anymore, but I think the flexibility of a self-proposed third year project is that you can you have all the room to explore it.  And I think that's what ended ended up making me like my project even more. Because any time I was like, oh, this is interesting. 
 
-Make these environments more. Better for women. I think that like I've had different experiences throughout like high school versus uni versus work. So in like high school it was even like simple things, like HL Motts. I had we were comparing schedules and I was asking one of my guy friends?
+You are more invested in as well. Yeah, because it's your baby. 
 
-I was like, oh, what course are you in? Like, which class are you in? He was like, oh no, I'm taking Hamas and I was like I am too. Like, who's your teacher? Um, and it was like those like small comments, but in the end, our court, our class had more girls in it than guys, Right?
+Exactly like He's your kind of you must have been interested in it to propose it in the first place.
 
-Just because the guys ended up dropping out. So, it was like, Kind of karmic job. It felt good, you know, right. Um, and that guy who told me I he was taking Him off into them, dropping it. But ironically, yeah, ironically. And then in In uni, I think Manchester has a very good.
+So I was like, even though I'm not sleeping I was literally like refreshing my model and I was training it and it was 4 a.m. and Riza was like go to sleep and I was like, no but it's still running. But I don't regret any of the time that I've spent on it because without all the models that failed and without all the setbacks, I wouldn't have the final thing that did work, and I wouldn't have learnt so much 
 
-Comparatively percentage of like, I think it's 24% or something. Something like I know. Yeah, yeah, a lot less than half. It's a lot less than half. Hopefully, you know better than it has been much lower in the past. Yeah, I I think not even double figures something. Yeah. Sometimes it's been like I think I know some, one of my friends just computer science somewhere else and their percentage just like 8%, which like I can't imagine just going into somewhere and not seeing someone like you, you know?
+Right. Good. Okay. Asking here. So, we've whizzed through three years of your degree, you've done your last exam last week, come out of that and you'll be graduating next week. So it's the end of end of an era in some ways. So reflecting on a few sort of broader things here, so one thing I ask or guess is about, if you a member of minority group, what has your experience been as and what could the university or your employer, even do better to make... Let's start with women in computing. So that's that's a obvious place to start. What's been your experience of being a woman in computing? And how could that have been better? How could the university and employers line McKinsey make these environments better for women. 
 
-Um, but i think that with uni, because there's so many female lectures, too, who are like top of their fields. And there's people in years before me, who done, things like people students come and get like Carmen, she used to lead hackathons and you see as, and she was the chair I think before.
+> I think that I've had different experiences throughout high school versus uni versus work. So in high school it was even like simple things, like HL (Higher Level) Maths. We were comparing schedules and I was asking one of my guy friends? I asked what course are you in? Which class are you in? He was like, oh no, I'm taking HL Maths and I was like I am too. Like, who's your teacher? Um, and it was like those like small comments, but in the end, our class had more girls in it than guys
 
-Um, or like Alice or like those kinds of people. It wasn't, it wasn't that hard to see. Other woman doing things. That i wanted to do so, I never felt like that was an obstacle. There's obviously always the obstacle when you're applying for internships or when you're getting interviews and stuff.
+Right
 
-Is, there's a lot of guys who are like, oh you only got this interview because you're a girl and like they wanted to fulfil their diversity quota. But like, well you have you couldn't get the job. So like don't come at me. I mean, I think it's so any.
+> Just because the guys ended up dropping out. So, it was like, Kind of karmic job. It felt good, you know, right. Um, and that guy who told me he was taking HL Maths ended up dropping it. But ironically, yeah, ironically. And then in uni, I think Manchester has a very good. Comparatively percentage of like, I think it's 24% (female students)
 
-Oh, male interview panels? Yeah, experiences that that's not. It's not the best but it's not the worst because you can't go in with the mentality that like they're against you. Until something happens. So I usually go in assuming that like I'm not the minority, You know, like, even if I am, it doesn't, it doesn't both you.
+Something like that know. A lot less than half. It's a lot less than half. Hopefully, you know better than it has been, much lower in the past. Yeah, I think not even double figures
 
-Well, to think you're going into someplace. That doesn't want you and it doesn't bode you. Well, for yourself confidence to be like, oh, they just wanted me because they need more women. So, I never went into interviews like that and I never made it like, My identifying trait is that I'm a woman?
+> Sometimes, I think I know someone, one of my friends just computer science somewhere else and their percentage just like 8%, which like I can't imagine just going into somewhere and not seeing someone like you, you know? But I think that with Yni, because there's so many female lecturers, too, who are like top of their fields. And there's people in years before me, who've done, things like people students come and get like [Carmen](https://www.cdyf.me/carmen), she used to lead hackathons and UNICS and she was the chair I think before or like [Alice](https://www.cdyf.me/alice) or those kinds of people. It wasn't that hard to see other women doing things that I wanted to do so, I never felt  that was an obstacle. There's obviously always the obstacle when you're applying for internships or when you're getting interviews and stuff. There's a lot of guys who are like, oh *you only got this interview because you're a girl* and they wanted to *fulfil their diversity quota*. But well you have you couldn't get the job. 
 
-Because then it undermines everything you've accomplished? Yeah yeah. So like for interviews I I don't think I think the only Interviews that I've done were like big tech whereas majority male, interviewers Everything else was like, like I think my IBM one was three out of five or woman. Um my Expedia, one was two and two.
+What about all male interview panels? 
+
+> It's not the best but it's not the worst because you can't go in with the mentality that they're against you. Until something happens. So I usually go in assuming that I'm not the minority, You know, even if I am, it doesn't bode you well, to think you're going into someplace that doesn't want you and it doesn't bode you well, for your self confidence to be, oh, *they just wanted me because they need more women*. So, I never went into interviews like that and I never made it that my identifying trait is that I'm a woman. Because then it undermines everything you've accomplished.
+
+Yeah yeah. So like for interviews I I don't think I think the only Interviews that I've done were like big tech whereas majority male, interviewers Everything else was like, like I think my IBM one was three out of five or woman. Um my Expedia, one was two and two.
 
 So, that's a healthy about, It's a healthier balance and sometimes even you find, like, The woman aren't the nicest. It's not even like It doesn't really matter who's interviewing you it's like the person not what they identify as. But yeah, I think Then it work. It was like a mix of my age and my gender.
 
