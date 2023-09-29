@@ -137,7 +137,7 @@ Just as you can't edit a blank page, you can't debug an unwritten CV either, see
 knitr::include_graphics("images/jodi-picoult.jpeg")
 ```
 
-(ref:captiongarbage)  “*If it's writing time, I write. I may write garbage, but you can always edit garbage. You can't edit a blank page*” --Jodi Picoult [@picoult] I often speak to students who tell me their CV isn't ready yet. Just as you can't edit a blank page, you can't debug an unwritten (or unseen) CV either. So write something, *anything*. Even if you *think* its garbage you won't be able to improve it until you've written it. You can't start a fire without a spark. [@springsteen1; @springsteen2] Likewise, if you're doing a CV swap <!--needs link to pic--> - go easy when giving feedback to its author, you'll often be treading on delicate and personal ground. Public domain portrait of novelist [Jodi Picoult](https://en.wikipedia.org/wiki/Jodi_Picoult) by Lauren Gerson via the U.S. National Archives on Wikimedia Commons [w.wiki/6i4E](https://w.wiki/6i4E) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captiongarbage)  “*If it's writing time, I write. I may write garbage, but you can always edit garbage. You can't edit a blank page*” --Jodi Picoult [@picoult] I often speak to students who tell me their CV isn't ready yet. Just as you can't edit a blank page, you can't debug an unwritten (or unseen) CV either. So write something, *anything*. Even if you *think* its garbage you won't be able to improve it until you've written it. You can't start a fire without a spark. [@springsteen1; @springsteen2] Likewise, if you're doing a CV swap (see figure \@ref(fig:cvswap-fig)) - go easy when giving feedback to its author, you'll often be treading on delicate and personal ground. Public domain portrait of novelist [Jodi Picoult](https://en.wikipedia.org/wiki/Jodi_Picoult) by Lauren Gerson via the U.S. National Archives on Wikimedia Commons [w.wiki/6i4E](https://w.wiki/6i4E) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 It might help to think of first version of your CV as an [alpha or beta version](https://en.wikipedia.org/wiki/Software_release_life_cycle) that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble about Computer Science graduates lacking good written communication skills. Written applications and CV's are a common example of this. Here are some common bugs (or are they features?) to pay attention to on initial draughts of your CV:
@@ -221,7 +221,7 @@ Let's look at each of these sections in turn:
 
 Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
 
-* Describing in enough detail what you've studied and any projects^[If you put these in a `projects` section all of their own (see section \@ref(mycvpj)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
+* Describing in enough detail what you've studied and any `projects`^[If you put these in a `projects` section all of their own (see section \@ref(mycvpj)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to your readers
 
 ```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
@@ -264,7 +264,7 @@ The `Projects` section of your CV is where you can describe all your other activ
 * University projects:
     + these sometimes fit better in your `Education` section, depending on how many non-Uni projects you have
     + If you are publishing a group project, you will need permission from *all* of your team to make the code public 
-    + Be *careful* publishing coursework. If someone copies your coursework, you will **BOTH** be guilty of academic malpractice because you've colluded in plagiarism.
+    + Be *careful* publishing coursework. If someone copies your coursework, you will **BOTH** be guilty of academic malpractice because you have colluded in plagiarism.
     + ... but final year (“[capstone](https://en.wikipedia.org/wiki/Capstone_course)”) projects are great as these will tend to be unique, distinguishing you from everybody else in your year group
 
 Your projects will most likely be unpaid because paid work tends to fit better under the heading `experience`, see section \@ref(mycvex). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, the [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repository is a good starting point alongside [free-for.dev](https://free-for.dev/) which lists  software that has free tiers for developers to play with. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in figure \@ref(fig:feynman-fig). What you cannot create you do not understand. Another great way to learn is to get involved with open source projects which we describe in section \@ref(opensource).
@@ -488,7 +488,7 @@ How long should your CV be? Many people start with a two page CV, which is a sen
 knitr::include_url('https://www.youtube.com/embed/0abDOKHS5T0')
 ```
 
-(ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? You can also watch the  5 minute video embedded in this figure at [youtu.be/0abDOKHS5T0](https://youtu.be/0abDOKHS5T0). [@youtube-resume-or-cv]
+(ref:captiononeortwopager) How long should your CV be? Should you write a two page European style CV or an American style résumé (one pager)? You can also watch the  5 minute video embedded in this figure at [youtu.be/0abDOKHS5T0](https://youtu.be/0abDOKHS5T0). [@youtube-resume-or-cv] 🇺🇸🇪🇺
 
 At this stage in your career you *should* be able to fit everything on to one page. However, it can be challenging and time consuming squeezing it all on, see figure \@ref(fig:shorterletter-fig).
 
@@ -544,7 +544,7 @@ Augmenting your CV with web links (hyperlinks) can add important context, result
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
 knitr::include_graphics("images/lovelace-linkedin.png")
 ```
-(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the default randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
+(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
 
 Links can provide `Context`, (Action), `Result` and `Evidence` (see `C.A.R.E.` in section \@ref(care)) by quantifying and substantiating any claims that you make. Links demonstrate what you've done and which communities you've been a part of. For example, you might says things like:
 
@@ -711,10 +711,10 @@ show me the money!-->
 
 Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick checklist for debugging your CV before you send it off to an employer:
 
-1. 🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section \@ref(length) Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (gappy) or too little (cramped)? See section \@ref(pdf)
+1. 🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section \@ref(length) Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (g a p p y) or too little (cramped)? See section \@ref(pdf)
 1. 🔲 Have you used past tense consistently e.g. `developed` not `develop`, `collaborated` not `collaborate`
-1. 🔲 Is your year of graduation, degree program, University and expected (or achieved) overall degree classification clear? See section \@ref(mycved)
-1. 🔲 Have you eaten your own dogfood (woof), see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
+1. 🔲 Is your year of graduation, degree program, University and expected (and/or achieved) overall degree classification clear with GPA as a percentage? See section \@ref(mycved)
+1. 🔲 Have you eaten your own dogfood (woof) by reading it out loud, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. 🔲 Have you spell-checked using both automatic and manual (proof-reading) techniques? See section \@ref(spelling).
 1. 🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. 🔲 Have you shown you `C.A.R.E`? Are the `Contexts`, `Actions`, `Results` and `Evidence` described in section \@ref(mycvsk) clear? Have you added `context` using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
@@ -727,7 +727,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(mycvpd)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `experience`? Have you done the same for your `projects`, see section \@ref(mycvpj)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
 1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
-1. 🔲 Have you reviewed other people's CV's? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself. See the examples in chapter \@ref(hacking). Who would *you* want to interview and why?
+1. 🔲 Have you reviewed other people's CV's? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig). See the examples in chapter \@ref(hacking). Who would *you* want to interview and why?
 
 ```{r wonderfuldarling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwonderfuldarling)"}
 knitr::include_graphics("images/Critical Friend.png")
@@ -800,9 +800,9 @@ Your future is bright, your future needs debugging. Debugging your future will h
 knitr::include_graphics("images/Ill-show-you-mine.png")
 ```
 
-(ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do a CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-In this chapter we have looked at how to debug your future, with a particular focus on your CV (or résumé) and any supporting written communication. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a *much* better chance of getting an interview. The checklist in section \@ref(checklist) is a good place to start debugging your CV. 
+In this chapter we have looked at how to debug your future, with a particular focus on your CV^[...Or *Résumé* if you prefer 🇺🇸] and any supporting written communication. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a *much* better chance of getting an interview. The checklist in section \@ref(checklist) is a good place to start debugging your CV. 
 
 <!--https://twitter.com/b0rk/status/1570060516839641092-->
 

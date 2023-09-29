@@ -73,3 +73,8 @@ ok
 * How many offers did you get? 
 * If you're changing your degree to. IE on a 3 year course, do you have to do the placement before your third year or can you do it after
 * Summer internips or year long 
+* Will you find a job for me?
+* Can I work abroad?
+* Can I work in the UK?
+* Does it count towards my degree classification?
+* Do I have to write a report?
