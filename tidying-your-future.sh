@@ -38,6 +38,9 @@ echo "replaced choosing.html "
 find . -name "*.html" -exec sed -I '' 's/speaking.html/speaking/g' {} +
 echo "replaced speaking.html "
 
+find . -name "*.html" -exec sed -I '' 's/questioning.html/questioning/g' {} +
+echo "replaced questioning.html "
+
 find . -name "*.html" -exec sed -I '' 's/starting.html/starting/g' {} +
 echo "replaced starting.html "
 
