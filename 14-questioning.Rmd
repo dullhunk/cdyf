@@ -1,6 +1,6 @@
 # Questioning your future {#questioning}
 
-Testing your future invovles asking questions, here are some Frequently Asked Questions. 
+Testing your future involves asking questions, here are some Frequently Asked Questions (FAQs) from students about Coding their Future. The questions below are currently ordered by popularity on mentimeter. 
 
 ```{r faq-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfaq)"}
 knitr::include_graphics("images/Which-Way-Now.png")
@@ -11,7 +11,7 @@ knitr::include_graphics("images/Which-Way-Now.png")
 
 ## How much experience and how many personal projects did you have prior to applying for jobs? {#qexp}
 
-Employers won't *expect* you to have lots of `experience` or `projects` at this stage, but any that you do have will help your application stand out. It doesn't have to be paid experience: Volunteering, getting involved in competitions as a competitor or organiser will help, see more suggestions chapter \@ref(experiencing) on *Experiencing your Future*.
+Not all employers will *expect* you to have lots of `experience` or `projects` at this stage, but any that you do have will help your application stand out. It doesn't have to be paid experience: Volunteering, getting involved in competitions as a competitor or organiser will help, see more suggestions chapter \@ref(experiencing) on *Experiencing your Future*.
 
 
 ## What is the application process like for the placement program? {#qmyp}
@@ -179,9 +179,21 @@ That's going to depend on where you're applying e.g.
 See chapter \@ref(finding), and particularly \@ref(studentjobs).
 
 
-## Did having a linkden help? {#qlinkedid}
+## How much did having a LinkedIn profile help? {#qlinkedid}
 
-With some employers, it can help to have a digital profile on linkedin or github, but it isn't a requirement, see section \@ref(portfolio).
+With some employers, it can help to have a digital profile on LinkedIn or github, but it isn't a requirement, see section \@ref(portfolio).
+
+There are plenty of good and valid reasons for not wanting to be on social media. Despite its uses, social media can also be:
+
+* privacy invading 
+* a huge time sink
+* hostile to women
+* hostile to minority groups
+* detrimental to your mental health
+
+Despite these considerable limitations, I choose to use LinkedIn because it is one of the easiest ways to keep in touch with students, colleagues and collaborators.
+
+You might find it useful too, but it isn't compulsory to use them . 
 
 ## For the big competitive companies like Google, Meta…etc. what sort of experience do I need? {#qcomp}
 
@@ -360,12 +372,12 @@ Once the deadline is closed, you won't be able to apply.
 
 ## Will there be a careers fair?
 
-Yes:
+Yes, there are two you might find useful:
 
-* STEM careers fair: 11th October
-* Computing careers fair 8th November
+* STEM careers fair: 11th October, see [www.careers.manchester.ac.uk/events/fairs/](https://www.careers.manchester.ac.uk/events/fairs/)
+* Computing careers fair 8th November, watch the waggle for details [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/) 🐝
 
-## Should you focus to apply to a big company or a small company to get more experience
+## Should you focus to apply to a big company or a small company to get more experience {#qbignames}
 
 There are advantages and disadvantages of each, see e.g. section \@ref(smallnames).
 
@@ -394,7 +406,7 @@ a placement has to be your penultimate year, see wiki
 
 See section \@ref(interns)
 
-## Will you find a job for me? {qlazy}
+## Will you find a job for me? {#qlazy}
 
 The University can help you in various ways, but it is your responsibility to find a job, see \@ref(responsibility).
 

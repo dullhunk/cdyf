@@ -114,13 +114,13 @@ cat('see https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd')
 Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
 
 ### Search by location {#by-location}
-If you were an estate agent, [@location] you might argue that the three most important parameters of your job search are:
+If you were an [estate agent](https://en.wikipedia.org/wiki/Estate_agent), you might argue that the three most important parameters of your job search are:
 
-1. Location
-1. Location 
-1. Location
+1. Location [@location]
+1. Location [@location]
+1. Location [@location]
 
-So pick a location. Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? The location(s) you choose will determine the options that are available:
+So pick a location: Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? The location(s) you choose will determine the options that are available:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb.js"></script>')
@@ -404,7 +404,7 @@ Publishing a portfolio of your work online will allow employers and recruiters t
 * **LinkedIn.com** is a social media service which allows you to put professional details online, a bit like a semi-public or public CV, see figure \@ref(fig:linkedin-fig) and table \@ref(tab:linkedintable). Besides allowing you to advertise yourself, LinkedIn also:
     + advertises job vacancies [linkedin.com/jobs](https://www.linkedin.com/jobs/)
     + enables you to [let recruiters know you're looking for work](https://www.linkedin.com/help/linkedin/answer/a507508/let-recruiters-know-you-re-open-to-work) [@privatelysignal]
-    + allows you to [apply for jobs directly through LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) although [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd)) [@fastapplications]
+    + allows you to [apply for jobs directly through LinkedIn](https://www.linkedin.com/help/linkedin/answer/75815/applying-for-jobs-on-linkedin?lang=en) although [making fast applications is not always a good thing](https://medium.com/otta-blog/job-boards-making-fast-applications-is-not-a-good-thing-5a4970887ecd) [@fastapplications]
     + provides tutorials for students to get started [linkedin.com/learning/learning-linkedin-for-students](https://www.linkedin.com/learning/learning-linkedin-for-students)
     + can help you find alumni from your University via the [alumni tab](https://www.linkedin.com/help/linkedin/answer/a567083/linkedin-page-alumni-tab-overview). For example, see [linkedin.com/school/university-of-manchester/people](https://www.linkedin.com/school/university-of-manchester/people/) and [your.manchester.ac.uk/get-involved/global-networks](https://your.manchester.ac.uk/get-involved/global-networks/). Whatever Unviersity you are studying at, LinkedIn can be a good way finding, contacting and connecting with alumni
 
