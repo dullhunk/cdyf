@@ -120,7 +120,7 @@ If you were an [estate agent](https://en.wikipedia.org/wiki/Estate_agent), you m
 1. Location [@location]
 1. Location [@location]
 
-So pick a location: Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? The location(s) you choose will determine the options that are available:
+So pick a location: Manchester? London? Paris? Berlin? New York? [Silly Valley](https://en.wikipedia.org/wiki/Silicon_Valley)? [WFH](https://en.wikipedia.org/wiki/Remote_work)? The location(s) you choose will determine the options that are available:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/5004cbf5fc337fb8e7357e62c50d15eb.js"></script>')
@@ -478,9 +478,9 @@ knitr::include_graphics("images/recruiters-are.png")
 ```
 (ref:captionrecruiter) The autocomplete algorithm of a well known search engine gives you an idea of what *some* people think about *some* recruiters. This doesn't mean you should avoid recruiters completely, just be careful how you use their services and pay close attention to who they work for.
 
-Some recruiters are very good and can help you. For example, there are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you. Others specialise in particular sectors such as [aswift.com](https://www.aswift.com/) who focus on video game development. Some [executive search](https://en.wikipedia.org/wiki/Executive_search) firms specialise in fields where employers struggle to find suitable candidates, such as computing.
+Some recruiters are very good and can help you, especially if they work direclty for the employer you are interested. There are some recruitment agencies that specialise in helping employers recruit graduates, these may be useful to you. Others specialise in particular sectors such as [aswift.com](https://www.aswift.com/) who focus on video game development. Some [executive search](https://en.wikipedia.org/wiki/Executive_search) firms specialise in fields where employers struggle to find suitable candidates, such as computing.
 
-However some recruiters are not very good, and don't provide a valued service for employers or potential employees like you. This is why you sometimes see `no recruiters` or `no agencies` on job adverts. So be wary of recruiters, and remember that some recruiters work primarily for their clients (employers) not you.
+However some recruiters are not very good, and don't always provide a valued service for employers or potential employees like you. This is why you sometimes see `no recruiters` or `no agencies` on job adverts. So be wary of recruiters, and remember that some recruiters work primarily for their clients (employers) not you.
 
 In most cases you shouldn't have to pay recruiters up front but job scammers will sometimes pose as recruiters so beware. Talking of job scammers, there's some things you need to be wary of when you are job hunting:
 
