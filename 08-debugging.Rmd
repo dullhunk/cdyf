@@ -123,7 +123,7 @@ While referring to this guide, remember that:
 * The main purpose of your CV is to get an interview, not a job. Your CV should catch attention and provide talking points for an interview
 * Your CV will be assessed in seconds, rather than minutes so brevity really is key
 * Bullet points with verbs first (see section \@ref(verbsfirst)) will:
-  + allow your reader to quickly skim your CV because [employers don't actually read CVs](https://readabilityguidelines.co.uk/content-design/how-people-read/) [@scanning]
+  + allow your reader to *quickly* skim, scan and scroll through your CV because [employers don't actually read CVs](https://readabilityguidelines.co.uk/content-design/how-people-read/) [@scanning]
   + highlight your key activities
   + avoid long sections of flowery [prose](https://en.wikipedia.org/wiki/Prose) which the reader will very probably skip anyway. Instead, you can use your beautiful prose on your covering letters or personal statements, see section \@ref(we3qs)
 
@@ -164,7 +164,7 @@ How you structure your CV and Résumé will depend on who you are and what your 
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
 ```
 
-(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) outline some tips and advice for creating your résumé. You can also watch the 8 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE). [@youtube-google-recruiters]
+(ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) (now at TikTok) outline some tips and advice for creating your résumé. You can also watch the 8 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE). [@youtube-google-recruiters]
 
 <!-- this doesn't really fit here in structure, is there somewhere better? -->
 As Jonathan Black, director of the careers service at the University of Oxford points out in figure \@ref(fig:black-vid), there are three key things you want to demonstrate in your CV:
@@ -221,7 +221,7 @@ Let's look at each of these sections in turn:
 
 Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
 
-* Describing in enough detail what you've studied and any `projects`^[If you put these in a `projects` section all of their own (see section \@ref(mycvpj)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
+* Describing in enough detail what you've studied and any `Projects`^[If you put these in a `Projects` section all of their own (see section \@ref(mycvpj)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to your readers
 
 ```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
@@ -230,7 +230,7 @@ knitr::include_graphics("images/tony-blair-education-education-education.jpeg")
 
 (ref:captionblair) [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair)'s top three priorities as a new Prime Minister of the United Kingdom were `education, education and education`. [@tonyblair; @blair] Likewise, at this stage of your career, your education should be a top priority on your CV. Education should go first, unless you've got a *significant* amount of `experience`. As a graduate (or undergraduate) your education is the most recent, relevant and important thing about you so it should have top billing, see the discussion in figure \@ref(fig:lopez-vid). This [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) portrait of Tony Blair in 2007 by the Polish Presidency on Wikimedia Commons [w.wiki/64Kd](https://w.wiki/64Kd) has been adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies a longer description than a rather terse one line `BSc Computer Science`. You'll need to:
+You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies a longer description than a rather terse one line `BSc (Hons) Computer Science`. You'll need to:
 
 * say *more* than [Pen Tester](Penelope_Tester.pdf) and [Rick Urshion](Rick_Urshion.pdf), who haven't said enough about their University education
 * say *less* than [Mike Rokernel](Mike_Rokernel.pdf), who has given *way* too much information on his degree.
@@ -627,9 +627,9 @@ knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png
 
 (ref:captionmachines) Just like the [daleks](https://en.wikipedia.org/wiki/Dalek) in [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who), résumé robots often struggle to get up the stairs. [@doctorwho] Although they typically don't have arms, legs (or even wheels) robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you're applying to bigger companies. Make sure your CV is résumé robot friendly by getting feedback from a robot. [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🤖
 
-Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables or layout which may cause problems for some systems. For example, some systems ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) reliably to identify columns. Some things to check with automated CV screens:
+Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables, columns or layout which may cause problems for some systems. For example, some Applicant Tracking Systems (ATS) will erroneously ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) reliably to identify columns. [@twocolbad] Some things to check with automated CV screens:
 
-* Have you used standard headings for the sections? Non-standard sections maybe ignored or misunderstood
+* Have you used standard headings for the sections? Unusual or non-standard section headings like `most proud of` (see  maybe ignored or misunderstood
 * Have you used appropriate verbs to describe your actions?
 * Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see [what happens to tables and columns in an applicant tracking system](https://www.jobscan.co/blog/resume-tables-columns-ats/) [@jobscan]
 
@@ -701,7 +701,7 @@ show me the money!-->
 * Should you put education or experience first? Which is most important?
 * How many of my [hobbies and personal interests should you list?](https://www.reed.co.uk/career-advice/hobbies-and-interests-should-i-include-them-in-my-cv) [@hobbies]
 * How can you beat the black hole mentioned in section \@ref(blackhole)? See [Your Résumé vs. Oblivion](https://www.wsj.com/articles/SB10001424052970204624204577178941034941330) [@oblivion]
-* How many employers actually read cover letters?
+* How many employers actually read the covering letter that accompanies your CV?
 
 ```md
 * RESUME ▶️
