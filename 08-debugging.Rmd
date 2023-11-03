@@ -114,7 +114,7 @@ Like writing software, the challenging part of writing a CV isn't the *creation*
 
 If you ask three people what they think of your CV, you will get three different and probably contradictory opinions. CV's are very subjective and very personal. The advice in this chapter is based on common sense, experience and ongoing conversations with employers. What makes a good CV will depend on the personal preferences and prejudices of your readers. So, this chapter just describes some general debugging guidelines, rather than rigid rules.
 
-It is good practice to *triangulate* responses from your readers. For example, if three different people point out the same bug in your CV you can be confident that it is a bug that needs fixing.
+It is good practice to *triangulate* responses from your readers. For example, if three different people point out the same bug in your CV you can be confident that it is a bug that needs fixing. The more *friendly critics* (see figure \@ref(fig:wonderfuldarling-fig)) who can give you constructive feedback on your CV before you send it to employers, the better it will get.
 
 :::
 
@@ -125,7 +125,7 @@ While referring to this guide, remember that:
 * Bullet points with verbs first (see section \@ref(verbsfirst)) will:
   + allow your reader to *quickly* skim, scan and scroll through your CV because [employers don't actually read CVs](https://readabilityguidelines.co.uk/content-design/how-people-read/) [@scanning]
   + highlight your key activities
-  + avoid long sections of flowery [prose](https://en.wikipedia.org/wiki/Prose) which the reader will very probably skip anyway. Instead, you can use your beautiful prose on your covering letters or personal statements, see section \@ref(we3qs)
+  + avoid long sections of [flowery prose](https://en.wikipedia.org/wiki/Prose) which the reader will very probably skip anyway. Instead, you can use your beautiful prose to demonstrate your excellent written communication skills on your covering letters or personal statements instead, see section \@ref(we3qs)
 
 You're not trying to tell your *whole* life story from section \@ref(story) but to distill the essentials into several short stories which can be summarised into a handful of bullets or sentences. Your CV should be punchy like the [blurb](https://en.wikipedia.org/wiki/Blurb) or synopsis on the back of a novel, can you entice the reader into wanting to find out more (by inviting you to an interview)?
 
@@ -611,9 +611,9 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 
 ### Robot proofing your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers will use automated [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application. These “résumé robots” (if you like) are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different automated systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what the services privacy policy says about what they do with your personal data. Résumé robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers routinely use automated [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application which sometimes struggle with two column formats (see below). These “résumé robots” (if you like) are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different software systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what their privacy policy says about what they do with your personal data. Résumé robots include:
 
-* [careerset.com](https://careerset.com), a free service provided by a UK based company, careerset Ltd. If you're a manchester student login at [careerset.com/manchester](https://careerset.com/manchester)
+* [careerset.com](https://careerset.com), a free service provided by a UK based company, careerset Ltd. If you're a University of Manchester student, you can login using your Uni credentials at [careerset.com/manchester](https://careerset.com/manchester)
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
 * [jobscan.co](https://www.jobscan.co), a free service provided by an American company not really a CV checker
 * [kickresume.com](https://www.kickresume.com/) AI-powered resume builder also does cover letters
