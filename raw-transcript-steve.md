@@ -116,7 +116,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/0e/Hard_reset_BBC_Micro_32K_Aco
 
 Right
 
-> Steve: and the reason for this was because they had complex instructions (CISC), which were typically not interruptible. So I remember the **National Semiconductor** 32016 had a **memory memory divide** instruction which took 360 clock cycles to complete, what was six megahertz, so that's 60 microseconds. Well, a single density floppy at the time produced a byte if data, every 64 microseconds, double density, every 32. So you couldn't handle double density floppies without external hardware support. So that was one thing we didn't like, the real time response, and the second thing was, we've come to the firm view that the thing that was the principle determinant to computer performance, was the processors ability to use memory bandwidth.
+> Steve: and the reason for this was because they had complex instructions (CISC), which were typically not interruptible. So I remember the **National Semiconductor** 32016 had a **memory-memory divide** instruction which took 360 clock cycles to complete, what was six megahertz, so that's 60 microseconds. Well, a single density floppy at the time produced a byte of data, every 64 microseconds, double density, every 32. So you couldn't handle double density floppies without external hardware support. So that was one thing we didn't like, the real time response, and the second thing was, we've come to the firm view that the thing that was the principle determinant to computer performance, was the processors ability to use memory bandwidth.
 
 Alright. 
 
