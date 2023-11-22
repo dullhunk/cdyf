@@ -47,8 +47,8 @@ knitr::include_graphics("images/What's relevant.png")
 
 You are *much more* than your grades, because your education is only a part of who you are. You are the sum total of your experiences, this is one of the reasons that experience is so valuable, see figure \@ref(fig:experience-fig). It's common for students to be focused on their grades, whether those grades are low, middling or or high. At the extremes, if you have got lower grades than you'd like, you might be anxious or unhappy about them. If you've got higher grades, you're probably focussed on keeping them high. While its important to focus on getting the best grades you can, employers are interested in the whole you rather than narrowly focusing on your academic education. Alongside your academic achievements, there is also your:
 
-* 💰 `Experience` paid work, see section \@ref(mycvex)
-* 💪 `Projects` of all kinds, see section \@ref(mycvpj)
+* 💰 `Experience` paid work, see section \@ref(experience)
+* 💪 `Projects` of all kinds, see section \@ref(projects)
 * 🏆 `Leadership and awards` if you have or can demonstrate any \@ref(prizes)
 
 ```{r experience-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionexperience)"}
@@ -81,7 +81,7 @@ Paul Redmond at the University of Liverpool describes experience as a key part o
 
 According to Redmond, your employability ($E$) is the sum of your qualifications ($Q$), your work experience ($WE$) and your strategies ($S$) multiplied by your contacts ($C$). It is difficult to quantify employability so precisely but Redmond's equation \@ref(eq:redmond) is a good starting point for discussion. We will look at some strategies
 
-* For qualifcations ($Q$), see section \@ref(mycved) on your `Education`
+* For qualifcations ($Q$), see section \@ref(education) on your `Education`
 * For strategies ($S$) and contacts ($C$) see chapter \@ref(finding) on *Finding your Future*
 * For experience ($WE$) read on, this chapter is all about your `experience`
 
@@ -251,7 +251,7 @@ Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/T
 * Plant watering system for when you go on holiday? [@plantwatering]
 * See also [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), [online.coolestprojects.org](https://online.coolestprojects.org/) and section \@ref(bignames) for some starting points
 
-Yes, these projects are amateur, but tinkering and hacking clearly demonstrates your passion for learning and engineering. Apart from being fun, weekend hacks can look *great* in the `projects` section of your CV, see section \@ref(mycvpj).
+Yes, these projects are amateur, but tinkering and hacking clearly demonstrates your passion for learning and engineering. Apart from being fun, weekend hacks can look *great* in the `projects` section of your CV, see section \@ref(projects).
 
 ```{r hackathon-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhackathon)"}
 knitr::include_graphics("images/hackathon.jpeg")
@@ -287,7 +287,7 @@ knitr::include_graphics("images/Titanic-paperboy-crop.jpeg")
 ```
 (ref:captionpaperboy) Casual and part-time work tell an important story about you on your CV. For example, from the age of 12, I was a [paperboy](https://en.wikipedia.org/wiki/Paperboy), delivering newspapers directly to the doors of paying customers. This demonstrates reliability and work ethic, because I did this in all weathers (sun, wind, rain, snow, hangovers etc) for six years. If you have casual experience like this, don't forget to include it in your CV. Public domain image of the Titanic paperboy, Ned Parfett selling newspapers in London via Wikimedia Commons at [w.wiki/35HA](https://w.wiki/35HA) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238). 🚢
 
-It is important to recognise that these jobs have value. Many students make the mistake of overlooking their casual work experience because they discount it as non-technical and “low-skilled”. In section \@ref(mycvst) we saw that one of the stories you want to tell in your job applications is that you:
+It is important to recognise that these jobs have value. Many students make the mistake of overlooking their casual work experience because they discount it as non-technical and “low-skilled”. In section \@ref(structure) we saw that one of the stories you want to tell in your job applications is that you:
 
 1. take responsibility
 1. achieve things

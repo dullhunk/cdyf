@@ -399,7 +399,7 @@ Google job search is a good starting point because it crawls and indexes lots of
 ### Pushing a public professional profile {#portfolio}
 Jobs boards use the **pull** approach to job hunting, you search for and pull vacancies of interest. Alongside this, you can also try a **push** approach by publishing a professional public profile online.
 
-Publishing a portfolio of your work online will allow employers and recruiters to come and find you, as well as you searching for them. Employers shouldn't expect you to have an online portfolio and you might not want to have one, but it can help. If you choose to have a public profile, you can link to it in the header of your CV, see section \@ref(mycvpd).
+Publishing a portfolio of your work online will allow employers and recruiters to come and find you, as well as you searching for them. Employers shouldn't expect you to have an online portfolio and you might not want to have one, but it can help. If you choose to have a public profile, you can link to it in the header of your CV, see section \@ref(header).
 
 * **LinkedIn.com** is a social media service which allows you to put professional details online, a bit like a semi-public or public CV, see figure \@ref(fig:linkedin-fig) and table \@ref(tab:linkedintable). Besides allowing you to advertise yourself, LinkedIn also:
     + advertises job vacancies [linkedin.com/jobs](https://www.linkedin.com/jobs/)
@@ -413,7 +413,7 @@ knitr::include_graphics("images/linkedin-profile.jpg")
 ```
 (ref:captionlinkedin) [Linkedin](https://en.wikipedia.org/wiki/LinkedIn) is a social media service which allows you to build a professional network and public profile. It also allows employers to advertise their job vacancies. Social media caveats aside (see section \@ref(signposts3)), LinkedIn can be useful tool for networking with other professionals and finding a job, see table \@ref(tab:linkedintable). You can see Polly's profile at [linkedin.com/in/pollymorphism](https://www.linkedin.com/in/pollymorphism/)
 
-* **Github.com** allows you to publish code in public repositories that everyone can see, see figure \@ref(fig:github-fig). If you're comfortable doing it, publishing your software online can be a good way of demonstrating your technical skills and knowledge but be careful publishing your coursework online, see section \@ref(mycvpj). Nothing says “*I can build software*”  quite like “*here's one I made earlier*”. [@bluepeter]
+* **Github.com** allows you to publish code in public repositories that everyone can see, see figure \@ref(fig:github-fig). If you're comfortable doing it, publishing your software online can be a good way of demonstrating your technical skills and knowledge but be careful publishing your coursework online, see section \@ref(projects). Nothing says “*I can build software*”  quite like “*here's one I made earlier*”. [@bluepeter]
 
 ```{r github-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongithub)"}
 knitr::include_graphics("images/amish-github.jpg")
@@ -443,12 +443,12 @@ To improve your chances of winning the bets placed in your speculative applicati
 
 * Do some research about the employer, see section \@ref(bp10)
 * Make sure you've debugged your CV or résumé, see section \@ref(checklist)
-* Have written a compelling and personalised covering letter, see section \@ref(we3qs) 
+* Have written a compelling and personalised covering letter, see section \@ref(covering-letters) 
 
 Your speculative application might take several different forms: 
 
-* traditional CV and covering letter, by email see section \@ref(we3qs)
-* Phone call, these can work well with smaller employers, have your (verbal) “elevator pitch” ready see section \@ref(we3qs)
+* traditional CV and covering letter, by email see section \@ref(covering-letters)
+* Phone call, these can work well with smaller employers, have your (verbal) “elevator pitch” ready see section \@ref(covering-letters)
 * Digital or virtual approach, eg. via LinkedIn or similar see section \@ref(portfolio)
 * Speaking to employers in person e.g. at networking or other public events [IRL](https://en.wikipedia.org/wiki/Real_life)
 

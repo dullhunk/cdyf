@@ -103,7 +103,7 @@ What **WILL** distinguish you from your competitors is:
 
 
 * your `experience`: see chapter \@ref(experiencing)
-* your `projects`: see section \@ref(mycvpj)
+* your `projects`: see section \@ref(projects)
 * your communication skills:
     - Writing: see chapter \@ref(writing)
     - Speaking: see chapter \@ref(speaking)
