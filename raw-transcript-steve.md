@@ -339,7 +339,7 @@ Okay, good. Well, add that to coders playlist and all I'm going to have a listen
 
  > Steve: I mean, I don't listen to podcasts a lot but I do have some that download on to my phone and and I haven't travelled so much as the last few years, post-pandemic, but when I used to fly, I used to listen to podcasts on the plane quite a lot. Yeah. I think the best and the most diverse podcasts are the in our time podcasts by [Melvyn Bragg](https://en.wikipedia.org/wiki/Melvyn_Bragg). Now I'm not going to point to specific one just the series. It's so why ranging and covers You know, stuff coming in. Which I have a direction for some stuff. I've never heard anything about. Yeah. From physics through to well, everything history and the works easy.
 
-It's true to ancient ancient civilisation. Yeah. I think Melvin Brag. Does draw out. You know, good thoughts and insights from his guests in that. So that'll be my choice that A good. Okay. And one film. Right. So, you know, allowed to say BBC microman? No, I don't think I would choose that anyway.
+It's true to ancient ancient civilisation. Yeah. I think Melvyn Brag    g. Does draw out. You know, good thoughts and insights from his guests in that. So that'll be my choice that A good. Okay. And one film. Right. So, you know, allowed to say BBC microman? No, I don't think I would choose that anyway.
 
 And I mean it's a lovely little drama, but And largely almost true. But, I was choosing here. I got the So, I think my second choice. It's a film that. I haven't seen around recently but that I love this at the time, which was those magnificent men in their flying machines, right?
 
