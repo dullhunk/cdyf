@@ -317,7 +317,7 @@ A finite resource.
 
 > Steve: Yeah. 
 
-## One tune 
+## One tune {#furbertune}
 
 
 Okay, good. So one other thing. We shan't be casting you away to a Desert Island with your eight tracks and a book [@desertislanddiscs] but we ask our guests to recommend one piece of music to our listeners and say why that one piece of music is important to them. This is an opportunity for me to thank you, before the pandemic, you played bass guitar in our prototype band, so thank you for doing that. You still play bass now I take it? 
@@ -332,70 +332,99 @@ Okay, good. Well, add that to coders playlist and all I'm going to have a listen
 
 > Steve: I like that because you know, although I play bass now I was once in my undergraduate days a lead guitarist, not a very good one, I had to admit but I kind of love guitar, and I just think the guitar on that track is particularly nice, good, strong, whatever the right word is, I'm not quite sure. If anybody can work out what the lyrics are about. they better let me know. Like a lot of moody blue songs the lyrics are a bit on the obscure side. It's got it's got a great guitar introduction and a couple of good guitars solos in the middle 
 
-## One podcast
- And then you'll see is then one I don't know if you actually listen to podcasts much but either a podcast or a radio show that you listen to that you recommend other people listen to as well 
+## One podcast {#furbercast}
+ And then you'll see is then one I don't know if you actually listen to podcasts much but either a podcast or a radio show that you listen to that you recommend other people listen 
  
  ONEHOURANDSIXMINUTES
 
- > Steve: I mean, I don't listen to podcasts a lot but I do have some that download on to my phone and and I haven't travelled so much as the last few years, post-pandemic, but when I used to fly, I used to listen to podcasts on the plane quite a lot. Yeah. I think the best and the most diverse podcasts are the in our time podcasts by [Melvyn Bragg](https://en.wikipedia.org/wiki/Melvyn_Bragg). Now I'm not going to point to specific one just the series. It's so why ranging and covers You know, stuff coming in. Which I have a direction for some stuff. I've never heard anything about. Yeah. From physics through to well, everything history and the works easy.
+ > Steve: I mean, I don't listen to podcasts a lot but I do have some that download on to my phone and and I haven't travelled so much as the last few years, post-pandemic, but when I used to fly, I used to listen to podcasts on the plane quite a lot. I think the best and the most diverse podcasts are the in our time podcasts by [Melvyn Bragg](https://en.wikipedia.org/wiki/Melvyn_Bragg). Now I'm not going to point to specific one, just the series. It's so wide ranging and covers stuff I have a direct interest in and stuff I've never heard anything about. 
+ 
+ From physics through to well, everything, history 
 
-It's true to ancient ancient civilisation. Yeah. I think Melvyn Brag    g. Does draw out. You know, good thoughts and insights from his guests in that. So that'll be my choice that A good. Okay. And one film. Right. So, you know, allowed to say BBC microman? No, I don't think I would choose that anyway.
+> Steve: Physics through to ancient ancient civilisation. I think Melvyn Bragg does draw out good thoughts and insights from his guests in that. So that'll be my choice.
 
-And I mean it's a lovely little drama, but And largely almost true. But, I was choosing here. I got the So, I think my second choice. It's a film that. I haven't seen around recently but that I love this at the time, which was those magnificent men in their flying machines, right?
+## One film {#furberfilm}
+Good. Okay and one film? You're not allowed to say BBC micromen? [@micromen]
 
-But again, you know, I like aircraft and That's got some great old aircraft. I think, including some genuine in 1912 blackburn Monterplane is flying in that which is an original plane. Yeah. But see that's that's not my my first choice. My first choice is 2001, the space on datability, right?
+> Steve: No, I don't think I would choose that anyway, I mean it's a lovely little drama, and largely almost true. I was choosing here, so, I think my second choice, it's a film that I haven't seen around recently but I loved tithis at the time, which was [Those Magnificent Men in Their Flying Machines](https://en.wikipedia.org/wiki/Those_Magnificent_Men_in_Their_Flying_Machines). [@magnificentmen]
 
-You, I would have seen that in the cinema for the first time in. When did that form come out? If sometime in the 1960s, right? Yeah. With the main, the music, the combination of the music and the cinematography at the time was quite groundbreaking, wasn't it? We take it for granted now, but it was absolutely staggering.
+Right.
 
-I mean, of course, it's way before the time of CGI It. So it was all done with models but it was done. Right. Yeah way that you know, You know, I like Star Wars movies, right? But The little spacecraft. They fly like second world, warplays. Right? The wish you could only do in air, right?
+> Steve: But again, I like aircraft and that's got some great old aircraft. I think, including a genuine [1912 blackburn monoplane](https://en.wikipedia.org/wiki/Blackburn_Type_D) flying in that which is an original plane. Yeah. But see that's that's not my my first choice. My first choice is [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey) [@spacyodyssey]
 
-It, it's completely unrealistic as a As a dynamics of the space of vehicle. Was 2001. They got everything rights and, you know that Including the sequence. Know where? The flight docs with the space station like It which takes the whole of the blue value. Now I know in reality you would take I was rather than terms of minutes but at least they give it a decent time.
 
-Yeah yeah and of course the Blue Danube isn't Bob is a company that right? So, I just think the way they handle that, And, of course the the opening sequence is If historic rightly, The abes, having a battle and then the bone going up in the air and turning into a space station.
+You, I would have seen that in the cinema for the first time in, when did that form come out? 
 
-I mean that Okay, and still topical today with all the AI references in there as well, or AI themes in the film. Oh well of course yes I mean howlers is not being A superceded as as illustrated and the ultimate threat? Yes. Um, Yeah, that's great to be the stuff at the end gets a bit weird.
+> Steve: It was sometime in the 1960s
 
-That that's yeah. Okay, so Given so talking science fiction. So, given a time machine, A colleague of ours in the physics, departments invented the time machine that they assure me works. And if you could travel back in time, To when you were a student at university, Okay, in the 70s.
+The combination of the music and the cinematography at the time was quite groundbreaking, wasn't it? We take it for granted now... 
 
-And what advice would you offer your former self? And fellow students and students studying computer science. Now, about making the most of their short time at university. So obviously, I'm tangential response to this. I mean, when I was at university, Studying maths, I was reasonably diligent as a student.
+> Steve: It was absolutely staggering. I mean, of course, it's way before the time of [CGI](https://en.wikipedia.org/wiki/Computer-generated_imagery) So it was all done with models, but it was done right. You know, I like [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) movies, right? But the little spacecraft, they fly like second world war planes. Right. Which you can only do in air, It's completely unrealistic as a dynamics of a space of vehicle. Whereas *2001*, they got everything right including the sequence where the flight docks with the space station which takes the whole of [The Blue Danube](https://en.wikipedia.org/wiki/The_Blue_Danube). [@bluedanube] Now I know in reality you would take less time, rather than tens of minutes but at least they give it a decent time.  And of course *The Blue Danube* isn't bad accompaniment. So, I just think the way they handle that, an, of course the the opening sequence is  historic, rightly. The apes having a battle and then the bone going up in the air and turning into a space station.
 
-And the maths course was not that demanding in terms of time as long as you concentrated and did the examples and so on, Um, but one thing I did, It at Cambridge was I joined, A university society, which was The 20th century, Christian music group, and it's relates to my It playing in church groups these days.
+And still topical today with all the AI references in there as well, or AI themes in the film. 
 
-And A lot of my leisure time as it were, my non-work time at university was spent, With 20th century practising and Playing not very well in concerts and so on. The but most importantly, through that group, I met my wife, right? Um, and You know, if they always send a 20th century, our It wasn't very good music group, but it's a great marriage Bureau.
+> Steve: Oh well of course yes I mean [HAL](https://en.wikipedia.org/wiki/HAL_9000) has not been superceded as an illustration of the ultimate threat. That's great, the stuff at the end gets a bit weird.
 
-Yeah, I think. He a little bit back on the university. It's the, it's those things that you remember, you'll forget the sweat of some of the study, but actually, it's a social stuff that relationships that last a lifetime that Other thing that most people remember long after they've forgotten whatever it was, they was standing in University of the actual, you know, the specific details.
+## Time traveller {#furbertime}
 
-It's not good. I think, you know, my advice. Well, I have some basic advice which hope, which I give to anybody who's asking me of it, trying to take a decision. And that's the algorithm for choosing what you do and in my algorithm is If you don't know what you want to do, then make the decision, which maximises the number of doors that stay home.
+So talking of science fiction, given a time machine, a colleague of ours in the [physics department](https://en.wikipedia.org/wiki/Department_of_Physics_and_Astronomy,_University_of_Manchester) has invented a time machine that they assure me works and if you could travel back in time, to when you were a student at university in the seventies, what advice would you offer your former self and fellow students and students studying computer science now, about making the most of their short time at university. 
 
-Yeah, yeah. And and for that reason, you know, I would never Advise against reading maths. If you, if you could, you need to finish you for maths to make sense, but maths It opens lots of dollars as would physics. A computer science is a bit. Now that's the still a lot of opportunities in emerging from confused of science.
 
-These days and computers are everywhere, right? Yeah. Yeah. All of these things and obviously, you choose between them based on your interests and your motivation and So keep his many doors opened you can. Don't neglect your studies. Keep on top of your studies is the second piece of advice, and the third advice is It makes something of the social opportunities.
+> Steve: So I have a slightly tangential response to this. I mean, when I was at university studying maths, I was reasonably diligent as a student. The maths course was not that demanding in terms of time as long as you concentrated and did the examples and so on, but one thing I did at Cambridge was I joined a university society, which was the [20th century Christian music group](https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/25649) and it's relates to my playing in church groups these days. A lot of my leisure time as it were, my non-work time at university was spent with 20th century practising and playing not very well in concerts and so on. But most importantly, through that group I met my wife
 
-Yeah. Okay. So don't spend a hundred percent of your time on your studies. Yes. That's quite a difficult message to get across the students who chasing very high marks and he sort of the sometimes, those high marks come at the expense, of all the other stuff you've talking about there, which seems like a missed opportunity, It.
+Right? 
 
-Yeah. I think so. I think People change a lot. Between the beginning and end of university. Yeah, probably. The maximum rate of change time in your life, right? And, and It's your first typically your first time away from your parents home. She went a new environment, you can be something different from what you were before.
+> Steve: Um, and You know, if they always send a 20th century, our It wasn't very good music group, but it's a great marriage Bureau.
 
-And, And you can find things that interest you. Yeah. And it's good. At least one of those is outside your Up names. Study, focus. Okay, so to close off then, so acorn. It acorn. Risk machines became advanced for some machines and in 1990, I think an arm went public on the London.
+I think when a lot of people look back on their university, it's those things that you remember, you'll forget the sweat of some of the study, but actually, it's the social stuff, the relationships that last a lifetime, the thing that most people remember long after they've forgotten whatever it was they were studying at University, the actual specific details.
 
-Stock Exchange in 1998. It was bought by soft bank in 2016 and then reflated again. On the New York Stock Exchange last month. So it's it's arguably the most globally. Influential British technology company that I can think of and many other people have made the same arguments. So What's your take on where arm is now?
+> Steve: I think, you know, my advice. Well, I have some basic advice which hope, which I give to anybody who's asking me if their trying to take a decision. And that's the algorithm for choosing what you do, my algorithm is if you don't know what you want to do, then make the decision, which maximises the number of doors that stay open.
 
-How do you feel about arm listing in? There was a bit of And, A bit of commentary on. Why did harmless in New York? Rather than London? So it doesn't feel like a very British company anymore. What should what's your take on this? Or somebody's been involved in it right?
+Yeah, yeah. 
 
-From the very beginning. Well, of course, yes, Akon didn't become our the gat on. Yes. And yeah. So join adventure with our fallen bill. As I technology. And, That's that's happened. Just satri come to Manchester. So I've always observed on from the outside actively And i, I felt although I know the rationale behind the scale to soft bank, Um, i don't think it was a good movie for me in arm.
+> Steve: And for that reason, you know, I would never advise against reading maths. You need an affnity for maths to make sense, but maths opens lots of doors as would physics. A computer science is a bit narrower but there's still a lot of opportunities in emerging from computer science these days and computers are everywhere, 
 
-Arms business. It's very much based on their independence. And and the kind of Switzerland and the technology world. And so being owned by a company with interest, such a softback even though soft bang. He's not directly competing with arms or the customers. Struck me as a bad idea and it's been pretty clear.
+right? Yeah. Yeah. 
 
-Since the sale to soft bank, the soft bank. Don't really know what to do with them. Yeah. They've, Here, they promise the British government, that they would expand a lot on the direction of IoT. It and that didn't work out very well. And then, of course, softball. Try to sell them to Nvidia.
+> Steve: All of these things, and obviously, you choose between them based on your interests and your motivation. 
 
-Which would have been an even worse idea. Right because Nvidia is a comp direct competition. So arms other customers. So no, struggly is a very bad idea and I'm not sure it really matters. Which Stock exchange, they floated on. It's still clear that on centre of gravity is in the UK.
+1. So keep his many doors opened you can
+1. Don't neglect your studies, keep on top of your studies is the second piece of advice 
+1. And the third advice is make something of the social opportunities. So don't spend a hundred percent of your time on your studies. 
 
-If you look at That's a five or six thousand employees. A bit more than half of them are uk based. Yeah. Yeah. Although, the management is kind of, Appears to a slit over to the states. Should run a harasses. It I think so. Yeah or any nurses is over, of course.
+Yes. That's quite a difficult message to get across to students who are chasing very high marks and he sort of the sometimes, those high marks come at the expense of all the other stuff you're talking about there, which seems like a missed opportunity, 
 
-The last CEO before that Simon Segers. There's a Manchester alumni here and that's on the student of yours, didn't he? Yeah, yes. He had moved to California when Um, it's okay over the The physical IP business. His name might no perfectly. Well, that's template my mind. He moved over just kind of integrate them with arm and state there.
+> Steve:  I think so. I think people change a lot between the beginning and end of university. Probably the maximum rate of change time in your life, right? It's your first, typically your first time away from your parents home. You're in a new environment, you can be something different from what you were before. You can find things that interest you. It's good if at least one of those is outside your main study focus. 
 
-So Let's see how he was still. Based in the US. Um, But, And the preparation for this IPO. They've A perfect ways of the whole lot of. And experienced staff in particularly, in the R&D department, maybe they've restructured the company and Ways that I don't claim to understand. Yeah.
+## A farewell to arms? {#farewell}
 
-So i don't, i'm not sure I Have particular insights, you know, I'm not. I'm not a great business entrepreneur. Let me technology. So yeah. I don't really know how to comment on on Harvey make their business moves. But certainly, Independence is central to their existence in motivating. Yeah. Okay.
+Okay, so to close off then, Acorn Risc Machines became Advanced Risc Machines in 1990, and arm.com went public on the London Stock Exchange in 1998. It was bought by [SoftBank](https://en.wikipedia.org/wiki/SoftBank_Group) in 2016 and then refloated again on the New York Stock Exchange last month. So it's it's arguably the most globally influential british technology company that I can think of and many other people have made the same arguments. So what's your take on where arm is now? How do you feel about arm listing, there was a bit of commentary on why did arm list in New York rather than London. So it doesn't feel like a very British company anymore. Whats your take on this as somebody who's been involved in it right from the very beginning? [@farewelltoarm]
+
+> Steve: Well, of course, yes, Acorn didn't *become* arm it *begat* arm. It was a joint venture with [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) and [VLSI technology](https://en.wikipedia.org/wiki/VLSI_Technology). That happened just after I'd come to Manchester, so I've always observed arm from the outside effectively. I felt, although I know the rationale behind the sale to SoftBank, I don't think it was a good move. Arms business is very much based on their independence, they are the kind of Switzerland of the technology world. So being owned by a company with interests, such a SoftBank, even though SoftBank is not directly competing with arm's other customers, struck me as a bad idea and it's been pretty clear since the sale to SoftBank, that SoftBank don't really know what to do with them. 
+
+Yeah. 
+
+> Steve: They promised the British government, that they would expand a lot, in the direction of [IoT](https://en.wikipedia.org/wiki/Internet_of_things) and that didn't work out very well. And then, of course, SoftBank tried to sell them to [Nvidia](https://en.wikipedia.org/wiki/Nvidia) [@armnvidia] which would have been an even worse idea. Right because Nvidia is a direct competitor to arms other customers. So that struck me as a very bad idea. I'm not sure it really matters which stock exchange they floated on. It's still clear that on centre of gravity is in the UK if you look at there five or six thousand employees, a bit more than half of them are UK based. 
+
+Yeah. Yeah. 
+
+> Steve: Although the management appears to have slipped over to the states. 
+
+[Rene Haas](https://en.wikipedia.org/wiki/Rene_Haas)?
+
+
+> Steve: Rene Haas of course, the last CEO before that [Simon Segars](https://en.wikipedia.org/wiki/Simon_Segars) who is a Manchester alumni here 
+
+A former student of yours? [@segarsthesis]
+
+> Steve: Yes he had moved to California when arm took over the physical IP business. Whose name I know perfectly well, but temporarily slipped my mind. He moved over just to kind of integrate them with arm and stayed there.
+
+
+## one hour seventeen minutes
+
+So let's see how he was still based in the US. In preparation for this IPO. They parted ways of the whole lot of experienced staff in particular, in the R&D department, maybe they've restructured the company and Ways that I don't claim to understand. Yeah.
+
+So I don't, I'm not sure I have particular insights, you know, I'm not. I'm not a great business entrepreneur. Let me technology. So yeah. I don't really know how to comment on on Harvey make their business moves. But certainly, Independence is central to their existence in motivating. Yeah. Okay.
 
 I think that the you've already answered my next question, which is where the students so acorn computer And played ankle computers, played a big role in your career. A early opportunities for you. So where the students go to find their equal computer in, I think you've already said that.
 
@@ -448,7 +477,13 @@ So right? Okay. It's right. Well, thanks again. Steve and see you again soon. Bu
 Okay.
 
 
-## Chip wars: the battle for silicon supremacy
+## Epilogue: From Moore's law to chip war {#furberlogue}
+
+The observation that the number of transistors on microchips doubles every two years, is known as [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law), named after Gordon Moore, co-founder of Intel. [@mooreslaw] 
+
+During the last 40 years we've seen the number of 
+
+The ARM1 had 25,000 transistors 
 
 A logarithmic graph showing the timeline of how transistor counts in microchips are almost doubling every two years from 1970 to 2020; Moore's Law.
 
