@@ -64,6 +64,14 @@ knitr::include_graphics(rep("images/steve-furber-linkedin.jpeg", 3))
 
 (ref:captionstevelink) Steve Furber, picture re-used from [linkedin.com/in/stevefurber](https://www.linkedin.com/in/stevefurber)
 
+(ref:podcastblurbshort)
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/29151428/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
 ## Episode 12: Amish Shah on imago, Bloomberg and Palantir {#ep12}
 
 Interview with Amish Shah, see figure \@ref(fig:amish2-fig) and the transcript and show notes in chapter \@ref(amish).

@@ -8,6 +8,11 @@ knitr::include_graphics("images/Steve-Furber-Debugging-Proton.jpeg")
 
 (ref:captionsteve) Steve Furber [linkedin.com/in/stevefurber](https://www.linkedin.com/in/stevebfurber/) (bottom left) in 1981 (with Alan Wright behind) debugging wire-wrapped prototypes of the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro). Picture re-used with kind permission from [Chris Turner](https://www.linkedin.com/in/cbturner) [@christurner]
 
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/29151428/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
 (ref:podcastblurb)
 
 ## What's your story Steve? {#steves-story}
@@ -29,7 +34,14 @@ knitr::include_graphics("images/SpiNNorama.jpeg")
 
 We have to go right back to the beginning. So I always ask students, as the audience is mostly computer science students, I always ask them *why* they studied computer science but you *didn't* study computer science initially, you studied mathematics as a student at [Manchester Grammar School](https://en.wikipedia.org/wiki/Manchester_Grammar_School) (MGS), just down the road here in ~~Fallowfield~~ Rusholme. What was it that made you think that you want to spend three or four years of your life studying mathematics as an undergraduate? 
 
-> Steve: I've always had an affinity for mathematics, if you go through my old school reports they generally improve as I drop other subjects and focus on the mathematics. *Maths is the only sport I've played for my country* so I was on the British team at the [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) in Hungary in 1970. So it's very natural for me to stick with mathematics when it came to choosing a university course.
+> Steve: I've always had an affinity for mathematics, if you go through my old school reports they generally improve as I drop other subjects and focus on the mathematics. *Maths is the only sport I've played for my country* (see figure \@ref(fig:mathsport-fig)) so I was on the British team at the [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) in Hungary in 1970. So it's very natural for me to stick with mathematics when it came to choosing a university course.
+
+```{r mathsport-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmathsport)"}
+knitr::include_graphics("images/mathsport.jpeg")
+```
+
+(ref:captionmathsport) Maths is the only sport that Steve has played for his country, as a competitor in the [International Mathematical Olympiad](https://en.wikipedia.org/wiki/International_Mathematical_Olympiad) in Hungary in 1970.  CC BY-SA portrait of Steve Furber by Peter Howkins on Wikimedia Commons [w.wiki/544E](https://w.wiki/544E) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
 
 I guess you must have had some good maths teachers at Manchester Grammar (see figure \@ref(fig:mgs-fig)) who encouraged and inspired you do things like go to Olympiads and the like? 
 
@@ -158,11 +170,11 @@ Right? but then you were using them in your PhD for logging data or is that a se
 knitr::include_graphics("images/furbercomputer.jpg")
 ```
 
-(ref:captionfurbercomputer) Steve's home-built computer, the 2-level rack behind the keyboard, was used to log data in the laboratory and later write his thesis. It became a test-bed for some of the key concepts behind the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro). Picture reproduced from PhD thesis with permission. [@furberphd]
+(ref:captionfurbercomputer) Steve's home-built computer, the 2-level rack behind the keyboard, was used to log data in the [Whittle laboratory](https://en.wikipedia.org/wiki/Whittle_Laboratory) and subsequently write his thesis. It became a test-bed for some of the key concepts behind the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro). Picture reproduced from PhD thesis with permission. [@furberphd]
 
 Right? 
 
-> Steve: The university had a twin track [Daisy wheel printer](https://en.wikipedia.org/wiki/Daisy_wheel_printing), see figure \@ref(fig:daisy-fig). Who remembers Daisy wheel printers? The idea was it had a thing called the Daisy wheel which had you know, a number of petals where each petal had the character on. And this wheel ran around at high speed and a solenoid banged at the right moment to print the characters on the paper and this twin Daisy wheel had two of these one with Roman alphabet and one with greek. And my PhD thesis was printed on the continuous roll of paper about 200 feet long. 
+> Steve: The University had a twin track [Daisy wheel printer](https://en.wikipedia.org/wiki/Daisy_wheel_printing), see figure \@ref(fig:daisy-fig). Who remembers Daisy wheel printers? The idea was it had a thing called the Daisy wheel which had you know, a number of petals where each petal had the character on. And this wheel ran around at high speed and a solenoid banged at the right moment to print the characters on the paper and this twin Daisy wheel had two of these one with Roman alphabet and one with greek. And my PhD thesis was printed on the continuous roll of paper about 200 feet long. 
 
 ```{r daisy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondaisy)"}
 knitr::include_graphics("images/Daisywheel.jpeg")
@@ -306,8 +318,7 @@ Thats *VLSI: RISC architectural organisation*, see figure \@ref(fig:vlsi-fig). [
 knitr::include_graphics("images/vlsi.jpeg")
 ```
 
-(ref:captionvlsi) [Very large-scale integration](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration) (VLSI) is the process of creating an
-integrated circuit (IC) by combining millions or billions of MOS transistors onto a single chip. [@vlsibook] Picture of a VLSI integrated-circuit die via Wikimedia Commons [w.wiki/8Unw](https://w.wiki/8Unw) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionvlsi) The process of [Very Large-Scale Integration](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration) (VLSI) is used to create an integrated circuit (IC) by combining millions or billions of MOS transistors onto a single chip. [@vlsibook] Picture of a VLSI integrated-circuit die via Wikimedia Commons [w.wiki/8Unw](https://w.wiki/8Unw) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 
@@ -400,7 +411,13 @@ So can we start with a brain stuff? First? How has SpiNNaker helped scientists u
 
 Jülich is?
 
-> Steve: Jülich is the German Supercomputer centre. Its a town in Germany and the [Forschungszentrum Jülich](https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich). So it's the major German supercomputer centre in Northwest Germany. They developed a model of an area of cortex and they run this on their supercomputers and we've run it on SpiNNaker and it's been run on GPU systems. SpiNNaker was the first machine which achieve real time, biological real-time performance on this model. The model reproduces measured average spiking rates in layers it allows us to say well yes disappears to be,  to reproduce quite a lot of the things we can measure about cortical activity. It has a circuit we can write down, it's relatively simple to write down what the neural circuit is here. We still don't understand what is doing or how it does it. We have a model that's fairly easy to interrogate an test hypotheses on. And as I say SpiNNaker was the first to achieve biological real time despite being really quite old technology now and the [HPC](https://en.wikipedia.org/wiki/High-performance_computing) and GPU systems being much more modern technology. So it kind of suggests that the architecture that we conceived has advantages if it can enable an old technology to compete with much newer technologies.
+> Steve: Jülich is the German Supercomputer centre. Its a town in Germany and the [Forschungszentrum Jülich](https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich) (see figure \@ref(fig:julich-fig)). So it's the major German supercomputer centre in Northwest Germany. They developed a model of an area of cortex and they run this on their supercomputers and we've run it on SpiNNaker and it's been run on GPU systems. SpiNNaker was the first machine which achieve real time, biological real-time performance on this model. The model reproduces measured average spiking rates in layers it allows us to say well yes disappears to be,  to reproduce quite a lot of the things we can measure about cortical activity. It has a circuit we can write down, it's relatively simple to write down what the neural circuit is here. We still don't understand what is doing or how it does it. We have a model that's fairly easy to interrogate an test hypotheses on. And as I say SpiNNaker was the first to achieve biological real time despite being really quite old technology now and the [HPC](https://en.wikipedia.org/wiki/High-performance_computing) and GPU systems being much more modern technology. So it kind of suggests that the architecture that we conceived has advantages if it can enable an old technology to compete with much newer technologies.
+
+```{r julich-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionjulich)"}
+knitr::include_graphics("images/julich.jpeg")
+```
+(ref:captionjulich) [Forschungszentrum Jülich](https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich) is the German Supercomputer centre. As a member of the Helmholtz Association, it has roughly 6,800 employees in ten institutes and 80 subinstitutes, Jülich is one of the largest research institutions in Europe. CC BY-SA image of Haupteingang Forschungszentrum Jülich by Bodoklecksel on Wikimedia Commons [w.wiki/8ZPc](https://w.wiki/8ZPc) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
 
 Are there any engineering... what we learn from building these systems, you know, regardless of what they get used for, as it's a challenge just building them?
 
@@ -413,8 +430,9 @@ Which is big.
 ```{r singlevent-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsingleventupset)"}
 knitr::include_graphics("images/single-event-upset.jpeg")
 ```
-(ref:captionsingleventupset) A [single event upset](https://en.wikipedia.org/wiki/Single-event_upset) is a change of state caused by an ionizing particle striking a
-sensitive node in a live micro-electronic device, such as in a microprocessor, semiconductor memory or power transistors. A single event upset in flight computers onboard this “computer with wings” was suspected to have nearly crashed this [Qantas Flight 72](https://en.wikipedia.org/wiki/Qantas_Flight_72), an Airbus A330. [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) picture of an A330 by Chris Finney on Wikimedia Commons [w.wiki/8WMJ](https://w.wiki/8WMJ) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
+
+(ref:captionsingleventupset) A [single event upset](https://en.wikipedia.org/wiki/Single-event_upset) is a change of state caused by an ionizing particle striking a sensitive node in a live micro-electronic device, such as in a microprocessor semiconductor memory or power transistors. A single event upset in flight computers onboard this “computer with wings” was suspected to have nearly crashed this [Qantas Flight 72](https://en.wikipedia.org/wiki/Qantas_Flight_72), an Airbus A330. [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) picture of an A330 by Chris Finney on Wikimedia Commons [w.wiki/8WMJ](https://w.wiki/8WMJ) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
 
 Okay. This is not something you anticipated I suppose?
 
@@ -476,7 +494,7 @@ knitr::include_graphics("images/the-moody-blues.jpeg")
 
 (ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin], Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the Coder's Playlist. [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/6h5t](https://w.wiki/6h5t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
 
-Okay, good. We'll add that to the [bit.ly/coders-playlist](https://bit.ly/coders-playlist) and all I'm going to have a listen to that. Why is that particular piece important to you?
+Okay, good. We'll add that to the [bit.ly/coders-playlist](https://bit.ly/coders-playlist) (redirects the YouTube playlist) and I'm going to have a listen to that. Why is that particular piece important to you?
 
 > Steve: I like that because you know, although I play bass now I was once in my undergraduate days a lead guitarist, not a very good one, I had to admit but I kind of love guitar, and I just think the guitar on that track is particularly nice, good, strong, whatever the right word is, I'm not quite sure. If anybody can work out what the lyrics are about they better let me know. Like a lot of Moody Blues songs the lyrics are a bit on the obscure side. It's got a great guitar introduction and a couple of good guitar solos in the middle. 
 
@@ -598,7 +616,7 @@ So, I think you have to find some way to finesse the problem. And you can do a l
 
 <!--BIGGAP needs editing out at 1.23.38-->
 
-I mean what the one thing that is available to academics and is very useful, is is [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) technology, it's what we use for teaching logic design in our labs. You can get FPGAs with formidable capabilities, so you can effectively prototype almost anything in hardware on an FPGA relatively low cost. It's not quite the same as your custom silicon but its pretty close. 
+I mean what the one thing that is available to academics and is very useful, is is [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) technology, it's what we use for teaching logic design in our labs. You can get FPGAs with formidable capabilities, so you can effectively prototype almost anything in hardware on an FPGA at relatively low cost. It's not quite the same as your custom silicon but its pretty close. 
 
 > Steve:  Okay, good. So I feel like I've kept you A long enough. So thank you. Thank you for Thank you for coming on and answering my questions.Just.
 
@@ -606,11 +624,11 @@ Last question is You, you retired last week that's on Friday and we're having a 
 
 > Steve: Well, I still have a number of connections with companies that will carry on. I'm still involved in the process of trying to commercialise SpiNNaker through the University and through Dresden. That's occupied quite a lot of time but as for what my real retirement plans are, I'm not sure yet. I've still got to contend with the Human Brain Project final review in November which despite being retired I will be basically representing the University at that. And a typical day yesterday, I still got three emails from HR about research staff whose contracts are coming to an end and sets of timesheets to sign. So my university job hasn't actually gone away yet, right? 
 
-Okay, well, I hope you enjoy your retirement and take some time to do things you're perhaps you not able to do as a (busy) Professor, now, you're an Emeritus Professor.  Thanks again for your time and we look forward to seeing you on the 12th of January (2024). I'll put a link to Gavin Brown's organising this (see below). FurbyFest! 
+Okay, well, I hope you enjoy your retirement and take some time to do things you're perhaps you not able to do as a (busy) Professor, now, you're an Emeritus Professor.  Thanks again for your time and we look forward to seeing you on the 12th of January (2024). I'll put a link to Gavin Brown's organising this. FurbyFest! [@furbyfest]
 
 > Steve: I didn't realise. Oh, dear!
 
-So we're calling this *FurbyFest* (working title) so we look forward to seeing you at that And Enjoy, enjoy your your retirement. 
+So we're calling this *FurbyFest* (working title) so we look forward to seeing you at that and enjoy your your retirement. 
 
 > Steve: Okay thank you Duncan.
 
@@ -628,14 +646,14 @@ knitr::include_graphics("images/gordon-moore.jpeg")
 ```
 (ref:captiongordonmoore) [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) (1929–2023) was an American businessman, engineer, co-founder and emeritus chairman of the Intel Corporation. Moore's law, which is named after him, predicts that the number of transistors in an integrated circuit (IC) doubles every two years. [@mooreslaw] CC BY-SA portrait of Gordon Moore in 1978 by Intel Free Press on Wikimedia Commons [w.wiki/8Yu9](https://w.wiki/8Yu9) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-The ARM1 (shown in red in figure \@ref(fig:moores-law-fig)) had **25,000** transistors, compared to the **39.5 billion** transistors in AMD [Epyc](https://en.wikipedia.org/wiki/Epyc) (shown in red in figure \@ref(fig:moores-law-fig)) manufactured by the [Taiwan Semiconductor Manufacturing Company](https://en.wikipedia.org/wiki/TSMC) (TSMC).
+The ARM1 (shown bottom left in red in figure \@ref(fig:moores-law-fig)) had **25,000** transistors, compared to the **39.5 billion** transistors in AMD [Epyc](https://en.wikipedia.org/wiki/Epyc) (shown top right in red in figure \@ref(fig:moores-law-fig)) manufactured by the [Taiwan Semiconductor Manufacturing Company](https://en.wikipedia.org/wiki/TSMC) (TSMC).
 
 ```{r moores-law-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmooreslaw)"}
 knitr::include_graphics("images/moores-law.jpg")
 ```
 (ref:captionmooreslaw) A logarithmic graph showing the timeline of how transistor counts on integrated circuits have doubled every two years from 1970 to 2020. CC-BY image by [Max Roser](https://en.wikipedia.org/wiki/Max_Roser) and [Hannah Ritchie](https://en.wikipedia.org/wiki/Hannah_Ritchie) at [ourworldindata.org](https://ourworldindata.org/) on Wikimedia Commons [w.wiki/5rat](https://w.wiki/5rat)
 
-Wherever and however they are designed, the manufacture of chips lies at the heart of the global economy. This is something most people could ignore until supply chains started to be affected by it, see \@ref(fig:silicon-supremacy-vid). The United States is bidding to regain a leading role in advanced chip manufacturing, to de-risk critical supply chains, and to combat China's rise as a technological superpower. 
+Wherever they are designed and whoever designs them, the manufacture of chips lies at the heart of the global economy, see \@ref(fig:silicon-supremacy-vid). The United States is bidding to regain a leading role in advanced chip manufacturing, to de-risk critical supply chains, and to combat China's rise as a technological superpower. The results of this remain to be seen. 
 
 
 ```{r silicon-supremacy-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionsiliconsupremacy)"}
@@ -644,7 +662,7 @@ knitr::include_url('https://www.youtube.com/embed/_TOCRjF9WuE')
 
 (ref:captionsiliconsupremacy) Featuring Intel and Taiwan Semiconductor Manufacturing Company (TSMC). You can also watch the 8 minute video embedded in this figure at [youtu.be/_TOCRjF9WuE](https://youtu.be/_TOCRjF9WuE). [@youtube-silicon-supremacy]
 
-In a short space of time, the chip has gone from relatively obscure electronics, to something countries fight wars over, see figure \@ref(fig:chipwar-fig). Chips are at the heart of US-China tensions for example. 
+In a short space of time, the chip has gone from relatively obscure electronics, to something countries fight various kinds of wars over, see figure \@ref(fig:chipwar-fig). Chips are at the heart of US-China tensions for example. [@chipwar]
 
 
 ```{r chipwar-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionchipwar)"}
@@ -653,4 +671,4 @@ knitr::include_graphics(rep("images/chipwar.jpeg", 3))
 
 (ref:captionchipwar) One, two, three, four, I declare a chip war. [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) Decribes the transformation of the semiconductor from obscure electronics to essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
 
-Chip war, see figure \@ref(fig:chipwar-fig) [@chipwar]
+So where's next for the microchip?
