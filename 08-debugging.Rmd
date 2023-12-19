@@ -443,9 +443,11 @@ Seemingly trivial typographical details can make a big difference to the overall
 
 • `The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog`
 
-... whereas the same text below *does* use a proper indented bullet. The latter looks more professional and is easier to read, especially when you have multiple bullet points:
+... whereas the same text below *does* use a proper indented bullet. The latter is easier to read, especially when you have multiple bullet points:
 
 * `The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog`
+
+Lots of *seemingly* trivial typographical details like this all add up to make your CV look more professional. Neglect these details at your peril.
 
 ### Porting your future {#pdf}
 
@@ -639,7 +641,7 @@ knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png
 
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables, columns or layout which may cause problems for some systems. For example, some Applicant Tracking Systems (ATS) will erroneously ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) reliably to identify columns. [@twocolbad] Some things to check with automated CV screens:
 
-* Have you used standard headings for the sections? Unusual or non-standard section headings like `most proud of` (see  maybe ignored or misunderstood
+* Have you used standard headings for the sections? Unusual or non-standard section headings like `most proud of` (see Penelope Tester's CV in section \@ref(pen-tester)) maybe ignored or misunderstood
 * Have you used appropriate verbs to describe your actions?
 * Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see [what happens to tables and columns in an applicant tracking system](https://www.jobscan.co/blog/resume-tables-columns-ats/) [@jobscan]
 

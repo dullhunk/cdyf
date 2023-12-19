@@ -107,5 +107,8 @@ echo "replaced ingy.html "
 find . -name "*.html" -exec sed -I '' 's/amish.html/amish/g' {} +
 echo "replaced amish.html "
 
+find . -name "*.html" -exec sed -I '' 's/steve.html/steve/g' {} +
+echo "replaced steve.html "
+
 find . -name "*.html" -exec sed -I '' 's/reading.html/reading/g' {} +
 echo "replaced reading.html "

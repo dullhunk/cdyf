@@ -53,6 +53,17 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
+## Episode 13: Steve Furber on Acorn Computers, and the Universities of Cambridge and Manchester {#ep13}
+
+Interview with Steve Furber, see figure \@ref(fig:steve2-fig) and the transcript and show notes in chapter \@ref(steve).
+
+
+```{r steve2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionstevelink)"}
+knitr::include_graphics(rep("images/steve-furber-linkedin.jpeg", 3))
+```
+
+(ref:captionstevelink) Steve Furber, picture re-used from [linkedin.com/in/stevefurber](https://www.linkedin.com/in/stevefurber)
+
 ## Episode 12: Amish Shah on imago, Bloomberg and Palantir {#ep12}
 
 Interview with Amish Shah, see figure \@ref(fig:amish2-fig) and the transcript and show notes in chapter \@ref(amish).
@@ -60,6 +71,7 @@ Interview with Amish Shah, see figure \@ref(fig:amish2-fig) and the transcript a
 ```{r amish2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionamish)"}
 knitr::include_graphics(rep("images/amish.jpeg", 3))
 ```
+
 
 (ref:podcastblurbshort)
 
