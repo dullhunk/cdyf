@@ -1,6 +1,9 @@
 # Steve's story {#steve}
 
-Meet Steve, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and an MMath belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, 30 for every person currently alive. [@250billion] Each of these chips uses the same basic (RISC) design as the ARM1. After a long and distinguished career, Steve retired in 2023.
+Meet Steve, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and an MMath belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, 30 for every person currently alive. [@250billion] Each of these chips uses the same basic (RISC) design as the ARM1. His work has been rewarded with fellowships of UK's National Academy of Science ([FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society)) and it's National Academy of Engineering ([FREng](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering)).
+
+
+After a long and distinguished career, Steve retired in 2023.
 
 ```{r steve-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsteve)"}
 knitr::include_graphics("images/Steve-Furber-Debugging-Proton.jpeg")
@@ -21,7 +24,7 @@ So, welcome Steve. Thank you for coming on the show. Could you introduce yoursel
 
 > Steve: Hello, I'm Steve Furber until a few days ago I was ICL Professor of Computer Engineering, in the Department of Computer Science of the University of Manchester, but I retired a few days ago, so I'm now Professor [Emeritus](https://en.wikipedia.org/wiki/Emeritus).
 
-We can't possibly cover the whole of your career in a short interview like this. So we're having a FestSchrift on Friday 12th of January 2024, I'm going to point people to that in the show notes at the end. [@furbyfest] Instead of talking about the whole of your career, I'd like to focus on key parts of your career. The key decisions you've made in your education early on in your career and significant challenges you faced and how you overcame them. And then to talk about two key projects, one from your early career, the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) [@Fitzpatrick2011] and then one from your later career: [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker), see figure \@ref(fig:spinnorama-fig) [@Furber2013] and it's successors. 
+We can't possibly cover the whole of your career in a short interview like this. So we're having a [FestSchrift](https://en.wikipedia.org/wiki/Festschrift) on Friday 12th of January 2024, I'm going to point people to that in the show notes at the end. [@furbyfest] Instead of talking about the whole of your career, I'd like to focus on key parts of your career. The key decisions you've made in your education early on in your career and significant challenges you faced and how you overcame them. And then to talk about two key projects, one from your early career, the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) [@Fitzpatrick2011] and then one from your later career: [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker), see figure \@ref(fig:spinnorama-fig) [@Furber2013] and it's successors. 
 
 ```{r spinnorama-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionspinnorama)"}
 knitr::include_graphics("images/SpiNNorama.jpeg")
@@ -45,7 +48,7 @@ knitr::include_graphics("images/mathsport.jpeg")
 
 I guess you must have had some good maths teachers at Manchester Grammar (see figure \@ref(fig:mgs-fig)) who encouraged and inspired you do things like go to Olympiads and the like? 
 
-> Steve: Yes, I mean, MGS entered all the mathematicians in the National Mathematics contest which was if you like the first selection process for the British team.Obviously we had experienced teachers who were very used to teaching people who are good at maths and I appreciated my time at MGS greatly. 
+> Steve: Yes, I mean, MGS entered all the mathematicians in the National Mathematics contest which was if you like the first selection process for the British team. Obviously we had experienced teachers who were very used to teaching people who are good at maths and I appreciated my time at MGS greatly. 
 
 ```{r mgs-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmgs)"}
 knitr::include_graphics("images/manchester-grammar-school.jpeg")
@@ -215,7 +218,7 @@ knitr::include_graphics("images/david-patterson.jpeg")
 
 Right
 
-> Steve: and the reason for this was because they had complex instructions (CISC), which were typically not interruptible. So I remember the **National Semiconductor** 32016 had a **memory-memory divide** instruction which took 360 clock cycles to complete, what was six megahertz, so that's 60 microseconds. Well, a single density floppy at the time produced a byte of data, every 64 microseconds, double density, every 32. So you couldn't handle double density floppies without external hardware support. So that was one thing we didn't like, the real time response, and the second thing was, we've come to the firm view that the thing that was the principle determinant to computer performance, was the processors ability to use memory bandwidth.
+> Steve: and the reason for this was because they had [complex instructions](https://en.wikipedia.org/wiki/Complex_instruction_set_computer) (CISC), which were typically not interruptible. So I remember the **National Semiconductor** 32016 had a **memory-memory divide** instruction which took 360 clock cycles to complete, what was six megahertz, so that's 60 microseconds. Well, a single density floppy at the time produced a byte of data, every 64 microseconds, double density, every 32. So you couldn't handle double density floppies without external hardware support. So that was one thing we didn't like, the real time response, and the second thing was, we've come to the firm view that the thing that was the principle determinant to computer performance, was the processors ability to use memory bandwidth.
 
 Alright. 
 
@@ -233,7 +236,7 @@ knitr::include_graphics("images/bbc-micro-cake.jpeg")
 
 Right
 
-> Steve: This frustrated us because we couldn't see why it should be the case and then we heard about the RISC research particularly from Berkeley but also a Stanford. Some of the Berkeley work was led by David Patterson and Stanford work by John Hennessey. And they use the postgrad class to develop a novel style of processor in a year. Where, as we were talking to the big companies such is [Nat Semi](https://en.wikipedia.org/wiki/National_Semiconductor), which we're on the sort of eighth revision of the [32016](https://en.wikipedia.org/wiki/NS32000) and they still hadn't got the bugs out years later. And, and we thought, well, if this postgrad class can design a working processor, then maybe we can? And that is what kicked Sophie (Wilson) in the first instance, and I got drawn into thinking about designing a RISC architecture. So, we had a lot of experience writing the basic interpreter for the Beeb and the **Acorn** Atom. And a very good understanding of what high level language is needed and so combining that with these new RISC ideas from California, Sophie (Wilson) did the **instruction set architecture** I did the microarchitecture and we had a team of chip designers who took the microarchitecture in mapped it on to Silicon
+> Steve: This frustrated us because we couldn't see why it should be the case and then we heard about the RISC research particularly from Berkeley but also a Stanford. Some of the Berkeley work was led by David Patterson and Stanford work by John Hennessey. And they use the postgrad class to develop a novel style of processor in a year. Where, as we were talking to the big companies such is [Nat Semi](https://en.wikipedia.org/wiki/National_Semiconductor), which we're on the sort of eighth revision of the [32016](https://en.wikipedia.org/wiki/NS32000) and they still hadn't got the bugs out years later. And, and we thought, well, if this postgrad class can design a working processor, then maybe we can? And that is what kicked Sophie (Wilson) in the first instance, and I got drawn into thinking about designing a RISC architecture. So, we had a lot of experience writing the basic interpreter for the Beeb and the [Acorn Atom](https://en.wikipedia.org/wiki/Acorn_Atom). And a very good understanding of what high level language is needed and so combining that with these new RISC ideas from California, Sophie (Wilson) did the [instruction set architecture](https://en.wikipedia.org/wiki/Instruction_set_architecture) I did the microarchitecture and we had a team of chip designers who took the microarchitecture and mapped it on to Silicon
 
 Right? OK. 
 
@@ -381,7 +384,7 @@ knitr::include_url('https://www.youtube.com/embed/V3MlOAru6Qk')
 ```{r neural-network-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionneuralnetwork)"}
 knitr::include_graphics("images/neural-network.jpeg")
 ```
-(ref:captionneuralnetwork) An [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network) is a model used in machine learning based on biological neural networks. Each circular node shown here represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. CC BY image by Glosser.ca on Wikimedia Commons [w.wiki/7$t3](https://w.wiki/7$t3) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionneuralnetwork) An [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network) is a model used in machine learning based on biological neural networks. Each circular node shown here represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. CC BY image by Glosser.ca on Wikimedia Commons [w.wiki/8ZeS](https://w.wiki/8ZeS) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 All right. 
 
@@ -632,6 +635,8 @@ So we're calling this *FurbyFest* (working title) so we look forward to seeing y
 
 > Steve: Okay thank you Duncan.
 
+[interview ends]
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7129811309998551041" height="1084" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
 ```
@@ -669,6 +674,17 @@ In a short space of time, the chip has gone from relatively obscure electronics,
 knitr::include_graphics(rep("images/chipwar.jpeg", 3))
 ```
 
-(ref:captionchipwar) One, two, three, four, I declare a chip war. [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) Decribes the transformation of the semiconductor from obscure electronics to essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
+(ref:captionchipwar) One, two, three, four, I declare a chip war.  Chris Miller's book: [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) describes the transformation of the semiconductor from obscure electronics to essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
 
 So where's next for the microchip?
+
+## Disclaimer  
+
+
+::: {.rmdcaution}
+
+(ref:codingcaution)
+
+(ref:transcript-disclaimer)  
+
+:::
