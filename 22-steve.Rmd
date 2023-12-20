@@ -1,6 +1,8 @@
 # Steve's story {#steve}
 
-Meet Steve, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and an MMath belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, 30 for every person currently alive. [@250billion] Each of these chips uses the same basic (RISC) design as the ARM1. His work has been rewarded with fellowships of UK's National Academy of Science ([FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society)) and it's National Academy of Engineering ([FREng](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering)).
+Meet Steve, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and an MMath belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, 30 for every person currently alive. [@250billion] Each of these chips uses the same basic (RISC) design as the ARM1. 
+
+His work has been recognised with many national and international awards including fellowships of UK's National Academy of Engineering ([FREng](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering) in 1999) and National Academy of Science ([FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) in 2002). He was appointed a [Commander of the British Empire](https://en.wikipedia.org/wiki/Order_of_the_British_Empire) (CBE) in the [2008 New Year Honours](https://en.wikipedia.org/wiki/2008_New_Year_Honours). [@furberswho]
 
 
 After a long and distinguished career, Steve retired in 2023.
@@ -485,7 +487,7 @@ Okay, good. So one other thing. We shan't be casting you away to a *Desert Islan
 knitr::include_graphics(rep("images/furbass.jpeg", 3))
 ```
 
-(ref:captionfurbass) He's all about the bass, 'bout the bass, no treble [@allaboutthatbass] CC BY-SA Picture of Steve Furber as guest bassist for *The Suits* at the BBC Micro 30th anniversary in 2012 by Trevor Johnson on Wikimedia Commons [w.wiki/8YYg](https://w.wiki/8YYg) 
+(ref:captionfurbass) *He's all about that bass, 'bout the bass, no treble* [@allaboutthatbass] CC BY-SA Picture of Steve Furber as guest bassist for *The Suits* at the BBC Micro 30th anniversary in 2012 by Trevor Johnson on Wikimedia Commons [w.wiki/8YYg](https://w.wiki/8YYg) 
 
 > Steve: Yes, I play in a local church band, we've just moved house earlier this year to be closer to our grandchildren, in retirement and we've attached ourselves to a local methodist Church and been welcomed into the music group there. 
 
@@ -497,7 +499,7 @@ Good, so what piece of music and I'm sorry I can only give you *one* piece of mu
 knitr::include_graphics("images/the-moody-blues.jpeg")
 ```
 
-(ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin], Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the Coder's Playlist. [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/6h5t](https://w.wiki/6h5t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin], Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the [Coder's Playlist](https://bit.ly/coders-playlist). [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/6h5t](https://w.wiki/6h5t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 Okay, good. We'll add that to the [bit.ly/coders-playlist](https://bit.ly/coders-playlist) (redirects the YouTube playlist) and I'm going to have a listen to that. Why is that particular piece important to you?
 
@@ -505,7 +507,7 @@ Okay, good. We'll add that to the [bit.ly/coders-playlist](https://bit.ly/coders
 
 ## One podcast {#furbercast}
 
-I don't know if you actually listen to podcasts much but either a podcast or a radio show that you listen to that you recommend other people listen to
+I don't know if you actually listen to podcasts much but either a podcast or a radio show that you listen to that you recommend other people listen to.
  
  > Steve: I mean, I don't listen to podcasts a lot but I do have some that download on to my phone and and I haven't travelled so much as the last few years, post-pandemic, but when I used to fly, I used to listen to podcasts on the plane quite a lot. I think the best and the most diverse podcasts are the *In Our Time* podcasts by [Melvyn Bragg](https://en.wikipedia.org/wiki/Melvyn_Bragg), see figure \@ref(fig:inourtime-fig). Now I'm not going to point to a specific one, just the series. It's so wide ranging and covers stuff I have a direct interest in and stuff I've never heard anything about. [@inourtime]
 
@@ -653,14 +655,14 @@ knitr::include_graphics("images/gordon-moore.jpeg")
 ```
 (ref:captiongordonmoore) [Gordon Moore](https://en.wikipedia.org/wiki/Gordon_Moore) (1929–2023) was an American businessman, engineer, co-founder and emeritus chairman of the Intel Corporation. Moore's law, which is named after him, predicts that the number of transistors in an integrated circuit (IC) doubles every two years. [@mooreslaw] CC BY-SA portrait of Gordon Moore in 1978 by Intel Free Press on Wikimedia Commons [w.wiki/8Yu9](https://w.wiki/8Yu9) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-The ARM1 (shown bottom left in red in figure \@ref(fig:moores-law-fig)) had **25,000** transistors, compared to the **39.5 billion** transistors in AMD [Epyc](https://en.wikipedia.org/wiki/Epyc) (shown top right in red in figure \@ref(fig:moores-law-fig)) manufactured by the [Taiwan Semiconductor Manufacturing Company](https://en.wikipedia.org/wiki/TSMC) (TSMC).
+The ARM1 (shown bottom left in red in figure \@ref(fig:moores-law-fig)) had **25,000** transistors, compared to the **39.5 billion** transistors in the AMD [Epyc](https://en.wikipedia.org/wiki/Epyc) (shown top right in red in figure \@ref(fig:moores-law-fig)) manufactured by the [Taiwan Semiconductor Manufacturing Company](https://en.wikipedia.org/wiki/TSMC) (TSMC).
 
 ```{r moores-law-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmooreslaw)"}
 knitr::include_graphics("images/moores-law.jpg")
 ```
 (ref:captionmooreslaw) A logarithmic graph showing the timeline of how transistor counts on integrated circuits have doubled every two years from 1970 to 2020. CC-BY image by [Max Roser](https://en.wikipedia.org/wiki/Max_Roser) and [Hannah Ritchie](https://en.wikipedia.org/wiki/Hannah_Ritchie) at [ourworldindata.org](https://ourworldindata.org/) on Wikimedia Commons [w.wiki/5rat](https://w.wiki/5rat)
 
-Wherever they are designed and whoever designs them, the manufacture of chips lies at the heart of the global economy, see \@ref(fig:silicon-supremacy-vid). The United States is bidding to regain a leading role in advanced chip manufacturing, to de-risk critical supply chains, and to combat China's rise as a technological superpower. The results of this remain to be seen. 
+Wherever they are designed and whoever designs them, the manufacture of chips lies at the heart of the global economy, see \@ref(fig:silicon-supremacy-vid). The United States is bidding to regain a leading role in advanced chip manufacturing, to de-risk critical supply chains, and to combat China's rise as a technological superpower. The results of this epic *Chip War* remain to be seen. 
 
 
 ```{r silicon-supremacy-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionsiliconsupremacy)"}
@@ -669,7 +671,7 @@ knitr::include_url('https://www.youtube.com/embed/_TOCRjF9WuE')
 
 (ref:captionsiliconsupremacy) Featuring Intel and Taiwan Semiconductor Manufacturing Company (TSMC). You can also watch the 8 minute video embedded in this figure at [youtu.be/_TOCRjF9WuE](https://youtu.be/_TOCRjF9WuE). [@youtube-silicon-supremacy]
 
-In a short space of time, the chip has gone from relatively obscure electronics, to something countries fight various kinds of wars over, see figure \@ref(fig:chipwar-fig). Chips are at the heart of US-China tensions for example. [@chipwar]
+In a short space of time, just fifty years, the humble chip has gone from relatively obscure electronics, to something we fight battles over, see figure \@ref(fig:chipwar-fig). Chips are at the heart of US-China tensions for example. [@chipwar]
 
 
 ```{r chipwar-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionchipwar)"}
@@ -678,7 +680,7 @@ knitr::include_graphics(rep("images/chipwar.jpeg", 3))
 
 (ref:captionchipwar) One, two, three, four, I declare a chip war.  Chris Miller's book: [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) describes the transformation of the semiconductor from obscure electronics to essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
 
-So where's next for the microchip?
+So where's next for the microchip? As we reach the limits subatomic scale engineering, will Moore's law still hold or breakdown? [@endofmooreslaw] It seems like we're always going to want more computing power, but where is it going to come from?
 
 ## Disclaimer  
 
