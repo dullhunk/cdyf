@@ -1,6 +1,6 @@
 # Steve's story {#steve}
 
-Meet Steve Furber, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and a Master of Mathematics (MMath) degree belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, **30 for every person currently alive**. [@250billion] Each of these chips uses the same [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (RISC) architecture pioneered in the ARM1. 
+Meet Steve Furber, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and a Master of Mathematics (MMath) degree belatedly awarded in 2010, 35 years late. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, **30 for every person currently alive**. [@250billion] Each of these chips uses the same [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (RISC) architecture pioneered in the ARM1. 
 
 
 ```{r steve-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsteve)"}
@@ -12,7 +12,7 @@ knitr::include_graphics("images/Steve-Furber-Debugging-Proton.jpeg")
 His work has been recognised with national and international awards including fellowships of UK's National Academy of Engineering ([FREng](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering) in 1999) and National Academy of Science ([FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) in 2002). He was appointed a [Commander of the British Empire](https://en.wikipedia.org/wiki/Order_of_the_British_Empire) (CBE) in the [2008 New Year Honours](https://en.wikipedia.org/wiki/2008_New_Year_Honours). [@furberswho] In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering of the United States, alongside [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), [John L. Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) and [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)).
 
 
-After a long and distinguished career, Steve retired in 2023.
+After a long and distinguished career, Steve retired at the end of September 2023. The week after, we sat down together, and I asked him *What's your story, Steve*?
 
 (ref:podcastblurb)
 
@@ -34,7 +34,7 @@ We can't possibly cover the whole of your career in a short interview like this.
 knitr::include_graphics("images/SpiNNorama.jpeg")
 ```
 
-(ref:captionspinnorama) A panoramic shot of the first [SpiNNaker machine](https://en.wikipedia.org/wiki/SpiNNaker) which has over 1 [million cores](https://en.wikipedia.org/wiki/Multi-core_processor), housed in the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) in Manchester. The machine has 1,036,800 cores and over 7 Terabytes of RAM, composed of 57,600 processing nodes, each with 18 [ARM968](https://en.wikipedia.org/wiki/ARM9) processors and 128 MB of mobile Double Data Rate Synchronous Dynamic Random-Access Memory ([DDR SDRAM](https://en.wikipedia.org/wiki/DDR_SDRAM)). For scale, each of the eleven server racks in this picture are around 600mm wide. [@Furber2013]  Version 2.0 of SpiNNaker has 10 million cores. [@spin2] CC BY-SA Panorama picture by [Petruț Bogdan](https://scholar.google.com/citations?user=B9_OSJ8AAAAJ) on Wikimedia Commons [w.wiki/8Z3J](https://w.wiki/8Z3J)
+(ref:captionspinnorama) A panoramic shot of the first [SpiNNaker machine](https://en.wikipedia.org/wiki/SpiNNaker) in 2018, which has over 1 [million cores](https://en.wikipedia.org/wiki/Multi-core_processor), housed in the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) in Manchester. The machine has a total of 1,036,800 cores and over 7 Terabytes of RAM, composed of 57,600 processing nodes, each with 18 [ARM968](https://en.wikipedia.org/wiki/ARM9) processors and 128 MB of mobile Double Data Rate Synchronous Dynamic Random-Access Memory ([DDR SDRAM](https://en.wikipedia.org/wiki/DDR_SDRAM)). For scale, each of the eleven server racks in this picture are around 600mm wide. [@Furber2013] Version 2.0 of SpiNNaker has 10 million cores, completed in 2022. [@spin2] CC BY-SA Panorama picture by [Petruț Bogdan](https://scholar.google.com/citations?user=B9_OSJ8AAAAJ) on Wikimedia Commons [w.wiki/8Z3J](https://w.wiki/8Z3J)
 
 
 ## Manchester Grammar School {#mgs}
@@ -71,7 +71,7 @@ So you graduated in 1974 from the University of Cambridge, was it a BA or an MMa
 
 That's obviously is an important decision point in your life, is you decided to stay on and do a PhD. What was it that made you stay to do postgraduate study? 
 
-> Steve: In the first instance, I stayed on to do the one year [part III Maths course](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) which was a single postgraduate year and which at that time did not earn you any specific qualification. But 35 years later, the University of Cambridge decided, the part three maths *was* worth masters after all, and I went back in 2010 to receive my MMath ([Master of Mathematics](https://en.wikipedia.org/wiki/Master_of_Mathematics)). Okay, so that part three years which was 74 to 75 But in the course of that, I always lent towards the applied side of maths, and in my part three work I did a project with Sir [James Lighthill](https://en.wikipedia.org/wiki/James_Lighthill) who was well-known character, see figure \@ref(fig:lighthill-fig). His name is around the University (of Manchester). If you look at the right building, his name is on one of them. [@lighthillbuilding] And the time he was, I think [Lucasian professor at Cambridge](https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics) and he got very interested in studying the application of mathematics in biology in particular in flight. And my part three project was with him on the intermittent flight of birds, which is why particularly small birds when they're flying long distances flap their wings for a bit and then fold them up and then fly as [projectiles](https://en.wikipedia.org/wiki/Projectile) before flapping them a bit more.
+> Steve: In the first instance, I stayed on to do the one year [part III Maths course](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos) which was a single postgraduate year and which at that time did not earn you any specific qualification. But 35 years later, the University of Cambridge decided, the part three maths *was* worth masters after all, and I went back in 2010 to receive my MMath ([Master of Mathematics](https://en.wikipedia.org/wiki/Master_of_Mathematics)) degree. OK, so that part three years which was 74 to 75 But in the course of that, I always lent towards the applied side of maths, and in my part three work I did a project with Sir [James Lighthill](https://en.wikipedia.org/wiki/James_Lighthill) who was well-known character, see figure \@ref(fig:lighthill-fig). His name is around the University (of Manchester). If you look at the right building, his name is on one of them. [@lighthillbuilding] And at the time he was, I think [Lucasian professor at Cambridge](https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics) and he got very interested in studying the application of mathematics in biology in particular in flight. And my part three project was with him on the intermittent flight of birds, which is why particularly small birds when they're flying long distances flap their wings for a bit and then fold them up and then fly as [projectiles](https://en.wikipedia.org/wiki/Projectile) before flapping them a bit more.
 
 ```{r lighthill-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionlighthill)"}
 knitr::include_graphics("images/james-lighthill.jpeg")
@@ -196,7 +196,12 @@ All right, so it wasn't the traditional approach then might have been to write i
 But you built your own machine to print your thesis? 
 
 
-> Steve: In fact I built my own machine, I entered my thesis into this text editor was a little bit fragile. It didn't have any proper detection for [buffer overruns](https://en.wikipedia.org/wiki/Buffer_overflow) so, changing too much at once, was a bad idea. But, I then transferred the text file onto a university computer, which was a [Computer Automation](https://en.wikipedia.org/wiki/Computer_Automation) LSI4 Using eight inch [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk), 
+> Steve: In fact I built my own machine, I entered my thesis into this text editor was a little bit fragile. It didn't have any proper detection for [buffer overruns](https://en.wikipedia.org/wiki/Buffer_overflow) so, changing too much at once, was a bad idea. But, I then transferred the text file onto a university computer, which was a [Computer Automation](https://en.wikipedia.org/wiki/Computer_Automation) LSI4 Using eight inch [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk), see figure \@ref(fig:floppy-fig.jpeg).
+
+```{r floppy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfloppy)"}
+knitr::include_graphics("images/floppydisks.jpeg")
+```
+(ref:captionfloppy) Before the widespread adoption of the web, cloud computing and USB sticks, the easiest way to move data and software around was by [floppy disk](https://en.wikipedia.org/wiki/Floppy_disk) like these 8-inch, 5¼-inch and 3½-inch disks. Public domain image of floppy disks by George Chernilevsky on Wikimedia Commons [w.wiki/8b42](https://w.wiki/8b42)
 
 right? 
 
@@ -260,7 +265,7 @@ Yes.
 
 So why did you think the why did you think that estimate was so far out? Was it was it was it partly tied up with the literacy project, the computer literacy project that th BBC were running was generating demand for these machines. Or was it something, that was it prior to that? 
 
-> Steve :I don't think it was that, there's no doubt that the BBC badge helped the wider public be confident in the products, whether rightly or wrongly because it was still designed and built by Acorn but he carried the BBC logo. But I think nobody anticipated the rate at which the wider public would be interested in owning computers. Okay. It was not that many years earlier that, I think one of the chief executives as IBM had said, you know, six computers would be enough for the world forever. You know, something like that? (See e.g. [@fivecomputers])
+> Steve: I don't think it was that, there's no doubt that the BBC badge helped the wider public be confident in the products, whether rightly or wrongly because it was still designed and built by Acorn but he carried the BBC logo. But I think nobody anticipated the rate at which the wider public would be interested in owning computers. Okay. It was not that many years earlier that, I think one of the chief executives as IBM had said, you know, six computers would be enough for the world forever. You know, something like that? (See e.g. [@fivecomputers])
 
 Yeah. 
 
@@ -270,7 +275,7 @@ Yeah.
 ```{r clive-sinclair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionclive)"}
 knitr::include_graphics("images/clive-sinclair.jpeg")
 ```
-(ref:captionclive) The entrepreneur [Clive Sinclair](https://en.wikipedia.org/wiki/Clive_Sinclair) (1940-2021) was not happy about the fact that Acorn Computers used BBC branding on their product, the BBC Micro. In an interview with *Practical Computing* magazine he said “*It was nothing to do with Acorn-it was to do with the BBC. I was, and still am, disgusted at the way the BBC handled things. Acorn quite reasonably got the business and good luck to them. I am not complaining about that, I am complaining about the BBC's behaviour. I think they are atrociously amateurish. They are marvellous at making programmes and so on, but by God they should not be making computers, any more than they should be making BBC cars or BBC toothpaste*” [@sinclair] Public domain portrait of Clive Sinclair via Wikimedia Commons [w.wiki/8Umn](https://w.wiki/8Umn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionclive) The entrepreneur [Clive Sinclair](https://en.wikipedia.org/wiki/Clive_Sinclair) (1940-2021) was not happy that the BBC put their branding on Acorn Computers product, the BBC Micro. In an interview with *Practical Computing* magazine he said “*It was nothing to do with Acorn-it was to do with the BBC. I was, and still am, disgusted at the way the BBC handled things. Acorn quite reasonably got the business and good luck to them. I am not complaining about that, I am complaining about the BBC's behaviour. I think they are atrociously amateurish. They are marvellous at making programmes and so on, but by God they should not be making computers, any more than they should be making BBC cars or BBC toothpaste*” [@sinclair] Public domain portrait of Clive Sinclair via Wikimedia Commons [w.wiki/8Umn](https://w.wiki/8Umn) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 So that RISC architecture from Acorn Computers is now widely used. So in 2021, they (arm) passed the 200 billion milestone, 200 billion ARM designed chips on the planet and now 250 billion this year, in 2023. [@250billion] So there are about **30 ARM chips** for every person currently alive on the planet (or 2.5 per person that ever lived assuming there are ~100 billion people in total). At the time you are working on it, I mean you could say, obviously there was this excitement about people buying these BBC micros for example, did you have any sense for how influential the architecture would become at that point?
 
@@ -394,7 +399,7 @@ All right.
 
 > Steve: We spent several years bringing ideas together. I was head of department. If you recall
 
-I can remember you serving as head of department, I think during my PhD.
+I can remember you serving as head of department, I think during my PhD. [@]
 
 > Steve: It was 2001 for 2004, right up to the merger of the [University of Manchester](https://en.wikipedia.org/wiki/Victoria_University_of_Manchester) with [UMIST](https://en.wikipedia.org/wiki/University_of_Manchester_Institute_of_Science_and_Technology). I got the usual one-year post-headship rehabilitation-sabbatical and I spent a couple of months of that at [Sun labs in Menlo Park in California](https://en.wikipedia.org/wiki/Sun_Microsystems). And looking at some of the [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer) plans that they were developing at the time and doing some asynchronous logic with the group there that was very active in async design. And while looking at these supercomputers, the concepts that I wanted to build into this neural network computer began to gel and it was at that point that I realised, there's actually a very strong argument, particularly for a research platform, for using a general purpose processor as the engine to model neurons and synapses rather than dedicated hardware, which was more commonly used.
 
@@ -422,7 +427,7 @@ Jülich is?
 ```{r julich-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionjulich)"}
 knitr::include_graphics("images/julich.jpeg")
 ```
-(ref:captionjulich) [Forschungszentrum Jülich](https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich) is the German Supercomputer centre. As a member of the Helmholtz Association, it has roughly 6,800 employees in ten institutes and 80 subinstitutes, Jülich is one of the largest research institutions in Europe. CC BY-SA image of Haupteingang Forschungszentrum Jülich by Bodoklecksel on Wikimedia Commons [w.wiki/8ZPc](https://w.wiki/8ZPc) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionjulich) [Forschungszentrum Jülich](https://en.wikipedia.org/wiki/Forschungszentrum_J%C3%BClich) is the German Supercomputer centre. As a member of the Helmholtz Association, it has roughly 6,800 employees in ten institutes and 80 subinstitutes, Jülich is one of the largest research institutions in Europe. CC BY-SA image of Haupteingang Forschungszentrum Jülich by Bodoklecksel on Wikimedia Commons [w.wiki/8ZPc](https://w.wiki/8ZPc) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇩🇪
 
 
 Are there any engineering... what we learn from building these systems, you know, regardless of what they get used for, as it's a challenge just building them?
@@ -437,7 +442,7 @@ Which is big.
 knitr::include_graphics("images/single-event-upset.jpeg")
 ```
 
-(ref:captionsingleventupset) A [single event upset](https://en.wikipedia.org/wiki/Single-event_upset) is a change of state caused by an ionizing particle striking a sensitive node in a live micro-electronic device, such as in a microprocessor semiconductor memory or power transistors. A single event upset in flight computers onboard this “computer with wings” was suspected to have nearly crashed this [Qantas Flight 72](https://en.wikipedia.org/wiki/Qantas_Flight_72), an Airbus A330. [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) picture of an A330 by Chris Finney on Wikimedia Commons [w.wiki/8WMJ](https://w.wiki/8WMJ) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionsingleventupset) A [single event upset](https://en.wikipedia.org/wiki/Single-event_upset) is a change of state caused by an ionizing particle striking a sensitive node in a live micro-electronic device, such as in a microprocessor semiconductor memory or power transistors. A single event upset in flight computers onboard this “computer with wings” was suspected to have nearly crashed this [Qantas Flight 72](https://en.wikipedia.org/wiki/Qantas_Flight_72), an Airbus A330. [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) picture of an A330 by Chris Finney on Wikimedia Commons [w.wiki/8WMJ](https://w.wiki/8WMJ) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) ✈️
 
 
 Okay. This is not something you anticipated I suppose?
@@ -462,7 +467,7 @@ Right. Okay. Good. So I think we've covered the question about biggest challenge
 ::: {.rmdnote}
 (ref:codingcomment)
 
-Shortly after this podcast was published Duncan Ivison was appointed VC to succeed [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell)'s fourteen years of service in 2024 [@duncanivison]
+Shortly after this podcast was published [Duncan Ivison](https://en.wikipedia.org/wiki/Duncan_Ivison) was appointed Vice Chancellor to succeed [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell)'s fourteen years of service in August of 2024 [@duncanivison]
 
 :::
 
@@ -492,7 +497,7 @@ Okay, good. So one other thing. We shan't be casting you away to a *Desert Islan
 ::: {.rmdnote}
 (ref:codingcomment)
 
-Steve played the funky bass line to [Can't Stop the Feeling!](https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!) [@cantstopthefeeling]
+Steve played the (funky) bass line to [Can't Stop the Feeling!](https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!) [@cantstopthefeeling] during a special guest appearance in a [COMP101 undergraduate lecture](https://www.manchester.ac.uk/study/undergraduate/courses/2024/00560/bsc-computer-science/) with the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) [boy band](https://en.wikipedia.org/wiki/Boy_band) featuring [Justin Timberfake](https://en.wikipedia.org/wiki/Justin_Timberlake) and friends in September 2019.
 
 :::
 
@@ -529,7 +534,8 @@ I don't know if you actually listen to podcasts much but either a podcast or a r
 ```{r inourtime-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioninourtime)"}
 knitr::include_graphics("images/melvyn-bragg.jpeg")
 ```
-(ref:captioninourtime) There have are over 1000 episodes of *In Our Time*, a live BBC radio discussion series and podcast exploring a wide variety of historical, scientific and philosophical topics. It has been presented by Melvyn Bragg since 1988, [@inourtime; @inourtime750;] because as Bragg says *you can't learn everything at school* (or University). [@inourtime1000] Never stop learning! CC BY portrait of Melvyn Bragg by [Chris McAndrew](https://en.wikipedia.org/wiki/Chris_McAndrew) via Wikimedia Commons [w.wiki/8agv](https://w.wiki/8agv) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
+
+(ref:captioninourtime) There have been over 1000 episodes of *In Our Time* presented by Melvyn Bragg since 1988. A live BBC radio discussion series and podcast exploring a wide variety of historical, scientific and philosophical topics. [@inourtime; @inourtime750;] As Melvyn Bragg says *you can't learn everything at school* (or University) so never stop learning! [@inourtime1000] CC BY portrait of Melvyn Bragg by [Chris McAndrew](https://en.wikipedia.org/wiki/Chris_McAndrew) via Wikimedia Commons [w.wiki/8agv](https://w.wiki/8agv) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
 
 From physics through to well, everything, history ...
 
@@ -614,8 +620,6 @@ knitr::include_graphics("images/rene-haas.jpeg")
 ```
 
 (ref:captionrenehaas) [Rene Haas](https://en.wikipedia.org/wiki/Rene_Haas) has served as chief executive officer (CEO) of Arm Ltd. since February 2022. He leads Arm from offices in California while the company headquarters remains in Cambridge, UK. CC BY portrait of Rene Haas by Web Summit on Wikimedia Commons [w.wiki/8ah4](https://w.wiki/8ah4) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
-
-
 
 
 > Steve: Rene Haas. Of course, the last CEO before that [Simon Segars](https://en.wikipedia.org/wiki/Simon_Segars) who is a Manchester alumni here, see figure \@ref(fig:simon-segars-fig)
