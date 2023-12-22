@@ -1,11 +1,7 @@
 # Steve's story {#steve}
 
-Meet Steve Furber, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and an MMath belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, 30 for every person currently alive. [@250billion] Each of these chips uses the same [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (RISC) architecture pioneered in the ARM1. 
+Meet Steve Furber, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and a Master of Mathematics (MMath) degree belatedly awarded in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, **30 for every person currently alive**. [@250billion] Each of these chips uses the same [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (RISC) architecture pioneered in the ARM1. 
 
-His work has been recognised with national and international awards including fellowships of UK's National Academy of Engineering ([FREng](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering) in 1999) and National Academy of Science ([FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) in 2002). He was appointed a [Commander of the British Empire](https://en.wikipedia.org/wiki/Order_of_the_British_Empire) (CBE) in the [2008 New Year Honours](https://en.wikipedia.org/wiki/2008_New_Year_Honours). [@furberswho] In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering of the United States, alongside [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), [John L. Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) and [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)).
-
-
-After a long and distinguished career, Steve retired in 2023.
 
 ```{r steve-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsteve)"}
 knitr::include_graphics("images/Steve-Furber-Debugging-Proton.jpeg")
@@ -13,12 +9,18 @@ knitr::include_graphics("images/Steve-Furber-Debugging-Proton.jpeg")
 
 (ref:captionsteve) Steve Furber [linkedin.com/in/stevefurber](https://www.linkedin.com/in/stevebfurber/) (bottom left) in 1981 (with Alan Wright behind) debugging wire-wrapped prototypes of the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro). Picture re-used with kind permission from [Chris Turner](https://www.linkedin.com/in/cbturner) [@christurner]
 
+His work has been recognised with national and international awards including fellowships of UK's National Academy of Engineering ([FREng](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering) in 1999) and National Academy of Science ([FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) in 2002). He was appointed a [Commander of the British Empire](https://en.wikipedia.org/wiki/Order_of_the_British_Empire) (CBE) in the [2008 New Year Honours](https://en.wikipedia.org/wiki/2008_New_Year_Honours). [@furberswho] In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering of the United States, alongside [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), [John L. Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) and [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)).
+
+
+After a long and distinguished career, Steve retired in 2023.
+
+(ref:podcastblurb)
+
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/29151428/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
 
-(ref:podcastblurb)
 
 ## What's your story Steve? {#steves-story}
 
@@ -32,7 +34,7 @@ We can't possibly cover the whole of your career in a short interview like this.
 knitr::include_graphics("images/SpiNNorama.jpeg")
 ```
 
-(ref:captionspinnorama) A panoramic shot of the first [SpiNNaker machine](https://en.wikipedia.org/wiki/SpiNNaker) which has over 1 [million cores](https://en.wikipedia.org/wiki/Multi-core_processor), housed in the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) in Manchester. The machine has 1,036,800 cores and over 7 Terabytes of RAM, composed of 57,600 processing nodes, each with 18 [ARM968](https://en.wikipedia.org/wiki/ARM9) processors and 128 MB of mobile Double Data Rate Synchronous Dynamic Random-Access Memory [DDR SDRAM](https://en.wikipedia.org/wiki/DDR_SDRAM). [@Furber2013] For scale, each of the eleven server racks in this picture are around 600mm wide. SpiNNaker 2 has 10 million cores. [@spin2] CC BY-SA Panorama picture by [Petruț Bogdan](https://scholar.google.com/citations?user=B9_OSJ8AAAAJ) on Wikimedia Commons [w.wiki/8Z3J](https://w.wiki/8Z3J)
+(ref:captionspinnorama) A panoramic shot of the first [SpiNNaker machine](https://en.wikipedia.org/wiki/SpiNNaker) which has over 1 [million cores](https://en.wikipedia.org/wiki/Multi-core_processor), housed in the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) in Manchester. The machine has 1,036,800 cores and over 7 Terabytes of RAM, composed of 57,600 processing nodes, each with 18 [ARM968](https://en.wikipedia.org/wiki/ARM9) processors and 128 MB of mobile Double Data Rate Synchronous Dynamic Random-Access Memory ([DDR SDRAM](https://en.wikipedia.org/wiki/DDR_SDRAM)). For scale, each of the eleven server racks in this picture are around 600mm wide. [@Furber2013]  Version 2.0 of SpiNNaker has 10 million cores. [@spin2] CC BY-SA Panorama picture by [Petruț Bogdan](https://scholar.google.com/citations?user=B9_OSJ8AAAAJ) on Wikimedia Commons [w.wiki/8Z3J](https://w.wiki/8Z3J)
 
 
 ## Manchester Grammar School {#mgs}
@@ -85,7 +87,7 @@ Right. So that was in 1980 or was it 1979?
 
 Kind of like a [postdoc](https://en.wikipedia.org/wiki/Postdoctoral_researcher) I guess?
 
->Steve: Well, the [research fellowship](https://en.wikipedia.org/wiki/Research_fellow) is similar to research fellowships that you can get from EPSRC or from the [Royal Academy](https://en.wikipedia.org/wiki/Royal_Academy_of_Engineering) of Engineering but in Cambridge the colleges offer research fellowships and these are effectively postdoc research positions that are paid, they come with a salary and they also are fellowships of the college. So you sit on the governing body of the college as research fellow, 
+>Steve: Well, the [research fellowship](https://en.wikipedia.org/wiki/Research_fellow) is similar to research fellowships that you can get from EPSRC or from the [Royal Academy of Engineering](https://en.wikipedia.org/wiki/Royal_Academy_of_Engineering) but in Cambridge the colleges offer research fellowships and these are effectively postdoc research positions that are paid, they come with a salary and they also are fellowships of the college. So you sit on the governing body of the college as research fellow. 
 
 Right? Okay. So your your PhD was on aerodynamics, the title was *[Is the Weis-Fogh principle exploitable turbo machines?](https://dx.doi.org/10.17863/CAM.11472)* [@furberphd] So when I read that initially, I thought that sounded like something purely mathematical and [fluid mechanics](https://en.wikipedia.org/wiki/Fluid_mechanics) but looking at it in a bit more depth, it looks like there was, you mentioned the biologically inspired work of looking at how birds fly and how insects fly but it looks like there was actually experimental applied stuff in that PhD. So can you tell us a little bit about that?
 
@@ -115,11 +117,11 @@ knitr::include_graphics("images/reynolds-number.jpeg")
 
 Right, Okay, so what were the main challenges you faced in your PhD and how did you overcome them? 
 
-> Steve: I think doing the maths was, you know, relatively straightforward. That was what I did and using mathematics to analyse fluid flows is a very well developed field of research. There are very interesting analogies between the way a purist model of fluids works and a complex number theory in the complex plane, okay? Um, and this is being used a probably 100 years to compute efficient aerofoil shapes and so on. It is only an approximation because it's assuming the fluid is [inviscid](https://en.wikipedia.org/wiki/Inviscid_flow), which real fluids are not, but at least it's a good start. So the mathematics, although not trivial, was what I was comfortable with. **I think my biggest challenge doing a PhD was actually being confident that what I was doing, was at all important or relevant or would go anywhere,** right? And so I could do the mechanics of the PhD but I wasn't very good on the context and my supervisor encouraged me to attend an annual British mathematical colloquium and I think present my work there and that was quite forbidding, I didn't sort of feel likerReally got my Feet on the ground. I didn't really know enough about what was going on in my area research to really be able to place myself, confidently in that stage. **So, I think my my biggest challenge was probably confidence.** 
+> Steve: I think doing the maths was, you know, relatively straightforward. That was what I did and using mathematics to analyse fluid flows is a very well developed field of research. There are very interesting analogies between the way a purist model of fluids works and a complex number theory in the complex plane, okay? Um, and this is being used a probably 100 years to compute efficient aerofoil shapes and so on. It is only an approximation because it's assuming the fluid is [inviscid](https://en.wikipedia.org/wiki/Inviscid_flow), which real fluids are not, but at least it's a good start. So the mathematics, although not trivial, was what I was comfortable with. **I think my biggest challenge doing a PhD was actually being confident that what I was doing, was at all important or relevant or would go anywhere,** right? And so I could do the mechanics of the PhD but I wasn't very good on the context and my supervisor encouraged me to attend an annual British mathematical colloquium and I think present my work there and that was quite forbidding, I didn't sort of feel likerReally got my Feet on the ground. I didn't really know enough about what was going on in my area research to really be able to place myself, confidently in that stage. **So, I think my biggest challenge was probably confidence.** 
 
 As somebody who has now supervised countless PhD students, well not countless. But how many PhD students? 
 
-> Steve: As a mathematician I cannot allow you to use the word countless in that context! It's definitely countable. It's just over 30 [30 PhD students, actually 36 to be precise]
+> Steve: As a mathematician I cannot allow you to use the word countless in that context! It's definitely countable. It's just over 30 [Thirty PhD students, actually 36 to be precise]
 
 Okay, so you must have seen all sorts of, supervised all sorts of PhD students and come across very similar problems. 
 
@@ -140,7 +142,7 @@ So for you personally, how did you develop that sort of confidence or self-effic
 
 ## Acorn Computers {#acorn}
 
-Right? Okay. So, that gets us from maths to computing and I think that you had some exposure to computing in the PhD. I guess? So, like many people of my generation, the [BBC micro](https://en.wikipedia.org/wiki/BBC_Micro) which you and [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) (see figure \@ref(fig:sophie-wilson-fig)) designed was my (and millions of other people's) introduction to computing. So what was your BBC micro equivalent? What was your first exposure to  computing that sparked an interest? 
+Right? Okay. So, that gets us from maths to computing and I think that you had some exposure to computing in your PhD. I guess? So, like many people of my generation, the [BBC micro](https://en.wikipedia.org/wiki/BBC_Micro) which you and [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) (see figure \@ref(fig:sophie-wilson-fig)) designed was my (and millions of other people's) introduction to computing. So what was your BBC micro equivalent? What was your first exposure to  computing that sparked an interest? 
 
 
 ```{r sophie-wilson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsophie)"}
@@ -165,7 +167,7 @@ knitr::include_graphics("images/punchedcard.jpeg")
 
 Right. Yeah, yeah. 
  
-> Steve: You learnt how to code carefully and the debug cycle was very long. And I don't remember anything about the programs that I wrote, but that was my introduction and then in my math course, I think in our second year, we had some exposure to computers. The Maths department had some [Modular One computers](https://www.computinghistory.org.uk/det/15946/Modular-One-User-Manual/) which probably nobody's ever heard of. I do remember these used storage [oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope) tubes as their output medium, right, these respond to they would write on the screen and and that would stay visible until you needed to start again and then you'd flash erase the whole screen. There's like flash memory and there's a screen and you get output from that. But the real start of my computing came probably in `77  `78. As I've said I was interested in aviation,  I tried to join the [University glider club](https://www.cugc.org.uk/) in my second year but it took too much time for too little flying so I began to think about [flight simulators](https://en.wikipedia.org/wiki/Flight_simulator) and then I heard about a bunch of students who were starting a university society called the Cambridge University Processor Group and I thought okay, these people think they can build computers, maybe that's how I build a flight simulator. So I joined the processor group and started ordering microchips from California (e.g. 8-bit [Signetics 2650](https://en.wikipedia.org/wiki/Signetics_2650)), which is extremely scary in those days ordering by credit card from the far side of the world and hand building computers. [@furberqueue] 
+> Steve: You learnt how to code carefully and the debug cycle was very long. And I don't remember anything about the programs that I wrote, but that was my introduction and then in my math course, I think in our second year, we had some exposure to computers. The Maths department had some [Modular One computers](https://www.computinghistory.org.uk/det/15946/Modular-One-User-Manual/) which probably nobody's ever heard of. I do remember these used storage [oscilloscope](https://en.wikipedia.org/wiki/Oscilloscope) tubes as their output medium, right, these respond to they would write on the screen and and that would stay visible until you needed to start again and then you'd flash erase the whole screen. There's like flash memory and there's a screen and you get output from that. But the real start of my computing came probably in 77/78. As I've said I was interested in aviation, I tried to join the [University glider club](https://www.cugc.org.uk/) in my second year but it took too much time for too little flying so I began to think about [flight simulators](https://en.wikipedia.org/wiki/Flight_simulator) and then I heard about a bunch of students who were starting a university society called the Cambridge University Processor Group and I thought okay, these people think they can build computers, maybe that's how I build a flight simulator. So I joined the processor group and started ordering microchips from California (e.g. 8-bit [Signetics 2650](https://en.wikipedia.org/wiki/Signetics_2650)), which is extremely scary in those days ordering by credit card from the far side of the world and hand building computers. [@furberqueue] 
 
 Right? but then you were using them in your PhD for logging data or is that a separate thread? 
 
@@ -200,7 +202,7 @@ right?
 
 > Steve: I think I still have the eight inch floppy with my thesis but on I don't think I know where I would go to read one. And then the other side, allowed me to transfer to a floppy which could then be taken along to print on this daisy wheel printer. 
 
-Okay, good. So that's where the computing comes from then. So you mentioned Acorn, computers, something followed on from your Fellowship and last year in 2022, yourself [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) (see figure \@ref(fig:sophie-wilson-fig)), [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) (see \@ref(fig:john-hennessy-fig)), [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) (see figure \@ref(fig:david-patterson-fig)) were awarded the [Charles Stark Draper prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) from the [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering) of the United States for *Contributions to invention development and implementation of the Reduced Instruction Set Computer (RISC) chips*. So can you describe where and how that architecture came about, and what motivated it? We've fast forwarded a little bit to after your PhD, working at Acorn Computers. 
+Okay, good. So that's where the computing comes from then. So you mentioned Acorn, computers, something followed on from your Fellowship and last year in 2022, yourself [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) (see figure \@ref(fig:sophie-wilson-fig)), [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) (see \@ref(fig:john-hennessy-fig)), [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) (see figure \@ref(fig:david-patterson-fig)) were awarded the [Charles Stark Draper prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) from the [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering) of the United States for **Contributions to invention development and implementation of the Reduced Instruction Set Computer (RISC) chips**. So can you describe where and how that architecture came about, and what motivated it? We've fast forwarded a little bit to after your PhD, working at Acorn Computers. 
 
 ```{r john-hennessy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhennessy)"}
 knitr::include_graphics("images/john-hennessy.jpeg")
@@ -210,7 +212,7 @@ knitr::include_graphics("images/john-hennessy.jpeg")
 
 
 
-> Steve: Yes. So the simplified story here is that is that RISC was created invented expounded by John Hennessy and David Patterson in the USA and Sophie and I used that concept in the ARM processor, which turned RISC into a very big thing, at Acorn. So, this is one of these rare occasions where some academic research in the US gets commercialised in the UK rather than the other way around which is much more common.The Acorn had developed the BBC micro, which had succeeded way beyond anybody's expectations. It was beginning to think about, what it could do to follow on, to build on that success. At that time, the BBC micro used in 8-bit microprocessor of the [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502). The same as the one used in the [Apple II](https://en.wikipedia.org/wiki/Apple_II) and the [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET) and a whole lot of another stuff. But the world was beginning to transition to 16 bit micro processors and if you remember the BBC Micro well enough, you know that it's had the capability of having a second processor plugged onto it. And we prototyped a whole lot of 16 bit systems with using the second processor capability. It was very easy to build a second processor with a random microprocessor on the BBC Micro and we didn't like any of them. The reason we didn't like them, there were two technical reasons and one of which was their real-time performance, their ability to [handle interrupts](https://en.wikipedia.org/wiki/Interrupt), for example, for managing disc transfers, in every case was worse than the 6502. 
+> Steve: Yes. So the simplified story here is that is that RISC was created invented expounded by John Hennessy and David Patterson in the USA and Sophie and I used that concept in the ARM processor, which turned RISC into a very big thing, at Acorn. So, this is one of these rare occasions where some academic research in the US gets commercialised in the UK rather than the other way around which is much more common. The Acorn had developed the BBC micro, which had succeeded way beyond anybody's expectations. It was beginning to think about, what it could do to follow on, to build on that success. At that time, the BBC micro used in 8-bit microprocessor of the [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502). The same as the one used in the [Apple II](https://en.wikipedia.org/wiki/Apple_II) and the [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET) and a whole lot of another stuff. But the world was beginning to transition to 16 bit micro processors and if you remember the BBC Micro well enough, you know that it's had the capability of having a second processor plugged onto it. And we prototyped a whole lot of 16 bit systems with using the second processor capability. It was very easy to build a second processor with a random microprocessor on the BBC Micro and we didn't like any of them. The reason we didn't like them, there were two technical reasons and one of which was their real-time performance, their ability to [handle interrupts](https://en.wikipedia.org/wiki/Interrupt), for example, for managing disc transfers, in every case was worse than the 6502. 
 
 ```{r david-patterson-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpatterson)"}
 knitr::include_graphics("images/david-patterson.jpeg")
@@ -220,7 +222,7 @@ knitr::include_graphics("images/david-patterson.jpeg")
 
 Right
 
-> Steve: and the reason for this was because they had [complex instructions](https://en.wikipedia.org/wiki/Complex_instruction_set_computer) (CISC), which were typically not interruptible. So I remember the [National Semiconductor(https://en.wikipedia.org/wiki/National_Semiconductor) [32016](https://en.wikipedia.org/wiki/NS32000#32016) had a **memory-memory divide** instruction which took 360 clock cycles to complete, what was six megahertz, so that's 60 microseconds. Well, a single density floppy at the time produced a byte of data, every 64 microseconds, double density, every 32. So you couldn't handle double density floppies without external hardware support. So that was one thing we didn't like, the real time response, and the second thing was, we've come to the firm view that the thing that was the principle determinant to computer performance, was the processors ability to use memory bandwidth.
+> Steve: and the reason for this was because they had [complex instructions](https://en.wikipedia.org/wiki/Complex_instruction_set_computer) (CISC), which were typically not interruptible. So I remember the [National Semiconductor](https://en.wikipedia.org/wiki/National_Semiconductor) [32016](https://en.wikipedia.org/wiki/NS32000#32016) had a **memory-memory divide** instruction which took 360 clock cycles to complete, what was six megahertz, so that's 60 microseconds. Well, a single density floppy at the time produced a byte of data, every 64 microseconds, double density, every 32. So you couldn't handle double density floppies without external hardware support. So that was one thing we didn't like, the real time response, and the second thing was, we've come to the firm view that the thing that was the principle determinant to computer performance, was the processors ability to use memory bandwidth.
 
 Alright. 
 
@@ -248,7 +250,7 @@ And that was then used in successors to the BBC micro.
 
 > Steve: Yes in fact because the ARM was designed as one of the one chip in the four chip set. It wasn't until 1987 that the first product was launched. And that was by then we have the second ARM, the [ARM2](https://en.wikipedia.org/wiki/ARM2). So the first volume product was ARM2 based. We did sell second processor for the BBC Micro, based on ARM1 but they were really development engines rather than fully fledge products 
 
-Right? Okay. So last Friday (), we had a small gathering to celebrate your retirement and you mentioned the estimate, the number of units that Acorn Computers estimated that they might sell of these BBC micros. What was their estimate? And how many of you sell?
+Right? Okay. So last Friday (29th September 2023), we had a small gathering to celebrate your retirement and you mentioned the estimate, the number of units that Acorn Computers estimated that they might sell of these BBC micros. What was their estimate? And how many did you sell?
 
 > Steve so we're going back to the BBC Micro which predates the ARM? 
 
@@ -281,7 +283,7 @@ knitr::include_graphics("images/apple-newton.jpeg")
 
 (ref:captionnewton) The [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) (left) was an arm powered predecessor to the Apple iPhone, 2007 model shown on the right for comparison. CC BY licensed picture by Blake Patterson on Wikimedia Commons [w.wiki/8UsM](https://w.wiki/8UsM) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Again, most people have forgotten the Newton, but in those days as today, Apple was a magic brand in the computing world and getting Apple, getting the Apple badge, the stamp of approval setting up ARM as a  joint venture between Acorn and Apple with input from VLSI technology who made the chips. That really got the ARM moving and of course, some very clever management and technical work by the team under [Robin Saxby](https://en.wikipedia.org/wiki/Robin_Saxby), see figure \@ref(fig:saxby-fig).
+Again, most people have forgotten the Newton, but in those days as today, Apple was a magic brand in the computing world and getting Apple, getting the Apple badge, the stamp of approval setting up ARM as a  joint venture between Acorn and Apple with input from VLSI technology who made the chips. That really got the ARM moving and of course, some very clever management and technical work by the team under [Robin Saxby](https://en.wikipedia.org/wiki/Robin_Saxby), see figure \@ref(fig:saxby-fig). [@armhistory]
 
 ```{r saxby-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsaxby)"}
 knitr::include_graphics("images/robin-saxby.jpeg")
@@ -294,7 +296,7 @@ knitr::include_graphics("images/robin-saxby.jpeg")
 
 So rather than manufacturing the chips themself it was  this licensing model that came from Robin Saxby.
 
-> Steve: That's right in my last couple of years at Acron, I'd spent little time thinking about, you know, what would happen if we move the ARM activity out of the company? You know, and try to licence the architecture and take royalties but none of the business models worked. The reason is that royalties are not good for cash flow. Royalties come late and little. It takes a long time for them to build up and Saxby looked at this model and he added a different component to it which was effectively a join the club upfront fee. So you pay a chunk of money to get an ARM licence and then downstream when you want on your product, you pay royalties. The upfront money is, of course, excellent for cashflow and that made the company work
+> Steve: That's right in my last couple of years at Acorn, I'd spent little time thinking about, you know, what would happen if we move the ARM activity out of the company? You know, and try to licence the architecture and take royalties but none of the business models worked. The reason is that royalties are not good for cash flow. Royalties come late and little. It takes a long time for them to build up and Saxby looked at this model and he added a different component to it which was effectively a join the club upfront fee. So you pay a chunk of money to get an ARM licence and then downstream when you want on your product, you pay royalties. The upfront money is, of course, excellent for cashflow and that made the company work
 
 
 ....and helps you fund some of that design because designing chips is time consuming and expensive and requires a lot of expertise and that's not always appreciated from the outside, is that how much work goes into designing these things.
@@ -303,7 +305,7 @@ So rather than manufacturing the chips themself it was  this licensing model tha
 
 So moving on from Acorn then, so we should say the acronym arm stands for, is it **Advanced RISC machines** or  **Acorn RISC machines**? 
 
-It's been both, originally it was the acorn risc machine. That's where arm comes from.  And then, when that activity was spun out into this joint venture with Apple they changed the *acorn* bit to *advanced*, so it became *Advanced RISC machine*. And and then a few years later, they just dropped the expansion altogether and it's not, yeah, okay. So, you know, initially it was capital **A**, capital **R**, capital **M** (**ARM**) and now it's all lower case *arm*. 
+It's been both, originally it was the acorn risc machine. That's where arm comes from.  And then, when that activity was spun out into this joint venture with Apple they changed the *acorn* bit to *advanced*, so it became *Advanced RISC machine*. And and then a few years later, they just dropped the expansion altogether and it's not, yeah, okay. So, you know, initially it was capital **A**, capital **R**, capital **M** (**ARM**) and now it's all lowercase *arm*. 
 
 So, you spent ten years at Acorn from about 1980?
 
@@ -450,15 +452,19 @@ It has been co-developed within the Human Brain Project with [TU Dresden](https:
 
 Are there plans for a SpiNNaker 3, is this then the same conceptually or is it a shift away from SpiNNaker one?
 
-> SpiNNaker 3 is still at the conceptual stage. But Dreseden has, has spun out a company called to [SpiNNcloud.com](https://spinncloud.com/) systems GMBH to commercialise SpiNNaker 2 and the expectation is that in fact, commercialisation starts moving there, and they'll want a SpiNNkaer 3 to follow on. 
+> SpiNNaker 3 is still at the conceptual stage. But Dreseden has, has spun out a company called to [SpiNNcloud.com](https://spinncloud.com/) systems [GmbH](https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung) to commercialise SpiNNaker 2 and the expectation is that in fact, commercialisation starts moving there, and they'll want a SpiNNkaer 3 to follow on.
 
 
-## You are the next Vice Chancellor
+## You are the next Vice Chancellor {#furbervc}
 
-Right. Okay. Good. So I think we've covered the question about biggest challenges in SpiNNaker, I think we've covered most of that a little superficially, but I think we'll move on. There's some standard questions I ask all the students who, who come on this program. So one of them is I doubt you want to be the next vice chancellor but the University of Manchester where you've worked for 33 years, is looking for a new, vice chancellor, next year. So I ask students, you've obviously taught lots of students, undergraduates, masters students and PhD students. So, If you were to have the job of Vice Chancellor what would you do to improve the teaching and learning of computer science at specifically at Manchester but perhaps in higher education, generally as well.
+Right. Okay. Good. So I think we've covered the question about biggest challenges in SpiNNaker, I think we've covered most of that a little superficially, but I think we'll move on. There's some standard questions I ask all the students who, who come on this program. So one of them is I doubt you want to be the next vice chancellor but the University of Manchester where you've worked for 33 years, is looking for a new, vice chancellor, next year. So I ask students, you've obviously taught lots of students, undergraduates, masters students and PhD students. So, If you were to have the job of Vice Chancellor (VC) what would you do to improve the teaching and learning of computer science at specifically at Manchester but perhaps in higher education, generally as well.
 
+::: {.rmdnote}
+(ref:codingcomment)
 
-[NOTE: Shortly after this podcast was published Duncan Ivison was appointed VC [@duncanivison]]
+Shortly after this podcast was published Duncan Ivison was appointed VC to succeed [Nancy Rothwell](https://en.wikipedia.org/wiki/Nancy_Rothwell)'s fourteen years of service in 2024 [@duncanivison]
+
+:::
 
 > Steve: Okay. My answer  to this is going to understand a little bit indirect if you're an undergraduate, it's not really directly about what they see or feel at all but in my time of the university in particularly, since the merger, there has been a tendancy to centralise resources. **So we've seen support staff move out of the department and into the school of engineering and into faculty and into the centre. And I believe this is to the detriment of everything that we do.** Yeah, so I've been arguing for some time that what you need are good support staff at the coal face, close to the academics. 
 
@@ -481,17 +487,26 @@ A finite resource.
 ## One tune {#furbertune}
 
 
-Okay, good. So one other thing. We shan't be casting you away to a *Desert Island* with your eight tracks and a book [@desertislandddiscs] but we ask our guests to recommend one piece of music to our listeners and say why that one piece of music is important to them. This is an opportunity for me to thank you, before the pandemic, you played bass guitar in our prototype band, so thank you for doing that. You're still play bass now I take it (see figure \@ref(fig:furbass-fig)? 
+Okay, good. So one other thing. We shan't be casting you away to a *Desert Island* with your eight tracks and a book [@desertislandddiscs] but we ask our guests to recommend one piece of music to our listeners and say why that one piece of music is important to them. This is an opportunity for me to thank you, before the pandemic, you played bass guitar in our prototype band, so thank you for doing that. 🙏
+
+::: {.rmdnote}
+(ref:codingcomment)
+
+Steve played the funky bass line to [Can't Stop the Feeling!](https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!) [@cantstopthefeeling]
+
+:::
+
+You're still playing bass guitar now I take it? See figure \@ref(fig:furbass-fig). 
 
 ```{r furbass-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionfurbass)"}
 knitr::include_graphics(rep("images/furbass.jpeg", 3))
 ```
 
-(ref:captionfurbass) *He's all about that bass, 'bout the bass, no treble* [@allaboutthatbass] CC BY-SA Picture of Steve Furber as guest bassist for *The Suits* at the BBC Micro 30th anniversary in 2012 by Trevor Johnson on Wikimedia Commons [w.wiki/8YYg](https://w.wiki/8YYg) 
+(ref:captionfurbass) *He's all about that bass, 'bout that bass, no treble* [@allaboutthatbass] CC BY-SA Picture of Steve Furber performing as guest bassist for *The Suits* at the BBC Micro 30th anniversary in 2012 by Trevor Johnson on Wikimedia Commons [w.wiki/8YYg](https://w.wiki/8YYg) 🎸
 
 > Steve: Yes, I play in a local church band, we've just moved house earlier this year to be closer to our grandchildren, in retirement and we've attached ourselves to a local methodist Church and been welcomed into the music group there. 
 
-Good, so what piece of music and I'm sorry I can only give you *one* piece of music.
+Good, so what piece of music? I'm sorry I can only give you *one* piece of music...
 
 > Steve: Everybody knows that I'm a lifelong [Moody Blues](https://en.wikipedia.org/wiki/The_Moody_Blues) fan, see figure \@ref(fig:moodyblues-fig). I mean, I was exposed the Moody Blues by a friend in 60s, I think, before the first moon landing and have simply loved their music ever since. I've been to see them several times. As a band from the 60s, they are unusual in that they were still playing a lot of live concerts up to about five years ago. Now I think too many of the original line at the died (!) for them to function although the man who wrote (I think) quite a lot of the best of their songs [Justin Hayward](https://en.wikipedia.org/wiki/Justin_Hayward) is still going strong. The piece of music I'm going to choose is a bit obscure. Most people have come across [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin] which is the most famous of The Moody Blues tunes but I'm going to choose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes). [@thestoryinyoureyes]
 
@@ -499,7 +514,7 @@ Good, so what piece of music and I'm sorry I can only give you *one* piece of mu
 knitr::include_graphics("images/the-moody-blues.jpeg")
 ```
 
-(ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin], Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the [Coder's Playlist](https://bit.ly/coders-playlist). [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/6h5t](https://w.wiki/6h5t) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin], Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the [Coder's Playlist](https://bit.ly/coders-playlist). [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/8akG](https://w.wiki/8akG) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 Okay, good. We'll add that to the [bit.ly/coders-playlist](https://bit.ly/coders-playlist) (redirects the YouTube playlist) and I'm going to have a listen to that. Why is that particular piece important to you?
 
@@ -512,9 +527,9 @@ I don't know if you actually listen to podcasts much but either a podcast or a r
  > Steve: I mean, I don't listen to podcasts a lot but I do have some that download on to my phone and and I haven't travelled so much as the last few years, post-pandemic, but when I used to fly, I used to listen to podcasts on the plane quite a lot. I think the best and the most diverse podcasts are the *In Our Time* podcasts by [Melvyn Bragg](https://en.wikipedia.org/wiki/Melvyn_Bragg), see figure \@ref(fig:inourtime-fig). Now I'm not going to point to a specific one, just the series. It's so wide ranging and covers stuff I have a direct interest in and stuff I've never heard anything about. [@inourtime]
 
 ```{r inourtime-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioninourtime)"}
-knitr::include_graphics("images/in-our-time.jpeg")
+knitr::include_graphics("images/melvyn-bragg.jpeg")
 ```
-(ref:captioninourtime) There have are over 1000 episodes of*In Our Time*, a live BBC radio discussion series and podcast exploring a wide variety of historical, scientific and philosophical topics. It has been presented by Melvyn Bragg since 1988. [@inourtime; @inourtime750; @inourtime1000] Fair use image from Wikimedia Commons adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
+(ref:captioninourtime) There have are over 1000 episodes of *In Our Time*, a live BBC radio discussion series and podcast exploring a wide variety of historical, scientific and philosophical topics. It has been presented by Melvyn Bragg since 1988, [@inourtime; @inourtime750;] because as Bragg says *you can't learn everything at school* (or University). [@inourtime1000] Never stop learning! CC BY portrait of Melvyn Bragg by [Chris McAndrew](https://en.wikipedia.org/wiki/Chris_McAndrew) via Wikimedia Commons [w.wiki/8agv](https://w.wiki/8agv) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
 
 From physics through to well, everything, history ...
 
@@ -527,7 +542,7 @@ Good. Okay and one film? You're not allowed to say BBC [Micro Men](https://en.wi
 
 Right.
 
-> Steve: But again, I like aircraft and that's got some great old aircraft. I think, including a genuine [1912 blackburn monoplane](https://en.wikipedia.org/wiki/Blackburn_Type_D) flying in that which is an original plane. Yeah. But see that's that's not my my first choice. My first choice is [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey), see figure \@ref(fig:spaceodyssey-fig). [@spaceodyssey]
+> Steve: But again, I like aircraft and that's got some great old aircraft. I think, including a genuine [1912 blackburn monoplane](https://en.wikipedia.org/wiki/Blackburn_Type_D) flying in that which is an original plane. Yeah. But see that's not my first choice. My first choice is [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey), see figure \@ref(fig:spaceodyssey-fig). [@spaceodyssey]
 
 ```{r spaceodyssey-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionspaceodyssey)"}
 knitr::include_graphics(rep("images/2001ASO.png", 3))
@@ -592,10 +607,18 @@ Yeah. Yeah.
 
 > Steve: Although the management appears to have slipped over to the states. 
 
-[Rene Haas](https://en.wikipedia.org/wiki/Rene_Haas)?
+[Rene Haas](https://en.wikipedia.org/wiki/Rene_Haas), see figure \@ref(fig:rene-haas-fig)?
+
+```{r rene-haas-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrenehaas)"}
+knitr::include_graphics("images/rene-haas.jpeg")
+```
+
+(ref:captionrenehaas) [Rene Haas](https://en.wikipedia.org/wiki/Rene_Haas) has served as chief executive officer (CEO) of Arm Ltd. since February 2022. He leads Arm from offices in California while the company headquarters remains in Cambridge, UK. CC BY portrait of Rene Haas by Web Summit on Wikimedia Commons [w.wiki/8ah4](https://w.wiki/8ah4) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
-> Steve: Rene Haas. Of course, the last CEO before that [Simon Segars](https://en.wikipedia.org/wiki/Simon_Segars) who is a Manchester alumni here , see figure \@ref(fig:simon-segars-fig)
+
+
+> Steve: Rene Haas. Of course, the last CEO before that [Simon Segars](https://en.wikipedia.org/wiki/Simon_Segars) who is a Manchester alumni here, see figure \@ref(fig:simon-segars-fig)
 
 ```{r simon-segars-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsegars)"}
 knitr::include_graphics("images/simon-segars.jpeg")
@@ -607,9 +630,9 @@ A former student of yours? [@segarsthesis]
 
 > Steve: Yes, he had moved to California when arm took over the physical IP business, whose name I know perfectly well, but temporarily slipped my mind. He moved over just to kind of integrate them with arm and stayed there, as CEO he was still based in the US. In preparation for this [IPO](https://en.wikipedia.org/wiki/Initial_public_offering) they parted ways of the whole lot of experienced staff in particular, in the R&D department. Maybe they've restructured the company in ways that I don't claim to understand.  So I'm not sure I have particular insights, you know, I'm not a great business entrepreneur. I'm a technologist. I don't really know how to comment on how they make their business moves but certainly, independence is central to their existence in my vieww. 
 
-Yeah. Okay. I think that the you've already answered my next question, which is where do students go, acorn computer played a big role in your career, giving early opportunities for you. So where the students go to find their Acorn computers (equivalent)? I think you've already said that algorithm of go going a direction that leaves the most doors open is a good one. But where, where do you, as somebody who advises students on their  careers, where do they look for the sorts of opportunities that you've had in the early stages of your career?
+Yeah. Okay. I think that the you've already answered my next question, which is where do students go, [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) played a big role in your career, giving early opportunities for you. So where the students go to find their Acorn Computers (equivalent)? I think you've already said that algorithm of go going a direction that leaves the most doors open is a good one. But where, where do you, as somebody who advises students on their  careers, where do they look for the sorts of opportunities that you've had in the early stages of your career?
 
-> Steve: I think it depends where their interest lie. So you know, arm is still recruiting if you're interested in designing silicon chips or companies such as arm are fine place to develop that line of career. There are others similarly placed and if you're more operating at the software level, then of course these days, there's a very strong emphasis on AI as an area to go into and lots of opportunities to work in AI. Again, I'm not sure I think most of the big companies are recruiting in that space. Anybody who's got any kind of skills in AI. You know, the work in the world's wide open I think as a moment. But there are also niches. You know? I mean, in the automotive industry, an ever increasing proportion of a cars sale value is electronics, right? Somebody is, well many people are in the designing all those systems and there's lots of interesting stuff to do there
+> Steve: I think it depends where their interest lie. So you know, [arm.com](https://www.arm.com/) is still recruiting if you're interested in designing silicon chips or companies such as arm are fine place to develop that line of career. There are others similarly placed and if you're more operating at the software level, then of course these days, there's a very strong emphasis on AI as an area to go into and lots of opportunities to work in AI. Again, I'm not sure I think most of the big companies are recruiting in that space. Anybody who's got any kind of skills in AI. You know, the work in the world's wide open I think as a moment. But there are also niches. You know? I mean, in the automotive industry, an ever increasing proportion of a cars sale value is electronics, right? Somebody is, well many people are in the designing all those systems and there's lots of interesting stuff to do there
 
 More of a *computer on wheels* than a car? Modern cars feel more like a computer than they they would have felt even 10, 20 years ago 
 
@@ -678,9 +701,11 @@ In a short space of time, just fifty years, the humble chip has gone from relati
 knitr::include_graphics(rep("images/chipwar.jpeg", 3))
 ```
 
-(ref:captionchipwar) One, two, three, four, I declare a chip war.  Chris Miller's book: [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) describes the transformation of the semiconductor from obscure electronics to essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
+(ref:captionchipwar) One, two, three, four, I declare a **CHIP WAR**. Chris Miller's book: [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) describes the transformation of semiconductors from relatively obscure electronics to an essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
 
-So where's next for the microchip? As we reach the limits subatomic scale engineering, will Moore's law still hold or breakdown? [@endofmooreslaw] It seems like we're always going to want more computing power, but where is it going to come from?
+So where's next for the microchip? As we reach the limits subatomic scale engineering, will Moore's law still hold or breakdown? [@endofmooreslaw] 
+
+It seems like we're always going to want more computing power, but where is it going to come from?
 
 ## Disclaimer  
 
