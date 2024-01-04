@@ -1,6 +1,6 @@
 # Steve's story {#steve}
 
-Meet Steve Furber, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and a Master of Mathematics (MMath) degree belatedly awarded in 2010, 35 years late. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, **30 for every person currently alive**. [@250billion] Each of these chips uses the same [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (RISC) architecture pioneered in the ARM1. 
+Meet Steve Furber, shown in figure \@ref(fig:steve-fig). Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and a Master of Mathematics (MMath) degree awarded 35 years late, in 2010. After ten years working at [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) on the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) and its successor the [ARM1](https://en.wikipedia.org/wiki/ARM1), he was appointed Professor at the University of Manchester in 1990, where he led a variety of research projects over 33 years culminating in the arm-powered [SpiNNaker](https://en.wikipedia.org/wiki/SpiNNaker) project. As of 2023, there are more than 250 billion arm designed chips on the planet, **30 for every person currently alive**. [@250billion] Each of these chips uses the same [Reduced Instruction Set Computer](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer) (RISC) architecture pioneered in the ARM1. 
 
 
 ```{r steve-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsteve)"}
@@ -106,7 +106,7 @@ So I suppose part of the PhD was a proof of concept to prove this would actually
 
 Like an engineering lab with you know, proper hardware. I'm thinking, not a computational lab, not a computer?
 
-> Steve: No, no, it's a lab full of heavy equipment and in my particular case, the first bit of equipment I use ran blades. So the rows of rotors and stator blades. It's just a single row of each. But in a closed circuit water system. So it's using water as the medium rather than air and that's a way of I think of getting a more appropriate [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) at small scale and the low cost (see figure \@ref(fig:reynolds-fig)). You want to do things in air in jet engines, its quite expensive because you have to run things at a close to the speed of sound and someone to get realistic operation. Whereas in water you can do it on a much smaller scale and much cheaper. 
+> Steve: No, no, it's a lab full of heavy equipment and in my particular case, the first bit of equipment I used ran blades. So rows of rotors and stator blades. It's just a single row of each. But in a closed circuit water system. So it's using water as the medium rather than air and that's a way of I think of getting a more appropriate [Reynolds number](https://en.wikipedia.org/wiki/Reynolds_number) at small scale and the low cost (see figure \@ref(fig:reynolds-fig)). You want to do things in air in jet engines, its quite expensive because you have to run things at a close to the speed of sound and someone to get realistic operation. Whereas in water you can do it on a much smaller scale and much cheaper. 
 
 ```{r reynolds-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionreynolds)"}
 knitr::include_graphics("images/reynolds-number.jpeg")
@@ -117,7 +117,7 @@ knitr::include_graphics("images/reynolds-number.jpeg")
 
 Right, Okay, so what were the main challenges you faced in your PhD and how did you overcome them? 
 
-> Steve: I think doing the maths was, you know, relatively straightforward. That was what I did and using mathematics to analyse fluid flows is a very well developed field of research. There are very interesting analogies between the way a purist model of fluids works and a complex number theory in the complex plane, okay? Um, and this is being used a probably 100 years to compute efficient aerofoil shapes and so on. It is only an approximation because it's assuming the fluid is [inviscid](https://en.wikipedia.org/wiki/Inviscid_flow), which real fluids are not, but at least it's a good start. So the mathematics, although not trivial, was what I was comfortable with. **I think my biggest challenge doing a PhD was actually being confident that what I was doing, was at all important or relevant or would go anywhere,** right? And so I could do the mechanics of the PhD but I wasn't very good on the context and my supervisor encouraged me to attend an annual British mathematical colloquium and I think present my work there and that was quite forbidding, I didn't sort of feel likerReally got my Feet on the ground. I didn't really know enough about what was going on in my area research to really be able to place myself, confidently in that stage. **So, I think my biggest challenge was probably confidence.** 
+> Steve: I think doing the maths was, you know, relatively straightforward. That was what I did and using mathematics to analyse fluid flows is a very well developed field of research. There are very interesting analogies between the way a purist model of fluids works and a complex number theory in the complex plane, okay? Um, and this is being used a probably 100 years to compute efficient aerofoil shapes and so on. It is only an approximation because it's assuming the fluid is [inviscid](https://en.wikipedia.org/wiki/Inviscid_flow), which real fluids are not, but at least it's a good start. So the mathematics, although not trivial, was what I was comfortable with. **I think my biggest challenge doing a PhD was actually being confident that what I was doing, was at all important or relevant or would go anywhere,** right? And so I could do the mechanics of the PhD but I wasn't very good on the context and my supervisor encouraged me to attend an annual British mathematical colloquium and I think present my work there and that was quite forbidding, I didn't sort of feel like I really got my feet on the ground. I didn't really know enough about what was going on in my area research to really be able to place myself, confidently in that stage. **So, I think my biggest challenge was probably confidence.** 
 
 As somebody who has now supervised countless PhD students, well not countless. But how many PhD students? 
 
@@ -201,7 +201,7 @@ But you built your own machine to print your thesis?
 ```{r floppy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfloppy)"}
 knitr::include_graphics("images/floppydisks.jpeg")
 ```
-(ref:captionfloppy) Before the widespread adoption of the web, cloud computing and USB sticks, the easiest way to move data and software around was by [floppy disk](https://en.wikipedia.org/wiki/Floppy_disk) like these 8-inch, 5¼-inch and 3½-inch disks. Public domain image of floppy disks by George Chernilevsky on Wikimedia Commons [w.wiki/8b42](https://w.wiki/8b42)
+(ref:captionfloppy) Before the widespread adoption of the web, cloud computing and USB sticks, one of the easiest ways to move data and software around was using [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk) like these 8-inch, 5¼-inch and 3½-inch disks. Public domain image of floppy disks by George Chernilevsky on Wikimedia Commons [w.wiki/8b42](https://w.wiki/8b42) 💾
 
 right? 
 
@@ -213,7 +213,7 @@ Okay, good. So that's where the computing comes from then. So you mentioned Acor
 knitr::include_graphics("images/john-hennessy.jpeg")
 ```
 
-(ref:captionhennessy) [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) is an American computer scientist who has served as chairman of Alphabet Inc, Professor and President of Stanford University and was a cofounder of [MIPS Technologies](https://en.wikipedia.org/wiki/MIPS_Technologies). In 2022, he was awarded the [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) by the National Academy of Engineering of the United States alongside Steve Furber, David Patterson and Sophie Wilson for contributions to the invention, development, and implementation of Reduced Instruction Set Computer (RISC) chips. CC-BY portrait of John L. Hennessy in 2007 by Eric Chan on Wikimedia Commons [w.wiki/8TTb](https://w.wiki/8TTb) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionhennessy) [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) is an American computer scientist who has served as chairman of Alphabet Inc, Professor and President of Stanford University and was a cofounder of [MIPS Technologies](https://en.wikipedia.org/wiki/MIPS_Technologies). In 2022, he was awarded the [Charles Stark Draper Prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) by the National Academy of Engineering of the United States alongside Steve Furber, David Patterson and Sophie Wilson for contributions to the invention, development, and implementation of Reduced Instruction Set Computer (RISC) chips. CC-BY portrait of John L. Hennessy in 2007 by Eric Chan on Wikimedia Commons [w.wiki/8TTb](https://w.wiki/8TTb) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇺🇸
 
 
 
@@ -223,7 +223,7 @@ knitr::include_graphics("images/john-hennessy.jpeg")
 knitr::include_graphics("images/david-patterson.jpeg")
 ```
 
-(ref:captionpatterson) [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) is Emeritus Professor of Computer Science at the University of California, Berkeley. In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering of the United States alongside Steve Furber, Sophie Wilson and John Hennessy for contributions to the invention, development, and implementation of Reduced Instruction Set Computer (RISC) chips. CC BY-SA portrait of David Patterson in 2007 by Peg Skorpinski on Wikimedia Commons [w.wiki/8TZd](https://w.wiki/8TZd) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionpatterson) [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) is Emeritus Professor of Computer Science at the University of California, Berkeley. In 2022, he was awarded the Charles Stark Draper Prize by the National Academy of Engineering of the United States alongside Steve Furber, Sophie Wilson and John Hennessy for contributions to the invention, development, and implementation of Reduced Instruction Set Computer (RISC) chips. CC BY-SA portrait of David Patterson in 2007 by Peg Skorpinski on Wikimedia Commons [w.wiki/8TZd](https://w.wiki/8TZd) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇺🇸
 
 Right
 
@@ -241,7 +241,7 @@ On the model A BBC Micro there was 16 kilobytes.
 ```{r bbc-micro-cake-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcmicrocake)"}
 knitr::include_graphics("images/bbc-micro-cake.jpeg")
 ```
-(ref:captionbbcmicrocake) Designed with education in mind, the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) was widely used in UK schools to teach computer literacy. CC BY-SA portrait of some of the BBC micro team (from left to right) Sophie Wilson, Chris Turner, Steve Furber, [Chris Serle](https://en.wikipedia.org/wiki/Chris_Serle), [Hermann Hauser](https://en.wikipedia.org/wiki/Hermann_Hauser) and [Chris Curry](https://en.wikipedia.org/wiki/Christopher_Curry_(businessman)), (just out of picture) celebrating the machines 30th anniversary in 2012 by Trevor Johnson on Wikimedia Commons [w.wiki/8Yth](https://w.wiki/8Yth) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionbbcmicrocake) Designed with education in mind, the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) was widely used in UK schools to teach computer literacy. CC BY-SA portrait of some of the BBC micro team (from left to right) Sophie Wilson, Chris Turner, Steve Furber, [Chris Serle](https://en.wikipedia.org/wiki/Chris_Serle), [Hermann Hauser](https://en.wikipedia.org/wiki/Hermann_Hauser) and [Chris Curry](https://en.wikipedia.org/wiki/Christopher_Curry_(businessman)), (just out of picture) celebrating the machines 30th anniversary in 2012 by Trevor Johnson on Wikimedia Commons [w.wiki/8Yth](https://w.wiki/8Yth) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇬🇧
 
 Right
 
@@ -286,7 +286,7 @@ So RISC was about keeping the processor simple, which is why it was possible for
 knitr::include_graphics("images/apple-newton.jpeg")
 ```
 
-(ref:captionnewton) The [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) (left) was an arm powered predecessor to the Apple iPhone, 2007 model shown on the right for comparison. CC BY licensed picture by Blake Patterson on Wikimedia Commons [w.wiki/8UsM](https://w.wiki/8UsM) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionnewton) Released in the nineties, the [Apple Newton](https://en.wikipedia.org/wiki/Apple_Newton) (left) was an arm powered predecessor to the Apple iPhone, 2007 model shown on the right for comparison. CC BY licensed picture by Blake Patterson on Wikimedia Commons [w.wiki/8UsM](https://w.wiki/8UsM) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 📱
 
 Again, most people have forgotten the Newton, but in those days as today, Apple was a magic brand in the computing world and getting Apple, getting the Apple badge, the stamp of approval setting up ARM as a  joint venture between Acorn and Apple with input from VLSI technology who made the chips. That really got the ARM moving and of course, some very clever management and technical work by the team under [Robin Saxby](https://en.wikipedia.org/wiki/Robin_Saxby), see figure \@ref(fig:saxby-fig). [@armhistory]
 
@@ -299,18 +299,18 @@ knitr::include_graphics("images/robin-saxby.jpeg")
 
 > Steve: (They) built this new business model that made the company work fine, actually which companies have to do right?
 
-So rather than manufacturing the chips themself it was  this licensing model that came from Robin Saxby.
+So rather than manufacturing the chips  (like Intel do) it was  this licensing model that came from Robin Saxby.
 
 > Steve: That's right in my last couple of years at Acorn, I'd spent little time thinking about, you know, what would happen if we move the ARM activity out of the company? You know, and try to licence the architecture and take royalties but none of the business models worked. The reason is that royalties are not good for cash flow. Royalties come late and little. It takes a long time for them to build up and Saxby looked at this model and he added a different component to it which was effectively a join the club upfront fee. So you pay a chunk of money to get an ARM licence and then downstream when you want on your product, you pay royalties. The upfront money is, of course, excellent for cashflow and that made the company work
 
 
 ....and helps you fund some of that design because designing chips is time consuming and expensive and requires a lot of expertise and that's not always appreciated from the outside, is that how much work goes into designing these things.
 
-> Steve: Designing a processor, well designing any kind of chip today is you know, a **multi-hundred man year task**. The first ARM processor was much less than that because it was very simple and because chips were smaller then in [transistor account](https://en.wikipedia.org/wiki/Transistor_count) (see figure \@ref(fig:moores-law-fig))
+> Steve: Designing a processor, well designing any kind of chip today is you know, a **multi-hundred man year task**. The first ARM processor was much less than that because it was very simple and because chips were smaller then in [transistor count](https://en.wikipedia.org/wiki/Transistor_count) (see figure \@ref(fig:moores-law-fig))
 
 So moving on from Acorn then, so we should say the acronym arm stands for, is it **Advanced RISC machines** or  **Acorn RISC machines**? 
 
-It's been both, originally it was the acorn risc machine. That's where arm comes from.  And then, when that activity was spun out into this joint venture with Apple they changed the *acorn* bit to *advanced*, so it became *Advanced RISC machine*. And and then a few years later, they just dropped the expansion altogether and it's not, yeah, okay. So, you know, initially it was capital **A**, capital **R**, capital **M** (**ARM**) and now it's all lowercase *arm*. 
+> Steve: It's been both, originally it was the acorn risc machine. That's where arm comes from.  And then, when that activity was spun out into this joint venture with Apple they changed the *acorn* bit to *advanced*, so it became *Advanced RISC machine*. And and then a few years later, they just dropped the expansion altogether and it's not, yeah, okay. So, you know, initially it was capital **A**, capital **R**, capital **M** (**ARM**) and now it's all lowercase *arm*. 
 
 So, you spent ten years at Acorn from about 1980?
 
@@ -375,7 +375,7 @@ Up to the present day, a sort of follow on from the asynchronous stuff was more 
 ```{r hbp-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhbp)"}
 knitr::include_graphics("images/human-brain-project.jpeg")
 ```
-(ref:captionhbp) The [Human Brain Project](https://en.wikipedia.org/wiki/Human_Brain_Project) (HBP) was a €1-billion European Union scientific research project that ran for ten years from 2013 to 2023. Using high-performance exascale supercomputers it built infrastructure that allowed researchers to advance knowledge in the fields of neuroscience, computing and brain-related medicine. CC BY Skull and human brain illustration by [Patrick J. Lynch](https://coastfieldguides.com/my-medical-illustrations/) on Wikimedia Commons [w.wiki/8W64](https://w.wiki/8W64) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionhbp) The [Human Brain Project](https://en.wikipedia.org/wiki/Human_Brain_Project) (HBP) was a €1-billion European Union scientific research project that ran for ten years from 2013 to 2023. Using high-performance exascale supercomputers it built infrastructure that allowed researchers to advance knowledge in the fields of neuroscience, computing and brain-related medicine. CC BY Skull and human brain illustration by [Patrick J. Lynch](https://coastfieldguides.com/my-medical-illustrations/) on Wikimedia Commons [w.wiki/8W64](https://w.wiki/8W64) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🤯 
 
 
 > Steve: How long have you got!? So the origins of SpiNNaker are that by the end of the 90s, we'd basically shown that you could build pretty much anything you want in asynchronous logic. The last [AMULET 3](https://en.wikipedia.org/wiki/AMULET_(processor)) was effectively [System on Chip (SoC)](https://en.wikipedia.org/wiki/System_on_a_chip) although it was only half the chip. And that was developed for a commercial application, but sadly the commercial collaborator went out a business before the chip got applied. But it was clear by the end of the 1990s that processor  design was moving from sort of manual hardcore. You know, here's a physical implementation of the processor you can go and use, to synthesizeable stuff. And the synthesis tools for asynchronous logic were nowhere near as developed as those for clock logic. So we kind of had to start again and we had some work going on since this is tools in the form of Balsa, which was led by Doug Edwards in group. [@balsa]
@@ -384,7 +384,7 @@ knitr::include_graphics("images/human-brain-project.jpeg")
 knitr::include_url('https://www.youtube.com/embed/V3MlOAru6Qk')
 ```
 
-(ref:captionspinvid) SpiNNaker: 1 million core neuromorphic platform. In 2018, SpiNNaker 1 was the world's largest neuromorphic computing platform. This 6 minute video by Petruț Bogdan (one of Steve's PhD students [@petrutphd]) can also be watched at [youtu.be/V3MlOAru6Qk](https://youtu.be/V3MlOAru6Qk). [@spinnaker-video]
+(ref:captionspinvid) SpiNNaker: 1 million core neuromorphic platform. In 2018, SpiNNaker 1 was the world's largest neuromorphic computing platform. This 6 minute video by Petruț Bogdan (a former PhD student supervised by Steve [@petrutphd]) can also be watched at [youtu.be/V3MlOAru6Qk](https://youtu.be/V3MlOAru6Qk). [@spinnaker-video]
 
 
 > Steve: But it was going to take a long time to compete and industry acceptance of asychronous design was very slow at the time, so I began to think it was time to for a change of direction. I'd been in the process of design business for more than 20 years, processors were thousand times faster but they still struggled to do things that humans find quite easy. And towards the end of the 90s, I got a grant from  EPSRC (The [Engineering and Physical Sciences Research Council](https://en.wikipedia.org/wiki/Engineering_and_Physical_Sciences_Research_Council)), a ROPA grant: Realising Our Potential Award [@ROPA] required you to go off in the new direction. It was based on having industrial support but you had to choose new directions. So I thought I'd always been interested in [associative memories](https://en.wikipedia.org/wiki/Content-addressable_memory), I'd used them in [processor caches](https://en.wikipedia.org/wiki/CPU_cache) and so on but they're all very brittle. You know, you give them the right input, they give you exactly the right output. You give them the slightly wrong input they give you rubbish. For this ROPA reward, we started investigating inexact associative memories. [@inexact] And I found every way we looked at that problem we were reinventing [neural networks](https://en.wikipedia.org/wiki/Artificial_neural_network), see figure \@ref(fig:neural-network-fig). So that influenced me to think well, maybe there's things the brain can do that we can't do with computers at all easily. I like associative memories bit they all seemed  to look like neural networks. So later we should look at neural networks and that that really was The thing that began pointing me in the direction of the SpiNNaker project.
@@ -392,7 +392,7 @@ knitr::include_url('https://www.youtube.com/embed/V3MlOAru6Qk')
 ```{r neural-network-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionneuralnetwork)"}
 knitr::include_graphics("images/neural-network.jpeg")
 ```
-(ref:captionneuralnetwork) An [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network) is a model used in machine learning based on biological neural networks. Each circular node shown here represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. CC BY image by Glosser.ca on Wikimedia Commons [w.wiki/8ZeS](https://w.wiki/8ZeS) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionneuralnetwork) An [Artificial Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network) is a model used in machine learning based on biological neural networks. Each circular node shown here represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of another. CC BY image by Glosser.ca on Wikimedia Commons [w.wiki/8ZeS](https://w.wiki/8ZeS) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🧠
 
 All right. 
 
@@ -497,7 +497,9 @@ Okay, good. So one other thing. We shan't be casting you away to a *Desert Islan
 ::: {.rmdnote}
 (ref:codingcomment)
 
-Steve played the (funky) bass line to [Can't Stop the Feeling!](https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!) [@cantstopthefeeling] during a special guest appearance in a [COMP101 undergraduate lecture](https://www.manchester.ac.uk/study/undergraduate/courses/2024/00560/bsc-computer-science/) with the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) [boy band](https://en.wikipedia.org/wiki/Boy_band) featuring [Justin Timberfake](https://en.wikipedia.org/wiki/Justin_Timberlake) and friends in September 2019.
+Steve played the (funky) bass line to [Can't Stop the Feeling!](https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!) [@cantstopthefeeling] 
+
+Thanks Steve for making a special guest appearance in a [COMP101 undergraduate lecture](https://www.manchester.ac.uk/study/undergraduate/courses/2024/00560/bsc-computer-science/) with the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) [boy band](https://en.wikipedia.org/wiki/Boy_band) featuring [Justin Timberfake](https://en.wikipedia.org/wiki/Justin_Timberlake) and friends in September 2019.
 
 :::
 
@@ -535,7 +537,7 @@ I don't know if you actually listen to podcasts much but either a podcast or a r
 knitr::include_graphics("images/melvyn-bragg.jpeg")
 ```
 
-(ref:captioninourtime) There have been over 1000 episodes of *In Our Time* presented by Melvyn Bragg since 1988. A live BBC radio discussion series and podcast exploring a wide variety of historical, scientific and philosophical topics. [@inourtime; @inourtime750;] As Melvyn Bragg says *you can't learn everything at school* (or University) so never stop learning! [@inourtime1000] CC BY portrait of Melvyn Bragg by [Chris McAndrew](https://en.wikipedia.org/wiki/Chris_McAndrew) via Wikimedia Commons [w.wiki/8agv](https://w.wiki/8agv) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
+(ref:captioninourtime) You can't learn everything at school (or University). If you never want to stop learning, there are more than 1000 episodes of *In Our Time*, a BBC radio discussion series and podcast, to help you explore a wide variety of historical, scientific and philosophical topics. [@inourtime; @inourtime750; @inourtime1000] CC BY portrait of [Melvyn Bragg](https://en.wikipedia.org/wiki/Melvyn_Bragg) by [Chris McAndrew](https://en.wikipedia.org/wiki/Chris_McAndrew) via Wikimedia Commons [w.wiki/8agv](https://w.wiki/8agv) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
 
 From physics through to well, everything, history ...
 
@@ -662,7 +664,7 @@ Okay, well, I hope you enjoy your retirement and take some time to do things you
 
 > Steve: I didn't realise. Oh, dear!
 
-So we're calling this *FurbyFest* (working title) so we look forward to seeing you at that and enjoy your your retirement. 
+So we're calling this *FurbyFest* (working title) so we look forward to seeing you at that and enjoy your retirement. 
 
 > Steve: Okay thank you Duncan.
 
@@ -698,14 +700,14 @@ knitr::include_url('https://www.youtube.com/embed/_TOCRjF9WuE')
 
 (ref:captionsiliconsupremacy) Featuring Intel and Taiwan Semiconductor Manufacturing Company (TSMC). You can also watch the 8 minute video embedded in this figure at [youtu.be/_TOCRjF9WuE](https://youtu.be/_TOCRjF9WuE). [@youtube-silicon-supremacy]
 
-In a short space of time, just fifty years, the humble chip has gone from relatively obscure electronics, to something we fight battles for silicon supremacy, see figure \@ref(fig:chipwar-fig). Chips are at the heart of US-China tensions for example. [@chipwar]
+In a short space of time, just fifty years, the humble chip has gone from relatively obscure electronics, to something nation wage wars over for silicon supremacy, see figure \@ref(fig:chipwar-fig). Chips are at the heart of US-China tensions for example. [@chipwar]
 
 
 ```{r chipwar-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionchipwar)"}
 knitr::include_graphics(rep("images/chipwar.jpeg", 3))
 ```
 
-(ref:captionchipwar) One, two, three, four, I declare a **CHIP WAR**. Chris Miller's book: [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) describes the transformation of semiconductors from relatively obscure electronics to an essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
+(ref:captionchipwar) One, two, three, four, I declare a **CHIP WAR**! Chris Miller's book: [Chip War: The Fight for the World's Most Critical Technology](https://en.wikipedia.org/wiki/Chip_War:_The_Fight_for_the_World%27s_Most_Critical_Technology) describes the transformation of semiconductors from relatively obscure electronics to an essential component of daily life. [@chipwar] Fair use image from Wikimedia Commons [w.wiki/8Ro9](https://w.wiki/8Ro9) 
 
 So where's next for the microchip? As we reach the limits subatomic scale engineering, will Moore's law still hold or breakdown? [@endofmooreslaw] 
 
