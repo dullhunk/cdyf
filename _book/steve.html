@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapter 22 Steve’s story | Coding Your Future: A Guidebook for Students</title>
-<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 04 January, 2024">
+<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 08 January, 2024">
 <meta name="description" content="Meet Steve Furber, shown in figure 22.1. Steve graduated with a Bachelor of Arts degree in Mathematics from the University of Cambridge in 1974, followed by a PhD in aerodynamics in 1980 and a...">
 <meta name="generator" content="bookdown 0.33 with bs4_book()">
 <meta property="og:title" content="Chapter 22 Steve’s story | Coding Your Future: A Guidebook for Students">
@@ -329,7 +329,7 @@ Figure 22.11: <a href="https://en.wikipedia.org/wiki/Daisy_wheel_printing">Daisy
 </blockquote>
 <p>But you built your own machine to print your thesis?</p>
 <blockquote>
-<p>Steve: In fact I built my own machine, I entered my thesis into this text editor was a little bit fragile. It didn’t have any proper detection for <a href="https://en.wikipedia.org/wiki/Buffer_overflow">buffer overruns</a> so, changing too much at once, was a bad idea. But, I then transferred the text file onto a university computer, which was a <a href="https://en.wikipedia.org/wiki/Computer_Automation">Computer Automation</a> LSI4 Using eight inch <a href="https://en.wikipedia.org/wiki/Floppy_disk">floppy disks</a>, see figure @ref(fig:floppy-fig.jpeg).</p>
+<p>Steve: In fact I built my own machine, I entered my thesis into this text editor was a little bit fragile. It didn’t have any proper detection for <a href="https://en.wikipedia.org/wiki/Buffer_overflow">buffer overruns</a> so, changing too much at once, was a bad idea. But, I then transferred the text file onto a university computer, which was a <a href="https://en.wikipedia.org/wiki/Computer_Automation">Computer Automation</a> LSI4 Using eight inch <a href="https://en.wikipedia.org/wiki/Floppy_disk">floppy disks</a>, see figure <a href="steve#fig:floppy-fig">22.12</a>.</p>
 </blockquote>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:floppy-fig"></span>
@@ -546,7 +546,7 @@ Figure 22.23: An <a href="https://en.wikipedia.org/wiki/Artificial_neural_networ
 <blockquote>
 <p>Steve: We spent several years bringing ideas together. I was head of department. If you recall</p>
 </blockquote>
-<p>I can remember you serving as head of department, I think during my PhD. [@]</p>
+<p>I can remember you serving as <a href="https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Manchester">head of department</a>, I think during my PhD. <span class="citation">(<a href="reading#ref-hulldphd">Hull 2008</a>)</span></p>
 <blockquote>
 <p>Steve: It was 2001 for 2004, right up to the merger of the <a href="https://en.wikipedia.org/wiki/Victoria_University_of_Manchester">University of Manchester</a> with <a href="https://en.wikipedia.org/wiki/University_of_Manchester_Institute_of_Science_and_Technology">UMIST</a>. I got the usual one-year post-headship rehabilitation-sabbatical and I spent a couple of months of that at <a href="https://en.wikipedia.org/wiki/Sun_Microsystems">Sun labs in Menlo Park in California</a>. And looking at some of the <a href="https://en.wikipedia.org/wiki/Supercomputer">Supercomputer</a> plans that they were developing at the time and doing some asynchronous logic with the group there that was very active in async design. And while looking at these supercomputers, the concepts that I wanted to build into this neural network computer began to gel and it was at that point that I realised, there’s actually a very strong argument, particularly for a research platform, for using a general purpose processor as the engine to model neurons and synapses rather than dedicated hardware, which was more commonly used.</p>
 </blockquote>
@@ -598,7 +598,9 @@ Figure 22.25: A <a href="https://en.wikipedia.org/wiki/Single-event_upset">singl
 <p>Steve: We kind of anticipated it but we anticipated it in the wrong place. And we only found in the right place because I was asked the question by a professor from Germany who was thinking about these things. We expected most of the memory on SpiNNaker is in these separate <a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">D-RAM</a> chips which are in the package but they’re standard chips. We expected some memory faults in those chips but we’ve never seen one. What we didn’t expect was false in the on-chip memory on the SpiNNaker chip itself. We see those and we can measure them and on the full machine we get two or three an hour. So it’s quite significant and the importance of that is, it was immediately fed forward into the design of SpiNNaker 2, which has fully error-correcting memory all over the chip now.</p>
 </blockquote>
 <p>Right as a result. That so that’s SpiNNaker 2, is it finished. Now is that still in under construction. <span class="citation">(<a href="reading#ref-SpiNNaker2">Mayr, Hoeppner, and Furber 2019</a>; <a href="reading#ref-spin2">Furber and Mayr 2022</a>)</span></p>
-<p>It has been co-developed within the Human Brain Project with <a href="https://en.wikipedia.org/wiki/TU_Dresden">TU Dresden</a> who have a very effective silicon backend team. Yes, it’s been designed aAnd we now have full silicon. So we have SpiNNaker 2 chips currently, we just have individual chips. But Dresden is now putting together, the 48 node boards, which are the same kind of density is the board in the SpiNNaker 1 machine and they will be putting together a five million core SpiNNaker machine in Dresden over the next year or so. SpiNNaker 2 is very much an evolution of SpiNNaker 1, it’s conceptually very similar, it incorporates quite a lot of lessons we’ve learned from SpiNNaker 1, such as the importance of high quality random number sources, and so it has hardware to do that and hardware to compute exponentials and logarithms. It also has high performance matrix vector multipliers for conventional artificial networks as well as support of the spiking networks.</p>
+<blockquote>
+<p>Steve: It has been co-developed within the Human Brain Project with <a href="https://en.wikipedia.org/wiki/TU_Dresden">TU Dresden</a> who have a very effective silicon backend team. Yes, it’s been designed and we now have full silicon. So we have SpiNNaker 2 chips currently, we just have individual chips. But Dresden is now putting together, the 48 node boards, which are the same kind of density is the board in the SpiNNaker 1 machine and they will be putting together a five million core SpiNNaker machine in Dresden over the next year or so. SpiNNaker 2 is very much an evolution of SpiNNaker 1, it’s conceptually very similar, it incorporates quite a lot of lessons we’ve learned from SpiNNaker 1, such as the importance of high quality random number sources, and so it has hardware to do that and hardware to compute exponentials and logarithms. It also has high performance matrix vector multipliers for conventional artificial networks as well as support of the spiking networks.</p>
+</blockquote>
 <p>Are there plans for a SpiNNaker 3, is this then the same conceptually or is it a shift away from SpiNNaker one?</p>
 <blockquote>
 <p>SpiNNaker 3 is still at the conceptual stage. But Dreseden has, has spun out a company called to <a href="https://spinncloud.com/">SpiNNcloud.com</a> systems <a href="https://en.wikipedia.org/wiki/Gesellschaft_mit_beschr%C3%A4nkter_Haftung">GmbH</a> to commercialise SpiNNaker 2 and the expectation is that in fact, commercialisation starts moving there, and they’ll want a SpiNNkaer 3 to follow on.</p>
@@ -917,7 +919,7 @@ Figure 22.35: One, two, three, four, I declare a <strong>CHIP WAR</strong>! Chri
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 04 January, 2024. </p>
+    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 08 January, 2024. </p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

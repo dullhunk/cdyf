@@ -196,7 +196,7 @@ All right, so it wasn't the traditional approach then might have been to write i
 But you built your own machine to print your thesis? 
 
 
-> Steve: In fact I built my own machine, I entered my thesis into this text editor was a little bit fragile. It didn't have any proper detection for [buffer overruns](https://en.wikipedia.org/wiki/Buffer_overflow) so, changing too much at once, was a bad idea. But, I then transferred the text file onto a university computer, which was a [Computer Automation](https://en.wikipedia.org/wiki/Computer_Automation) LSI4 Using eight inch [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk), see figure \@ref(fig:floppy-fig.jpeg).
+> Steve: In fact I built my own machine, I entered my thesis into this text editor was a little bit fragile. It didn't have any proper detection for [buffer overruns](https://en.wikipedia.org/wiki/Buffer_overflow) so, changing too much at once, was a bad idea. But, I then transferred the text file onto a university computer, which was a [Computer Automation](https://en.wikipedia.org/wiki/Computer_Automation) LSI4 Using eight inch [floppy disks](https://en.wikipedia.org/wiki/Floppy_disk), see figure \@ref(fig:floppy-fig).
 
 ```{r floppy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfloppy)"}
 knitr::include_graphics("images/floppydisks.jpeg")
@@ -399,7 +399,7 @@ All right.
 
 > Steve: We spent several years bringing ideas together. I was head of department. If you recall
 
-I can remember you serving as head of department, I think during my PhD. [@]
+I can remember you serving as [head of department](https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Manchester), I think during my PhD. [@hulldphd]
 
 > Steve: It was 2001 for 2004, right up to the merger of the [University of Manchester](https://en.wikipedia.org/wiki/Victoria_University_of_Manchester) with [UMIST](https://en.wikipedia.org/wiki/University_of_Manchester_Institute_of_Science_and_Technology). I got the usual one-year post-headship rehabilitation-sabbatical and I spent a couple of months of that at [Sun labs in Menlo Park in California](https://en.wikipedia.org/wiki/Sun_Microsystems). And looking at some of the [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer) plans that they were developing at the time and doing some asynchronous logic with the group there that was very active in async design. And while looking at these supercomputers, the concepts that I wanted to build into this neural network computer began to gel and it was at that point that I realised, there's actually a very strong argument, particularly for a research platform, for using a general purpose processor as the engine to model neurons and synapses rather than dedicated hardware, which was more commonly used.
 
@@ -451,9 +451,7 @@ Okay. This is not something you anticipated I suppose?
 
 Right as a result. That so that's SpiNNaker 2, is it finished. Now is that still in under construction. [@SpiNNaker2; @spin2] 
 
-
-
-It has been co-developed within the Human Brain Project with [TU Dresden](https://en.wikipedia.org/wiki/TU_Dresden) who have a very effective silicon backend team. Yes, it's been designed aAnd we now have full silicon. So we have SpiNNaker 2 chips currently, we just have individual chips. But Dresden is now putting together, the 48 node boards, which are the same kind of density is the board in the SpiNNaker 1 machine and they will be putting together a five million core SpiNNaker machine in Dresden over the next year or so. SpiNNaker 2 is very much an evolution of SpiNNaker 1, it's conceptually very similar, it incorporates quite a lot of lessons we've learned from SpiNNaker 1, such as the importance of high quality random number sources, and so it has hardware to do that and hardware to compute exponentials and logarithms. It also has high performance matrix vector multipliers for conventional artificial networks as well as support of the spiking networks. 
+> Steve: It has been co-developed within the Human Brain Project with [TU Dresden](https://en.wikipedia.org/wiki/TU_Dresden) who have a very effective silicon backend team. Yes, it's been designed and we now have full silicon. So we have SpiNNaker 2 chips currently, we just have individual chips. But Dresden is now putting together, the 48 node boards, which are the same kind of density is the board in the SpiNNaker 1 machine and they will be putting together a five million core SpiNNaker machine in Dresden over the next year or so. SpiNNaker 2 is very much an evolution of SpiNNaker 1, it's conceptually very similar, it incorporates quite a lot of lessons we've learned from SpiNNaker 1, such as the importance of high quality random number sources, and so it has hardware to do that and hardware to compute exponentials and logarithms. It also has high performance matrix vector multipliers for conventional artificial networks as well as support of the spiking networks. 
 
 Are there plans for a SpiNNaker 3, is this then the same conceptually or is it a shift away from SpiNNaker one?
 
