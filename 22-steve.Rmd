@@ -718,6 +718,29 @@ So where's next for the microchip? As we reach the limits of Physics, it looks l
 
 It's likely that we're always going to want more computing power, but where is it going to come from?
 
+## PostScript: GOTO 1981
+Forty two years before this interview took place, I wrote my first bit of software on a BBC Micro in the [Code Club](https://codeclub.org/) at [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/). My bestie [Branwen Munn](https://www.tycerdd.org/branwen-munn) and I were encouraged by our teacher, Mr. Jackson as we typed our first instructions which looked something like this:
+
+````
+10 PRINT "HELLO WORLD"
+20 GOTO 10
+RUN
+```` 
+
+Variations of this [BASIC](https://en.wikipedia.org/wiki/BASIC) loop introduced millions of school children like us to computing, especially those lucky enough to have access to an exotic new machine called a **COMPUTER** which had just arrived in our school.
+
+So I enjoyed interviewing Steve, it felt like closing a loop that had been running for 42 years. I hope other people enjoy listening to it and/or reading the transcript. 
+
+```{r goto-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongoto)"}
+knitr::include_graphics("images/GOTO.jpg")
+```
+
+(ref:captiongoto) `GOTO` was easy for primary school children like me to understand, it even had a dedicated key on the Sinclair [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) keyboard pictured here. The `GOTO` statement was [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) by [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) [@goto] and many others, and was eventually dropped from programming languges. CC BY-SA Picture of `GOTO` key by Rama on Wikimedia Commons [w.wiki/8qDv](https://w.wiki/8qDv)
+
+While the use of [GOTO](https://en.wikipedia.org/wiki/Goto) has long gone from programming languages (see figure \@ref(fig:goto-fig)), the experience of making software in 1981 had a big impact on me and many others like me. [@computersgb]
+
+Thanks Steve and [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) and Acorn Computers. 
+
 ## Disclaimer  
 
 
