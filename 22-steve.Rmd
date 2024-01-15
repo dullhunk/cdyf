@@ -669,15 +669,18 @@ Okay, well, I hope you enjoy your retirement and take some time to do things you
 
 > Steve: I didn't realise. Oh, dear!
 
-So we're calling this *FurbyFest* (working title) so we look forward to seeing you at that and enjoy your retirement. 
+So we're calling this *FurbyFest*, so we look forward to seeing you at that and enjoy your retirement (see figure \@ref(fig:furbyfest-fig))
 
 > Steve: Okay thank you Duncan.
 
 [interview ends]
 
-```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
-cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7129811309998551041" height="1084" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```{r furbyfest-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfurbyfest)"}
+knitr::include_graphics("images/furbyfest.jpg")
 ```
+
+(ref:captionfurbyfest) After 33 years in the Department of Computer Science at the University of Manchester, and more than 50 years in computing, Steve's career was celebrated at a Festschrift on Friday 12th January 2024. Speakers included (from left to right): [Ian Phillips](https://www.linkedin.com/in/ianphillipsuk), [Peter Cheung](https://scholar.google.com/citations?user=vWfUi4kAAAAJ), [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), [Jamie Urquhart](https://www.bloomberg.com/news/articles/2023-03-02/arm-co-founder-says-uk-s-tech-strategy-couldn-t-be-any-worse), [Ran Ginosar](https://cris.technion.ac.il/en/persons/ran-ginosar), [Christian Mayr](https://dl.acm.org/profile/81320492271), [Doug Edwards](https://ieeexplore.ieee.org/author/37278340900), [Marly Roncken](https://ieeexplore.ieee.org/author/37298834500), [Erik Brunvand](https://scholar.google.com/citations?user=Hkw7KOoAAAAJ), [Wayne Luk](https://scholar.google.com/citations?user=2gyOP3QAAAAJ), [Piotr Dudek](https://scholar.google.com/citations?user=0keEUr4AAAAJ), [Alex Yakovlev](https://scholar.google.com/citations?user=0_TDa1kAAAAJ), [Andrew D. Brown](https://ieeexplore.ieee.org/author/37277557300) and [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) (seated). Also not pictured here, [Roger Woods](https://ieeexplore.ieee.org/author/37271861100) and [Bashir Al-Hashimi](https://en.wikipedia.org/wiki/Bashir_Al-Hashimi). [@furbyfest] Picture reproduced with kind permission from by [Gavin Brown](https://profgavinbrown.github.io/) 🎸
+
 
 
 ## Epilogue: From Moore's law to chip war {#furberlogue}
@@ -718,7 +721,7 @@ So where's next for the microchip? As we reach the limits of Physics, it looks l
 
 It's likely that we're always going to want more computing power, but where is it going to come from?
 
-## PostScript: GOTO 1981
+## PostScript: `GOTO` 1981
 Forty two years before this interview took place, I wrote my first bit of software on a BBC Micro in the [Code Club](https://codeclub.org/) at [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/). My bestie [Branwen Munn](https://www.tycerdd.org/branwen-munn) and I were encouraged by our teacher, Mr. Jackson as we typed our first instructions which looked something like this:
 
 ````
@@ -729,17 +732,17 @@ RUN
 
 Variations of this [BASIC](https://en.wikipedia.org/wiki/BASIC) loop introduced millions of school children like us to computing, especially those lucky enough to have access to an exotic new machine called a **COMPUTER** which had just arrived in our school.
 
-So I enjoyed interviewing Steve, it felt like closing a loop that had been running for 42 years. I hope other people enjoy listening to it and/or reading the transcript. 
+So I enjoyed interviewing Steve, it felt like closing a loop that had been running for 42 years. I hope other people enjoy this extended episode too.
 
 ```{r goto-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongoto)"}
 knitr::include_graphics("images/GOTO.jpg")
 ```
 
-(ref:captiongoto) `GOTO` was easy for primary school children like me to understand, it even had a dedicated key on the Sinclair [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) keyboard pictured here. The `GOTO` statement was [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) by [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) [@goto] and many others, and was eventually dropped from programming languges. CC BY-SA Picture of `GOTO` key by Rama on Wikimedia Commons [w.wiki/8qDv](https://w.wiki/8qDv)
+(ref:captiongoto) `GOTO` was easy for primary school children like me to understand, it even had a dedicated key on the Sinclair [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) keyboard pictured here. The `GOTO` statement was [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) by [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) [@goto] and many others, and was eventually dropped from many programming languges. CC BY-SA Picture of `GOTO` key by Rama on Wikimedia Commons [w.wiki/8qDv](https://w.wiki/8qDv)
 
-While the use of [GOTO](https://en.wikipedia.org/wiki/Goto) has long gone from programming languages (see figure \@ref(fig:goto-fig)), the experience of making software in 1981 had a big impact on me and many others like me. [@computersgb]
+While the use of [GOTO](https://en.wikipedia.org/wiki/Goto) has long gone from most programming languages (see figure \@ref(fig:goto-fig)), the experience of making software in 1981 had a big impact on me and many others like me. [@computersgb]
 
-Thanks Steve and [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) and Acorn Computers. 
+Thanks to Steve, [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), Acorn Computers and many others. 🙏
 
 ## Disclaimer  
 
