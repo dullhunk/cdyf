@@ -266,7 +266,7 @@ knitr::include_graphics("images/critical-friend.jpeg")
 
 I'm looking for feedback and contributions on everything in this guidebook from the small things like typos, grammatical errors and spelling mistakes through to bigger issues for each chapter such as:
 
-* Does the chapter make sense, is it clear?
+* Does the chapter make sense? How could concepts be made more clear?
 * Does it strike the right tone, is it pitched at the right level? Not patronising? Too many platitudes?
 * Are there too many motivational (or [demotivational](https://despair.com/collections/demotivators)) quotations?
 * Where is it too long and waffly (see figure \@ref(fig:shorterletter-fig)) or too short?
@@ -281,7 +281,7 @@ I'm looking for feedback and contributions on everything in this guidebook from 
 * Where are the unstated assumptions? Where is the unconscious bias?
 * What are the issues with equality, diversity and inclusion?
 * Are there too many musical references or annoying emoji? Please bear in mind I'm trying to strike an irreverent, light-hearted and playful tone to improve readability 😜
-* What else should be ruthlessly edited out?
+* What else needs to be ruthlessly edited out?
 
 All suggestions welcome! Don't be shy. There are several ways you can contribute, depending on how comfortable you are with Git:
 
@@ -827,12 +827,13 @@ knitr::include_graphics("images/hillary-clinton.jpeg")
 So thanks Fitzmaurice Primary School and [Edmond Fitzmaurice](https://en.wikipedia.org/wiki/Edmond_Fitzmaurice,_1st_Baron_Fitzmaurice) for laying solid foundations. 🙏
 
 ### Thank you Branwen {#branwen}
-Thanks [Branwen Munn](https://www.branwen.online/), pictured on the left in figure \@ref(fig:branwen-fig), for introducing me (pictured on the right) to [`while` loops](https://en.wikipedia.org/wiki/While_loop) on your very own [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) while playing [Duran Duran](https://en.wikipedia.org/wiki/Duran_Duran) IIRC. It doesn't get much more [1980s](https://en.wikipedia.org/wiki/1980s) than that! Thanks to Mr. Jackson at Fitzmaurice Primary School for hosting an after school [code club](https://codeclub.org/) on the school's (one and only) computer, a [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro). Like [Emma Mulqueeny](https://en.wikipedia.org/wiki/Emma_Mulqueeny) I think [year 8 is too late](https://mulqueeny.wordpress.com/2011/08/10/year-8-is-too-late/). [@year8toolate] It is unlikely I would have ended up where I am if it hadn't been for early exposure to computing in primary school. [@computersgb]
+Thanks [Branwen Munn](https://www.branwen.online/), pictured on the left in figure \@ref(fig:branwen-fig), for introducing me (pictured on the right) to writing loops on 
+the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) at [Fitzmaurice Primary School](https://www.fitzmauriceschool.info/) with help from Mr. Jackson's [code club](https://codeclub.org/), see section \@ref(goto). We were lucky to also have access to your very own [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64). Like [Emma Mulqueeny](https://en.wikipedia.org/wiki/Emma_Mulqueeny) I think [year 8 is too late](https://mulqueeny.wordpress.com/2011/08/10/year-8-is-too-late/). [@year8toolate] It is unlikely I would have ended up where I am if it hadn't been for early exposure to computing in primary school. [@computersgb]
 
 ```{r branwen-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionradipole)"}
 knitr::include_graphics("images/bbc-micro.png")
 ```
-(ref:captionradipole) From left to right: *LEFT:* Birdwatching at [Radipole Lake](https://en.wikipedia.org/wiki/Radipole_Lake) in Weymouth, Dorset with Branwen (left) and me (right), members of the [Young Ornithologists' Club](https://en.wikipedia.org/wiki/Young_Ornithologists%27_Club) (YOC). *MIDDLE:* (Top) A [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) (model A) from our after school code club with 16KB of memory. Public domain picture by Stuart Brady on Wikimedia Commons [w.wiki/6cfw](https://w.wiki/6cfw) (Bottom) Branwen's [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) with whopping 64KB (yes, kilobytes) of memory, it was four times more powerful than the schools BBC Micro, public domain picture by Evan Amos on Wikimedia Commons [w.wiki/6ait](https://w.wiki/6ait). *RIGHT:* When we weren't birdwatching or computing we were [breakdancing](https://en.wikipedia.org/wiki/Breakdancing), [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) portrait of a breakdancer via Wikimedia Commons [w.wiki/6cfx](https://w.wiki/6cfx). Yes we are geeky and yes, we'll always wear our geek badges with **pride**! Blessed are the geeks, see section \@ref(entitled).
+(ref:captionradipole) From left to right: *LEFT:* Birdwatching at [Radipole Lake](https://en.wikipedia.org/wiki/Radipole_Lake) in Weymouth, Dorset with Branwen (left) and me (right), members of the [Young Ornithologists' Club](https://en.wikipedia.org/wiki/Young_Ornithologists%27_Club) (YOC). *MIDDLE:* (Top) A [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) (model A) from our after school code club with 16KB of memory. Public domain picture by Stuart Brady on Wikimedia Commons [w.wiki/6cfw](https://w.wiki/6cfw) (Bottom) Branwen's [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) with whopping 64KB (yes, kilobytes) of memory, it was four times more powerful than the schools BBC Micro, public domain picture by Evan Amos on Wikimedia Commons [w.wiki/6ait](https://w.wiki/6ait). *RIGHT:* When we weren't birdwatching or computing we were [breakdancing](https://en.wikipedia.org/wiki/Breakdancing). [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) portrait of a breakdancer via Wikimedia Commons [w.wiki/6cfx](https://w.wiki/6cfx). Yes we are geeky and yes, we'll always wear our geek badges with **pride**! Blessed are the geeks, see section \@ref(entitled). 
 
 So thanks Branwen, for all the breakdancing, birdwatching, music and computing.
 
