@@ -240,7 +240,7 @@ knitr::include_graphics("images/weasel-words.jpeg")
 We discussed the dangers of bullshit in section \@ref(bullshit). You might think you can bullshit your readers, but you'll probably just trigger their *bullshit detector*. Examples include:
 
 * `honed` saying you `improved` something and then **quantifying** by *how much* you improved it would be much more convincing
-* `spearheaded` Really, are you some kind of hunter-gatherer? Howabout `led`, `managed`, `co-ordinated` or `organised` see section \@ref(leading)?  
+* `spearheaded` Really, are you some kind of hunter-gatherer? Howabout `led`, `managed`, `co-ordinated` or `organised`? See section \@ref(leading). 
 * `streamlined` Something smells a bit fishy, it's the kind of thing a politician would say
 * `leveraged` not sure about this one, smells a bit dodgy?
 * `relished` 
@@ -249,7 +249,14 @@ We discussed the dangers of bullshit in section \@ref(bullshit). You might think
 * `fascinated` 
 * `imagineered` Yes, imagination is a crucial part of engineering. But software imagineering? Really? C'mon! 
 
-It's probably best to leave *emotive* verbs and *bullshitty* language out of your CV. You may well have been `fascinated, thrilled and delighted to hone your leadership skills while spearheading an innovative project that streamlined business processes`, but there are more professional and less bullshitty ways to describe your experience. 💩
+```{r bullshitter-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbullshitter)"}
+knitr::include_graphics("images/on-bullshit.jpeg")
+```
+
+(ref:captionbullshitter) Do you speak bullshit? Are there any bullshitty verbs on your CV? Fair use image of the cover of [Harry G. Frankfurt](https://en.wikipedia.org/wiki/Harry_Frankfurt)'s best selling little book *[On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)* [@onbullshit] via Wikimedia Commons [w.wiki/6Bnu](https://w.wiki/6Bnu) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
+
+
+It's probably best to leave *emotive* verbs and *bullshitty* language out of your CV, see figure \@ref(fig:bullshitter-fig). You may well have been `fascinated, thrilled and delighted to hone your leadership skills while spearheading an innovative project that streamlined business processes`, but there are more professional and less bullshitty ways to describe your experience. 💩
 
 
 
