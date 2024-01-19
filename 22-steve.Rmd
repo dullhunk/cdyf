@@ -743,7 +743,7 @@ So I enjoyed interviewing Steve, it felt like closing a loop that had been runni
 knitr::include_graphics("images/GOTO.jpg")
 ```
 
-(ref:captiongoto) The popular `GOTO` statement helped people like me understand what the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) was capable of, the [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) even had a dedicated key for it shown here. The `GOTO` statement was [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) by [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) [@goto] and many others, and was eventually dropped from many programming languges. CC BY-SA Picture of `GOTO` key by Rama on Wikimedia Commons [w.wiki/8qDv](https://w.wiki/8qDv)
+(ref:captiongoto) The popular `GOTO` statement helped people like me understand what the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) was capable of, the [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) even had a dedicated key for it shown here. The `GOTO` statement was [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) by [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) and many others [@goto; @dreadedgoto], and was eventually dropped from many programming languges. CC BY-SA Picture of `GOTO` key by Rama on Wikimedia Commons [w.wiki/8qDv](https://w.wiki/8qDv)
 
 While the use of [GOTO](https://en.wikipedia.org/wiki/Goto) has long gone from most programming languages (see figure \@ref(fig:goto-fig)), the experience of making software in 1981 had a big impact on me and many others like me. [@computersgb]
 
