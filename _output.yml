@@ -12,6 +12,7 @@ bookdown::bs4_book:
 
 # PDF, EPUB and WORD don't work until we can fix
 # https://github.com/dullhunk/cdyf/issues/446
+# miraculously fixed by update
 
 # PDF version at https://cdyf.me/cdyf.pdf
 # bookdown::pdf_book:
