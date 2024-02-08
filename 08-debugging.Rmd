@@ -2,7 +2,7 @@
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *engineer* your future by building something. An obvious place to start is with your CV or résumé, because that's where most people start testing their designs. Just like with code, the hardest part isn't *writing* it but *debugging* and *rewriting* it, REPEATEDLY. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
+It's all very well *designing* your future but now you need to actually *engineer* your future by building something. An obvious place to start is with your CV or résumé, because that's where most people start testing their designs. Just like with code, the hardest part isn't *writing* it but *debugging* and *rewriting* it, REPEATEDLY in a almost infinite loop. How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
 knitr::include_graphics("images/Features not bugs.png")
@@ -63,8 +63,8 @@ While it is true that some employers don't accept CVs or favour online applicati
 * Your CV provides a record for you of relevant things you've done
 * Your CV enables you to get your story straight, *What's your story, coding glory?* see section \@ref(story) [@whatsthestory]
 * Your CV forces you to articulate who you are and what you want, see chapter \@ref(exploring)
-* Some employers will still ask you for one, see section \@ref(robotproof) and figure \@ref(fig:longlive-fig)
-* Your CV helps you script and practice your “lines” for interviews, see chapter \@ref(speaking)
+* Many employers will still ask you for one, see section \@ref(robotproof) and figure \@ref(fig:longlive-fig)
+* Your CV and covering letter (see section \@ref(covering-letters)) helps you script and practice your “lines” for interviews, see chapter \@ref(speaking)
 
 Even if an employer never asks you for your CV, you'll frequently want to use the *content* of your CV in applications and interviews. So this chapter looks at how you can debug your written applications, whatever the mechanism is for submitting them.
 
@@ -206,7 +206,7 @@ knitr::include_graphics("images/alan-turing-linkedin.jpg")
 
 (ref:captioncvheader) Keep the header of your CV simple like Alan's example here. Just your name, email, phone number and any relevant links are all you really need. If you choose to have a public digital profile such as  `linkedin.com/in/alanturing` here, your header is a good place to link to it, see section \@ref(portfolio). You might also include a timestamp like `last updated 1954-06-07` in the footer. Any additional information risks wasting valuable space and distracting your reader from much more important things you need to tell them. [Less is more](https://en.wikipedia.org/wiki/Less_(Unix)).
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections. Technical recruiters at Google (see figure \@ref(fig:lopez-vid)) suggest you have just five sections that cover some or all of the following:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections. Technical recruiters at Google (see figure \@ref(fig:lopez-vid)) suggest you have just five sections that cover some or all of the following:
 
 1. 🎓 `Education`: the formal stuff, see section \@ref(education)
 1. 💰 `Experience`: paid work, see section \@ref(experience)
@@ -380,7 +380,7 @@ knitr::include_graphics("images/Anyone for quidditch.png")
 ```
 (ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say). [@quidditch] However, such coincidences are unlikely so if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills, knowledge or experience you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-The fact that you enjoy `swimming`, `reading`, `football`, `cooking`, `music`, `travel` and `hiking` is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes but there's not much point mentioning them on your CV unless you have, for example:
+The fact that you enjoy `swimming`, `reading`, `football`, `cooking`, `music`, `travel` and `hiking` is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes, they are very common so there's not much point mentioning them on your CV unless you give more detail, for example:
 
 * coached a swimming team
 * trained as a mountain leader
@@ -389,7 +389,7 @@ The fact that you enjoy `swimming`, `reading`, `football`, `cooking`, `music`, `
 * won some awards for your hobby, like a [black belt](https://en.wikipedia.org/wiki/Black_belt_(martial_arts)) or chess championship for example
 * regularly participated in or organised competitive sports matches (for example)
 
-In this case, the *way* you have engaged with your hobbies demonstrates your softer, communication and leadership skills. So in this context, your hobbies *are* worth talking about if you have any space left. However, if they are just hobbies that enable you to amuse yourself, you should probably leave them out as they are unlikely to be of interest to an employer. Sure, they add colour to your CV, but you've probably got more interesting and important things to say about who you are.
+In this case, the *way* you have engaged with your hobbies demonstrates your softer, communication and leadership skills. So in this context, your hobbies *are* worth talking about if you have any space left. However, if they are just hobbies that enable you to amuse yourself, you should probably leave them out as they are unlikely to be a factor in the decision to invite you to interview. Sure, they add colour to your CV, but you've probably got more interesting and important things to say about who you are.
 
 Of course, you *might* get lucky and your interviewer(s) could be intrigued by (or even share) your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say), but you can't rely on it. So, I reckon if you're going to mention hobbies and interests at all then ...
 
