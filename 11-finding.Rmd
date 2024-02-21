@@ -53,7 +53,7 @@ cat('see https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df')
 ```{r firehose-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfirehose)"}
 knitr::include_graphics("images/firehose.png")
 ```
-(ref:captionfirehose) Are you thirsty for job opportunities? If you try to `find_jobs()` without any parameters, you will be overwhelmed by the options. It's hard to drink from a [fire hose](https://en.wikipedia.org/wiki/Fire_hose). Fire hose sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfirehose) Are you thirsty for job opportunities? If you try to `find_jobs()` without any parameters, you will be overwhelmed by the options, like the graduate in this picture. It's hard to drink from a [fire hose](https://en.wikipedia.org/wiki/Fire_hose). Fire hose sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
 Thankfully, we can break it down, but there are many parameters and variables in your search that you need to think about. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned some:

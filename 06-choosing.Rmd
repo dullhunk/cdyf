@@ -15,7 +15,7 @@ Perhaps you're a weird edge case. Perhaps typical graduate destinations such as 
 * using your technical skills more responsibly and ethically to make the world a better place?
 * starting your own business and making money for yourself, rather than other people?
 * finding *hidden* or unadvertised vacancies?
-* joining or founding a startup or a [https://en.wikipedia.org/wiki/Scaleup_company](scaleup company) instead of a large multinational corporation?
+* joining or founding a startup or a [Scale-up company](https://en.wikipedia.org/wiki/Scaleup_company) instead of a large multinational corporation?
 * venturing outside of the private sector?
 
 Broadening your initial job search described in chapter \@ref(finding) will open up more opportunities on your horizon. This chapter will broaden those horizons and get you to think about some of the less obvious options you can choose from.
@@ -86,7 +86,7 @@ Software engineers (or software developers if you prefer) are one of the most po
 
 
 <!--nonprofit, governmental, social -->
-The links above give some basic information on what these different roles entail. 
+The links above give some basic information on what these different roles entail, we'll look at two in particular in more detail in the next two sections, \@ref(rse) and \@ref(freelancing) 
 
 ```{r datasci-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondatascieng)"}
 knitr::include_graphics("images/data-science-vs-data-hell.gif")
@@ -134,9 +134,24 @@ knitr::include_graphics("images/rse-tweet-screenshot.png")
 
 If you're thinking of doing postgraduate study, see chapter \@ref(researching). Commercial experience gained on a summer internship or placement year is valued by *all* employers (not just commercial ones) so doing an internship or placement during your undergraduate degree is valuable wherever you end up, see section \@ref(realworld).
 
+## Freelancing and contract {#freelancing}
+
+It is very common for organisations to employ software engineers and other technical staff as contractors, for short periods of time, rather than as permanent employees. Consequently, there is lots of work available in freelance and contract work. The sites below could help you bid for work available as a self-employed contractor and freelancer
+
+* [toptal.com](https://www.toptal.com/) You need to interview to get invited to join the network
+* [upwork.com](https://www.upwork.com/) Can be quite heavy on fees but lots of leads
+* [freelancer.co.uk](https://www.freelancer.co.uk/) A lot of international competition, but still plenty of work
+* [fiverr.com](https://www.fiverr.com/) another marketplace for freelancers
+
+The key to getting contract and freelance work via these websites is to get good reviews. You could start out by offering low prices and bidding on smaller projects to get a good reputation before starting to focus on larger, higher paid projects. Beware that if you are going to use the sites above you'll be paid a low rate as you'll be competing with freelancers in countries with much lower costs of living. Having said that, any freelance or contract work will look good on your CV if you're competing with students who have no paid experience at all, not even casual work.
+
+To find projects where you can work directly with the client (without going through a broker or agent), a good place to start is attending local meetups. Organisations like technw.uk, meetup.com and eventbrite.co.uk etc are all good places to start looking. See *life as a coin-operated monkey* by [Paul Waring](https://www.linkedin.com/in/paulwaring/) for some insights into the realities of making a living as a freelance or contract engineer. [@waring] 
+
+Other good leads are friends and family, can you develop software or hardware that solves a problem that your friends or family have? You could charge them "mates rates", to get your business off the ground.
+
 ## With great code comes great responsibility {#peterparker}
 
-Computer scientists wield tremendous power in the twenty first century.  We know that:
+Whatever kind of Computer Scientist you decide to be, you might find yourself wielding significant power and responsibility.  We know that:
 
 * With great power comes great responsibility [@spiderman]
 * With great code comes great responsibility [@responsiblecs]
