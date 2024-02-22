@@ -66,7 +66,7 @@ Software engineers (or software developers if you prefer) are one of the most po
 * [Product manager](https://en.wikipedia.org/wiki/Product_manager) or owner, liaises with customers, management and engineers to define what a product does
 * [Project manager](https://en.wikipedia.org/wiki/Project_manager), see [prospects.ac.uk/job-profiles/project-manager](https://www.prospects.ac.uk/job-profiles/project-manager)
 * Founder (or co-founder), starting your own business (startup)
-* Freelance, becoming a self-employed contractor
+* Freelance, becoming a self-employed contractor, see section \@ref(freelancing)
 * [Forensic computer scientist](https://en.wikipedia.org/wiki/Digital_forensics), see [prospects.ac.uk/job-profiles/forensic-computer-analyst](https://www.prospects.ac.uk/job-profiles/forensic-computer-analyst)
 * [Business analyst](https://en.wikipedia.org/wiki/Business_analyst) see [prospects.ac.uk/job-profiles/business-analyst](https://www.prospects.ac.uk/job-profiles/business-analyst)
 * [Game developer](https://en.wikipedia.org/wiki/Video_game_developer) (that's really just another name for software engineering) but see [prospects.ac.uk/job-profiles/game-developer](https://www.prospects.ac.uk/job-profiles/game-developer) and [entering the video games industry as a graduate](https://www.aswift.com/blog/2022/08/graduates-entering-the-games-industry) [@aswift]
@@ -75,7 +75,7 @@ Software engineers (or software developers if you prefer) are one of the most po
 * Technical writer, see section \@ref(techwriting)
 * Technical sales and marketing, see [prospects.ac.uk/job-profiles/technical-sales-engineer](https://www.prospects.ac.uk/job-profiles/technical-sales-engineer)
 * Test engineer (QA) see [prospects.ac.uk/job-profiles/software-tester](https://www.prospects.ac.uk/job-profiles/software-tester)
-* [Research software engineer](https://en.wikipedia.org/wiki/Research_software_engineering), see \@ref(rse) and figure \@ref(fig:rse-fig)
+* [Research software engineer](https://en.wikipedia.org/wiki/Research_software_engineering), see section \@ref(rse) and figure \@ref(fig:rse-fig)
 * Usability engineer, often specialising in [Human–Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI), [User Experience](https://en.wikipedia.org/wiki/User_experience) (UX) or front-end development
 * Security engineer, [penetration testing](https://en.wikipedia.org/wiki/Penetration_test) and other forms of “ethical hacking” see [prospects.ac.uk/job-profiles/penetration-tester](https://www.prospects.ac.uk/job-profiles/penetration-tester)
 * [DevOps](https://en.wikipedia.org/wiki/DevOps), [sysadmin](https://en.wikipedia.org/wiki/System_administrator) and [site reliability engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
@@ -95,7 +95,7 @@ knitr::include_graphics("images/data-science-vs-data-hell.gif")
 (ref:captiondatascieng) Do you want to be a data scientist or a data engineer? Will you scientifically ascend into a heavenly future or descend into an engineering hell-hole of eternal [damnation](https://en.wikipedia.org/wiki/Damnation)? Animation by *[The Simpsons](https://en.wikipedia.org/wiki/The_Simpsons)* adapted by an anonymous uncredited source on the [interwebs](https://en.wiktionary.org/wiki/interweb). [@thesimpsons]
 
 
-## Research software engineering {#rse}
+### Research software engineering {#rse}
 
 There are plenty of roles in computing working in research, either in computer science, or working alongside natural scientists, such as physicists at [home.cern](https://home.cern/) or laboratory scientists working at the bench. For example, there are [lots roles in research software engineering](https://dx.doi.org/10.1038/d41586-022-01516-2) (RSE), using code to facilitate better scientific research, see the *Society of Research Software Engineering*: [society-rse.org](https://society-rse.org/). [@rses; @researchit] 
 
@@ -134,18 +134,28 @@ knitr::include_graphics("images/rse-tweet-screenshot.png")
 
 If you're thinking of doing postgraduate study, see chapter \@ref(researching). Commercial experience gained on a summer internship or placement year is valued by *all* employers (not just commercial ones) so doing an internship or placement during your undergraduate degree is valuable wherever you end up, see section \@ref(realworld).
 
-## Freelancing and contract {#freelancing}
+### Freelancing and contract {#freelancing}
 
-It is very common for organisations to employ software engineers and other technical staff as contractors, for short periods of time, rather than as permanent employees. Consequently, there is lots of work available in freelance and contract work. The sites below could help you bid for work available as a self-employed contractor and freelancer
+It is very common for organisations to employ software engineers and other technical staff as contractors, for fixed periods of time (weeks or months), rather than as permanent employees (typically years). Consequently, there is lots of work available in freelance and contract work. The sites below could help you bid for work available as a self-employed contractor and freelancer
 
 * [toptal.com](https://www.toptal.com/) You need to interview to get invited to join the network
 * [upwork.com](https://www.upwork.com/) Can be quite heavy on fees but lots of leads
 * [freelancer.co.uk](https://www.freelancer.co.uk/) A lot of international competition, but still plenty of work
 * [fiverr.com](https://www.fiverr.com/) another marketplace for freelancers
 
-The key to getting contract and freelance work via these websites is to get good reviews. You could start out by offering low prices and bidding on smaller projects to get a good reputation before starting to focus on larger, higher paid projects. Beware that if you are going to use the sites above you'll be paid a low rate as you'll be competing with freelancers in countries with much lower costs of living. Having said that, any freelance or contract work will look good on your CV if you're competing with students who have no paid experience at all, not even casual work.
+The key to getting contract and freelance work via these websites is to get good reviews. You could start out by offering low prices and bidding on smaller projects to get a good reputation before starting to focus on larger, higher paid projects. Beware that if you are going to use the sites above you'll be paid a low rate as you'll be competing with freelancers in countries with much lower costs of living. Having said that, any freelance or contract work will look good on your CV if you're competing with students who have no paid experience at all, not even casual work. Some pros and cons of freelancing are shown in the table below.
 
-To find projects where you can work directly with the client (without going through a broker or agent), a good place to start is attending local meetups. Organisations like technw.uk, meetup.com and eventbrite.co.uk etc are all good places to start looking. See *life as a coin-operated monkey* by [Paul Waring](https://www.linkedin.com/in/paulwaring/) for some insights into the realities of making a living as a freelance or contract engineer. [@waring] 
+```{r freetable, echo = FALSE}
+free_table <- tibble::tribble(
+    ~ "Pros",      ~ "Cons",
+  "Can have greater control over work",        "Fewer employment rights, no pension, no annual leave",
+  "Can have a variety of clients and work", "Limited cover for sickness, emergencies and redundancies ",
+  "Can facilitiatemore flexible working conditions, hours, workload and location "    , "renting and buying property can be more challenging for self-employed people",
+)
+knitr::kable(free_table, caption = "Some pros and cons of freelancing, adapted from a talk by [Paul Waring](https://www.linkedin.com/in/paulwaring/). [@waring] ", booktabs = TRUE)
+```
+
+To find projects where you can work directly with the client (without going through a broker or agent), a good place to start is attending local meetups. Organisations like technw.uk, meetup.com and eventbrite.co.uk etc are all good places to start looking.
 
 Other good leads are friends and family, can you develop software or hardware that solves a problem that your friends or family have? You could charge them "mates rates", to get your business off the ground.
 
