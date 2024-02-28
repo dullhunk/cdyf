@@ -957,10 +957,6 @@ So now that we've dispensed with the formalities, we can move on to the next par
 
 <!-- rmarkdown::render_site(output_format = 'bookdown::bs4_book', encoding = 'UTF-8') -->
 
-<!-- 2022-03-16 word count data -->
-<!-- word says 59, 039 words-->
+<!--  word count data -->
+<!--moved to https://github.com/dullhunk/cdyf/issues/701 -->
 
-<!-- 2021-05-18 word count data -->
-<!--WORDS ps2ascii cdyf.pdf | wc -w 59,672 Word says 37,453-->
-<!--LINES ps2ascii cdyf.pdf | wc -l 4,292  Word says 3,796 -->
-<!--CHARS ps2ascii cdyf.pdf | wc -c 204,019,095 Word says 202,673 -->

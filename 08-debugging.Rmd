@@ -158,7 +158,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 ## Structure your CV and Résumé {#structure}
 
-How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short video shown in figure \@ref(fig:lopez-vid).
+How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short videos shown in figure \@ref(fig:lopez-vid) and \@ref(fig:black-vid).
 
 ```{r lopez-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
@@ -167,7 +167,7 @@ knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
 (ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) (now at TikTok) outline some tips and advice for creating your résumé. You can also watch the 8 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE). [@youtube-google-recruiters]
 
 <!-- this doesn't really fit here in structure, is there somewhere better? -->
-As Jonathan Black, director of the careers service at the University of Oxford points out in figure \@ref(fig:black-vid), there are three key things you want to demonstrate in your CV:
+Besides being structured well, as described in \@ref(fig:lopez-vid) and later in section \@ref(body), your CV also needs to persuade the reader that you have some fundamental attributes. [Jonathan Black](https://www.linkedin.com/in/jonathanblack/), director of the careers service at the University of Oxford and columnist [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan) points out in figure \@ref(fig:black-vid), there are three key things you want to demonstrate in your CV:
 
 1. that you can take responsibility
 1. that you achieve things
@@ -182,7 +182,7 @@ knitr::include_url('https://www.youtube.com/embed/yjdvCHWVtE4')
 
 (ref:captionjonathanblack) [Jonathan Black](https://www.linkedin.com/in/jonathanblack/), head of the careers service at the University of Oxford,  explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. You can also watch the 11 minute video embedded in this figure at [youtu.be/yjdvCHWVtE4](https://youtu.be/yjdvCHWVtE4). [@topnotchcv]
 
-Quantifying and providing evidence for any claims you make will create a much more convincing CV. Numbers can transform meaningless assertions described in figure \@ref(fig:black-vid) into meaningful evidence. So for example:
+One of the best ways of demonstrating and convincing your reader that you have the skills and attributes mentioned in figure \@ref(fig:black-vid) is by explicitly and deliberately **QUANTIFYING** them where you can. Quantifying and providing evidence for any claims you make will create a much more convincing CV. Numbers can transform meaningless assertions described in figure \@ref(fig:black-vid) into meaningful evidence. So for example:
 
 ```md
 * Achieved excellent results
@@ -552,7 +552,7 @@ followed by:
 
 The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
 
-### Your links {#links}
+### Your links and LinkedIn {#links}
 
 Adding web links (hyperlinks) to your CV can add important Context, Action, Results and Evidence  (`C.A.R.E.`) to your stories, see \@ref(care). Links can strengthen your CV without using up lots of valuable space or adding too many words. An example using [LinkedIn.com](https://www.linkedin.com/) is shown in figure \@ref(fig:lovelace-fig).
 

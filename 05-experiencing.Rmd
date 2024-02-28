@@ -49,7 +49,7 @@ You are *much more* than your grades, because your education is only a part of w
 
 * 💰 `Experience` paid work, see section \@ref(experience)
 * 💪 `Projects` of all kinds, see section \@ref(projects)
-* 🏆 `Leadership and awards` if you have or can demonstrate any \@ref(prizes)
+* 🏆 `Leadership and awards` if you have or can demonstrate any, see section \@ref(prizes)
 
 ```{r experience-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionexperience)"}
 knitr::include_graphics("images/experience.jpeg")
@@ -175,19 +175,13 @@ Other ways to get a big name on your CV include joining a big name competition o
 * Facebook has hackathons, see [facebook.com/hackathon](https://en-gb.facebook.com/hackathon) and [developers.facebook.com](https://developers.facebook.com/)
 * Google hosts several events including:
     + Code Jam, HashCode and Kick Start [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/)
-    + Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/), see figure \@ref(fig:gsoc-fig) [@gsoc]
+    + Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/), see section \@ref(gsoc)
     + Developer Student Club Leads [developers.google.com/community/gdsc/leads](https://developers.google.com/community/gdsc/leads)
     + Inside Look [buildyourfuture.withgoogle.com/programs/inside-look](https://buildyourfuture.withgoogle.com/programs/inside-look/)
 * [Outreachy.org](https://www.outreachy.org/) provides internships for people subject to [systemic bias](https://en.wikipedia.org/wiki/Systemic_bias) and underrepresentation in the technical industry where they are living, and is backed by big employers.
 * IBM hosts the annual Call for Code [developer.ibm.com/callforcode](https://developer.ibm.com/callforcode) unlike other competitions, these have a [corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility) (CSR) themes for the benefit of society at large
 * Microsoft hosts the Imagine Cup [imaginecup.microsoft.com](https://imaginecup.microsoft.com/) and also has hands on learning paths at [learn.microsoft.com](https://learn.microsoft.com/)
 * Besides these kinds of dedicated events organised by big names, there are many competitions which are sponsored by them, see section \@ref(tinkering)
-
-```{r gsoc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
-knitr::include_graphics("images/gsoc.jpeg")
-```
-(ref:captiongsoc) Large well known organisations like Google have a range of schemes and competitions that allow you to get their name on your CV, without working for them directly as an employee. Google Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) is just one example, where students get paid to write [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS). [@gsoc] 🌞
-
 
 Big names can look good on your CV, but they are not the only way to make your CV stand out.
 
@@ -236,12 +230,90 @@ If you're looking for a project to get stuck into, here are [Diomidis Spinellis]
 
 The guidelines for prospective contributors to Google's Summer of Code (GSoC) at [google.github.io/gsocguides/student](https://google.github.io/gsocguides/student/) go into more depth about how you can get involved in open source software development. Many of these general guidelines apply both inside (paid) and outside (unpaid) of GSoC. [@gsoc]
 
+### Google Summer of Code {#gsoc}
+
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students and beginners in open source software development see figure \@ref(fig:gsoc-fig) [@gsoc]. As of 2024, it in its twentieth year, applications open around March each year with a deadline in April. In 2024, contributor applications opened on Monday March 18th with a deadline of Tuesday, April 2, 2024 18:00. [@stephaniesays] 
+
+```{r gsoc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
+knitr::include_graphics("images/gsoc.jpeg")
+```
+(ref:captiongsoc) Google Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) si fo, where students get paid to write [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS). [@gsoc] 🌞
+
+In 2024, there are 195 summmer projects to choose from with experienced mentors from a wide range of organisations including:
+
+* [apache.org](https://apache.org/): software for the public good
+* [appinventor.mit.edu](https://appinventor.mit.edu/): allows everyone (including children) to build fully functional apps for Android phones, iPhones and Android/iOS tablets
+* [archive.org](https://archive.org/): The Internet Archive
+* [blender.org](https://www.blender.org/): 3D Computer graphics
+* [chromium.org](https://www.chromium.org/):  an open-source browser
+* [djangoproject.com](https://www.djangoproject.com/): Python web framework
+* [ga4gh.org](https://www.ga4gh.org/): The  Global Alliance for Genomics and Health (GA4GH) is an international community dedicated to advancing human health through genomic data
+* [gcc.gnu.org](http://gcc.gnu.org/): GNU Compiler Collection (GCC)
+* [gimp.org](https://www.gimp.org/): GNU Image Manipulation Program
+* [haskell.org](https://www.haskell.org/): An advanced, purely functional programming language
+* [hepsoftwarefoundation.org](https://hepsoftwarefoundation.org/): High Energy Physics (HEP) software 
+* [inkscape.org](https://inkscape.org): a free and open source vector graphics editor 
+* [jitsi.org](https://jitsi.org/): secure, flexible and
+completely free video conferencing
+* [julialang.org](https://julialang.org/): bringing usable, scalable technical computing to a greater audience
+* [kotlinlang.org](https://kotlinlang.org/): a modern programming language designed to make developers happier
+* [linuxfoundation.org](https://www.linuxfoundation.org/): provides a neutral, trusted hub for developers and organizations
+* [llvm.org](https://llvm.org/): a collection of modular and reusable compiler and toolchain technologies
+* [metabrainz.org](https://metabrainz.org): creating and maintaining an open encyclopedia of music and arts metadata
+* [mlpack.org](https://mlpack.org/): fast, header-only C++ machine learning library
+* [openclimatefix.org](https://openclimatefix.org/): using computers
+to reduce Carbon Dioxide emissions
+* [opencv.org](https://opencv.org/): an open source computer vision (cv) and machine learning software library
+* [postman.com](https://www.postman.com): an API platform for building and using APIs
+* [python.org](https://www.python.org): advancing open source technology related to the Python programming language
+* [rust-lang.org](https://www.rust-lang.org/): a language empowering everyone
+to build reliable and efficient software
+* [www.sanger.ac.uk](https://www.sanger.ac.uk/): genomic research
+* [submitty.org](https://submitty.org/): course management, assignment submission, exam and grading system
+* [sugarlabs.org](https://www.sugarlabs.org/): promoting collaborative learning
+* [swift.org](https://www.swift.org/): general-purpose programming language
+* [videolan.org](http://www.videolan.org/): cross-platform multimedia player 
+* [wikimedia.org](https://www.wikimedia.org/): bringing free educational content to the world
+* and [many others](https://summerofcode.withgoogle.com/programs/2024/organizations) [@stephaniesays]
+
+Applying for Google Summer of Code isn't like applying for a regular summer internship, you don't just send your CV and covering letter off and wait to be invited to an interview, you have to be more proactive. GSoC advises [contributors to follow eight basic steps](https://developers.google.com/open-source/gsoc/help/student-advice):
+
+1. Read The Friendly Manual ([RTFM](https://en.wikipedia.org/wiki/RTFM)), there's lots of it but it is well-written and self-explantory. See [summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/)
+1. Write down a list of the skills and knowledge you have. What languages do you know? What tools are you familiar with?
+1. Look through the mentoring organisations on the program site
+1. Browse the organisations site and repositories. Look at the code and the issue tracker, what are the bugs and feature requests? 
+1. Narrow your list down to one or two organisations, then talk to them via whatever chat channel they are using, see [making first contact](https://google.github.io/gsocguides/student/making-first-contact) 
+1. Write your proposal, go for quality over quantity. One or two proposals max
+1. Verify your application meets the requirements, many applicants don't do this
+1. Don't leave it to the last minute, start talking to the organisation long before the deadline.
+
+If you're wondering [if you're good enough for GSoC](https://google.github.io/gsocguides/student/am-i-good-enough), mentors are looking for 
+
+1. soft skills *and* 
+1. technical skills
+
+The softer people skills include: 
+
+* You find out where to go for help with technical questions
+* You take and respond well to feedback
+* You can work independently 
+* You know when to ask questions
+* You can communicate effectively 
+
+... and hard technical skills include:
+
+* You can install and configure software packages on your own
+* You have access to a functioning computer
+* You’ve got experience using the programming language and operating system of the project
+
+If that sounds like you, it is worth applying for GSoC.
+
 ### Voluntary experience {#volunteering}
 
-Experience as a section on your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a bigger team, taken responsibility for something or tried to make the world a better place somehow. These include:
+Experience as a section on your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a team, taken responsibility for something or tried to make the world a better place somehow. These include:
 
 * Volunteering: Doing voluntary work is a good way to pick up new skills
-* Being involved in societies: e.g. taking responsibility for things in a society
+* Being involved in societies: e.g. taking responsibility for things in an organisation
 * Getting involved in a community, either physical or online
 
 ### Hacking & tinkering experience {#tinkering}
@@ -270,6 +342,7 @@ Attending [Hackathons](https://en.wikipedia.org/wiki/Hackathon) is another way t
 * [devpost.com/hackathons](https://devpost.com/hackathons)
 * [mlh.io](https://mlh.io/) (Major League Hacking)
 * [hackerearth.com](https://www.hackerearth.com/) <!--more like hackerrank than an event?-->
+* [hackupc.com](https://hackupc.com/)
 * [hackzurich.com](https://hackzurich.com/)
 
 Alongside these competitions, there are other hackathon-type events which are organised by a single employer, see section \@ref(bignames). There are also opportunities to build your technical experience by practicing coding interviews online such as hackerrank and leetcode, described in section \@ref(codinginterview).
