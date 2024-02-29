@@ -142,16 +142,17 @@ Although valuable, your experience of paid employment isn't the only kind of exp
 
 Some of the experience outlined in table \@ref(tab:jobterms) was probably what you were already thinking of as experience, however there are four other important sources of experience that students often overlook:
 
-1. **Voluntary work**: Any kind of work where you've given your time and labour to a community. That could be non-technical (working for a charity) or technical, such as contributing to open-source software, see section \@ref(opensource) and figure \@ref(fig:volunthero-fig)
+1. **Voluntary work**: Any kind of work where you've given your time and labour to a community. That could be non-technical (working for a charity) or technical, such as contributing to open-source software, see sections \@ref(opensource) and \@ref(volunteering)
 1. **Casual work**: Working in hospitality or retail (etc) is often overlooked by students as an important source of relevant experience. It doesn't have to be technical to be relevant to employers, see section \@ref(casual)
 1. **Tinkering**: having passion projects as a playground to help you learn new skills and knowledge, either solo or collaboratively see section \@ref(tinkering). For more competitive employers, passion projects are likely to be more important. To get into ultra-competitive industries like the [video game industry](https://en.wikipedia.org/wiki/Video_game_industry), candidates are often expected to have a portfolio of one or two games developed *outside* of University, and these will be more interesting to employers than what (or where) you've studied [@aswift]
 1. **Student societies** Your students' union will have hundreds of official societies you can get involved in, and they'll be plenty of unofficial fringe communities too. As well as helping you develop new or existing interests, these societies give you an opportunity to serve a particular community of interest. Many societies seek members to take on positions of responsibility, above and beyond merely participating in their events. They provide fantastic opportunities to build new skills in a safe and supportive environment.
 
-```{r volunthero-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionvolunthero)"}
-knitr::include_graphics("images/volunthero.jpeg")
+```{r areyouexperienced-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionareyouexperienced)"}
+knitr::include_graphics("images/are-you-experienced.jpg")
 ```
 
-(ref:captionvolunthero) [Volunteering](https://en.wikipedia.org/wiki/Volunteering) is a great source of experience that employers value. That could mean volunteering for charitable causes, taking responsibility in a student society or getting involved in open source projects. Picture of volunteers cleaning up after Hurricane Sandy in 2012 by Jim Henderson via Wikimedia Commons [w.wiki/3Z96](https://w.wiki/3Z96) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionareyouexperienced) [Are You Experienced](https://en.wikipedia.org/wiki/Are_You_Experienced)? [@hendrix] Why is experience valuable? What counts as experience? This chapter outlines some of the many ways to identify the experience you arelady have and add some more to your CV. Fair use image of The Jimi Hendrix Experience via Wikimedia Commons adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238).
+
 
 Before we discuss these experiences, lets look at some of the more conventional places for getting experience.
 
@@ -237,7 +238,7 @@ Google Summer of Code (GSoC) is a global, online program focused on bringing new
 ```{r gsoc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
 knitr::include_graphics("images/gsoc.jpeg")
 ```
-(ref:captiongsoc) Google Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) si fo, where students get paid to write [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS). [@gsoc] 🌞
+(ref:captiongsoc) Google Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) has been running annually since 2004. Students and other beginners get paid to write [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) by fixing bugs and adding features to a range of different software projects. [@gsoc] 🌞
 
 In 2024, there are 195 summmer projects to choose from with experienced mentors from a wide range of organisations including:
 
@@ -310,11 +311,18 @@ If that sounds like you, it is worth applying for GSoC.
 
 ### Voluntary experience {#volunteering}
 
-Experience as a section on your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a team, taken responsibility for something or tried to make the world a better place somehow. These include:
+Experience as a section on your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a team, taken responsibility for something or tried to make the world a better place somehow, see figure \@ref(fig:volunthero-fig). These include:
 
 * Volunteering: Doing voluntary work is a good way to pick up new skills
 * Being involved in societies: e.g. taking responsibility for things in an organisation
 * Getting involved in a community, either physical or online
+
+```{r volunthero-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionvolunthero)"}
+knitr::include_graphics("images/volunthero.jpeg")
+```
+
+(ref:captionvolunthero) [Volunteering](https://en.wikipedia.org/wiki/Volunteering) is a great source of experience that employers value. That could mean volunteering for charitable causes, taking responsibility in a student society or getting involved in open source projects. Picture of volunteers cleaning up after Hurricane Sandy in 2012 by Jim Henderson via Wikimedia Commons [w.wiki/3Z96](https://w.wiki/3Z96) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238).
+
 
 ### Hacking & tinkering experience {#tinkering}
 Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as passion projects or in collaboration with others. For example, why not build an experimental:

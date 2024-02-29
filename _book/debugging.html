@@ -5,19 +5,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students</title>
-<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 28 February, 2024">
+<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 29 February, 2024">
 <meta name="description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="generator" content="bookdown 0.37 with bs4_book()">
 <meta property="og:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta property="og:type" content="book">
 <meta property="og:url" content="https://www.cdyf.me/debugging">
-<meta property="og:image" content="https://www.cdyf.me/images/Features%20not%20bugs.png">
+<meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
 <meta property="og:description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta name="twitter:site" content="@dullhunk">
 <meta name="twitter:description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
-<meta name="twitter:image" content="https://www.cdyf.me/images/Features%20not%20bugs.png">
+<meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.6.1/transition.js"></script><script src="libs/bs3compat-0.6.1/tabs.js"></script><script src="libs/bs3compat-0.6.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -334,13 +334,14 @@ Figure 8.6: Recruiters at Google, <a href="https://www.linkedin.com/in/jeremy-on
 </div>
 
 <!-- this doesn't really fit here in structure, is there somewhere better? -->
-<p>Besides being structured well, as described in <a href="debugging#fig:lopez-vid">8.6</a> and later in section <a href="debugging#body">8.6.2</a>, your CV also needs to persuade the reader that you have some fundamental attributes. <a href="https://www.linkedin.com/in/jonathanblack/">Jonathan Black</a>, director of the careers service at the University of Oxford and columnist <a href="https://www.ft.com/dear-jonathan">ft.com/dear-jonathan</a> points out in figure <a href="debugging#fig:black-vid">8.7</a>, there are three key things you want to demonstrate in your CV:</p>
+<p>Besides being structured well, as described in figure <a href="debugging#fig:lopez-vid">8.6</a> and later in section <a href="debugging#body">8.6.2</a>, your CV also needs to persuade the reader that you have some fundamental attributes. <a href="https://www.linkedin.com/in/jonathanblack/">Jonathan Black</a>, director of the careers service at the University of Oxford (and working life columnist <a href="https://www.ft.com/dear-jonathan">ft.com/dear-jonathan</a>) points out in figure <a href="debugging#fig:black-vid">8.7</a>, there are three key things you want to demonstrate in your CV:</p>
 <ol style="list-style-type: decimal">
 <li>that you can take responsibility</li>
 <li>that you achieve things</li>
-<li>that you are good company (or at least a valued team member)</li>
+<li>that you are good company or at least a valued team member<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;not all valued team members are good company 😉&lt;/p&gt;"><sup>16</sup></a>
+</li>
 </ol>
-<p>How will you demonstrate and provide evidence of each of these traits?</p>
+<p>How will you demonstrate you have each of these traits? Quantifying and evidencing your claims will make them much more convincing, see figure <a href="debugging#fig:black-vid">8.7</a>.</p>
 <!--Remember that no applicant meets all the criteria, so 80% means you're doing really well [@topnotchcv]-->
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:black-vid"></span>
@@ -351,11 +352,15 @@ Figure 8.7: <a href="https://www.linkedin.com/in/jonathanblack/">Jonathan Black<
 </p>
 </div>
 
-<p>One of the best ways of demonstrating and convincing your reader that you have the skills and attributes mentioned in figure <a href="debugging#fig:black-vid">8.7</a> is by explicitly and deliberately <strong>QUANTIFYING</strong> them where you can. Quantifying and providing evidence for any claims you make will create a much more convincing CV. Numbers can transform meaningless assertions described in figure <a href="debugging#fig:black-vid">8.7</a> into meaningful evidence. So for example:</p>
+<p>One of the best ways of demonstrating and convincing your reader that you have the skills and attributes mentioned in figure <a href="debugging#fig:black-vid">8.7</a> is by explicitly and deliberately <strong>QUANTIFYING</strong> them where you can. Quantifying and providing evidence for any claims you make will make your CV a much more convincing read. Giving the numbers is a simple way to transform meaningless assertions described in figure <a href="debugging#fig:black-vid">8.7</a> into meaningful evidence. So for example:</p>
 <div class="sourceCode" id="cb13"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb13-1"><a href="debugging#cb13-1" tabindex="-1"></a><span class="ss">* </span>Achieved excellent results</span></code></pre></div>
 <p>…is a bit vague, what were the results exactly, can you measure them somehow? Or at least describe them?</p>
 <div class="sourceCode" id="cb14"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb14-1"><a href="debugging#cb14-1" tabindex="-1"></a><span class="ss">* </span>Worked in a team</span></code></pre></div>
-<p>So you worked in a team? <code>Worked</code> is vague. What was your role and contribution exactly? How long did the project last? How many people were on your team? What were the results of your actions? What’s the story, coding glory? <span class="citation">(<a href="reading#ref-whatsthestory">Gallagher 1995</a>)</span></p>
+<p>So you worked in a team? <code>Worked</code> is vague. What was your role and contribution exactly? How long did the project last? How many people were on your team? What were the results of your actions?</p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb15-1"><a href="debugging#cb15-1" tabindex="-1"></a><span class="ss">* </span>Worked in a team of six for four months to deliver a music app ... </span></code></pre></div>
+<p>or just drop the boring <code>worked</code> altogether and pick a more interesting verb like:</p>
+<div class="sourceCode" id="cb16"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb16-1"><a href="debugging#cb16-1" tabindex="-1"></a><span class="ss">* </span>Prototyped a music application in a team of six for four months ... </span></code></pre></div>
+<p>The numbers (six people, four months etc) and other evidence are a key part of the story you want to tell potential employers. What’s your story, coding glory? <span class="citation">(<a href="reading#ref-whatsthestory">Gallagher 1995</a>)</span></p>
 <div id="header" class="section level3" number="8.6.1">
 <h3>
 <span class="header-section-number">8.6.1</span> Your header<a class="anchor" aria-label="anchor" href="#header"><i class="fas fa-link"></i></a>
@@ -368,13 +373,13 @@ Figure 8.8: Keep the header of your CV simple like Alan’s example here. Just y
 </p>
 </div>
 
-<p>Your header doesn’t need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should &lt;em&gt;not&lt;/em&gt; be a factor in an employers decision to interview you, so leave it out&lt;/p&gt;"><sup>16</sup></a> and home address aren’t relevant. You don’t need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they’ll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:</p>
+<p>Your header doesn’t need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should &lt;em&gt;not&lt;/em&gt; be a factor in an employers decision to interview you, so leave it out&lt;/p&gt;"><sup>17</sup></a> and home address aren’t relevant. You don’t need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they’ll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:</p>
 </div>
 <div id="body" class="section level3" number="8.6.2">
 <h3>
 <span class="header-section-number">8.6.2</span> Your body<a class="anchor" aria-label="anchor" href="#body"><i class="fas fa-link"></i></a>
 </h3>
-<p>Technical recruiters at Google and TikTok (see figure <a href="debugging#fig:lopez-vid">8.6</a>) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used carefully. Your five sections should cover some or all of the following:</p>
+<p>Technical recruiters at Google and TikTok (see figure <a href="debugging#fig:lopez-vid">8.6</a>) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used sparingly, especially on a one page résumé. Your five sections should cover some or all of the following:</p>
 <ol style="list-style-type: decimal">
 <li>🎓 <code>EDUCATION</code>: the formal stuff, see section <a href="debugging#education">8.6.3</a>
 </li>
@@ -395,7 +400,7 @@ Figure 8.8: Keep the header of your CV simple like Alan’s example here. Just y
 </h3>
 <p>Unless you have a <em>significant</em> amount of experience, the <code>Education</code> section of your CV should be the first “real” section, after the header. Your education section is important, see figure <a href="debugging#fig:blair-fig">8.9</a>, so your description of it needs to strike a balance between:</p>
 <ul>
-<li>Describing in enough detail what you’ve studied and any <code>Projects</code><a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;If you put these in a &lt;code&gt;Projects&lt;/code&gt; section all of their own (see section &lt;a href="debugging#projects"&gt;8.6.5&lt;/a&gt;), make sure you clearly distinguish between extra-curricular projects you’ve done outside of your formal education vs compulsory projects you’ve &lt;em&gt;had&lt;/em&gt; to do as part of your degree&lt;/p&gt;'><sup>17</sup></a> you’ve completed at University as part of your <em>formal</em> education</li>
+<li>Describing in enough detail what you’ve studied and any <code>Projects</code><a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;If you put these in a &lt;code&gt;Projects&lt;/code&gt; section all of their own (see section &lt;a href="debugging#projects"&gt;8.6.5&lt;/a&gt;), make sure you clearly distinguish between extra-curricular projects you’ve done outside of your formal education vs compulsory projects you’ve &lt;em&gt;had&lt;/em&gt; to do as part of your degree&lt;/p&gt;'><sup>18</sup></a> you’ve completed at University as part of your <em>formal</em> education</li>
 <li>Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to your readers</li>
 </ul>
 <div class="figure" style="text-align: center">
@@ -410,7 +415,7 @@ Figure 8.9: <a href="https://en.wikipedia.org/wiki/Tony_Blair">Tony Blair</a>’
 <li>say <em>more</em> than <a href="Penelope_Tester.pdf">Pen Tester</a> and <a href="Rick_Urshion.pdf">Rick Urshion</a>, who haven’t said enough about their University education</li>
 <li>say <em>less</em> than <a href="Mike_Rokernel.pdf">Mike Rokernel</a>, who has given <em>way</em> too much information on his degree.</li>
 </ul>
-<p>You don’t need to name every single module, course code with a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: <code>71.587%</code><a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;Do you &lt;em&gt;really&lt;/em&gt; think academic performance can be measured that precisely?&lt;/p&gt;"><sup>18</sup></a>. Two significant figures will do just fine: <code>72% (first class)</code>. You might like to pick out relevant modules, or the ones you enjoyed most. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you’ll need to tailor your description to the role and be brief. On a one page Résumé, you’ll probably only have two or three lines to summarise some of the modules you’ve studied at University. 🎓</p>
+<p>You don’t need to name every single module, course code with a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: <code>71.587%</code><a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;Do you &lt;em&gt;really&lt;/em&gt; think academic performance can be measured that precisely?&lt;/p&gt;"><sup>19</sup></a>. Two significant figures will do just fine: <code>72% (first class)</code>. You might like to pick out relevant modules, or the ones you enjoyed most. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you’ll need to tailor your description to the role and be brief. On a one page Résumé, you’ll probably only have two or three lines to summarise some of the modules you’ve studied at University. 🎓</p>
 <p>You should include details of your high school education, <em>after</em> University so that it is in reverse chronological order. Start with last set of exams you sat before University, bearing in mind that <em>some</em> employers screen job candidates by UCAS Tariff points. <span class="citation">(<a href="reading#ref-ucas">Administrator 2023</a>; <a href="reading#ref-pwcscraps">Accountant 2015</a>)</span> How far you go back will depend on how much space you have available, especially on a one pager. It is debateable how far back you should go, exams that you sat aged ~16 (like GCSE’s) aren’t always relevant now that you’re older. <span class="citation">(<a href="reading#ref-gcses">Advisor 2020</a>)</span></p>
 </div>
 <div id="experience" class="section level3" number="8.6.4">
@@ -461,11 +466,11 @@ Figure 8.11: Physicist <a href="https://en.wikipedia.org/wiki/Richard_Feynman">R
 </div>
 
 <p>Any longer projects you’ve done at University are worth mentioning. Your projects are important because they differentiate you from everyone else in your year group. Try to be <em>more</em> descriptive than this:</p>
-<div class="sourceCode" id="cb15"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb15-1"><a href="debugging#cb15-1" tabindex="-1"></a><span class="ss">* </span>First year team project</span></code></pre></div>
+<div class="sourceCode" id="cb17"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb17-1"><a href="debugging#cb17-1" tabindex="-1"></a><span class="ss">* </span>First year team project</span></code></pre></div>
 <p>or perhaps</p>
-<div class="sourceCode" id="cb16"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb16-1"><a href="debugging#cb16-1" tabindex="-1"></a><span class="ss">* </span>Second year team project</span></code></pre></div>
+<div class="sourceCode" id="cb18"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb18-1"><a href="debugging#cb18-1" tabindex="-1"></a><span class="ss">* </span>Second year team project</span></code></pre></div>
 <p>or even just</p>
-<div class="sourceCode" id="cb17"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb17-1"><a href="debugging#cb17-1" tabindex="-1"></a><span class="ss">* </span>Final year project</span></code></pre></div>
+<div class="sourceCode" id="cb19"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb19-1"><a href="debugging#cb19-1" tabindex="-1"></a><span class="ss">* </span>Final year project</span></code></pre></div>
 <p>By themselves, those project names are pretty opaque. They are OK for giving the <em>context</em> of your story but don’t tell the reader anything about what <em>you</em> did or what the <em>software/hardware/project</em> did. What was the story (the context, action, result and evidence (<code>CARE</code>) we described in section <a href="debugging#care">8.6.8</a>) of those projects?</p>
 <ul>
 <li>How many people were in your team?</li>
@@ -485,17 +490,17 @@ Figure 8.12: Have you ever had a project that didn’t go very well? Did it all 
 </div>
 
 <p>It’s often better to describe what YOU did before you describe what the software, hardware or project did. Your reader is much more likely to be interested in the former than the latter. Let’s imagine you’ve developed a piece of software called <code>WidgetWasher</code>. You might describe it like this:</p>
-<div class="sourceCode" id="cb18"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb18-1"><a href="debugging#cb18-1" tabindex="-1"></a><span class="ss">* </span>WidgetWasher is a web service that washes widgets</span>
-<span id="cb18-2"><a href="debugging#cb18-2" tabindex="-1"></a><span class="ss">* </span>It uses an HTTP API and secret keys</span>
-<span id="cb18-3"><a href="debugging#cb18-3" tabindex="-1"></a><span class="ss">* </span>Tested WidgetWasher on a range of different operating systems</span>
-<span id="cb18-4"><a href="debugging#cb18-4" tabindex="-1"></a><span class="ss">* </span>Collaborated with one other contributor over two days</span>
-<span id="cb18-5"><a href="debugging#cb18-5" tabindex="-1"></a><span class="ss">* </span>Designed and implemented an API</span></code></pre></div>
+<div class="sourceCode" id="cb20"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb20-1"><a href="debugging#cb20-1" tabindex="-1"></a><span class="ss">* </span>WidgetWasher is a web service that washes widgets</span>
+<span id="cb20-2"><a href="debugging#cb20-2" tabindex="-1"></a><span class="ss">* </span>It uses an HTTP API and secret keys</span>
+<span id="cb20-3"><a href="debugging#cb20-3" tabindex="-1"></a><span class="ss">* </span>Tested WidgetWasher on a range of different operating systems</span>
+<span id="cb20-4"><a href="debugging#cb20-4" tabindex="-1"></a><span class="ss">* </span>Collaborated with one other contributor over two days</span>
+<span id="cb20-5"><a href="debugging#cb20-5" tabindex="-1"></a><span class="ss">* </span>Designed and implemented an API</span></code></pre></div>
 <p>Instead, you could reverse ↑↓ the order to change the emphasis like this:</p>
-<div class="sourceCode" id="cb19"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb19-1"><a href="debugging#cb19-1" tabindex="-1"></a><span class="ss">* </span>Designed and implemented an API ↑</span>
-<span id="cb19-2"><a href="debugging#cb19-2" tabindex="-1"></a><span class="ss">* </span>Collaborated with one other contributor over two days ↑</span>
-<span id="cb19-3"><a href="debugging#cb19-3" tabindex="-1"></a><span class="ss">* </span>Tested WidgetWasher on a range of different operating systems</span>
-<span id="cb19-4"><a href="debugging#cb19-4" tabindex="-1"></a><span class="ss">* </span>Utilised an HTTP API and secret keys ↓</span>
-<span id="cb19-5"><a href="debugging#cb19-5" tabindex="-1"></a><span class="ss">* </span>Created a web service that washes widgets called WidgetWasher ↓</span></code></pre></div>
+<div class="sourceCode" id="cb21"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb21-1"><a href="debugging#cb21-1" tabindex="-1"></a><span class="ss">* </span>Designed and implemented an API ↑</span>
+<span id="cb21-2"><a href="debugging#cb21-2" tabindex="-1"></a><span class="ss">* </span>Collaborated with one other contributor over two days ↑</span>
+<span id="cb21-3"><a href="debugging#cb21-3" tabindex="-1"></a><span class="ss">* </span>Tested WidgetWasher on a range of different operating systems</span>
+<span id="cb21-4"><a href="debugging#cb21-4" tabindex="-1"></a><span class="ss">* </span>Utilised an HTTP API and secret keys ↓</span>
+<span id="cb21-5"><a href="debugging#cb21-5" tabindex="-1"></a><span class="ss">* </span>Created a web service that washes widgets called WidgetWasher ↓</span></code></pre></div>
 <p>The latter has all the same information, but by reversing the order, you’ve emphasised what <em>you</em> did, rather than what the software did. Much more interesting. 💪
 <!-- need a section on 👑 Activities and leadership --></p>
 </div>
@@ -512,9 +517,9 @@ Figure 8.13: Have you won any prizes or trophies? If you have, make sure you des
 </div>
 
 <p>If you’ve been granted any interesting awards or honours be sure to mention them, because they provide evidence to the reader that a third party has endorsed you. <em>Other</em> people think you are good at something, and this says much more than <em>you</em> thinking you’re good at something. You’ll typically need a bit more than this:</p>
-<div class="sourceCode" id="cb20"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb20-1"><a href="debugging#cb20-1" tabindex="-1"></a><span class="ss">* </span>Awarded the Poppleton University scholarship for excellence</span></code></pre></div>
+<div class="sourceCode" id="cb22"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb22-1"><a href="debugging#cb22-1" tabindex="-1"></a><span class="ss">* </span>Awarded the Poppleton University scholarship for excellence</span></code></pre></div>
 <p>Congratulations, but how many people were awarded that prize? How many applicants or entrants were there and what percentage were successful? Was it a regional, national or global award? How frequently is the award given? It is unlikely that your reader will have heard of the award unless it is widely known. You might talk about your ranking e.g.</p>
-<div class="sourceCode" id="cb21"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb21-1"><a href="debugging#cb21-1" tabindex="-1"></a><span class="ss">* </span>Won third prize in the flibbertigibbet competition</span></code></pre></div>
+<div class="sourceCode" id="cb23"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb23-1"><a href="debugging#cb23-1" tabindex="-1"></a><span class="ss">* </span>Won third prize in the flibbertigibbet competition</span></code></pre></div>
 <p>Again, congratulations, but <code>third prize</code> out of how many?</p>
 <ul>
 <li>
@@ -526,8 +531,8 @@ Figure 8.13: Have you won any prizes or trophies? If you have, make sure you des
 <li>
 <code>3/3000</code>? More impressive</li>
 </ul>
-<p>Numbers can speak louder than words, so if you’re going to mention awards, quantify<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;an approximation will do if you don’t have exact figures&lt;/p&gt;"><sup>19</sup></a> where you can so the reader can understand what the prize was for. <em>YOU</em> may well be intimately acquainted with the <a href="https://en.wikipedia.org/wiki/Flibbertigibbet">international flibbertigibbet competition</a> but your reader probably won’t of heard of it, so give some context.</p>
-<p>Finally, your <code>awards</code> section might also include any courses you’ve done <em>outside</em> of the formal (compulsory) and university courses described in your <code>Education</code> section<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;External courses demonstrate your learning interests beyond just ticking the boxes of what your University requires of you for your formal education&lt;/p&gt;"><sup>20</sup></a>. Extra skills and knowledge you’ve picked up from <a href="https://en.wikipedia.org/wiki/Massive_open_online_course">Massive Open Online Courses</a> (MOOCs) or any other credentials you’ve collected such as those described in sections <a href="starting#mooc">18.4.3</a> and <a href="achieving#otherbadges">19.4</a>, are worth mentioning. 🏆</p>
+<p>Numbers can speak louder than words, so if you’re going to mention awards, quantify<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;an approximation will do if you don’t have exact figures&lt;/p&gt;"><sup>20</sup></a> where you can so the reader can understand what the prize was for. <em>YOU</em> may well be intimately acquainted with the <a href="https://en.wikipedia.org/wiki/Flibbertigibbet">international flibbertigibbet competition</a> but your reader probably won’t of heard of it, so give some context.</p>
+<p>Finally, your <code>awards</code> section might also include any courses you’ve done <em>outside</em> of the formal (compulsory) and university courses described in your <code>Education</code> section<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;External courses demonstrate your learning interests beyond just ticking the boxes of what your University requires of you for your formal education&lt;/p&gt;"><sup>21</sup></a>. Extra skills and knowledge you’ve picked up from <a href="https://en.wikipedia.org/wiki/Massive_open_online_course">Massive Open Online Courses</a> (MOOCs) or any other credentials you’ve collected such as those described in sections <a href="starting#mooc">18.4.3</a> and <a href="achieving#otherbadges">19.4</a>, are worth mentioning. 🏆</p>
 </div>
 <div id="misc" class="section level3" number="8.6.7">
 <h3>
@@ -658,11 +663,11 @@ Figure 8.16: Does your CV need a little work? The truth is your CV is never fini
 <strong>EVIDENCE</strong>: Where evidence exists, you should highlight it. That could be a quantification, for example describing a result in numbers (see <code>as measured by</code> below) or it might be badges or certification described in chapter <a href="achieving#achieving">19</a>. If you’re talking about software, point to a copy online if you can, see section <a href="finding#portfolio">11.3.3</a>. Nothing says “I can build software …” quite like “ … and here’s one I made earlier”.</li>
 </ul>
 <p>You don’t have to stick rigidly to the order C.A.R.E. as long as they appear somewhere. For example, recruiters at Google (see figure <a href="debugging#fig:lopez-vid">8.6</a>) advise candidates to describe their experience and projects using this simple pattern:</p>
-<div class="sourceCode" id="cb22"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb22-1"><a href="debugging#cb22-1" tabindex="-1"></a><span class="ss">* </span>Accomplished <span class="co">[</span><span class="ot">X</span><span class="co">]</span>, as measured by <span class="co">[</span><span class="ot">Y</span><span class="co">]</span>, by doing <span class="co">[</span><span class="ot">Z</span><span class="co">]</span></span></code></pre></div>
+<div class="sourceCode" id="cb24"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb24-1"><a href="debugging#cb24-1" tabindex="-1"></a><span class="ss">* </span>Accomplished <span class="co">[</span><span class="ot">X</span><span class="co">]</span>, as measured by <span class="co">[</span><span class="ot">Y</span><span class="co">]</span>, by doing <span class="co">[</span><span class="ot">Z</span><span class="co">]</span></span></code></pre></div>
 <p>Where <em>accomplished</em> is <code>Result</code>, <em>measured by</em> is <code>Evidence</code> and <em>doing</em> is the <code>Action</code>. So instead of just saying:</p>
-<div class="sourceCode" id="cb23"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb23-1"><a href="debugging#cb23-1" tabindex="-1"></a><span class="ss">* </span>Generated reports for end users</span></code></pre></div>
+<div class="sourceCode" id="cb25"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb25-1"><a href="debugging#cb25-1" tabindex="-1"></a><span class="ss">* </span>Generated reports for end users</span></code></pre></div>
 <p>You could say:</p>
-<div class="sourceCode" id="cb24"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb24-1"><a href="debugging#cb24-1" tabindex="-1"></a><span class="ss">* </span>Generated daily reconciliation report for team by automating workflow of 8 different tasks</span></code></pre></div>
+<div class="sourceCode" id="cb26"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb26-1"><a href="debugging#cb26-1" tabindex="-1"></a><span class="ss">* </span>Generated daily reconciliation report for team by automating workflow of 8 different tasks</span></code></pre></div>
 <p>The latter is better because it is more specific, captures the result (<code>accomplishment</code>), by giving evidence (<code>8 different tasks</code>) and talks about the actions (the <code>doing</code> part). Choose the verbs you use carefully, see chapter <a href="actioning#actioning">10</a> for examples.</p>
 </div>
 <div id="length" class="section level3" number="8.7.4">
@@ -708,11 +713,11 @@ Figure 8.19: If it ain’t broke it doesn’t have enough features yet. Adding m
 <span class="header-section-number">8.7.5</span> Verbs first: lead with your actions<a class="anchor" aria-label="anchor" href="#verbsfirst"><i class="fas fa-link"></i></a>
 </h3>
 <p>A simple but effective technique for emphasising what you have done, rather than just what you know, is to start the description of it with a verb. Employers don’t just want to know what you know, but what you have actually done. So, for example, instead of saying e.g.</p>
-<div class="sourceCode" id="cb25"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb25-1"><a href="debugging#cb25-1" tabindex="-1"></a><span class="ss">* </span>In my second year CS29328 software engineering module I used Java, Eclipse and JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG)</span></code></pre></div>
+<div class="sourceCode" id="cb27"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb27-1"><a href="debugging#cb27-1" tabindex="-1"></a><span class="ss">* </span>In my second year CS29328 software engineering module I used Java, Eclipse and JUnit to test and build an open source Massively Multiplayer Online Role-Playing Game (MMORPG)</span></code></pre></div>
 <p>you could say:</p>
-<div class="sourceCode" id="cb26"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb26-1"><a href="debugging#cb26-1" tabindex="-1"></a><span class="ss">* </span>Built and tested a large open-source codebase using Eclipse, Ant, JUnit and Jenkins”</span></code></pre></div>
+<div class="sourceCode" id="cb28"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb28-1"><a href="debugging#cb28-1" tabindex="-1"></a><span class="ss">* </span>Built and tested a large open-source codebase using Eclipse, Ant, JUnit and Jenkins”</span></code></pre></div>
 <p>followed by:</p>
-<div class="sourceCode" id="cb27"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb27-1"><a href="debugging#cb27-1" tabindex="-1"></a><span class="ss">* </span>Added and deployed new features to a Massively Multiplayer Online Role-Playing Game (MMORPG) in Java</span></code></pre></div>
+<div class="sourceCode" id="cb29"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb29-1"><a href="debugging#cb29-1" tabindex="-1"></a><span class="ss">* </span>Added and deployed new features to a Massively Multiplayer Online Role-Playing Game (MMORPG) in Java</span></code></pre></div>
 <p>The latter examples get to the point much quicker and avoid the problem of using <code>I, me, my...</code> too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter <a href="actioning#actioning">10</a> for examples.</p>
 </div>
 <div id="links" class="section level3" number="8.7.6">
@@ -728,11 +733,11 @@ Figure 8.20: Adding links is a good way to augment your CV. If you’re adding L
 </div>
 
 <p>Links can provide <code>Context</code>, (Action), <code>Result</code> and <code>Evidence</code> (see <code>C.A.R.E.</code> in section <a href="debugging#care">8.6.8</a>) by quantifying and substantiating any claims that you make. Links demonstrate what you’ve done and which communities you’ve been a part of. For example, you might says things like:</p>
-<div class="sourceCode" id="cb28"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb28-1"><a href="debugging#cb28-1" tabindex="-1"></a><span class="ss">* </span>Built a thing called example.com</span></code></pre></div>
+<div class="sourceCode" id="cb30"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb30-1"><a href="debugging#cb30-1" tabindex="-1"></a><span class="ss">* </span>Built a thing called example.com</span></code></pre></div>
 <p>This shows that the thing you built was substantial enough to have its own domain. It also says “I like building things. Look at this thing I built just for fun, its really cool”. Or you might say:</p>
-<div class="sourceCode" id="cb29"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb29-1"><a href="debugging#cb29-1" tabindex="-1"></a><span class="ss">* </span>Elected as a representative for hacksoc.com</span></code></pre></div>
+<div class="sourceCode" id="cb31"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb31-1"><a href="debugging#cb31-1" tabindex="-1"></a><span class="ss">* </span>Elected as a representative for hacksoc.com</span></code></pre></div>
 <p>The link shows you were part of a community: “I was part a bigger thing…” you might not have heard about but you can find out about here. You might also say:</p>
-<div class="sourceCode" id="cb30"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb30-1"><a href="debugging#cb30-1" tabindex="-1"></a><span class="ss">* </span>Competed at hack-to-the-future.com part III</span></code></pre></div>
+<div class="sourceCode" id="cb32"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb32-1"><a href="debugging#cb32-1" tabindex="-1"></a><span class="ss">* </span>Competed at hack-to-the-future.com part III</span></code></pre></div>
 <p>Reading between the lines: “I really enjoy learning from other people by going to hackathons and competitions”</p>
 <p>… and so on. So links are crucial features of your CV and an interested reader <em>may</em> even follow them. Treat links with respect and they will support your goals and help your readers. Invest some time thinking about how you word the link text, and how they would be understood out of context. Make sure that:</p>
 <ul>
@@ -753,7 +758,7 @@ Figure 8.20: Adding links is a good way to augment your CV. If you’re adding L
 <p>LinkedIn is much more than a tool for publishing your CV or résumé because it also allows you to:</p>
 <ul>
 <li>search and apply for jobs</li>
-<li>create a digital portfolio that is publicly available<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;Obviously, you might want to be careful about what information you put out there!&lt;/p&gt;"><sup>21</sup></a>
+<li>create a digital portfolio that is publicly available<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;Obviously, you might want to be careful about what information you put out there!&lt;/p&gt;"><sup>22</sup></a>
 </li>
 <li>connect with professionals, think social media for jobs</li>
 </ul>
@@ -889,7 +894,7 @@ show me the money!-->
 <span class="header-section-number">8.8</span> Breakpoints<a class="anchor" aria-label="anchor" href="#bp7"><i class="fas fa-link"></i></a>
 </h2>
 <p>Let’s pause here. Insert a <a href="https://en.wikipedia.org/wiki/Breakpoint">breakpoint</a> in your <code>code</code> and slowly step through it so we can examine the current values of your variables and parameters.</p>
-<div class="sourceCode" id="cb32"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb32-1"><a href="debugging#cb32-1" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
+<div class="sourceCode" id="cb34"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb34-1"><a href="debugging#cb34-1" tabindex="-1"></a><span class="ss">* </span>PAUSE ⏸️</span></code></pre></div>
 <ul>
 <li>How long is your CV? How long should it be?</li>
 <li>One column or two column layout?</li>
@@ -901,7 +906,7 @@ show me the money!-->
 </li>
 <li>How many employers actually read the covering letter that accompanies your CV?</li>
 </ul>
-<div class="sourceCode" id="cb33"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb33-1"><a href="debugging#cb33-1" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
+<div class="sourceCode" id="cb35"><pre class="sourceCode md"><code class="sourceCode markdown"><span id="cb35-1"><a href="debugging#cb35-1" tabindex="-1"></a><span class="ss">* </span>RESUME ▶️</span></code></pre></div>
 </div>
 <div id="checklist" class="section level2" number="8.9">
 <h2>
@@ -1017,7 +1022,7 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 </p>
 </div>
 
-<p>In this chapter we have looked at how to debug your future, with a particular focus on your CV<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;…Or &lt;em&gt;Résumé&lt;/em&gt; if you prefer 🇺🇸&lt;/p&gt;"><sup>22</sup></a> and any supporting written communication. If you fix the bugs we’ve described here, before an employer sees your CV, you’ll stand a <em>much</em> better chance of getting an interview. The checklist in section <a href="debugging#checklist">8.9</a> is a good place to start debugging your CV.</p>
+<p>In this chapter we have looked at how to debug your future, with a particular focus on your CV<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;…Or &lt;em&gt;Résumé&lt;/em&gt; if you prefer 🇺🇸&lt;/p&gt;"><sup>23</sup></a> and any supporting written communication. If you fix the bugs we’ve described here, before an employer sees your CV, you’ll stand a <em>much</em> better chance of getting an interview. The checklist in section <a href="debugging#checklist">8.9</a> is a good place to start debugging your CV.</p>
 <!--https://twitter.com/b0rk/status/1570060516839641092-->
 <p><em>Some</em> of the strategies you apply to debugging your <em>actual</em> code, can also be applied to debugging your future:</p>
 <ul>
@@ -1119,7 +1124,7 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 28 February, 2024. </p>
+    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 29 February, 2024. </p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">
