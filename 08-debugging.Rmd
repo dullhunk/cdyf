@@ -2,7 +2,7 @@
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *engineer* your future by building something. An obvious place to start is with your CV or résumé, because that's where most people start testing their designs. Just like with code, the hardest part isn't *writing* it but *debugging* and *rewriting* it, REPEATEDLY in a permanently^[not quite permanent, life loops have exit conditions ☠️] running loop or periodically scheduled [cron job](https://en.wikipedia.org/wiki/Cron). How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
+It's all very well *designing* your future but now you need to actually *engineer* your future by building something. An obvious place to start is with your CV or résumé, because that's where most people start testing their designs. Just like with code, the hardest part isn't *writing* it but *debugging* and *rewriting* it, REPEATEDLY in a permanently^[not quite permanent, unless you've figured out immortality the loop of your life has exit conditions ☠️] running loop or periodically scheduled [cron job](https://en.wikipedia.org/wiki/Cron). How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
 knitr::include_graphics("images/Features not bugs.png")
@@ -158,7 +158,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 ## Structure your CV and Résumé {#structure}
 
-How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short videos shown in figure \@ref(fig:lopez-vid) and \@ref(fig:black-vid).
+How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short videos shown in figure \@ref(fig:lopez-vid)(*Résumé Tips*) and \@ref(fig:black-vid) (*How to write a top-notch CV*).
 
 ```{r lopez-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
@@ -166,8 +166,8 @@ knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
 
 (ref:captiongooglerecruiters) Recruiters at Google, [Jeremy Ong](https://www.linkedin.com/in/jeremy-ong/) and [Lizi Lopez](https://www.linkedin.com/in/lizilopez/) (now at TikTok) outline some tips and advice for creating your résumé. You can also watch the 8 minute video embedded in this figure at [youtu.be/BYUy1yvjHxE](https://youtu.be/BYUy1yvjHxE). [@youtube-google-recruiters]
 
-<!-- this doesn't really fit here in structure, is there somewhere better? -->
-Besides being structured well, as described in figure \@ref(fig:lopez-vid) and later in section \@ref(body), your CV also needs to persuade the reader that you have some fundamental attributes. [Jonathan Black](https://www.linkedin.com/in/jonathanblack/), director of the careers service at the University of Oxford (and working life columnist [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)) points out in figure \@ref(fig:black-vid), there are three key things you want to demonstrate in your CV:
+<!-- not sure this really fits here in structure, is there somewhere better? -->
+Besides being structured well, as described in figure \@ref(fig:lopez-vid) and later in section \@ref(body), your CV also needs to persuade the reader that you have some fundamental attributes. [Jonathan Black](https://www.linkedin.com/in/jonathanblack/), director of the careers service at the University of Oxford (and working life columnist at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)) points out in figure \@ref(fig:black-vid), there are three key things you want to demonstrate in your CV:
 
 1. that you can take responsibility
 1. that you achieve things
@@ -182,7 +182,7 @@ knitr::include_url('https://www.youtube.com/embed/yjdvCHWVtE4')
 
 (ref:captionjonathanblack) [Jonathan Black](https://www.linkedin.com/in/jonathanblack/), head of the careers service at the University of Oxford, explains how to create a top notch CV by replacing meaningless assertions with meaningful evidence. You can also watch the 11 minute video embedded in this figure at [youtu.be/yjdvCHWVtE4](https://youtu.be/yjdvCHWVtE4). [@topnotchcv]
 
-One of the best ways of demonstrating and convincing your reader that you have the skills and attributes mentioned in figure \@ref(fig:black-vid) is by explicitly and deliberately **QUANTIFYING** them where you can. Quantifying and providing evidence for any claims you make will make your CV a much more convincing read. Giving the numbers is a simple way to transform meaningless assertions described in figure \@ref(fig:black-vid) into meaningful evidence. So for example:
+One of the best ways of demonstrating and convincing your reader that you have the skills and attributes mentioned in figure \@ref(fig:black-vid) is by explicitly and deliberately **QUANTIFYING** them where you can. Quantifying and providing evidence for any claims you make will make your CV a much more convincing read. Doing the math and showing the numbers is a simple way to transform meaningless assertions described in figure \@ref(fig:black-vid) into meaningful evidence. So for example:
 
 ```md
 * Achieved excellent results
@@ -197,16 +197,18 @@ One of the best ways of demonstrating and convincing your reader that you have t
 So you worked in a team? `Worked` is vague. What was your role and contribution exactly? How long did the project last? How many people were on your team?  What were the results of your actions? 
 
 ```md
-* Worked in a team of six for four months to deliver a music app ... 
+* Worked in a team of six people for four months to deliver a music app ... 
 ```
 
 or just drop the boring `worked` altogether and pick a more interesting verb like:
 
 ```md
-* Prototyped a music application in a team of six for four months ... 
+* Prototyped a music application in a team of six people for four months ... 
 ```
 
-The numbers (six people, four months etc) and other evidence are a key part of the story you want to tell potential employers. What's your story, coding glory? [@whatsthestory]
+Don't just TELL your reader, SHOW them. The numbers (`six` people, `four` months etc) and other evidence are a key part of your story that you want to tell potential employers. 
+
+What's your story, coding glory? [@whatsthestory]
 
 ### Your header {#header}
 
@@ -736,8 +738,9 @@ show me the money!-->
 
 ## Checklist: Big Bad Bugs {#checklist}
 
-Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick checklist for debugging your CV before you send it off to an employer:
+Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick checklist for debugging your CV before you send it off to an employer or show it to me:
 
+1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig). See the examples in chapter \@ref(hacking). Who would *you* want to interview and why?
 1. 🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section \@ref(length) Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (g a p p y) or too little (cramped)? See section \@ref(pdf)
 1. 🔲 Is your year of graduation, degree program, University and expected (and/or achieved) overall degree classification clear with GPA as a percentage? See section \@ref(education)
 1. 🔲 Have you eaten your own dogfood (woof) by reading it out loud, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
@@ -753,7 +756,6 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(header)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `experience`? Have you done the same for your `projects`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
 1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
-1. 🔲 Have you reviewed other people's CV's? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig). See the examples in chapter \@ref(hacking). Who would *you* want to interview and why?
 1. 🔲 Have you used past tense consistently e.g. `developed` not `develop`, `collaborated` not `collaborate`
 
 
