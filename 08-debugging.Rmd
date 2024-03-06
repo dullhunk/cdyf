@@ -158,7 +158,7 @@ iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" 
 
 ## Structure your CV and Résumé {#structure}
 
-How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short videos shown in figure \@ref(fig:lopez-vid)(*Résumé Tips*) and \@ref(fig:black-vid) (*How to write a top-notch CV*).
+How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short videos shown in figure \@ref(fig:lopez-vid) (*Résumé Tips*) and figure \@ref(fig:black-vid) (*How to write a top-notch CV*).
 
 ```{r lopez-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglerecruiters)"}
 knitr::include_url('https://www.youtube.com/embed/BYUy1yvjHxE')
@@ -280,7 +280,7 @@ The `Projects` section of your CV is where you can describe all your other activ
 * University projects:
     + these sometimes fit better in your `Education` section, depending on how many non-Uni projects you have
     + If you are publishing a group project, you will need permission from *all* of your team to make the code public 
-    + Be *careful* publishing coursework. If someone copies your coursework, you will **BOTH** be guilty of academic malpractice because you have colluded in plagiarism.
+    + Be *careful* publishing coursework. If someone copies your coursework, you will **BOTH** be guilty of [academic malpractice](https://www.studentsupport.manchester.ac.uk/study-support/academic-support/assessments-and-exams/avoiding-academic-malpractice/) because you have colluded in plagiarism.
     + ... but final year (“[capstone](https://en.wikipedia.org/wiki/Capstone_course)”) projects are great as these will tend to be unique, distinguishing you from everybody else in your year group
 
 Your projects will most likely be unpaid because paid work tends to fit better under the heading `experience`, see section \@ref(experience). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, the [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repository is a good starting point alongside [free-for.dev](https://free-for.dev/) which lists  software that has free tiers for developers to play with. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in figure \@ref(fig:feynman-fig). What you cannot create you do not understand. Another great way to learn is to get involved with open source projects which we describe in section \@ref(opensource).
@@ -696,9 +696,9 @@ While automation can help improve your writing, ultimately there is no substitut
 
 You might be tempted to put your referees details on your résumé. Don't bother because;
 
-* references waste valuable space. You can say much more interesting things about yourself than who you referees are
+* references waste valuable space. You can say *much* more interesting things about yourself than who your referees are
 * references aren't needed in the early stages of a job application anyway. Employers typically ask for your referees *much* later, when you've been offered or are about to be offered the job
-* references disclose personal information. Do you really want to be giving personal details out to anyone that reads your CV? It could easily be misused.
+* references disclose personal information. Do you really want to be giving personal details out to anyone that reads your CV? It could easily be abused or misused.
 
 It's not even worth saying `references available on request` - that just wastes space as well and is implied information on every CV anyway.
 
