@@ -5,19 +5,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students</title>
-<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 18 March, 2024">
+<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 21 March, 2024">
 <meta name="description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="generator" content="bookdown 0.37 with bs4_book()">
 <meta property="og:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta property="og:type" content="book">
-<meta property="og:url" content="https://www.cdyf.me/debugging">
-<meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
+<meta property="og:url" content="https://www.cdyf.me/debugging#misc">
+<meta property="og:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
 <meta property="og:description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta name="twitter:site" content="@dullhunk">
 <meta name="twitter:description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
-<meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
+<meta name="twitter:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.6.1/transition.js"></script><script src="libs/bs3compat-0.6.1/tabs.js"></script><script src="libs/bs3compat-0.6.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -25,8 +25,8 @@
 <script defer data-domain="cdyf.me" src="https://plausible.io/js/script.outbound-links.js"></script><!--script src="https://platform.twitter.com/widgets.js"></script--><link rel="shortcut icon" href="favicon.ico">
 <meta property="og:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.cdyf.me/">
-<meta property="og:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
+<meta property="og:url" content="https://www.cdyf.me/debugging#misc">
+<meta property="og:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
 <meta name="author" content="Duncan Hull and Bryan Mathers">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:card" content="summary_large_image">
@@ -34,7 +34,7 @@
 <meta name="twitter:title" content="Coding Your Future: a Guidebook for Students">
 <meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
 <!-- same again for LinkedIn--><meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
-<meta name="twitter:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
+<meta name="twitter:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
     
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
@@ -216,7 +216,7 @@ Figure 8.3: The seemingly contradictory phrase <a href="https://en.wikipedia.org
 </li>
 <li>Many employers will still ask you for one, see section <a href="debugging#robotproof">8.7.7</a> and figure <a href="debugging#fig:longlive-fig">8.3</a>
 </li>
-<li>Your CV and covering letter (see section <a href="debugging#covering-letters">8.10</a>) helps you script and practice your “lines” for interviews, see chapter <a href="speaking#speaking">13</a>
+<li>Your CV and covering letter (see section <a href="debugging#covering-letters">8.11</a>) helps you script and practice your “lines” for interviews, see chapter <a href="speaking#speaking">13</a>
 </li>
 </ul>
 <p>Even if an employer never asks you for your CV, you’ll frequently want to use the <em>content</em> of your CV in applications and interviews. So this chapter looks at how you can debug your written applications, whatever the mechanism is for submitting them.</p>
@@ -272,7 +272,7 @@ doesn't work for some unknown reason
 <li>allow your reader to <em>quickly</em> skim, scan and scroll through your CV because <a href="https://readabilityguidelines.co.uk/content-design/how-people-read/">employers don’t actually read CVs</a> <span class="citation">(<a href="reading#ref-scanning">Richards 2019b</a>)</span>
 </li>
 <li>highlight your key activities</li>
-<li>avoid long sections of <a href="https://en.wikipedia.org/wiki/Prose">flowery prose</a> which the reader will very probably skip anyway. Instead, you can use your beautiful prose to demonstrate your excellent written communication skills on your covering letters or personal statements instead, see section <a href="debugging#covering-letters">8.10</a>
+<li>avoid long sections of <a href="https://en.wikipedia.org/wiki/Prose">flowery prose</a> which the reader will very probably skip anyway. Instead, you can use your beautiful prose to demonstrate your excellent written communication skills on your covering letters or personal statements instead, see section <a href="debugging#covering-letters">8.11</a>
 </li>
 </ul>
 </li>
@@ -509,7 +509,7 @@ Figure 8.12: Have you ever had a project that didn’t go very well? Did it all 
 <h3>
 <span class="header-section-number">8.6.6</span> Your leadership &amp; awards<a class="anchor" aria-label="anchor" href="#prizes"><i class="fas fa-link"></i></a>
 </h3>
-<p>If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like <a href="https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/">PASS</a>) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A <code>leadership</code> and/or <code>awards</code> section is also a good place to add any prizes you’ve won, see figure <a href="debugging#fig:trophy-fig">8.13</a></p>
+<p>If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like <a href="https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/">PASS</a>) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A <code>leadership</code> and/or <code>awards</code> section is also a good place to add any prizes you’ve won, see figure <a href="debugging#fig:trophy-fig">8.13</a>. If you’ve done any extra courses and been awarded some certification, an awards section is a good place to put it as it distinguishes it from the qualifications in your formal <code>EDUCATION</code>, see section <a href="achieving#otherbadges">19.4</a></p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:trophy-fig"></span>
 <img src="images/trophy.jpeg" alt="Have you won any prizes or trophies? If you have, make sure you describe what your prizes were awarded for and any ranking associated with them, as discussed in the text below. You’re not just blowing your own trumpet, but clearly demonstrating to your reader that somebody else (besides yourself) recognised and rewarded your achievements. CC0 public domain picture of Johan Cruyff holding the European Champion Clubs’ Cup in 1972 from the Nationaal Archief on Wikimedia Commons w.wiki/6h5t adapted using the Wikipedia App ⚽️" width="100%"><p class="caption">
@@ -537,7 +537,7 @@ Figure 8.13: Have you won any prizes or trophies? If you have, make sure you des
 </div>
 <div id="misc" class="section level3" number="8.6.7">
 <h3>
-<span class="header-section-number">8.6.7</span> Your optional extras<a class="anchor" aria-label="anchor" href="#misc"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.6.7</span> Your optional extras: skills, hobbies, miscelleneous?<a class="anchor" aria-label="anchor" href="#misc"><i class="fas fa-link"></i></a>
 </h3>
 <p>If you have anything else you want to highlight besides your <code>Education</code>, <code>Experience</code>, <code>Projects</code>, <code>Leadership and Awards</code> you <em>may</em> still have room for one more optional section. Try to come up with a better names for this section than:</p>
 <ul>
@@ -545,8 +545,7 @@ Figure 8.13: Have you won any prizes or trophies? If you have, make sure you des
 <li><code>Extracurricular</code></li>
 <li><code>Other highlights and activities</code></li>
 </ul>
-<p>These titles sound like dumping grounds for your leftovers. You might decide to have a dedicated <code>skills</code> or <code>personal statement</code> section but see section <a href="debugging#care">8.6.8</a> and <a href="debugging#bullshit">8.10.2</a>.</p>
-<p>You could opt to have a <code>hobbies and interests</code> section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you’re usually pushed for space and looking for things to edit <em>out</em> (rather than add in), so if you’re going to list hobbies, I’d stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure <a href="debugging#fig:quidditch-fig">8.14</a>. Other collaborative activities outside of sport will also demonstrate your communication skills. <span class="citation">(<a href="reading#ref-hobbies">Cheary 2021</a>)</span></p>
+<p>These titles sound like dumping grounds for your leftovers. You might decide to have a dedicated <code>skills</code> or <code>personal statement</code> section but see section <a href="debugging#care">8.6.8</a> and <a href="debugging#bullshit">8.11.2</a>.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:quidditch-fig"></span>
 <img src="images/Anyone%20for%20quidditch.png" alt="It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for Quidditch (say). (Rowling 1997) However, such coincidences are unlikely so if you do list your hobbies and interests, think carefully about WHY you are mentioning them and WHAT skills, knowledge or experience you are trying to demonstrate to potential employers. Anyone for Quidditch sketch by Visual Thinkery is licensed under CC-BY-ND" width="98%"><p class="caption">
@@ -554,6 +553,7 @@ Figure 8.14: It is debatable which, if any, of your hobbies should go on your CV
 </p>
 </div>
 
+<p>You could opt to have a <code>hobbies and interests</code> section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you’re usually pushed for space and looking for things to edit <em>out</em> (rather than add in), so if you’re going to list hobbies, I’d stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure <a href="debugging#fig:quidditch-fig">8.14</a>. Other collaborative activities outside of sport will also demonstrate your communication skills. <span class="citation">(<a href="reading#ref-hobbies">Cheary 2021</a>)</span></p>
 <p>The fact that you enjoy <code>swimming</code>, <code>reading</code>, <code>football</code>, <code>cooking</code>, <code>music</code>, <code>travel</code> and <code>hiking</code> is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There’s nothing <em>wrong</em> with these pastimes, they are very common so there’s not much point mentioning them on your CV unless you give more detail, for example:</p>
 <ul>
 <li>coached a swimming team</li>
@@ -911,18 +911,16 @@ show me the money!-->
 </div>
 <div id="checklist" class="section level2" number="8.9">
 <h2>
-<span class="header-section-number">8.9</span> Checklist: Big Bad Bugs<a class="anchor" aria-label="anchor" href="#checklist"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.9</span> CV checklist: Self-assessment<a class="anchor" aria-label="anchor" href="#checklist"><i class="fas fa-link"></i></a>
 </h2>
 <p>Like <a href="https://en.wikipedia.org/wiki/Atul_Gawande">Atul Gawande</a>, I’m a believer in the power of simple checklists. <span class="citation">(<a href="reading#ref-checklist">Gawande 2009</a>)</span> So here is a quick checklist for debugging your CV before you send it off to an employer or show it to me:</p>
 <ol style="list-style-type: decimal">
-<li>🔲 Have you reviewed other people’s CV’s by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure <a href="debugging#fig:cvswap-fig">8.25</a>. See the examples in chapter <a href="hacking#hacking">9</a>. Who would <em>you</em> want to interview and why?</li>
 <li>🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section <a href="debugging#length">8.7.4</a> Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (g a p p y) or too little (cramped)? See section <a href="debugging#pdf">8.7.2</a>
 </li>
 <li>🔲 Is your year of graduation, degree program, University and expected (and/or achieved) overall degree classification clear with GPA as a percentage? See section <a href="debugging#education">8.6.3</a>
 </li>
 <li>🔲 Have you eaten your own dogfood (woof) by reading it out loud, see section <a href="writing#dogfooding">4.6.1</a>? Is <em>everything</em> relevant? e.g. no swimming certificates from ten years ago?</li>
 <li>🔲 Have you spell-checked using both automatic and manual (proof-reading) techniques? See section <a href="debugging#spelling">8.7.8</a>.</li>
-<li>🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section <a href="debugging#robotproof">8.7.7</a> 🤖</li>
 <li>🔲 Have you shown you <code>C.A.R.E</code>? Are the <code>Contexts</code>, <code>Actions</code>, <code>Results</code> and <code>Evidence</code> described in section <a href="debugging#care">8.6.8</a> clear? Have you added <code>context</code> using relevant hyperlinks that an interested reader can click on? See section <a href="debugging#links">8.7.6</a>
 </li>
 <li>🔲 Is it in reverse chronological order with the most recent things <strong>first</strong>? Can your timeline be easily followed, with all dates clearly aligned for easy reading? See <a href="https://www.cdyf.me/Neil_Pointer.pdf">Neil Pointer</a> as an example with a clear timeline using right-aligned dates.</li>
@@ -938,9 +936,24 @@ show me the money!-->
 </li>
 <li>🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section <a href="debugging#header">8.6.1</a>?</li>
 <li>🔲 Have you clearly distinguished between paid, unpaid and voluntary <code>experience</code>? Have you done the same for your <code>projects</code>, see section <a href="debugging#projects">8.6.5</a>? Have you included <em>all</em> of the relevant experience that you can fit on including casual work, see section <a href="experiencing#casual">5.3.9</a>?</li>
-<li>🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure <a href="debugging#fig:wonderfuldarling-fig">8.22</a>) and score each others CV’s using <a href="https://www.cdyf.me/CV-rubric.pdf">this rubric</a>. This is a bit like <a href="https://en.wikipedia.org/wiki/Pair_programming">pair programming</a>. According to <a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus’s law</a> “given enough eyeballs all bugs are shallow” <span class="citation">(<a href="reading#ref-Raymond1999">Raymond 1999</a>)</span> so the more people who give you feedback the better</li>
 <li>🔲 Have you used past tense consistently e.g. <code>developed</code> not <code>develop</code>, <code>collaborated</code> not <code>collaborate</code>
 </li>
+<li>🔲 Is the formatting consistent, no random changes of font half-way through? Dates always in the same place?</li>
+<li>🔲 If you’ve opted for a two pager, does the page break fall in a sensible place, not halfway through a section?</li>
+<li>🔲 Have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two?</li>
+<li>🔲 How does your CV compare to the examples in chapter <a href="hacking#hacking">9</a>. What is stronger or weaker about your CV than the examples? How could yours be improved?</li>
+</ol>
+</div>
+<div id="cvswap" class="section level2" number="8.10">
+<h2>
+<span class="header-section-number">8.10</span> CV Checklist: Peer-assessment<a class="anchor" aria-label="anchor" href="#cvswap"><i class="fas fa-link"></i></a>
+</h2>
+<p>Now that you’ve self-assessed your CV, you should swap it with somebody and check each others work.</p>
+<ol style="list-style-type: decimal">
+<li>🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section <a href="debugging#robotproof">8.7.7</a> 🤖</li>
+<li>🔲 Have you reviewed other people’s CV’s by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure <a href="debugging#fig:cvswap-fig">8.25</a>.</li>
+<li>🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure <a href="debugging#fig:wonderfuldarling-fig">8.22</a>) and score each others CV’s using <a href="https://www.cdyf.me/CV-rubric.pdf">this rubric</a>. This is a bit like <a href="https://en.wikipedia.org/wiki/Pair_programming">pair programming</a>. According to <a href="https://en.wikipedia.org/wiki/Linus%27s_law">Linus’s law</a> “given enough eyeballs all bugs are shallow” <span class="citation">(<a href="reading#ref-Raymond1999">Raymond 1999</a>)</span> so the more people who give you feedback the better</li>
+<li>🔲 Have you <code>triangulated</code> all the different feedback on your CV, because some of it is likely to be contradictory?</li>
 </ol>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:wonderfuldarling-fig"></span>
@@ -950,9 +963,9 @@ Figure 8.22: Showing your CV to somebody else is one of the best ways to debug i
 </div>
 
 </div>
-<div id="covering-letters" class="section level2" number="8.10">
+<div id="covering-letters" class="section level2" number="8.11">
 <h2>
-<span class="header-section-number">8.10</span> Covering letters &amp; personal statements<a class="anchor" aria-label="anchor" href="#covering-letters"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.11</span> Covering letters &amp; personal statements<a class="anchor" aria-label="anchor" href="#covering-letters"><i class="fas fa-link"></i></a>
 </h2>
 <p>Applications and CV’s are often accompanied by covering letters or include some kind of personal statement or summary. They are your <a href="https://en.wikipedia.org/wiki/Elevator_pitch">elevator pitch</a> shown in figure <a href="debugging#fig:elevator-fig">8.23</a>. Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to <em>really</em> demonstrate your fluent written communication skills in clear <a href="https://en.wikipedia.org/wiki/Prose">prose</a>. If you’re going to include a <code>personal statement</code> or <code>profile</code> on your CV keep it short, unlike <a href="https://www.cdyf.me/mike_rokernel.pdf">Mike Rokernel</a> who waffles on for <em>ages</em> (yawn) without actually providing any evidence for his assertions. This kind of information usually fits better in your covering letter anyway, because there isn’t much space for it on a CV.</p>
 <div class="figure" style="text-align: center">
@@ -978,17 +991,17 @@ Figure 8.23: Covering letters and personal statements are your <a href="https://
 <li><a href="https://targetjobs.co.uk/cv-and-cover-letter-templates">targetjobs.co.uk/cv-and-cover-letter-templates</a></li>
 <li><a href="https://www.careers.manchester.ac.uk/applicationsinterviews/cl/">www.careers.manchester.ac.uk/applicationsinterviews/cl</a></li>
 </ul>
-<div id="elevatorpitch" class="section level3" number="8.10.1">
+<div id="elevatorpitch" class="section level3" number="8.11.1">
 <h3>
-<span class="header-section-number">8.10.1</span> Does anyone actually READ covering letters?<a class="anchor" aria-label="anchor" href="#elevatorpitch"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.11.1</span> Does anyone actually READ covering letters?<a class="anchor" aria-label="anchor" href="#elevatorpitch"><i class="fas fa-link"></i></a>
 </h3>
 <p>Some employers will read your covering letter very carefully, others less so. It is not always clear which employers will bother and which won’t.</p>
-<p>Even if <em>nobody</em> reads your covering letter, it is still worth writing one because formulating answers to the three basic questions in section <a href="debugging#covering-letters">8.10</a> will force you to rehearse standard interview questions.</p>
+<p>Even if <em>nobody</em> reads your covering letter, it is still worth writing one because formulating answers to the three basic questions in section <a href="debugging#covering-letters">8.11</a> will force you to rehearse standard interview questions.</p>
 <p>You can think of your covering letter as writing and rehearsing some of the lines of your elevator pitch shown in figure <a href="debugging#fig:elevator-fig">8.23</a>.</p>
 </div>
-<div id="bullshit" class="section level3" number="8.10.2">
+<div id="bullshit" class="section level3" number="8.11.2">
 <h3>
-<span class="header-section-number">8.10.2</span> Embedding a personal statement<a class="anchor" aria-label="anchor" href="#bullshit"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.11.2</span> Embedding a personal statement<a class="anchor" aria-label="anchor" href="#bullshit"><i class="fas fa-link"></i></a>
 </h3>
 <p>You might be tempted to embed a short summary or <code>personal statement</code> section at the top of your CV after your header. If you’re thinking about doing this, keep it short or just leave it out altogether. Why? Here’s an example of how <em>not</em> to do it from the (fictional) <strong>Sir Don Malaka</strong> <a href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a> who is the Banterian Professor of Rhetoric at the University of Oxford:</p>
 <div class="rmdnote">
@@ -1002,7 +1015,7 @@ Figure 8.24: Yes, your CV is trying to persuade the reader to invite you to an i
 </p>
 </div>
 
-<p>On a one page CV, you rarely have space to include any of this kind of hot air anyway. High level statements usually fit better on a covering letter see section <a href="debugging#covering-letters">8.10</a>. A shorter, less <em>bullshitty</em> personal statement from a student is shown below:</p>
+<p>On a one page CV, you rarely have space to include any of this kind of hot air anyway. High level statements usually fit better on a covering letter see section <a href="debugging#covering-letters">8.11</a>. A shorter, less <em>bullshitty</em> personal statement from a student is shown below:</p>
 <div class="rmdnote">
 <p><code>Hello, my name is Mike Rokernel. I am a second year student in Computer Science at the University of Poppleton looking for an industrial placement in software engineering</code></p>
 </div>
@@ -1010,9 +1023,9 @@ Figure 8.24: Yes, your CV is trying to persuade the reader to invite you to an i
 <p>Save your beautiful persuasive rhetorical prose for your covering letters and make reference to key facts on your CV. There are usually much more interesting and appetising things you can say about yourself on your CV. 💩</p>
 </div>
 </div>
-<div id="tldr7" class="section level2" number="8.11">
+<div id="tldr7" class="section level2" number="8.12">
 <h2>
-<span class="header-section-number">8.11</span> Debugging summary<a class="anchor" aria-label="anchor" href="#tldr7"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.12</span> Debugging summary<a class="anchor" aria-label="anchor" href="#tldr7"><i class="fas fa-link"></i></a>
 </h2>
 <p>Too long, didn’t read (<a href="https://en.wiktionary.org/wiki/too_long;_didn%27t_read">TL;DR</a>)? Here’s a summary:</p>
 <p>Your future is bright, your future needs debugging. Debugging your future will help you test future. Testing your future will help you to start coding your future. One of the best ways to debug your own CV is to fix bugs in <em>other peoples</em> CVs, see figure <a href="debugging#fig:cvswap-fig">8.25</a></p>
@@ -1082,7 +1095,7 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 <li><a class="nav-link" href="#experience"><span class="header-section-number">8.6.4</span> Your experience</a></li>
 <li><a class="nav-link" href="#projects"><span class="header-section-number">8.6.5</span> Your projects</a></li>
 <li><a class="nav-link" href="#prizes"><span class="header-section-number">8.6.6</span> Your leadership &amp; awards</a></li>
-<li><a class="nav-link" href="#misc"><span class="header-section-number">8.6.7</span> Your optional extras</a></li>
+<li><a class="nav-link" href="#misc"><span class="header-section-number">8.6.7</span> Your optional extras: skills, hobbies, miscelleneous?</a></li>
 <li><a class="nav-link" href="#care"><span class="header-section-number">8.6.8</span> Show your C.A.R.E.</a></li>
 </ul>
 </li>
@@ -1100,14 +1113,15 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 </ul>
 </li>
 <li><a class="nav-link" href="#bp7"><span class="header-section-number">8.8</span> Breakpoints</a></li>
-<li><a class="nav-link" href="#checklist"><span class="header-section-number">8.9</span> Checklist: Big Bad Bugs</a></li>
+<li><a class="nav-link" href="#checklist"><span class="header-section-number">8.9</span> CV checklist: Self-assessment</a></li>
+<li><a class="nav-link" href="#cvswap"><span class="header-section-number">8.10</span> CV Checklist: Peer-assessment</a></li>
 <li>
-<a class="nav-link" href="#covering-letters"><span class="header-section-number">8.10</span> Covering letters &amp; personal statements</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#elevatorpitch"><span class="header-section-number">8.10.1</span> Does anyone actually READ covering letters?</a></li>
-<li><a class="nav-link" href="#bullshit"><span class="header-section-number">8.10.2</span> Embedding a personal statement</a></li>
+<a class="nav-link" href="#covering-letters"><span class="header-section-number">8.11</span> Covering letters &amp; personal statements</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#elevatorpitch"><span class="header-section-number">8.11.1</span> Does anyone actually READ covering letters?</a></li>
+<li><a class="nav-link" href="#bullshit"><span class="header-section-number">8.11.2</span> Embedding a personal statement</a></li>
 </ul>
 </li>
-<li><a class="nav-link" href="#tldr7"><span class="header-section-number">8.11</span> Debugging summary</a></li>
+<li><a class="nav-link" href="#tldr7"><span class="header-section-number">8.12</span> Debugging summary</a></li>
 </ul>
 
       <div class="book-extra">
@@ -1125,7 +1139,7 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 18 March, 2024. </p>
+    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 21 March, 2024. </p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

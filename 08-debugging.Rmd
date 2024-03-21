@@ -349,7 +349,7 @@ The latter has all the same information, but by reversing the order, you've emph
 <!-- need a section on 👑 Activities and leadership -->
 
 ### Your leadership & awards {#prizes}
-If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like [PASS](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/)) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig)
+If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like [PASS](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/)) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig). If you've done any extra courses and been awarded some certification, an awards section is a good place to put it as it distinguishes it from the qualifications in your formal `EDUCATION`, see section \@ref(otherbadges)
 
 ```{r trophy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy)"}
 knitr::include_graphics("images/trophy.jpeg")
@@ -381,7 +381,7 @@ Again, congratulations, but `third prize` out of how many?
  
  Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrate your learning interests beyond just ticking the boxes of what your University requires of you for your formal education]. Extra skills and knowledge you've picked up from [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges), are worth mentioning. 🏆
 
-### Your optional extras {#misc}
+### Your optional extras: skills, hobbies, miscelleneous? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with a better names for this section than: 
 
 * `Miscellaneous`
@@ -390,12 +390,13 @@ If you have anything else you want to highlight besides your `Education`, `Exper
 
 These titles sound like dumping grounds for your leftovers. You might decide to have a dedicated `skills` or `personal statement` section but see section \@ref(care) and \@ref(bullshit).
 
-You could opt to have a `hobbies and interests` section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
-
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
 ```
 (ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say). [@quidditch] However, such coincidences are unlikely so if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills, knowledge or experience you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
+You could opt to have a `hobbies and interests` section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
 
 The fact that you enjoy `swimming`, `reading`, `football`, `cooking`, `music`, `travel` and `hiking` is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes, they are very common so there's not much point mentioning them on your CV unless you give more detail, for example:
 
@@ -736,16 +737,14 @@ show me the money!-->
 * RESUME ▶️
 ```
 
-## Checklist: Big Bad Bugs {#checklist}
+## CV checklist: Self-assessment {#checklist}
 
 Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick checklist for debugging your CV before you send it off to an employer or show it to me:
 
-1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig). See the examples in chapter \@ref(hacking). Who would *you* want to interview and why?
 1. 🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section \@ref(length) Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (g a p p y) or too little (cramped)? See section \@ref(pdf)
 1. 🔲 Is your year of graduation, degree program, University and expected (and/or achieved) overall degree classification clear with GPA as a percentage? See section \@ref(education)
 1. 🔲 Have you eaten your own dogfood (woof) by reading it out loud, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. 🔲 Have you spell-checked using both automatic and manual (proof-reading) techniques? See section \@ref(spelling).
-1. 🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. 🔲 Have you shown you `C.A.R.E`? Are the `Contexts`, `Actions`, `Results` and `Evidence` described in section \@ref(care) clear? Have you added `context` using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. 🔲 Is it in reverse chronological order with the most recent things **first**? Can your timeline be easily followed, with all dates clearly aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example with a clear timeline using right-aligned dates.
 1. 🔲 Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
@@ -755,9 +754,20 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(header)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `experience`? Have you done the same for your `projects`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
-1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
 1. 🔲 Have you used past tense consistently e.g. `developed` not `develop`, `collaborated` not `collaborate`
+1. 🔲 Is the formatting consistent, no random changes of font half-way through? Dates always in the same place? 
+1. 🔲 If you've opted for a two pager, does the page break fall in a sensible place, not halfway through a section?
+1. 🔲 Have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two?
+1. 🔲 How does your CV compare to the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples? How could yours be improved?
 
+## CV Checklist: Peer-assessment {#cvswap}
+
+Now that you've self-assessed your CV, you should swap it with somebody and check each others work.
+
+1. 🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
+1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
+1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
+1. 🔲 Have you `triangulated` all the different feedback on your CV, because some of it is likely to be contradictory?
 
 ```{r wonderfuldarling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwonderfuldarling)"}
 knitr::include_graphics("images/Critical Friend.png")
