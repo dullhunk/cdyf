@@ -5,19 +5,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students</title>
-<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 21 March, 2024">
+<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 22 March, 2024">
 <meta name="description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="generator" content="bookdown 0.37 with bs4_book()">
 <meta property="og:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta property="og:type" content="book">
-<meta property="og:url" content="https://www.cdyf.me/debugging#misc">
-<meta property="og:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
+<meta property="og:url" content="https://www.cdyf.me/debugging">
+<meta property="og:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
 <meta property="og:description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta name="twitter:site" content="@dullhunk">
 <meta name="twitter:description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
-<meta name="twitter:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
+<meta name="twitter:image" content="https://www.cdyf.me//images/Coding-your-Future-CDYF.png">
 <!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
 <script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.6.1/transition.js"></script><script src="libs/bs3compat-0.6.1/tabs.js"></script><script src="libs/bs3compat-0.6.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
@@ -25,8 +25,8 @@
 <script defer data-domain="cdyf.me" src="https://plausible.io/js/script.outbound-links.js"></script><!--script src="https://platform.twitter.com/widgets.js"></script--><link rel="shortcut icon" href="favicon.ico">
 <meta property="og:title" content="Chapter 8 Debugging your future | Coding Your Future: A Guidebook for Students">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.cdyf.me/debugging#misc">
-<meta property="og:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
+<meta property="og:url" content="https://www.cdyf.me/">
+<meta property="og:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
 <meta name="author" content="Duncan Hull and Bryan Mathers">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:card" content="summary_large_image">
@@ -34,7 +34,7 @@
 <meta name="twitter:title" content="Coding Your Future: a Guidebook for Students">
 <meta name="twitter:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
 <!-- same again for LinkedIn--><meta name="description" property="og:description" content="Welcome to coding your future. This guidebook will help you design, build, test and code your future in computing. You'll be introduced to professional issues in computer science, exploring techniques for making career decisions, job searching, writing applications and competing successfully in interviews and the workplace. Alongside the practical engineering issues of coding and testing your future, this guidebook also encourages you to design your future by taking a step back and thinking more theoretically. You will apply computational thinking techniques, to reflect on who you are, what your story is, how you communicate with other people, what your experience is to date and where you want to be in the future.">
-<meta name="twitter:image" content="https://www.cdyf.me/images/Anyone%20for%20quidditch.png">
+<meta name="twitter:image" content="https://www.cdyf.me/images/Coding-your-Future-CDYF.png">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
     
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
@@ -537,15 +537,15 @@ Figure 8.13: Have you won any prizes or trophies? If you have, make sure you des
 </div>
 <div id="misc" class="section level3" number="8.6.7">
 <h3>
-<span class="header-section-number">8.6.7</span> Your optional extras: skills, hobbies, miscelleneous?<a class="anchor" aria-label="anchor" href="#misc"><i class="fas fa-link"></i></a>
+<span class="header-section-number">8.6.7</span> Your optional extras: Skills? Hobbies? Misc?<a class="anchor" aria-label="anchor" href="#misc"><i class="fas fa-link"></i></a>
 </h3>
-<p>If you have anything else you want to highlight besides your <code>Education</code>, <code>Experience</code>, <code>Projects</code>, <code>Leadership and Awards</code> you <em>may</em> still have room for one more optional section. Try to come up with a better names for this section than:</p>
+<p>If you have anything else you want to highlight besides your <code>Education</code>, <code>Experience</code>, <code>Projects</code>, <code>Leadership and Awards</code> you <em>may</em> still have room for one more optional section. Try to come up with a better titles for this section than:</p>
 <ul>
 <li><code>Miscellaneous</code></li>
 <li><code>Extracurricular</code></li>
-<li><code>Other highlights and activities</code></li>
+<li><code>Other ...</code></li>
 </ul>
-<p>These titles sound like dumping grounds for your leftovers. You might decide to have a dedicated <code>skills</code> or <code>personal statement</code> section but see section <a href="debugging#care">8.6.8</a> and <a href="debugging#bullshit">8.11.2</a>.</p>
+<p>These titles all sound like dumping grounds for your leftovers, added as an afterthought. You might decide to have a dedicated <code>SKILLS</code> or <code>PERSONAL STATEMENT</code> section but see section <a href="debugging#care">8.6.8</a> and <a href="debugging#bullshit">8.11.2</a>.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:quidditch-fig"></span>
 <img src="images/Anyone%20for%20quidditch.png" alt="It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for Quidditch (say). (Rowling 1997) However, such coincidences are unlikely so if you do list your hobbies and interests, think carefully about WHY you are mentioning them and WHAT skills, knowledge or experience you are trying to demonstrate to potential employers. Anyone for Quidditch sketch by Visual Thinkery is licensed under CC-BY-ND" width="98%"><p class="caption">
@@ -553,8 +553,8 @@ Figure 8.14: It is debatable which, if any, of your hobbies should go on your CV
 </p>
 </div>
 
-<p>You could opt to have a <code>hobbies and interests</code> section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you’re usually pushed for space and looking for things to edit <em>out</em> (rather than add in), so if you’re going to list hobbies, I’d stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure <a href="debugging#fig:quidditch-fig">8.14</a>. Other collaborative activities outside of sport will also demonstrate your communication skills. <span class="citation">(<a href="reading#ref-hobbies">Cheary 2021</a>)</span></p>
-<p>The fact that you enjoy <code>swimming</code>, <code>reading</code>, <code>football</code>, <code>cooking</code>, <code>music</code>, <code>travel</code> and <code>hiking</code> is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There’s nothing <em>wrong</em> with these pastimes, they are very common so there’s not much point mentioning them on your CV unless you give more detail, for example:</p>
+<p>You could opt to have a <code>HOBBIES AND INTERESTS</code> section which can add a bit of colour to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you’re usually pushed for space and looking for things to edit <em>out</em> (rather than add in), so if you’re going to list hobbies, I’d stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure <a href="debugging#fig:quidditch-fig">8.14</a>. Other collaborative activities outside of sport will also demonstrate your communication skills. <span class="citation">(<a href="reading#ref-hobbies">Cheary 2021</a>)</span></p>
+<p>The fact that you enjoy <code>swimming</code>, <code>reading</code>, <code>football</code>, <code>cooking</code>, <code>music</code>, <code>travel</code> and <code>hiking</code> is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There’s nothing <em>wrong</em> with these pastimes, they are very common so there’s not much point mentioning them on your CV <em>unless</em> you give more detail, for example:</p>
 <ul>
 <li>coached a swimming team</li>
 <li>trained as a mountain leader</li>
@@ -567,8 +567,8 @@ Figure 8.14: It is debatable which, if any, of your hobbies should go on your CV
 <p>Of course, you <em>might</em> get lucky and your interviewer(s) could be intrigued by (or even share) your esoteric passion for <a href="https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)">Quidditch</a> (say), but you can’t rely on it. So, I reckon if you’re going to mention hobbies and interests at all then …</p>
 <ul>
 <li>pick the unusual hobbies that make you unique</li>
-<li>describe the interests that add some colour and personality to your CV</li>
-<li>be specific, e.g. <code>reading japanese novels from 20th century</code> might sound more interesting (and convincing) than just <code>reading</code>
+<li>describe the interests that add some colour and personality to your CV that could spark conversations in interviews</li>
+<li>be specific, e.g. <code>reading japanese novels from 20th century</code> sounds more interesting and convincing than just <code>reading</code>
 </li>
 <li>highlight any <code>actions</code> you’ve taken, see chapter <a href="actioning#actioning">10</a>
 </li>
@@ -579,7 +579,7 @@ Figure 8.14: It is debatable which, if any, of your hobbies should go on your CV
 <h3>
 <span class="header-section-number">8.6.8</span> Show your C.A.R.E.<a class="anchor" aria-label="anchor" href="#care"><i class="fas fa-link"></i></a>
 </h3>
-<p>You may be tempted to dedicate a whole section on your CV to <code>skills</code>, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you’re going to have a <code>skills</code> section, keep it short. Why? Let’s imagine, that like <a href="Rick_Urshion.pdf">Rick Urshion</a>, you include Python in a long list of skills, with its own dedicated section. There are at least five problems with Rick’s not so skilful approach:</p>
+<p>You may be tempted to dedicate a whole section on your CV to <code>SKILLS</code>, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you’re going to have a <code>SKILLS</code> section, keep it short. Why? Let’s imagine, that like <a href="Rick_Urshion.pdf">Rick Urshion</a>, you include Python in a long list of skills, with its own dedicated section. There are at least five problems with Rick’s not so skilful approach:</p>
 <ol style="list-style-type: decimal">
 <li>❎ <strong>No <code>Context</code></strong> to give the reader an idea of where he’s developed or used his Python skills. Was it during his education, as a part of his work experience or his personal projects? We don’t know because he doesn’t say.<br>
 </li>
@@ -1095,7 +1095,7 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 <li><a class="nav-link" href="#experience"><span class="header-section-number">8.6.4</span> Your experience</a></li>
 <li><a class="nav-link" href="#projects"><span class="header-section-number">8.6.5</span> Your projects</a></li>
 <li><a class="nav-link" href="#prizes"><span class="header-section-number">8.6.6</span> Your leadership &amp; awards</a></li>
-<li><a class="nav-link" href="#misc"><span class="header-section-number">8.6.7</span> Your optional extras: skills, hobbies, miscelleneous?</a></li>
+<li><a class="nav-link" href="#misc"><span class="header-section-number">8.6.7</span> Your optional extras: Skills? Hobbies? Misc?</a></li>
 <li><a class="nav-link" href="#care"><span class="header-section-number">8.6.8</span> Show your C.A.R.E.</a></li>
 </ul>
 </li>
@@ -1139,7 +1139,7 @@ Figure 8.25: It can be a bit embarassing showing your CV to other people, it is 
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 21 March, 2024. </p>
+    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 22 March, 2024. </p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">

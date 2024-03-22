@@ -313,7 +313,7 @@ If that sounds like you, it is worth applying for GSoC.
 
 Experience as a section on your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a team, taken responsibility for something or tried to make the world a better place somehow, see figure \@ref(fig:volunthero-fig). These include:
 
-* Volunteering: Doing voluntary work is a good way to pick up new skills
+* Volunteering: Doing voluntary work is a great way to pick up new skills
 * Being involved in societies: e.g. taking responsibility for things in an organisation
 * Getting involved in a community, either physical or online
 
@@ -321,11 +321,26 @@ Experience as a section on your CV usually means *paid* work. However, experienc
 knitr::include_graphics("images/volunthero.jpeg")
 ```
 
-(ref:captionvolunthero) [Volunteering](https://en.wikipedia.org/wiki/Volunteering) is a great source of experience that employers value. That could mean volunteering for charitable causes, taking responsibility in a student society or getting involved in open source projects. Picture of volunteers cleaning up after Hurricane Sandy in 2012 by Jim Henderson via Wikimedia Commons [w.wiki/3Z96](https://w.wiki/3Z96) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionvolunthero) [Volunteering](https://en.wikipedia.org/wiki/Volunteering) is a great source of experience that employers value. That could mean volunteering for charitable causes, taking responsibility in a student society or getting involved in open source projects. Picture of volunteers cleaning up after Hurricane Sandy in 2012 by Jim Henderson via Wikimedia Commons [w.wiki/3Z96](https://w.wiki/3Z96) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
+Your University should be able help you find volunteering opportunities, for example at the University of Manchester, a wide range of volunteering opportunities can be found at [find-volunteering.manchester.ac.uk](https://find-volunteering.manchester.ac.uk/). Volunteering doesn't have to be something involving your technical skills but there are some unique opportunities for students of computing to pass on their technical knowledge and skills through various kinds of teaching, see figure \@ref(fig:codeclubs-fig)
+
+```{r codeclubs-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncodingclubs)"}
+knitr::include_graphics("images/codingclubs.jpg")
+```
+
+(ref:captioncodingclubs) As a student of computing, your technical skills and knowledge can be valuable to members of your local community looking to learn. Organisations like [codeclub.org](https://codeclub.org), [codefirstgirls.com](https://codefirstgirls.com) and [coderdojo.com](https://coderdojo.com) are just three examples where your tecnical expertise is valued. Code Club and CoderDojo are both voluntary, Code First Girls pays its instructors once they've completed a training course.
+
+When and where you teach will depend on who you are and how much time you feel you can give. For example:
+
+* [codeclub.org](https://codeclub.org): Requires a weekly commitment, usually over a 12 week period. Code A global network of free coding clubs for 9–13 year olympiads
+* [coderdojo.com](https://coderdojo.com): Requires a monthly commitment, see for example Manchester CoderDojo, which meets every month at Ada, the National College for Digital Skills [mcrcoderdojo.org.uk](https://mcrcoderdojo.org.uk/)
+* [codefirstgirls.com](https://codefirstgirls.com): if you're especially interested in helping girls and women of all ages learn coding skills and eliminating the diveristy gaps in technology
+
+However you do it, teaching others to learn how to code will develop valuable skills that employers care about. It will also help your CV stand out when applying for jobs, because these projects SHOW the reader (rather than just TELLING them) that you are developing your communication and leadership skills, see section \@ref(prizes).
 
 ### Hacking & tinkering experience {#tinkering}
-Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as passion projects or in collaboration with others. For example, why not build an experimental:
+Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as personal passion projects or in collaboration with others. For example, why not build an experimental:
 
 * Hackable burglar alarm?^[hackable by you, not the burglars, obvs]
 * DIY smart energy meter?
@@ -333,7 +348,7 @@ Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/T
 * Plant watering system for when you go on holiday? [@plantwatering]
 * See also [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x), [online.coolestprojects.org](https://online.coolestprojects.org/) and section \@ref(bignames) for some starting points
 
-Yes, these projects are amateur, but tinkering and hacking clearly demonstrates your passion for learning and engineering. Apart from being fun, weekend hacks can look *great* in the `projects` section of your CV, see section \@ref(projects).
+Yes, these projects are amateur, but tinkering and hacking clearly demonstrates your passion for learning and engineering. Apart from being fun, weekend hacks can look *great* in the `PROJECTS` section of your CV, see section \@ref(projects).
 
 ```{r hackathon-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionhackathon)"}
 knitr::include_graphics("images/hackathon.jpeg")
@@ -344,14 +359,16 @@ Attending [Hackathons](https://en.wikipedia.org/wiki/Hackathon) is another way t
 
 * [hackathons.org.uk](https://www.hackathons.org.uk/)
     - [greatunihack.com](https://greatunihack.com/)
-    - [studenthack.com](https://www.studenthack.com/)
+    - [studenthack.com](https://www.studenthack.com/) and [mcrstudenthack.com](https://mcrstudenthack.com/)
     - [ichack.org](https://ichack.org/) at Imperial College London
 * [codeforces.com](https://codeforces.com/)
 * [devpost.com/hackathons](https://devpost.com/hackathons)
 * [mlh.io](https://mlh.io/) (Major League Hacking)
-* [hackerearth.com](https://www.hackerearth.com/) <!--more like hackerrank than an event?-->
 * [hackupc.com](https://hackupc.com/)
 * [hackzurich.com](https://hackzurich.com/)
+
+<!-- [hackerearth.com](https://www.hackerearth.com/) more like hackerrank than an event?-->
+
 
 Alongside these competitions, there are other hackathon-type events which are organised by a single employer, see section \@ref(bignames). There are also opportunities to build your technical experience by practicing coding interviews online such as hackerrank and leetcode, described in section \@ref(codinginterview).
 
@@ -359,7 +376,7 @@ Passion projects like these help to distinguish you from your peers, but they do
 
 * Neglect hobbies, interests and friends
 * Start to suffer from anxiety or depression
-* Only have `projects` that were a compulsory part of your formal education
+* Only have `PROJECTS` that were a compulsory part of your formal education
 
 It might be time to reflect and consider re-balancing your priorities if you can.
 

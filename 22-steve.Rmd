@@ -207,7 +207,7 @@ right?
 
 > Steve: I think I still have the eight inch floppy with my thesis but on I don't think I know where I would go to read one. And then the other side, allowed me to transfer to a floppy which could then be taken along to print on this daisy wheel printer. 
 
-Okay, good. So that's where the computing comes from then. So you mentioned Acorn, computers, something followed on from your Fellowship and last year in 2022, yourself [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) (see figure \@ref(fig:sophie-wilson-fig)), [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) (see \@ref(fig:john-hennessy-fig)), [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) (see figure \@ref(fig:david-patterson-fig)) were awarded the [Charles Stark Draper prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) from the [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering) of the United States for **Contributions to invention development and implementation of the Reduced Instruction Set Computer (RISC) chips** (see figure \@ref(fig:nae-vid)). So can you describe where and how that architecture came about, and what motivated it? We've fast forwarded a little bit to after your PhD, working at Acorn Computers. 
+Okay, good. So that's where the computing comes from then. So you mentioned Acorn, computers, something followed on from your Fellowship and last year in 2022, yourself, [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson) (see figure \@ref(fig:sophie-wilson-fig)), [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy) (see \@ref(fig:john-hennessy-fig)), [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) (see figure \@ref(fig:david-patterson-fig)) were awarded the [Charles Stark Draper prize](https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize) from the [National Academy of Engineering](https://en.wikipedia.org/wiki/National_Academy_of_Engineering) of the United States for **Contributions to invention development and implementation of the Reduced Instruction Set Computer (RISC) chips** (see figure \@ref(fig:nae-vid)). So can you describe where and how that architecture came about, and what motivated it? We've fast forwarded a little bit to after your PhD, working at Acorn Computers. 
 
 ```{r john-hennessy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhennessy)"}
 knitr::include_graphics("images/john-hennessy.jpeg")
@@ -317,11 +317,11 @@ So rather than manufacturing the chips  (like Intel do) it was  this licensing m
 ::: {.rmdnote}
 (ref:codingcomment)
 
-How expensive is expensive? As of 2024, the cost of designing a new chip is around $100 million. [@chipwar] Although similar in size to your fingernail, microchips are one of the most complex things that humanity has designed and built. 
+How expensive is expensive? As of 2024, the cost of *designing* a new chip starts at around $100 million [@chipwar] and goes up to more than $500 million. [@miraclechips] Although similar in size to your fingernail, microchips are one of the most complex things that humanity has designed and built. 
 
 :::
 
-So moving on from Acorn then, so we should say the acronym arm stands for, is it **Advanced RISC machines** or  **Acorn RISC machines**? 
+So moving on from Acorn then, so we should say the acronym `arm` stands for, is it **Advanced RISC machines** or  **Acorn RISC machines**? 
 
 > Steve: It's been both, originally it was the acorn risc machine. That's where arm comes from.  And then, when that activity was spun out into this joint venture with Apple they changed the *acorn* bit to *advanced*, so it became *Advanced RISC machine*. And and then a few years later, they just dropped the expansion altogether and it's not, yeah, okay. So, you know, initially it was capital **A**, capital **R**, capital **M** (**ARM**) and now it's all lowercase *arm*. 
 
