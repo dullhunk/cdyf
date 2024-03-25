@@ -223,14 +223,16 @@ salaries <- tribble(
   2020, 30000,
   2021, 30000,
   2022, 32000,
-  2023, 33500)
+  2023, 33500,
+  2024, 34000
+ )
 
 ggplot(data = salaries) + geom_bar(mapping = aes(x = year, y = salary), stat = "identity")
 
 ```
 
 
-(ref:captionsalaries) Average graduate starting salaries (in £) at the UK’s “top” employers 2007 to 2023, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2023] Since 2007, graduate salaries have risen from `£24,500` to `£33,500` in 2023. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don't feature in this data and they typically pay less than the large multinational employers dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section \@ref(undersell)
+(ref:captionsalaries) Average graduate starting salaries (in £) at the UK’s “top” employers 2007 to 2024, according to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2024] Since 2007, graduate salaries have risen from `£24,500` to `£34,000` in 2024. Note that these are *graduate* salaries, not internship or placement salaries which tend to be lower. Also note that “top” employers is a highly subjective judgement, lots of good smaller employers don't feature in this data and they typically pay less than the large multinational employers dominating this sample. The averages also hide significant variations by sector and location, see the salary resources in section \@ref(undersell)
 
 
 ### Search by size {#by-size}
