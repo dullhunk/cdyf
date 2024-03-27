@@ -235,16 +235,16 @@ Let's look at each of these sections in turn:
 
 ### Your education, education, education {#education}
 
-Unless you have a *significant* amount of experience, the `Education` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
+Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
 
-* Describing in enough detail what you've studied and any `Projects`^[If you put these in a `Projects` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
+* Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to your readers
 
 ```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
 knitr::include_graphics("images/tony-blair-education-education-education.jpeg")
 ```
 
-(ref:captionblair) [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair)'s top three priorities as a new Prime Minister of the United Kingdom were `education, education and education`. [@tonyblair; @blair] Likewise, at this stage of your career, your education should be a top priority on your CV. Education should go first, unless you've got a *significant* amount of `experience`. As a graduate (or undergraduate) your education is the most recent, relevant and important thing about you so it should have top billing, see the discussion in figure \@ref(fig:lopez-vid). This [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) portrait of Tony Blair in 2007 by the Polish Presidency on Wikimedia Commons [w.wiki/64Kd](https://w.wiki/64Kd) has been adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionblair) [Tony Blair](https://en.wikipedia.org/wiki/Tony_Blair)'s top three priorities as a new Prime Minister of the United Kingdom were `education, education and education`. [@tonyblair; @blair] Likewise, at this stage of your career, your education should be a top priority on your CV. Education should go first, unless you've got a *significant* amount of `EXPERIENCE`. As a graduate (or undergraduate) your education is the most recent, relevant and important thing about you so it should have top billing, see the discussion in figure \@ref(fig:lopez-vid). This [GNU Free Documentation Licensed](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) (GFDL) portrait of Tony Blair in 2007 by the Polish Presidency on Wikimedia Commons [w.wiki/64Kd](https://w.wiki/64Kd) has been adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 You've invested a significant amount of time and money in getting your degree. At this stage, your degree justifies a longer description than a rather terse one line `BSc (Hons) Computer Science`. You'll need to:
 
@@ -384,11 +384,14 @@ Again, congratulations, but `third prize` out of how many?
 ### Your optional extras: Skills? Hobbies? Misc? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with a better titles for this section than: 
 
-* `Miscellaneous`
-* `Extracurricular` 
-* `Other ... ` 
+* `MISCELLANEOUS`
+* `EXTRACURRICULAR` 
+* `OTHER ... ` 
 
-These titles all sound like dumping grounds for your leftovers, added as an afterthought. You might decide to have a dedicated `SKILLS` or `PERSONAL STATEMENT` section but see section \@ref(care) and \@ref(bullshit).
+These titles all sound like dumping grounds for your leftovers, added as an afterthought. They deserve a more interesting title. If you're thinking of having a section dedicated to
+
+*  `SKILLS` see section \@ref(care)
+*  `PERSONAL STATEMENT` see section \@ref(bullshit)
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
@@ -737,9 +740,9 @@ show me the money!-->
 * RESUME ▶️
 ```
 
-## CV checklist: Self-assessment {#checklist}
+## CV checklist: Self-debugging {#checklist}
 
-Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick checklist for debugging your CV before you send it off to an employer or show it to me:
+Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick self-assessment checklist for debugging your CV before you send it off to an employer or show it to me:
 
 1. 🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section \@ref(length) Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (g a p p y) or too little (cramped)? See section \@ref(pdf)
 1. 🔲 Is your year of graduation, degree program, University and expected (and/or achieved) overall degree classification clear with GPA as a percentage? See section \@ref(education)
@@ -760,20 +763,51 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two?
 1. 🔲 How does your CV compare to the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples? How could yours be improved?
 
-## CV Checklist: Peer-assessment {#cvswap}
+## CV checklist: Peer-debugging {#cvswap}
 
-Now that you've self-assessed your CV, you should swap it with somebody and check each others work.
+Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, you should swap it with somebody and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process so make sure you're both a giver and receiver of feedback, both will help you improve your CV: 
 
 1. 🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
 1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
 1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
-1. 🔲 Have you `triangulated` all the different feedback on your CV, because some of it is likely to be contradictory?
+
 
 ```{r wonderfuldarling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwonderfuldarling)"}
 knitr::include_graphics("images/Critical Friend.png")
 ```
 
 (ref:captionwonderfuldarling) Showing your CV to somebody else is one of the best ways to debug it. You need to find a [critical friend](https://en.wikipedia.org/wiki/Critical_friend), somebody who won't just tear it apart (`hostile witness`) or tell you it's simply *wonderful* darling (`uncritical lover`) but tell you how to improve it, whatever state it is in (`critical friend`). Critical friend by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Having sought feedback on your CV from a diverse range of sources, you'll need to *triangulate* the responses because they'll probably contradict each other. We'll  look at that in the next section.
+
+## CV checklist: triangulation {#triangulation}
+
+You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too. They'll probably all disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources, it's called *triangulation* for a reason. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+
+```{r triangtable, echo = FALSE}
+triang_table <- tibble::tribble(
+    ~ "Angle", ~ "Strengths",  ~ "Weaknesses",     
+  "Friends & family", "They know you pretty well, warts and all",   "(ref:notcritical)", 
+  "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that wrote them ", 
+  "Academics", "(ref:academentia)",   "May have limited experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
+  "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have limited first hand experience of the degree you've studied or the profession you are entering [@samfranklin]", 
+  "Recruiters & managers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
+  "Peers", "Your fellow students know you, you Uni and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment", 
+  "You", "(ref:knowthyself)",   "(ref:worstcritic)",)
+knitr::kable(triang_table, caption = "Some of the strengths and weakness of difference sources (angles) of feedback on your CV. You'll need to triangulate between different and probably contradictory opinions but doing so will improve your CV.", booktabs = TRUE)
+```
+
+(ref:twentyfourseven) Available online 24-7, see section \@ref(robotproof)
+
+(ref:notcritical) Might not be critical enough, see figure \@ref(fig:wonderfuldarling-fig)
+
+(ref:academentia) Good subject knowledge and good source of advice on further study, see chapter \@ref(researching)
+
+(ref:knowthyself) You know yourself (hopefully) see chapter \@ref(exploring)
+
+(ref:worstcritic) It can be difficult to see your own faults, both on paper and in person, see section \@ref(checklist). There's a good chance you might be your own worst critic too. [@worstcritic]
+
+So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and careers service staff. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you.
 
 ## Covering letters & personal statements {#covering-letters}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement or summary. They are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) shown in figure \@ref(fig:elevator-fig). Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to include a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for *ages* (yawn) without actually providing any evidence for his assertions. This kind of information usually fits better in your covering letter anyway, because there isn't much space for it on a CV.
