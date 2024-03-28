@@ -810,11 +810,12 @@ knitr::kable(triang_table, caption = "Some of the strengths and weakness of diff
 
 (ref:worstcritic) It can be difficult to see your own faults, both on paper and in person, see section \@ref(checklist). There's a good chance you might be your own worst critic too. [@worstcritic]
 
-```{r honest-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionhonest)"}
-knitr::include_graphics(rep("images/honest-frank-feedback.png", 3))
+
+```{r honest-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhonest)"}
+knitr::include_graphics("images/honest-frank-feedback.png")
 ```
 
-(ref:captionhonest) To improve your CV you want honest frank feedback on it. Frank isn't judging you, he is judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to continue your professional development. So, who are the people who will give you honest feedback? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
+(ref:captionhonest) To improve your CV you want honest frank feedback on it. Frank isn't judging you, he is judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to continue your professional development. So, who are the people who will give you honest feedback? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
