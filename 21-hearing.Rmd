@@ -399,10 +399,20 @@ In *Hearing your Future*, you can listen to students about how they are Coding t
 ### Thanks Jez {#jez}
 This podcast is inspired and supported by [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069), host, producer, director, editor, sound engineer and mastermind of the excellent CS\@Manchester podcast, see figure \@ref(fig:jez-fig). Thanks Jez! 🙏
 
-This podcast has also borrowed ideas from the BBC. If it were broadcast on Radio 4, it would be a cross between *Desert Island Discs* and *The Life Scientific*. [@thelifescientific] Thanks to Jim Al-Khalili, Lauren Laverne, Sue Lawley, Kirsty Young, Michael Parkinson and Roy Plumley for the inspiration. [@desertislandddiscs]
 
 ```{r jez-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionjez)", dev='png'}
 knitr::include_url('https://www.podomatic.com/podcasts/cs-engagement')
 ```
 
 (ref:captionjez) The CS\@Manchester podcast was produced and hosted by Jez Lloyd and ran from 2015 to 2020. This podcast, *Hearing your future*, is following in all 38 of its audible footsteps, see [podomatic.com/podcasts/cs-engagement](https://www.podomatic.com/podcasts/cs-engagement)
+
+### Thanks BBC Radio {#beeb}
+
+This podcast has also borrowed ideas from the BBC, see figure \@ref(fig). It's a cross between *Desert Island Discs*, *The Life Scientific* and *Young Again*. [@thelifescientific] Thanks to Jim Al-Khalili, Lauren Laverne, Sue Lawley, Kirsty Young, Michael Parkinson and Roy Plumley for the inspiration. [@desertislandddiscs;@youngagain]
+
+```{r beeb-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbeeb)"}
+knitr::include_graphics("images/desert-island-scientific.png")
+```
+
+(ref:captionbeeb) *Hearing Your Future* (right) is a cross between *Desert Island Discs* hosted by Lauren Laverne (left) and *The Life Scientific* hosted by Jim Al-Khalili (middle) and *Young Again with Kirsty Young*. Subscribe and listen wherever you get your podcasts. CC-BY-SA Portrait of Lauren Laverne by Jwslubbock on Wikimedia Commons [w.wiki/6z4z](https://w.wiki/6z4z), CC-BY-SA portrait of Jim Al-Khalili by Debbie Rowe at the Royal Society on Wikimedia Commons [w.wiki/_w2fh](https://w.wiki/_w2fh), CC-BY-ND Hearing your Future artwork by Visual Thinkery.
+
