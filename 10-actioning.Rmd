@@ -48,7 +48,14 @@ Quickly scan your CV, covering letter or application form for VERBS:
 
 ## Team verbs {#joining}
 
-Some verbs to demonstrate how you have worked and communicated with others in a team.
+Some verbs to demonstrate how you have worked and communicated with others in a team, see figure \@ref(fig:teamwork-fig)
+
+```{r teamwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionteamwork)"}
+knitr::include_graphics("images/teamwork.jpg")
+```
+
+(ref:captionteamwork) What kinds of teams have you been a part of? What role did you play in the team? How did your [team work](https://en.wikipedia.org/wiki/Teamwork) make the dream work? Employers will want to know the details, so spell it out for them explicitly using carefully chosen verbs to describe the different roles and responsibilities you've taken while working towards common goals. [CC BY](https://creativecommons.org/licenses/by/2.0/deed.en) picture of a team pushing a vehicle out the mud by Clear Path International on Wikimedia Commons [w.wiki/9f4Y](https://w.wiki/9f4Y) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 
+
 
 * `administered`
 * `advised`
@@ -59,13 +66,13 @@ Some verbs to demonstrate how you have worked and communicated with others in a 
 * `coached`
 * `consulted` either as giver or receiver
 * `collaborated`
+* `communicated`
 * `contributed`
 * `encouraged`
 * `explained`
 * `instructed` (if you helped others)
 * `interviewed`
 * `organised`
-* `participated` (be more specific if you can)
 * `performed` 
 * `presented`
 * `recommended`
@@ -92,11 +99,11 @@ Verbs to demonstrate your engineering and technical skills.
 * `configured`
 * `designed` e.g. [greenfield software development](https://en.wikipedia.org/wiki/Greenfield_project) 
 * `cloned` e.g. git
-* `debugged` e.g. [brownfield development](https://en.wikipedia.org/wiki/Brownfield_(software_development) )) <!-- weird bracket bug here-->
+* `debugged` most software engineering is debugging your own, and other people's code
 * `developed`
 * `deployed`
 * `documented`
-* `experimented`
+* `exploited` not a person but a feature
 * `fixed` e.g. bugs
 * `gathered` e.g. requirements
 * `implemented` e.g. your favourite algorithm
@@ -115,17 +122,29 @@ Verbs to demonstrate your engineering and technical skills.
 
 ## Leadership verbs {#leading}
 
-Some verbs to demonstrate how you have used your initiative and taken the lead:
+Can you convince your reader you are developing your leadership skills? You don't need to be a [Machiavellian ruler](Machiavellianism (psychology)) though, see figure \@ref(fig:machiavelli-fig).
+
+```{r machiavelli-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmachiavelli)"}
+knitr::include_graphics("images/machiavelli.jpg")
+```
+
+(ref:captionmachiavelli) What kind of leader do you want to be? There are many ways to lead: `loved` and `feared` are two verbs that [Niccolò Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) used to describe leaders. Many other kinds of leadership are available, with a wide range of verbs to describe them: `mentored`, `motivated`, `demonstrated`, `facilitated`,  and `supervised` etc. Public domain image of a portrait of Niccolò Machiavelli by [Santi di Tito](https://en.wikipedia.org/wiki/Santi_di_Tito) on Wikimedia Commons [w.wiki/5FCv](https://w.wiki/5FCv) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 
+
+Verbs you could use to demonstrate your leadership:
 
 * `accelerated` not just hardware but people too!
 * `argued` e.g. persuasive speaking or writing
 * `deputised` because sometimes you have follow, you can't always be a leader 
+* `demonstrated`
+* `enabled`
 * `established`
 * `created`
 * `decided` you've had the power to make (or influence) decision making
 * `devised`
 * `directed`
+* `influenced` see section \@ref(influencing)
 * `facilitated`
+* `founded` or  `co-founded` you started something from scratch
 * `hosted`
 * `initiated`
 * `introduced`
@@ -133,7 +152,7 @@ Some verbs to demonstrate how you have used your initiative and taken the lead:
 * `launched`
 * `led`
 * `managed`
-* `mentored` if you've helped by sharing your skills and knowledge
+* `mentored` if you've helped develop others by sharing your skills and knowledge
 * `motivated`
 * `supervised`
 * `transformed` you changed something for the better
@@ -149,26 +168,36 @@ Verbs that demonstrate how you have improved a situation by taking responsibilit
 * `enhanced`
 * `generated`
 * `increased` make sure you quantify it, see section \@ref(care)
-* `learned` think about *what* you are learning
+* `learned` think about *what* you have learned
 * `refined`
 * `resolved` a conflict or conflicts
 * `saved` money, time, resources etc
 
 
 ## Scientific verbs {#scientific}
-Verbs that demonstrate your analytical and scientific skills
+We're all scientists deep down and we all use scientific skills and knowledge in our daily life, see figure \@ref(fig:natural-science-fig).
+
+```{r natural-science-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionnatsci)"}
+knitr::include_graphics("images/science.jpg")
+```
+
+(ref:captionnatsci) Computer Science isn't a [natural science](https://en.wikipedia.org/wiki/Natural_science), but that doesn't mean it isn't natural to have some verbs to demonstrate your scientific skills.  CC BY-SA image of the [Carina Nebula](https://en.wikipedia.org/wiki/Carina_Nebula) by T. Preibisch and the European Southern Observatory (ESO) on Wikimedia Commons [w.wiki/9cVA](https://w.wiki/9cVA) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 
+
+Some verbs you could use to describe your scientific skills and knowledge include:
 
 * `assessed`
 * `calculated`
 * `discovered`
 * `estimated`
 * `evaluated`
-* `exploited` not a person but a feature
+* `experimented`
 * `identified`
 * `interpreted`
 * `investigated`
 * `measured`
 * `modelled` in a computational or mathematical sense
+* `observed`
+* `predicted`
 * `proved`
 * `quantified` for example in benchmarking
 * `researched`  
@@ -177,6 +206,14 @@ Verbs that demonstrate your analytical and scientific skills
 * `tested`
 
 ## Winning verbs {#winning}
+
+Have you won any prizes, trophies or other awards? You should display them with pride and tell your reader what they were given for, see section \@ref(prizes) and figure \@ref(fig:trophy2-fig)
+
+```{r trophy2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy2)"}
+knitr::include_graphics("images/trophy.jpeg")
+```
+
+(ref:captiontrophy2) There's plenty of verbs for describing awards and honours you've been granted, not just trophies like this one, but any kind of award you've gained or been given to recognise your achievements, even the small ones. [CC0 public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en) picture of [Johan Cruyff](https://en.wikipedia.org/wiki/Johan_Cruyff) holding the [European Champion Clubs' Cup](https://en.wikipedia.org/wiki/European_Champion_Clubs%27_Cup) in 1972 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/6h5t](https://w.wiki/6h5t) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) ⚽️
 
 Verbs for demonstrating your achievements and honours
 
@@ -191,9 +228,20 @@ Verbs for demonstrating your achievements and honours
 
 ## Organising verbs  {#planning}
 
-Verbs to demonstrate your planning and organisational skills:
+Have you ever organised something? Organisation makes everything else possible, see figure \@ref(fig:organon-fig).
+
+```{r organon-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionorganon)"}
+knitr::include_graphics("images/organisation.jpg")
+```
+
+
+(ref:captionorganon) The cells in your body are `organised` into collections of tissues called [organs](https://en.wikipedia.org/wiki/Organ_(biology)) which serve a common function. What have you organised? Public domain image of internal human organs by [Mikael Häggström](https://en.wikipedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m) on Wikimedia Commons [w.wiki/9V6x](https://w.wiki/9V6x) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+
+Here some sample verbs you could use to demonstrate your organisational skills:
 
 * `arranged`
+* `classified`
 * `prepared`
 * `scheduled`
 * `organised`
@@ -211,7 +259,6 @@ Verbs that demonstrate how you have influenced other people:
 * `converted`
 * `convinced`
 * `guided`
-* `demonstrated`
 * `illustrated` if you have graphical skills for example
 * `influenced` this could include social media influencing
 * `liaised`
@@ -228,33 +275,26 @@ Verbs that demonstrate how you have influenced other people:
 
 ## Weasel verbs {#weasel}
 
-The following verbs are [weasel words](https://en.wikipedia.org/wiki/Weasel_word) that *some* people say are too vague and ambiguous:
-
-* `involved` What was your role exactly?
-* `worked` Most people work, can you be more specific? 
-* `joined` So you became a `member` of something? What did your `membership` actually entail? Did you eagerly sign up at the freshers fair with good intentions never to return, or did you play a more active role?
-
-Weasel words should be avoided, they *look* like they're telling your reader something important, but usually they fail to deliver, see figure \@ref(fig:weasel-fig).
+Some people say [weasel words](https://en.wikipedia.org/wiki/Weasel_word) are too vague and ambiguous, see figure \@ref(fig:weasel-fig). You might think those weasely verbs tell your reader something important, but they often fail to deliver on closer inspection.
 
 ```{r weasel-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionweasel)"}
 knitr::include_graphics("images/weasel-words.jpeg")
 ```
 (ref:captionweasel) Popular in political parlance, [Weasel words](https://en.wikipedia.org/wiki/Weasel_word) create an impression that something specific and meaningful has been said when in fact only a vague, ambiguous or irrelevant claim has been communicated.  Public domain weasel by Tkgd2007 on Wikimedia Commons [w.wiki/8P2u](https://w.wiki/8P2u) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 
 
+The following verbs are that *some* people say are too vague and ambiguous:
+
+* `involved` What was your role exactly?
+* `joined` So you became a `member` of something? What did your `membership` actually entail? Did you eagerly sign up at the freshers fair with good intentions never to return, or did you play a more active role?
+* `participated` be specific if you can
+* `worked` Most people work, can you be more specific? 
+
+So avoid using weasel words, or at least clarify what you mean with some quantication or evidence. You don't want to risk triggering your readers sensitive detector described in section \@ref(BS).
+
 
 ## Bullshit verbs {#BS}
 
-We discussed the dangers of bullshit in section \@ref(bullshit). You might think you can bullshit your readers, but you'll probably just trigger their *bullshit detector*. Examples include:
-
-* `honed` saying you `improved` something and then **quantifying** by *how much* you improved it would be much more convincing
-* `spearheaded` Really, are you some kind of hunter-gatherer? Howabout `led`, `managed`, `co-ordinated` or `organised`? See section \@ref(leading). 
-* `streamlined` Something smells a bit fishy, it's the kind of thing a politician would say
-* `leveraged` not sure about this one, smells a bit dodgy?
-* `relished` 
-* `delighted` 
-* `thrilled`
-* `fascinated` 
-* `imagineered` Yes, imagination is a crucial part of engineering. But software imagineering? Really? C'mon! 
+We discussed the dangers of bullshit in section \@ref(bullshit). You might think you can bullshit your readers, but you'll probably just trigger their *bullshit detector*, see figure \@ref(fig:bullshitter-fig) 
 
 ```{r bullshitter-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbullshitter)"}
 knitr::include_graphics("images/on-bullshit.jpeg")
@@ -262,10 +302,19 @@ knitr::include_graphics("images/on-bullshit.jpeg")
 
 (ref:captionbullshitter) Are you a bullshitter? Do you have any bullshitty verbs on your CV? Fair use image of the cover of [Harry G. Frankfurt](https://en.wikipedia.org/wiki/Harry_Frankfurt)'s best selling little book *[On Bullshit](https://en.wikipedia.org/wiki/On_Bullshit)* [@onbullshit] via Wikimedia Commons [w.wiki/6Bnu](https://w.wiki/6Bnu) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
 
+Examples of potentially bullshitty verbs include:
 
-It's probably best to leave *emotive* verbs and *bullshitty* language out of your CV, see figure \@ref(fig:bullshitter-fig). You may well have been `fascinated, thrilled and delighted to hone your leadership skills while spearheading an innovative project that streamlined business processes`, but there are more professional and less bullshitty ways to describe your experience. 💩
+* `honed` saying you `improved` something and then **quantifying** by *how much* you improved it would be much more convincing
+* `spearheaded` Really? Are you some kind of hunter-gatherer? Howabout `led`, `managed`, `co-ordinated` or `organised`? See section \@ref(leading). 
+* `streamlined` Something smells a bit fishy, it's the kind of thing a politician would say
+* `leveraged` not sure about this one, smells a bit dodgy? Perhaps I'm just getting old and cynical... 
+* `relished` 
+* `delighted` 
+* `thrilled`
+* `fascinated` 
+* `imagineered` Yes, imagination is a crucial part of engineering. But software imagineering? Really? C'mon! 
 
-
+It's probably best to leave *emotive* verbs and *bullshitty* language out of your CV. You may well have been `fascinated, thrilled and delighted to hone your leadership skills while spearheading an innovative project that streamlined business processes`, but there are more professional (and less bullshitty) ways to describe your experience. 💩
 
 ## Summarising your actions {#tldr18}
 (ref:tldr)

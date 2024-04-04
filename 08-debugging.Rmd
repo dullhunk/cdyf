@@ -422,7 +422,7 @@ Of course, you *might* get lucky and your interviewer(s) could be intrigued by (
 
 ... or just leave them out altogether. That option is up to you.❓
 
-### Show your C.A.R.E. {#care}
+### Show your C.A.R.E: Spell it out or leave it out {#care}
 
 You may be tempted to dedicate a whole section on your CV to `SKILLS`, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you're going to have a `SKILLS` section, keep it short. Why? Let's imagine, that like [Rick Urshion](Rick_Urshion.pdf), you include Python in a long list of skills, with its own dedicated section. There are at least five problems with Rick's not so skilful approach:
 
@@ -438,7 +438,7 @@ knitr::include_graphics("images/whats-the-story.jpeg")
 
 (ref:captiongallagher) So *[(What's your Story) ~~Morning~~ Coding Glory?](https://en.wikipedia.org/wiki/(What%27s_the_Story)_Morning_Glory%3F)* [@whatsthestory] What is the `Context`, the `Actions`, the `Results` and the `Evidence` for the stories that you are trying to tell? Show your `C.A.R.E.` in storytelling. CC BY portrait of [Noel Gallagher](https://en.wikipedia.org/wiki/Noel_Gallagher) by [alterna2.com](https://alterna2.com/) on Wikimedia Commons [w.wiki/3bimy](https://w.wiki/3bim) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🎸
 
-So, this doesn't mean Rick shouldn't mention his Python skills. Where he can, he needs to give us the `C`ontext, `A`ction, `R`esult and `E`vidence (`C.A.R.E.`) of his story described in section \@ref(care). This will make his Python story much more convincing and interesting to read. Showing a bit of `C.A.R.E.` will improve his chances of being invited to interview.
+So, this doesn't mean Rick shouldn't mention his Python skills. Where he can, he needs to give us the `C`ontext, `A`ction, `R`esult and `E`vidence (`C.A.R.E.`) of his story described in section \@ref(care). This will make his Python story much more convincing and interesting to read. Showing a bit of `C.A.R.E.` will improve his chances of being invited to interview. Really spell it out for your reader. 
 
 This applies to soft skills too, not just hard technical skills. It is often better to mention the context in which you've used the skills you mention on your CV. So, if you're going to have a skills section:
 
@@ -757,18 +757,18 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(structure)
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(header)?
-1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `experience`? Have you done the same for your `projects`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
-1. 🔲 Have you used past tense consistently e.g. `developed` not `develop`, `collaborated` not `collaborate`
+1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `EXPERIENCE`? Have you done the same for your `PROJECTS`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
+1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`
 1. 🔲 Is the formatting consistent, no random changes of font half-way through? Dates always in the same place? 
 1. 🔲 If you've opted for a two pager, does the page break fall in a sensible place, not halfway through a section?
 1. 🔲 Have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two?
-1. 🔲 How does your CV compare to the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples? How could yours be improved?
+1. 🔲 How does your CV compare to the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
 
 ## CV checklist: Peer-debugging {#cvswap}
 
-Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, you should swap it with somebody and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process so make sure you're both a giver and receiver of feedback, both will help you improve your CV: 
+Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, you should swap it with somebody and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles. Both will help you improve your CV: 
 
-1. 🔲 Have you got a second opinion from a “résumé robot”? Is it robot proof? See section \@ref(robotproof) 🤖
+1. 🔲 Have you got a second opinion from a “résumé robot”? How robot proof is it? See section \@ref(robotproof) 🤖
 1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
 1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
 
@@ -798,7 +798,7 @@ triang_table <- tibble::tribble(
 knitr::kable(triang_table, caption = "Some of the strengths and weakness of difference sources (angles) of feedback on your CV. You'll need to triangulate between different and probably contradictory opinions but doing so will improve your CV.", booktabs = TRUE)
 ```
 
-(ref:wartsandall) They know you pretty well, warts and all see \@ref(fig:honest-fig)
+(ref:wartsandall) They know you pretty well, “[warts and all](https://en.wiktionary.org/wiki/warts_and_all)”, see \@ref(fig:honest-fig)
 
 (ref:twentyfourseven) Available online 24-7, see section \@ref(robotproof)
 
@@ -815,7 +815,7 @@ knitr::kable(triang_table, caption = "Some of the strengths and weakness of diff
 knitr::include_graphics("images/honest-frank-feedback.png")
 ```
 
-(ref:captionhonest) To improve your CV you want honest frank feedback on it. Frank isn't judging you, he is judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to continue your professional development. So, who are the people who will give you honest feedback? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
+(ref:captionhonest) **WANTED (DEAD OR ALIVE) HONEST FRANK FEEDBACK** To improve your CV you want honest frank feedback on it. Frank (or Francesca) aren't judging you, they are judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to continue your professional development. So, who are the people who will give you honest feedback? Can you return their favour and give them some feedback on theirs? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
