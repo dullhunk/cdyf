@@ -388,11 +388,13 @@ If you have anything else you want to highlight besides your `Education`, `Exper
 * `EXTRACURRICULAR` 
 * `OTHER ... ` 
 
+
 These titles all sound like dumping grounds for your leftovers, added as an afterthought. They deserve a more interesting title. If you're thinking of having a section dedicated to
 
-*  `SKILLS` see section \@ref(care)
-*  `PERSONAL STATEMENT` see section \@ref(bullshit)
+* `SKILLS` see section \@ref(care)
+* `PERSONAL STATEMENT` see section \@ref(bullshit)
 * `HOBBIES AND INTERESTS` see figure \@ref(fig:quidditch-fig) 
+* `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
@@ -418,7 +420,7 @@ Of course, you *might* get lucky and your interviewer(s) could be intrigued by (
 * pick the unusual hobbies that make you unique
 * describe the interests that add some colour and personality to your CV that could spark conversations in interviews
 * be specific, e.g. `reading japanese novels from 20th century` sounds more interesting and convincing than just `reading` 
-* highlight any `actions` you've taken, see chapter \@ref(actioning)
+* highlight any `actions` you've taken, see chapter \@ref(verbalising)
 
 ... or just leave them out altogether. That option is up to you.❓
 
@@ -489,7 +491,7 @@ It's fine to author your CV in Microsoft Word, but you'll want to save it as (or
 One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction, **R**esult and **E**vidence (C.A.R.E.) to tell your stories. What's your story, coding glory? [@whatsthestory] The `C.A.R.E.` method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing `Python` as a skill, you could tell the reader more about the context in which you've used python, what you actually did with it and what the result was. You really need to spell it out.
 
 * **CONTEXT**: So you've used `Python`, but in what context? As part of your education? For a personal project? As a volunteer? In a competition? All of the above?
-* **ACTION**:  What did you *do* with `Python`? Did you use some particular library? Did you integrate or model something? What verbs can you use to describe these actions, see chapter \@ref(actioning)
+* **ACTION**:  What did you *do* with `Python`? Did you use some particular library? Did you integrate or model something? What verbs can you use to describe these actions, see chapter \@ref(verbalising)
 * **RESULT**: What was the result and how can you measure it? You picked up some new skills? What was the impact? Perhaps you made something that was inefficient and awkward into something better, cheaper or faster? Some things are hard to measure but you should quantify results where you can.
 * **EVIDENCE**: Where evidence exists, you should highlight it. That could be a quantification, for example describing a result in numbers (see `as measured by` below) or it might be badges or certification described in chapter \@ref(achieving). If you're talking about software, point to a copy online if you can, see section \@ref(portfolio). Nothing says “I can build software ...” quite like “ ... and here's one I made earlier”.
 
@@ -511,7 +513,7 @@ You could say:
 * Generated daily reconciliation report for team by automating workflow of 8 different tasks
 ````
 
-The latter is better because it is more specific, captures the result (`accomplishment`), by giving evidence (`8 different tasks`) and talks about the actions (the `doing` part). Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
+The latter is better because it is more specific, captures the result (`accomplishment`), by giving evidence (`8 different tasks`) and talks about the actions (the `doing` part). Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
 
 
 ### Your length {#length}
@@ -569,7 +571,7 @@ followed by:
 ````
 
 
-The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(actioning) for examples.
+The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
 
 ### Your links and LinkedIn {#links}
 
@@ -752,7 +754,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you shown you `C.A.R.E`? Are the `Contexts`, `Actions`, `Results` and `Evidence` described in section \@ref(care) clear? Have you added `context` using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. 🔲 Is it in reverse chronological order with the most recent things **first**? Can your timeline be easily followed, with all dates clearly aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example with a clear timeline using right-aligned dates.
 1. 🔲 Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
-1. 🔲 Have you made it clear what you have actually done using **prominent** `verbs`? See chapter \@ref(actioning)
+1. 🔲 Have you made it clear what you have actually done using **prominent** `verbs`? See chapter \@ref(verbalising)
 1. 🔲 Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(education)
 1. 🔲 Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(structure)
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
@@ -790,7 +792,7 @@ triang_table <- tibble::tribble(
     ~ "Angle", ~ "Strengths",  ~ "Weaknesses",     
   "Friends & family", "(ref:wartsandall)",   "(ref:notcritical)", 
   "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that wrote them ", 
-  "Academics", "(ref:academentia)",   "May have limited experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
+  "Academics", "(ref:academentia)",   "May have limited first hand experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
   "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have limited first hand experience of the degree you've studied or the profession you are entering [@samfranklin]", 
   "Recruiters & managers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
   "Peers", "Your fellow students know you, your Uni and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment", 
@@ -808,7 +810,7 @@ knitr::kable(triang_table, caption = "Some of the strengths and weakness of diff
 
 (ref:knowthyself) You know yourself (hopefully) see chapter \@ref(exploring)
 
-(ref:worstcritic) It can be difficult to see your own faults, both on paper and in person, see section \@ref(checklist). There's a good chance you might be your own worst critic too. [@worstcritic]
+(ref:worstcritic) It can be difficult to see your own faults, both on paper and in person, see section \@ref(checklist). On the other hand, there is a good chance you might be your own worst critic too. [@worstcritic]
 
 
 ```{r honest-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhonest)"}

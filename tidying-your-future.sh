@@ -62,8 +62,8 @@ echo "replaced moving.html "
 find . -name "*.html" -exec sed -I '' 's/enjoying.html/enjoying/g' {} +
 echo "replaced enjoying.html "
 
-find . -name "*.html" -exec sed -I '' 's/actioning.html/actioning/g' {} +
-echo "replaced actioning.html "
+find . -name "*.html" -exec sed -I '' 's/verbalising.html/verbalising/g' {} +
+echo "replaced verbalising.html "
 
 find . -name "*.html" -exec sed -I '' 's/organising.html/organising/g' {} +
 echo "replaced organising.html "
