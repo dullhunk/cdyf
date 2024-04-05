@@ -785,7 +785,15 @@ Having sought feedback on your CV from a diverse range of sources, you'll need t
 
 ## CV checklist: triangulation {#triangulation}
 
-You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too. They'll probably all disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources, it's called *triangulation* for a reason. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” your CV, like the calculation shown in figure \@ref(fig:triangulation-fig).
+
+```{r triangulation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontriangulation)"}
+knitr::include_graphics("images/triangulation.jpg")
+```
+
+(ref:captiontriangulation) Getting feedback on your CV from different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and known point has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
+
+Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
 
 ```{r triangtable, echo = FALSE}
 triang_table <- tibble::tribble(
