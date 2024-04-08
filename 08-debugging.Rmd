@@ -743,13 +743,20 @@ show me the money!-->
 * RESUME ▶️
 ```
 
-## CV checklist: Self-debugging {#checklist}
+## CV checklist: Self-debugging known errors {#checklist}
 
-Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] So here is a quick self-assessment checklist for debugging your CV before you send it off to an employer or show it to me:
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist to help you start to debug common known errors. For the *unknown* errors, you'll need help from someone (or something) else, see figure \@ref(fig:unknown-error-fig).
+
+```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
+knitr::include_graphics("images/unknown-error.png")
+```
+(ref:captionunknownerrors) This self-debugging checklist below will help you identify *known errors* in your CV. To debug the more challenging *unknown errors*, see section \@ref(cvswap). [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) screenshot of *something went wrong* by Revansx on Wikimedia Commons [w.wiki/9hZD](https://w.wiki/9hZD)
+
+Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] Use this quick self-assessment checklist to squash known bugs before anyone else sees them.
 
 1. 🔲 Does it fit comfortably on exactly one page (résumé) or two pages (CV)? Definitely not one-and-a-half pages or more than two? See section \@ref(length) Does the style look good? Is it easy on the eye? Is there adequate whitespace, not too much (g a p p y) or too little (cramped)? See section \@ref(pdf)
 1. 🔲 Is your year of graduation, degree program, University and expected (and/or achieved) overall degree classification clear with GPA as a percentage? See section \@ref(education)
-1. 🔲 Have you eaten your own dogfood (woof) by reading it out loud, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
+1. 🔲 Have you “[eaten your own dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)” by reading it out loud, see section \@ref(dogfooding)? Is *everything* relevant? e.g. no swimming certificates from ten years ago?
 1. 🔲 Have you spell-checked using both automatic and manual (proof-reading) techniques? See section \@ref(spelling).
 1. 🔲 Have you shown you `C.A.R.E`? Are the `Contexts`, `Actions`, `Results` and `Evidence` described in section \@ref(care) clear? Have you added `context` using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. 🔲 Is it in reverse chronological order with the most recent things **first**? Can your timeline be easily followed, with all dates clearly aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example with a clear timeline using right-aligned dates.
@@ -766,9 +773,11 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two?
 1. 🔲 How does your CV compare to the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
 
-## CV checklist: Peer-debugging {#cvswap}
+For the next debug step, you'll need some help from a third party.
 
-Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, you should swap it with somebody and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles. Both will help you improve your CV: 
+## CV checklist: Peer-debugging unknown errors {#cvswap}
+
+Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, you should swap it with somebody and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles. Playing both roles will help you write a better CV and receiving feedback will help to start debugging the uknonwn errors: 
 
 1. 🔲 Have you got a second opinion from a “résumé robot”? How robot proof is it? See section \@ref(robotproof) 🤖
 1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
@@ -785,15 +794,15 @@ Having sought feedback on your CV from a diverse range of sources, you'll need t
 
 ## CV checklist: triangulation {#triangulation}
 
-You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” your CV, like the calculation shown in figure \@ref(fig:triangulation-fig).
+You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” all the feedback your CV, like the calculation shown in figure \@ref(fig:triangulation-fig).
 
 ```{r triangulation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontriangulation)"}
 knitr::include_graphics("images/triangulation.jpg")
 ```
 
-(ref:captiontriangulation) Getting feedback on your CV from different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and known point has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
+(ref:captiontriangulation) Getting feedback on your CV from known points at different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
 
-Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Nobody has all the answers, despite what they might tell you. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
 
 ```{r triangtable, echo = FALSE}
 triang_table <- tibble::tribble(
@@ -829,6 +838,9 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
+
+
+<!--## Iterate-->
 
 ## Covering letters & personal statements {#covering-letters}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement or summary. They are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) shown in figure \@ref(fig:elevator-fig). Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to include a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for *ages* (yawn) without actually providing any evidence for his assertions. This kind of information usually fits better in your covering letter anyway, because there isn't much space for it on a CV.

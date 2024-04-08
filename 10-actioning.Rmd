@@ -139,7 +139,7 @@ How can you convince your reader you are actively developing your leadership ski
 knitr::include_graphics("images/machiavelli.jpg")
 ```
 
-(ref:captionmachiavelli) What kind of leader do you want to be? There are many ways to lead: `loved` and `feared` are two styles that [Niccolò Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) discussed. Many other kinds of leadership are available, with a wide range of verbs to describe them: `mentored`, `motivated`, `demonstrated`, `facilitated`,  and `supervised` etc. Public domain image of a portrait of Niccolò Machiavelli by [Santi di Tito](https://en.wikipedia.org/wiki/Santi_di_Tito) on Wikimedia Commons [w.wiki/5FCv](https://w.wiki/5FCv) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 
+(ref:captionmachiavelli) What kind of leader do you want to be? Are you `loved` or `feared`? Neither or both? The diplomat [Niccolò Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) argued that it is best to be feared if you can't be loved but many other kinds of leadership are available, with a wide range of verbs to describe them: `mentored`, `motivated`, `demonstrated`, `facilitated`,  and `supervised` etc. Public domain image of a portrait of Niccolò Machiavelli by [Santi di Tito](https://en.wikipedia.org/wiki/Santi_di_Tito) on Wikimedia Commons [w.wiki/5FCv](https://w.wiki/5FCv) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 
 
 Verbs you could use to demonstrate your leadership:
 
@@ -345,7 +345,21 @@ Examples of potentially bullshitty verbs include:
 
 It's probably best to leave *emotive* verbs and *bullshitty* language out of your CV. You may well have been `fascinated, thrilled and delighted to hone your leadership skills while spearheading an innovative project that streamlined business processes`, but there are more professional (and less bullshitty) ways to describe your experience. 💩
 
-<!--## Missing verbs? {#missing} Are there any missing verbs?-->
+## Missing verbs? {#missing} 
+
+Look at all the verbs in your CV. Arrange them into groups of related verbs, you could either use the classification of verbs in this chapter or make your own. If you put each group of verbs on it's own virtual “shelf”, which shelves are empty, see figure \@ref(fig:emptyshelf-fig)? Which verbs are missing?
+
+```{r emptyshelf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionemptyshelf)"}
+knitr::include_graphics("images/Empty-Shelf-Syndrome.png")
+```
+
+(ref:captionemptyshelf) You've shelved all the verbs on your CV into related groups. Which of your shelves are empty? [Empty Shelf Syndrome](https://bryanmmathers.com/empty-shelf-syndrome/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under CC-BY-ND
+
+Identifying the “empty shelves” on your CV can help you work out what skills you need to develop in the future. At this stage in your career, nobody should expect your shelves to be fully stacked. As well reflecting on the `verbs`, think about which sections need improving in the future:
+
+* If your `EXPERIENCE` shelf is looking a bit bare, see chapter \@ref(experiencing)
+* If your `PROJECTS` shelf is looking a bit bare, see section \@ref(projects)
+* If your `LEADERSHIP & AWARDS` shelf is looking a bit bare, see section \@ref(prizes)
 
 ## Summarising your verbs {#tldr18}
 (ref:tldr)
