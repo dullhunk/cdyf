@@ -571,7 +571,7 @@ followed by:
 ````
 
 
-The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you so it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
+The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you and it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
 
 ### Your links and LinkedIn {#links}
 
@@ -745,7 +745,7 @@ show me the money!-->
 
 ## CV checklist: Self-debugging known errors {#checklist}
 
-It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist to help you start to debug common known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who play the role of editor, see figure \@ref(fig:unknown-error-fig).
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist below will help you start to debug common known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
 ```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
 knitr::include_graphics("images/unknown-error.png")
@@ -769,9 +769,10 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `EXPERIENCE`? Have you done the same for your `PROJECTS`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
 1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`
 1. 🔲 Is the formatting consistent, no random changes of font half-way through? Dates always in the same place? 
-1. 🔲 If you've opted for a two pager, does the page break fall in a sensible place, not halfway through a section?
-1. 🔲 Have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two?
-1. 🔲 How does your CV compare to the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
+1. 🔲 On your two page version, does the page break fall in a sensible place, not halfway through a section? 
+1. 🔲 One your one page version, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space?
+1. 🔲 How does your CV compare with the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
+1. 🔲 Have you tailored your CV to the job description? While the basic facts won't change much, you could emphasise (or de-emphasise) some `PROJECTS` and `EXPERIENCE` depending on the roles you are applying for, rather than having a generic *one-size-fits-all* CV. 
 
 For the next debug step, you'll need some help from a third party.
 
@@ -802,7 +803,7 @@ knitr::include_graphics("images/triangulation.jpg")
 
 (ref:captiontriangulation) Getting feedback on your CV from known points at different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
 
-Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Nobody has all the answers, despite what they might tell you. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Nobody has all the answers^[including me!], despite what they might tell you. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
 
 ```{r triangtable, echo = FALSE}
 triang_table <- tibble::tribble(
@@ -834,7 +835,7 @@ knitr::kable(triang_table, caption = "Some of the strengths and weakness of diff
 knitr::include_graphics("images/honest-frank-feedback.png")
 ```
 
-(ref:captionhonest) **WANTED (DEAD OR ALIVE) HONEST FRANK FEEDBACK** To improve your CV you want honest frank feedback on it. Frank (or Francesca) aren't judging you, they are judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to continue your professional development. So, who are the people who will give you honest feedback? Can you return their favour and give them some feedback on theirs? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
+(ref:captionhonest) **WANTED (DEAD OR ALIVE) HONEST FRANK FEEDBACK** To improve your CV you want honest frank feedback on it. Frank Feedback and Francesca Feedback aren't judging you, they are judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to [continue your professional development](https://en.wikipedia.org/wiki/Institute_of_Continuing_Professional_Development) (CPD). So, who are the people you could ask for honest feedback? Can you return their favour and give them some feedback on theirs? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 

@@ -285,7 +285,7 @@ Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas 
 knitr::include_graphics("images/hanif-kureishi.jpeg")
 ```
 
-(ref:captionhanif) Like many authors, the playright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks. [@kureishi] Whatever you are writing, you'll have a much better understanding of what you are *actually* thinking after you've tried to write it down. Writing isn't just an important product, it's a crucial process too. CC [BY-SA](https://creativecommons.org/licenses/by-sa/2.5/deed.en) portrait of Hanif Kureishi speaking at Emory University in 2008 by [Brett Weinstein](https://www.brettweinstein.com/) on Wikimedia Commons [w.wiki/6SKv](https://w.wiki/6SKv) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionhanif) Like many authors, the playwright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks. [@kureishi] Whatever you are writing, you'll have a much better understanding of what you are *actually* thinking after you've tried to write it down. Writing isn't just an important product, it's a crucial process too. CC [BY-SA](https://creativecommons.org/licenses/by-sa/2.5/deed.en) portrait of Hanif Kureishi speaking at Emory University in 2008 by [Brett Weinstein](https://www.brettweinstein.com/) on Wikimedia Commons [w.wiki/6SKv](https://w.wiki/6SKv) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
 ### Writing as problem solving {#solving}
@@ -326,7 +326,7 @@ knitr::include_url('https://www.youtube.com/embed/VK51E3gHENc')
 
 (ref:captionpeyton) Computer scientist [Simon Peyton Jones](https://en.wikipedia.org/wiki/Simon_Peyton_Jones) explains how to write a better dissertation or thesis by writing early and often, rather than waiting to write it all at the end. He's talking about writing papers here, but what he says applies to writing a thesis too: Writing helps you be clear by crystallizing what you understand. It's important as a *process* as well as a product. You can also watch the full 57 minute video embedded in this figure at [youtu.be/VK51E3gHENc](https://youtu.be/VK51E3gHENc) [@youtube-peyton]
 
-If you're using a machine like ChatGPT to help you write (see section \@ref(machines)), you'll be bypassing some of the valuable *process* of writing that Peyton talks about. [@youtube-peyton] Yes, writing can sometimes be painful and slow, but its one of the best ways to learn. If you're looking to improve your academic writing (essays, theses, dissertations etc), you will find [www.phrasebank.manchester.ac.uk](https://www.phrasebank.manchester.ac.uk/) useful. [@phrasebank]
+If you're using a machine like ChatGPT to help you write (see section \@ref(machines)), you'll be bypassing some of the valuable *process* of writing that Simon talks about. [@youtube-peyton] Yes, writing can sometimes be painful and slow, but its one of the best ways to learn. If you're looking to improve your academic writing (essays, theses, dissertations etc), you will find [www.phrasebank.manchester.ac.uk](https://www.phrasebank.manchester.ac.uk/) useful. [@phrasebank]
 
 <!-- 
 related work last, state contributions, give an example not a generic introduction (yawn) explicitly mention weaknesses at end of related work, giving credit doesn't diminish your contributions
@@ -425,6 +425,9 @@ Google occasionally delivers these technical writing courses as free sessions op
 
 There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI), see figure \@ref(fig:chatgpt-fig). [@hogarth] 
 
+```{r chatgpt-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionchatgpt)"}
+knitr::include_graphics("images/chatgpt.jpeg")
+```
 
 (ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/). [@gpt4] Based on a large [language model](https://en.wikipedia.org/wiki/Language_model) (LLM) it enables users to generate text of to their desired length, format, style and language. ChatGPT is one of many *writing machines* or *robo-writers* that you can potentially use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🤖
 
@@ -447,9 +450,7 @@ Some of AI powered writing tools are tailored to improving academic writing whil
 * [wordtune.com](https://www.wordtune.com) summarises long documents 
 * [writefull.com](https://www.writefull.com) helps you to write, paraphrase and edit 
 
-```{r chatgpt-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionchatgpt)"}
-knitr::include_graphics("images/chatgpt.jpeg")
-```
+
 
 
 All of these tools will be biased by whatever data they've been trained on and encode some of the prejudices of the engineers that wrote their algorithms. You need to be careful about plagirism (if it is academic work) and writing generic job applications that are de-personalised and de-humanised. Employers will be able to spot these a mile off. [@aiverbs;@aiverbsagain]
@@ -571,7 +572,7 @@ Social skills are those that help you work with other people in your team, small
 * Not been reading many books lately? Pick a book to read just because its interesting, rather than because you have to.
 
 
-## Summarising your soft skills {#tldr4}
+## Summarising your soft written skills {#tldr4}
 
 [Too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR)? Here's a summary:
 
@@ -586,21 +587,19 @@ knitr::include_graphics("images/What - other people.png")
 ```
 (ref:captionotherpeople) Unless you want to be a [lighthouse keeper](https://en.wikipedia.org/wiki/Lighthouse_keeper) on a remote island, there are very few jobs where you don't have to work as part of a team with other people. If you were hoping to carry on working independently from other people, sorry to break the bad news! In the longer term, you will benefit from constantly improving your softer skills and providing evidence of them to potential employers. Written communication is just one of those softer skills. Other people sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-So communicating with other people is a key skill, see figure \@ref(fig:allpeople-fig). This chapter has looked at written communication, and its importance in persuading people to invite you to a job interview, in chapter \@ref(speaking) we will look at the closely related skill of spoken communication. 
+So communicating with other people is a key skill. Writing more will help improve your written communication skills, we looked at some simple techniques for doing this in section \@ref(wyf). Just write, see figure \@ref(fig:bronte-fig).
 
-In the next part, chapter \@ref(experiencing) you will reflect on what experience you have and how you can articulate that to potential employers, with written and spoken communication.
-
-```{r allpeople-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallaboutpeople)"}
-knitr::include_graphics("images/its-all-about-people-2.png")
+```{r bronte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbronte)"}
+knitr::include_graphics("images/bronte.jpg")
 ```
+(ref:captionobronte) The author [Charlotte Brontë](https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB) wrote the classic gothic novel [Jane Eyre](https://en.wikipedia.org/wiki/Jane_Eyre). [@janeeyre] She just couldn't help it: “*I’m just going to write because I cannot help it*”. Just write! Most computer scientists don't write or read enough material in natural languages like English, especially when compared to their counterparts in the humanities. Writing more would make them better communicators. Quotation via [bronte.org.uk](https://www.bronte.org.uk/), public domain image of a chalked portrait of Charlotte Brontë by George Richmond via Wikimedia Commons [w.wiki/9idq](https://w.wiki/9idq) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) ✍️
 
-(ref:captionallaboutpeople) Your network can help you before, during and after your employment, so be sure to grow your network when you can. This includes both the stronger ties of trusted friends alongside the weaker ties too, described in section \@ref(weakties). Both are important. [It's all about people](https://bryanmmathers.com/its-all-about-people/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+This chapter has investigated the art of written communication, and discussed its importance in persuading people to invite you to job interviews, amongst other things. In chapter \@ref(speaking) we will look at the closely related communication skill of speaking.
+
+In the next part, chapter \@ref(experiencing) you will reflect on what experience you have, where you can get more and how you can articulate that to potential employers, with both written and spoken communication.
 
 
-This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar-fig).
 
-```{r deathstar-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
-knitr::include_graphics("images/DeathStar2.jpg")
-```
 
-(ref:captiondeathstar)  Just like the [Death Star](https://en.wikipedia.org/wiki/Death_Star), this ~~galactic superweapon~~ book is under construction using agile book development methods. Image of agile weapon engineering in *Star Wars* via Wikimedia Commons [w.wiki/5N6q](https://w.wiki/5N6q) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
