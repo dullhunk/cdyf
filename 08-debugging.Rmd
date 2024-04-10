@@ -382,7 +382,7 @@ Again, congratulations, but `third prize` out of how many?
  Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrate your learning interests beyond just ticking the boxes of what your University requires of you for your formal education]. Extra skills and knowledge you've picked up from [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges), are worth mentioning. 🏆
 
 ### Your optional extras: Skills? Hobbies? Misc? {#misc}
-If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with a better titles for this section than: 
+If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
 * `MISCELLANEOUS`
 * `EXTRACURRICULAR` 
@@ -446,8 +446,8 @@ This applies to soft skills too, not just hard technical skills. It is often bet
 
 * keep it short, no more than two or three lines on a one-page CV
 * stick to your strongest and most relevant skills that you are comfortable to answer questions on in your interview, rather than an exhaustive encyclopædic inventory
-* avoid vague metrics of skill like `beginner`, `intermediate` and `advanced` as these are very subjective and won't help the reader much. You might under-estimate or over-estimate your skill level anyway. Some people choose to quantify coding skills with `years of experience` or the `lines of code` (LoC), but these still don't tell the reader very much. [@linesofcode] 
-* avoid listing mass marketed office products of Microsoft (e.g. Word etc) as a skill, they are *not* generally very interesting skill because almost *everyone* has them. They won't set you apart much from your competition, so don't waste valuable space talking about office applications unless you've done something interesting with them, like some advanced integration with other software. Cloud services can be a slightly different matter, see section \@ref(techie).
+* avoid vague metrics of skill like `beginner`, `intermediate` and `advanced` as these are very subjectivfe and won't help the reader much. You might under-estimate or over-estimate your skill level anyway. Some people choose to quantify coding skills with `years of experience` or the `lines of code` (LoC), but these metrics are flawed. [@linesofcode] 
+* avoid listing mass marketed office products of Microsoft (e.g. Word etc) as a skill, they are *not* generally very interesting skills because almost *everyone* has them. They won't set you apart much from your competition, so don't waste valuable space talking about office applications unless you've done something interesting with them, like some advanced integration with other software. Cloud services can be a slightly different matter, see section \@ref(techie).
 
 If you're a computer scientist, you also have demonstrable `meta` skills like the ability to learn things quickly. You can also think logically and critically, reason, problem solve, analyse, generalise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these `meta` capabilities and your potential than in any specific technical skills you may or may not have.
 
@@ -456,7 +456,7 @@ Having zoomed in on the details of sections you're likely to have, we'll zoom ba
 
 ### Your style {#style}
 
-Making your CV look good can take ages, but a well presented CV will stand out. While its worth making an effort to style carefully and consistently, you need to be be wary of the huge time sink of [typography](https://en.wikipedia.org/wiki/Typography).
+Making your CV look good can take ages, but a well presented CV will stand out. It is worth making an effort to style carefully and consistently. The [typography](https://en.wikipedia.org/wiki/Typography) of your CV matters because it helps conserve your readers attention, a finite resouce that you don't want to waste. A poorly presented CV is the equivalent of turning up to an interview in flip-flops and shorts. [@whytypographymatters]
 
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
@@ -745,12 +745,12 @@ show me the money!-->
 
 ## CV checklist: Self-debugging known errors {#checklist}
 
-It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist to help you start to debug common known errors. For the *unknown* errors, you'll need help from someone (or something) else, see figure \@ref(fig:unknown-error-fig).
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist to help you start to debug common known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
 ```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
 knitr::include_graphics("images/unknown-error.png")
 ```
-(ref:captionunknownerrors) This self-debugging checklist below will help you identify *known errors* in your CV. To debug the more challenging *unknown errors*, see section \@ref(cvswap). [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) screenshot of *something went wrong* by Revansx on Wikimedia Commons [w.wiki/9hZD](https://w.wiki/9hZD)
+(ref:captionunknownerrors) This self-debugging checklist below will help you identify *known errors* in your CV. To debug the more challenging *unknown errors*, see section \@ref(cvswap) below. [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) screenshot of *something went wrong* by Revansx on Wikimedia Commons [w.wiki/9hZD](https://w.wiki/9hZD)
 
 Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] Use this quick self-assessment checklist to squash known bugs before anyone else sees them.
 
@@ -777,7 +777,7 @@ For the next debug step, you'll need some help from a third party.
 
 ## CV checklist: Peer-debugging unknown errors {#cvswap}
 
-Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, you should swap it with somebody and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles. Playing both roles will help you write a better CV and receiving feedback will help to start debugging the uknonwn errors: 
+Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV, swap it with somebody you trust and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles in your pair. Playing both roles will help you write a better CV. Giving and receiving feedback will help your start debugging the trickier uknonwn errors: 
 
 1. 🔲 Have you got a second opinion from a “résumé robot”? How robot proof is it? See section \@ref(robotproof) 🤖
 1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
@@ -794,7 +794,7 @@ Having sought feedback on your CV from a diverse range of sources, you'll need t
 
 ## CV checklist: triangulation {#triangulation}
 
-You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” all the feedback your CV, like the calculation shown in figure \@ref(fig:triangulation-fig).
+You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” all the different feedback on your CV, a bit like the trigonometry shown in figure \@ref(fig:triangulation-fig).
 
 ```{r triangulation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontriangulation)"}
 knitr::include_graphics("images/triangulation.jpg")

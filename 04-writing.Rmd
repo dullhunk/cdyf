@@ -423,7 +423,13 @@ Google occasionally delivers these technical writing courses as free sessions op
 
 ### Writing machines {#machines}
 
-There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI). [@hogarth] Some of these tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection of tools you could experiment with, if you haven't already, is shown below:
+There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI), see figure \@ref(fig:chatgpt-fig). [@hogarth] 
+
+
+(ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/). [@gpt4] Based on a large [language model](https://en.wikipedia.org/wiki/Language_model) (LLM) it enables users to generate text of to their desired length, format, style and language. ChatGPT is one of many *writing machines* or *robo-writers* that you can potentially use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🤖
+
+
+Some of AI powered writing tools are tailored to improving academic writing while others can be used to improve your written job applications. An incomplete selection of tools you could experiment with, if you haven't already, is shown below:
 
 * [angryreviewer.com](https://www.angryreviewer.com/) by [Roman Anufriev](https://anufrievroman.com/) is a bit blunt but will give you honest feedback on your writing
 * [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) (see figure \@ref(fig:chatgpt-fig)), [Bing](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) and [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) [@bingai; @bardai]
@@ -445,9 +451,8 @@ There is no shortage of software to help you write better, beyond the basic spel
 knitr::include_graphics("images/chatgpt.jpeg")
 ```
 
-(ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/). [@gpt4] It is built on top of OpenAI's GPT-4 family of large [language models](https://en.wikipedia.org/wiki/Language_model) and has been fine-tuned using both supervised learning and reinforcement learning techniques. ChatGPT is one of several *writing machines* or *robo-writers* that you can potentially use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-All of these tools will be biased by whatever data they've been trained on and encode some of the prejudices of the engineers that wrote their algorithms. You need to be careful about plagirism (if it is academic work) and writing generic job applications that are de-personalised and de-humanised. Employers will be able to spot these a mile off.
+All of these tools will be biased by whatever data they've been trained on and encode some of the prejudices of the engineers that wrote their algorithms. You need to be careful about plagirism (if it is academic work) and writing generic job applications that are de-personalised and de-humanised. Employers will be able to spot these a mile off. [@aiverbs;@aiverbsagain]
 
 Another problem with using writing machines to help you communicate is that while the more sophisticated software might help overcome some of the dreaded *writer's block*, they bypass the important *process* of writing discussed in section \@ref(product). Writing about something is one of the best ways to learn about it, and sometimes the best time to write is when you're trying to figure out the subject for yourself. If you wait until you're an expert, it will be too late to start. If you get a machine like ChatGPT to write for you, you won't identify gaps in your knowledge and develop the expertise to fill them.
 
