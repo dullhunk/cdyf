@@ -426,7 +426,7 @@ Google occasionally delivers these technical writing courses as free sessions op
 There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI), see figure \@ref(fig:chatgpt-fig). [@hogarth] 
 
 ```{r chatgpt-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionchatgpt)"}
-knitr::include_graphics("images/chatgpt.jpeg")
+knitr::include_graphics("images/chatgpt.jpg")
 ```
 
 (ref:captionchatgpt) Chat Generative Pre-trained Transformer ([ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)) is a chatbot developed by [OpenAI.com](https://openai.com/). [@gpt4] Based on a large [language model](https://en.wikipedia.org/wiki/Language_model) (LLM) it enables users to generate text of to their desired length, format, style and language. ChatGPT is one of many *writing machines* or *robo-writers* that you can potentially use as an assistant to help you communicate more quickly and clearly. Note that despite the name, the language model that ChatGPT is built on is NOT openly available. [@notopenai] OpenAI logo from Wikimedia Commons [w.wiki/6Lat](https://w.wiki/6Lat) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🤖
@@ -592,7 +592,7 @@ So communicating with other people is a key skill. Writing more will help improv
 ```{r bronte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbronte)"}
 knitr::include_graphics("images/bronte.jpg")
 ```
-(ref:captionobronte) The author [Charlotte Brontë](https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB) wrote the classic gothic novel [Jane Eyre](https://en.wikipedia.org/wiki/Jane_Eyre). [@janeeyre] She just couldn't help it: “*I’m just going to write because I cannot help it*”. Just write! Most computer scientists don't write or read enough material in natural languages like English, especially when compared to their counterparts in the humanities. Writing more would make them better communicators. Quotation via [bronte.org.uk](https://www.bronte.org.uk/), public domain image of a chalked portrait of Charlotte Brontë by George Richmond via Wikimedia Commons [w.wiki/9idq](https://w.wiki/9idq) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) ✍️
+(ref:captionbronte) The author [Charlotte Brontë](https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB) wrote the classic gothic novel [Jane Eyre](https://en.wikipedia.org/wiki/Jane_Eyre). [@janeeyre] She just couldn't help it: “*I’m just going to write because I cannot help it*”. Just write! Most computer scientists don't write or read enough material in natural languages like English, especially when compared to their counterparts in the humanities. Writing more would make them better communicators. Quotation via [bronte.org.uk](https://www.bronte.org.uk/), public domain image of a chalked portrait of Charlotte Brontë by George Richmond via Wikimedia Commons [w.wiki/9idq](https://w.wiki/9idq) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) ✍️
 
 
 This chapter has investigated the art of written communication, and discussed its importance in persuading people to invite you to job interviews, amongst other things. In chapter \@ref(speaking) we will look at the closely related communication skill of speaking.
