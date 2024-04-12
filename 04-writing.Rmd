@@ -187,24 +187,24 @@ Making software isn't all about what you can do as an individual but rather how 
 
 ## Rewriting your future {#BFF}
 
-Writing has multiple uses, or to use a programming analogy, it is an [overloaded function](https://en.wikipedia.org/wiki/Function_overloading). We need to examine some of these different functions, because they are easily overlooked and taken for granted, especially by engineers and scientists. We read, write and rewrite everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
+Writing has multiple uses, if it were a `function` or a `method`, it would be an [overloaded one](https://en.wikipedia.org/wiki/Function_overloading) performing different tasks. We need to examine these tasks, because they are easily overlooked and taken for granted, especially by engineers and scientists. We read, write and rewrite stuff everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
 
 ```{r bff-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbff)"}
 knitr::include_graphics("images/8 reasons why writing is your new BFF.png")
 ```
 
-(ref:captionbff) Eight reasons why writing is your new Best Friend Forever (BFF): Communication, see section \@ref(communicating). Recording, see section \@ref(recording). Leadership, see section \@ref(leadership). Slowing down, see section \@ref(slowing). Problem solving, see section \@ref(solving). Process not product, see section \@ref(product). Therapy, see section \@ref(therapy). Speeding up, see section \@ref(accelerating). B.F.F. by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionbff) Eight reasons why writing is your new Best Friend Forever (BFF): Communicating, see section \@ref(communicating). `Recording`, what happened see section \@ref(recording). `Leadership`: persuading other people to do something, see section \@ref(leadership). `Slowing down`: when your brain works too fast, see section \@ref(slowing). `Problem solving`: when your brain can't solve a problem (yet), see section \@ref(solving). `Process not product`, reflection and metacoginition, see section \@ref(product). `Therapy`: when your brain isn't helping because it makes you unhappy, anxious or depressed, section \@ref(therapy). `Speeding up`: when your brain too slowly, see section \@ref(accelerating). B.F.F. by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 So let's expand on each of the reasons in figure \@ref(fig:bff-fig) why writing is your new BFF:
 
 ### Writing as communication {#communicating}
-Writing is communication, see figure \@ref(fig:comms-fig). Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparagingly about writing the (*sigh*)`documentation`. 
+Writing is communication, see figure \@ref(fig:comms-fig). Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparagingly about communication. For example, you might hear them complaining about writing the (*sigh*) `documentation` or having to explain things to (*yikes*) customers or stakeholders. 
 
 ```{r comms-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncomms)"}
 knitr::include_graphics("images/8 reasons why writing - Communication.png")
 ```
 
-(ref:captioncomms) Your writing will often communicate better if you invest more time in rewriting to make it clearer. [Tin can telephone](https://en.wikipedia.org/wiki/Tin_can_telephone) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captioncomms) Your writing will communicate better if you invest more time in rewriting to make it clearer. [Tin can telephone](https://en.wikipedia.org/wiki/Tin_can_telephone) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Engineers may sometimes tell you that writing about their software or hardware can be a chore. If they bother to write about their software at all, they often do it at the end, *if* there is time and there's no more features to be added or bugs to be removed. This might go some way to explaining why software and hardware documentation can be so bad because:
 
@@ -228,7 +228,7 @@ Badly written text like the example above, fails to communicate with the reader.
 
 ### Writing as recording {#recording}
 
-What were you doing on the March 6th 2013? You probably don't know and I'll bet you would probably struggle to find out. I don't know what I was doing on March 6th 2013 either because I have no written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
+What were you doing on the March 6th 2013? You probably don't know and I'll bet you would probably struggle to find out. I don't know what I was doing on March 6th 2013 either because I have no details written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
 
 ```{r start-record-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrecording)"}
 knitr::include_graphics("images/8 reasons why writing - Recording.png")
@@ -261,8 +261,8 @@ Let's take the [United States Declaration of Independence](https://en.wikipedia.
 
 You say you want a revolution? Well, you know, we all want to change the world. [@revolution] Whatever kind of revolution you want to start or join, you'll stand a much better chance of making it happen, if you write down your ideas in a way that people can clearly understand. This might include mini-revolutions such as: 
 
-* Getting a job interview, by crafting a persuasive covering letter and compellng CV 
-* Encouraging people to join `projects` you've started, see section \@ref(projects) 
+* Getting a job interview, by crafting a persuasive covering letter and compelling CV 
+* Encouraging people to join `PROJECTS` you've started, see section \@ref(projects) 
 * Negotiating terms and conditions of a contract of employment, you might start by email
 * Getting someone to invest in your startup or offer you some freelance or contract work
 * ... and so on
@@ -271,7 +271,7 @@ So writing well won't just help you communicate and record, it will help you to 
 
 ### Writing as slowing down {#slowing}
 
-Your brain tends to work *much* more quickly than your fingers can type or your hands can write. Your brain will often work much faster than you can speak as well. Writing can slow that process down to something more manageable and concrete, by focussing your thoughts on a given topic or problem, see figure \@ref(fig:slowing-fig).
+Your brain tends to work *much* more quickly than your fingers can type or your hands can write. Your brain will often work much faster than you can speak as well. Writing can slow your thinking process down to something more manageable, by focussing your thoughts on a given topic or problem, see figure \@ref(fig:slowing-fig).
 
 ```{r slowing-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionslowing)"}
 knitr::include_graphics("images/8 reasons why writing - Slowing down.png")
@@ -279,7 +279,7 @@ knitr::include_graphics("images/8 reasons why writing - Slowing down.png")
 
 (ref:captionslowing) Is your brain working too quickly for its own good? Writing can help to slow it down and take it one step at a time. Slowing down sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Writing forces you to say more *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. The author and playwright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks, see figure \@ref(fig:hanif-fig). Working out what you think takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite]
+Writing forces you to say *exactly* what you are thinking. Slowly. Whereas thoughts can be fast, vague and slippery, writing needs to be much more precise and accurate. The author and playwright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks, see figure \@ref(fig:hanif-fig). Working out what you think takes time, one of reasons writing can be challenging or lead to the dreaded [writer's block](https://en.wikipedia.org/wiki/Writer%27s_block). [@whyiwrite]
 
 ```{r hanif-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhanif)"}
 knitr::include_graphics("images/hanif-kureishi.jpeg")
@@ -298,12 +298,17 @@ knitr::include_graphics("images/8 reasons why writing - Problem Solving.png")
 
 (ref:captionduck) Ever tried explaining that troublesome bug to a rubber duck? Welcome to [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging), a tried and tested technique for problem solving, either through written or spoken communication with an inanimate object. Rubber duck sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-By the time you've written that [stackoverflow.com](https://stackoverflow.com/) question about a techincal problem you are struggling to solve, your brain may have figured it out. This is much more likely to happen if you articulate the problem in words, either written down or spoken, to a rubber duck. 
+By the time you've written that difficult problem down, your brain may have figured it out. For example, as you're writing that [stackoverflow.com](https://stackoverflow.com/) question, your brain will sometimes magically solve it. This is much more likely to happen if you articulate the problem in words, either written down, spoken to a person or a rubber duck like the one shown in figure \@ref(fig:deducktion-fig)
+
+```{r deducktion-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondeducktion)"}
+knitr::include_graphics("images/rubber-duck-debugging.jpg")
+```
+(ref:captiondeducktion) In software engineering, [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is a method of debugging code by articulating a problem in spoken or written natural language. Some people call it [deducktive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning). [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) rubber duck picture by [Tom Morris](https://commons.wikimedia.org/wiki/User:Tom_Morris) on Wikimedia Commons [w.wiki/4QHW](https://w.wiki/4QHW) adpated using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) 🦆
 
 
 ### Writing as a process, not just a product {#product}
 
-When you are writing a CV, résumé or a covering letter, the *product* of your writing is the most important output. But sometimes, it is the *process* of writing that matters more than the product, see figure \@ref(fig:process-fig).
+When you are writing a CV, résumé or a covering letter, the *product* of your writing is the most important output. But sometimes, it is the *process* of writing and [reflecting](https://en.wikipedia.org/wiki/Reflective_practice) that matters more than the product (output), see figure \@ref(fig:process-fig).
 
 
 ```{r process-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionprocess)"}
@@ -387,7 +392,7 @@ Many employers test their products and services by trialling them on their own e
 knitr::include_graphics("images/Dogfooding.png")
 ```
 
-(ref:captiondogfooding) Reading your own writing (aloud) is like [eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). It's a simple and proven technique for improving your written communication in job applications such as covering letters, CVs, personal statements and the like. Dogfooding by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/))
+(ref:captiondogfooding) Reading your own writing (aloud) is like [eating your own dog food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food). It's a simple and proven technique for improving your written communication in job applications such as covering letters, personal statements and the like. Dogfooding by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/))
 
 Dogfooding is a simple technique for testing your own writing. Let's say you've just written a personal statement or covering letter (see section \@ref(covering-letters)). It's natural to read it over in your head to check for errors, before you send it. However, **reading it aloud** will pick up errors you may not have spotted by reading silently. Your ears and tongue will pick up on awkward phrases and sentences that your eyes didn't spot. There's something about articulating words out loud that flushes out errors you don't pick up when you read them in your head. Dogfooding is a tried and tested technique. It also means you're ready to vocalise those answers in an interview.
 
@@ -592,7 +597,7 @@ So communicating with other people is a key skill. Writing more will help improv
 ```{r bronte-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbronte)"}
 knitr::include_graphics("images/bronte.jpg")
 ```
-(ref:captionbronte) The author [Charlotte Brontë](https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB) wrote the classic gothic novel [Jane Eyre](https://en.wikipedia.org/wiki/Jane_Eyre). [@janeeyre] She just couldn't help it: “*I’m just going to write because I cannot help it*”. Just write! Most computer scientists don't write or read enough material in natural languages like English, especially when compared to their counterparts in the humanities. Writing more would make them better communicators. Quotation via [bronte.org.uk](https://www.bronte.org.uk/), public domain image of a chalked portrait of Charlotte Brontë by George Richmond via Wikimedia Commons [w.wiki/9idq](https://w.wiki/9idq) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) ✍️
+(ref:captionbronte) The author [Charlotte Brontë](https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB) wrote the classic gothic novel *[Jane Eyre](https://en.wikipedia.org/wiki/Jane_Eyre)*. [@janeeyre] She just couldn't help it: “*I’m just going to write because I cannot help it*”. Just write, see section \@ref(dailywrite) for some starting points. Most computer scientists don't write or read enough material in natural languages like English, especially when compared to their counterparts in the humanities. Writing and reading more will make you a better communicator. Quotation via [bronte.org.uk](https://www.bronte.org.uk/), public domain image of a chalked portrait of Charlotte Brontë by George Richmond via Wikimedia Commons [w.wiki/9idq](https://w.wiki/9idq) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) ✍️
 
 
 This chapter has investigated the art of written communication, and discussed its importance in persuading people to invite you to job interviews, amongst other things. In chapter \@ref(speaking) we will look at the closely related communication skill of speaking.

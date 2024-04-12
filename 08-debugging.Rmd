@@ -745,7 +745,7 @@ show me the money!-->
 
 ## CV checklist: Self-debugging known errors {#checklist}
 
-It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist below will help you start to debug common known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who play the role of editor, see figure \@ref(fig:unknown-error-fig).
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist below will help you start to debug common known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
 ```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
 knitr::include_graphics("images/unknown-error.png")
@@ -761,7 +761,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you shown you `C.A.R.E`? Are the `Contexts`, `Actions`, `Results` and `Evidence` described in section \@ref(care) clear? Have you added `context` using relevant hyperlinks that an interested reader can click on? See section \@ref(links)
 1. 🔲 Is it in reverse chronological order with the most recent things **first**? Can your timeline be easily followed, with all dates clearly aligned for easy reading? See [Neil Pointer](https://www.cdyf.me/Neil_Pointer.pdf) as an example with a clear timeline using right-aligned dates.
 1. 🔲 Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
-1. 🔲 Have you made it clear what you have actually done using **prominent** `verbs`? See chapter \@ref(verbalising)
+1. 🔲 Have you made it clear what you have actually done using **prominent** `verbs`? Which kinds of verbs are missing? See chapter \@ref(verbalising)
 1. 🔲 Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(education)
 1. 🔲 Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(structure)
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
@@ -770,7 +770,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`
 1. 🔲 Is the formatting consistent, no random changes of font half-way through? Dates always in the same place? 
 1. 🔲 On your two page version, does the page break fall in a sensible place, not halfway through a section? 
-1. 🔲 One your one page version, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space?
+1. 🔲 On your one page version, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space?
 1. 🔲 How does your CV compare with the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
 1. 🔲 Have you tailored your CV to the job description? While the basic facts won't change much, you could emphasise (or de-emphasise) some `PROJECTS` and `EXPERIENCE` depending on the roles you are applying for, rather than having a generic *one-size-fits-all* CV. 
 
@@ -784,12 +784,13 @@ Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) y
 1. 🔲 Have you reviewed other people's CV's by doing a CV swap? This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
 1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
 
-
-```{r wonderfuldarling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwonderfuldarling)"}
-knitr::include_graphics("images/Critical Friend.png")
+```{r cvswap-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvswap)"}
+knitr::include_graphics("images/Ill-show-you-mine.png")
 ```
 
-(ref:captionwonderfuldarling) Showing your CV to somebody else is one of the best ways to debug it. You need to find a [critical friend](https://en.wikipedia.org/wiki/Critical_friend), somebody who won't just tear it apart (`hostile witness`) or tell you it's simply *wonderful* darling (`uncritical lover`) but tell you how to improve it, whatever state it is in (`critical friend`). Critical friend by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do a CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
 
 Having sought feedback on your CV from a diverse range of sources, you'll need to *triangulate* the responses because they'll probably contradict each other. We'll  look at that in the next section.
 
@@ -803,7 +804,7 @@ knitr::include_graphics("images/triangulation.jpg")
 
 (ref:captiontriangulation) Getting feedback on your CV from known points at different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
 
-Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Nobody has all the answers^[including me!], despite what they might tell you. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Despite what people might tell you, nobody has all the answers^[including me!]. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
 
 ```{r triangtable, echo = FALSE}
 triang_table <- tibble::tribble(
@@ -904,13 +905,15 @@ Save your beautiful persuasive rhetorical prose for your covering letters and ma
 ## Debugging summary {#tldr7}
 (ref:tldr)
 
-Your future is bright, your future needs debugging. Debugging your future will help you test future. Testing your future will help you to start coding your future. One of the best ways to debug your own CV is to fix bugs in *other peoples* CVs, see figure \@ref(fig:cvswap-fig)
+Your future is bright, your future needs debugging. Debugging your future will help you test future. Testing your future will help you to start coding your future. One of the best ways to debug your own CV is to fix bugs in *other peoples* CVs and to get feedback from critical friends on yours, see figure \@ref(fig:wonderfuldarling-fig)
 
-```{r cvswap-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvswap)"}
-knitr::include_graphics("images/Ill-show-you-mine.png")
+```{r wonderfuldarling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwonderfuldarling)"}
+knitr::include_graphics("images/Critical Friend.png")
 ```
 
-(ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do a CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionwonderfuldarling) Showing your CV to somebody else is one of the best ways to debug it. You need to find a [critical friend](https://en.wikipedia.org/wiki/Critical_friend), somebody who won't just tear it apart (`hostile witness`) or tell you it's simply *wonderful* darling (`uncritical lover`) but tell you how to improve it, whatever state it is in (`critical friend`). Critical friend by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+
 
 In this chapter we have looked at how to debug your future, with a particular focus on your CV^[...Or *Résumé* if you prefer 🇺🇸] and any supporting written communication. If you fix the bugs we've described here, before an employer sees your CV, you'll stand a *much* better chance of getting an interview. The checklist in section \@ref(checklist) is a good place to start debugging your CV. 
 
