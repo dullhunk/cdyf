@@ -51,7 +51,7 @@ knitr::include_graphics("images/broad-brushstrokes.png")
 (ref:captionfinegrain) What kind of picture would you like to paint of your professional identity? [Open Badges paint a better picture…](https://bryanmmathers.com/open-badges-paint-a-better-picture/)  by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
-## Digital badges {#digibadge}
+## Open Digital badges {#digibadge}
 Digital badges provide a solution to this problem, just like your degree certificate is a verified badge of your achievements, a digital badge does the same but in a digital way. Rather than being physical, a digital badge is virtual and transferable. It's just a `*.png` graphic file which has been digitally signed and contains metadata. This means it can be displayed on your CV, on social media such as LinkedIn or “stacked” into a digital portfolio collection as shown in figure \@ref(fig:badge-properties-fig).
 
 The [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) have defined an open standard for digital badges [@openbadges] so that badges can be issued, hosted and certified by different organisations. [@belshaw]
@@ -100,20 +100,19 @@ knitr::include_graphics("images/badge-taxonomy-v2.png")
 (ref:captionbadgetype) There are many different achievements which badges can be awarded for including membership, participation, capability and mastery. [Badge taxonomy](https://bryanmmathers.com/badge-taxonomy-v0-2/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
-## Other digital badges {#otherbadges}
-There are other digital badges for evidencing your achievements besides the open ones described in this chapter. Like open badges, they also provide certifiable evidence of professional and personal achievements, see figure \@ref(fig:amazon-badge-fig):
+## Commercial digital badges {#otherbadges}
+There are other digital badges for evidencing your achievements besides the open ones described above. Like open badges, they also provide certifiable evidence of professional and personal achievements, see figure \@ref(fig:cloud-badges-fig):
 
-* Amazon Web Services badges [credly.com/organizations/amazon-web-services/badges](https://www.credly.com/organizations/amazon-web-services/badges)
-* Certificates from Microsoft and Google, see section \@ref(techie)
-* Certificates from edx.org [cs50.harvard.edu/x/2020/certificate](https://cs50.harvard.edu/x/2020/certificate/)
-* Certificates from coursera.org [coursera.org/professional-certificates](https://www.coursera.org/professional-certificates)
-* Certificates from redhat [redhat.com/en/services/certifications](https://www.redhat.com/en/services/certifications) etc
+* Certificates from service providers and organisations like Amazon Web Services, Microsoft and Google, see figure \@ref(fig:cloud-badges-fig) and e.g. [redhat.com/en/services/certifications](https://www.redhat.com/en/services/certifications) etc
+* Certificates from Massive Open Online Courses ([MOOCs](https://en.wikipedia.org/wiki/Massive_open_online_course)) like edX and Coursera: 
+    + [cs50.harvard.edu/x/2020/certificate](https://cs50.harvard.edu/x/2020/certificate/) 
+    + [coursera.org/professional-certificates](https://www.coursera.org/professional-certificates)
 
-```{r amazon-badge-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "(ref:captionamazonbadge)"}
-knitr::include_graphics("images/amazon-badge.png")
+```{r cloud-badges-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncloudbadge)"}
+knitr::include_graphics("images/cloud-badges.png")
 ```
 
-(ref:captionamazonbadge) An example of an [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) badge awarded by [credly.com](https://info.credly.com/) for an [AWS certified developer](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate).
+(ref:captioncloudbadge) Three examples of commercial digital badges from providers of cloud services from left to right: **(1)** Microsoft fundmentals, [@msfundamentals] **(2)** [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) badge awarded by [credly.com](https://info.credly.com/) for an [AWS certified developer](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate) [@awscert] and **(3)** Google Cloud Platform (GCP) [@gcp1] Each provider offers accreditation for pre-professionals tailored towards technical students. For Microsoft, they are called `fundamentals`, [@msfundamentals] for Amazon they are typically called `foundational` or `associate` qualifications and for Google they are usually called `associate` qualifications. [@gcp2] Your University and/or employer may provide support for you to achieve these certifications during your academic study, internship, placement or as a recent graduate. The exams typically cost around $100 each to take and around 20 hours of online study time.
 
 We have focussed on technical achievements here, but there are non-technical achievements too.
 
