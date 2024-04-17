@@ -2,7 +2,7 @@
 
 # Debugging your future {#debugging}
 
-It's all very well *designing* your future but now you need to actually *engineer* your future by building something. An obvious place to start is with your CV or résumé, because that's where most people start testing their designs. Just like with code, the hardest part isn't *writing* it but *debugging* and *rewriting* it, REPEATEDLY in a permanently^[not quite permanent, unless you've figured out immortality the loop of your life has exit conditions ☠️] running loop or periodically scheduled [cron job](https://en.wikipedia.org/wiki/Cron). How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
+It's all very well *designing* your future but now you need to actually *engineer* your future by building something. An obvious place to start is with your CV or résumé, because that's where most people start testing their designs. Just like with code, the hardest part isn't *writing* it but *debugging* and *rewriting* it, REPEATEDLY in a permanently^[not quite permanent. Unless you've figured out immortality, the loop of your life has well documented exit conditions ☠️] running loop or periodically scheduled [cron job](https://en.wikipedia.org/wiki/Cron). How can you create a bug-free CV, résumé or completed application form? How can you support applications with a strong personal statement or covering letter? These documents are a crucial part of your future so how can you debug them? 🕷
 
 ```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
 knitr::include_graphics("images/Features not bugs.png")
@@ -262,15 +262,15 @@ Experience is where you can talk about any paid or voluntary work experience you
 knitr::include_graphics("images/What have you done.png")
 ```
 
-(ref:captionwhathaveudone) Are you experienced? What have you done outside of your formal academic education? Employers will want to know *much more* about you than just your `Education`. Are you `Experienced`? What `Projects` have you done? Can you demonstrate `Leadership`? Have you won any `Awards`? Experience sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) With apologies to [Jimi Hendrix](https://en.wikipedia.org/wiki/Jimi_Hendrix). [@hendrix]
+(ref:captionwhathaveudone) Are you experienced? What have you done outside of your formal academic education? Employers will want to know *much more* about you than just your `EDUCATION`. Are you `EXPERIENCE`d? What `PROJECTS` have you done? Can you demonstrate `LEADERSHIP`? Have you won any `AWARDS`? Experience sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) With apologies to [Jimi Hendrix](https://en.wikipedia.org/wiki/Jimi_Hendrix). [@hendrix]
 
 If you don't have much experience, don't worry, there are plenty of opportunities to get some more  . For details, see chapter \@ref(experiencing) *experiencing your future*.
 
-Are you experienced? Whatever it is, make sure you add it to your `experience` section. 💰
+Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` section. 💰
 
 ### Your projects {#projects}
 
-The `Projects` section of your CV is where you can describe all your other activities. Your projects will include activities that you haven't already described in your `Education` or your paid `Experience` section such as:
+The `PROJECTS` section of your CV is where you can describe all your other activities. Your projects will include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
 
 * personal side projects, see section \@ref(tinkering)
 * social responsibility projects, not neccesarily technical, see section \@ref(volunteering)
@@ -278,7 +278,7 @@ The `Projects` section of your CV is where you can describe all your other activ
 * entrepreneurial projects, your “[side hustles](https://en.wikipedia.org/wiki/Side_job)” (if you have any)
 * hackathons, olympiads and other competitive or collaborative events, see section \@ref(tinkering)
 * University projects:
-    + these sometimes fit better in your `Education` section, depending on how many non-Uni projects you have
+    + these sometimes fit better in your `EDUCATION` section, depending on how many non-Uni projects you have
     + If you are publishing a group project, you will need permission from *all* of your team to make the code public 
     + Be *careful* publishing coursework. If someone copies your coursework, you will **BOTH** be guilty of [academic malpractice](https://www.studentsupport.manchester.ac.uk/study-support/academic-support/assessments-and-exams/avoiding-academic-malpractice/) because you have colluded in plagiarism.
     + ... but final year (“[capstone](https://en.wikipedia.org/wiki/Capstone_course)”) projects are great as these will tend to be unique, distinguishing you from everybody else in your year group
@@ -745,7 +745,7 @@ show me the money!-->
 
 ## CV checklist: Self-debugging known errors {#checklist}
 
-It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist below will help you start to debug common known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. This simple checklist below will help you start to self-debug known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
 ```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
 knitr::include_graphics("images/unknown-error.png")
