@@ -115,18 +115,18 @@ knitr::include_graphics("images/cloud-badges.png")
 (ref:captioncloudbadge) Three examples of commercial digital badges from providers of cloud services from left to right: **(1)** Microsoft fundmentals see section \@ref(microsoft) [@msfundamentals] **(2)** [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) badge awarded by [credly.com](https://info.credly.com/) for an [AWS certified developer](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate) [@awscert] and **(3)** Google Cloud Platform (GCP) [@gcp1] Each provider offers accreditation for pre-professionals tailored towards technical students. For Microsoft, they are called `fundamentals`, [@msfundamentals] for Amazon they are typically called `foundational` or `associate` qualifications and for Google they are usually called `associate` qualifications. [@gcp2] Your University^[University of Manchester students see section \@ref(microsoft)] and/or employer may provide support for you to achieve these certifications during your academic study, internship, placement or as a recent graduate. The exams typically cost around $100 each to take and around 20 hours of online study time.
 
 ### Microsoft Fundamentals Digital Badges {#microsoft}
-The Department of Computer Science are working with the [Flexible Learning Programme](https://www.manchester.ac.uk/discover/teaching-and-learning-excellence/flexible-learning/) to pilot the introduction of Microsoft Fundamentals Certifications for University of Manchester students. [@georgepettifer] This means you can get Microsoft certified on Azure, AI, Data, Security, CRM, ERP & 365 this summer.
+The Department of Computer Science are working with the [Flexible Learning Programme](https://www.manchester.ac.uk/discover/teaching-and-learning-excellence/flexible-learning/) to pilot the introduction of Microsoft Fundamentals Certifications for University of Manchester students. [@georgepettifer] This means you can get Microsoft certified on [Azure](https://en.wikipedia.org/wiki/Microsoft_Azure), AI, Data, Security, [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management), [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) & [365](https://en.wikipedia.org/wiki/Microsoft_365) this summer.
 
 ```{r ms-fun-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsfun)"}
 knitr::include_graphics("images/ms-fundamentals.png")
 ```
 
-(ref:captionmsfun) Get hired, stay ahead, be productive and receive the recognition you deserve with Microsoft Certified: Fundamentals. These highly marketable, industry-respected certifications offer training and exams that validate your existing knowledge. Screenshot from learn.microsoft.com. [@msfundamentals]
+(ref:captionmsfun) Get hired, stay ahead, be productive and receive the recognition you deserve with Microsoft Certified: Fundamentals. These highly marketable, industry-respected certifications offer training and exams that validate your existing knowledge. Screenshot from `learn.microsoft.com`. [@msfundamentals]
 
 
 These certifications will enhance your CV and LinkedIn profile (see chapter \@ref(debugging)) with a signed digital badge, like the ones shown in figures \@ref(fig:cloud-badges-fig) and \@ref(fig:ms-fun-fig). Gaining these certifications typically involves 18-24 hours of study and **normally cost $99** to take, but are free to University of Manchester students as part of a pilot project. Get hired, stay ahead, be productive, and receive the recognition you deserve with Microsoft Certified: Fundamentals. These highly marketable, industry-respected certifications offer foundational training and exams that provide a practical, high-level overview of Microsoft technology and validate your existing knowledge. The University is currently offering eight different certifications for you to choose from:
 
-1. Microsoft Azure Fundamentals (Cloud): [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
+1. Microsoft Azure Cloud Fundamentals: [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 1. Microsoft Azure AI Fundamentals: [AI-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900)
 1. Microsoft Azure Data Fundamentals: [DP-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900)
 1. Microsoft Security, Compliance, and Identity Fundamentals: [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-900)
@@ -141,7 +141,7 @@ Interested? To gain these certifications you need to be able to:
 
 * Commit to ~18-24 hours of online study time per certification between now and July 2024
 * Attend one in person 50 minute exam per certification in Manchester in July 2024
-* Let me know which certifications you are interested in taking over the summer by filling in this form by **5pm on Friday 3rd May**: 
+* Let me know which certifications^[You can take more than one if you like, but bear in mind each unit requires ~20 hours of study] you are interested in taking over the summer by filling in this form by **5pm on Friday 3rd May**: 
     + [forms.office.com/e/js3p9gjuAQ](https://forms.office.com/e/js3p9gjuAQ)
 
 Any other questions or comments, let me know via the comment section of the form above.

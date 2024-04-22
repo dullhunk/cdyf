@@ -394,7 +394,7 @@ These titles all sound like dumping grounds for your leftovers, added as an afte
 * `SKILLS` see section \@ref(care)
 * `PERSONAL STATEMENT` see section \@ref(bullshit)
 * `HOBBIES AND INTERESTS` see figure \@ref(fig:quidditch-fig) 
-* `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section
+* `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section, see section \@ref(care)
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")

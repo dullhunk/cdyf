@@ -53,7 +53,7 @@ cat('see https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df')
 ```{r firehose-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfirehose)"}
 knitr::include_graphics("images/firehose.png")
 ```
-(ref:captionfirehose) Are you thirsty for job opportunities? If you try to `find_jobs()` without any parameters, you will be overwhelmed by the options, like the graduate in this picture. It's hard to drink from a [fire hose](https://en.wikipedia.org/wiki/Fire_hose). Thirsty graduate sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionfirehose) Are you thirsty for job opportunities? If you try to `find_jobs()` without any parameters, you will be overwhelmed by the options, like the graduate in this picture. It's hard to drink from a [fire hose](https://en.wikipedia.org/wiki/Fire_hose). Thirsty graduate sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 💦
 
 
 Thankfully, we can break it down, but there are many parameters and variables in your search that you need to think about. Here are some basic strategies to help you start to [decompose](https://en.wikipedia.org/wiki/Decomposition_(computer_science)) the complex problem of job hunting into smaller, more manageable problems you can start to tackle. We've already mentioned some:
@@ -281,7 +281,7 @@ knitr::include_graphics("images/Manu_Cornet_pyramid.png")
 Our `find_jobs()` function is useful, if only as a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment), but there's still the strategic questions of *when* you use the function and *how often* so lets look at those next.
 
 ### Search by timing {#by-time}
-For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you're not successful, you could switch to smaller employers later in the academic year. For example “It's October, so I'm applying to large employers” or:
+For graduates and undergraduates, the time of year you are looking can determine what jobs you can look for. At the beginning of the academic year in September you might target large multinational organisations. If you don't find what you want, you could switch to smaller employers later in the academic year. For example “It's October, so I'm applying to large employers” or:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/83030d66f53da3d664f6cd3ed7746a36.js"></script>')
@@ -553,11 +553,9 @@ Here is a small sample of complaints about recruitment, both from employers and 
 
 Despite their [Americentric](https://en.wikipedia.org/wiki/Americentrism) approach, these articles raise important points. Many of them claim that while hiring is broken, they've got a solution to fix it. There's no escaping the fact that the personnel an organisation chooses to hire is one of the most important decisions it can make. Consequently, hiring the *wrong* people can lead to all sorts of (expensive) problems. Unfortunately, it seems likely that important decisions on hiring will remain complicated, time consuming and error-prone.
 
-So beware of broken recruitment practices. Hiring is broken. Recruitment can be biased, bureaucratic, discriminatory, expensive, inefficient and painful for many people. It can be unfair and doesn't always select the best candidates for the post anyway. Hiring is not just unncessarily unpleasant for you, it's the same for employers too. Knowing this will help you prepare for its many limitations and be patient.
+So beware of broken recruitment practices. Hiring is broken, don't hold your breath waiting for it to be fixed. Recruitment can be biased, bureaucratic, discriminatory, labour intensive, expensive, inefficient and painful for many people. It can be unfair and doesn't always select the best candidates for the post anyway. Hiring is not just unncessarily unpleasant for you, it's the same for employers too. Knowing this will help you prepare for its many limitations and be patient. Stay on the bus.
 
-So, if you're finding your job hunt unpleasant, you are not alone. Many recruitment practices are flawed but they are probably the “least worst” system we have, at least for now. 
-
-*We are experiencing some turbulence in recruitment. Please return to your seats and fasten your seatbelts.* 🤕
+So, if you're finding your job hunt unpleasant, you are not alone. Many recruitment practices are flawed but they are probably the “least worst” system we have, at least for now. 🤕
 
 
 ### Beware of the time sink {#timesink}
@@ -700,10 +698,13 @@ knitr::include_graphics("images/Black-hole-CV.png")
 
 If you're getting too many rejections or all your applications are sucked into black holes, it might be because you need to :
 
-* debug your CV and job applications some more (see chapter \@ref(debugging))
-* develop a better job search strategy (see this chapter, chapter \@ref(finding))
-* broaden your job search (see chapter \@ref(choosing))
-* pay attention to your mental health, rejections can make you anxious and depressed (see chapter \@ref(nurturing))
+* debug your CV and job applications some more, see section \@ref(checklist), \@ref(cvswap) and \@ref(triangulation)
+* refine and/or broaden your job search strategy, see section \@ref(strategies) and chapter \@ref(choosing)
+* get some more `EXPERIENCE` and `SKILLS` to help your applications stand out more, look beyond paid work as a way to enhance your CV and LinkedIn, see chapter \@ref(experiencing)
+* reflect on which skills are missing from your CV, see chapter \@ref(verbalising)
+* revisit your design for your future. Do you know yourself as well as you think? Are you expressing that clearly in your job applications? Are you explaining to employers what value you'd add to their team? Know thyself, see chapter \@ref(exploring)
+* get a referral if you can, for competitive employers a referral from somebody you know inside the the organisation can help you bypass the early stages of selectionening. [@jobreferral] Keeping growing your networks, both [IRL](https://en.wikipedia.org/wiki/Real_life) and online. Its not not just *what* you know, but *who* you know, see section \@ref(weakties)
+* pay closer attention to your mental health, rejections can make you anxious and depressed, see chapter \@ref(nurturing)
 
 So beware of rejection, try not to take it personally. Beware of rejection, it is (unfortumately) a normal part of job hunting. 🤮
 
