@@ -1,6 +1,6 @@
 ---
-name: 'Improving Your Future: How can we make this guidebook better for you?'
-about: For student feedback
+name: 'Improving Your Future: How can we make this guidebook better for you and other students?'
+about: For student feedback on Coding Your Future
 title: "[FEEDBACK]"
 labels: improving-your-future
 assignees: dullhunk
