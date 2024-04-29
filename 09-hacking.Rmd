@@ -159,9 +159,21 @@ Developers at CoolTech are involved in the full software cycle, and work closely
 
 (ref:tldr)
 
-Your future is bright, your future needs hacking. Hacking your future will help you to test your future by debugging your own CV. Testing your future will help you to start coding your future. 
+Your future is bright, your future needs hacking. Hacking your future will help you to test your future by debugging your own CV. Testing your future will help you to start coding your future, see figure \@ref(fig:quickndirty-fig)
 
-Reading other people's code will help you write better code yourself. Reading other people's CVs helps you write a better CV yourself. The more you read, the better you get. So, find a critical friend and do a CV swap: you'll both benefit by putting yourself in the shoes of a recruiter.
+```{r quickndirty-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionquickndirty)"}
+knitr::include_graphics("images/quick-and-dirty.jpg")
+```
+
+(ref:captionquickndirty) Once bugs have been identified on your CV, you'll need some workarounds. They might be [kludges](https://en.wikipedia.org/wiki/Kludge): quick-and-dirty workarounds that are clumsy, inelegant, inefficient, difficult to extend and hard to maintain. Or they might be more elegant and ingenious hacks. Either way, fixing bugs on your own CV, and other people's CVs, will improve your chances of being invited to interviews. Public domain image of kludgy repairs to the [Million Dollar Bridge](https://en.wikipedia.org/wiki/Miles_Glacier_Bridge) in Alaska adapted from an original by [Jet Lowe](https://en.wikipedia.org/wiki/Jet_Lowe) on Wikimedia Commons [w.wiki/3Uvn](https://w.wiki/3Uvn) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238)
+
+So:
+
+* Reading other people's code will help you write better code yourself
+* Reading other people's CVs helps you write a better CV yourself
+* The more you read, the better you get at writing 
+
+So, after you've compared the CVs above to your own, find a critical friend and do a CV swap, see section \@ref(cvswap). You will both benefit by putting yourself in the shoes of your reader.
 
 In the next part, chapter \@ref(verbalising): *Verbalising your Future* we'll look one more debugging technique, paying attention to the *verbs* on your CV and what they say about you.
 

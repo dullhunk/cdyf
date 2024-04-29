@@ -207,12 +207,14 @@ knitr::include_graphics("images/dont-give-up-bush-gabriel.jpeg")
 ## Ten simple summaries {#tldr13}
 (ref:tldr)
 
-Your future is bright, your future needs ruling. Ruling your future, will help you deploy your future. Deploying your future is coding your future.  
+In this chapter we've looked at ten simple rules for coding your future, summarised in figure \@ref(fig:tenplus-simple-fig).
+
+Your future is bright, your future needs ruling. Ruling your future, will help you deploy your future. Deploying your future is coding your future. 
+
+```{r tenplus-simple-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontensimple)"}
+knitr::include_graphics("images/10 Simple Rules.png")
+```
 
 In the next section, chapter \@ref(hearing) we'll meet some coders who are ruling (and coding) their futures. 
 
-This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar19-fig).
 
-```{r deathstar19-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
-knitr::include_graphics("images/DeathStar2.jpg")
-```
