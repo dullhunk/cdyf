@@ -23,7 +23,7 @@ always_allow_html: true
 # Welcome to your future {.unnumbered #welcome}
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
-knitr::include_graphics("images/Coding-your-Future-CDYF.png")
+knitr::include_graphics("images/CDYF-vision.png")
 ```
 Your future is bright, your future needs coding. Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and `code` your future in computing at [`www.cdyf.me`](https://www.cdyf.me). Also available as a free ebook and pdf (see section \@ref(downloading)), this guide is aimed at ALL students in higher education. While this guide supports undergraduate teaching and learning at the University of Manchester, it doesn't actually matter:
 
@@ -285,12 +285,12 @@ I'm looking for feedback and contributions on everything in this guidebook from 
 
 All suggestions welcome! Don't be shy. There are several ways you can contribute, depending on how comfortable you are with Git:
 
-### For git contributors {#techies}
+### For github contributors {#techies}
 
 If you're familiar with `git` and `markdown`, there are several options if you have a github account (see [github.com/join](https://github.com/join)) including:
 
 * Join the discussion at [github.com/dullhunk/cdyf/discussions](https://github.com/dullhunk/cdyf/discussions)
-* Raise new issues at [github.com/dullhunk/cdyf/issues/new](https://github.com/dullhunk/cdyf/issues/new)
+* Raise new issues at [github.com/dullhunk/cdyf/issues/new/choose](https://github.com/dullhunk/cdyf/issues/new/choose)
 * Click on the `Edit this page` link, which appears on the bottom right hand side of every page published at [cdyf.me](https://www.cdyf.me) when viewed with a reasonably large screen (not a phone)
 * Contribute at [github.com/dullhunk/cdyf/contribute](https://github.com/dullhunk/cdyf/contribute) and help with existing issues at [github.com/dullhunk/cdyf/issues](https://github.com/dullhunk/cdyf/issues)
 * Fork the repository, make changes and submit a pull request [github.com/dullhunk/cdyf/pulls](https://github.com/dullhunk/cdyf/pulls). If you need to brush-up on your pulling skills see [makeapullrequest.com](http://makeapullrequest.com/)
@@ -300,6 +300,32 @@ git clone https://github.com/dullhunk/cdyf.git
 ````
 
 Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wiki/Markdown), that's [all the `*.Rmd` files](https://github.com/dullhunk/cdyf/search?l=RMarkdown). So markdown files are the only ones you should edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
+
+### For gitlab contributors {#gitswag}
+
+Tell us how we can improve this guidebook and we'll give you some GitLab swag in return, see figure \@ref(fig:gitswag-fig). The most actionable and constructive suggestions will get the best swag.
+
+```{r gitswag-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongitswag)"}
+knitr::include_graphics("images/gitswag.jpeg")
+```
+
+(ref:captiongitswag) We want your honest frank feedback. The most constructive and actionable feedback will receive (in ascending order) GitLab stickers, GitLab branded M&Ms and GitLab noetbooks. The foxy logo isn't actually fox but a [Japanese raccoon dog](https://en.wikipedia.org/wiki/Japanese_raccoon_dog), who knew? Not me. [@tanuki] 🦊
+
+We'd like to know how we can improve your future, specifically these three points::
+
+1. **What Went Well** (WWW) what have you found the most useful part of the guidebook and/or course at [www.cdyf.me](https://www.cdyf.me) and why?
+1. **Even Better If** (EBI) how can we make it better, what is missing? Which bits are boring, unclear or too long? Which bits replicate better material found elsewhere?
+1. **Any other business** (AOB) other comments or suggestions, e.g. would you buy a printed copy if one was available?
+
+Send us your suggestions by:
+
+* Raising an issue privately on GitLab issues (login required) [gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new](https://gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new), if you check the `this issue is confidential` it won't be seen by anybody except you and me
+* Publicly on GitHub (login required) see section \@ref(techies)
+* Anonymously via this form (login required) but we won't see your name at [forms.office.com/e/1U4TCfc8Aa](https://forms.office.com/e/1U4TCfc8Aa)
+
+
+...by **5pm on Friday 17th May**. Besides bagging some swag, we'll be eternally grateful to you for telling us how to make this guidebook better for future students. 
+
 
 ### For everyone else {#elseif}
 
