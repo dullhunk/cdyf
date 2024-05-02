@@ -303,28 +303,28 @@ Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wik
 
 ### For gitlab contributors {#gitswag}
 
-Tell us how we can improve this guidebook and we'll give you some GitLab swag in return, see figure \@ref(fig:gitswag-fig). The most actionable and constructive suggestions will get the best swag.
+Tell us how we can improve this guidebook and we'll give you our eternal gratitude and some GitLab swag in return, see figure \@ref(fig:gitswag-fig). The most actionable and constructive suggestions will get the best swag.
 
 ```{r gitswag-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongitswag)"}
 knitr::include_graphics("images/gitswag.jpeg")
 ```
 
-(ref:captiongitswag) We want your honest frank feedback. The most constructive and actionable feedback will receive (in ascending order) GitLab stickers, GitLab branded M&Ms and GitLab noetbooks. The foxy logo isn't actually fox but a [Japanese raccoon dog](https://en.wikipedia.org/wiki/Japanese_raccoon_dog), who knew? Not me. [@tanuki] 🦊
+(ref:captiongitswag) We want your honest frank feedback. The most constructive and actionable feedback will receive (in ascending order) GitLab stickers, GitLab branded M&Ms and GitLab noetbooks. The foxy GitLab logo isn't actually fox but a [Japanese raccoon dog](https://en.wikipedia.org/wiki/Japanese_raccoon_dog), who knew? [@tanuki] 🦊
 
-We'd like to know how we can improve your future, specifically these three points::
+We'd like to know how we can improve your future, specifically:
 
 1. **What Went Well** (WWW) what have you found the most useful part of the guidebook and/or course at [www.cdyf.me](https://www.cdyf.me) and why?
-1. **Even Better If** (EBI) how can we make it better, what is missing? Which bits are boring, unclear or too long? Which bits replicate better material found elsewhere?
+1. **Even Better If** (EBI) how can we make it better, what is missing? Which bits are boring, unclear or too long? Which bits pointlessly replicate better material found elsewhere?
 1. **Any other business** (AOB) other comments or suggestions, e.g. would you buy a printed copy if one was available?
 
 Send us your suggestions by:
 
-* Raising an issue privately on GitLab issues (login required) [gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new](https://gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new), if you check the `this issue is confidential` it won't be seen by anybody except you and me
-* Publicly on GitHub (login required) see section \@ref(techies)
+* Raising an issue privately on GitLab issues (login required) [gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new](https://gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new), if you check the box: `This issue is confidential ...`, your issue won't be seen by anybody except you and me
+* Publicly on GitHub (login required), get public credit and build your digital profile with your contributions, see section \@ref(techies)
 * Anonymously via this login-free form at [forms.office.com/e/1U4TCfc8Aa](https://forms.office.com/e/1U4TCfc8Aa)
 
 
-...by **5pm on Friday 17th May**. Besides bagging some swag, we'll be eternally grateful to you for telling us how to make this guidebook better for future students. 🙏
+Send us your feedback by **5pm on Friday 17th May**. Besides bagging some swag, we'll be eternally grateful to you for telling us how to make this guidebook better for other students of computing. 🙏
 
 
 ### For everyone else {#elseif}
