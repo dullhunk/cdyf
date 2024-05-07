@@ -303,25 +303,25 @@ Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wik
 
 ### For gitlab contributors {#gitswag}
 
-Tell us how we can improve this guidebook and we'll give you our eternal gratitude and some GitLab swag in return, see figure \@ref(fig:gitswag-fig). The most actionable and constructive suggestions will get the best swag.
+Tell us how we can improve this guidebook and we'll give you our eternal gratitude and some [GitLab.com](https://about.gitlab.com/) swag in return, see figure \@ref(fig:gitswag-fig). The most actionable and constructive suggestions will get the best swag.
 
 ```{r gitswag-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongitswag)"}
 knitr::include_graphics("images/gitswag.jpeg")
 ```
 
-(ref:captiongitswag) We want your honest frank feedback. The most constructive and actionable feedback will receive (in ascending order) GitLab stickers, GitLab branded M&Ms and GitLab noetbooks. The foxy GitLab logo isn't actually fox but a [Japanese raccoon dog](https://en.wikipedia.org/wiki/Japanese_raccoon_dog), who knew? [@tanuki] 🦊
+(ref:captiongitswag) We want your honest frank feedback on *Improving Your Future*. The most constructive and actionable feedback will receive (in ascending order) GitLab stickers, GitLab branded M&Ms and GitLab noetbooks. The foxy GitLab logo isn't actually fox but a [Japanese raccoon dog](https://en.wikipedia.org/wiki/Japanese_raccoon_dog) or Tanuki, who knew? [@tanuki] 🦊
 
 We'd like to know how we can improve your future, specifically:
 
-1. **What Went Well** (WWW) what have you found the most useful part of the guidebook and/or course at [www.cdyf.me](https://www.cdyf.me) and why?
-1. **Even Better If** (EBI) how can we make it better, what is missing? Which bits are boring, unclear or too long? Which bits pointlessly replicate better material found elsewhere?
-1. **Any other business** (AOB) other comments or suggestions, e.g. would you buy a printed copy if one was available?
+1. **What Went Well** (`WWW`) what have you found the most useful part of the guidebook and/or course at [www.cdyf.me](https://www.cdyf.me) and why?
+1. **Even Better If** (`EBI`) how can we make it better, what is missing? Which bits are boring or unclear? Which bits pointlessly replicate better resources (that are free and open) found elsewhere? Too long, didn’t read ([TL;DR](https://en.wiktionary.org/wiki/too_long;_didn%27t_read))?
+1. **Any other business** (`AOB`) other comments or suggestions, e.g. would you buy a printed copy if one was available? How useful are the `*.pdf` and `*.epub` versions? How useful is the audio podcast?
 
 Send us your suggestions by:
 
 * Raising an issue privately on GitLab issues (login required) [gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new](https://gitlab.cs.man.ac.uk/duncan.hull/cdyf/-/issues/new), if you check the box: `This issue is confidential ...`, your issue won't be seen by anybody except you and me
 * Creating an issue publicly on GitHub (login required), get credit for contributing an open source project and build your digital profile with your contributions, see section \@ref(techies). Issues and bug reports are just as valuable as `code` and `data`.
-* Anonymously via this login-free form at [forms.office.com/e/1U4TCfc8Aa](https://forms.office.com/e/1U4TCfc8Aa)
+* Filling in this anonymous login-free form at [forms.office.com/e/1U4TCfc8Aa](https://forms.office.com/e/1U4TCfc8Aa)
 
 
 Send us your feedback by **5pm on Friday 17th May**. Besides bagging some swag, we'll be eternally grateful to you for telling us how to make this guidebook better for other students of computing. 🙏
@@ -392,7 +392,7 @@ I've also had significant support from colleagues in the Department of Computer 
 
 Thank you [Carole Goble](https://en.wikipedia.org/wiki/Carole_Goble) for building the community that supported me through postgraduate study. Thanks for creating the environment which this book was written in, especially the [e-Science lab](https://esciencelab.org.uk/), Information Management Group (IMG), Software Sustainability Institute ([software.ac.uk](https://software.ac.uk/)) and their spin-offs. Thanks for patiently re-teaching me how to write better by covering early drafts of my Masters thesis in red ink and less patiently (on subsequent revisions) swear words. 🤬
 
-Thank you [Steve Furber](https://www.cdyf.me/steve) for playing guitar in our “boy band” [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research#tuningcomplete). All we've got is your bass guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth). [@harlan; @allalongthewatchtower] 🎸
+Thank you [Steve Furber](https://www.cdyf.me/steve) for playing guitar in our “boy band” [Tuning Complete](https://personalpages.manchester.ac.uk/staff/duncan.hull/research#tuningcomplete), see chapter \@ref(steve). All we've got is your bass guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth). [@harlan; @allalongthewatchtower] 🎸
 
 Thank you [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after you offered me a job. I thought you were joking (about the book) but it actually turned out to be another one of your great ideas. Thanks Jim. 🙏
 

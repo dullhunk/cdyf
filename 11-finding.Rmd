@@ -543,6 +543,7 @@ Here is a small sample of complaints about recruitment, both from employers and 
 * “*I cheated on my Microsoft interview*” [@cheated]
 * “*What are some common criticisms of Cracking the Coding interview?*” [@murashenkov]
 * “*Job applicants can now see interview questions beforehand in an attempt to make the process fairer*” [@johnlewis]
+* “Worst-ever job interviews: 'We had to crawl and moo'” [@mooview]
 
 ... and the general unreliability of hiring ... 
 
@@ -625,7 +626,7 @@ There is *one* exception to this: expenses paid work-shadowing for a short perio
 When people try to sell you something, you will naturally be wary of overselling and fake news, see figure \@ref(fig:fakenews-fig).
 
 ```{r fakenews-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfakenews)"}
-knitr::include_graphics("images/overselling.png")
+knitr::include_graphics("images/When-Employers-oversell.png")
 ```
 (ref:captionfakenews) Beware of false or misleading information in the jobs marketplace. Pool tables and free snacks are nice but are what is it *actually* like to work for a given employer? Are employers *really* as good as they say they are? Are *you* as good as you say you are? Or is it [fake news](https://en.wikipedia.org/wiki/Fake_news)? Overselling sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
