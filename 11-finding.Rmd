@@ -48,7 +48,7 @@ cat('<script src="https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe2
 cat('see https://gist.github.com/dullhunk/6f3a98ca6ae2cdcb611f8b4838fe25df')
 ```
 
-...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless. Your [search space](https://en.wikipedia.org/wiki/Search_space) is huge. It's like trying to drink from a high-pressure [fire hose](https://en.wikipedia.org/wiki/Fire_hose), see figure \@ref(fig:firehose-fig).
+...you will be completely overwhelmed with the results. It can be bewildering knowing where to start your job search, because the possibilities are endless. Your [search space](https://en.wikipedia.org/wiki/Search_space) is **HUGE**! It's like trying to drink from a high-pressure [fire hose](https://en.wikipedia.org/wiki/Fire_hose), see figure \@ref(fig:firehose-fig).
 
 ```{r firehose-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfirehose)"}
 knitr::include_graphics("images/firehose.png")
@@ -271,12 +271,18 @@ cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620c
 cat('see https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9')
 ```
 
-An employers `values` are usually reflected in its organisational `culture`. What is the employers culture like? What sort of structure would you fit into, see figure \@ref(fig:pyramid-fig)? Would you enjoy working there and would you felt like you belonged? How can you actually find this out? Do you need to sell your soul? If you're struggling with these questions, you may need to do some more soul searching, see section \@ref(soul) and chapter \@ref(exploring). Talk to employees too, this is why networking is important, see section \@ref(weakties).
+An employers `values` are usually reflected in its organisational `culture`. What is the employers culture like? What sort of structure would you fit into, see figure \@ref(fig:pyramid-fig)? Would you enjoy working there and would you felt like you belonged? What are the organisational values, both in theory and in practice? Do you need to sell your soul in order to join? How can you actually find this out? If you're struggling with these questions, the following should be helpful:
+
+* check an employers reputation online using glassdoor and other tools described in section \@ref(generaljobs)
+* talk to individual employees because online reviews have well known limitations. This is why networking (virtual and actual) is important, see section \@ref(weakties)
+* do some more soul searching, see section \@ref(soul) and chapter \@ref(exploring).
 
 ```{r pyramid-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpyramid)"}
 knitr::include_graphics("images/Manu_Cornet_pyramid.png")
 ```
 (ref:captionpyramid) Culture and values are often reflected in an employers structure. Finding out about an employers structure will help you begin to understand their `culture` and `values`, see section \@ref(soul). Creative Commons [Attribution-NonCommercial-NoDerivs](https://creativecommons.org/licenses/by-nc-nd/3.0/) org charts comic by [Manu Cornet](https://en.wikipedia.org/wiki/Manu_Cornet) at [bonkersworld.net/organizational-charts](https://bonkersworld.net/organizational-charts)
+
+<!-- people, culture, process and tools in that order via stefania at gitlab-->
 
 Our `find_jobs()` function is useful, if only as a [thought experiment](https://en.wikipedia.org/wiki/Thought_experiment), but there's still the strategic questions of *when* you use the function and *how often* so lets look at those next.
 
