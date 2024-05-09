@@ -261,7 +261,7 @@ knitr::kable(job_table, caption = "The practicalities of applying for vacancies,
 ```
 
 ### Search by values {#by-values}
-Besides the mundane importance of balancing the books, what does a given employer actually value? How do an employers values match your own, the `values_match` below? Reasonably or not at all? How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can:
+Besides balancing the books and keeping the cash flowing, what does a given employer actually value? How do an employers values match your own, the `values_match` below? Reasonably or not at all? How much of your soul do you need to sell? All of it, or just some of it? This a difficult question to compute, see section \@ref(soul), but let's imagine we can:
 
 ```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
 cat('<script src="https://gist.github.com/dullhunk/015a1182225f13c9307538468620ceb9.js"></script>')
@@ -496,7 +496,7 @@ Some recruiters are very good and can help you, especially if they work direclty
 
 However some recruiters are not very good, and don't always provide a valued service for employers or potential employees like you. This is why you sometimes see `no recruiters` or `no agencies` on job adverts. So be wary of recruiters, and remember that some recruiters work primarily for their clients (employers) not you.
 
-In most cases you shouldn't have to pay recruiters up front but job scammers will sometimes pose as recruiters so beware. Talking of job scammers, there's some things you need to be wary of when you are job hunting:
+In most cases you shouldn't have to pay recruiters up front but job scammers will sometimes pose as recruiters so beware. Talking of job scammers, there's some more things you need to be wary of when you are job hunting:
 
 <!-- timing
 
@@ -582,7 +582,13 @@ Even after you have managed to:
 1. Consider all your options, see chapter \@ref(choosing)
 1. Target employers or sectors of interest
 
-.. the actual business of applying described in this chapter can be very bureaucratic. Any interviews you have will take time to prepare for (see chapter \@ref(speaking)) and you've got loads of other calls on your time like studying and having a social life.
+.. the actual business of applying described in this chapter can be very bureaucratic. Any interviews you have will take time to prepare for (see chapter \@ref(speaking)) and you've got loads of other calls on your time like studying and having a social life. Some employers will ask you to jump through lots of hoops which will take up lots of your valuable time, see figure \@ref(fig:hoops-fig).
+
+```{r hoops-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionhoops)"}
+knitr::include_graphics("images/hoops.jpg")
+```
+(ref:captionhoops) Are you ready to [jump through hoops](https://en.wiktionary.org/wiki/jump_through_hoops) like some kind of circus animal? Hoop jumping is a time consuming activity that many employers will expect you to perform.  Hoops sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) via WAO [@plausibleutopias]
+
 
 One way to tackle this problem is to schedule some time every week when you work on applications, see chapter \@ref(organising). However, there's no getting away from the fact that finding a job can consume a significant amount of your time. So beware of the time sink. ⏰
 
@@ -672,7 +678,7 @@ To work out what compromises and trade-offs you are prepared to make, you may ne
 Most job adverts are legitimate but you are vulnerable when you are job hunting. You may become more vulnerable over time if you are getting repeated rejections (remember: repeated rejection is quite normal). Unfortunately there are some shady characters out there looking to exploit your vulnerability through various kinds of [employment fraud](https://en.wikipedia.org/wiki/Employment_fraud). [@jobscammers; @scamjobs] You should be wary of anyone asking you for:
 
 * Money up front - be very suspicious
-* Excessive personal data such your birth date, passport number and bank details. These could be used for identity theft, fraud or other criminal activities
+* Excessive personal data such your birth date, passport number and bank details. These could be used for identity theft, fraud or other criminal activities [@vlissidis;@vlissidis2]
 * Suspicious contact details and generic non-work free email addresses, e.g. gmail, outlook.com etc [@jobscammers2]
 * See more examples in figure \@ref(fig:jobscams-fig) and at [google.com/search?q=job+scams](https://www.google.com/search?q=job+scams)
 
