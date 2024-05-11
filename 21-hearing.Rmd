@@ -255,11 +255,12 @@ YOUR FUTURE WANTS YOU: Join your future! If you'd like to be interviewed for the
 
 I'm also interested in speaking to people who graduated a while back, not just this years graduates, but any back to 1968. 🎓 [@babygrowsup]
 
-```{r yfnu-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionyfnu)"}
-knitr::include_graphics(rep("images/your-future-wants-you.jpeg", 3))
+
+```{r yfnu-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionyfnu)"}
+knitr::include_graphics("images/Your future wants you.png")
 ```
 
-(ref:captionyfnu) Your ~~country~~ future wants YOU. 🫵 Join your future. If you are a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Picture adapted from an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by [Alfred Leete](https://en.wikipedia.org/wiki/Alfred_Leete) on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
+(ref:captionyfnu) Your ~~Country~~ Future Wants YOU. 🫵 Join your future. If you are a former student of Computer Science who'd like to appear on the show, [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact). I'm especially interested to hear from students who did internships or placements before they graduated in Computer Science. Your Future Needs You sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) inspired by an original public domain image of the [Lord Kitchener Wants You](https://en.wikipedia.org/wiki/Lord_Kitchener_Wants_You) poster by [Alfred Leete](https://en.wikipedia.org/wiki/Alfred_Leete) on Wikimedia Commons at [w.wiki/3xvX](https://w.wiki/3xvX)
 
 If you're coming on the show, please have a think about the following questions which we ask all our guests:
 
