@@ -831,20 +831,20 @@ knitr::kable(triang_table, caption = "Some of the strengths and weakness of diff
 
 (ref:twentyfourseven) Available online 24-7, see section \@ref(robotproof)
 
-(ref:notcritical) Might not be honest enough or critical enough, see figure \@ref(fig:wonderfuldarling-fig)
+(ref:notcritical) Might not be honest enough or critical enough, see figure \@ref(fig:wonderfuldarling-fig). It can be difficult to give and receive negative feedback [@negativefeedback]
 
 (ref:academentia) Good subject knowledge and good source of advice on further study, see chapter \@ref(researching)
 
 (ref:knowthyself) You know yourself (hopefully) see chapter \@ref(exploring)
 
-(ref:worstcritic) It can be difficult to see your own faults, both on paper and in person, see section \@ref(checklist). On the other hand, there is a good chance you might be your own worst critic too. [@worstcritic]
+(ref:worstcritic) It can be difficult to see your own faults, and you might be over-estimating your abilities, both on paper and in person, see the [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) and section \@ref(checklist). On the other hand, there is a good chance you might be your own worst critic too. [@worstcritic]
 
 
 ```{r honest-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionhonest)"}
 knitr::include_graphics("images/honest-frank-feedback.png")
 ```
 
-(ref:captionhonest) **WANTED (DEAD OR ALIVE) HONEST FRANK FEEDBACK** To improve your CV you want honest frank feedback on it. Frank Feedback (and his sister Francesca Feedback) aren't judging you, they are judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to [continue your professional development](https://en.wikipedia.org/wiki/Institute_of_Continuing_Professional_Development) (CPD). So, who are the people you could ask for honest feedback? Can you return their favour and give them some feedback on theirs? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
+(ref:captionhonest) **WANTED (DEAD OR ALIVE) HONEST FRANK FEEDBACK** To improve your CV you want honest frank feedback on it. Frank Feedback (and his sister Francesca Feedback) aren't judging you, they are judging your CV. Honest feedback will see beyond good or bad and will tell you where you can improve, not just in what you've presented but also what's missing and what you need to focus on in the future to [continue your professional development](https://en.wikipedia.org/wiki/Institute_of_Continuing_Professional_Development) (CPD). So, who are the people you could ask for honest feedback, who do you trust to be able to give you negative (but constructive) feedback? Can you return their favour and give them some feedback on theirs? [WANTED: Honest Frank Feedback](https://bryanmmathers.com/honest-frank-feedback/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
