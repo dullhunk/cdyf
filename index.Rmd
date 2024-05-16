@@ -25,11 +25,11 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/CDYF-vision.png")
 ```
-Your future is bright, your future needs coding. Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and `code` your future in computing at [`www.cdyf.me`](https://www.cdyf.me). Also available as a free ebook and pdf (see section \@ref(downloading)), this guide is aimed at ALL students in higher education. While this guide supports undergraduate teaching and learning at the University of Manchester, it doesn't actually matter:
+Your future is bright, your future needs coding. Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and `code` your future in computing at [`www.cdyf.me`](https://www.cdyf.me). Also available as a free ebook and pdf (see section \@ref(downloading)), this guide is aimed at ALL students in higher education. While this guide supports teaching and learning at the University of Manchester, it doesn't actually matter:
 
 * *where* in the world you are studying
 * what *stage* of your degree you are at, from first year through to final year
-* what *level* you are studying at, foundation, undergraduate or postgraduate
+* what *level* you are studying at, high school, foundation, undergraduate or postgraduate
 * what *institution* you are studying at, this book is institutionally agnostic
 * what *subject* you are studying, as long as you are **computationally curious**
 
@@ -396,7 +396,7 @@ Thank you [Steve Furber](https://www.cdyf.me/steve) for playing guitar in our ‚Ä
 
 Thank you [Jim Miles](https://en.wikipedia.org/wiki/James_John_Miles) for encouraging me to write a book shortly after you offered me a job. I thought you were joking (about the book) but it actually turned out to be another one of your great ideas. Thanks Jim. üôè
 
-I'd also like to thank the only three people in the whole world who've had the ~~misfortune~~ pleasure of reading all of my PhD thesis cover to cover; [Robert Stevens](https://en.wikipedia.org/wiki/Robert_David_Stevens), [Anil Wipat](https://www.ncl.ac.uk/computing/staff/profile/anilwipat.html) and [Steve Pettifer](https://en.wikipedia.org/wiki/Steve_Pettifer). I suspect it was as painful for you to read as it was for me to write it. Thanks Robert for your relentless patience and giving me a well timed, well aimed kick up the (proverbial) arse to write this book in the [Midland Hotel, Manchester](https://en.wikipedia.org/wiki/Midland_Hotel,_Manchester) at the May ball.
+I'd also like to thank the only three people in the whole world who've had the ~~misfortune~~ pleasure of reading all of my PhD thesis cover to cover; [Robert Stevens](https://en.wikipedia.org/wiki/Robert_David_Stevens), [Anil Wipat](http://homepages.cs.ncl.ac.uk/anil.wipat/) and [Steve Pettifer](https://en.wikipedia.org/wiki/Steve_Pettifer). I suspect it was as painful for you to read as it was for me to write it. Thanks Robert for your relentless patience and giving me a well timed, well aimed kick up the (proverbial) arse to write this book in the [Midland Hotel, Manchester](https://en.wikipedia.org/wiki/Midland_Hotel,_Manchester) at the May ball.
 
 So, thank you colleagues for being collegiate. You make the University of Manchester an enjoyable place to work.
 

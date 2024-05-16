@@ -152,7 +152,7 @@ Here are some common bugs (or are they features?) to pay attention to on initial
 1. **VERBS FIRST**: Have you talked about what you have actually done using prominent `verbs`, rather than just what you think you know? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
 1. **STYLE**: Does it look good, with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
-1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklist in section \@ref(checklist)
+1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklists that follow on from this one in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -812,7 +812,7 @@ knitr::include_graphics("images/triangulation.jpg")
 
 (ref:captiontriangulation) Getting feedback on your CV from known points at different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
 
-Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Despite what people might tell you, nobody has all the answers^[including me!]. Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Despite what people might tell you, nobody has all the answers, including me! Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
 
 ```{r triangtable, echo = FALSE}
 triang_table <- tibble::tribble(
