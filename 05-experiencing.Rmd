@@ -233,7 +233,7 @@ The guidelines for prospective contributors to Google's Summer of Code (GSoC) at
 
 ### Google Summer of Code {#gsoc}
 
-Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students and beginners in open source software development see figure \@ref(fig:gsoc-fig) [@gsoc]. As of 2024, the twentieth year of GSoC, applications open around March each year with a deadline in April. In 2024, contributor applications opened on Monday March 18th with a deadline of Tuesday, April 2, 2024 18:00. [@stephaniesays] 
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students and beginners in open source software development see figure \@ref(fig:gsoc-fig) [@gsoc]. As of 2024, the twentieth year of GSoC, applications open around March each year with a deadline in April. <!--In 2024, contributor applications opened on Monday March 18th with a deadline of Tuesday, April 2, 2024 18:00.--> [@stephaniesays] 
 
 ```{r gsoc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
 knitr::include_graphics("images/gsoc.jpeg")

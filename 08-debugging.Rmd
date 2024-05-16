@@ -214,7 +214,7 @@ Don't just TELL your reader, SHOW them. The numbers (`six` people, `four` months
 knitr::include_graphics("images/storytime.png")
 ```
 
-(ref:captionstorytime) Do you ❤️ tales? Your reader does too! On a short CV, you don't have time to give a blow-by-blow account as you gather round the camp fire, but you do need to give them the bare bones of your most important stories so the reader wants to find out more. Using numbers is a key part of that, alongside giving the `C`ontext, `A`ctions, `R`esults and `E`vidence (`C.A.R.E.`) we discuss in section \@ref(care). Storytime sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🔥
+(ref:captionstorytime) Do you ❤️ tales? Of course you do and your readers do too! On a short CV, you don't have time to give a blow-by-blow account as you gather round the camp fire, but you do need to give them the bare bones of your most important stories so the reader wants to find out more. Using numbers is a key part of that, alongside giving the `C`ontext, `A`ctions, `R`esults and `E`vidence (`C.A.R.E.`) we discuss in section \@ref(care). Storytime sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🔥
 
 So what's your story, coding glory? [@whatsthestory]
 
@@ -588,7 +588,7 @@ Adding web links (hyperlinks) to your CV can add important Context, Action, Resu
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
 knitr::include_graphics("images/lovelace-linkedin.png")
 ```
-(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
+(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin;@claimcustomurl] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
 
 Links can provide `Context`, (Action), `Result` and `Evidence` (see `C.A.R.E.` in section \@ref(care)) by quantifying and substantiating any claims that you make. Links demonstrate what you've done and which communities you've been a part of. For example, you might says things like:
 
@@ -753,7 +753,7 @@ show me the money!-->
 
 ## CV checklist B: Self-debugging known errors {#checklist}
 
-It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. We had a quick checklist in section \@ref(quick), this longer checklist below will help you start to self-debug known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. Following on from the quick checklist in section \@ref(quick), this longer checklist below will help you start to self-debug known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
 ```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
 knitr::include_graphics("images/unknown-error.png")
