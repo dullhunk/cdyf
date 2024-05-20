@@ -542,7 +542,7 @@ Good, so what piece of music? I'm sorry I can only give you *one* piece of music
 knitr::include_graphics("images/the-moody-blues.jpeg")
 ```
 
-(ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin], Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the [Coder's Playlist](https://bit.ly/coders-playlist). [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/8akG](https://w.wiki/8akG) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
+(ref:captionmoody) The Moody Blues were an English rock band formed in Birmingham in May 1964. There's a good chance you've heard their greatst hit [Nights in White Satin](https://en.wikipedia.org/wiki/Nights_in_White_Satin), [@nightsinwhitesatin] but Steve chose [The Story in Your Eyes](https://en.wikipedia.org/wiki/The_Story_in_Your_Eyes) to add to the [Coder's Playlist](https://bit.ly/coders-playlist). [@thestoryinyoureyes] Public domain (CC0) picture of (from left to right) Mike Pinder, Graeme Edge, Justin Hayward, Ray Thomas and John Lodge arriving at Amsterdam Airport in 1970 from the [Nationaal Archief](https://en.wikipedia.org/wiki/Nationaal_Archief) on Wikimedia Commons [w.wiki/8akG](https://w.wiki/8akG) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238).
 
 Okay, good. We'll add that to the [bit.ly/coders-playlist](https://bit.ly/coders-playlist) (redirects the YouTube playlist) and I'm going to have a listen to that. Why is that particular piece important to you?
 
@@ -756,7 +756,7 @@ knitr::include_graphics("images/GOTO.jpg")
 
 (ref:captiongoto) The popular `GOTO` statement helped people like me understand what the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) was capable of, the [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) even had a dedicated key for it shown here. The `GOTO` statement was [considered harmful](https://en.wikipedia.org/wiki/Considered_harmful) by [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) and many others [@goto; @dreadedgoto] who argued that it encouraged people to write [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code), and was eventually dropped from many programming languges. CC BY-SA Picture of `GOTO` key by Rama on Wikimedia Commons [w.wiki/8qDv](https://w.wiki/8qDv)
 
-While the use of [GOTO](https://en.wikipedia.org/wiki/Goto) has long gone from most programming languages (see figure \@ref(fig:goto-fig)), the experience of making software in 1981 had a big impact on me and many others like me. [@computersgb]
+While the use of [GOTO](https://en.wikipedia.org/wiki/Goto) has long gone from many programming languages (see figure \@ref(fig:goto-fig)), the experience of making software in 1981 had a big impact on me and many others like me. [@computersgb]
 
 Thanks to Steve, [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), Acorn Computers and many others. 🙏
 
