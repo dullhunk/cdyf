@@ -15,9 +15,17 @@ The most useful or helpful things about this guidebook are:
 * bla
 * bla
 
-# Even Better If (WWW)
+# Even Better If (EBI)
 
 This guidebook would be even better if:
+
+* bla
+* bla
+* bla
+
+# Any Other Business (AOB)
+
+Other relevant stuff I'd like you to know about
 
 * bla
 * bla
