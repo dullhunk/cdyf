@@ -1,6 +1,6 @@
 # (PART) DESIGNING {-}
 
-# Rebooting your future {#rebooting}
+# Rebooting Your Future {#rebooting}
 
 The first part of this book is about *designing* your future. Before we get started, we need to reboot and tackle a fundamental design issue. Why the hell would you want to bother reading this guidebook when you have so many other things to do right now?
 

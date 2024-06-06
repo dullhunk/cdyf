@@ -1,5 +1,5 @@
 
-# Scheduling your future {#scheduling}
+# Scheduling Your Future {#scheduling}
 You might find it a bit scary thinking about your future. You might be tempted to procrastinate making important decisions about your future, see figure \@ref(fig:schedule-fig). There is a risk of getting stuck in a `do-nothing` or [`busy waiting`](https://en.wikipedia.org/wiki/Busy_waiting) loop. This guidebook is here to help you break out of that loop. One way to breakout of an unproductive loop is to schedule some time every week where you work on personal development and job applications. Doing good applications takes time and you'll probably find you can't do as many applications as you might like.
 
 ```{r schedule-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionschedule)"}

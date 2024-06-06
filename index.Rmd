@@ -20,7 +20,7 @@ always_allow_html: true
 # output: word_document
 ---
 
-# Welcome to your future {.unnumbered #welcome}
+# Welcome to Your Future {.unnumbered #welcome}
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/CDYF-vision.png")
@@ -47,7 +47,7 @@ knitr::include_graphics("images/alicequotation.jpeg")
 
 Pictures can tell stories, pictures can explain. Pictures can help you understand. Pictures can help you imagine. [Pictures can help you code](https://pythontutor.com/). [@pythontutor] So this book uses pictures (and conversations) to help you imagine and code your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
 
-## Your future aims {#vaccine}
+## Your Future aims {#vaccine}
 This guidebook will help you develop stronger habits of mind, body and soul using five key ingredients: **`C`**, **`D`**, **`Y`**, **`F`** and **`.me`**:
 
 1. **`C is for CODE`**: Instructions, algorithms, recipes, methods and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
@@ -63,7 +63,7 @@ knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 
 (ref:captionhellomyname) Hello, [my name is Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)). If you're feeling a bit lost, follow me and together we can starting coding your future. Please don't call me `Sir`, `Professor` or `Doctor`, [That's not my name](https://en.wikipedia.org/wiki/That%27s_Not_My_Name)! [@tingtings] Just call me **Duncan** because titles are tinsel. [@shelley] Image adapted from *Hello my name is ... sticker* by Eviatar Bach, public domain [w.wiki/32RV](https://w.wiki/32RV)
 
-*Coding your future* explores techniques for investigating career possibilities, job searching, making career decisions, writing applications and competing successfully in interviews and the workplace.
+*Coding Your Future* explores techniques for investigating career possibilities, job searching, making career decisions, writing applications and competing successfully in interviews and the workplace.
 
 Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people about your experience, skills and knowledge. As there is a computational theme, you will also need to reflect on what your [inputs and outputs (I/O)](https://en.wikipedia.org/wiki/Input/output) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
 
