@@ -446,7 +446,7 @@ Each chapter in this book has a signposts section, highlighting key reading, wat
 What's good about *The Clean Coder* is that it is short (only 200 pages), well written and to the point. The main part of the book covers professional issues in software engineering, some of which I discuss further in chapter \@ref(starting), *starting your future*.
 
 
-## Summarising your future {#tldr1}
+## Summarising Your Future {#tldr1}
 
 If all that was [too long, didn't read](https://en.wiktionary.org/wiki/too_long;_didn%27t_read) (TL;DR) for you, then you'll be relieved to hear that each chapter has a TL;DR (executive) summary.
 
