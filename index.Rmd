@@ -35,7 +35,7 @@ Your future is bright, your future needs coding. Welcome to *Coding Your Future*
 
 There is something in this guidebook for *any* student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
-## Your future is bright, your future needs coding {#picturethis}
+## Your Future is Bright, Your Future Needs Coding {#picturethis}
 <!-- was imagining your future-->
 A lot of careers advice can be dry, dull, textbooky, generic and boring with few illustrations and conversations. In the novel *[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)* [@wonderland] shown in figure \@ref(fig:aiw-fig), the protagonist Alice wonders why her sister is reading a book without pictures.
 
@@ -47,7 +47,7 @@ knitr::include_graphics("images/alicequotation.jpeg")
 
 Pictures can tell stories, pictures can explain. Pictures can help you understand. Pictures can help you imagine. [Pictures can help you code](https://pythontutor.com/). [@pythontutor] So this book uses pictures (and conversations) to help you imagine and code your future. Other key differences between this and other guidebooks are outlined in section \@ref(thinkdifferent).
 
-## Your Future aims {#vaccine}
+## Your Future Aims {#vaccine}
 This guidebook will help you develop stronger habits of mind, body and soul using five key ingredients: **`C`**, **`D`**, **`Y`**, **`F`** and **`.me`**:
 
 1. **`C is for CODE`**: Instructions, algorithms, recipes, methods and strategies contained in this guidebook. This `code` is for your consumption, not for a machine.
@@ -65,7 +65,7 @@ knitr::include_graphics("images/Hello-my-name-is-Duncan.png")
 
 *Coding Your Future* explores techniques for investigating career possibilities, job searching, making career decisions, writing applications and competing successfully in interviews and the workplace.
 
-Alongside these practical engineering issues, this guidebook also encourages you to *design your future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people about your experience, skills and knowledge. As there is a computational theme, you will also need to reflect on what your [inputs and outputs (I/O)](https://en.wikipedia.org/wiki/Input/output) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
+Alongside these practical engineering issues, this guidebook also encourages you to *Design Your Future* by taking a step back and reflecting on the bigger picture. You will apply [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) techniques, to reflect on who you are, what your story is, how you communicate with other people about your experience, skills and knowledge. As there is a computational theme, you will also need to reflect on what your [inputs and outputs (I/O)](https://en.wikipedia.org/wiki/Input/output) are, both now and in the future. You'll also need to think about what recipes (or algorithms) you might start experimenting with
 
 This guidebook investigates professional and pastoral issues in computing, for those with and without Computer Science degrees in the early stage of their careers.
 
@@ -74,7 +74,7 @@ This guidebook investigates professional and pastoral issues in computing, for t
 ## What you won't learn {#nilo}
 This guidebook will NOT teach you how to write code, there's already lots of fantastic resources to help you do that. We discuss some of them in chapter \@ref(computing) on *computing your future*.
 
-## Learning your future {#bilo}
+## Learning Your Future {#bilo}
 
 So what *will* you learn from this guidebook? After reading this guidebook, watching the videos and doing the exercises you will be able to:
 
@@ -89,7 +89,7 @@ So what *will* you learn from this guidebook? After reading this guidebook, watc
 
 <!--codebase, documentbase, languagebase, wordbase-->
 
-### Your future requirements {#prereq}
+### Your Future Requirements {#prereq}
 As the title of this guidebook implies, there is a computational flavour here, but you do not have to be studying Computer Science to benefit. There are two main target audiences for this guidebook:
 
 1. Undergraduate and postgraduate students studying Computer Science as a major or minor part of their degree. This includes software engineering, artificial intelligence, human-computer interaction (HCI), information systems, health informatics, data science, gaming, cybersecurity and all the other myriad flavours of Computer Science
@@ -98,7 +98,7 @@ As the title of this guidebook implies, there is a computational flavour here, b
 
 So the prerequisites for this book are that you are studying (or have studied) at a University where English is one of the main spoken languages. You *may* have some experience already, either casual, voluntary or otherwise, but this book does **not** assume that you have already been employed in some capacity.
 
-### Gutting your future {#gut}
+### Gutting Your Future {#gut}
 Reading this book from cover to cover like a novel is not recommended. That would be foolish.
 
 ```{r gut-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongut)"}
@@ -124,7 +124,7 @@ https://bookdown.org/yihui/bookdown/custom-blocks.html
 -->
 
 
-## Mapping your future {#mapping}
+## Mapping Your Future {#mapping}
 <!-- or should it be structuring-->
 Your future is split into five parts, each of which has several chapters:
 
@@ -143,7 +143,7 @@ knitr::include_graphics("images/Course Map Pentagram downsampled.png")
 
 Let's look in a bit more detail at each of the five parts of your future, starting with designing your future.
 
-### Designing your future {#parti}
+### Designing Your Future {#parti}
 
 The first six chapters of this guidebook look at what engineers call *design*. When you build anything, a bridge, a piece of software, a car or a plane you'll need to do some design like the blueprint in figure \@ref(fig:brooklyn-fig)
 
@@ -155,26 +155,26 @@ knitr::include_graphics("images/brooklyn-bridge-blueprint.png")
 
 Building a career isn't that different to building anything else, you'll need do many iterations of designing, coding, testing, building and deploying. Designing things often involves answering tricky questions. So when you're designing your future you'll need to cover the following:
 
-* Chapter \@ref(rebooting): *Rebooting your future* discusses why you should bother reading this guidebook and coding your future 
-* Chapter \@ref(exploring): *Exploring your future* challenges you to reflect on who you are, what makes you unique and what you have to offer to build better self-awareness
-* Chapter \@ref(nurturing): *Nurturing your future* encourages you to pay attention to your mental and physical health
-* Chapter \@ref(writing): *Writing your future* explores your softer communication skills, how they complement your hard skills and why employers value them so much
-* Chapter \@ref(experiencing): *Experiencing your future* asks you to reflect on your experience and help identify where you can improve it
-* Chapter \@ref(choosing): *Choosing your future* encourages you to broaden your computational horizons. What possibile routes can you choose from, beyond the obvious well-trodden paths?
-* Chapter \@ref(computing): *Computing your future* looks at the role computing can play in your career, especially if Computer Science is not a major part of your degree
+* Chapter \@ref(rebooting): *Rebooting Your Future* discusses why you should bother reading this guidebook and coding your future 
+* Chapter \@ref(exploring): *Exploring Your Future* challenges you to reflect on who you are, what makes you unique and what you have to offer to build better self-awareness
+* Chapter \@ref(nurturing): *Nurturing Your Future* encourages you to pay attention to your mental and physical health
+* Chapter \@ref(writing): *Writing Your Future* explores your softer communication skills, how they complement your hard skills and why employers value them so much
+* Chapter \@ref(experiencing): *Experiencing Your Future* asks you to reflect on your experience and help identify where you can improve it
+* Chapter \@ref(choosing): *Choosing Your Future* encourages you to broaden your computational horizons. What possibile routes can you choose from, beyond the obvious well-trodden paths?
+* Chapter \@ref(computing): *Computing Your Future* looks at the role computing can play in your career, especially if Computer Science is not a major part of your degree
 
-### Testing your future {#part}
+### Testing Your Future {#part}
 The next seven chapters look at testing your future, by taking a test-driven approach to career development. What tests do you need to prepare for and pass before you can starting building your future? Just like building high quality software requires that you pass tests, so too, building a career means passing a series of tests. Each of these tests have inputs, an algorithm and outputs:
 
-* Chapter \@ref(debugging): *Debugging your future* looks at debugging your own written communication such as CVs, résumés, covering letters, application forms and digital portfolios.
-* Chapter \@ref(hacking): *Hacking your future* invites you to put yourself in the employers shoes by debugging and hacking other people's CVs
-* Chapter \@ref(verbalising): *Verbalising your future* gets you to debug your CV by reflecting on your actions and their impact by articulating them using carefully chosen verbs on your job applications
-* Chapter \@ref(finding): *Finding your future* looks at where and how can you look for interesting opportunities
-* Chapter \@ref(moving): *Moving your future* investigates one of the most important criteria of your job search, location.
-* Chapter \@ref(speaking): *Speaking your future* looks how can you turn interviews to your advantage and negotiate any offers you receive
-* Chapter \@ref(questioning): *Questioning your future* is based on Frequently Asked Questions (FAQ) by undergraduate students. What questions to people most commonly ask about getting a job?
+* Chapter \@ref(debugging): *Debugging Your Future* looks at debugging your own written communication such as CVs, résumés, covering letters, application forms and digital portfolios.
+* Chapter \@ref(hacking): *Hacking Your Future* invites you to put yourself in the employers shoes by debugging and hacking other people's CVs
+* Chapter \@ref(verbalising): *Verbalising Your Future* gets you to debug your CV by reflecting on your actions and their impact by articulating them using carefully chosen verbs on your job applications
+* Chapter \@ref(finding): *Finding Your Future* looks at where and how can you look for interesting opportunities
+* Chapter \@ref(moving): *Moving Your Future* investigates one of the most important criteria of your job search, location.
+* Chapter \@ref(speaking): *Speaking Your Future* looks how can you turn interviews to your advantage and negotiate any offers you receive
+* Chapter \@ref(questioning): *Questioning Your Future* is based on Frequently Asked Questions (FAQ) by undergraduate students. What questions to people most commonly ask about getting a job?
 
-### Building your future {#partii}
+### Building Your Future {#partii}
 The next seven chapters look at building your future. You've passed all the tests, what do do you need to do to keep building your future in the same way as you would build a bridge, like the one shown in figure \@ref(fig:manhattan-fig).
 
 ```{r manhattan-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbridge)"}
@@ -184,11 +184,11 @@ knitr::include_graphics("images/manhattan_bridge.png")
 
 Once you've started to answer the design questions in the first part, you can start to implement it, by testing and building your career:
 
-* Chapter \@ref(organising): *Organising your future* investigates how to schedule and organise the activities in this guidebook
-* Chapter \@ref(researching): *Researching your future* investigates if a Masters degree or a PhD right for you?
-* Chapter \@ref(enjoying): *Enjoying your future* is a musical interlude, providing a soundtrack that might help with your wellbeing
+* Chapter \@ref(organising): *Organising Your Future* investigates how to schedule and organise the activities in this guidebook
+* Chapter \@ref(researching): *Researching Your Future* investigates if a Masters degree or a PhD right for you?
+* Chapter \@ref(enjoying): *Enjoying Your Future* is a musical interlude, providing a soundtrack that might help with your wellbeing
 
-### Deploying your future {#partiv}
+### Deploying Your Future {#partiv}
 
 The fourth part of this book, looks at deployment issues that follow from the design, build and test phases above. You'll need good deployment strategies to help with the inevitable stresses and strains of building your future as shown in \@ref(fig:clifton-fig)
 
@@ -197,9 +197,9 @@ knitr::include_graphics("images/clifton.png")
 ```
 (ref:captionclifton) Huge supporting chains on the [Clifton Suspension Bridge](https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge) in Bristol allow heavy loads pass over the [River Avon](https://en.wikipedia.org/wiki/River_Avon,_Bristol ). You'll need good support to cope with the stresses and strains of building, testing and deploying your future. Clifton suspension bridge picture adapted from original by Nic Trott via Wikimedia commons [w.wiki/32tu](https://w.wiki/32tu)
 
-* Chapter \@ref(starting): *Starting your future* looks at the moves you make after landing your first job. During your transition, how will you start to survive and thrive outside (and after) University
-* Chapter \@ref(achieving): *Achieving your future* looks at evidence you can collect of your learning and development using various kinds of certifiable evidence
-* Chapter \@ref(ruling): *Ruling your future* provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
+* Chapter \@ref(starting): *Starting Your Future* looks at the moves you make after landing your first job. During your transition, how will you start to survive and thrive outside (and after) University
+* Chapter \@ref(achieving): *Achieving Your Future* looks at evidence you can collect of your learning and development using various kinds of certifiable evidence
+* Chapter \@ref(ruling): *Ruling Your Future* provides *Ten Simple Rules for Coding your Future*, this book in a nutshell
 
 
 <!-- creating your future-->
@@ -208,17 +208,17 @@ knitr::include_graphics("images/clifton.png")
 * A soundtrack, also available as a Spotify and YouTube playlist
 -->
 
-### Future coders {#partv}
+### Future Coders {#partv}
 
-The fifth and final part of this guidebook, from chapter \@ref(hearing) onwards meets students who are *Coding their Future* and asks them, how did they get to where they are and where are they going next? These chapters form part of a podcast which accompanies this book: *Hearing your Future*, see figure \@ref(fig:nearing-fig).
+The fifth and final part of this guidebook, from chapter \@ref(hearing) onwards meets students who are *Coding Their Future* and asks them, how did they get to where they are and where are they going next? These chapters form part of a podcast which accompanies this book: *Hearing Your Future*, see figure \@ref(fig:nearing-fig).
 
 ```{r nearing-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionhearing)"}
 knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 ```
 
-The final chapter \@ref(reading) of the section and book: *Reading your future* lists everything cited in this guidebook.
+The final chapter \@ref(reading) of the section and book: *Reading Your Future* lists everything cited in this guidebook.
 
-## Your future themes {#themes}
+## Your Future Themes {#themes}
 This guidebook aims to help you build a bridge from where you are now to where you'd like to be in the future. Each chapter of the book contains the following recurring themes:
 
 ```{r goldengate-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongoldengate)"}
@@ -242,7 +242,7 @@ knitr::include_graphics("images/goldengate.png")
 <!--in progress 1. **Quick quizzes** quick quizzes to test your knowledge-->
 <!--in progress 1. **Puzzlers** are deliberately open-ended questions. There are no right or wrong answers to many of these questions, and some of them non-trivial to respond to. While you might be able to answer some questions relatively quickly, others may require more extensive research, reflection and discussion.-->
 
-## Downloading your future {#downloading}
+## Downloading Your Future {#downloading}
 
 The full text of this guidebook is freely available at [`www.cdyf.me`](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
 
@@ -253,7 +253,7 @@ If you'd like to read this guidebook on your Kindle you can transfer the epub to
 
 In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book the old fashioned way, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact).
 
-## Contributing to your future {#contributing}
+## Contributing to Your Future {#contributing}
 If you'd like to contribute this guidebook, I welcome constructive feedback from [loyal opposition](https://en.wikipedia.org/wiki/Loyal_opposition) and [critical friends](https://en.wikipedia.org/wiki/Critical_friend), see figure \@ref(fig:critical-friend-fig). All contributions will be gratefully acknowledged in section \@ref(thanks) unless you ask for your contributions to remain anonymous. If you're about to graduate or have already graduated in Computer Science, see section \@ref(you).
 
 If you find what you're reading here useful and you think other people might benefit too, I'd really appreciate some stars (likes) on the guidebook's repository at [github.com/dullhunk/cdyf](https://github.com/dullhunk/cdyf) to help other people find us. ⭐️🤩⭐️🤩⭐️
@@ -285,7 +285,7 @@ I'm looking for feedback and contributions on everything in this guidebook from 
 
 All suggestions welcome! Don't be shy. There are several ways you can contribute, depending on how comfortable you are with Git:
 
-### For github contributors {#techies}
+### For Github Contributors {#techies}
 
 If you're familiar with `git` and `markdown`, there are several options if you have a github account (see [github.com/join](https://github.com/join)) including:
 
@@ -301,7 +301,7 @@ git clone https://github.com/dullhunk/cdyf.git
 
 Most of the guidebook is generated from [RMarkdown](https://en.wikipedia.org/wiki/Markdown), that's [all the `*.Rmd` files](https://github.com/dullhunk/cdyf/search?l=RMarkdown). So markdown files are the only ones you should edit because everything else is generated from them including the `*.html`, `*.tex`, `*.pdf`,`*.epub` and `*.docx`  files.
 
-### For gitlab contributors {#gitswag}
+### For Gitlab Contributors {#gitswag}
 
 Tell us how we can improve this guidebook and we'll give you some [GitLab.com](https://about.gitlab.com/) swag as a token of our eternal gratitude, see figure \@ref(fig:gitswag-fig). The most actionable and constructive suggestions will get the best swag.
 
@@ -327,7 +327,7 @@ Send us your suggestions by:
 Send us your feedback by **5pm on Friday 17th May**. Besides bagging some swag, we'll be eternally grateful to you for telling us how to make this guidebook better for other students of computing. 🙏
 
 
-### For everyone else {#elseif}
+### For Everyone Else {#elseif}
 
 If you don't want to (or can't) use `git` and [github.com](https://github.com/) then you can:
 
@@ -917,7 +917,7 @@ ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = student
 I've documented some of what our students have taught me, so reading this book may help you learn from some of their successes and failures.
 
 
-## Legal stuff {#legal}
+## Legal Stuff {#legal}
 
 I am not a lawyer ([IANAL](https://en.wikipedia.org/wiki/IANAL)) but any opinions expressed in this guidebook are my own and not representative of my current employer, the University of Manchester. This guidebook does **NOT** therefore, represent University policy.
 
@@ -945,14 +945,14 @@ knitr::include_graphics("images/CC-attribution-1.png")
 (ref:captionkapow) The *images* in this guidebook are published under different licences, see each figures caption for details. Bryan Mathers illustrations are licensed CC-BY-ND, which means you should link to the original artwork, the creator profile and the licence terms. [CC attribution](https://bryanmmathers.com/cc-attribution/) artwork by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
-### Your privacy {#privacy}
+### Your Privacy {#privacy}
 This site is hosted on [netlify.com](https://www.netlify.com/), see the [netlify privacy policy](https://www.netlify.com/privacy/). This site also uses [netlify analytics](https://docs.netlify.com/monitor-sites/analytics/) (server side) and [Plausible Analytics](https://plausible.io/) (client side) to understand our audience better. Both comply with the General Data Protection Regulation (GDPR). 
 
 <!--If you want to, you can opt out using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/)-->
 
 <!--Some of these services use cookies. These can be disabled in your browser, see [allaboutcookies.org/manage-cookies](https://www.allaboutcookies.org/manage-cookies/)-->
 
-## Your future is bright, your future needs coding {#welcoming}
+## Your Future is Bright, Your Future Needs Coding {#welcoming}
 
 Your future is bright, your future needs coding, see figure \@ref(fig:bright-fig). Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and code your future in computing.
 
