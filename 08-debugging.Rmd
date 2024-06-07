@@ -26,7 +26,7 @@ By the end of this chapter you will be able to
 1. Identify gaps (mostly `content` bugs) in your own CV and how you might begin to fill them
 
 
-## Beware of the black hole {#blackhole}  
+## Beware of the Black Hole {#blackhole}  
 Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). Gayle is an experienced software engineer who has worked at some of the [biggest technology employers in the world](https://en.wikipedia.org/wiki/Big_Tech): Apple, Microsoft and Google. She has also authored a cracking series of books on technology careers, particularly *[Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)* [@cracking] which we'll discuss in chapter \@ref(speaking). Gayle refers to the employer “black hole” described in figure \@ref(fig:gayle-fig).
 
 ```{r gayle-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongayle)"}
@@ -50,7 +50,7 @@ Having passed the 7 second test, the second thing your CV or résumé needs to d
 
 You can start with an employer-agnostic CV but you may need to come back and revisit the issues in this chapter once you have identified some target employers, so that you can customise and tailor your CV and written applications.
 
-## The CV is dead, long live the CV! {#dead}  
+## The CV is Dead, Long Live the CV! {#dead}  
 Résumés and CV's have reigned supreme in the kingdom of employment and recruitment for many years but their demise has often been predicted, see figure \@ref(fig:longlive-fig).
 
 ```{r longlive-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlonglive)"}
@@ -74,7 +74,7 @@ You can of course *augment* your CV with various public digital profiles such as
 
 * [linkedin.com/learning/learning-linkedin-for-students](https://linkedin.com/learning/learning-linkedin-for-students)
 
-## It's not a bug, it's a feature! {#trope}
+## It's not a Bug, it's a Feature! {#trope}
 
 An age old trope in Computer Science that engineers use to pass off their mistakes as deliberate features is the bug/feature distinction, see figure \@ref(fig:notabug-fig).
 
@@ -129,7 +129,7 @@ While referring to this guide, remember that:
 
 You're not trying to tell your *whole* life story from section \@ref(story) but to distill the essentials into several short stories which can be summarised into a handful of bullets or sentences. Your CV should be punchy like the [blurb](https://en.wikipedia.org/wiki/Blurb) or synopsis on the back of a novel, can you entice the reader into wanting to find out more (by inviting you to an interview)?
 
-## Write something, anything! {#mycv}
+## Write Something, Anything! {#mycv}
 
 Just as you can't edit a blank page, you can't debug an unwritten CV either, see figure \@ref(fig:jodi-picoult-fig). Debugging and editing your CV can be time consuming but wherever criticism of your CV or résumé comes from, don't take it personally - it is probably one of the first you have written.
 
@@ -142,7 +142,7 @@ knitr::include_graphics("images/jodi-picoult.jpeg")
 
 It might help to think of first version of your CV as an [alpha or beta version](https://en.wikipedia.org/wiki/Software_release_life_cycle) that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble about Computer Science graduates lacking good written communication skills. Written applications and CV's are a common example of this, so let's look at some common bugs.
 
-## CV checklist A: quick check {#quick}
+## CV Checklist A: Quick Check {#quick}
 Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
@@ -158,7 +158,7 @@ Here are some common bugs (or are they features?) to pay attention to on the ini
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
 
 
-## Structure your CV and Résumé {#structure}
+## Structure Your CV and Résumé {#structure}
 
 How you structure your CV and Résumé will depend on who you are and what your story is. It can be tricky deciding what the headings should be and what you put in each section. Recruiters at Google suggest you have just four or five sections, that follow a header section. Before we zoom in on those, let's look at some broader points about CVs and Résumés. Start by watching the short videos shown in figure \@ref(fig:lopez-vid) (*Résumé Tips*) and figure \@ref(fig:black-vid) (*How to write a top-notch CV*).
 
@@ -218,7 +218,7 @@ knitr::include_graphics("images/storytime.png")
 
 So what's your story, coding glory? [@whatsthestory]
 
-### Your header {#header}
+### Your Header {#header}
 
 The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in figure \@ref(fig:turinghead-fig) for Alan Turing. That's it!
 
@@ -230,7 +230,7 @@ knitr::include_graphics("images/alan-turing-linkedin.jpg")
 
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:
 
-### Your body {#body}
+### Your Body {#body}
 Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used sparingly, especially on a one page résumé. Your five sections should cover some or all of the following:
 
 1. 🎓 `EDUCATION`: the formal stuff, see section \@ref(education)
@@ -241,7 +241,7 @@ Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) sugg
 
 Let's look at each of these sections in turn:  
 
-### Your education, education, education {#education}
+### Your Education, Education, Education {#education}
 
 Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
 
@@ -263,7 +263,7 @@ You don't need to name every single module, course code with a mark for each. Ne
 
 You should include details of your high school education, *after* University so that it is in reverse chronological order. Start with last set of exams you sat before University, bearing in mind that *some* employers screen job candidates by UCAS Tariff points. [@ucas;@pwcscraps] How far you go back will depend on how much space you have available, especially on a one pager. It is debateable how far back you should go, exams that you sat aged ~16 (like GCSE's) aren't always relevant now that you're older. [@gcses]
 
-### Your experience {#experience}  
+### Your Experience {#experience}  
 Experience is where you can talk about any paid or voluntary work experience you have. For paid work call it `EXPERIENCE` rather than `WORK EXPERIENCE` as the latter can imply work *shadowing*, see section \@ref(areuexperienced). Work shadowing is valuable, but paid work is even better so you should make it clear if your experience was paid or not. Don't discount the value of casual labour, such as working in retail or hospitality, these demonstrate your work ethic and ability to deal with customers, often under pressure. You are more than just a techie too, so anywhere you've worked in a team is experience worth mentioning, even if that team was just two people. Two people is still a team.
 
 ```{r done-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwhathaveudone)"}
@@ -276,7 +276,7 @@ If you don't have much experience, don't worry, there are plenty of opportunitie
 
 Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` section. 💰
 
-### Your projects {#projects}
+### Your Projects {#projects}
 
 The `PROJECTS` section of your CV is where you can describe all your other activities. Your projects will include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
 
@@ -356,7 +356,7 @@ Instead, you could reverse ↑↓ the order to change the emphasis like this:
 The latter has all the same information, but by reversing the order, you've emphasised what *you* did, rather than what the software did. Much more interesting. 💪
 <!-- need a section on 👑 Activities and leadership -->
 
-### Your leadership & awards {#prizes}
+### Your Leadership & Awards {#prizes}
 If you can demonstrate leadership, you may want to dedicate a whole separate section to it. Experience of tutoring or mentoring other students, can serve as a good example through peer-assisted study schemes (like [PASS](https://www.peersupport.manchester.ac.uk/what-is-peer-support/what-is-pass/)) for example. Teaching is a different kind of leadership to running a small business or captaining a sports team, but it is leadership nonetheless. A `leadership` and/or `awards` section is also a good place to add any prizes you've won, see figure \@ref(fig:trophy-fig). If you've done any extra courses and been awarded some certification, an awards section is a good place to put it as it distinguishes it from the qualifications in your formal `EDUCATION`, see section \@ref(otherbadges)
 
 ```{r trophy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontrophy)"}
@@ -394,20 +394,19 @@ If you have anything else you want to highlight besides your `Education`, `Exper
 
 * `MISCELLANEOUS`
 * `EXTRACURRICULAR` 
+* `HOBBIES & INTERESTS` see figure \@ref(fig:quidditch-fig) 
 * `OTHER ... ` 
-
-
-These titles all sound like dumping grounds for your leftovers, added as an afterthought. They deserve a more interesting title. If you're thinking of having a section dedicated to
-
-* `SKILLS` see section \@ref(care)
-* `PERSONAL STATEMENT` see section \@ref(bullshit)
-* `HOBBIES AND INTERESTS` see figure \@ref(fig:quidditch-fig) 
-* `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section, see section \@ref(care)
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
 ```
 (ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say). [@quidditch] However, such coincidences are unlikely so if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills, knowledge or experience you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Vague titles like `MISCELLANEOUS` sound like dumping grounds for your leftovers, added as an afterthought. They deserve a more interesting title. If you're thinking of having a section dedicated to
+
+* `SKILLS` see section \@ref(care)
+* `PERSONAL STATEMENT` see section \@ref(bullshit)
+* `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section, see section \@ref(care)
 
 
 Adding a `HOBBIES AND INTERESTS` section could add a bit more colour and personality to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
@@ -494,7 +493,7 @@ Whatever your typographical style is, portable document format (`*.pdf`) is the 
 
 It's fine to author your CV in Microsoft Word, but you'll want to save it as (or print to) PDF to make it more platform independent. LaTeX and [overleaf.com](https://www.overleaf.com) can be used to create professional PDFs and there are plenty of good templates at [overleaf.com/gallery/tagged/cv](https://www.overleaf.com/gallery/tagged/cv). See [Getting started with LaTeX (LaTeX4year1)](https://latex4year1.netlify.app/) if you've not used LaTeX before, or you need to refresh your memory. [@latex4year1]
 
-### What's your story, coding glory? {#storycare}
+### What's Your Story, Coding Glory? {#storycare}
 
 One way to structure descriptions of items within each section of your CV is to use **C**ontext, **A**ction, **R**esult and **E**vidence (C.A.R.E.) to tell your stories. What's your story, coding glory? [@whatsthestory] The `C.A.R.E.` method can also be useful for structuring answers to interview questions, especially if you get nervous. So for example, rather than just listing `Python` as a skill, you could tell the reader more about the context in which you've used python, what you actually did with it and what the result was. You really need to spell it out.
 
