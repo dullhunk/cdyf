@@ -10,7 +10,7 @@ knitr::include_graphics("images/404.png")
 
 Your future is bright, your future needs experiencing, so let's start experiencing your future.
 
-## What you will learn {#ilo5}
+## What You Will Learn {#ilo5}
 
 By the end of this chapter you will be able to
 
@@ -43,7 +43,7 @@ knitr::include_graphics("images/What's relevant.png")
 
 (ref:captionrelevantexp) You might be surprised by what kinds of experience are relevant on your CV. There are lots of experiences beyond paid work such as projects and extra-curricular activities you've been involved in that tell a story about who you are and what you are capable of. What's relevant sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-## Why is experience so valuable?
+## Why is Experience so Valuable?
 
 You are *much more* than your grades, because your education is only a part of who you are. You are the sum total of your experiences, this is one of the reasons that experience is so valuable, see figure \@ref(fig:experience-fig). It's common for students to be focused on their grades, whether those grades are low, middling or or high. At the extremes, if you have got lower grades than you'd like, you might be anxious or unhappy about them. If you've got higher grades, you're probably focussed on keeping them high. While its important to focus on getting the best grades you can, employers are interested in the whole you rather than narrowly focusing on your academic education. Alongside your academic achievements, there is also your:
 
@@ -85,7 +85,7 @@ According to Redmond, your employability ($E$) is the sum of your qualifications
 * For strategies ($S$) and contacts ($C$) see chapter \@ref(finding) on *Finding your Future*
 * For experience ($WE$) read on, this chapter is all about your `experience`
 
-## Are you experienced? {#areuexperienced}
+## Are You Experienced? {#areuexperienced}
 
 So what counts as `experience`? I'm going to use experience to mean applying what you've learnt in your formal education *outside* of school or University, this includes but is not limited to, paid employment. Employers use terms to describe jobs and experience for undergraduates and graduates inconsistently. So I've defined and outlined terms for relevant kinds of experience shown in table \@ref(tab:jobterms) and we'll use these definitions throughout this guidebook.
 
@@ -108,7 +108,7 @@ knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughou
 ```
 
 
-### Summer vs. year-long experience? {#interns}
+### Summer vs. Year-long Experience? {#interns}
 
 You might be wondering which length of experience is better, a short summer internship or year-long industrial placement (aka co-op). [@kaplong] Table \@ref(tab:interntable) summarises some of the advantages and disadvantages of each kind of experience:
 
@@ -137,7 +137,7 @@ If you're doing a year-long placement and a summer-internship, its usually easie
 
 Although valuable, your experience of paid employment isn't the only kind of experience that employers value. What other kinds of experience are there?
 
-### Other experience {#other}
+### Other Experience {#other}
 <!-- to do compare and contrast summer vs year long-->
 
 Some of the experience outlined in table \@ref(tab:jobterms) was probably what you were already thinking of as experience, however there are four other important sources of experience that students often overlook:
@@ -158,7 +158,7 @@ Before we discuss these experiences, lets look at some of the more conventional 
 
 <!--* Competitions: participating in competitions and hackathons will make your CV stand out-->
 
-### Big name experience {#bignames}
+### Big Name Experience {#bignames}
 
 It's probably easier than you might think to get a [big tech](https://en.wikipedia.org/wiki/Big_Tech) or [blue chip name](https://en.wikipedia.org/wiki/Blue_chip_(stock_market)) on your CV. For example, many large employers run [insight days, vacation schemes and spring weeks ](https://www.ratemyplacement.co.uk/insights). These are often aimed at first year undergraduates, and are sometimes less competitive to get into than a longer term commitment such as a summer internship, year-long placement or even graduate job. A big name on your CV early in your degree can help it stand out later, as fluff bucket the grinning [cheshire cat](https://en.wikipedia.org/wiki/Cheshire_Cat) demonstrates on their CV shown in figure \@ref(fig:bigname-fig). 😻
 
@@ -186,7 +186,7 @@ Other ways to get a big name on your CV include joining a big name competition o
 
 Big names can look good on your CV, but they are not the only way to make your CV stand out.
 
-### Smaller name experience {#smallnames}
+### Smaller Name Experience {#smallnames}
 
 *Any* experience will help your CV stand out. Smaller name employers have the advantage that they tend to be less picky than big household names so it is often easier to get a foot in the door. It might not be what you see yourself doing in the longer term, but the experience and opportunities you gain working in a small company can be invaluable. 
 
@@ -207,7 +207,7 @@ knitr::include_graphics("images/leah-williamson.jpeg")
 
 So think big, but be prepared to start with smaller name experience. 
 
-### Open source experience {#opensource}
+### Open Source Experience {#opensource}
 Open source software projects are a great way to get some really solid experience of software engineering, see for example [Why Computing Students Should Contribute to Open Source Software Projects](https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext). [@sigman18] There's two ways to get started:
 
 1. Raise a new issue via the project's issue tracker, such as [github issues](https://guides.github.com/features/issues/) [@githubissues]
@@ -309,7 +309,7 @@ The softer people skills include:
 
 If that sounds like you, it is worth applying for GSoC.
 
-### Voluntary experience {#volunteering}
+### Voluntary Experience {#volunteering}
 
 Experience as a section on your CV usually means *paid* work. However, experience in the context of this chapter means anything where you can show you've been part of a team, taken responsibility for something or tried to make the world a better place somehow, see figure \@ref(fig:volunthero-fig). These include:
 
@@ -341,7 +341,7 @@ When and where you teach will depend on who you are and how much time you feel y
 
 However you do it, teaching others to learn how to code will develop valuable skills that employers care about. It will also help your CV stand out when applying for jobs, because these projects SHOW the reader (rather than just TELLING them) that you are developing your communication, mentoring and leadership skills, see section \@ref(prizes).
 
-### Hacking & tinkering experience {#tinkering}
+### Hacking & Tinkering Experience {#tinkering}
 Another good source of experience is [tinkering](https://en.wikipedia.org/wiki/Tinker) or [hacking](https://en.wikipedia.org/wiki/Hacker_culture). Hackers and tinkerers improve or repair things in their spare time for fun, either as personal passion projects or in collaboration with others. For example, why not build an experimental:
 
 * Hackable burglar alarm?^[hackable by you, not the burglars, obvs]
@@ -382,7 +382,7 @@ Passion projects like these help to distinguish you from your peers, but they do
 
 It might be time to reflect and consider re-balancing your priorities if you can.
 
-### Casual experience {#casual}
+### Casual Experience {#casual}
 You may already have experience of paid employment as a casual or part-time worker. This could include jobs such as waiting tables, serving in a bar or working in other areas of hospitality or retail, for example as a Saturday job.
 
 ```{r paperboy-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionpaperboy)"}
@@ -437,7 +437,7 @@ Your future is bright, your future needs experiencing. Experiencing your future 
 
 In this chapter, you have reflected on what your experience is to date, not just the paid experience but all your other experiences that prospective employers will care about. If you feel like you don't have much experience, we've outlined actions you can take to do something about it.
 
-In the next part, chapter \@ref(choosing): *Choosing your Future*, we'll look at roles you might interested in for paid experience. What are the possibilities, and how are you going to decide between them? 
+In the next part, chapter \@ref(choosing): *Choosing Your Future*, we'll look at roles you might interested in for paid experience. What are the possibilities, and how are you going to decide between them? 
 
 
 This chapter is under construction because I'm using agile book development methods, see figure \@ref(fig:deathstar2-fig).

@@ -12,7 +12,7 @@ knitr::include_graphics("images/Features not bugs.png")
 
 Your future is bright, your future needs debugging, so let's start debugging your future. 
 
-## What you will learn {#ilo7}  
+## What You Will Learn {#ilo7}  
 
 By the end of this chapter you will be able to
 
@@ -389,7 +389,7 @@ Again, congratulations, but `third prize` out of how many?
  
  Finally, your `awards` section might also include any courses you've done *outside* of the formal (compulsory) and university courses described in your `Education` section^[External courses demonstrate your learning interests beyond just ticking the boxes of what your University requires of you for your formal education]. Extra skills and knowledge you've picked up from [Massive Open Online Courses](https://en.wikipedia.org/wiki/Massive_open_online_course) (MOOCs) or any other credentials you've collected such as those described in sections \@ref(mooc) and \@ref(otherbadges), are worth mentioning. 🏆
 
-### Your optional extras: Skills? Hobbies? Misc? {#misc}
+### Your Optional Extras: Skills? Hobbies? Misc? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
 * `MISCELLANEOUS`
@@ -431,7 +431,7 @@ Of course, you *might* get lucky and your interviewer(s) could be intrigued by (
 
 ... or just leave them out altogether. That option is up to you.❓
 
-### Show your C.A.R.E: Spell it out or leave it out {#care}
+### Show Your C.A.R.E: Spell it out or Leave it out {#care}
 
 You may be tempted to dedicate a whole section on your CV to `SKILLS`, particularly the technical ones. Maybe it makes you feel good listing them all in one place like a stamp collection. If you're going to have a `SKILLS` section, keep it short. Why? Let's imagine, that like [Rick Urshion](Rick_Urshion.pdf), you include Python in a long list of skills, with its own dedicated section. There are at least five problems with Rick's not so skilful approach:
 
@@ -458,10 +458,10 @@ This applies to soft skills too, not just hard technical skills. It is often bet
 
 If you're a computer scientist, you also have demonstrable `meta` skills like the ability to learn things quickly. You can also think logically and critically, reason, problem solve, analyse, generalise, decompose and abstract - often to tight deadlines. These [computational thinking](https://en.wikipedia.org/wiki/Computational_thinking) skills are future-proof and will last longer than whatever technology happens to be fashionable right now. Employers are often more interested in these `meta` capabilities and your potential than in any specific technical skills you may or may not have.
 
-## Bird's eye view
+## Bird's Eye View
 Having zoomed in on the details of sections you're likely to have, we'll zoom back out to take a [bird's eye view](https://en.wikipedia.org/wiki/Bird%27s-eye_view) of your whole CV. The issues in this section apply to the whole of your CV, rather than individual sections.
 
-### Your style {#style}
+### Your Style {#style}
 
 Making your CV look good can take ages, but a well presented CV will stand out. It is worth making an effort to style carefully and consistently. The [typography](https://en.wikipedia.org/wiki/Typography) of your CV matters because it helps conserve your readers attention, a finite resouce that you don't want to waste. A poorly presented CV is the equivalent of turning up to an interview in flip-flops and shorts. [@whytypographymatters]
 
@@ -480,7 +480,7 @@ Seemingly trivial typographical details can make a big difference to the overall
 
 Lots of *seemingly* trivial typographical details like this all add up to make your CV look more professional. Neglect these details at your peril.
 
-### Porting your future {#pdf}
+### Porting Your Future {#pdf}
 
 Whatever your typographical style is, portable document format (`*.pdf`) is the safest way to deliver it. It's called *portable* for a reason. While Microsoft Word is fine for editing, it is difficult to ensure that a Word document doesn't get mangled by transmission via the web, email or even Microsoft's own products like Teams! PDF is much safer, you can be more confident that it will work well on a range of different operating systems and devices. Try opening a Word document on a range of different smartphones and tablets and you'll see what I mean. It can sometimes help your reader if you give your CV file a descriptive name, especially if it is being read by a human and not a robot. 🤖
 
@@ -523,7 +523,7 @@ You could say:
 The latter is better because it is more specific, captures the result (`accomplishment`), by giving evidence (`8 different tasks`) and talks about the actions (the `doing` part). Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
 
 
-### Your length {#length}
+### Your Length {#length}
 How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). It is also advisable to [create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
 
 
@@ -557,7 +557,7 @@ If you're struggling to fit all the information onto a one page résumé, revisi
 
 Your two page CV is still a good store of stuff you might want to add to customised one-page résumés. If you find yourself cutting important stuff, you could list it somewhere else (like LinkedIn etc, see section \@ref(portfolio)) and link to it from your CV. 
 
-### Verbs first: lead with your actions {#verbsfirst}
+### Verbs First: Lead With Your Actions {#verbsfirst}
 
 A simple but effective technique for emphasising what you have done, rather than just what you know, is to start the description of it with a verb. Employers don't just want to know what you know, but what you have actually done. So, for example, instead of saying e.g.
 
@@ -580,7 +580,7 @@ followed by:
 
 The latter examples get to the point much quicker and avoid the problem of using `I, me, my...` too much which can sound self-centred and egotistical. Although your CV is all about you and it is natural to have a few personal pronouns in there, too many can look clumsy and give the wrong impression. Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
 
-### Your links and LinkedIn {#links}
+### Your Links and LinkedIn {#links}
 
 Adding web links (hyperlinks) to your CV can add important Context, Action, Results and Evidence  (`C.A.R.E.`) to your stories, see \@ref(care). Links can strengthen your CV without using up lots of valuable space or adding too many words. An example using [LinkedIn.com](https://www.linkedin.com/) is shown in figure \@ref(fig:lovelace-fig).
 
@@ -652,7 +652,7 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 (ref:lengthcell) Limited length, typically one or two pages (for a graduate), see section \@ref(length)
 
 
-### Robot proofing your CV {#robotproof}
+### Robot Proofing Your CV {#robotproof}
 
 It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers routinely use automated [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application which sometimes struggle with two column formats (see below). These “résumé robots” (if you like) are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different software systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what their privacy policy says about what they do with your personal data. Résumé robots include:
 
@@ -706,7 +706,7 @@ My chequer told me sew
 
 While automation can help improve your writing, ultimately there is no substitute for people (you know: actual *humans*) reading your CV, and the more people that read it the better. This could be potential employers, your critical friends shown in figure \@ref(fig:wonderfuldarling-fig) or just reading it **out loud** to yourself described in section \@ref(dogfooding).
 
-### Your references {#referees}
+### Your References {#referees}
 
 You might be tempted to put your referees details on your résumé. Don't bother because;
 
@@ -750,7 +750,7 @@ show me the money!-->
 * RESUME ▶️
 ```
 
-## CV checklist B: Self-debugging known errors {#checklist}
+## CV Checklist B: Self-debugging Known Errors {#checklist}
 
 It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. Following on from the quick checklist in section \@ref(quick), this longer checklist below will help you start to self-debug known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
@@ -783,7 +783,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 
 For the next debug step, you'll need some help from a third party.
 
-## CV checklist C: Peer-debugging unknown errors {#cvswap}
+## CV Checklist C: Peer-Debugging Unknown Errors {#cvswap}
 
 Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV and fixed the known errors, swap it with somebody you trust and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles in your pair. Playing both roles will help you write a better CV. Giving and receiving feedback will help your start debugging the trickier unknown errors: 
 
@@ -801,7 +801,7 @@ knitr::include_graphics("images/Ill-show-you-mine.png")
 
 Having sought feedback on your CV from a diverse range of sources, you'll need to *triangulate* the responses because they'll probably contradict each other. We'll  look at that in the next section.
 
-## CV checklist D: triangulation {#triangulation}
+## CV Checklist D: Triangulation {#triangulation}
 
 You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” all the different feedback on your CV, a bit like the trigonometry shown in figure \@ref(fig:triangulation-fig).
 
@@ -848,7 +848,7 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
-## CV checklist E: Read, sleep, write, repeat... {#iterate}
+## CV Checklist E: Read, Sleep, Write, Repeat... {#iterate}
 So your next debugging steps should be:
 
 1. Self-debugging, as described section \@ref(checklist)
@@ -864,7 +864,7 @@ knitr::include_graphics("images/iteration.png")
 
 The fourth step is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is re-writing, see chapter \@ref(writing). Read, sleep, write, repeat... 
 
-## Covering letters & personal statements {#covering-letters}
+## Covering Letters & Personal Statements {#covering-letters}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement or summary. They are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) shown in figure \@ref(fig:elevator-fig). Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to include a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for *ages* (yawn) without actually providing any evidence for his assertions. This kind of information usually fits better in your covering letter anyway, because there isn't much space for it on a CV.
 
 ```{r elevator-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionelevator)"}
@@ -886,14 +886,14 @@ You can see some examples of answers to these questions at:
 *  [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/)
 
 
-### Does anyone actually READ covering letters? {#elevatorpitch}
+### Does Anyone Actually READ Covering Letters? {#elevatorpitch}
 Some employers will read your covering letter very carefully, others less so. It is not always clear which employers will bother and which won't.
 
 Even if *nobody* reads your covering letter, it is still worth writing one because formulating answers to the three basic questions in section \@ref(covering-letters) will force you to rehearse standard interview questions.
 
 You can think of your covering letter as writing and rehearsing some of the lines of your elevator pitch shown in figure \@ref(fig:elevator-fig).
 
-### Embedding a personal statement {#bullshit}
+### Embedding a Personal Statement {#bullshit}
 You might be tempted to embed a short summary or `personal statement` section at the top of your CV after your header. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from the (fictional) **Sir Don Malaka** [FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) who is the Banterian Professor of Rhetoric at the University of Oxford:
 
 ::: {.rmdnote}
