@@ -24,7 +24,7 @@ COMP2CARS
 Third year project
 
 -->
-## What you will learn
+## What You Will Learn
 
 In this chapter you will learn to:
 
@@ -33,7 +33,7 @@ In this chapter you will learn to:
 1. Improve your written communication skills using some simple writing and reading exercises that will improve any job applications you make
 <!--* Identify the importance of teamwork-->
 
-## Writing as a soft social skill {#softwrite}
+## Writing as a Soft Social Skill {#softwrite}
 
 Your soft social skills will take a **life time** to develop and can be **really hard** use. Why? Because soft skills are about *communicating* with and *understanding* other people so that you can work *together* as a team toward a shared goal. Despite their misleading name, soft skills can be hard to use and are often underestimated or overlooked.
 
@@ -65,7 +65,7 @@ Are C.P. Snow's [two (seperate) cultures of humanities and science](https://en.w
 
 Are you in the first category? This chapter takes a look at the softer skill of written communication and techniques you can use to improve your writing. Whatever mood your readers are in, they'll find it a lot easier to work with you when you can express yourself clearly in writing.
 
-## Computing is your superpower! {#superpower}
+## Computing is Your Superpower! {#superpower}
 
 Studying computer science gives you an *awesome* superpower. We will look at some of the reasons why in chapter \@ref(computing) on *Computing your Future*. But for now, let us just acknowledge that hard technical skills in computing are highly sought after and valuable, both commercially and otherwise.
 
@@ -117,7 +117,7 @@ knitr::include_graphics("images/mad-scientist.jpeg")
 
 (ref:captionmadscientist) Are you [mad, bad and dangerous to know](https://en.wikipedia.org/wiki/Mad,_Bad_and_Dangerous_to_Know)? You'll be familiar with the [mad scientist stereotype](https://en.wikipedia.org/wiki/Mad_scientist): perceived as an evil genius owing to a combination of unsettling personality traits and the unabashedly ambitious, taboo or hubristic nature of their experiments. Besides their supposed insanity, another reason mad scientists (and engineers) are perceived badly, is their poor communication skills. Maybe if they could communicate better the public might understand and trust them more? Don't perpetuate the stereotype by being a poor communicator, there are too many of those already! CC BY-SA cartoon of a mad scientist by J.J. on Wikimedia Commons [w.wiki/5JeU](https://w.wiki/5JeU) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
-### The pen is mightier than the sword {#mightier}
+### The Pen is Mightier Than the Sword {#mightier}
 The art of communication is a huge subject which extends far beyond the scope of this guidebook. So for the rest of this chapter, we'll focus on your superpower of written communication. The pen (and keyboard) are mightier than the sword, see figure \@ref(fig:mighty-pen-fig).
 
 ```{r mighty-pen-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmightypen)"}
@@ -136,7 +136,7 @@ Written communication skills are important because:
       + chapter \@ref(debugging) on *Debugging your future*
       + chapter \@ref(hacking) on *Hacking your future* for details. <!--editing your future-->
 
-### Natural language engineering {#nle}
+### Natural Language Engineering {#nle}
 We have been writing stuff down for millenia in order to communicate with each other. If you stop to think about it, engineers and scientists spend a *lot* time communicating in writing, see figure \@ref(fig:iceberg-fig). As well as engineering `code`, they also spend a significant amount of time engineering *messages* in [natural languages](https://en.wikipedia.org/wiki/Natural_language) like english.
 
 ```{r iceberg-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniceberg)"}
@@ -185,7 +185,7 @@ Making software isn't all about what you can do as an individual but rather how 
 1. **Its not just engineers that can improve** If the huge volume of literature on the importance of writing is anything to go by,  it's not just engineers and scientists that could improve their written communication skills, see for example the complete plain words. [@gowers; @writingatuni]-->
 
 
-## Rewriting your future {#BFF}
+## Rewriting Your Future {#BFF}
 
 Writing has multiple uses, if it were a `function` or a `method`, it would be an [overloaded one](https://en.wikipedia.org/wiki/Function_overloading) performing different tasks. We need to examine these different use cases, because they are easily overlooked and taken for granted, especially by engineers and scientists. We read, write and rewrite stuff everyday without stopping to give it much thought. If you don't like writing, you need to learn to love it because it's actually your friend. Not just any friend, but your [Best Friend Forever](https://en.wikipedia.org/wiki/Best_friends_forever) (BFF), see figure \@ref(fig:bff-fig).
 
@@ -197,7 +197,7 @@ knitr::include_graphics("images/8 reasons why writing is your new BFF.png")
 
 So let's expand on each of the reasons why writing is your new BFF, as illustrated in figure \@ref(fig:bff-fig):
 
-### Writing as communication {#communicating}
+### Writing as Communication {#communicating}
 Writing is communication, see figure \@ref(fig:comms-fig). Well Duh! I'm stating the obvious, because you will sometimes hear software engineers talking disparagingly about communication. For example, you might hear them complaining about writing the (*sigh*) `documentation` or having to explain things to (*yikes*) customers or stakeholders. 
 
 ```{r comms-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncomms)"}
@@ -226,7 +226,7 @@ Can you work out what that actually means? Me neither. No doubt, you can think o
 Badly written text like the example above, fails to communicate with the reader. We've all been on the receiving end of badly written prose, especially when it comes to software and hardware documentation. When it is done well, writing quickly communicates what readers actually need to understand.
 
 
-### Writing as recording {#recording}
+### Writing as Recording {#recording}
 
 What were you doing on the March 6th 2013? You probably don't know and I'll bet you would probably struggle to find out. I don't know what I was doing on March 6th 2013 either because I have no details written records for that day. If I was an [obsessive–compulsive diarist](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder) (OCD), I'd have a written record of what happened to me on that day. But I'm not, so I don't. The point here is that, writing doesn't just communicate it also *records* what has happened, see figure \@ref(fig:start-record-fig).
 
@@ -247,7 +247,7 @@ If it *might* be important, it is *probably* worth writing down. Even things you
 
 So besides communicating, writing records what happened. If you don't write it down, it might just disappear forever without trace. The audience you'll be communicating with isn't just other people, it might be your future self. That future self might *really* need to know how you fixed that bug, and it could save you *hours* of re-figuring out how to solve a problem you've already solved.
 
-### Writing as leadership {#leadership}
+### Writing as Leadership {#leadership}
 
 Have you ever felt moved or influenced by a piece of writing? Have you ever read something that motivated or influenced you to do something? Of course you have! If, as Harry Truman supposed, *leaders are readers* then it is also the case that  *writers are leaders too*, provided they write convincingly. [@truman]
 
@@ -269,7 +269,7 @@ You say you want a revolution? Well, you know, we all want to change the world. 
 
 So writing well won't just help you communicate and record, it will help you to become a more successful leader too by specifying exactly what you mean so you can convince other people to follow your lead.
 
-### Writing as slowing down {#slowing}
+### Writing as Slowing Down {#slowing}
 
 Your brain tends to work *much* more quickly than your fingers can type or your hands can write. Your brain will often work much faster than you can speak as well. Writing can slow your thinking process down to something more manageable, by focussing your thoughts on a given topic or problem, see figure \@ref(fig:slowing-fig).
 
@@ -288,7 +288,7 @@ knitr::include_graphics("images/hanif-kureishi.jpeg")
 (ref:captionhanif) Like many authors, the playwright [Hanif Kureishi](https://en.wikipedia.org/wiki/Hanif_Kureishi) writes to find out what he thinks. [@kureishi] Whatever you are writing, you'll have a much better understanding of what you are *actually* thinking after you've tried to write it down. Writing isn't just an important product, it's a crucial process too. CC [BY-SA](https://creativecommons.org/licenses/by-sa/2.5/deed.en) portrait of Hanif Kureishi speaking at Emory University in 2008 by [Brett Weinstein](https://www.brettweinstein.com/) on Wikimedia Commons [w.wiki/6SKv](https://w.wiki/6SKv) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 
-### Writing as problem solving {#solving}
+### Writing as Problem Solving {#solving}
 
 Ever got stuck on a difficult problem? Ever tried writing that problem down or articulating the details to a rubber duck? There's something about writing a problem down or articulating the issue to another person. Even a rubber duck will do, see figure \@ref(fig:rubber-duck-fig). So writing can be a useful technique for solving problems, even if nobody else ever reads what you've written or heard what you've spoken. 
 
@@ -306,7 +306,7 @@ knitr::include_graphics("images/rubber-duck-debugging.jpg")
 (ref:captiondeducktion) In software engineering, [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is a method of debugging code by articulating a problem in spoken or written natural language. Some people call it [deducktive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning). [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) rubber duck picture by [Tom Morris](https://commons.wikimedia.org/wiki/User:Tom_Morris) on Wikimedia Commons [w.wiki/4QHW](https://w.wiki/4QHW) adpated using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238) 🦆
 
 
-### Writing as a process, not just a product {#product}
+### Writing as a Process, not Just a Product {#product}
 
 When you are writing a CV, résumé or a covering letter, the *product* of your writing is the most important output. But sometimes, it is the *process* of writing and [reflecting](https://en.wikipedia.org/wiki/Reflective_practice) that matters more than the product (output), see figure \@ref(fig:process-fig).
 
@@ -340,7 +340,7 @@ related work last, state contributions, give an example not a generic introducti
 -->
 
 
-### Writing as therapy {#therapy}
+### Writing as Therapy {#therapy}
 Besides being a tool for communication, writing can be therapeutic for the writer too. The simple act of writing can help you tackle mental health issues discussed in chapter \@ref(nurturing). You might think it tragic somebody writing a diary that nobody reads, but actually, that's not the only point of the diary. The metacognition we described in section \@ref(product) is a valuable exercise in its own right. You could think of writing like a therapists couch shown in figure \@ref(fig:therapy-fig). [@writingtherapy]
 
 ```{r therapy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontherapy)"}
@@ -360,7 +360,7 @@ knitr::include_graphics("images/churchill.jpeg")
 So writing can be therapeutic, a powerful tool for developing [mindfulness](https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/) as well as communicating with other people. [@mindfulnhs]
 
 
-### Writing as speeding up {#accelerating}
+### Writing as Speeding up {#accelerating}
 
 As well as slowing your brain down discussed in section \@ref(slowing), writing can also speed it up by *wicking* ideas like a [candle wick](https://en.wikipedia.org/wiki/Candle_wick) does for candle wax. Without the wick, the candle wax can't undergo the chemical reaction that transforms it into carbon dioxide and water. As the software engineer [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) puts it:  
 
@@ -380,7 +380,7 @@ knitr::include_graphics("images/8 reasons why writing - Speeding up.png")
 
 (ref:captionwicking) Want to have more ideas? Want to have better ideas? Just writing them down can help you refine your ideas as well as generating novel ones too. Thinking sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
-## Improving your writing {#wyf}
+## Improving Your Writing {#wyf}
 Hopefully I've convinced you that written communication skills (both as a writer and reader) are important soft skills that scientists and engineers often neglect. Writing performs multiple functions, so how can you improve?
 
 ### Dogfooding {#dogfooding}
@@ -404,7 +404,7 @@ You might want to choose carefully where you do this as it might look a bit stra
 
 A screen reader will often reveal mistakes you haven't spotted by reading your text silently.
 
-### Try Google's Tech Writing courses {#techwriting}
+### Try Google's Tech Writing Courses {#techwriting}
 Google have developed some excellent written communication courses for software engineers, and those looking to become technical writers:
 
 1. Technical Writing One: Technical Writing Fundamentals for Engineers [developers.google.com/tech-writing/one](https://developers.google.com/tech-writing/one)
@@ -426,7 +426,7 @@ The first two tech writing courses run as part of the second year course COMP2CA
 
 Google occasionally delivers these technical writing courses as free sessions open to the general public, see figure \@ref(fig:googleplex-fig). For details, see [developers.google.com/tech-writing/announcements](https://developers.google.com/tech-writing/announcements) for details.
 
-### Writing machines {#machines}
+### Writing Machines {#machines}
 
 There is no shortage of software to help you write better, beyond the basic spelling and grammar checkers described in section \@ref(spelling). The more sophisticated tools are often powered by Artificial Intelligence (AI), see figure \@ref(fig:chatgpt-fig). [@hogarth] 
 
@@ -466,7 +466,7 @@ So viewing writing as just another kind of `output`, overlooks a lot of the valu
 
 Despite their limitations, and the fact that we're still trying to figure out what their long term impacts will be, writing machines may help you to communicate more clearly and quickly. [@mairead; @noordenai; @hutsonai] 
 
-### Writers are fighters! {#dailywrite}
+### Writers are Fighters! {#dailywrite}
 Another technique for improving your written communication is to deliberately write something every day, that might be a personal diary that only you read, or it could be something more public like blog. Schedule a time every day, say 15 to 30 minutes when you will do this without fail. Sometimes this will be easy, other times it will be hard. What's important is that you write something, see figure \@ref(fig:jodi-picoult-fig). That writing could take several forms:
 
 * public web log or [blog](https://en.wikipedia.org/wiki/Blog)
@@ -478,7 +478,7 @@ Another technique for improving your written communication is to deliberately wr
 
 The technique of *30 minutes per day* can be a very effective way of getting things done, incrementally over time. In my experience it works for lots of things besides writing including getting exercise (discussed in chapter \@ref(nurturing)) to gardening. [@leendertz]
 
-### Leaders are readers {#dailyread}
+### Leaders are Readers {#dailyread}
 Reading other people's code will improve your software engineering skills. Likewise, reading other peoples writing will improve your natural language engineering skills. Leaders are readers! Read anything, it might be novels, magazines, newspapers, stuff online or any of the books cited in chapter \@ref(reading). Find a time and place to do this every day and stick to it, see figure \@ref(fig:reading-fig)
 
 ```{r reading-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionreading)"}
@@ -488,7 +488,7 @@ knitr::include_graphics("images/the-motivation-for-reading.png")
 (ref:captionreading) Reading allows you to learn from other people's hard won experience whilst also improving your own written communication skills. Just like you improve your coding skills by reading *and* writing code, you will improve your written communication skills by reading *and* writing in natural languages. [The motivation for reading](https://bryanmmathers.com/the-motivation-for-reading/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) with help from [Michael Rosen](https://en.wikipedia.org/wiki/Michael_Rosen)
 
 
-### Reading the friendly manual {#rtfm}
+### Reading the Friendly Manual {#rtfm}
 
 You don't get good at communicating with computers (coding) by just *writing* lots of code. You also need to *read* other people's code too and be able to understand and modify it. Likewise, you don't get good at communicating with people by just *writing* stuff in natural languages like the [English language](https://en.wikipedia.org/wiki/English_language). You need to *read* stuff too. Books, manuals, software documentation, articles, use cases, novels, poetry, plays, magazines, newspapers etc. Reading this stuff will help you learn and you'll improve your written communication skills too. So *Read The Friendly Manual*. [RTFM](https://en.wikipedia.org/wiki/RTFM). Read THIS Friendly Manual and the stuff it cites, see figure \@ref(fig:rtfm-fig)
 
@@ -570,7 +570,7 @@ Social skills are those that help you work with other people in your team, small
 ```
 
 
-### Coding challenges {#cc4}
+### Coding Challenges {#cc4}
 
 * Write an article or blog post about something you care about, find a suitable venue for publication
 * Take a course from outside computer science, where the main form of assessment is written essays or dissertations. Humanities departments are a good place to start. This will improve your written communication skills
