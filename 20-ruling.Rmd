@@ -157,14 +157,22 @@ You are not just a techie, either, so you don't have to be a [code monkey](https
 
 ## Stay in school {#lifelonglearning}
 
-Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University, see figure \@ref(fig:stayinschool-fig) chapter \@ref(achieving)
+Part of what you learn during your education is *how* to learn. But your learning shouldn't finish when you leave University, see figure \@ref(fig:stayinschool-fig) the discussion of life-long learning in chapter \@ref(achieving).
 
 ```{r stayinschool-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captionstayinschool)"}
 knitr::include_graphics("images/Stay in school.png")
 ```
 (ref:captionstayinschool) Stay in school because learning is a lifelong process, a `while loop` in which you continuously develop new skills and knowledge. Stay in school sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Don't let your mind retire. [@thewire] Never stop learning, see chapter \@ref(achieving).
+Computer science is a young and rapidly changing discipline which means you can not afford to be left behind. Never stop learning, see chapter \@ref(achieving). According to the psychologist [Kurt Lewin](https://en.wikipedia.org/wiki/Kurt_Lewin), there is nothing more practical than a good theory [@fieldtheory], so you'll need to keep learning the theory *and* the practice of computing shown in figure \@ref(fig:goodstuff2-fig). 
+
+```{r goodstuff2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongoodstuff2)"}
+knitr::include_graphics("images/good-stuff.jpg")
+```
+
+(ref:captiongoodstuff2) There is nothing more practical than a good theory and there is nothing as theoretical as good practice. Both theory *and* practice are an essential part of computing. The good stuff often happens where theory and practice overlap, so never stop learning. Good stuff by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/), remixed by [Yours Truly](https://remixer.visualthinkery.com/r/x32wWIkyZGbs4dFI7UnI). Make your own at [remixer.visualthinkery.com](https://remixer.visualthinkery.com/)
+
+So “stay in school” doesn't mean never leave University, but never stop learning. 
 
 ## Step outside your comfort zone {#comfy}
 
