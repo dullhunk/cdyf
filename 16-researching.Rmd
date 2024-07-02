@@ -1,12 +1,13 @@
 # Researching Your Future {#researching}
 
-So you want some more, eh? Your undergraduate degree has whetted your appetite. What are the options for postgraduate study and research? Where can they take you and will further study be worth investing your time and money in? You are a curious character. You like the idea of pushing the boundaries of human knowledge a little further, maybe you even fancy yourself as a modern day [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) or Alan Turing? 👩‍🔬👨‍🔬
+So you want some more, eh? Your undergraduate degree has whetted your appetite. What are the options for postgraduate study and research? Where can they take you and will further study be worth investing your time and money in? You are a curious character. You like the idea of pushing the boundaries of human knowledge a little further, should you do that in the real world or a University shown in figure \@ref(fig:realworld-fig).
 
-```{r einstein-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioneinstein)"}
-knitr::include_graphics("images/einstein-i-have-no-special-talents.png")
+```{r realworld-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrealworld)"}
+knitr::include_graphics("images/University-or-real-world.png")
 ```
 
-(ref:captioneinstein) I have no talents, I'm only passionately curious. Are you passionately curious? Is further study or research the right path for you? Are you the next Einstein or Einsteiness? This chapter looks at some of the possibilities for research and further study. [Curiosity](https://bryanmmathers.com/curiosity/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captionrealworld) Which path will you choose, University or the real world? Perhaps you can you have a bit of both? Real world sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 Your future is bright, your future needs researching, so let's start researching your future.
 
@@ -26,13 +27,14 @@ A good place to start if you're looking for a masters or PhD are:
 * [jobs.ac.uk](https://www.jobs.ac.uk/) also lists PhD opportunities, not just in the UK, see [jobs.ac.uk/phd](https://www.jobs.ac.uk/phd)
 
 ## University or the Real World? {#realworld}
-When you graduate, you might think you need to choose between University or the “[real world](https://en.wikipedia.org/wiki/Real_life)”, see figure \@ref(fig:realworld-fig). That's a popular misconception and a false dichotomy. In computing it is common for people to cross back and forth between industry (sometimes known as the real world) and academia (the [ivory towers](https://en.wikipedia.org/wiki/Ivory_tower)).
+When you graduate, you might think you need to choose between University or the “[real world](https://en.wikipedia.org/wiki/Real_life)”, see figure \@ref(fig:realworld-fig). That's a popular misconception and a false dichotomy. In computing it is common for people to cross back and forth between industry (sometimes known as the real world) and academia (the [ivory towers](https://en.wikipedia.org/wiki/Ivory_tower)). Being passionately curious is something that is valued in both environments, so your curiosity is a skill that can help you in both.
 
-```{r realworld-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrealworld)"}
-knitr::include_graphics("images/University-or-real-world.png")
+```{r einstein-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioneinstein)"}
+knitr::include_graphics("images/einstein-i-have-no-special-talents.png")
 ```
 
-(ref:captionrealworld) Which path will you choose, University or the real world? Perhaps you can you have a bit of both? Real world sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captioneinstein) I have no talents, I'm only passionately curious. Are you passionately curious? Is further study or research the right path for you? This chapter looks at some of the possibilities for research and further study. [Curiosity](https://bryanmmathers.com/curiosity/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 Commercial or real-world experience is valuable in academia and academic experience is valuable beyond academia. So, if you think you need to choose between the two, think again. Doing an internship or placement with a commercial company can be useful background for a career in academia, both in research and teaching. Lots of research is done in partnerships between commercial companies and Universities, some of these create [startups](https://en.wikipedia.org/wiki/Startup_company), [University spin-offs](https://en.wikipedia.org/wiki/University_spin-off) or [corporate spin-offs](https://en.wikipedia.org/wiki/Corporate_spin-off) etc.
 
