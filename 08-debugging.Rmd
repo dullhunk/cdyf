@@ -478,7 +478,15 @@ Seemingly trivial typographical details can make a big difference to the overall
 
 * `The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.  The quick brown fox jumps over the lazy dog`
 
-Lots of *seemingly* trivial typographical details like this all add up to make your CV look more professional. Neglect these details at your peril.
+You should avoid using underline because it is ugly and makes your CV harder to read, not easier. Underline was designed for typewriters, not computers or web browsers, see figure \@ref(fig:underline-fig)
+
+```{r underline-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionunderline)"}
+knitr::include_graphics("images/underline.jpg")
+```
+
+(ref:captionunderline) Avoid using [underline or underscore](https://en.wikipedia.org/wiki/Underscore) on a CV. It's ugly and makes your text harder to read. Underlining is a dreary typewriter habit... a workaround for shortcomings in typewriter technology. The only exception to this rule is [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink) which are sometimes underlined to distinguish them from ordinary text. [@underlineno] Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) picture of a typewriter by GodeNehler on Wikimedia Commons [w.wiki/Ak6w](https://w.wiki/Ak6w) adapted using the Wikipedia app.  
+
+These *seemingly* trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview in your flip-flops and a t-shirt. Presentation matters.
 
 ### Porting Your Future {#pdf}
 
@@ -656,10 +664,14 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 
 It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers routinely use automated [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application which sometimes struggle with two column formats (see below). These “résumé robots” (if you like) are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different software systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what their privacy policy says about what they do with your personal data. Résumé robots include:
 
-* [careerset.com](https://careerset.com), a free service provided by a UK based company, careerset Ltd. If you're a University of Manchester student, you can login using your Uni credentfials at [careerset.com/manchester](https://careerset.com/manchester)
+* [careerset.com](https://careerset.com): a free service provided by a UK based company, CareerSet Ltd. If you're a University of Manchester student, you can login using your University credentials at [careerset.com/manchester](https://careerset.com/manchester)
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
-* [jobscan.co](https://www.jobscan.co), a free service provided by an American company
-* [kickresume.com](https://www.kickresume.com/) AI-powered resume builder also does cover letters
+* [jobscan.co](https://www.jobscan.co): a free service provided by an American company
+* [kickresume.com](https://www.kickresume.com/): AI-powered resume builder also does cover letters
+* [roastmyresu.me](https://roastmyresu.me/) How bad is your resume? Get your resume “roasted” by a slightly jokey but also serious AI. 🔥
+
+Lots more tools like this can be found at:
+
 * [google.com/search?q=resume+checker](https://www.google.com/search?q=resume+checker)
 * [google.com/search?q=CV+checker](https://www.google.com/search?q=cv+checker)
 
@@ -775,7 +787,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(header)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `EXPERIENCE`? Have you done the same for your `PROJECTS`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
 1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`
-1. 🔲 Is the formatting consistent, no random changes of font half-way through? Dates always in the same place? No [ugly `typewritery` underline used](https://practicaltypography.com/underlining.html), except perhaps for [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink)? [@underlineno]. Have you avoided [goofy fonts](https://practicaltypography.com/goofy-fonts.html)? [@goofyfonts] 
+1. 🔲 Is the style consistent, with no random changes of font or formatting half-way through? Are your dates always in the same place or do they slalom all over the page like a downhill skiier? Have you avoided [ugly underlining](https://practicaltypography.com/underlining.html), see section \@ref(style). Have you avoided [goofy fonts](https://practicaltypography.com/goofy-fonts.html)? [@goofyfonts] 
 1. 🔲 On your two page version, does the page break fall in a sensible place, not halfway through a section? 
 1. 🔲 On your one page version, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space?
 1. 🔲 How does your CV compare with the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
