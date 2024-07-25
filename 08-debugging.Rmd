@@ -147,10 +147,10 @@ Here are some common bugs (or are they features?) to pay attention to on the ini
 
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(education)
-1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have have around five headings, see section \@ref(structure)
+1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have have around five headings, see section \@ref(body)
 1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
 1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen by prominent `verbs`, see chapter \@ref(verbalising)? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
-1. **STYLE**: Does it look good, with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
+1. **STYLE**: Does it look good (see section \@ref(style)) with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklists that follow on from this one in section \@ref(checklist)
 
@@ -241,12 +241,12 @@ Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) sugg
 
 Let's look at each of these sections in turn:  
 
-### Your Education, Education, Education {#education}
+### Your Education, Education, EDUCATION {#education}
 
 Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
 
 * Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
-* Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to your readers
+* Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to most of your readers
 
 ```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
 knitr::include_graphics("images/tony-blair-education-education-education.jpeg")

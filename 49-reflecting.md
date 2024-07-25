@@ -1,17 +1,19 @@
-Learning is about making progress. We rely on our peers for feedback on how we are progressing, whether it's an professional task or a personal one. And when you learn, you need feedback from your peers, whether they be teachers or managers or peers on what you've done well and what you could do better in the future 
+Learning is about making progress. We rely on our peers for feedback on how we are progressing, both professionally and personally. You need feedback from your peers, whether they be teachers or managers or fellow students on what you've done well and what you could do better in the future. 
 
-While feedback from your peers is important. You can't always rely on it. You peers might be busy or unavailable. If you're learning in a professional workpace, your manager might be busy and unable to give you instant feedback. If you're learning in an academic environemnt, your teacher might not have the bandwidth to give every one of their learners personalised feedback on their progress. If you're learning how to do better interviews (see chapter \@ref(speaking)), your interviewers may not give you *any* constructive feedback on how you can improve your interviewing technique.
+While feedback from your peers is important, you can't always rely on it. Your peers might be busy or unavailable. If you're learning in a professional workplace, your manager might be busy and unable to give you instant feedback. If you're learning in an academic environemnt, your teacher might not have the bandwidth to give every one of their learners personalised feedback on their progress. If you're learning how to do better interviews (see chapter \@ref(speaking)), your interviewers may not give you *any* constructive feedback on how you can improve your interviewing technique, especially if you've not been successful.
 
-This is where reflective learning is important. By learning to reflect on your learning, you can accelerate your personal and professional development by becoming a more independent and self-directed learner. 
+This is where reflective learning is important. By learning to reflect on your progress, you can accelerate your personal and professional development by becoming a more independent and self-directed learner. 
 
-# What you will learn in this chapter you will 
+# What you will learn 
+
+in this chapter you will 
 
 * Describe the importance and challenges of reflection for your personal and professional development 
 * Describe different models of reflective learning, from simpler models to more complex ones
 * Apply some reflective prompts to help you reflect on things you've learned so far,  
 * Improve your self-awareness and ability to set achievable goals, both professional and personal 
 
-Feflective learning allows you to set your own goals rather than relying on others to set them for you. You probably reflect already, but you might not be reflecting frequently enough or deeply enough. Developing stronger habits of reflection can transform you from a mediocre student and professional into an extraordinary one.  
+Feflective learning allows you to set your own goals rather than relying on others to set them for you. You probably reflect already, but you might not be reflecting frequently enough or deeply enough. Developing stronger habits of reflection can transform you from a mediocre student and professional into an extraordinary one. Experience alone does not necessarily lead to learning; deliberate reflection can help you grow more from your experiences. [@reflectivepractitioner]
 
 However, reflection can be uncomfortable because we often learn the most when we have stepped outside of our comfort zone. This means that reflecting on your learning often involves tackling difficult emotions such as: 
 
