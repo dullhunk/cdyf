@@ -150,7 +150,7 @@ Here are some common bugs (or are they features?) to pay attention to on the ini
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have have around five headings, see section \@ref(body)
 1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
 1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen by prominent `verbs`, see chapter \@ref(verbalising)? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
-1. **STYLE**: Does it look good (see section \@ref(style)) with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
+1. **STYLE**: Does it look good, see section \@ref(style). Is it easy on the eye with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
 1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklists that follow on from this one in section \@ref(checklist)
 
@@ -874,7 +874,9 @@ knitr::include_graphics("images/iteration.png")
 
 (ref:captioniteration) It's not an iteration if you only do it once. Your CV is never really finished, you'll need to keep reading, writing, re-reading and re-writing repeatedly after getting feedback from as many sources as possible. Iteration artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
-The fourth step is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is re-writing, see chapter \@ref(writing). Read, sleep, write, repeat... 
+The fourth step is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is re-writing, see chapter \@ref(writing). 
+
+[Read, sleep, write, repeat](https://en.wikipedia.org/wiki/Eat,_Sleep,_Rave,_Repeat)... [@eatsleepraverepeat]
 
 ## Covering Letters & Personal Statements {#covering-letters}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement or summary. They are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) shown in figure \@ref(fig:elevator-fig). Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to include a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for *ages* (yawn) without actually providing any evidence for his assertions. This kind of information usually fits better in your covering letter anyway, because there isn't much space for it on a CV.

@@ -2,7 +2,7 @@ Learning is about making progress. We rely on our peers for feedback on how we a
 
 While feedback from your peers is important, you can't always rely on it. Your peers might be busy or unavailable. If you're learning in a professional workplace, your manager might be busy and unable to give you instant feedback. If you're learning in an academic environemnt, your teacher might not have the bandwidth to give every one of their learners personalised feedback on their progress. If you're learning how to do better interviews (see chapter \@ref(speaking)), your interviewers may not give you *any* constructive feedback on how you can improve your interviewing technique, especially if you've not been successful.
 
-This is where reflective learning is important. By learning to reflect on your progress, you can accelerate your personal and professional development by becoming a more independent and self-directed learner. 
+This is where reflective learning is important. By learning to reflect on your progress, you can accelerate your personal and professional development by becoming a more independent and self-directed learner. You'll still need feedback from your peers, but you'll be much less dependent on them to help drive your professional development.
 
 # What you will learn 
 
