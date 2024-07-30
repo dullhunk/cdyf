@@ -87,7 +87,19 @@ According to Redmond, your employability ($E$) is the sum of your qualifications
 
 ## Are You Experienced? {#areuexperienced}
 
-So what counts as `experience`? I'm going to use experience to mean applying what you've learnt in your formal education *outside* of school or University, this includes but is not limited to, paid employment. Employers use terms to describe jobs and experience for undergraduates and graduates inconsistently. So I've defined and outlined terms for relevant kinds of experience shown in table \@ref(tab:jobterms) and we'll use these definitions throughout this guidebook.
+So what counts as `experience`? I'm going to use experience to mean applying what you've learnt in your formal education *outside* of school or University, this includes but is not limited to, paid employment. The good news is that studying at University provides lots of opportunities to gain a wide variety of experience, not just paid employment but volunteering and social experience. As Andy Burnham says, make sure you seize some of these opportunities during your study, see figure \@ref(fig:burnham-fig). 
+
+```{r burnham-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionburnham)"}
+knitr::include_graphics("images/burnham.jpg")
+```
+
+
+
+(ref:captionburnham) Being at University provides lots of opportunities for gaining experience: paid, voluntary and social. As [Andy Burnham](https://en.wikipedia.org/wiki/Andy_Burnham), the Mayor of Greater Manchester says, “When opportunities open up right in front of you, for God's sake, make sure you take them” [@burnham] CC [BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) portrait of Andy Burnham by Rwendland on Wikimedia Commons [w.wiki/AhwL](https://w.wiki/AhwL) adapted using the [Wikipedia App](https://apps.apple.com/us/app/wikipedia/id324715238) 🌹
+
+
+
+People often use the word `experience` to mean different things. So I've defined and outlined terms for relevant kinds of experience shown in table \@ref(tab:jobterms) and we'll use these definitions throughout this guidebook.
 
 ```{r jobterms, echo = FALSE}
 jobterm_table <- tibble::tribble(
@@ -107,6 +119,7 @@ jobterm_table <- tibble::tribble(
 knitr::kable(jobterm_table, caption = "Are you experienced? Terms used throughout this guidebook to describe experience, employment and their definitions", booktabs = TRUE)
 ```
 
+So, experience doesn't just mean a paid summer internship or year long placement, there are many opportunities to gain experience, build your skills and knowledge during your time at University.
 
 ### Summer vs. Year-long Experience? {#interns}
 
