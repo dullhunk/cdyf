@@ -53,9 +53,26 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
+## Episode 14: Cristian Bodnar on Improbable Worlds, PhDs and Microsoft {#ep14}
+
+Meet Cristian Bodnar, see figure \@ref(fig:cristian2-fig) and the transcript and show notes in chapter \@ref(cristian).
+
+```{r cristian2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captioncristianlink)"}
+knitr::include_graphics(rep("images/linkedincristian.jpg", 3))
+```
+
+(ref:captioncristianlink) Cristian Bodnar, picture re-used from [linkedin.com/in/crisbodnar](https://www.linkedin.com/in/crisbodnar/)
+
+(ref:podcastblurbshort)
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32350182/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
 ## Episode 13: Steve Furber on Acorn Computers, and the Universities of Cambridge and Manchester {#ep13}
 
-Interview with Steve Furber, see figure \@ref(fig:steve2-fig) and the transcript and show notes in chapter \@ref(steve).
+Meet Steve Furber, see figure \@ref(fig:steve2-fig) and the transcript and show notes in chapter \@ref(steve).
 
 
 ```{r steve2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionstevelink)"}
@@ -72,9 +89,9 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 ```
 
 
-## Episode 12: Amish Shah on imago, Bloomberg and Palantir {#ep12}
+## Episode 12: Amish Shah on Imago, Bloomberg and Palantir {#ep12}
 
-Interview with Amish Shah, see figure \@ref(fig:amish2-fig) and the transcript and show notes in chapter \@ref(amish).
+Meet Amish Shah, see figure \@ref(fig:amish2-fig) and the transcript and show notes in chapter \@ref(amish).
 
 ```{r amish2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionamish)"}
 knitr::include_graphics(rep("images/amish.jpeg", 3))
@@ -90,7 +107,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 11: Pedro on startups, Nomura and Amazon Web Services {#ep11}
 
-Interview with Pedro Sousa, see figure \@ref(fig:pedro2-fig) and the transcript and show notes in chapter \@ref(pedro).
+Meet Pedro Sousa, see figure \@ref(fig:pedro2-fig) and the transcript and show notes in chapter \@ref(pedro).
 
 ```{r pedro2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionpedro)"}
 knitr::include_graphics(rep("images/pedro.jpeg", 3))
@@ -106,7 +123,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 10: Nadine Abdelhalim on Imago and Arm {#ep10}
 
-Interview with Nadine Abdelhalim, see figure \@ref(fig:nadine2-fig) and the transcript and show notes in chapter \@ref(nadine).
+Meet Nadine Abdelhalim, see figure \@ref(fig:nadine2-fig) and the transcript and show notes in chapter \@ref(nadine).
 
 ```{r nadine2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionnadine)"}
 knitr::include_graphics(rep("images/nadine.jpeg", 3))
@@ -122,7 +139,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 9: Ingy Abdelhalim on IN3, Imago and McKinsey {#ep9}
 
-Interview with Ingy Abdelhalim, see figure \@ref(fig:ingy2-fig) and the transcript and show notes in chapter \@ref(ingy).
+Meet Ingy Abdelhalim, see figure \@ref(fig:ingy2-fig) and the transcript and show notes in chapter \@ref(ingy).
 
 ```{r ingy2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captioningy)"}
 knitr::include_graphics(rep("images/ingy.jpeg", 3))
@@ -137,7 +154,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 8: Ivaylo (Ivo) Iliev on Amazon Web Services {#ep8}
 
-Interview with Ivaylo (Ivo) Iliev, see figure \@ref(fig:ivo2-fig) and the transcript and show notes in chapter \@ref(ivo).
+Meet Ivaylo (Ivo) Iliev, see figure \@ref(fig:ivo2-fig) and the transcript and show notes in chapter \@ref(ivo).
 
 ```{r ivo2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionivo)"}
 knitr::include_graphics(rep("images/ivo.jpeg", 3))
@@ -151,7 +168,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 7: Jonathan Cowling on moneysupermarket and Infinity Works {#ep7}
 
-Interview with Jonathan Cowling, see figure \@ref(fig:jonathan2-fig) and the transcript and show notes in chapter \@ref(jonathan).
+Meet Jonathan Cowling, see figure \@ref(fig:jonathan2-fig) and the transcript and show notes in chapter \@ref(jonathan).
 
 ```{r jonathan2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionjonathan)"}
 knitr::include_graphics(rep("images/jonathan.jpeg", 3))
@@ -165,7 +182,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 6: Alice Păcuraru on Barclays, THG and Publicis Sapient {#ep6}
 
-Interview with Alexandra (Alice) Păcuraru, see figure \@ref(fig:alice2-fig) and the transcript and show notes in chapter \@ref(alice).
+Meet Alexandra (Alice) Păcuraru, see figure \@ref(fig:alice2-fig) and the transcript and show notes in chapter \@ref(alice).
 
 ```{r alice2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionalice)"}
 knitr::include_graphics(rep("images/alice.jpeg", 3))
@@ -179,7 +196,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 5: Sneha Kandane on Matillion {#ep5}
 
-Interview with Sneha Kandane, see figure \@ref(fig:sneha2-fig) and the transcript and show notes in chapter \@ref(sneha).
+Meet Sneha Kandane, see figure \@ref(fig:sneha2-fig) and the transcript and show notes in chapter \@ref(sneha).
 
 ```{r sneha2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionsneha)"}
 knitr::include_graphics(rep("images/sneha.jpeg", 3))
@@ -194,7 +211,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 4: Carmen Faura Práxedes on Disney & McKinsey {#ep4}
 
-Interview with Carmen Faura Práxedes, see figure \@ref(fig:carmen2-fig) and the transcript and show notes in chapter \@ref(carmen)
+Meet Carmen Faura Práxedes, see figure \@ref(fig:carmen2-fig) and the transcript and show notes in chapter \@ref(carmen)
 
 ```{r carmen2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captioncarmen)"}
 knitr::include_graphics(rep("images/carmen.jpeg", 3))
@@ -207,7 +224,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 3: Brian Yim Tam on Disney+ and Wise {#ep3}
 
-Interview with Brian Yim Tam, see figure \@ref(fig:brian2-fig) and the transcript and show notes in chapter \@ref(brian)
+Meet Brian Yim Tam, see figure \@ref(fig:brian2-fig) and the transcript and show notes in chapter \@ref(brian)
 
 ```{r brian2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionbrian)"}
 knitr::include_graphics(rep("images/brian.jpeg", 3))
@@ -221,7 +238,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 2: Jason Ozuzu on Morgan Stanley, Fitbit and Google {#ep2}
 
-Interview with Jason Ozuzu, see figure \@ref(fig:jason2-fig) and the transcript in chapter \@ref(jason).
+Meet Jason Ozuzu, see figure \@ref(fig:jason2-fig) and the transcript in chapter \@ref(jason).
 
 ```{r jason2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionjason)"}
 knitr::include_graphics(rep("images/jason.jpeg", 3))
@@ -235,7 +252,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Episode 1: Raluca Cruceru on Koderly and CERN {#ep1}
 
-Interview with Raluca Cruceru, see figure \@ref(fig:raluca2-fig) and the transcript and show notes in chapter \@ref(raluca)
+Meet Raluca Cruceru, see figure \@ref(fig:raluca2-fig) and the transcript and show notes in chapter \@ref(raluca)
 
 ```{r raluca2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionraluca)"}
 knitr::include_graphics(rep("images/raluca.jpeg", 3))
