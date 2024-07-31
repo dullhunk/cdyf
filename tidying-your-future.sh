@@ -113,5 +113,10 @@ echo "replaced steve.html "
 find . -name "*.html" -exec sed -I '' 's/cristian.html/cristian/g' {} +
 echo "replaced cristian.html "
 
+find . -name "*.html" -exec sed -I '' 's/stefania.html/stefania/g' {} +
+echo "replaced stefania.html "
+
 find . -name "*.html" -exec sed -I '' 's/reading.html/reading/g' {} +
 echo "replaced reading.html "
+
+

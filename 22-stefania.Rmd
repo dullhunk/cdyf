@@ -1,0 +1,50 @@
+# Stefania's Story {#stefania}
+
+Meet Stefania Chaplin, shown in figure \@ref(fig:stefania-fig). Stefania graduated with a Bachelor of Science degree in Computer Science with Business & Management in 2013. As of 2024, when this episode was recorded, she works as a solutions architect for [gitlab.com](https://about.gitlab.com) and [devstefops.com](https://devstefops.com). 
+
+```{r stefania-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstefania)"}
+knitr::include_graphics("images/linkedinstefania.jpg")
+```
+(ref:captionstefania) Stefania Chaplin [linkedin.com/in/stefania-chaplin](https://www.linkedin.com/in/stefania-chaplin/). Picture re-used from LinkedIn with permission, thanks Stefania.
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32363532/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
+## What's Your Story Stefania? {#stefania-story}
+
+An edited podcast transcript will appear here in due course. In the meantime, an [un-edited, raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-stefania.md).
+
+## One tune {#stefania-tune}
+
+For her tune, Stefania chose Summer Came My Way by Greg Wilson featuring The Reynolds. [@summercamemyway]
+
+```{r gregwilson-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionsummercamemyway)"}
+knitr::include_url('https://www.youtube.com/embed/1Ny1uPZkruY')
+```
+(ref:captionsummercamemyway) Summer Came My Way, you can also listen to this track at [youtu.be/1Ny1uPZkruY](https://youtu.be/1Ny1uPZkruY) [@summercamemyway]
+
+## One book {#stefania-book}
+
+For her book, Stefania chose *New York Times* bestseller, [I Will Teach You To Be Rich](https://en.wikipedia.org/wiki/I_Will_Teach_You_to_Be_Rich) by Ramit Sethi. [@sethibook]
+
+## One podcast {#stefania-podcast}
+
+For her podcast, Stefania chose the [I Will Teach You To Be Rich podcast](https://www.iwillteachyoutoberich.com/podcast) which accompanies the book above. [@sethipodcast]
+
+## One film {#stefania-film}
+
+For her film, Stefania chose [Puss in Boots: The Last Wish](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) [@pussinboots]
+
+## Disclaimer  
+
+
+::: {.rmdcaution}
+
+(ref:codingcaution)
+
+(ref:transcript-disclaimer)  
+
+:::
