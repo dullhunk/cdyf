@@ -1,32 +1,49 @@
 # Eman's Story {#eman}
 
-Meet Eman Ahsan, shown in figure \@ref(fig:eman-fig). Eman graduated
+Meet Eman Ahsan, shown in figure \@ref(fig:eman-fig). Eman graduated with a Bachelor of Science degree in Computer Science with Industrial Experience. She completed her placement year at [Bentley Motors](https://en.wikipedia.org/wiki/Bentley) in Crewe and volunteers for Code Your Future, an organisation that trains refugees and disadvantaged people to write code, [codeyourfuture.io](https://codeyourfuture.io/).
 
 ```{r eman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioneman)"}
 knitr::include_graphics("images/linkedineman.jpg")
 ```
-(ref:captioneman) Eman Ahsan [linkedin.com/in/emanahsan](https://www.linkedin.com/in/emanahsan/). Picture re-used from LinkedIn with permission, thanks Asma.
+(ref:captioneman) Eman Ahsan [linkedin.com/in/emanahsan](https://www.linkedin.com/in/emanahsan/). Picture re-used from LinkedIn with permission, thanks Eman.
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
-cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32350182/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32383057/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
+
 
 ## What's Your Story Eman? {#eman-story}
 
 An edited podcast transcript will appear here in due course. In the meantime highlights from *One Tune, One Book, One Podcast and One Film* shown below.
 
 
-## One book {#eman-book}
+## One Tune {#eman-tune}
 
-For her book
+For her music, Eman chose Jhoom by [Ali Zafar](https://en.wikipedia.org/wiki/Ali_Zafar), see figure \@ref(fig:jhoom-vid). 🇵🇰
 
-## One podcast {#eman-podcast}
+```{r jhoom-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongooglejhoom)"}
+knitr::include_url('https://www.youtube.com/embed/B4-HoKdW6j0')
+```
 
-For her podcast 
+## One Book {#eman-book}
 
-## One film {#eman-film}
+For her book, Eman chose [A Thousand Splendid Suns](https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns) and [The Kite Runner](https://en.wikipedia.org/wiki/The_Kite_Runner) by [Khaled Hosseini](https://en.wikipedia.org/wiki/Khaled_Hosseini).
 
-For her film 
+## One Podcast {#eman-podcast}
+
+For her podcast, Eman chose the True Crime Podcast [Serial Killers](https://open.spotify.com/show/4ruq7mH0jg1sFi8KQhnGb8)
+
+## One Film {#eman-film}
+
+For her film, Eman chose [The Terminal](https://en.wikipedia.org/wiki/The_Terminal).
+
+## Studio Self {#eman-selfie}
+
+Eman shared a studio selfie, see figure \@ref(fig:eman-selfie-fig)
+
+```{r eman-selfie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionemanselfie)"}
+knitr::include_graphics("images/studioselfieeman.jpeg")
+```
 
 ## Disclaimer  
 

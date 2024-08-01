@@ -17,7 +17,12 @@ An edited podcast transcript will appear here in due course. In the meantime, an
 
 ## One tune {#cristian-tune}
 
-For his tune, Cristian chose [Do I Wanna Know?](https://en.wikipedia.org/wiki/Do_I_Wanna_Know%3F) by Arctic Monkeys [@doiwannaknow] because he's learning to play it on guitar. 🎸
+For his tune, Cristian chose [Do I Wanna Know?](https://en.wikipedia.org/wiki/Do_I_Wanna_Know%3F) by Arctic Monkeys (see figure \@ref(fig:arctic-monkeys-fig)) because he's learning to play it on guitar. 🎸
+
+```{r arctic-monkeys-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionarcticmonkeys)"}
+knitr::include_graphics("images/wikidoiwannaknow.jpg")
+```
+(ref:captionarcticmonkeys) *Do I Wanna Know Know?* is a song by English rock band [Arctic Monkeys](https://en.wikipedia.org/wiki/Arctic_Monkeys). [@doiwannaknow]
 
 
 ## One book {#cristian-book}
