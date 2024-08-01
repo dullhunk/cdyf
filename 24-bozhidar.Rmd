@@ -1,0 +1,40 @@
+# Bozhidar's Story {#bozhidar}
+
+Meet Bozhidar Klouchek, shown in figure \@ref(fig:boz-fig). Boz graduated
+
+```{r boz-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioneman)"}
+knitr::include_graphics("images/linkedinbozhidar.jpg")
+```
+(ref:captionboz) Bozhidar Klouchek [linkedin.com/in/bozhidar-klouchek-56449a18b](https://www.linkedin.com/in/bozhidar-klouchek-56449a18b/). Picture re-used from LinkedIn with permission, thanks Bozhidar.
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32350182/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+## What's Your Story Bozhidar? {#boz-story}
+
+An edited podcast transcript will appear here in due course. In the meantime highlights from *One Tune, One Book, One Podcast and One Film* shown below.
+
+
+## One book {#boz-book}
+
+For his book
+
+## One podcast {#boz-podcast}
+
+For his podcast 
+
+## One film {#boz-film}
+
+For his film 
+
+## Disclaimer  
+
+
+::: {.rmdcaution}
+
+(ref:codingcaution)
+
+(ref:transcript-disclaimer)  
+
+:::
