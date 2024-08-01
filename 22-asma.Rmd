@@ -15,24 +15,42 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 An edited podcast transcript will appear here in due course. In the meantime highlights from *One Tune, One Book, One Podcast and One Film* shown below.
 
+## One film {#asma-film}
+
+For her film Asma chose *About Time*, see figure \@ref(fig:wikiabouttime-fig).
+
+```{r wikiabouttime-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikiabouttime)"}
+knitr::include_graphics("images/wikiabouttime.jpg")
+```
+
+(ref:captionwikiabouttime) [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) is a 2013 romantic science fiction comedy-drama film written and directed by Richard Curtis, and starring Domhnall Gleeson, Rachel McAdams, and Bill Nighy. The film is about a young man with the ability to time travel who tries to change his past in hopes of improving his future. ⏱
+
+## One book {#asma-book}
+
+For her book, Asma chose *The Book Thief*, see figure \@ref(fig:wikibookthief-fig).
+
+```{r wikibookthief-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikibookthief)"}
+knitr::include_graphics("images/wikibookthief.jpg")
+```
+
+(ref:captionwikibookthief) [The Book Thief](https://en.wikipedia.org/wiki/The_Book_Thief) is a historical fiction novel by the Australian author Markus Zusak, set in Nazi Germany during World War II. Published in 2005, The Book Thief became an international bestseller and was translated into 63 languages and sold 17 million copies. It was adapted into the 2013 feature film, *The Book Thief*. 📚
+
+## Studio Selfie {#asma-selfie}
+
+Asma shared this studio selfie, see figure \@ref(fig:asma-selfie-fig)
+
+```{r asma-selfie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionasmaselfie)"}
+knitr::include_graphics("images/studioselfieasma.jpeg")
+```
+
+(ref:captionasmaselfie) A studio selfie, I'm hiding behind Asma because I have a black eye. 🤕
+
+## Graduation {#asma-graduation}
+
 ```{r, eval=knitr::is_html_output(excludes = "pdf"), results='asis', echo=FALSE}
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7216531090906230785" height="857" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
 ```
 
-
-
-
-## One book {#asma-book}
-
-For her book
-
-## One podcast {#asma-podcast}
-
-For her podcast 
-
-## One film {#asma-film}
-
-For her film 
 
 ## Disclaimer  
 
