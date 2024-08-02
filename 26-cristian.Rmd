@@ -1,6 +1,6 @@
 # Cristian's Story {#cristian}
 
-Meet Cristian Bodnar, shown in figure \@ref(fig:cristian-fig). Cristian graduated with a Bachelor of Science degree in Computer Science in 2018, this episode was  recorded five years later in 2023. As an undergraduate, Cristian did summer internships at [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) and [Improbable Worlds Limited](https://en.wikipedia.org/wiki/Improbable_(company))  before doing a PhD at the University of Cambridge and then moving on to [Microsoft Research](https://en.wikipedia.org/wiki/Microsoft_Research).
+Meet Cristian Bodnar, shown in figure \@ref(fig:cristian-fig). Cristian graduated with a Bachelor of Science degree in Computer Science in 2018, this episode was recorded five years later in 2023. As an undergraduate, Cristian did summer internships at [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) and [Improbable Worlds Limited](https://en.wikipedia.org/wiki/Improbable_(company))  before doing a PhD at the University of Cambridge and then moving on to [Microsoft Research](https://en.wikipedia.org/wiki/Microsoft_Research).
 
 ```{r cristian-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncristian)"}
 knitr::include_graphics("images/linkedincristian.jpg")
@@ -18,17 +18,17 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 An edited podcast transcript will appear here in due course. In the meantime, an [un-edited, raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-cristian.md) with highlights from *One Tune, One Book, One Podcast and One Film* shown below.
 
-## One tune {#cristian-tune}
+## One Tune {#cristian-tune}
 
-For his tune, Cristian chose [Do I Wanna Know?](https://en.wikipedia.org/wiki/Do_I_Wanna_Know%3F) by Arctic Monkeys (see figure \@ref(fig:arctic-monkeys-fig)) because he's learning to play it on guitar. 🎸
+For his tune, Cristian chose [Do I Wanna Know?](https://en.wikipedia.org/wiki/Do_I_Wanna_Know%3F) by Arctic Monkeys (see figure \@ref(fig:arctic-monkeys-fig)) because he's learning to play it on guitar.
 
 ```{r arctic-monkeys-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionarcticmonkeys)"}
 knitr::include_graphics("images/wikidoiwannaknow.jpg")
 ```
-(ref:captionarcticmonkeys) *Do I Wanna Know Know?* is a song by English rock band [Arctic Monkeys](https://en.wikipedia.org/wiki/Arctic_Monkeys). [@doiwannaknow]
+(ref:captionarcticmonkeys) *Do I Wanna Know Know?* is a song by English rock band [Arctic Monkeys](https://en.wikipedia.org/wiki/Arctic_Monkeys). [@doiwannaknow] 🎸
 
 
-## One book {#cristian-book}
+## One Book {#cristian-book}
 
 For his book, Cristian chose Zero to One see figure \@ref(fig:wikizerotoone-fig) 
 
@@ -36,15 +36,18 @@ For his book, Cristian chose Zero to One see figure \@ref(fig:wikizerotoone-fig)
 knitr::include_graphics("images/wikizerotoone.jpg")
 ```
 
-(ref:captionwikizerotoone) [Zero to One: Notes on Startups, or [How to Build the Future](https://en.wikipedia.org/wiki/Zero_to_One) is a 2014 book by the American
-entrepreneur and investor [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) co-written with Blake Masters. It is a condensed and updated version of a set of online notes taken by Masters for the CS183 class on startups, as taught by Thiel at Stanford University in Spring 2012. 🚀
+
+(ref:captionwikizerotoone) [Zero to One: Notes on Startups, or How to Build the Future](https://en.wikipedia.org/wiki/Zero_to_One) is a 2014 book by the American entrepreneur and investor [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) co-written with Blake Masters. It is a condensed and updated version of a set of online notes taken by Masters for the CS183 class on startups, as taught by Thiel at Stanford University in Spring 2012. 🚀
 
 
-## One podcast {#cristian-podcast}
+
+
+
+## One Podcast {#cristian-podcast}
 
 For his podcast, Cristian chose the [Joe Walker Podcast](https://josephnoelwalker.com/). [@joewalker]
 
-## One film {#cristian-film}
+## One Film {#cristian-film}
 
 For his film, Cristian chose *Gravity* see figure \@ref(fig:wikigravity-fig)
 

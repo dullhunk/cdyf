@@ -31,7 +31,7 @@ knitr::include_url('https://www.youtube.com/embed/B4-HoKdW6j0')
 
 ## One Book {#eman-book}
 
-For her book, Eman chose *[A Thousand Splendid Suns](https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns)* and *[The Kite Runner](https://en.wikipedia.org/wiki/The_Kite_Runner)* by Khaled Hosseini, see figure \@ref(fig:wikikhaled-fig).
+For her book(s), Eman chose *[A Thousand Splendid Suns](https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns)* and *[The Kite Runner](https://en.wikipedia.org/wiki/The_Kite_Runner)* by Khaled Hosseini, see figure \@ref(fig:wikikhaled-fig).
 
 ```{r wikikhaled-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikikhaled)"}
 knitr::include_graphics("images/wikikhaled.jpeg")
