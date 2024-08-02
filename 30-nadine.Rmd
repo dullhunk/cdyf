@@ -26,6 +26,42 @@ knitr::include_graphics("images/imago.png")
 (ref:captionimago) Imago is the University of Manchester’s student software company. They create beautiful and useful software for paying clients, using the skills and experience students have gained during their time at University. Screenshot of the company website from [imago.cs.manchester.ac.uk](https://imago.cs.manchester.ac.uk/)
 
 
+## One Tune {#nadine-tune}
+
+For her music, Nadine chose *I Lived* by OneRepublic, see figure \@ref(fig:wikilived-fig)
+
+```{r wikilived-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikilived)"}
+knitr::include_graphics("images/wikilived.jpg")
+```
+
+(ref:captionwikilived) [I Lived](https://en.wikipedia.org/wiki/I_Lived) is a song recorded by American pop rock band OneRepublic. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org)
+
+## One Podcast {#nadine-podcast}
+
+For her podcast, Nadine chose *Rotten Mango*, see section \@ref(rottenmango)
+
+## One Book {#nadine-book}
+
+For her book, Nadine chose *Invisible* by James Patterson, see figure \@ref(fig:wikinvisible-fig)
+
+```{r wikinvisible-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikinvisible)"}
+knitr::include_graphics("images/wikinvisble.jpg")
+```
+
+(ref:captionwikinvisible) [Invisible](https://en.wikipedia.org/wiki/Invisible_(Patterson_novel)) is a novel written by James Patterson and David Ellis. It is part of the series *Invisible* and it is followed by the book *Unsolved* published in 2019. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org)
+
+
+## One Film {#nadine-film}
+
+For her film, Nadine chose *On the Basis of Sex*, see figure \@ref(fig:wikisex-fig)
+
+```{r wikisex-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikisex)"}
+knitr::include_graphics("images/wikisex.jpg")
+```
+
+(ref:captionwikisex) [On the Basis of Sex](https://en.wikipedia.org/wiki/On_the_Basis_of_Sex) is a 2018 American biographical legal drama film based on the life and early cases of Ruth Bader Ginsburg, who was the second woman to serve as an Associate Justice of the United States Supreme Court. Directed by Mimi Leder and written by Daniel Stiepleman (Ginsburg's real-life nephew), it stars Felicity Jones as Ginsburg. Armie Hammer, Justin Theroux, Jack Reynor, Cailee Spaeny, Sam Waterston, and Kathy Bates feature in supporting roles.  Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org)
+
+
 ## Disclaimer  
 
 

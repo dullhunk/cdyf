@@ -18,7 +18,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 An edited podcast transcript will appear here in due course. In the meantime, an un-edited, [raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-ingy.md).
 
 
-## One tune {#ingy-tune}
+## One Tune {#ingy-tune}
 
 Ingy chose *You Can*, see figure \@ref(fig:banque-misr-vid) as her tune.
 
@@ -29,6 +29,32 @@ knitr::include_url('https://www.youtube.com/embed/w6KhkbcMC6w')
 
 (ref:captionbanque) You Can اغنيه انت تقدر .. بنك مصر رمضان This video can also be watched at [youtu.be/w6KhkbcMC6w](https://youtu.be/w6KhkbcMC6w). [@banque-misr-ramadan]
 
+## One Podcast {#ingy-podcast}
+
+For her podcast, Ingy chose *How I Built This*, see figure \@ref(fig:wikibuilt-fig).
+
+```{r wikibuilt-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionwikibuilt)"}
+knitr::include_graphics("images/wikibuilt.jpg")
+```
+
+(ref:captionwikibuilt) [How I Built This](https://en.wikipedia.org/wiki/How_I_Built_This) is is an American podcast about “innovators, entrepreneurs, idealists and the stories behind the movements they built” produced by National Public Radio (NPR). Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 📻
+
+Ingy also recommended *The Happiness Lab Podcast*, see [drlauriesantos.com/happiness-lab-podcast](https://www.drlauriesantos.com/happiness-lab-podcast)
+
+## One Book {#ingy-book}
+
+For her book, Ingy chose *The Happiness Advantage*, see [worldcat.org/oclc/1016436165](https://www.worldcat.org/oclc/1016436165)
+
+
+## One Film {#ingy-film}
+
+For her film, Ingy chose *Hidden Figures* see figure \@ref(fig:wikihidden-fig)
+
+```{r wikihidden-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionwikihidden)"}
+knitr::include_graphics("images/wikihidden.jpg")
+```
+
+(ref:captionwikihidden) [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures) a 2016 American biographical drama film directed by Theodore Melfi and written by Melfi and Allison Schroeder. It is loosely based on the 2016 non-fiction book of the same name by Margot Lee Shetterly about three female African-American mathematicians: Katherine Goble Johnson (Taraji P. Henson), Dorothy Vaughan (Octavia Spencer), and Mary Jackson (Janelle Monáe), who worked at NASA during the Space Race. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🚀
 
 
 ## Disclaimer  

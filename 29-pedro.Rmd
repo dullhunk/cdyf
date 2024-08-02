@@ -1,6 +1,6 @@
 # Pedro's Story {#pedro}
 
-Meet Pedro Marques Sousa, see figure \@ref(fig:pedro-fig) he graduated with a Bachelor of Science degree in Computer Science and Mathematics in 2023 when this episode was first recorded. Pedro worked at Nomura, Amazon Web Services and a tech startup in Tokyo: [recursiveai.co.jp](https://recursiveai.co.jp/en/).
+Meet Pedro Marques Sousa, see figure \@ref(fig:pedro-fig). He graduated with a Bachelor of Science degree in Computer Science and Mathematics in 2023 when this episode was first recorded. Pedro worked at Nomura, Amazon Web Services and a tech startup in Tokyo: [recursiveai.co.jp](https://recursiveai.co.jp/en/).
 
 Shortly after this episode was recorded, Pedro enrolled on a [Masters degree in Advanced Computer Science at the University of Cambridge](https://www.postgraduate.study.cam.ac.uk/courses/directory/cscsmpacs).
 
@@ -24,15 +24,31 @@ An edited podcast transcript will appear here in due course. In the meantime, an
 
 ## One Tune {#pedro-tune}
 
-For his music, Pedro chose a Portugese genre of music known as [Fado](https://en.wikipedia.org/wiki/Fado).
+For his music, Pedro chose a Portugese genre of music known as *Fado*, see figure \@ref(fig:wikifado-fig)
+
+```{r wikifado-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikifado)"}
+knitr::include_graphics("images/wikifado.jpg")
+```
+
+
+(ref:captionwikifado) [Fado](https://en.wikipedia.org/wiki/Fado) is a form of music characterised by mournful tunes and lyrics, often about the sea or the life of the poor, and infused with a sense of resignation, fate and melancholy. This is loosely captured by the Portuguese word [saudade](https://en.wikipedia.org/wiki/Saudade), or longing, symbolising a feeling of loss. Public domain image of a painting *O Fado*, by José Malhoa from the Museu de Lisboa via Wikimedia Commons [w.wiki/Apbu](https://w.wiki/Apbu) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🇵🇹
+
+
 
 ## One Book {#pedro-book}
 
-For his book, Pedro chose the Almanack of Naval Ravikant [navalmanack.com](https://www.navalmanack.com/)
+For his book, Pedro chose *The Almanack of Naval Ravikant*, see figure \@ref(fig:wikinaval-fig)
+
+```{r wikinaval-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikinaval)"}
+knitr::include_graphics("images/wikinaval.jpg")
+```
+
+(ref:captionwikinaval) [Naval Ravikant](https://en.wikipedia.org/wiki/Naval_Ravikant) is an entrepreneur and early-stage investor in over 200 companies including Uber, FourSquare, Twitter, Wish.com, Poshmark, Postmates, Thumbtack, Notion, SnapLogic, Opendoor, Clubhouse, StackOverflow, Bolt, OpenDNS, Yammer, and Clearview AI, with over 70 total exits and more than 10 Unicorn companies worth a total of 5 billion dollars. Pedro recommded the book about him: *The Almanack of Naval Ravikant* [@navalmanack] CC BY-SA portrait of Naval Ravikant by Kris Krüg on Wikimedia Commons [w.wiki/Apc9](https://w.wiki/Apc9) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 
+
 
 ## One Podcast {#pedro-podcast}
 
-For his podcasts, Pedro recommended four:
+For his podcasts, Pedro recommended the following:
 
 * [thisweekinstartups.com](https://thisweekinstartups.com/) and *All In* by [Jason Calcanis](https://en.wikipedia.org/wiki/Jason_Calacanis)
 * The Brilliant Idiots comedy podcast [BrilliantIdiotsPod](https://www.youtube.com/@BrilliantIdiotsPod)
@@ -41,7 +57,13 @@ For his podcasts, Pedro recommended four:
 
 ## One Film {#pedro-film}
 
-For his film, Pedro chose [Training Day](https://en.wikipedia.org/wiki/Training_Day)
+For his film, Pedro chose *Training Day*, see figure \@ref(fig:wikitrainingday-fig)
+
+```{r wikitrainingday-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikitrainingday)"}
+knitr::include_graphics("images/wikitrainingday.jpg")
+```
+
+(ref:captionwikitrainingday) [Training Day](https://en.wikipedia.org/wiki/Training_Day) is a 2001 American crime thriller film directed by Antoine Fuqua and written by David Ayer. It stars Denzel Washington as Alonzo Harris and Ethan Hawke as Jake Hoyt, two LAPD narcotics officers followed over a 24-hour period in the gang-ridden neighborhoods of Westlake, Echo Park, and South Central Los Angeles. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org)
 
 
 ## Disclaimer  
