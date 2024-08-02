@@ -1,6 +1,6 @@
 # Cristian's Story {#cristian}
 
-Meet Cristian Bodnar, shown in figure \@ref(fig:cristian-fig). Cristian graduated with a Bachelor of Science degree in Computer Science in 2018, this episode was recorded five years later in 2023. As an undergraduate, Cristian did summer internships at [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) and [Improbable Worlds Limited](https://en.wikipedia.org/wiki/Improbable_(company))  before doing a PhD at the University of Cambridge and then moving on to [Microsoft Research](https://en.wikipedia.org/wiki/Microsoft_Research).
+Meet Cristian Bodnar, shown in figure \@ref(fig:cristian-fig). Cristian graduated with a Bachelor of Science degree in Computer Science in 2018, this episode was recorded five years later in 2023 on a return visit to Manchester, see section \@ref(cristian-talk). As an undergraduate, Cristian did summer internships at [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) and [Improbable Worlds Limited](https://en.wikipedia.org/wiki/Improbable_(company))  before doing a PhD at the University of Cambridge and then moving on to [Microsoft Research](https://en.wikipedia.org/wiki/Microsoft_Research).
 
 ```{r cristian-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncristian)"}
 knitr::include_graphics("images/linkedincristian.jpg")
@@ -30,7 +30,7 @@ knitr::include_graphics("images/wikidoiwannaknow.jpg")
 
 ## One Book {#cristian-book}
 
-For his book, Cristian chose Zero to One see figure \@ref(fig:wikizerotoone-fig) 
+For his book, Cristian chose *Zero to One* shown in figure \@ref(fig:wikizerotoone-fig) 
 
 ```{r wikizerotoone-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikizerotoone)"}
 knitr::include_graphics("images/wikizerotoone.jpg")
@@ -39,7 +39,7 @@ knitr::include_graphics("images/wikizerotoone.jpg")
 
 (ref:captionwikizerotoone) [Zero to One: Notes on Startups, or How to Build the Future](https://en.wikipedia.org/wiki/Zero_to_One) is a 2014 book by the American entrepreneur and investor [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) co-written with Blake Masters. It is a distilled version of a set of online notes for the startup course `CS183` taught by Thiel at Stanford University in the spring of 2012. 🚀
 
-
+<!--https://www.manchester.ac.uk/about/magazine/features/todays-winners/-->
 
 
 
@@ -56,6 +56,18 @@ knitr::include_graphics("images/wikigravity.jpg")
 ```
 
 (ref:captionwikigravity) [Gravity](https://en.wikipedia.org/wiki/Gravity_(2013_film)) is a 2013 science fiction thriller film directed by Alfonso Cuarón, who also co-wrote, co-edited, and produced the film. It stars Sandra Bullock and George Clooney as American astronauts who attempt to return to Earth after the destruction of their Space Shuttle in orbit [@gravity] 🚀
+
+## Graph Neural Networks via Sheaves {#cristian-talk}
+
+Cristian was visiting Manchester to give the talk hosted by Magnus Rattray shown in figure \@ref(fig:gnns-vid) to the Institue for Data Science and Artificial Intelligence (IDSA) at [www.idsai.manchester.ac.uk](https://www.idsai.manchester.ac.uk/). [@bodnar]
+
+
+```{r gnns-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongnns)"}
+knitr::include_url('https://www.youtube.com/embed/8XROSBdeQto')
+```
+
+(ref:captiongnns) Cristian's talk on Graph Neural Networks via Sheaves, you can watch the video in this figure at [youtu.be/8XROSBdeQto](https://youtu.be/8XROSBdeQto) [@bodnar]
+
 
 
 ## Disclaimer  
