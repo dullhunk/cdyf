@@ -31,9 +31,7 @@ knitr::include_graphics("images/wikitarkan.jpg")
 
 (ref:captionwikitarkan) [Tarkan Tevetoğlu](https://en.wikipedia.org/wiki/Tarkan_(singer)) and is a German-born Turkish singer-songwriter. He has been a prominent figure of pop music, recognised both in Turkey and worldwide. Portrait of Tarkan by Hakki Topcu on Wikimedia Commons [w.wiki/ApGj](https://w.wiki/ApGj) 🇹🇷
 
-
-
-We also talked about the Bulgarian music played at the [unicsmcr.com](https://unicsmcr.com/) Computer Science ball [Sen Trope](https://www.youtube.com/watch?v=BplsGX5eLLo) by Azis, see figure \@ref(fig:wikiazis-fig).
+We also talked about the Bulgarian music played at the [unicsmcr.com](https://unicsmcr.com/) Computer Science ball, especially [Sen Trope](https://www.youtube.com/watch?v=BplsGX5eLLo) by Azis, see figure \@ref(fig:wikiazis-fig).
 
 ```{r wikiazis-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikiazis)"}
 knitr::include_graphics("images/wikiazis.jpg")
@@ -52,7 +50,7 @@ For his book, Bozhidar chose *The Thursday Murder Club* by Richard Osman, see fi
 knitr::include_graphics("images/wikiosman.jpg")
 ```
 
-(ref:captionwikiosman) [The Thursday Murder Club](https://en.wikipedia.org/wiki/The_Thursday_Murder_Club) is a 2020 crime novel, the debut novel by [Richard Osman](https://en.wikipedia.org/wiki/Richard_Osman). It is the first instalment in his *Thursday Murder Club* series.
+(ref:captionwikiosman) [The Thursday Murder Club](https://en.wikipedia.org/wiki/The_Thursday_Murder_Club) is a 2020 crime novel, the debut novel by [Richard Osman](https://en.wikipedia.org/wiki/Richard_Osman). It is the first instalment in his *Thursday Murder Club* series. ☠️
 
 ## One Podcast {#boz-podcast}
 
@@ -70,7 +68,13 @@ knitr::include_graphics("images/wikihaunting.jpg")
 
 ## Studio Selfie {#boz-selfie}
 
-Hello Bozho! If you're reading this, can you send me your studio selfie? 🤳
+Bozhidar shared this selfie from the studio, see figure \@ref(fig:studioselfieboz-fig)
+
+```{r studioselfieboz-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbozself)"}
+knitr::include_graphics("images/studioselfiebozho.jpeg")
+```
+
+(ref:captionbozself) A selfie from the *Coding Your Future* studio, a slightly noisier than the usual location 🤳
 
 ## Graduation {#boz-graduation}
 
