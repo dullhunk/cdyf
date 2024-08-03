@@ -53,6 +53,59 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
+## Episode 18: Asma Alshebli on AD Ports Group and UNICS {#ep18}
+
+Meet Asma Alshebli, see figure \@ref(fig:asma2-fig) and the transcript and show notes in chapter \@ref(asma).
+
+```{r asma2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionasmalink)"}
+knitr::include_graphics(rep("images/linkedinasma.jpg", 3))
+```
+
+(ref:captionasmalink) Asma Alshebli, picture re-used from [linkedin.com/in/asma-alshebli-86a13a264](https://www.linkedin.com/in/asma-alshebli-86a13a264)
+
+(ref:podcastblurbshort)
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32383492/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
+## Episode 17: Eman Ahsan on Bentley Motors {#ep17}
+
+Meet Eman Ahsan, see figure \@ref(fig:eman2-fig) and the transcript and show notes in chapter \@ref(eman).
+
+```{r eman2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionemanlink)"}
+knitr::include_graphics(rep("images/linkedineman.jpg", 3))
+```
+
+(ref:captionemanlink) Eman Ahsan, picture re-used from [linkedin.com/in/emanahsan](https://www.linkedin.com/in/emanahsan)
+
+(ref:podcastblurbshort)
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32383057/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
+## Episode 16: Bozhidar Klouchek on Oslo, Cantarus, Imago & Recourse  {#ep16}
+
+Meet Bozhidar Klouchek, see figure \@ref(fig:boz2-fig) and the transcript and show notes in chapter \@ref(bozhidar).
+
+```{r boz2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionbozlink)"}
+knitr::include_graphics(rep("images/linkedinbozhidar.jpg", 3))
+```
+
+(ref:captionbozlink) Bozhidar Klouchek, picture re-used from [linkedin.com/in/bozhidar-klouchek-56449a18b](https://www.linkedin.com/in/bozhidar-klouchek-56449a18b)
+
+(ref:podcastblurbshort)
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/32382377/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
 ## Episode 15: Stefania Chaplin on gitlab.com and devstefops.com {#ep15}
 
 Meet Stefania Chaplin, see figure \@ref(fig:stefania2-fig) and the transcript and show notes in chapter \@ref(stefania).
