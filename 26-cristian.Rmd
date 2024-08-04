@@ -16,7 +16,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## What's Your Story Cristian? {#cristian-story}
 
-An edited podcast transcript will appear here in due course. In the meantime, an [un-edited, raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-cristian.md) with highlights from *One Tune, One Book, One Podcast and One Film* shown below.
+An edited podcast transcript will appear here in due course. In the meantime, an [un-edited, raw machine-generated transcript can be found here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-cristian.md) with highlights from *One Tune, One Book, One Podcast and One Film* and some show notes can bee seen below.
 
 ## One Tune {#cristian-tune}
 
@@ -25,7 +25,7 @@ For his tune, Cristian chose [Do I Wanna Know?](https://en.wikipedia.org/wiki/Do
 ```{r arctic-monkeys-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionarcticmonkeys)"}
 knitr::include_graphics("images/wikidoiwannaknow.jpg")
 ```
-(ref:captionarcticmonkeys) *Do I Wanna Know Know?* is a song by English rock band [Arctic Monkeys](https://en.wikipedia.org/wiki/Arctic_Monkeys). [@doiwannaknow] Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🎸
+(ref:captionarcticmonkeys) *Do I Wanna Know Know?* is a song by English rock band [Arctic Monkeys](https://en.wikipedia.org/wiki/Arctic_Monkeys). [@doiwannaknow] (ref:fairuse) 🎸
 
 
 ## One Book {#cristian-book}
@@ -66,7 +66,7 @@ Cristian was visiting Manchester to give the talk hosted by [Magnus Rattray](htt
 knitr::include_url('https://www.youtube.com/embed/8XROSBdeQto')
 ```
 
-(ref:captiongnns) Cristian's talk on Graph Neural Networks via Sheaves, you can watch the video in this figure at [youtu.be/8XROSBdeQto](https://youtu.be/8XROSBdeQto) [@bodnar]
+(ref:captiongnns) Cristian's talk on Graph Neural Networks via Sheaves, you can watch the video in this figure at [youtu.be/8XROSBdeQto](https://youtu.be/8XROSBdeQto) [@bodnar] 🧠
 
 
 

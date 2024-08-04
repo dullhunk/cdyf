@@ -17,7 +17,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## What's Your Story Eman? {#eman-story}
 
-An edited podcast transcript will appear here in due course. In the meantime highlights from *One Tune, One Book, One Podcast and One Film* shown below.
+An edited podcast transcript will appear here in due course. In the meantime highlights from *One Tune, One Book, One Podcast and One Film* and some show notes can be seen below.
 
 ## One Tune {#eman-tune}
 
@@ -27,7 +27,7 @@ For her music, Eman chose *Tu Jhoom* performed by Naseebo Lal and Abida Parveen,
 knitr::include_graphics("images/wikicoke.jpg")
 ```
 
-(ref:captionjhoom) [Coke Studio Pakistan](https://en.wikipedia.org/wiki/Coke_Studio_Pakistan) (Urdu: کوک اِسٹوڈیو) is a television programme which features studio-recorded music performances by established and emerging artists. *Tu Jhoom* featured on series 14. [@tujhoom] If you don't speak Urdu, turn captions on to translate the lyrics into English. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🇵🇰
+(ref:captionjhoom) [Coke Studio Pakistan](https://en.wikipedia.org/wiki/Coke_Studio_Pakistan) (Urdu: کوک اِسٹوڈیو) is a television programme which features studio-recorded music performances by established and emerging artists. *Tu Jhoom* at [youtu.be/7D4vNcK6D38](https://www.youtu.be/7D4vNcK6D38) featured on series 14. [@tujhoom] If you don't speak Urdu, turn captions on in YouTube to translate the lyrics into English. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🇵🇰
 
 ## One Book {#eman-book}
 
@@ -56,7 +56,7 @@ knitr::include_graphics("images/wikiterminal.jpg")
 
 ## Studio Selfie {#eman-selfie}
 
-Eman shared this studio selfie, see figure \@ref(fig:eman-selfie-fig)
+Eman took this studio selfie at the end of the podcast, see figure \@ref(fig:eman-selfie-fig)
 
 ```{r eman-selfie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionemanselfie)"}
 knitr::include_graphics("images/studioselfieeman.jpeg")
