@@ -278,7 +278,15 @@ Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` s
 
 ### Your Projects {#projects}
 
-The `PROJECTS` section of your CV is where you can describe all your other activities. Your projects will include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
+The `PROJECTS` section of your CV is where you can describe all your other activities, including any extra-curricular projects.
+
+```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
+knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
+```
+
+(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked *“[What I cannot create, I do not understand](https://calisphere.org/item/b3e8d3cb9b8adc01314dba1b1f1fcf84/)”* on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) where he taught [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@feynmanblackboard] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out see [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x). Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3Xoy) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+Your projects will include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
 
 * personal side projects, see section \@ref(tinkering)
 * social responsibility projects, not neccesarily technical, see section \@ref(volunteering)
@@ -293,14 +301,7 @@ The `PROJECTS` section of your CV is where you can describe all your other activ
 
 Your projects will most likely be unpaid because paid work tends to fit better under the heading `experience`, see section \@ref(experience). Perhaps you've completed some courses outside of your education such as a massive open online course  (MOOC) or similar. Hackathons and competitions, fit well here too. [@hafb] You don't *need* to have won any prizes or awards, although be sure to mention them if you have. Participating in hackathons and competitions clearly shows the reader that you enjoy learning new things. Demonstrating an appetite for new knowledge and skills will make your application stand out. If you're looking for some inspiration for side projects, the [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repository is a good starting point alongside [free-for.dev](https://free-for.dev/) which lists  software that has free tiers for developers to play with. Building and creating new things is a great way to understand them, just ask [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) shown in figure \@ref(fig:feynman-fig). What you cannot create you do not understand. Another great way to learn is to get involved with open source projects which we describe in section \@ref(opensource).
 
-
-```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
-knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
-```
-
-(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked *“[What I cannot create, I do not understand](https://calisphere.org/item/b3e8d3cb9b8adc01314dba1b1f1fcf84/)”* on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) where he taught [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@feynmanblackboard] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out see [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x). Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3Xoy) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
-
-Any longer projects you've done at University are worth mentioning. Your projects are important because they differentiate you from everyone else in your year group. Try to be *more* descriptive than this:
+Any longer projects you've done at University are worth mentioning. Capstone projects are important because they differentiate you from everyone else in your year group. Try to be *more* descriptive than this:
 
 ```md
 * First year team project
@@ -891,7 +892,7 @@ Let's say you're applying for a widget engineering position at the world famous 
 
 1. **Why them?** Why are you applying to `widget.com`, look at the employers values, how do they align with your own? See section \@ref(soul)
 1. **Why that role?**  Employees of `widget.com` have many different roles and responsibilities but what is it about being a junior `widget engineer` or trainee `widget scientist` (say) that attracts you?
-1. **Why you?** Why should `widget.com` employ you? What skills and experience make you stand out from all the other hopeful widgeteers? What are your [Unique Selling Points](https://en.wikipedia.org/wiki/Unique_selling_proposition) (USPs)? Say why *you* would be good for *them* (**not** why widget.com would be good for you and your career).
+1. **Why you?** Why should `widget.com` employ you? What skills and experience make you stand out from all the other *wannabe widgeteers*? What are your [Unique Selling Points](https://en.wikipedia.org/wiki/Unique_selling_proposition) (USPs)? Say why *you* would be good for *them* (**not** why widget.com would be good for you and your career).
 
 You can see some examples of answers to these questions at:
 
