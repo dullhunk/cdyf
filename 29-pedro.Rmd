@@ -52,7 +52,7 @@ For his podcasts, Pedro recommended the following:
 
 * [thisweekinstartups.com](https://thisweekinstartups.com/) and the [All In Podcast](https://www.youtube.com/@allin) both by [Jason Calcanis](https://en.wikipedia.org/wiki/Jason_Calacanis)
 * The Brilliant Idiots comedy podcast [BrilliantIdiotsPod](https://www.youtube.com/@BrilliantIdiotsPod)
-* Flagrant comedy podcast [officialflagrant](https://www.youtube.com/@officialflagrant), see figure \ref(fig:flagrant-vid)
+* Flagrant comedy podcast [officialflagrant](https://www.youtube.com/@officialflagrant), see figure \@ref(fig:flagrant-vid)
 
 ```{r flagrant-vid, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionflagrant)"}
 knitr::include_url('https://www.youtube.com/embed/WGrk7Mzm4uo')
