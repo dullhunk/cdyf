@@ -9,11 +9,6 @@ knitr::include_graphics("images/is-it-just-me.png")
 
 If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) workshops sessions are on **Tuesdays at 4pm**. COMP2CARS complements the second year tutorials (COMP2TUT) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/).
 
-## Week 0: Experiencing {#week0}
-Welcome week, starting 19th September:
-
-* **Tuesday 19th September** at 2pm-4pm, following from the welcome back to year 2, a panel of students returning from their year of industrial experience will share their stories of recruitment and employment. They will be answering any questions that you have for them about their placements and their transition from students to professionals. Read *Experiencing your future* chapter \@ref(experiencing)
-
 ## Week 1: Debugging {#week1}
 **Tuesday 26th September** at 4pm: Depending on when you meet your tutor
 

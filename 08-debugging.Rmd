@@ -68,7 +68,7 @@ While it is true that some employers don't accept CVs or favour online applicati
 
 Even if an employer never asks you for your CV, you'll frequently want to use the *content* of your CV in applications and interviews. So this chapter looks at how you can debug your written applications, whatever the mechanism is for submitting them.
 
-You can of course *augment* your CV with various public digital profiles such as LinkedIn, Github etc. A public digital profile can help employers find you, see section \@ref(portfolio).
+You can of course *augment* your CV with various public digital profiles such as LinkedIn, Github or [pages.github.com](https://pages.github.com/). A public digital profile or portfolio can help employers find you, see section \@ref(portfolio).
 
 *Wherever* you're putting information about yourself for potential employers, on a CV, Résumé, LinkedIn profile the same principles apply. See the checklist in section \@ref(checklist) and for specific advice on LinkedIn see:
 
@@ -231,7 +231,7 @@ knitr::include_graphics("images/alan-turing-linkedin.jpg")
 Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:
 
 ### Your Body {#body}
-Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used sparingly, especially on a one page résumé. Your five sections should cover some or all of the following:
+Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used carefully and precisely, especially on a one page résumé. Your ~five sections should cover some or all of the following:
 
 1. 🎓 `EDUCATION`: the formal stuff, see section \@ref(education)
 1. 💰 `EXPERIENCE`: paid work, see section \@ref(experience)
@@ -278,7 +278,7 @@ Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` s
 
 ### Your Projects {#projects}
 
-The `PROJECTS` section of your CV is where you can describe all your other activities, including any extra-curricular projects.
+The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, social, hackathon, work or University projects.
 
 ```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
 knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
@@ -286,7 +286,7 @@ knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
 
 (ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked *“[What I cannot create, I do not understand](https://calisphere.org/item/b3e8d3cb9b8adc01314dba1b1f1fcf84/)”* on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) where he taught [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@feynmanblackboard] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out see [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x). Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3Xoy) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
-Your projects will include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
+Your projects might include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
 
 * personal side projects, see section \@ref(tinkering)
 * social responsibility projects, not neccesarily technical, see section \@ref(volunteering)
