@@ -146,7 +146,7 @@ It might help to think of first version of your CV as an [alpha or beta version]
 Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
-1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying now, not just courses you have finished? See section \@ref(education)
+1. **EDUCATION**: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying now, not just courses you have finished? See section \@ref(education)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section \@ref(body)
 1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
 1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
@@ -278,7 +278,7 @@ Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` s
 
 ### Your Projects {#projects}
 
-The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, voluntary, hackathon, freelance or University projects.
+The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, voluntary, hackathon, freelance, professional or University projects.
 
 ```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
 knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
@@ -861,7 +861,7 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
 ## CV Checklist E: Read, Sleep, Write, Repeat... {#iterate}
-Here are five suggestions to carry on debugging your CV and Resume:
+Here are five suggestions to carry on debugging your two page CV and one page Résumé:
 
 1. Self-debugging, as described in section \@ref(checklist)
 1. Peer-debugging, as described in section \@ref(cvswap)
