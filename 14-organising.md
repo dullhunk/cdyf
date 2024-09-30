@@ -7,21 +7,22 @@ knitr::include_graphics("images/is-it-just-me.png")
 ```
 (ref:captionschedule) The biggest waste of time is the time spent not getting started on a project. Your future might seem big and unknown but it's really not as scary as you might think and getting started can be surprisingly enjoyable. [New Project? Every time…](https://bryanmmathers.com/new-project-every-time/) by [Visual Thinkery](https://visualthinkery.com/) is licenced under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-If you're a University of Manchester student, the live *Coding your Future* (COMP2CARS) workshops sessions are on **Tuesdays at 4pm**. COMP2CARS complements the second year tutorials (COMP2TUT) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/).
+How you start organising your future will depend on what stage of your degree you are at 
 
-## Week 1: Debugging {#week1}
-**Tuesday 26th September** at 4pm: Depending on when you meet your tutor
+* First year pathway
+* Second year pathway 
+* On placement or internship pathway
+* Final year pathway 
 
-* *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist) in *Debugging your future* (chapter \@ref(debugging))
-* *Or* COMP2TUT: Meet your tutor see [studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2](http://studentnet.cs.manchester.ac.uk/ugt/tutorgroups.php?level=2) get feedback on your CV
-
-## Week 2: Debugging {#week2}
-**Tuesday 3rd October** at 4pm: Depending on when you meet your tutor
-
-* *Either* COMP2TUT: Meet your tutor (if you didn't meet them last weeek) see [digital.cs.manchester.ac.uk/student-groups/](https://digital.cs.manchester.ac.uk/student-groups/)
-* *Either* COMP2CARS: Debug your CV (self assessment) using section \@ref(checklist). Read *Debugging your future* (chapter \@ref(debugging)) and *Hacking your future* (chapter \@ref(hacking))
+## First year pathway 
 
 
+
+## Second year pathway 
+
+For second year students at , the live *Coding your Future* (`COMP2CARS`) workshops sessions are on **Tuesdays at 4pm**. COMP2CARS complements the second year tutorials (`COMP2TUT`) at the University of Manchester and takes place in the same slot as COMP2TUT when you meet your personal tutor. See your timetable at [timetables.manchester.ac.uk](https://timetables.manchester.ac.uk/).
+
+The second year is organised as follows
 
 * Weeks 1 and 2: COMP2TUT, meet with personal tutor
 * Weeks 3 to 6: Seminars in Lecture Theatre A, engineering building 

@@ -146,13 +146,13 @@ It might help to think of first version of your CV as an [alpha or beta version]
 Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
-1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Have you mentioned things you are studying now, not just courses you have finished? See section \@ref(education)
-1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have have around five headings, see section \@ref(body)
+1. **EDUCATION**: Is your year of graduation, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying now, not just courses you have finished? See section \@ref(education)
+1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section \@ref(body)
 1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
-1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen by prominent `verbs`, see chapter \@ref(verbalising)? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
+1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
 1. **STYLE**: Does it look good, see section \@ref(style). Is it easy on the eye with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
-1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklists that follow on from this one in section \@ref(checklist)
+1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklist in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -278,7 +278,7 @@ Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` s
 
 ### Your Projects {#projects}
 
-The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, social, hackathon, work or University projects.
+The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, voluntary, hackathon, freelance or University projects.
 
 ```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
 knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
@@ -291,7 +291,7 @@ Your projects might include activities that you haven't already described in you
 * personal side projects, see section \@ref(tinkering)
 * social responsibility projects, not neccesarily technical, see section \@ref(volunteering)
 * open source projects, see section \@ref(opensource)
-* entrepreneurial projects, your “[side hustles](https://en.wikipedia.org/wiki/Side_job)” (if you have any)
+* freelance and entrepreneurial projects, your “[side hustles](https://en.wikipedia.org/wiki/Side_job)” (if you have any)
 * hackathons, olympiads and other competitive or collaborative events, see section \@ref(tinkering)
 * University projects:
     + these sometimes fit better in your `EDUCATION` section, depending on how many non-Uni projects you have
@@ -811,7 +811,6 @@ knitr::include_graphics("images/Ill-show-you-mine.png")
 (ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do a CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 
-
 Having sought feedback on your CV from a diverse range of sources, you'll need to *triangulate* the responses because they'll probably contradict each other. We'll  look at that in the next section.
 
 ## CV Checklist D: Triangulation {#triangulation}
@@ -833,7 +832,7 @@ triang_table <- tibble::tribble(
   "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that wrote them ", 
   "Academics", "(ref:academentia)",   "May have limited first hand experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
   "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have limited first hand experience of the degree you've studied or the profession you are entering [@samfranklin]", 
-  "Recruiters & managers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
+  "Recruiters & employers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
   "Peers", "Your fellow students know you, your Uni and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment", 
   "You", "(ref:knowthyself)",   "(ref:worstcritic)",)
 knitr::kable(triang_table, caption = "Some of the strengths and weakness of difference sources (angles) of feedback on your CV. You'll need to triangulate between different and probably contradictory opinions but doing so will improve your CV.", booktabs = TRUE)
@@ -862,11 +861,12 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
 ## CV Checklist E: Read, Sleep, Write, Repeat... {#iterate}
-So your next debugging steps should be:
+Here are five suggestions to carry on debugging your CV and Resume:
 
-1. Self-debugging, as described section \@ref(checklist)
+1. Self-debugging, as described in section \@ref(checklist)
 1. Peer-debugging, as described in section \@ref(cvswap)
-1. Triangulation, as described in section \@ref(triangulation)
+1. Show it to your friends, enemies, family, tutors, employers, careers service [bit.ly/CS-pathways](https://bit.ly/CS-pathways) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
+1. Triangulate all their responses, as described in section \@ref(triangulation)
 1. Repeat the above, it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
 
 ```{r iteration-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniteration)"}
@@ -875,7 +875,7 @@ knitr::include_graphics("images/iteration.png")
 
 (ref:captioniteration) It's not an iteration if you only do it once. Your CV is never really finished, you'll need to keep reading, writing, re-reading and re-writing repeatedly after getting feedback from as many sources as possible. Iteration artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
-The fourth step is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is re-writing, see chapter \@ref(writing). 
+The fourth step is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is actually spent *re-writing*, see chapter \@ref(writing). 
 
 [Read, Sleep, Write, Repeat](https://en.wikipedia.org/wiki/Eat,_Sleep,_Rave,_Repeat)... [@eatsleepraverepeat]
 
