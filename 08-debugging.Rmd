@@ -142,7 +142,7 @@ knitr::include_graphics("images/jodi-picoult.jpeg")
 
 It might help to think of first version of your CV as an [alpha or beta version](https://en.wikipedia.org/wiki/Software_release_life_cycle) that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble about Computer Science graduates lacking good written communication skills. Written applications and CV's are a common example of this, so let's look at some common bugs.
 
-## CV Checklist A: Quick Check {#quick}
+## CV Checklist A: Quick Seven Point Check {#quick}
 Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
@@ -228,7 +228,7 @@ knitr::include_graphics("images/alan-turing-linkedin.jpg")
 
 (ref:captioncvheader) Keep the header of your CV simple like Alan's example here. Just your name, email, phone number and any relevant links are all you really need. If you choose to have some kind of public digital profile like [linkedin.com/in/alanturing](https://www.linkedin.com/in/alanturing)^[Yes, somebody has taken that handle!], your header is a good place to link to it, see section \@ref(portfolio). You might also include a timestamp like `last updated 1954-06-07` in the footer. Any additional information risks wasting valuable space and distracting your reader from much more important things you need to tell them. [Less is more](https://en.wikipedia.org/wiki/Less_(Unix)).
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and home address aren't relevant. [@noaddress] You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:
 
 ### Your Body {#body}
 Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used carefully and precisely, especially on a one page résumé. Your ~five sections should cover some or all of the following:
@@ -394,8 +394,9 @@ Again, congratulations, but `third prize` out of how many?
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
 * `MISCELLANEOUS`
-* `EXTRACURRICULAR` 
+* `EXTRACURRICULAR` something like `PROJECTS` might sound more interesting? 
 * `HOBBIES & INTERESTS` see figure \@ref(fig:quidditch-fig) 
+* `ADDITIONAL INFO` Which says: *Dear reader: I'm not really sure what to call this section, you figure out what it is all about*
 * `OTHER ... ` 
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
@@ -464,7 +465,7 @@ Having zoomed in on the details of sections you're likely to have, we'll zoom ba
 
 ### Your Style {#style}
 
-Making your CV look good can take ages, but a well presented CV will stand out. It is worth making an effort to style carefully and consistently. The [typography](https://en.wikipedia.org/wiki/Typography) of your CV matters because it helps conserve your readers attention, a finite resouce that you don't want to waste. A poorly presented CV is the equivalent of turning up to an interview in flip-flops and shorts. [@whytypographymatters]
+Making your CV look good can take ages, but a well presented CV will stand out from a pile of genericaly formatted Word documents. It is worth making an effort to style carefully and consistently. The [typography](https://en.wikipedia.org/wiki/Typography) of your CV matters because it helps conserve your readers attention, a finite resouce that you don't want to waste. A poorly presented CV is the equivalent of turning up to an interview in flip-flops and shorts. First impressions count, you've a few seconds to grab your readers limited precious attention. [@whytypographymatters]
 
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
@@ -533,7 +534,7 @@ The latter is better because it is more specific, captures the result (`accompli
 
 
 ### Your Length {#length}
-How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). It is also advisable to [create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). It is also advisable to [also create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
 
 
 ```{r oneortwopager-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
@@ -596,7 +597,7 @@ Adding web links (hyperlinks) to your CV can add important Context, Action, Resu
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
 knitr::include_graphics("images/lovelace-linkedin.png")
 ```
-(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin;@claimcustomurl] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf, don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed and work when printed on paper too. Neither do you need to waste valuable space telling people what the link is, like in the first example, the domain name already tells you that it is a LinkedIn profile.
+(ref:captionlovelace) Adding links is a good way to augment your CV. If you're adding LinkedIn, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin;@claimcustomurl] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in the pdf and don't [404](https://en.wikipedia.org/wiki/HTTP_404) if they are followed. If you spell the link out explicitly, it will be clearer to the reader *exactly* what you are linking to and those links will still work when printed on paper too. So `linkedin.com/in/alanturing` rather than `My Linked In`.
 
 Links can provide `Context`, (Action), `Result` and `Evidence` (see `C.A.R.E.` in section \@ref(care)) by quantifying and substantiating any claims that you make. Links demonstrate what you've done and which communities you've been a part of. For example, you might says things like:
 
@@ -765,12 +766,12 @@ show me the money!-->
 
 ## CV Checklist B: Self-debugging Known Errors {#checklist}
 
-It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. Following on from the quick checklist in section \@ref(quick), this longer checklist below will help you start to self-debug known errors that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
+It can be difficult to be **both** an *author* AND an *editor* of the same document, and your CV is no exception. Following on from the quick checklist in section \@ref(quick), this longer checklist below will help you start to self-debug [known errors](https://en.wikipedia.org/wiki/Known_error) that you may have overlooked as an author. For the *unknown* errors, you'll need help from someone (or something) else who can play the role of editor, see figure \@ref(fig:unknown-error-fig).
 
 ```{r unknown-error-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionunknownerrors)"}
 knitr::include_graphics("images/unknown-error.png")
 ```
-(ref:captionunknownerrors) Did something go wrong with your CV? Was it an unknown or a known error? This self-debugging checklist below will help you identify *known errors* in your CV. To debug the more challenging *unknown errors*, see section \@ref(cvswap) below. [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) screenshot of *something went wrong* by Revansx on Wikimedia Commons [w.wiki/9hZD](https://w.wiki/9hZD)
+(ref:captionunknownerrors) Did something go wrong with your CV? Was it an unknown or a [known error](https://en.wikipedia.org/wiki/Known_error)? This self-debugging checklist below will help you identify *known errors* in your CV. To debug the more challenging *unknown errors*, see section \@ref(cvswap) below. [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) screenshot of *something went wrong* by Revansx on Wikimedia Commons [w.wiki/9hZD](https://w.wiki/9hZD)
 
 Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer in the power of simple checklists. [@checklist] Use this quick self-assessment checklist to squash known bugs before anyone else sees them.
 
@@ -785,14 +786,14 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(education)
 1. 🔲 Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(structure)
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
-1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(header)?
+1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(body)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `EXPERIENCE`? Have you done the same for your `PROJECTS`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
-1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`
+1. 🔲 Have you expanded the more obscure acronyms or bombarded them with a barrage of TLA's that not all your readers will be familiar with? See [three-letter acronyms](https://en.wikipedia.org/wiki/Three-letter_acronym) 
+1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`,`facilitated` not `fecilitate`  etc? Although some of your projects and experience may be ongoing, mixing tenses doesn't look good. So try to stick to past tense consistently.
 1. 🔲 Is the style consistent, with no random changes of font or formatting half-way through? Are your dates always in the same place or do they force they eyes of your reader to slalom all over the page like a downhill skiier? Have you avoided [ugly underlining](https://practicaltypography.com/underlining.html), see section \@ref(style). Have you avoided [goofy fonts](https://practicaltypography.com/goofy-fonts.html)? [@goofyfonts] 
-1. 🔲 On your two page version, does the page break fall in a sensible place, not halfway through a section? 
-1. 🔲 On your one page version, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space?
+1. 🔲 On your two page CV, does the page break fall in a sensible place, not halfway through a section? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section \@ref(body)
 1. 🔲 How does your CV compare with the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
-1. 🔲 Have you tailored your CV to the job description? While the basic facts won't change much, you could emphasise (or de-emphasise) some `PROJECTS` and `EXPERIENCE` depending on the roles you are applying for, rather than having a generic *one-size-fits-all* CV. 
+1. 🔲 Have you tailored your CV to the job description? While the basic facts about you won't change much, you could emphasise (or de-emphasise) some of your `PROJECTS` and `EXPERIENCE` to fit the roles you are applying for, rather than having a generic *one-size-fits-all* (but actually fits nobody) CV. 
 
 For the next debug step, you'll need some help from a third party.
 
@@ -829,11 +830,11 @@ Different readers of your CV will probably disagree and contradict each other, b
 triang_table <- tibble::tribble(
     ~ "Angle", ~ "Strengths",  ~ "Weaknesses",     
   "Friends & family", "(ref:wartsandall)",   "(ref:notcritical)", 
-  "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that wrote them ", 
+  "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that made them ", 
   "Academics", "(ref:academentia)",   "May have limited first hand experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
   "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have limited first hand experience of the degree you've studied or the profession you are entering [@samfranklin]", 
   "Recruiters & employers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
-  "Peers", "Your fellow students know you, your Uni and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment", 
+  "Peers", "Your fellow students know you, your Uni and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment and employment", 
   "You", "(ref:knowthyself)",   "(ref:worstcritic)",)
 knitr::kable(triang_table, caption = "Some of the strengths and weakness of difference sources (angles) of feedback on your CV. You'll need to triangulate between different and probably contradictory opinions but doing so will improve your CV.", booktabs = TRUE)
 ```
@@ -860,24 +861,24 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
-## CV Checklist E: Read, Sleep, Write, Repeat... {#iterate}
+## CV Checklist E: Write, Sleep, Read, Repeat... {#iterate}
 Here are five suggestions to carry on debugging your two page CV and one page Résumé:
 
 1. Self-debugging, as described in section \@ref(checklist)
-1. Peer-debugging, as described in section \@ref(cvswap)
-1. Show it to your friends, enemies, family, tutors, employers, careers service [bit.ly/CS-pathways](https://bit.ly/CS-pathways) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
-1. Triangulate all their responses, as described in section \@ref(triangulation)
+1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers, as described in section \@ref(cvswap)
+1. Show it to your friends, enemies, family, tutors, employers, careers service (e.g. [bit.ly/CS-pathways](https://bit.ly/CS-pathways)) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
+1. Triangulate all their feedback, as described in section \@ref(triangulation)
 1. Repeat the above, it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
 
 ```{r iteration-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniteration)"}
 knitr::include_graphics("images/iteration.png")
 ```
 
-(ref:captioniteration) It's not an iteration if you only do it once. Your CV is never really finished, you'll need to keep reading, writing, re-reading and re-writing repeatedly after getting feedback from as many sources as possible. Iteration artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
+(ref:captioniteration) It's not an iteration if you only do it once. Your CV is never really finished, you'll need to keep reading, writing, re-reading and re-writing repeatedly after getting feedback from as many different sources as possible. Iteration artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 
 
-The fourth step is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is actually spent *re-writing*, see chapter \@ref(writing). 
+The fourth step (triangulation) is important, so read your CV and re-read it. Write it and re-write it. Get as much feedback as you can. Most of your time writing is actually spent *re-writing*, see chapter \@ref(writing). 
 
-[Read, Sleep, Write, Repeat](https://en.wikipedia.org/wiki/Eat,_Sleep,_Rave,_Repeat)... [@eatsleepraverepeat]
+[Write, Sleep, Read, Repeat](https://en.wikipedia.org/wiki/Eat,_Sleep,_Rave,_Repeat)... [@eatsleepraverepeat]
 
 ## Covering Letters & Personal Statements {#covering-letters}
 Applications and CV's are often accompanied by covering letters or include some kind of personal statement or summary. They are your [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) shown in figure \@ref(fig:elevator-fig). Whereas a lot of your CV is essentially a bulleted list of facts, numbers and evidence, a covering letter or personal statement gives you a chance to *really* demonstrate your fluent written communication skills in clear [prose](https://en.wikipedia.org/wiki/Prose). If you're going to include a `personal statement` or `profile` on your CV keep it short, unlike [Mike Rokernel](https://www.cdyf.me/mike_rokernel.pdf) who waffles on for *ages* (yawn) without actually providing any evidence for his assertions. This kind of information usually fits better in your covering letter anyway, because there isn't much space for it on a CV.
@@ -894,7 +895,7 @@ Let's say you're applying for a widget engineering position at the world famous 
 1. **Why that role?**  Employees of `widget.com` have many different roles and responsibilities but what is it about being a junior `widget engineer` or trainee `widget scientist` (say) that attracts you?
 1. **Why you?** Why should `widget.com` employ you? What skills and experience make you stand out from all the other *wannabe widgeteers*? What are your [Unique Selling Points](https://en.wikipedia.org/wiki/Unique_selling_proposition) (USPs)? Say why *you* would be good for *them* (**not** why widget.com would be good for you and your career).
 
-You can see some examples of answers to these questions at:
+Like your CV, its good to personalise and tailor it. Find the name of a hiring manager, HR person, recruiter or talent director on LinkedIn and address it to them by name rather than the impersonal `Dear Sir/Madam`. You can see some examples of answers to the three questions above at:
 
 * [prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-cover-letter](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-cover-letter)
 * [targetjobs.co.uk/cv-and-cover-letter-templates](https://targetjobs.co.uk/cv-and-cover-letter-templates)
