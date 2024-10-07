@@ -146,13 +146,13 @@ It might help to think of first version of your CV as an [alpha or beta version]
 Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:
 
 <!-- this repeats the checklist at the end and needs moving-->
-1. **EDUCATION**: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying now, not just courses you have finished? See section \@ref(education)
-1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section \@ref(body)
+1. **EDUCATION**: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying now, not just courses you have finished?^[avoid long lists of course modules] See section \@ref(education)
+1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually most recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section \@ref(body)
 1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
-1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
-1. **STYLE**: Does it look good, see section \@ref(style). Is it easy on the eye with a decent layout with appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
+1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Try to avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
+1. **STYLE**: Does it look good, have you used a good template see section \@ref(style). Is it easy on the eye with a decent layout and appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
-1. **SEE ALSO**: This is just a quick checklist to get you started, see the longer CV checklist in section \@ref(checklist)
+1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV checklist in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -664,7 +664,16 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 
 ### Robot Proofing Your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots. Larger employers routinely use automated [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application which sometimes struggle with two column formats (see below). These “résumé robots” (if you like) are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different software systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what their privacy policy says about what they do with your personal data. Résumé robots include:
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots, see figure \@ref(fig:cvalgos-fig). Larger employers routinely use robotic [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application and these are more likely to struggle with two column formats.
+
+```{r cvalgos-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvalgo)"}
+knitr::include_graphics("images/Big-CV-Algorithm.png")
+```
+
+(ref:captioncvalgo) If you're applying to larger employers, your CV will sorted by an algorithm (AI or otherwise) long before a human reads it. So make sure your CV is as robot proof as possible by getting automated feedback from a machine, see suggestions below. Big CV algorithm by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🤖
+
+
+These “résumé robots” are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different software systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what their privacy policy says about what they do with your (very) personal data. Résumé robots include:
 
 * [careerset.com](https://careerset.com): a free service provided by a UK based company, CareerSet Ltd. If you're a University of Manchester student, you can login using your University credentials at [careerset.com/manchester](https://careerset.com/manchester)
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
@@ -687,7 +696,7 @@ knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables, columns or layout which may cause problems for some systems. For example, some Applicant Tracking Systems (ATS) will erroneously ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) reliably to identify columns. [@twocolbad] Some things to check with automated CV screens:
 
 * Have you used standard headings for the sections? Unusual or non-standard section headings like `most proud of` (see Penelope Tester's CV in section \@ref(pen-tester)) maybe ignored or misunderstood
-* Have you used appropriate verbs to describe your actions?
+* Have you used a range of stronger verbs to describe your actions, see chapter \@ref(verbalising)?
 * Is your layout and design robot friendly? Sometimes tables and two column layouts can get horribly mangled, see [what happens to tables and columns in an applicant tracking system](https://www.jobscan.co/blog/resume-tables-columns-ats/) [@jobscan]
 
 ### Spellchecking {#spelling}
