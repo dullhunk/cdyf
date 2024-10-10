@@ -517,7 +517,7 @@ When you're looking for job you're acting as both a buyer *and* a seller.
 
 As a buyer and seller, you should be wary of the following:
 
-* 🤕  Broken recruitment practices: section \@ref(broken)
+* 🤕  Broken recruitment practices: see figure \@ref(fig:broke-ai-vid) and section \@ref(broken)
 * ⏰  Time sink: section \@ref(timesink)
 * 🤣  Over-specified jobs: section \@ref(overspec)
 * 😭  Unpaid internships: section \@ref(unpaid)
@@ -528,6 +528,13 @@ As a buyer and seller, you should be wary of the following:
 * 🐷  Job spammers: section \@ref(spamming)
 * 🤮  Rejection: section \@ref(rejection)
 * 🎢  The rollercoaster: section \@ref(rollercoaster)
+
+```{r broke-ai-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbrokenai)"}
+knitr::include_url('https://www.youtube.com/embed/FrQFFH2V8g0')
+```
+
+(ref:captionbrokenai) Recruitment is broken and the Generative AI arms race isn't helping applicants, especially students. What are employers doing to fix fundamental flaws & biases in their hiring processes? Featuring Jon Turner from Siemens, Robert Newry from Arctic Shores, Jonathan Black from the Careers Service, University of Oxford, Markus Graf from Novartis, Cristina Criddle and Isabel Berwick from the Financial Times. [@armsrace] You can also watch the 8 minute video embedded in this figure at [youtu.be/FrQFFH2V8g0](https://youtu.be/FrQFFH2V8g0). [@brokenai]
+
 
 ### Beware of broken recruitment practices {#broken}
 
@@ -558,6 +565,7 @@ Here is a small sample of complaints about recruitment, both from employers and 
 * “*Your approach to hiring is all wrong*” [@capelli]
 * “*It's time to streamline the hiring process*” [@streamline]
 * “*Why does hiring take so long? Can't they speed things up?*” [@solong]
+* “*Recruitment is broken, what are businesses doing to fix it?*” [@brokenai]
 * “*Hiring is broken. Here’s why... and what it should be like instead*” [@brokenhiring]
 * [google.com/search?q=hiring+is+broken](https://www.google.com/search?q=hiring+is+broken) ... documents a bottomless pit of pain, frustration and suffering! 
 

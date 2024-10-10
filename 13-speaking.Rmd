@@ -146,11 +146,8 @@ All of these activities will help both your general professional development and
 
 <!--see https://github.com/dullhunk/cdyf/issues/206 -->
 
-
-
-
 ### Leetcode {#leetcode}
-LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews, see [leetcode.com](https://leetcode.com). There's *lots* of challenges on leetcode which can make it a daunting place for novices, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-vid).
+LeetCode is a platform to help you enhance your skills, expand your knowledge and prepare for technical interviews, see [leetcode.com](https://leetcode.com) and [leetcode.com/studyplan/leetcode-75](https://leetcode.com/studyplan/leetcode-75/). There's *lots* of challenges on leetcode which can make it a daunting place for novices, thankfully [neetcode.io](https://neetcode.io) has recorded a handy series of videos to help you navigate them all, see figure \@ref(fig:neetcode-vid).
 
 ```{r neetcode-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionneetcode)"}
 knitr::include_url('https://www.youtube.com/embed/8wysIxzqgPI')
