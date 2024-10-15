@@ -143,16 +143,22 @@ knitr::include_graphics("images/jodi-picoult.jpeg")
 It might help to think of first version of your CV as an [alpha or beta version](https://en.wikipedia.org/wiki/Software_release_life_cycle) that you continuously test, release and redeploy. If it was an iPhone, its a [first generation iPhone](https://en.wikipedia.org/wiki/IPhone_(1st_generation)) - with many future iterations to come! There are many chances to debug and improve your CV during your study but before potential employers read it. The aim of this chapter is to help you improve your CV, whatever stage you are at. Employers often grumble about Computer Science graduates lacking good written communication skills. Written applications and CV's are a common example of this, so let's look at some common bugs.
 
 ## CV Checklist A: Quick Seven Point Check {#quick}
-Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:
+Here are seven kinds of bugs to pay attention to on the initial drafts of your CV.
+
+```{r seven-fig, echo = FALSE, fig.show = "hold", out.width = "14%"}
+knitr::include_graphics(rep("images/seven.png", 7))
+```
+
+Are they bugs or are they features? 
 
 <!-- this repeats the checklist at the end and needs moving-->
-1. **EDUCATION**: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying now, not just courses you have finished?^[avoid long lists of course modules] See section \@ref(education)
+1. **EDUCATION**: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying in both semesters of the academic year, not just courses you have finished?^[avoid long lists of course modules] See section \@ref(education)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually most recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section \@ref(body)
-1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? See (`C.A.R.E.`) in section \@ref(care)
-1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Try to avoid long sections of [prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
+1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? How convincing is your evidence, see figure \@ref(fig:black-vid) and (`C.A.R.E.`) in section \@ref(care)
+1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Try to avoid long sections of [flowery prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
 1. **STYLE**: Does it look good, have you used a good template see section \@ref(style). Is it easy on the eye with a decent layout and appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
-1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV checklist in section \@ref(checklist)
+1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV self-debugging checklist in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -243,7 +249,7 @@ Let's look at each of these sections in turn:
 
 ### Your Education, Education, EDUCATION {#education}
 
-Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Your education section is important, see figure \@ref(fig:blair-fig), so your description of it needs to strike a balance between:
+Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Since CV's are usually in reverse chronological order, the logical place to start is what you're doing now. Don't bury your education down the bottom or pretend you're not a student, there's nothing to ashamed of! You should be proud of it because your education is important, see figure \@ref(fig:blair-fig). Having said that, your description of it needs to summarise by striking a good balance between:
 
 * Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to most of your readers
@@ -393,9 +399,11 @@ Again, congratulations, but `third prize` out of how many?
 ### Your Optional Extras: Skills? Hobbies? Misc? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
-* `MISCELLANEOUS`
-* `EXTRACURRICULAR` something like `PROJECTS` might sound more interesting? 
-* `HOBBIES & INTERESTS` see figure \@ref(fig:quidditch-fig) 
+* `MISCELLANEOUS` yawn, if you can't decide what this section is about, how will your reader know
+* `EXTRACURRICULAR` something like `PROJECTS` or `EXPERIENCE` might sound more interesting? 
+* `RELEVANT...` if it wasn't relevant, why would it be on your CV?
+* `HOBBIES` see figure \@ref(fig:quidditch-fig) 
+* `INTERESTS` see figure \@ref(fig:quidditch-fig) 
 * `ADDITIONAL INFO` Which says: *“Dear reader: I'm not really sure what to call this section, you figure out what it is all about because I can't be bothered”*
 * `OTHER ... ` 
 
@@ -488,7 +496,7 @@ knitr::include_graphics("images/underline.jpg")
 
 (ref:captionunderline) Avoid using [underline or underscore](https://en.wikipedia.org/wiki/Underscore) on a CV. It's ugly and makes your text harder to read. Underlining is a dreary typewriter habit... a workaround for shortcomings in typewriter technology. The only exception to this rule is [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink) which are sometimes underlined to distinguish them from ordinary text. [@underlineno] Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) picture of a typewriter by GodeNehler on Wikimedia Commons [w.wiki/Ak6w](https://w.wiki/Ak6w) adapted using the Wikipedia app.  
 
-These *seemingly* trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview in your flip-flops and a t-shirt. Presentation matters.
+These *seemingly* trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview in your flip-flops and a t-shirt. Presentation matters. A [good template can take care of some of this stuff for you](https://latex4year1.netlify.app/cv). [@latex4year1]
 
 ### Porting Your Future {#pdf}
 
@@ -670,13 +678,14 @@ It's a good idea get feedback from as many different sources as you can on your 
 knitr::include_graphics("images/Big-CV-Algorithm.png")
 ```
 
-(ref:captioncvalgo) If you're applying to larger employers, your CV will be sorted by algorithms and AI long before a human gets to read it. Is yours destined for the bin or an actual human making decisions about who to interview? So make sure your CV is as robot proof as possible by getting automated feedback from a machine, see suggestions below. Big CV algorithm by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🤖
+(ref:captioncvalgo) If you're applying to larger employers, your CV will be sorted by algorithms and AI long before a human (in [HR](https://en.wikipedia.org/wiki/Human_resources)) gets to read it. Is yours destined for the bin or an actual human making decisions about who to interview? One way to find out is by getting automated feedback from a machine, see suggestions below. This will ensure your CV is as robot proof as possible. Big CV algorithm by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🤖
 
 
 Algorithmically powered “résumé robots” are unlikely to have arms and legs like the one in figure \@ref(fig:machines-fig), but they *will* be looking for keywords and standard headings in your CV. [@airesume] You can get automated feedback from a range of different software systems, though it is a good idea to remove any personal information like phone numbers and emails before using these free services. You might also want to check what their privacy policy says about what they do with your (very) personal data. Résumé robots include:
 
 * [careerset.com](https://careerset.com): a free service provided by a UK based company, CareerSet Ltd. If you're a University of Manchester student, you can login using your University credentials at [careerset.com/manchester](https://careerset.com/manchester)
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
+* [enhancecv.com](https://enhancv.com): Enhance CV resume builder claims it can help you get hired at top companies
 * [jobscan.co](https://www.jobscan.co): a free service provided by an American company
 * [kickresume.com](https://www.kickresume.com/): AI-powered resume builder also does cover letters
 * [roastmyresu.me](https://roastmyresu.me/) How bad is your resume? Get your resume “roasted” by a slightly jokey but also serious AI. 🔥
@@ -797,10 +806,10 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(body)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `EXPERIENCE`? Have you done the same for your `PROJECTS`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
-1. 🔲 Have you expanded the more obscure acronyms or bombarded them with a barrage of TLA's that not all your readers will be familiar with? See [three-letter acronyms](https://en.wikipedia.org/wiki/Three-letter_acronym) 
+1. 🔲 Have you expanded the more obscure acronyms or bombarded your reader with a barrage of [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym)'s that they are probably not familiar with? 
 1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`,`facilitated` not `fecilitate`  etc? Although some of your projects and experience may be ongoing, mixing tenses doesn't look good. So try to stick to past tense consistently.
 1. 🔲 Is the style consistent, with no random changes of font or formatting half-way through? Are your dates always in the same place or do they force they eyes of your reader to slalom all over the page like a downhill skiier? Have you avoided [ugly underlining](https://practicaltypography.com/underlining.html), see section \@ref(style). Have you avoided [goofy fonts](https://practicaltypography.com/goofy-fonts.html)? [@goofyfonts] 
-1. 🔲 On your two page CV, does the page break fall in a sensible place, not halfway through a section? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section \@ref(body)
+1. 🔲 On your two page CV, does the page break fall in a sensible place or is it awkwardly truncating a section? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section \@ref(body)
 1. 🔲 How does your CV compare with the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
 1. 🔲 Have you tailored your CV to the job description? While the basic facts about you won't change much, you could emphasise (or de-emphasise) some of your `PROJECTS` and `EXPERIENCE` to fit the roles you are applying for, rather than having a generic *one-size-fits-all* (but actually fits nobody) CV. 
 

@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>Chapter 8 Debugging Your Future | Coding Your Future: A Guidebook for Students</title>
-<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 11 October, 2024">
+<meta name="author" content="Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 15 October, 2024">
 <meta name="description" content="It’s all very well designing your future but now you need to actually engineer your future by building something. An obvious place to start is with your CV or résumé, because that’s where most...">
 <meta name="generator" content="bookdown 0.40 with bs4_book()">
 <meta property="og:title" content="Chapter 8 Debugging Your Future | Coding Your Future: A Guidebook for Students">
@@ -302,20 +302,22 @@ Figure 8.5: “<em>If it’s writing time, I write. I may write garbage, but you
 <h2>
 <span class="header-section-number">8.6</span> CV Checklist A: Quick Seven Point Check<a class="anchor" aria-label="anchor" href="#quick"><i class="fas fa-link"></i></a>
 </h2>
-<p>Here are some common bugs (or are they features?) to pay attention to on the initial drafts of your CV:</p>
+<p>Here are seven kinds of bugs to pay attention to on the initial drafts of your CV.</p>
+<p><img src="images/seven.png" width="14%"><img src="images/seven.png" width="14%"><img src="images/seven.png" width="14%"><img src="images/seven.png" width="14%"><img src="images/seven.png" width="14%"><img src="images/seven.png" width="14%"><img src="images/seven.png" width="14%"></p>
+<p>Are they bugs or are they features?</p>
 <!-- this repeats the checklist at the end and needs moving-->
 <ol style="list-style-type: decimal">
 <li>
-<strong>EDUCATION</strong>: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your <code>EDUCATION</code> first? Have you <em>summarised</em> what you are studying now, not just courses you have finished?<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;avoid long lists of course modules&lt;/p&gt;"><sup>16</sup></a> See section <a href="debugging#education">8.7.3</a>
+<strong>EDUCATION</strong>: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your <code>EDUCATION</code> first? Have you <em>summarised</em> what you are studying in both semesters of the academic year, not just courses you have finished?<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;avoid long lists of course modules&lt;/p&gt;"><sup>16</sup></a> See section <a href="debugging#education">8.7.3</a>
 </li>
 <li>
 <strong>STRUCTURE</strong>: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually most recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section <a href="debugging#body">8.7.2</a>
 </li>
 <li>
-<strong>NUMBERS</strong>: Have you <em>quantified</em> the context, action, results and evidence of the short stories on your CV where possible? See (<code>C.A.R.E.</code>) in section <a href="debugging#care">8.7.8</a>
+<strong>NUMBERS</strong>: Have you <em>quantified</em> the context, action, results and evidence of the short stories on your CV where possible? How convincing is your evidence, see figure <a href="debugging#fig:black-vid">8.7</a> and (<code>C.A.R.E.</code>) in section <a href="debugging#care">8.7.8</a>
 </li>
 <li>
-<strong>VERBS FIRST</strong>: Have you talked about what you have actually done using carefully chosen but prominent <code>verbs</code>, see chapter <a href="verbalising#verbalising">10</a>? Try to avoid long sections of <a href="https://en.wikipedia.org/wiki/Prose">prose</a>, see section <a href="debugging#verbsfirst">8.8.5</a>
+<strong>VERBS FIRST</strong>: Have you talked about what you have actually done using carefully chosen but prominent <code>verbs</code>, see chapter <a href="verbalising#verbalising">10</a>? Try to avoid long sections of <a href="https://en.wikipedia.org/wiki/Prose">flowery prose</a>, see section <a href="debugging#verbsfirst">8.8.5</a>
 </li>
 <li>
 <strong>STYLE</strong>: Does it look good, have you used a good template see section <a href="debugging#style">8.8.1</a>. Is it easy on the eye with a decent layout and appropriate use of <a href="https://latex4year1.netlify.app/">LaTeX</a> or Word or whatever? <span class="citation">(<a href="reading#ref-latex4year1">Hull 2024</a>)</span> Are there any spelling mistakes, typos and grammar? Don’t just rely on a spellchecker, some errors will only be <del>spitted</del> spotted by a human reader see section <a href="debugging#spelling">8.8.8</a>
@@ -324,7 +326,7 @@ Figure 8.5: “<em>If it’s writing time, I write. I may write garbage, but you
 <strong>LENGTH</strong>: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section <a href="debugging#length">8.8.4</a>
 </li>
 <li>
-<strong>SEE ALSO</strong>: This is a quick checklist to get you started, see the longer CV checklist in section <a href="debugging#checklist">8.10</a>
+<strong>SEE ALSO</strong>: This is a quick checklist to get you started, see the longer CV self-debugging checklist in section <a href="debugging#checklist">8.10</a>
 </li>
 </ol>
 <!--Google Inside Look: Google students
@@ -417,7 +419,7 @@ Figure 8.9: Keep the header of your CV simple like Alan’s example here. Just y
 <h3>
 <span class="header-section-number">8.7.3</span> Your Education, Education, EDUCATION<a class="anchor" aria-label="anchor" href="#education"><i class="fas fa-link"></i></a>
 </h3>
-<p>Unless you have a <em>significant</em> amount of <code>EXPERIENCE</code>, as a student or graduate the <code>EDUCATION</code> section of your CV should be the first “real” section, after the header. Your education section is important, see figure <a href="debugging#fig:blair-fig">8.10</a>, so your description of it needs to strike a balance between:</p>
+<p>Unless you have a <em>significant</em> amount of <code>EXPERIENCE</code>, as a student or graduate the <code>EDUCATION</code> section of your CV should be the first “real” section, after the header. Since CV’s are usually in reverse chronological order, the logical place to start is what you’re doing now. Don’t bury your education down the bottom or pretend you’re not a student, there’s nothing to ashamed of! You should be proud of it because your education is important, see figure <a href="debugging#fig:blair-fig">8.10</a>. Having said that, your description of it needs to summarise by striking a good balance between:</p>
 <ul>
 <li>Describing in enough detail what you’ve studied and any <code>PROJECTS</code><a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;If you put these in a &lt;code&gt;PROJECTS&lt;/code&gt; section all of their own (see section &lt;a href="debugging#projects"&gt;8.7.5&lt;/a&gt;), make sure you clearly distinguish between extra-curricular projects you’ve done outside of your formal education vs compulsory projects you’ve &lt;em&gt;had&lt;/em&gt; to do as part of your degree&lt;/p&gt;'><sup>20</sup></a> you’ve completed at University as part of your <em>formal</em> education</li>
 <li>Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to most of your readers</li>
@@ -560,11 +562,17 @@ Figure 8.14: Have you won any prizes or trophies? If you have, make sure you des
 </h3>
 <p>If you have anything else you want to highlight besides your <code>Education</code>, <code>Experience</code>, <code>Projects</code>, <code>Leadership and Awards</code> you <em>may</em> still have room for one more optional section. Try to come up with better titles for this section than vague headings like:</p>
 <ul>
-<li><code>MISCELLANEOUS</code></li>
 <li>
-<code>EXTRACURRICULAR</code> something like <code>PROJECTS</code> might sound more interesting?</li>
+<code>MISCELLANEOUS</code> yawn, if you can’t decide what this section is about, how will your reader know</li>
 <li>
-<code>HOBBIES &amp; INTERESTS</code> see figure <a href="debugging#fig:quidditch-fig">8.15</a>
+<code>EXTRACURRICULAR</code> something like <code>PROJECTS</code> or <code>EXPERIENCE</code> might sound more interesting?</li>
+<li>
+<code>RELEVANT...</code> if it wasn’t relevant, why would it be on your CV?</li>
+<li>
+<code>HOBBIES</code> see figure <a href="debugging#fig:quidditch-fig">8.15</a>
+</li>
+<li>
+<code>INTERESTS</code> see figure <a href="debugging#fig:quidditch-fig">8.15</a>
 </li>
 <li>
 <code>ADDITIONAL INFO</code> Which says: <em>“Dear reader: I’m not really sure what to call this section, you figure out what it is all about because I can’t be bothered”</em>
@@ -676,7 +684,7 @@ Figure 8.18: Avoid using <a href="https://en.wikipedia.org/wiki/Underscore">unde
 </p>
 </div>
 
-<p>These <em>seemingly</em> trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview in your flip-flops and a t-shirt. Presentation matters.</p>
+<p>These <em>seemingly</em> trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview in your flip-flops and a t-shirt. Presentation matters. A <a href="https://latex4year1.netlify.app/cv">good template can take care of some of this stuff for you</a>. <span class="citation">(<a href="reading#ref-latex4year1">Hull 2024</a>)</span></p>
 </div>
 <div id="pdf" class="section level3" number="8.8.2">
 <h3>
@@ -855,8 +863,8 @@ Figure 8.22: Adding links is a good way to augment your CV. If you’re adding L
 <p>It’s a good idea get feedback from as many different sources as you can on your CV. By <em>sources</em> I don’t just mean humans, but also robots, see figure <a href="debugging#fig:cvalgos-fig">8.23</a>. Larger employers routinely use robotic <a href="https://en.wikipedia.org/wiki/Applicant_tracking_system">Applicant Tracking Systems</a> (ATS) to log and trace your application and the algorithms used often struggle to identify headings correctly in two column formats.</p>
 <div class="figure" style="text-align: center">
 <span style="display:block;" id="fig:cvalgos-fig"></span>
-<img src="images/Big-CV-Algorithm.png" alt="If you’re applying to larger employers, your CV will be sorted by algorithms and AI long before a human gets to read it. Is yours destined for the bin or an actual human making decisions about who to interview? So make sure your CV is as robot proof as possible by getting automated feedback from a machine, see suggestions below. Big CV algorithm by Visual Thinkery is licensed under CC-BY-ND 🤖" width="100%"><p class="caption">
-Figure 8.23: If you’re applying to larger employers, your CV will be sorted by algorithms and AI long before a human gets to read it. Is yours destined for the bin or an actual human making decisions about who to interview? So make sure your CV is as robot proof as possible by getting automated feedback from a machine, see suggestions below. Big CV algorithm by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a> 🤖
+<img src="images/Big-CV-Algorithm.png" alt="If you’re applying to larger employers, your CV will be sorted by algorithms and AI long before a human (in HR) gets to read it. Is yours destined for the bin or an actual human making decisions about who to interview? One way to find out is by getting automated feedback from a machine, see suggestions below. This will ensure your CV is as robot proof as possible. Big CV algorithm by Visual Thinkery is licensed under CC-BY-ND 🤖" width="100%"><p class="caption">
+Figure 8.23: If you’re applying to larger employers, your CV will be sorted by algorithms and AI long before a human (in <a href="https://en.wikipedia.org/wiki/Human_resources">HR</a>) gets to read it. Is yours destined for the bin or an actual human making decisions about who to interview? One way to find out is by getting automated feedback from a machine, see suggestions below. This will ensure your CV is as robot proof as possible. Big CV algorithm by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a> 🤖
 </p>
 </div>
 
@@ -866,6 +874,8 @@ Figure 8.23: If you’re applying to larger employers, your CV will be sorted by
 <a href="https://careerset.com">careerset.com</a>: a free service provided by a UK based company, CareerSet Ltd. If you’re a University of Manchester student, you can login using your University credentials at <a href="https://careerset.com/manchester">careerset.com/manchester</a>
 <!--* [resume.io](https://resume.io), a free service provided by a Dutch company, Imkey BV not really CV checker-->
 </li>
+<li>
+<a href="https://enhancv.com">enhancecv.com</a>: Enhance CV resume builder claims it can help you get hired at top companies</li>
 <li>
 <a href="https://www.jobscan.co">jobscan.co</a>: a free service provided by an American company</li>
 <li>
@@ -1002,12 +1012,11 @@ Figure 8.25: Did something go wrong with your CV? Was it an unknown or a <a href
 </li>
 <li>🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section <a href="debugging#body">8.7.2</a>?</li>
 <li>🔲 Have you clearly distinguished between paid, unpaid and voluntary <code>EXPERIENCE</code>? Have you done the same for your <code>PROJECTS</code>, see section <a href="debugging#projects">8.7.5</a>? Have you included <em>all</em> of the relevant experience that you can fit on including casual work, see section <a href="experiencing#casual">5.3.9</a>?</li>
-<li>🔲 Have you expanded the more obscure acronyms or bombarded them with a barrage of TLA’s that not all your readers will be familiar with? See <a href="https://en.wikipedia.org/wiki/Three-letter_acronym">three-letter acronyms</a>
-</li>
+<li>🔲 Have you expanded the more obscure acronyms or bombarded your reader with a barrage of <a href="https://en.wikipedia.org/wiki/Three-letter_acronym">TLA</a>’s that they are probably not familiar with?</li>
 <li>🔲 Have you used past tense consistently throughout e.g. <code>developed</code> not <code>develop</code>, <code>collaborated</code> not <code>collaborate</code>,<code>facilitated</code> not <code>fecilitate</code> etc? Although some of your projects and experience may be ongoing, mixing tenses doesn’t look good. So try to stick to past tense consistently.</li>
 <li>🔲 Is the style consistent, with no random changes of font or formatting half-way through? Are your dates always in the same place or do they force they eyes of your reader to slalom all over the page like a downhill skiier? Have you avoided <a href="https://practicaltypography.com/underlining.html">ugly underlining</a>, see section <a href="debugging#style">8.8.1</a>. Have you avoided <a href="https://practicaltypography.com/goofy-fonts.html">goofy fonts</a>? <span class="citation">(<a href="reading#ref-goofyfonts">Butterick 2013a</a>)</span>
 </li>
-<li>🔲 On your two page CV, does the page break fall in a sensible place, not halfway through a section? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section <a href="debugging#body">8.7.2</a>
+<li>🔲 On your two page CV, does the page break fall in a sensible place or is it awkwardly truncating a section? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section <a href="debugging#body">8.7.2</a>
 </li>
 <li>🔲 How does your CV compare with the examples in chapter <a href="hacking#hacking">9</a>. What is stronger or weaker about your CV than the examples given? How could yours be improved?</li>
 <li>🔲 Have you tailored your CV to the job description? While the basic facts about you won’t change much, you could emphasise (or de-emphasise) some of your <code>PROJECTS</code> and <code>EXPERIENCE</code> to fit the roles you are applying for, rather than having a generic <em>one-size-fits-all</em> (but actually fits nobody) CV.</li>
@@ -1320,7 +1329,7 @@ Figure 8.32: Showing your CV to somebody else is one of the best ways to debug i
 <footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
 
   <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 11 October, 2024. </p>
+    <p>"<strong>Coding Your Future: A Guidebook for Students</strong>" was written by Duncan Hull and illustrated by Bryan Mathers. The text of this guidebook is licensed CC-BY-NC-ND see cdyf.me/#license and was last updated on 15 October, 2024. </p>
   </div>
 
   <div class="col-12 col-md-6 mt-3">
