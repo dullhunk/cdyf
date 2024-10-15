@@ -158,7 +158,7 @@ Are they bugs or are they features?
 1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Try to avoid long sections of [flowery prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
 1. **STYLE**: Does it look good, have you used a good template see section \@ref(style). Is it easy on the eye with a decent layout and appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
-1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV self-debugging checklist in section \@ref(checklist)
+1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV self-debugging checklist `B` in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -399,13 +399,11 @@ Again, congratulations, but `third prize` out of how many?
 ### Your Optional Extras: Skills? Hobbies? Misc? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
-* `MISCELLANEOUS` yawn, if you can't decide what this section is about, how will your reader know
+* `MISCELLANEOUS` or `OTHER...` yawn, if you don't really care what this section is about, why will your reader?
 * `EXTRACURRICULAR` something like `PROJECTS` or `EXPERIENCE` might sound more interesting? 
-* `RELEVANT...` if it wasn't relevant, why would it be on your CV?
-* `HOBBIES` see figure \@ref(fig:quidditch-fig) 
-* `INTERESTS` see figure \@ref(fig:quidditch-fig) 
-* `ADDITIONAL INFO` Which says: *“Dear reader: I'm not really sure what to call this section, you figure out what it is all about because I can't be bothered”*
-* `OTHER ... ` 
+* `RELEVANT...` if it wasn't *relevant*, why would it even be on your CV in the first place?
+* `HOBBIES` &  `INTERESTS` see figure \@ref(fig:quidditch-fig) 
+* `ADDITIONAL INFO` reading between the lines: *“Dear reader: I'm not really sure what to call this section, you figure out what it is all about because I can't be bothered”*
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
@@ -415,7 +413,7 @@ knitr::include_graphics("images/Anyone for quidditch.png")
 Vague titles like `MISCELLANEOUS` sound like dumping grounds for your leftovers, added as an afterthought. If they are worth mentioning, they deserve a more interesting title. If you're thinking of having a section dedicated to
 
 * `SKILLS` see section \@ref(care)
-* `PERSONAL STATEMENT` see section \@ref(bullshit)
+* `SUMMARY` or `PERSONAL STATEMENT` might fit better in a covering letter, see sections \@ref(covering-letters) and \@ref(bullshit)
 * `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section, see section \@ref(care)
 
 
@@ -809,9 +807,9 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you expanded the more obscure acronyms or bombarded your reader with a barrage of [TLA](https://en.wikipedia.org/wiki/Three-letter_acronym)'s that they are probably not familiar with? 
 1. 🔲 Have you used past tense consistently throughout e.g. `developed` not `develop`, `collaborated` not `collaborate`,`facilitated` not `fecilitate`  etc? Although some of your projects and experience may be ongoing, mixing tenses doesn't look good. So try to stick to past tense consistently.
 1. 🔲 Is the style consistent, with no random changes of font or formatting half-way through? Are your dates always in the same place or do they force they eyes of your reader to slalom all over the page like a downhill skiier? Have you avoided [ugly underlining](https://practicaltypography.com/underlining.html), see section \@ref(style). Have you avoided [goofy fonts](https://practicaltypography.com/goofy-fonts.html)? [@goofyfonts] 
-1. 🔲 On your two page CV, does the page break fall in a sensible place or is it awkwardly truncating a section? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section \@ref(body)
+1. 🔲 On your two page CV, does the page break fall in a sensible place or is it awkwardly splitting a section in two? On your one page Résumé, have you wasted any space by having one word taking up a whole line? Can you rephrase the sentence so it fits on one line rather than taking up two? Can you merge sections to save valuable space? See section \@ref(body)
 1. 🔲 How does your CV compare with the examples in chapter \@ref(hacking). What is stronger or weaker about your CV than the examples given? How could yours be improved?
-1. 🔲 Have you tailored your CV to the job description? While the basic facts about you won't change much, you could emphasise (or de-emphasise) some of your `PROJECTS` and `EXPERIENCE` to fit the roles you are applying for, rather than having a generic *one-size-fits-all* (but actually fits nobody) CV. 
+1. 🔲 Have you tailored your CV to the job description? While the basic facts about you won't change much, you could emphasise (or de-emphasise) some of your `PROJECTS` and `EXPERIENCE` to fit the roles you are applying for, rather than having a generic *one-size-fits-all* (but might fit nobody) CV. 
 
 For the next debug step, you'll need some help from a third party.
 
