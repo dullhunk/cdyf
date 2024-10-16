@@ -154,7 +154,7 @@ Are they bugs or are they features?
 <!-- this repeats the checklist at the end and needs moving-->
 1. **EDUCATION**: Is your year of graduation, start date, degree program, University and expected (or achieved) degree classification clear? Is it in reverse chronological order with your `EDUCATION` first? Have you *summarised* what you are studying in both semesters of the academic year, not just courses you have finished?^[avoid long lists of course modules] See section \@ref(education)
 1. **STRUCTURE**: Is the structure sensible? Is it in reverse chronological order? Are the most important (usually most recent) things first? Recruiters at Google and TikTok suggest you have around five headings, see section \@ref(body)
-1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? How convincing is your evidence, see figure \@ref(fig:black-vid) and (`C.A.R.E.`) in section \@ref(care)
+1. **NUMBERS**: Have you *quantified* the context, action, results and evidence of the short stories on your CV where possible? How convincing is your evidence? Are your assertions vague & meaningless or are they backed up with convincing details? See figure \@ref(fig:black-vid) and (`C.A.R.E.`) in section \@ref(care)
 1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Try to avoid long sections of [flowery prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
 1. **STYLE**: Does it look good, have you used a good template see section \@ref(style). Is it easy on the eye with a decent layout and appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
@@ -228,13 +228,13 @@ So what's your story, coding glory? [@whatsthestory]
 
 The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in figure \@ref(fig:turinghead-fig) for Alan Turing. That's it!
 
-```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncvheader)"}
-knitr::include_graphics("images/alan-turing-linkedin.jpg")
+```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvheader)"}
+knitr::include_graphics("images/alan-turing-wilmslow.jpg")
 ```
 
-(ref:captioncvheader) Keep the header of your CV simple like Alan's example here. Just your name, email, phone number and any relevant links are all you really need. If you choose to have some kind of public digital profile like [linkedin.com/in/alanturing](https://www.linkedin.com/in/alanturing)^[Yes, somebody has taken that handle!], your header is a good place to link to it, see section \@ref(portfolio). You might also include a timestamp like `last updated 1954-06-07` in the footer. Any additional information risks wasting valuable space and distracting your reader from much more important things you need to tell them. [Less is more](https://en.wikipedia.org/wiki/Less_(Unix)).
+(ref:captioncvheader) Keep the header of your CV simple like Alan's example here. Just your name, email, phone number and any relevant links are all you really need. You could include general location information like `Wilmslow` here but your mailing address isn't usually needed. If you choose to have some kind of public digital profile like [linkedin.com/in/alanturing](https://www.linkedin.com/in/alanturing)^[Yes, somebody has taken that handle!], your header is a good place to link to it, see section \@ref(portfolio). You might also include a timestamp like `last updated 1954-06-07` in the footer. Any additional information risks wasting valuable space and distracting your reader from much more important things you need to tell them. [Less is more](https://en.wikipedia.org/wiki/Less_(Unix)).
 
-Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and full mailing address aren't relevant. [@noaddress] You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:
+Your header doesn't need to include any more information than your name, email, phone and any links. This means your birth date, marital status, gender, photo^[different countries have different conventions when it comes to passport-style photos on a CV. In the UK what you look like should *not* be a factor in an employers decision to interview you, so leave it out] and a full mailing address (like [43 Adlington Road, Wilmslow, SK9 2BJ](https://openplaques.org/plaques/3276)) aren't required. [@noaddress] You don't need to give multiple phone numbers or emails either, just one of each will do. If an employer wants to invite you to an interview, they'll get in touch by email, phone (or possibly LinkedIn, github etc) so other contact details such as your full postal address are an irrelevant distraction at this point. After your header I suggest you have around five sections in the body as follows:
 
 ### Your Body {#body}
 Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used carefully and precisely, especially on a one page résumé. Your ~five sections should cover some or all of the following:
@@ -249,7 +249,7 @@ Let's look at each of these sections in turn:
 
 ### Your Education, Education, EDUCATION {#education}
 
-Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Since CV's are usually in reverse chronological order, the logical place to start is what you're doing now. Don't bury your education down the bottom or pretend you're not a student, there's nothing to ashamed of! You should be proud of it because your education is important, see figure \@ref(fig:blair-fig). Having said that, your description of it needs to summarise by striking a good balance between:
+Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Since CV's are usually in reverse chronological order, the logical place to start is what you're doing now. Don't bury your education down the bottom or pretend you're not a student, there's nothing to ashamed of! You should be proud of your education because its a fundamental part of who you are, see figure \@ref(fig:blair-fig). Having said that, your description of it needs to summarise by striking a good balance between:
 
 * Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to most of your readers
@@ -399,11 +399,11 @@ Again, congratulations, but `third prize` out of how many?
 ### Your Optional Extras: Skills? Hobbies? Misc? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
-* `MISCELLANEOUS` or `OTHER...` yawn, if you don't really care what this section is about, why will your reader?
-* `EXTRACURRICULAR` something like `PROJECTS` or `EXPERIENCE` might sound more interesting? 
-* `RELEVANT...` if it wasn't *relevant*, why would it even be on your CV in the first place?
-* `HOBBIES` &  `INTERESTS` see figure \@ref(fig:quidditch-fig) 
-* `ADDITIONAL INFO` reading between the lines: *“Dear reader: I'm not really sure what to call this section, you figure out what it is all about because I can't be bothered”*
+* `MISCELLANEOUS` or `OTHER...`: Yawn, if you don't really care what this section is about, why will your reader?
+* `EXTRACURRICULAR`: Something like `PROJECTS` or `EXPERIENCE` might sound more interesting? 
+* `RELEVANT...`: If it wasn't *relevant*, why would it even be on your CV in the first place?
+* `HOBBIES` &  `INTERESTS`: See figure \@ref(fig:quidditch-fig) 
+* `ADDITIONAL INFO`: Reading between the lines: *“Dear reader: I'm not really sure what to call this section, you figure out what it is all about because I can't be bothered”*
 
 ```{r quidditch-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionquidditch)"}
 knitr::include_graphics("images/Anyone for quidditch.png")
@@ -412,9 +412,9 @@ knitr::include_graphics("images/Anyone for quidditch.png")
 
 Vague titles like `MISCELLANEOUS` sound like dumping grounds for your leftovers, added as an afterthought. If they are worth mentioning, they deserve a more interesting title. If you're thinking of having a section dedicated to
 
-* `SKILLS` see section \@ref(care)
-* `SUMMARY` or `PERSONAL STATEMENT` might fit better in a covering letter, see sections \@ref(covering-letters) and \@ref(bullshit)
-* `LANGUAGES` might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section, see section \@ref(care)
+* `SKILLS`: Keep it short, see section \@ref(care)
+* `PROFILE`, `SUMMARY` or `PERSONAL STATEMENT`: These often fit better in a covering letter, where you tailor them to the job rather than writing a generic marketing spiel. See sections \@ref(covering-letters) and \@ref(bullshit)
+* `LANGUAGES`: might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section and indicate your level of fluency with the [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) (CEFR), see section \@ref(care)
 
 
 Adding a `HOBBIES AND INTERESTS` section could add a bit more colour and personality to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
