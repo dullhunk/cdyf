@@ -239,9 +239,9 @@ Your header doesn't need to include any more information than your name, email, 
 ### Your Body {#body}
 Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used carefully and precisely, especially on a one page résumé. Your ~five sections should cover some or all of the following:
 
-1. 🎓 `EDUCATION`: the formal stuff, see section \@ref(education)
-1. 💰 `EXPERIENCE`: paid work, see section \@ref(experience)
-1. 💪 `PROJECTS`: personal, school, social, side or University projects see section \@ref(projects)
+1. 🎓 `EDUCATION`: the formal and compulsory stuff you were required to do for your qualifcations, see section \@ref(education)
+1. 💰 `EXPERIENCE`: paid and sometimes voluntary work, see section \@ref(experience)
+1. 💪 `PROJECTS`: extra-curricular, personal, coursework or side projects, see section \@ref(projects)
 1. 🏆 `LEADERSHIP & AWARDS`: your trophy cabinet, see section \@ref(prizes)
 1. ❓ `OPTIONAL`: but don't call it that, see section \@ref(misc)
 
@@ -413,7 +413,7 @@ knitr::include_graphics("images/Anyone for quidditch.png")
 Vague titles like `MISCELLANEOUS` sound like dumping grounds for your leftovers, added as an afterthought. If they are worth mentioning, they deserve a more interesting title. If you're thinking of having a section dedicated to
 
 * `SKILLS`: Keep it short, see section \@ref(care)
-* `PROFILE`, `SUMMARY` or `PERSONAL STATEMENT`: These often fit better in a covering letter, where you tailor them to the job rather than writing a generic marketing spiel. See sections \@ref(covering-letters) and \@ref(bullshit)
+* `PROFILE`, `SUMMARY` or `PERSONAL STATEMENT`: These often fit better in a covering letter, where you tailor them to the job rather than writing a generic one-size-fits-all marketing spiel. See sections \@ref(covering-letters) and \@ref(bullshit)
 * `LANGUAGES`: might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section and indicate your level of fluency with the [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) (CEFR), see section \@ref(care)
 
 
@@ -540,7 +540,7 @@ The latter is better because it is more specific, captures the result (`accompli
 
 
 ### Your Length {#length}
-How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). It is also advisable to [also create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong]
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). Your two pager might serve as a repository of *everything you've ever done*, but it's also advisable to [also create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong] You could tihnk of your one pager as the customised *espresso* version, describing the most important and relevant stuff for that whichever job your aiming it at.
 
 
 ```{r oneortwopager-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
@@ -601,9 +601,9 @@ The latter examples get to the point much quicker and avoid the problem of using
 Adding web links (hyperlinks) to your CV can add important Context, Action, Results and Evidence  (`C.A.R.E.`) to your stories, see \@ref(care). Links can strengthen your CV by clarifying assertions you make without using up lots of valuable space or adding too many words. An example using [LinkedIn.com](https://www.linkedin.com/) is shown in figure \@ref(fig:lovelace-fig).
 
 ```{r lovelace-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionlovelace)"}
-knitr::include_graphics("images/lovelace-linkedin-links.jpg")
+knitr::include_graphics("images/lovelace-red.jpg")
 ```
-(ref:captionlovelace) Adding clickable links is a simple way to provide context and add evidence to the stories on your CV, like [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) has done on her CV here. If you're adding your LinkedIn handle, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin;@claimcustomurl] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in your `ada-lovelace.pdf` and don't [404](https://en.wikipedia.org/wiki/HTTP_404) if anyone clicks on them. If you spell the link out explicitly, it will be clearer to the reader *exactly* what you are linking to and those links will still work when printed on paper too.^[Yes, some dinosaurs still print things out] So a clean and clear `linkedin.com/in/lovelace` is better than a more cryptic `My Linked In` or ugly default `https://www.linkedin.com/in/ada-lovelace-038b37`
+(ref:captionlovelace) Adding clickable hyperlinks is a simple way to provide context and add evidence to some of the stories on your CV, like [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) has done on her CV here. If you're adding your LinkedIn handle, make sure you [customise your default public profile URL](https://www.linkedin.com/help/linkedin/topics/6042/6054/87), (the basic `.../in/handle`) to remove the randomly generated alphanumeric string at the end, like the `038b37` example here. [@customlinkedin;@claimcustomurl] You can also remove any ugly `http`, colons `::`, forward slashes  `//`, `www` and trailing `/` in URLs which are distracting noise. Just make sure links are clickable in your `ada-lovelace.pdf` and don't [404](https://en.wikipedia.org/wiki/HTTP_404) if anyone clicks on them. If you spell the link out explicitly including the domain name, it will be clearer to the reader *exactly* what you are linking to and those links will still work when printed on paper too.^[Yes, some dinosaurs still print things out] So a clean `linkedin.com/in/lovelace` is better than a more cryptic `My Linked In` or an ugly and basic default like `https://www.linkedin.com/in/ada-lovelace-038b37`. 
 
 Links can provide `Context`, `Action`, `Result` and `Evidence` (see `C.A.R.E.` in section \@ref(care)) by quantifying and substantiating any claims that you make. Links demonstrate what you've done and which communities you've been a part of. For example, you might says things like:
 
@@ -881,10 +881,10 @@ So, review the feedback you've got from your peers, academics, friends, family, 
 Here are five suggestions to carry on debugging your two page CV and one page Résumé:
 
 1. Self-debugging, as described in section \@ref(checklist)
-1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, as described in section \@ref(cvswap)
+1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
 1. Show it to your friends, enemies, family, tutors, employers, careers service (e.g. [bit.ly/CS-pathways](https://bit.ly/CS-pathways)) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
 1. Triangulate all their feedback, as described in section \@ref(triangulation)
-1. Repeat the above, it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
+1. Repeat the above because it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
 
 ```{r iteration-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniteration)"}
 knitr::include_graphics("images/iteration.png")
