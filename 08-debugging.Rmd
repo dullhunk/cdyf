@@ -540,7 +540,7 @@ The latter is better because it is more specific, captures the result (`accompli
 
 
 ### Your Length {#length}
-How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). Your two pager might serve as a repository of *everything you've ever done*, but it's also advisable to [also create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong] You could tihnk of your one pager as the customised *espresso* version, describing the most important and relevant stuff for that whichever job your aiming it at.
+How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). Your two pager might serve as a repository of *everything you've ever done*, but it's also advisable to [also create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong;@armtips] You could tihnk of your one pager as the customised *espresso* version, describing the most important and relevant stuff for that whichever job your aiming it at.
 
 
 ```{r oneortwopager-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiononeortwopager)"}
@@ -670,7 +670,7 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 
 ### Robot Proofing Your CV {#robotproof}
 
-It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots, see figure \@ref(fig:cvalgos-fig). Larger employers routinely use robotic [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application and the algorithms used often struggle to identify headings correctly in two column formats.
+It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots and AI, see figure \@ref(fig:cvalgos-fig). Larger employers routinely use robotic [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application and the algorithms used often struggle to identify headings correctly in two column formats.
 
 ```{r cvalgos-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvalgo)"}
 knitr::include_graphics("images/Big-CV-Algorithm.png")
@@ -744,7 +744,7 @@ You might be tempted to put your referees details on your résumé. Don't bother
 * references aren't needed in the early stages of a job application anyway. Employers typically ask for your referees *much* later, when you've been offered or are about to be offered the job
 * references disclose personal information. Do you really want to be giving personal details out to anyone that reads your CV? It could easily be abused or misused.
 
-It's not even worth saying `references available on request` - that just wastes space as well and is implied information on every CV anyway.
+It's not even worth saying ~~**REFERENCES AVAILABLE ON REQUEST**~~ - that just wastes space as well and is implied information on every CV anyway. Empoyers *expect* you to provide them (when they ask) so there's not much point stating the obvious.
 
 <!--
 ## extra-curricular / interests / leadership / awards
@@ -878,12 +878,14 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
 ## CV Checklist E: Write, Sleep, Read, Repeat... {#iterate}
-Here are five suggestions to carry on debugging your two page CV and one page Résumé:
+Here are seven suggestions to carry on debugging your two page CV and one page Résumé:
 
 1. Self-debugging, as described in section \@ref(checklist)
 1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
 1. Show it to your friends, enemies, family, tutors, employers, careers service (e.g. [bit.ly/CS-pathways](https://bit.ly/CS-pathways)) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
 1. Triangulate all their feedback, as described in section \@ref(triangulation)
+1. Identify the holes in your `EXPERIENCE` or `PROJECTS` and think about how you might fill them, section \@ref(areuexperienced)
+1. Audit your `SKILLS`, as described in section \@ref(personality)
 1. Repeat the above because it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
 
 ```{r iteration-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniteration)"}

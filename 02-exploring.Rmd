@@ -50,7 +50,7 @@ Your identity, who you are, is complex, dynamic and high-dimensional so you will
 1. 📕 your story so far, see section \@ref(story)
 1. 🙂 your head, heart and hands, see section \@ref(hhh)
 1. 🤔 your reason for being (ikigai), see section \@ref(no42)
-1. 📊 your personality profile, see section \@ref(personality)
+1. 📊 your personality profile and skills, see section \@ref(personality)
 1. 💰 your privileges, or lack of them, see section \@ref(apriv)
 1. ☠️ your deathbed *thought experiment*, see section \@ref(regrets)
 
@@ -194,9 +194,27 @@ knitr::include_graphics("images/Know who you are.png")
 
 Thinking about your ikigai will clarify your knowledge of yourself.
 
-### Personality Profiling {#personality}
+### Skills & Personality Profiling {#personality}
 
-Personality tests are designed to reveal your key characteristics, see figure \@ref(fig:personality-fig). Besides helping you develop better self-awarness, they are used by some employers during job interviews. Personality tests are often part of a wider set of aptitude and psychometric tests to test measure your ability at numerical reasoning, verbal reasoning, logical reasoning and
+There are lots of tools you can use to build a profile of your skills and personality by answering some simple questions. For example, the University of Manchester provides a skills audit shown in figure \@ref(fig:skillsaudit-fig).
+
+```{r skillsaudit-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionskillsaudit)"}
+knitr::include_graphics("images/skills-audit-graphic.jpg")
+```
+
+(ref:captionskillsaudit) Completing a skills audit will help you develop your self-awareness and better articulate what you have to offer to prospective employers, find out more at [bit.ly/manchester-skills-audit](https://bit.ly/manchester-skills-audit)
+
+However you analyse them, auditing your skills will help you:
+
+1. **Assess** your current skill levels 
+1. **Learn** more about your current profile and identify which skills you need to develop further
+1. **Explore** and discover new ways to develop your skills in the skills pathways
+1. **Prepare** for applications and write skills statements to use in future job and study applications
+1. **Reflect** on your next step, track your activity and progress over time with the careers passport. Discuss your progress with your tutor, peers, academic staff and the careers service
+
+Find out more at [bit.ly/manchester-skills-audit](https://bit.ly/manchester-skills-audit).
+
+Like the skills audit above, personality tests are designed to reveal your key characteristics, see figure \@ref(fig:personality-fig). Besides helping you develop better self-awarness, they are used by some employers during job interviews. Personality tests are often part of a wider set of aptitude and psychometric tests to test measure your ability at numerical reasoning, verbal reasoning, logical reasoning and
 situational judgement.
 
 ```{r personality-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpersonality)"}
@@ -204,8 +222,7 @@ knitr::include_graphics("images/personality-test.jpeg")
 ```
 (ref:captionpersonality) Personality profiling has been around for a long time. Early theories proposed there were [four temperaments](https://en.wikipedia.org/wiki/Four_temperaments): 1. `phlegmatic` 2. `choleric` 3. `sanguine` and 4. `melancholic` shown in this 18th century illustration. Public domain image of a woodcut by [Johann Kaspar Lavater](https://en.wikipedia.org/wiki/Johann_Kaspar_Lavater) via Wikimedia Commons [w.wiki/5xmG](https://w.wiki/5xmG) adapted using the [Wikipedia App](https://apps.apple.com/gb/app/wikipedia/id324715238)
 
-
-If you haven't done a personality test before, the 16 short questions at [icould.com/buzz-quiz](https://icould.com/buzz-quiz) will give you a flavour of what to expect. Which animal are you? There are lots of tools for personality profiling which go into more depth by asking you a lot more than 16 questions. Some of these services are free such as:
+If you haven't done a personality test before, the 16 short questions at [careerpilot.org.uk/information/buzz-quiz](https://www.careerpilot.org.uk/information/buzz-quiz) will give you a flavour of what to expect. Which animal are you? There are lots of tools for personality profiling which go into more depth by asking you a lot more than 16 questions. Some of these services are free such as:
 
 * [16personalities.com](https://www.16personalities.com): similar to [Myers–Briggs Type Indicators](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) (MBTI)
 * [strengthsprofile.com](https://strengthsprofile.com/en-GB/Products/Free)
@@ -220,7 +237,7 @@ Different personality tests try to measure various dimensions of your personalit
 * your openness to new experiences
 * your resilience and mindset
 
-Your University may also pay for subscription-based personality profiling services, check with your careers service for details.
+Your University may also pay for subscription-based personality and skills profiling services, check with your careers service for details.
 
 ### Privilege Audit {#apriv}
 
