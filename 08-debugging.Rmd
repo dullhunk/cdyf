@@ -226,7 +226,7 @@ So what's your story, coding glory? [@whatsthestory]
 
 ### Your Header {#header}
 
-The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in the CV in figure \@ref(fig:turinghead-fig) for Alan Turing. That's it!
+The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in Alan Turing's CV in figure \@ref(fig:turinghead-fig).
 
 ```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvheader)"}
 knitr::include_graphics("images/alan-turing-wilmslow.jpg")
@@ -267,7 +267,7 @@ You've invested a significant amount of time and money in getting your degree. A
 
 You don't need to name every single module, course code with a mark for each. Neither do you need to give your result to FOUR or FIVE significant figures: `71.587%`^[Do you *really* think academic performance can be measured that precisely?]. Two significant figures will do just fine: `72% (first class)`. You might like to pick out relevant modules, or the ones you enjoyed most. Employers like Google encourage applicants to emphasise courses on data structures and algorithms, but you'll need to tailor your description to the role and be brief. On a one page Résumé, you'll probably only have two or three lines to summarise some of the modules you've studied at University. 🎓
 
-You should include details of your high school education, *after* University so that it is in reverse chronological order. Start with last set of exams you sat before University, bearing in mind that *some* employers screen job candidates by UCAS Tariff points. [@ucas;@pwcscraps] How far you go back will depend on how much space you have available, especially on a one pager. It is debateable how far back you should go, exams that you sat aged ~16 (like GCSE's) aren't always relevant now that you're older. [@gcses]
+You should include details of your high school education, *after* University so that it is in reverse chronological order. Start with last set of exams you sat before University, bearing in mind that *some* employers screen job candidates by UCAS Tariff points. [@ucas;@pwcscraps] How far you go back will depend on how much space you have available, especially on a one pager. It is debatable how far back you should go, exams that you sat aged ~16 (like GCSE's) aren't always relevant now that you're older. [@gcses]
 
 ### Your Experience {#experience}  
 Experience is where you can talk about any paid or voluntary work experience you have. For paid work call it `EXPERIENCE` rather than `WORK EXPERIENCE` as the latter can imply work *shadowing*, see section \@ref(areuexperienced). Work shadowing is valuable, but paid work is even better so you should make it clear if your experience was paid or not. Don't discount the value of casual labour, such as working in retail or hospitality, these demonstrate your work ethic and ability to deal with customers, often under pressure. You are more than just a techie too, so anywhere you've worked in a team is experience worth mentioning, even if that team was just two people. Two people is still a team.
@@ -290,7 +290,7 @@ The `PROJECTS` section of your CV is where you can describe all your other activ
 knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
 ```
 
-(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked *“[What I cannot create, I do not understand](https://calisphere.org/item/b3e8d3cb9b8adc01314dba1b1f1fcf84/)”* on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) where he taught [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@feynmanblackboard] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out see [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x). Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3Xoy) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionfeynman) Physicist [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) once chalked *“[What I cannot create, I do not understand](https://calisphere.org/item/b3e8d3cb9b8adc01314dba1b1f1fcf84/)”* on his blackboard at the [California Institute of Technology](https://en.wikipedia.org/wiki/California_Institute_of_Technology) (CalTech) where he taught [The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics). [@feynmanblackboard] Creating software and hardware in personal side projects is a great way to build new understanding *and* help your CV stand out see [github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x). Public domain image of Richard Feyman by The Nobel Foundation on Wikimedia Commons [w.wiki/3Xoy](https://w.wiki/3Xoy) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Your projects might include activities that you haven't already described in your `EDUCATION` or your paid `EXPERIENCE` section such as:
 
@@ -399,9 +399,9 @@ Again, congratulations, but `third prize` out of how many?
 ### Your Optional Extras: Skills? Hobbies? Misc? {#misc}
 If you have anything else you want to highlight besides your `Education`, `Experience`, `Projects`, `Leadership and Awards` you *may* still have room for one more optional section. Try to come up with better titles for this section than vague headings like: 
 
-* `MISCELLANEOUS` or `OTHER...`: Yawn, if you don't really care what this section is about, why will your reader?
+* `MISCELLANEOUS` or `OTHER...`: Yawn, if you don't really care what this section is about, why will your reader? 🥱
 * `EXTRACURRICULAR`: Something like `PROJECTS` or `EXPERIENCE` might sound more interesting? 
-* `RELEVANT...`: If it wasn't *relevant*, why would it even be on your CV in the first place?
+* `RELEVANT...` & `NOTABLE`: If it wasn't *relevant* or **notable**, why would it even be on your CV in the first place?
 * `HOBBIES` &  `INTERESTS`: See figure \@ref(fig:quidditch-fig) 
 * `ADDITIONAL INFO`: Reading between the lines: *“Dear reader: I'm not really sure what to call this section, you figure out what it is all about because I can't be bothered”*
 
@@ -410,16 +410,15 @@ knitr::include_graphics("images/Anyone for quidditch.png")
 ```
 (ref:captionquidditch) It is debatable which, if any, of your hobbies should go on your CV. You might get lucky and your interviewer(s) will share your esoteric passion for [Quidditch](https://en.wikipedia.org/wiki/Quidditch_(real-life_sport)) (say). [@quidditch] However, such coincidences are unlikely so if you *do* list your hobbies and interests, think carefully about *WHY* you are mentioning them and *WHAT* skills, knowledge or experience you are trying to demonstrate to potential employers. [Anyone for Quidditch](https://en.wikipedia.org/wiki/Anyone_for_tennis%3F) sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-Vague titles like `MISCELLANEOUS` sound like dumping grounds for your leftovers, added as an afterthought. If they are worth mentioning, they deserve a more interesting title. If you're thinking of having a section dedicated to
+Vague titles like `MISCELLANEOUS` sound like dumping grounds for your leftovers, added as an afterthought. If they are worth mentioning, they deserve a more interesting title. If you're thinking of having a section dedicated to:
 
 * `SKILLS`: Keep it short, see section \@ref(care)
 * `PROFILE`, `SUMMARY` or `PERSONAL STATEMENT`: These often fit better in a covering letter, where you tailor them to the job rather than writing a generic one-size-fits-all marketing spiel. See sections \@ref(covering-letters) and \@ref(bullshit)
 * `LANGUAGES`: might not deserve their own section, but if you are multilingual, you could potentially fit the natural languages you speak in a `SKILLS` section and indicate your level of fluency with the [Common European Framework of Reference for Languages](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) (CEFR), see section \@ref(care)
 
+Adding a `HOBBIES AND INTERESTS` section could add a bit more colour and personality to what can otherwise be a dry list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
 
-Adding a `HOBBIES AND INTERESTS` section could add a bit more colour and personality to what can otherwise become quite a dull list of facts. However, it is debatable how many (if any) hobbies and interests you should list on your CV. For a one-pager you're usually pushed for space and looking for things to edit *out* (rather than add in), so if you're going to list hobbies, I'd stick to those that are relevant to the job or those that demonstrate particular transferrable or soft skills. Organising or participating in team sports is a good example of a relevant hobby as it provides evidence of your teamwork, commitment, reliability etc, see figure \@ref(fig:quidditch-fig). Other collaborative activities outside of sport will also demonstrate your communication skills. [@hobbies]
-
-The fact that you enjoy `swimming`, `reading`, `football`, `cooking`, `music`, `travel` and `hiking` is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes, they are very common so there's not much point mentioning them on your CV *unless* you give more detail, for example:
+The fact that you enjoy `swimming`, `reading`, `football`, `cooking`, `music`, `travel` and `hiking` is vague and pretty boring, making it unlikely to be a factor in the decision to invite you to interview. There's nothing *wrong* with these pastimes, but they are very common so there's not much point mentioning them on your CV *unless* you give more detail, for example:
 
 * coached a swimming team
 * trained as a mountain leader
@@ -668,7 +667,7 @@ knitr::kable(linkedin_table, caption = "Comparison of LinkedIn with conventional
 (ref:lengthcell) Limited length, typically one or two pages (for a graduate), see section \@ref(length)
 
 
-### Robot Proofing Your CV {#robotproof}
+### AI & Robot Proofing Your CV {#robotproof}
 
 It's a good idea get feedback from as many different sources as you can on your CV. By *sources* I don't just mean humans, but also robots and AI, see figure \@ref(fig:cvalgos-fig). Larger employers routinely use robotic [Applicant Tracking Systems](https://en.wikipedia.org/wiki/Applicant_tracking_system) (ATS) to log and trace your application and the algorithms used often struggle to identify headings correctly in two column formats.
 
@@ -698,7 +697,7 @@ Lots more tools like this can be found at:
 knitr::include_graphics("images/The-inevitable-rise-of-the-machines-1280x720.png")
 ```
 
-(ref:captionmachines) Just like the [daleks](https://en.wikipedia.org/wiki/Dalek) in [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who), résumé robots often struggle to get up the stairs. [@doctorwho] Although they typically don't have arms, legs (or even wheels) various kinds of robots are likely to play an important role in decisions made about if you are worth interviewing, especially if you're applying to bigger organisations. Make sure your CV is résumé robot friendly by getting feedback from a robot. [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🤖
+(ref:captionmachines) Just like the [daleks](https://en.wikipedia.org/wiki/Dalek) in [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who), résumé robots often struggle to get up the stairs. [@doctorwho] Although they typically don't have arms, legs (or even wheels) various kinds of robots and AI are likely to play an important role in decisions made about if you are worth interviewing, especially if you're applying to bigger organisations. Make sure your CV is AI & résumé robot friendly by getting feedback from a robot. [Machines](https://bryanmmathers.com/machines/) by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🤖
 
 Besides providing feedback on the content of your CV, using these systems can help address issues such as the use of tables, columns or layout which may cause problems for some systems. For example, some Applicant Tracking Systems (ATS) will erroneously ignore the second column of a two-column CV because they can't parse the [PostScript](https://en.wikipedia.org/wiki/PostScript) reliably to identify columns. [@twocolbad] Some things to check with automated CV screens:
 
@@ -832,7 +831,7 @@ Having sought feedback on your CV from a diverse range of sources, you'll need t
 
 ## CV Checklist D: Triangulation {#triangulation}
 
-You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” all the different feedback on your CV, a bit like the trigonometry shown in figure \@ref(fig:triangulation-fig).
+You should seek a wide variety of feedback on your CV from as many people as you are comfortable showing it too, this will help you “triangulate” all the different feedback, a bit like the trigonometry shown in figure \@ref(fig:triangulation-fig).
 
 ```{r triangulation-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontriangulation)"}
 knitr::include_graphics("images/triangulation.jpg")
@@ -840,17 +839,17 @@ knitr::include_graphics("images/triangulation.jpg")
 
 (ref:captiontriangulation) Getting feedback on your CV from known points at different angles, shown as $α$ and $β$ here, will help you [triangulate](https://en.wikipedia.org/wiki/Triangulation) people's suggestions for improvements. Each angle and has its own limitations described in table \@ref(tab:triangtable), but their combination will help you calibrate. Public domain image of mountain height by triangulation by Régis Lachaume on Wikimedia Commons [w.wiki/9fmd](https://w.wiki/9fmd) and adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238) 📐
 
-Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Despite what people might tell you, nobody has all the answers, including me! Some of the pros and cons of different angles of feedback are shown in table \@ref(tab:triangtable)
+Different readers of your CV will probably disagree and contradict each other, but you will be able to [triangulate](https://en.wikipedia.org/wiki/Triangulation) their feedback and draw your own conclusions. As a start, I'd suggest a *minimum* of three different sources. Despite what people might tell you, nobody has all the answers, including me! Some of the pros and cons of different viewpoints are shown in table \@ref(tab:triangtable)
 
 ```{r triangtable, echo = FALSE}
 triang_table <- tibble::tribble(
-    ~ "Angle", ~ "Strengths",  ~ "Weaknesses",     
+    ~ "Viewpoint", ~ "Strengths",  ~ "Weaknesses",     
   "Friends & family", "(ref:wartsandall)",   "(ref:notcritical)", 
   "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that made them ", 
   "Academics", "(ref:academentia)",   "May have limited first hand experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
   "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have limited first hand experience of the degree you've studied or the profession you are entering [@samfranklin]", 
   "Recruiters & employers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
-  "Peers", "Your fellow students know you, your Uni and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment and employment", 
+  "Peers", "Your fellow students know you, your University and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment and employment", 
   "You", "(ref:knowthyself)",   "(ref:worstcritic)",)
 knitr::kable(triang_table, caption = "Some of the strengths and weakness of difference sources (angles) of feedback on your CV. You'll need to triangulate between different and probably contradictory opinions but doing so will improve your CV.", booktabs = TRUE)
 ```
@@ -882,10 +881,10 @@ Here are seven suggestions to carry on debugging your two page CV and one page R
 
 1. Self-debugging, as described in section \@ref(checklist)
 1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
-1. Show it to your friends, enemies, family, tutors, employers, careers service (e.g. [bit.ly/CS-pathways](https://bit.ly/CS-pathways)) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
+1. Show it to your friends, enemies, family, tutors, employers, careers service [bit.ly/CS-pathways](https://bit.ly/CS-pathways) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
 1. Triangulate all their feedback, as described in section \@ref(triangulation)
-1. Identify the holes in your `EXPERIENCE` or `PROJECTS` and think about how you might fill them, section \@ref(areuexperienced)
-1. Audit your `SKILLS`, as described in section \@ref(personality)
+1. Identify any gaps in your `EXPERIENCE` or `PROJECTS` and think about how you might start the fill them in the future, section \@ref(areuexperienced)
+1. Audit your `SKILLS` to improve your self-awareness of what you're good at and where you need to improve in the future, as described in section \@ref(personality)
 1. Repeat the above because it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
 
 ```{r iteration-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioniteration)"}
