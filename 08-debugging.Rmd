@@ -239,8 +239,8 @@ Your header doesn't need to include any more information than your name, email, 
 ### Your Body {#body}
 Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) suggest you have just five sections in the body of your CV. Headings use lots of space so should be used carefully and precisely, especially on a one page résumé. Your ~five sections should cover some or all of the following:
 
-1. 🎓 `EDUCATION`: the formal and compulsory stuff you were required to do for your qualifcations, see section \@ref(education)
-1. 💰 `EXPERIENCE`: paid and sometimes voluntary work, see section \@ref(experience)
+1. 🎓 `EDUCATION`: the formal and compulsory stuff you were required to do for to achieve your qualifcations, see section \@ref(education)
+1. 💰 `EXPERIENCE`: paid and voluntary work, see section \@ref(experience)
 1. 💪 `PROJECTS`: extra-curricular, personal, coursework or side projects, see section \@ref(projects)
 1. 🏆 `LEADERSHIP & AWARDS`: your trophy cabinet, see section \@ref(prizes)
 1. ❓ `OPTIONAL`: but don't call it that, see section \@ref(misc)
@@ -251,7 +251,7 @@ Let's look at each of these sections in turn:
 
 Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first “real” section, after the header. Since CV's are usually in reverse chronological order, the logical place to start is what you're doing now. Don't bury your education down the bottom or try to hide the fact that you're a student, there's nothing to ashamed of and there's no point pretending to be something you're not. You should be proud of your education because its a fundamental part of who you are, see figure \@ref(fig:blair-fig). Having said that, your description needs to *summarise* by striking a good balance between:
 
-* Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* education
+* Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* (compulsory) education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to most of your readers
 
 ```{r blair-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionblair)"}
@@ -653,7 +653,7 @@ So, LinkedIn can be a useful tool for job hunting but it's a different beast to 
 
 ```{r linkedintable, echo = FALSE}
 linkedin_table <- tibble::tribble(
-    ~ "LinkedIn"                        , ~ "CV or résumé",     
+    ~ "LinkedIn"                        , ~ "CV or Résumé",     
   "Dynamic document that you can constantly update"    , "Static document, providing a snapshot that can't be updated once you've  sent it",       
   "Generally speaking, no length limit"     , "(ref:lengthcell)",
   "Public or semi-public document, more like social media"    , "Private document, should only be seen by those employers you send it to (anti-social media if you like)",      
@@ -883,7 +883,7 @@ Here are seven suggestions to carry on debugging your two page CV and one page R
 1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
 1. Show it to your friends, enemies, family, tutors, employers, careers service [bit.ly/CS-pathways](https://bit.ly/CS-pathways) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
 1. Triangulate all their feedback, as described in section \@ref(triangulation)
-1. Identify any gaps in your `EXPERIENCE` or `PROJECTS` and think about how you might start the fill them in the future, section \@ref(areuexperienced)
+1. Identify any gaps in your `EXPERIENCE` or `PROJECTS` and think about how you might start to fill them in the future, section \@ref(areuexperienced)
 1. Audit your `SKILLS` to improve your self-awareness of what you're good at and where you need to improve in the future, as described in section \@ref(personality)
 1. Repeat the above because it's not an iteration if you only do it once, see figure \@ref(fig:iteration-fig)
 
@@ -915,7 +915,6 @@ Let's say you're applying for a widget engineering position at the world famous 
 Like your CV, its good to personalise and tailor it. Find the name of a hiring manager, HR person, recruiter or talent director on LinkedIn and address it to them by name rather than the impersonal `Dear Sir/Madam`. You can see some examples of answers to the three questions above at:
 
 * [prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-cover-letter](https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters/sample-cover-letter)
-* [targetjobs.co.uk/cv-and-cover-letter-templates](https://targetjobs.co.uk/cv-and-cover-letter-templates)
 *  [www.careers.manchester.ac.uk/applicationsinterviews/cl](https://www.careers.manchester.ac.uk/applicationsinterviews/cl/)
 
 
@@ -927,7 +926,7 @@ Even if *nobody* reads your covering letter, it is still worth writing one becau
 You can think of your covering letter as writing and rehearsing some of the lines of your elevator pitch shown in figure \@ref(fig:elevator-fig).
 
 ### Embedding a Personal Statement {#bullshit}
-You might be tempted to embed a short summary or `personal statement` section at the top of your CV after your header. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from the (fictional) **Sir Don Malaka** [FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) who is the Banterian Professor of Rhetoric at the University of Oxford:
+You might be tempted to embed a short `summary` or `personal statement` section at the top of your CV after your header. If you're thinking about doing this, keep it short or just leave it out altogether. Why? Here's an example of how *not* to do it from the (fictional) **Sir Don Malaka** [FRS](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society) who is the Banterian Professor of Rhetoric at the University of Oxford:
 
 ::: {.rmdnote}
 
