@@ -107,13 +107,13 @@ The zine has the benefit of being aimed at engineers just like you. Thoroughly r
 As you develop new skills and knowledge at work, it is a good idea to collect evidence of what you've done. Whatever your career path, you'll need to keep your CV updated. One way to think of the evidence is as *badges*, digital or otherwise. Your employer may already have training schemes that recognise and reward your accomplishments.  These badges may be generic or specific to the particular sector you are working in. See chapter \@ref(achieving) on *Achieving your future* for more details.
 
 ### Technical badges {#techie}
-Some examples of technical badges include:
+Some examples of technical badges are show in figure \@ref(fig:cloud-badges2-fig).
 
-* Microsoft Certifications [docs.microsoft.com/en-us/learn/certifications](https://docs.microsoft.com/en-us/learn/certifications/)
-* Amazon Web Services Certification [aws.amazon.com/certification](https://aws.amazon.com/certification/)
-* Google Cloud Certification [cloud.google.com/certification](https://cloud.google.com/certification)
+```{r cloud-badges2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncloudbadge)"}
+knitr::include_graphics("images/cloud-badges.png")
+```
 
-Just three examples, there are many others covering both technical and non-technical skills. In many cases, your employer will encourage and possibly pay for you to get these certifications.
+There are many kinds of technical badge available besides the three shown in figure \@ref(fig:cloud-badges2-fig). In some cases, your employer might encourage or pay for you to study and get technical certifications.
 
 ### Non-technical badges {#techieplusplus}
 You are more than just a techie, so make sure you develop your non-technical skills as well. We introduced softer skills in chapter \@ref(writing), but there's plenty of other skills to think about:
@@ -135,7 +135,7 @@ There are many platforms for building your skills and knowledge during and after
 1. [etonx.com](https://etonx.com) like the [famous college](https://en.wikipedia.org/wiki/Eton_College) it comes from, EtonX courses are not cheap but there's some good stuff here that's aimed at young people like you
 1. [futurelearn.com](https://www.futurelearn.com)
 1. [khanacademy.org](https://www.khanacademy.org)
-1. [linkedin.com/learning](https://www.linkedin.com/learning)
+1. `linkedin.com/learning` see [bit.ly/linkedin-learning-manchester](https://bit.ly/linkedin-learning-manchester)
 1. [open.edu/openlearn](https://www.open.edu/openlearn)
 1. [pluralsight.com](https://www.pluralsight.com)
 1. [skillshare.com](https://www.skillshare.com)
