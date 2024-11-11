@@ -158,7 +158,7 @@ Are they bugs or are they features?
 1. **VERBS FIRST**: Have you talked about what you have actually done using  carefully chosen but prominent `verbs`, see chapter \@ref(verbalising)? Try to avoid long sections of [flowery prose](https://en.wikipedia.org/wiki/Prose), see section \@ref(verbsfirst)
 1. **STYLE**: Does it look good, have you used a good template see section \@ref(style). Is it easy on the eye with a decent layout and appropriate use of [LaTeX](https://latex4year1.netlify.app/) or Word or whatever? [@latex4year1] Are there any spelling mistakes, typos and grammar? Don't just rely on a spellchecker, some errors will only be ~~spitted~~ spotted by a human reader see section \@ref(spelling)
 1. **LENGTH**: Does it fit comfortably on (ideally) one page (for a Résumé) or two pages (for a CV)? See section \@ref(length)
-1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV self-debugging checklist `B` in section \@ref(checklist)
+1. **SEE ALSO**: This is a quick checklist to get you started, see the longer CV self-debugging checklist (B) in section \@ref(checklist)
 
 <!--Google Inside Look: Google students
 iframe width="560" height="315" src="https://www.youtube.com/embed/dA3NX-Tpe4E" frameborder="0" allowfullscreen></iframe-->
@@ -878,13 +878,13 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
 ## CV Checklist (E): Write, Sleep, Read, Repeat... {#iterate}
-Self assessing and peer assessing your CV empowers you to be more independent from your teachers, careers advisors and potential employers for feedback. Don't rely on feedback from just one person, like the fledgling in the nest waiting for its parent to return with a juicy worm, shown in figure \@ref(fig:fledgling-fig). Learn to self assess, while giving and receiving feedback from your peers. That means both your CV and theirs too.
+Self assessing and peer assessing your CV empowers you to be more independent from your teachers, careers advisors and potential employers for feedback. Don't rely on feedback from just one person, like the fledgling in the nest waiting for its parent to return with a juicy worm, shown in figure \@ref(fig:fledgling-fig). Learn to self assess, while giving and receiving feedback from your peers. That means both *your* CV and *theirs* too.
 
 ```{r fledgling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfledgling)"}
 knitr::include_graphics("images/Passive.png")
 ```
 
-(ref:captionfledgling) Believing that feedback is only comments you receive from a teacher, employer or careers advisor disempowers you. Self assessing and peer assessing CVs empowers you to improve independently of feedback from a single source. Image drawn by Katrina Swanton at [swantonsketches.co.uk](https://www.swantonsketches.co.uk/) and designed by [Jennifer Rose](https://research.manchester.ac.uk/en/persons/jennifer.rose) via the ITL conference [@itl2024]
+(ref:captionfledgling) The mistaken belief that the most important feedback is comments you are fed from a teacher, employer or careers advisor disempowers you. Self assessing and peer assessing CVs empowers you to improve independently of feedback from a single authority figure, the parent bird in the picture. Learn to feed yourself with feedback from peer and self assessment of your CV. Image drawn by Katrina Swanton at [swantonsketches.co.uk](https://www.swantonsketches.co.uk/) and designed by [Jennifer Rose](https://research.manchester.ac.uk/en/persons/jennifer.rose) via the ITL conference [@itl2024]
 
 Here are seven suggestions to carry on assessing and debugging your two page CV and one page Résumé:
 
