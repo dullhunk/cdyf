@@ -284,7 +284,7 @@ Are you experienced? Whatever it is, make sure you add it to your `EXPERIENCE` s
 
 ### Your Projects {#projects}
 
-The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, voluntary, hackathon, freelance, professional or University projects.
+The `PROJECTS` section of your CV is where you can describe all your other activities, including any personal, voluntary, hackathon, freelance, professional or coursework projects.
 
 ```{r feynman-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfeynman)"}
 knitr::include_graphics("images/what-I-cannot-create-I-do-not-understand.jpeg")
@@ -470,7 +470,7 @@ Having zoomed in on the details of sections you're likely to have, we'll zoom ba
 
 ### Your Style {#style}
 
-Making your CV look good can take ages, but a well presented CV will stand out from a pile of genericaly formatted Word documents. It is worth making an effort to style carefully and consistently. The [typography](https://en.wikipedia.org/wiki/Typography) of your CV matters because it helps conserve your readers attention, a finite resouce that you don't want to waste. A poorly presented CV is the equivalent of turning up to an interview in flip-flops and shorts. First impressions count, you've a few seconds to grab your readers limited precious attention. [@whytypographymatters]
+Making your CV look good can take ages, but a well presented CV will stand out from a pile of genericaly formatted Word documents. It is worth making an effort to style carefully and consistently. The [typography](https://en.wikipedia.org/wiki/Typography) of your CV matters because it helps conserve your readers attention, a finite resouce that you don't want to waste. A poorly presented CV is the equivalent of turning up to an interview in a swim suit and flip flops. First impressions count, you've a few seconds to grab your readers limited precious attention. [@whytypographymatters]
 
 ```{r cvwork-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionworkcv)"}
 knitr::include_graphics("images/CV need a little work.png")
@@ -493,7 +493,7 @@ knitr::include_graphics("images/underline.jpg")
 
 (ref:captionunderline) Avoid using [underline or underscore](https://en.wikipedia.org/wiki/Underscore) on a CV. It's ugly and makes your text harder to read. Underlining is a dreary typewriter habit... a workaround for shortcomings in typewriter technology. The only exception to this rule is [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink) which are sometimes underlined to distinguish them from ordinary text. [@underlineno] Creative Commons [BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) picture of a typewriter by GodeNehler on Wikimedia Commons [w.wiki/Ak6w](https://w.wiki/Ak6w) adapted using the Wikipedia app.  
 
-These *seemingly* trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview in your flip-flops and a t-shirt. Presentation matters. A [good template can take care of some of this stuff for you](https://latex4year1.netlify.app/cv). [@latex4year1]
+These *seemingly* trivial typographical details like fonts and formatting all add up to make your CV look more professional. Neglect these details at your peril. Having a poorly formatted CV is like turning up to a job interview a swimsuit. Presentation matters. You'll want more of a business suit than a swim suit and a [good template can take care of some of this stuff for you](https://latex4year1.netlify.app/cv). [@latex4year1]
 
 ### Porting Your Future {#pdf}
 
@@ -814,11 +814,7 @@ For the next debug step, you'll need some help from a third party.
 
 ## CV Checklist C: Peer-Debugging Unknown Errors {#cvswap}
 
-Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV and fixed the known errors, swap it with somebody you trust and check each others work. This [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) is a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles in your pair. Playing both roles will help you write a better CV. Giving and receiving feedback will help you start debugging the trickier unknown errors: 
-
-1. 🔲 Have you got a second opinion from a “résumé robot”? How robot proof is it? See section \@ref(robotproof) 🤖
-1. 🔲 Have you reviewed other people's CV's by doing a CV swap? Reading lots of CVs will give you a stronger sense of what works and what doesn't. This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
-1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
+Now that you've [self-assessed](https://en.wikipedia.org/wiki/Self-assessment) your CV and fixed the known errors, swap it with somebody you trust and check each others work, see figure \@ref(fig:cvswap-fig).
 
 ```{r cvswap-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvswap)"}
 knitr::include_graphics("images/Ill-show-you-mine.png")
@@ -826,6 +822,11 @@ knitr::include_graphics("images/Ill-show-you-mine.png")
 
 (ref:captioncvswap) It can be a bit embarassing showing your CV to other people, it is a *very* personal document after all. If you feel like it isn't finished yet remember that *everyones* CV is a work in progress. If you can find somebody you trust to do a CV swap with, you'll both benefit from debugging each others CVs. The more people that can give you feedback on how to improve it, the better. *I'll show you mine if you show me yours* sketch by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
+Swapping your CV is a form of [peer assessment](https://en.wikipedia.org/wiki/Peer_assessment) and a two-way process to help you [pair program](https://en.wikipedia.org/wiki/Pair_programming) your CV. Make sure you're both a giver and receiver of feedback, by playing both *driver* and *navigator* roles in your pair. Playing both roles will help you write a better CV. Giving and receiving feedback will help you start debugging the trickier unknown errors: 
+
+1. 🔲 Have you got a second opinion from a “résumé robot”? How robot proof is it? See section \@ref(robotproof) 🤖
+1. 🔲 Have you reviewed other people's CV's by doing a CV swap and critically reading those in chapter \@ref(hacking)? Reading lots of CVs will give you a stronger sense of what works and what doesn't. This will put you in the shoes of an employer or recruiter, thereby helping you to write a better CV yourself, see figure \@ref(fig:cvswap-fig).
+1. 🔲 Has your CV been reviewed by other people? Do a CV swap with a critical friend (see figure \@ref(fig:wonderfuldarling-fig)) and score each others CV's using [this rubric](https://www.cdyf.me/CV-rubric.pdf). This is a bit like [pair programming](https://en.wikipedia.org/wiki/Pair_programming). According to [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law) “given enough eyeballs all bugs are shallow” [@Raymond1999] so the more people who give you feedback the better
 
 Having sought feedback on your CV from a diverse range of sources, you'll need to *triangulate* the responses because they'll probably contradict each other. We'll  look at that in the next section.
 
@@ -877,7 +878,15 @@ knitr::include_graphics("images/honest-frank-feedback.png")
 So, review the feedback you've got from your peers, academics, friends, family, recruiters, robots and the staff in your University careers service. They all have strengths and weaknesses, each with their own flaws, biases and prejudices. With all those different viewpoints from different angles, you should be able to find the point that you judge to be best for you. 
 
 ## CV Checklist E: Write, Sleep, Read, Repeat... {#iterate}
-Here are seven suggestions to carry on debugging your two page CV and one page Résumé:
+Self assessing and peer assessing your CV empowers you to be independent on other people for feedback, such as your teachers, careers advisors and potential employers. Don't rely on feedback from just one person, like the fledgling in the nest waiting for its parent to return with a juicy worm, shown in figure \@ref(fig:fledgling-fig). Learn to self-assess, while giving and receiving feedback from your peers.
+
+```{r fledgling-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfledgling)"}
+knitr::include_graphics("images/Passive.png")
+```
+
+(ref:captionfledgling) Believing that feedback is only comments you receive from a teacher, employer or careers advisor disempowers you. Self assessing and peer assessing CVs empowers you to be independent on feedback from a single source. Image drawn by [Swanton Sketches](https://www.swantonsketches.co.uk/) and designed by [Jennifer Rose](https://research.manchester.ac.uk/en/persons/jennifer.rose) via the ITL conference [@itl2024]
+
+Here are seven suggestions to carry on assessing and debugging your two page CV and one page Résumé:
 
 1. Self-debugging, as described in section \@ref(checklist)
 1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
