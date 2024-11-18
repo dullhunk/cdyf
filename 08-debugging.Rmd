@@ -247,9 +247,9 @@ Technical recruiters at Google and TikTok (see figure \@ref(fig:lopez-vid)) sugg
 
 Let's look at each of these sections in turn:  
 
-### Your Education First {#education}
+### Your Education Goes First {#education}
 
-Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first titled section, after the header. Since CV's are usually in reverse chronological order, the logical place to start is what you're doing now. Don't bury your education down the bottom or try to hide the fact that you're a student, there's nothing to ashamed of and there's no point pretending to be something you're not. You should be proud of your education because its a fundamental part of who you are, see figure \@ref(fig:blair-fig). Having said that, your description needs to *summarise* by striking a good balance between:
+Unless you have a *significant* amount of `EXPERIENCE`, as a student or graduate the `EDUCATION` section of your CV should be the first titled section, after the header. Since CV's are usually in reverse chronological order, the logical place to start is what you're doing now. Don't bury your education down the bottom or try to hide the fact that you're a student, there's nothing to ashamed of and it will be counterproductive to pretend you're not currently studying. You should be proud of your education because its a fundamental part of who you are, see figure \@ref(fig:blair-fig). Having said that, your description needs to *summarise* by striking a good balance between:
 
 * Describing in enough detail what you've studied and any `PROJECTS`^[If you put these in a `PROJECTS` section all of their own (see section \@ref(projects)), make sure you clearly distinguish between extra-curricular projects you've done outside of your formal education vs compulsory projects you've *had* to do as part of your degree] you've completed at University as part of your *formal* (compulsory) education
 * Keeping it short and sweet by avoiding getting bogged down in tedious and irrelevant educational details that will be of little interest to most of your readers
@@ -848,8 +848,8 @@ triang_table <- tibble::tribble(
   "Friends & family", "(ref:wartsandall)",   "(ref:notcritical)", 
   "Robots", "(ref:twentyfourseven)",   "Only as good as the data they have been trained on, the algorithms they use and the biases of the engineers that made them ", 
   "Academics", "(ref:academentia)",   "May have limited first hand experience of employment outside academia, might be used to reading and writing much longer academic CVs, e.g. ten pages instead of one or two [@academiccv]", 
-  "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have limited first hand experience of the degree you've studied or the profession you are entering [@samfranklin]", 
-  "Recruiters & employers", "Used to reading lots of CVs, hiring people and managing staff",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
+  "Careers service staff", "Typically lots of experience reading student & graduate CVs",   "May have a limited understanding of the degree you've studied or any first hand experience of the profession you are entering [@samfranklin]", 
+  "Recruiters, HR & employers", "Will have read lots of CVs, conducted interviews, hired and fired personnel, managed staff etc",   "Might not know you that well personally, may be biased towards a particular sector or employer", 
   "Peers", "Your fellow students know you, your University and course pretty well",   "Probably never had to hire or manage anyone (yet), so limited knowledge of recruitment and employment", 
   "You", "(ref:knowthyself)",   "(ref:worstcritic)",)
 knitr::kable(triang_table, caption = "Some of the strengths and weakness of difference sources (angles) of feedback on your CV. You'll need to triangulate between different and probably contradictory opinions but doing so will improve your CV.", booktabs = TRUE)
@@ -889,7 +889,7 @@ knitr::include_graphics("images/Passive.png")
 Here are seven suggestions to carry on assessing and debugging your two page CV and one page Résumé:
 
 1. Self-debugging, as described in section \@ref(checklist)
-1. Peer-debugging, PASS on your knowledge of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
+1. Peer-debugging, PASS on what you have learned about of the art of writing a CV to your peers. Learn from their successes & failures, to develop a better sense of what works (and what doesn't) as described in section \@ref(cvswap)
 1. Show it to your friends, enemies, family, tutors, employers, careers service [bit.ly/CS-pathways](https://bit.ly/CS-pathways) & bots such as [careerset.com/manchester](https://careerset.com/manchester)
 1. Triangulate all their feedback, as described in section \@ref(triangulation)
 1. Identify any gaps in your `EXPERIENCE` or `PROJECTS` and think about how you might start to fill them in the future, section \@ref(areuexperienced)
