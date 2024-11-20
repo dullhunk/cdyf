@@ -61,13 +61,23 @@ knitr::include_graphics("images/margaret-hamilton.jpeg")
 
 Software engineers (or software developers if you prefer) are one of the most popular roles for graduates (see e.g. figure \@ref(fig:nurses-fig)) but there are plenty of affiliated roles that computer scientists can choose besides software engineering, here's a quick summary of some of them:
 
-While software and hardware engineering are popular roles taken by computer scientists, they are not the only roles that graduates and undergraduates of Computer Science go into. What are the other options beyond the default setting of software engineer?
+While engineering are popular roles taken by computer scientists, they are not the only roles that graduates and undergraduates of Computer Science go into. What are the other options beyond the default setting of software engineer?
 
 <!-- needs design engineer to cover hardware engineering / chip design-->
 
-* 🃏 Anything you want! It's true that you can be *anything you want to be* by playing your computational joker described in section \@ref(joker). However, being anything you want to be doesn't help narrow down your options. So let's look at some specific examples...
+* 🃏 Anything you want! It's true that you can be *anything you want to be* by playing your computational joker described in section \@ref(joker). You can be Member of Parliament (MP) if you want, see figure \ref(fig:kemi-fig). 
+
+```{r kemi-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkemi)"}
+knitr::include_graphics("images/kemi.jpeg")
+```
+
+(ref:captionkemi) [Kemi Badenoch](https://en.wikipedia.org/wiki/Kemi_Badenoch) MP is leader of the opposition. She was awarded a Master of Engineering (MEng) degree in Computer Systems Engineering from the University of Sussex in 2003. [@badenochmp] She's not the only computer scientist serving in the UK parliament either. [Mark Hendrick](https://en.wikipedia.org/wiki/Mark_Hendrick), MP for Preston was awarded a Master of Science (MSc) degree in Computer Science from the University of Manchester, in 1985. [@hendrickmp] [Andrew Cooper](https://en.wikipedia.org/wiki/Andrew_Cooper_(Labour_politician)), MP for mid-cheshire was awarded a Bachelor of Science (BSc) degree in Computer Science from the University of Manchester in 2005. All three are existence proofs that you can do *anything* you want with a degree in Computer Science and that some of the options aren't the most obvious ones. Official open licensed portrait of Kemi Badenoch MP by Roger Harris via Wikimedia Commons  Wikimedia Commons [w.wiki/ByrN](https://w.wiki/ByrN) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) 🗳
+
+However, while knowing that becoming *anything you want* is an option might be reassuring, it might not help you decide what your next step will be. So let's look at some specific examples of first steps you could take and their subsequent destinations...
+
+
 * 🧪 Data scientist: somebody who finds valuable insights in all the data. Sometimes called data engineering, see figure \@ref(fig:datasci-fig) and [prospects.ac.uk/job-profiles/data-scientist](https://www.prospects.ac.uk/job-profiles/data-scientist)
-* 🤖 Machine learning engineer: somebody who trains all the machines, see [prospects.ac.uk/job-profiles/machine-learning-engineer](https://www.prospects.ac.uk/job-profiles/machine-learning-engineer)
+* 🤖 Machine learning engineer: somebody who trains all the machines, see [MLOps](https://en.wikipedia.org/wiki/MLOps) and [prospects.ac.uk/job-profiles/machine-learning-engineer](https://www.prospects.ac.uk/job-profiles/machine-learning-engineer)
 * 📆 [Project manager](https://en.wikipedia.org/wiki/Project_manager), [product manager](https://en.wikipedia.org/wiki/Product_manager) and engineering manager: somebody who leads and organises all the engineers, liaising with customers and management. They may define and enable what a product does, what a project delivers or what a team delivers, see [prospects.ac.uk/job-profiles/project-manager](https://www.prospects.ac.uk/job-profiles/project-manager) and [prospects.ac.uk/job-profiles/product-manager](https://www.prospects.ac.uk/job-profiles/product-manager)
 * 📊 [Business analyst](https://en.wikipedia.org/wiki/Business_analyst): somebody who analyses all the business, see [prospects.ac.uk/job-profiles/business-analyst](https://www.prospects.ac.uk/job-profiles/business-analyst)
 * 💰Technical sales: somebody who talks to all the customers and clients, see [prospects.ac.uk/job-profiles/technical-sales-engineer](https://www.prospects.ac.uk/job-profiles/technical-sales-engineer)
@@ -150,7 +160,6 @@ knitr::include_graphics("images/Get-Freelancing-Banner.jpg")
 ```
 
 (ref:captiongetfreelancing) Freelance work can help you build a portfolio of projects. Picture reused from the Masood Entrepreneurship Centre (MEC). [@getfreelancing]
-
 
 There is lots of work available on a freelance and contract basis. The sites below could help you bid for work available as a self-employed contractor and freelancer
 
