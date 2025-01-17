@@ -62,7 +62,7 @@ The name *Computer Science* is a bit of a misnomer because Computer Science isn'
 * ...a science. Anything that calls itself a science probably isn't. [@notascience]
 * ...about computers, see figure \@ref(fig:dijkstra-fig).
 
-Computer Science isn't a [natural science](https://en.wikipedia.org/wiki/Natural_science) like the ones you'll be familiar with. According to [Peter Denning](https://en.wikipedia.org/wiki/Peter_J._Denning), Computer science meets every criterion for being a science, but it has a self-inflicted credibility problem. [@denning] In practice, Computer Science turns out to be blend of science, engineering and art^[perhaps *craft* might be a better word?], see figure \@ref(fig:ometer-fig).
+Computer Science isn't a [natural science](https://en.wikipedia.org/wiki/Natural_science) like Physics, Chemistry or Biology. According to [Peter Denning](https://en.wikipedia.org/wiki/Peter_J._Denning), Computer science meets every criterion for being a science, but it has a self-inflicted credibility problem. [@denning] In practice, Computer Science turns out to be blend of science, engineering and art^[perhaps *craft* might be a better word?], see figure \@ref(fig:ometer-fig).
 
 ```{r dijkstra-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondijkstra)"}
 knitr::include_graphics("images/not-about-computers.jpeg")
@@ -88,6 +88,16 @@ Unfortunately, many people lack the digital skills required to take advantage of
 * [Computing is too important to be left to men](https://www.bcs.org/articles-opinion-and-research/computings-too-important-to-be-left-to-men/) [@sparckjones]
 
 Whatever subject you are currently studying, adding some computing to your education will empower you with the computational thinking skills you need to be an active producer, not just a passive consumer in modern society. Computing can open up new opportunities for you and improve your social mobility.
+
+## Software is enshittifying your future {#enshittification}
+
+Although software giveth, it also taketh away. Like any technology, computing can be used for good and bad purposes. So I'm not just encouraging you to take computing more seriously because it can be used for beneficial purposes. As well as eating your future, software is also enshittifying your future as shown in figure \@ref(fig:enshittification-fig). [@enshittification] You've probably already experienced the enshittification of software you have used, here's how it works in three steps.
+
+1. Software is good to its users
+1. Software abuses its users to make things better for their business customers. e.g. serving more ads or charging you for "premium" features which used to be free
+1. Sofware abuses its business customers to get back value for their parent organisation, for example through profiteering or price gouging after monopolising a sector 
+
+According to Doctorow, this three step process helps to explain why software platforms decay over time. 
 
 ```{r enshittification-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionenshittification)"}
 knitr::include_graphics("images/cory-doctorow.jpg")
@@ -193,8 +203,8 @@ knitr::include_graphics("images/wikijoker.jpeg")
 
 The flexibility of computing as a career means you have a broad range of options on where you can apply your computational skills. So how can you play your computational joker? Here's some suggestions for playing your cards:
 
-1. 🃏 Look beyond the obvious *employers*: some of the best opportunities are outside of [big tech](https://en.wikipedia.org/wiki/Big_Tech) companies or other big blue-chip brands
-1. 🃏 Look beyond your *discipline*: some of the best opportunities are interdisciplinary, mixing computing with other cards (hearts, diamonds, clubs and spades ♣♥♠♦) - see research software engineering in section \@ref(rse) or [digital humanities](https://en.wikipedia.org/wiki/Digital_humanities) for examples from academia; there's plenty of equivalents in industry too.
+1. 🃏 Look beyond the obvious *employers*: some of the best opportunities for you might be outside of [big tech](https://en.wikipedia.org/wiki/Big_Tech) companies or other big blue-chip brands
+1. 🃏 Look beyond your *discipline*: some of the best opportunities for you might be interdisciplinary, mixing computing with other cards (hearts, diamonds, clubs and spades ♣♥♠♦) - see research software engineering in section \@ref(rse) or [digital humanities](https://en.wikipedia.org/wiki/Digital_humanities) for examples from academia; there's plenty of equivalents in industry too.
 1. 🃏 Look beyond obvious the *roles* and *skills* such as software engineering. Being open-minded and flexible will avoid restricting yourself to a premature [pigeonhole](https://dictionary.cambridge.org/dictionary/english/pigeonhole) as a “one-of-these” or a “one-of-those”. As [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) put it, your life isn't a one act play, see figure \@ref(fig:one-act-fig). [@golumberjacks] You're likely to play multiple roles in your career, some of which we've outlined in section \@ref(otheroles)
 
 Three simple suggestions for playing your computational joker. As [Lemmy](https://en.wikipedia.org/wiki/Lemmy) put it, *“I don't need your greed, the only card I need is the Ace of Spades, the Ace of Spades ... and don't forget the joker”*! See figure \@ref(fig:lemmy-fig) [@theaceofspades]
@@ -202,10 +212,10 @@ Three simple suggestions for playing your computational joker. As [Lemmy](https:
 ```{r lemmy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionlemmy)"}
 knitr::include_graphics("images/wikilemmy.jpg")
 ```
-(ref:captionlemmy) Although not a student of Computer Science, Lemmy frequently played his joker as the founder, singer, songwriter and bass guitarist in [Motörhead](https://en.wikipedia.org/wiki/Mot%C3%B6rhead). [@theaceofspades] Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) licensed portrait of Lemmy performing in Edmonton, Canada in 2005 by Mark Marek on Wikimedia Commons [w.wiki/CDZ9](https://w.wiki/CDZ9) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238). 🎸
+(ref:captionlemmy) [Lemmy](https://en.wikipedia.org/wiki/Lemmy) was not a student of Computer Science but he frequently played his joker as the founder, singer, songwriter and bass guitarist in the heavy metal band [Motörhead](https://en.wikipedia.org/wiki/Mot%C3%B6rhead). [@theaceofspades] Creative Commons [BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en) licensed portrait of Lemmy performing in Edmonton, Canada in 2005 by Mark Marek on Wikimedia Commons [w.wiki/CDZ9](https://w.wiki/CDZ9) adapted using the [Wikipedia app](https://apps.apple.com/gb/app/wikipedia/id324715238). 🎸
 
 
-You don't *have* to be studying Computer Science or playing in Motorhead to play your joker. You don't*have* to be studying Computer Science as a major or minor part of your degree to take advantage of opportunities described in this chapter, but it helps.
+You don't *have* to be studying Computer Science or part of a [röck döts](https://en.wikipedia.org/wiki/Metal_umlaut) band to play your joker.  You don't*have* to be studying Computer Science as a major (or minor) part of your degree to take advantage of opportunities described in this chapter, but it helps.
 
 <!-- needs breakpoints-->
 
