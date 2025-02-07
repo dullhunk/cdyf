@@ -27,7 +27,7 @@ By the end of this chapter you will be able to
 
 
 ## Beware of the Black Hole {#blackhole}  
-Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). Gayle is an experienced software engineer who has worked at some of the [biggest technology employers in the world](https://en.wikipedia.org/wiki/Big_Tech): Apple, Microsoft and Google. She has also authored a cracking series of books on technology careers, particularly *[Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)* [@cracking] which we'll discuss in chapter \@ref(speaking). Gayle refers to the employer “black hole” described in figure \@ref(fig:gayle-fig).
+Before we get started, let's consider some advice from software engineer [Gayle Laakmann McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell). Gayle is an experienced software engineer who has worked at some of the [biggest technology companies in the world](https://en.wikipedia.org/wiki/Big_Tech): Apple, Microsoft and Google. She has also authored a cracking series of books on technology careers, particularly (Beyond) *[Cracking the Coding Interview](https://en.wikipedia.org/wiki/Cracking_the_Coding_Interview)* [@beyondctci;@cracking] which we'll discuss in chapter \@ref(speaking). Gayle refers to the employer “black hole” described in figure \@ref(fig:gayle-fig).
 
 ```{r gayle-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongayle)"}
 knitr::include_graphics("images/gayle-black-hole.jpeg")
@@ -226,7 +226,7 @@ So what's your story, coding glory? [@whatsthestory]
 
 ### Your Header {#header}
 
-The first thing in your CV is the header, a simple section giving your name, email, phone number and any links shown in Alan Turing's CV in figure \@ref(fig:turinghead-fig).
+The first thing in your CV is the header, a simple section giving your name, email, phone number and any links, as shown in Alan Turing's CV in figure \@ref(fig:turinghead-fig).
 
 ```{r turinghead-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncvheader)"}
 knitr::include_graphics("images/alan-turing-wilmslow.jpg")
