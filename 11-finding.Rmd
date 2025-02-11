@@ -342,70 +342,15 @@ The marketplace for job searching and job hunting advice is *incredibly* overcro
 1. 🎰 Speculation, approaching employers to find out about un-advertised vacancies, see section \@ref(speculative)
 1. 🕵️ Recruiters, get a recruiter to help you, see section \@ref(recruiters)
 
-### Graduates and undergraduates of your University {#careerconnect}
+### Your University {#careerconnect}
 
-Your University will have its own jobs board advertising vacancies targeted at graduates and undergraduates of the place where you study. At the University of Manchester, that's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk). 
-
-
-```{r soebanner-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsoebanner)"}
-knitr::include_graphics("images/soe-banner.jpg")
-```
-(ref:captionsoebanner) The School of Engineering at the University of Manchester.
-
-A selection of summer internships in the School of Engineering from career connect is shown below, closing date **23rd February 2025**. Career Connect login required, check the eligibility criteria:
-
-1. [How Conflicts Harm Future Resilience](https://bit.ly/SOE8QYMO)
-1. [Developing Aerospace Engineering Databases from Sparse Data](https://bit.ly/SOEKX492)
-1. [Developing Practical Tutorials for the MSc Unit in AI Security and Privacy](https://bit.ly/SOEWNYZL)
-1. [Assessing the impacts of climate change on sport in Greater Manchester](https://bit.ly/SOEWNYKJ)
-1. [Developing a Future-Ready E-Portfolio Platform for Higher Education Students](https://bit.ly/SOE6VQEJ)
-1. [Exploring Magnetisation Dynamics using Scientific Software](https://bit.ly/SOELXVLY)
-1. [Designing AI-Enhanced Assessment Rubrics for Chemical Engineering Education](https://bit.ly/SOEGO4Q6)
-1. [Path Planning for Multi Modal Vehicle](https://bit.ly/SOEGO433)
-1. [Developing material to support the development of a new MSc course unit - Data Engineering Concepts](https://bit.ly/SOE8QYEY)
-1. [Development of a Visuo-Haptic Recognition System to Enhance Robotic Perception](https://bit.ly/SOE4JY3M)
-1. [Supporting The Move to RISC-V Teaching in Computer Science](https://bit.ly/SOE4JL8G)
-1. [Software Development - Machine Learning for Biological Data Processing](https://bit.ly/SOEGO4N6)
-1. [Designing Sustainability-Themed Outreach Activities for Teachers and Public Engagement](https://bit.ly/SOE9VY86)
-1. [Explainable AI vs Turbulence - Symbolic Machine Learning for the Turbulence Impact at Gas-Liquid Interface](https://bit.ly/SOEWNYAL)
-1. [Development of a Digital Twin for Practical Teaching](https://bit.ly/SOE4JYGM)
-1. [Investigation of Conditions at a Site Suitable for Tidal Energy Extraction](https://bit.ly/SOEWNYNL)
-1. [Development of a Digital Tool That Can Be Used in Engineering Project Management ](https://bit.ly/SOE8QY2Y)
-1. [Advancing EDI in The School of Engineering: A Data-Driven Approach to Bridging the Gender Gap](https://bit.ly/SOE6VQVJ)
-1. [Domain Adaptation in Generative Modelling for AI for Science](https://bit.ly/SOE9VYG6)
-1. [Development of Interactive Aerospace Engines Exhibit for the Nancy Rothwell Building](https://bit.ly/SOEZXWXB)
-1. [Planetary Exploration Rover](https://bit.ly/SOEM8V83)
-1. [Clinical Text Data Generation with Large Language Models](https://bit.ly/SOEKX4X6)
-1. [Developing Teaching and Learning Resources to Support MSc Management of Projects Programmes](https://bit.ly/SOE9VYV6)
-1. [Physics-Based Machine Learning Assisted Optimisation of Pressure Swing Adsorption for Carbon Capture](https://bit.ly/SOELXVEY)
-1. [Development of a Generative AI solution to cost modelling](https://bit.ly/SOEGO466)
-1. [Inverse Design of Photonic Devices](https://bit.ly/SOEZXWJB)
-1. [Extending and Improving a Processor simulator for Teaching Computer Architecture](https://bit.ly/SOE8QYOY)
-1. [Modelling of Drag for Very Low Earth Orbit Satellites](https://bit.ly/SOEGO4D4)
-1. [UAV Image Processing for Aerial Surveys and Object Detection](https://bit.ly/SOELXV6E)
-1. [AI Mentors in Action: Developing Custom GPTs for Enhanced University Learning and Support](https://bit.ly/SOE8QYKO)
-1. [Computer Cyber Security Scripted Lab](https://bit.ly/SOEKXBGD)
-1. [Data Curation Driven by Modern AI Techniques](https://bit.ly/SOE8QGV8)
-1. [Exploring Semantical Distance for Generating Adversarial Examples Though a Probabilistic Perspective](https://bit.ly/SOEBNO82)
-1. [Feasibility of Residential Electric Vehicle Charging Station Using Solar Energy](https://bit.ly/SOEKXBED)
-1. [Innovate or Standardize?](https://bit.ly/SOE6VZB3)
-1. [Development Resources for COMP67202](https://bit.ly/SOELXV8G)
-1. [Developing custom instrumentation to measure electrical resistance](https://bit.ly/SOEGO4MZ)
-1. [Sustainable Agriculture in Africa - Android App for Control of Multispectral Sensor](https://bit.ly/SOEM8VDN)
-1. [Developing Learning Resources for the new Text Mining postgraduate unit](https://bit.ly/SOEGO4VZ)
-1. [Vision and Language-guided Real-time Emotional Text Generation for Human-Robot Interaction](4JY2Z)
-1. [Enzymatic N-N bond formation for biosynthetic drug synthesis by nonheme iron oxygenases - REF: SoE/25/8QYAO](https://bit.ly/SOE8QYAO)
-1. [GPU optimisation of a numerical method for magnetohydrodynamic flow simulations](https://bit.ly/SOEBN4E4)
-1. [TornadoVM Support for Software Development Kit Managers](https://bit.ly/SOE6VQA7)
-1. [Ongoing Development of COMP16321 & COMP23111 Interactive Lab Platforms](https://bit.ly/SOEBN4B4)
-1. [Machine Learning for Irrigation Mapping in Data-Sparse Regions](https://bit.ly/SOE4JYAZ)
-1. [Domain-Specific LLM for Spintronics: Specialized AI for Advanced Materials Research](https://bit.ly/SOE6VZL8)
+Your University will have its own jobs board advertising vacancies targeted at graduates and undergraduates of the place where you study. At the University of Manchester, that's [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk), see examples in chapter \@ref(vacancies)
 
 Besides the summer internships above, you can also find year long placements and graduate jobs on [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk).
 
-### Graduates and undergraduates of any University {#studentjobs}
+### Any University {#studentjobs}
 
-The following resources are aim at any undergraduate students and graduates looking for jobs in Europe and beyond:
+The following resources are aimed at students and graduates of _any_ University looking for jobs in Europe and beyond:
 
 ```{r gradcracker-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongradcracker)"}
 knitr::include_graphics("images/gradcracker.jpg")
@@ -433,7 +378,7 @@ knitr::include_graphics("images/gradcracker.jpg")
 * [Year in Industry](https://www.etrust.org.uk/yini-vacancies) if you're looking for a year in industry
 * Your University: University jobs boards are good places to look for opportunities that are specifically targeted at students of the University where you are studying, for example:
     + The *Wednesday Waggle* is a weekly jobs newsletter for University of Manchester students looking for jobs in computing, see figure \@ref(fig:waggle-fig) and [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/)  🐝
-    +  for any degree discipline in Manchester see [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html) (UoM login required)
+    +  for any degree discipline in Manchester see [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/user/jobs.html) (login required)
 
 
 ```{r waggle-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionwaggle)"}
