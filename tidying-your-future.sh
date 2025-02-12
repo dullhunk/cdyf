@@ -125,7 +125,7 @@ echo "replaced asma.html "
 find . -name "*.html" -exec sed -I '' 's/eman.html/eman/g' {} +
 echo "replaced eman.html "
 
-find . -name "*.html" -exec sed -I '' 's/vacancies.html/reading/g' {} +
+find . -name "*.html" -exec sed -I '' 's/vacancies.html/vacancies/g' {} +
 echo "replaced vacancies.html "
 
 find . -name "*.html" -exec sed -I '' 's/reading.html/reading/g' {} +
