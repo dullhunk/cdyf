@@ -12,7 +12,6 @@ description: "Your future is bright, your future needs coding. Welcome to coding
 url: 'https\://www.cdyf.me/'
 github-repo: dullhunk/cdyf
 cover-image: "images/Coding-your-Future-CDYF.png"
-twitter-handle: dullhunk
 # added via R4DS
 knit: "bookdown::render_book"
 #always-allow-html: yes
@@ -388,7 +387,7 @@ Thanks to Niall Beard and [Sharif Salah](https://github.com/sharifsalah) at Goog
 So, thanks employers for employing our students. 🙏
 
 ### Thank you colleagues {#colleagues}
-I've also had significant support from colleagues in the Department of Computer Science  ([\@csmcr](https://twitter.com/csmcr)), and many other parts of the University: (engineering, natural sciences, social sciences, biology, medicine and health etc) and support staff at the University of Manchester. ([\@UoMCareers](https://twitter.com/UoMCareers), [\@alumniUoM](https://twitter.com/alumniUoM), [\@OfficialUoM](https://twitter.com/OfficialUoM))
+I've also had significant support from colleagues in the Department of Computer Science , and many other parts of the University: (engineering, natural sciences, social sciences, biology, medicine and health etc) and support staff at the University of Manchester: Careers service and Alumni office.
 
 Thank you [Carole Goble](https://en.wikipedia.org/wiki/Carole_Goble) for building the community that supported me through postgraduate study. Thanks for creating the environment which this book was written in, especially the [e-Science lab](https://esciencelab.org.uk/), Information Management Group (IMG), Software Sustainability Institute ([software.ac.uk](https://software.ac.uk/)) and their spin-offs. Thanks for patiently re-teaching me how to write better by covering early drafts of my Masters thesis in red ink and less patiently (on subsequent revisions) swear words. 🤬
 
@@ -473,7 +472,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 
 * Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which is an inspiration to me and many others. [@cs50;  @cs50zoom; @CS502021] Thanks to [Cristian Bodnar](https://www.cdyf.me/cristian) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017 which was a great introduction to David's work [@cs50mcr]
 * Thanks to [Santiago Perez De Rosso](https://github.com/spderosso) for some great examples of badly written documentation in section \@ref(communicating). [@sigman07; @youtube-git]
-* Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos) ([\@lauriesantos](https://twitter.com/lauriesantos)), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a big influence on this book had a gradual but significant effect on my personal and professional life. I've tried to distill some of the ideas into chapter \@ref(nurturing) on *Nurturing your future*
+* Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a big influence on this book had a gradual but significant effect on my personal and professional life. I've tried to distill some of the ideas into chapter \@ref(nurturing) on *Nurturing your future*
 * Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)), [Mine Çetinkaya-Rundel](https://en.wikipedia.org/wiki/Mine_%C3%87etinkaya-Rundel) ([\@mine-cetinkaya-rundel](https://github.com/mine-cetinkaya-rundel)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds; @r4ds2] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from the first edition of the book [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to [David Walker](https://en.wikipedia.org/wiki/David_A._Walker_(scientist)) for his book *Energy, Plants & Man* which inspired the conversations and pictures idea behind this book. [@epm]
 * Thanks to [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)) for your entertaining guest lectures for COMP101, see also figure \@ref(fig:cliff-vid)
@@ -565,7 +564,7 @@ Thanks to all the schools who interviewed me for my [Newly Qualified Teacher](ht
 * [Oasis Academy, Brislington](https://en.wikipedia.org/wiki/Oasis_Academy_Brislington), Bristol
 * [Redland Green School](https://en.wikipedia.org/wiki/Redland_Green_School), Redland, Bristol
 * [The John of Gaunt School](https://en.wikipedia.org/wiki/The_John_of_Gaunt_School), Trowbridge, Wiltshire
-* [Rachael Warwick](https://twitter.com/rachaelwarwick7) at [Didcot Girls' School](https://en.wikipedia.org/wiki/Didcot_Girls%27_School), Didcot, Oxfordshire
+* Rachael Warwick at [Didcot Girls' School](https://en.wikipedia.org/wiki/Didcot_Girls%27_School), Didcot, Oxfordshire
 * [Vicky Tuck](http://news.bbc.co.uk/local/gloucestershire/hi/people_and_places/newsid_8741000/8741279.stm) at [Cheltenham Ladies' College](https://en.wikipedia.org/wiki/Cheltenham_Ladies%27_College), Cheltenham, Gloucestershire. [@cheltenham; @tuck]
     - This was the first time I'd ever set foot in a [private school](https://en.wikipedia.org/wiki/Independent_school_(United_Kingdom)), managing to cross [Michael Gove](https://en.wikipedia.org/wiki/Michael_Gove)'s [Berlin Wall](https://en.wikipedia.org/wiki/Berlin_Wall) of education by sneaking through [Checkpoint Charlie](https://en.wikipedia.org/wiki/Checkpoint_Charlie) un-challenged. It was an enlightening experience... [@berlinwall]
 * [Blackburn College](https://en.wikipedia.org/wiki/Blackburn_College,_Lancashire), Lancashire
@@ -583,7 +582,7 @@ Thanks to [John Chelsom](https://www.fordham.edu/info/30585/ms_in_applied_health
 ```{r oxford-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionoxford)"}
 knitr::include_graphics("images/dreaming-spires-oxford-sunrise.png")
 ```
-Thanks to my fellow [xmlsummerschool.com](https://xmlsummerschool.com/) faculty: [Bob du Charme](https://www.bobdc.com/blog/), [Paul Downey](https://twitter.com/psd), [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay), [Jeni Tennison](https://en.wikipedia.org/wiki/Jeni_Tennison), [Norman Walsh](https://norman.walsh.name/) and [Lauren Wood](https://www.laurenwood.org/) for the memories and the `<markup/>`. [@xslt; @ymca]
+Thanks to my fellow [xmlsummerschool.com](https://xmlsummerschool.com/) faculty: [Bob du Charme](https://www.bobdc.com/blog/), [Paul Downey](http://blog.whatfettle.com/about/), [Michael Kay](https://en.wikipedia.org/wiki/Michael_Howard_Kay), [Jeni Tennison](https://en.wikipedia.org/wiki/Jeni_Tennison), [Norman Walsh](https://norman.walsh.name/) and [Lauren Wood](https://www.laurenwood.org/) for the memories and the `<markup/>`. [@xslt; @ymca]
 
 ```
 X.S.L.T!
@@ -600,7 +599,7 @@ Thanks to [Steven A. Hill](https://en.wikipedia.org/wiki/Steven_A._Hill), [Jane 
 So thanks Oxford for your dreaming spires, see figure \@ref(fig:oxford-fig). 🙏
 
 ### Thank you Cambridge {#cambridge}
-Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), [Nico Adams](https://scholar.google.com/citations?user=3-PcEsEAAAAJ), Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, [Kenneth Haug](https://twitter.com/kennethhaug  ), [Jo McEntyre](https://twitter.com/jomcentyre), Pablo Moreno, [Helen Parkinson](https://twitter.com/drp_stuff), Mark Rijnbeek and [Susanna-Assunta Sansone](https://en.wikipedia.org/wiki/Susanna-Assunta_Sansone) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI, see figure \@ref(fig:cambridge-fig)) for looking after me during my time in Cambridge. Thanks to [Rolf Apweiler](https://en.wikipedia.org/wiki/Rolf_Apweiler), [Michael Ashburner](https://en.wikipedia.org/wiki/Michael_Ashburner), [Ewan Birney](https://en.wikipedia.org/wiki/Ewan_Birney), Graham Cameron and [Janet Thornton](https://en.wikipedia.org/wiki/Janet_Thornton) without whom there wouldn't have been an EBI for me to work at. [@embl25]
+Thanks to [Christoph Steinbeck](https://en.wikipedia.org/wiki/Christoph_Steinbeck), [Nico Adams](https://scholar.google.com/citations?user=3-PcEsEAAAAJ), Marcus Ennis, Janna Hastings, Paula de Matos, Adriano Dekker, Kenneth Haug, Jo McEntyre, Pablo Moreno, Helen Parkinson, Mark Rijnbeek and [Susanna-Assunta Sansone](https://en.wikipedia.org/wiki/Susanna-Assunta_Sansone) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI, see figure \@ref(fig:cambridge-fig)) for looking after me during my time in Cambridge. Thanks to [Rolf Apweiler](https://en.wikipedia.org/wiki/Rolf_Apweiler), [Michael Ashburner](https://en.wikipedia.org/wiki/Michael_Ashburner), [Ewan Birney](https://en.wikipedia.org/wiki/Ewan_Birney), Graham Cameron and [Janet Thornton](https://en.wikipedia.org/wiki/Janet_Thornton) without whom there wouldn't have been an EBI for me to work at. [@embl25]
 
 ```{r cambridge-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncambridge)"}
 knitr::include_graphics("images/michael-ashburner-rip.jpeg")
@@ -611,7 +610,7 @@ knitr::include_graphics("images/michael-ashburner-rip.jpeg")
 So thanks Cambridge for [Silicon Fen](https://en.wikipedia.org/wiki/Silicon_Fen), I had a really *[fen-tastic](https://en.wikipedia.org/wiki/The_Fens)* time. [I'll get my coat](https://en.wiktionary.org/wiki/I%27ll_get_my_coat). 🙏 [@fastshow]
 
 ### Thank you Manchester {#manchester}
-Thanks to Greater Mancunians beyond the University of Manchester: Anna, Mark Anderton, Andrea, Rob Aspin, Jon Atkinson, Charlie Ball, Paul Bason, Iain, Julian Bass, Amul Batra, Dean Belfield, Lisa Chan Brown, Martin Bryant, Gemma Cameron, Matthew Clark, Jeremy Coates, Craig, Darren Dancey, Craig Dean, Farhat Din, Anne Dornan, David Edmundson-Bird, Emily, Diana Erskine, Sherelle Fairweather, Shaun Fensom, Steven Flower, Tony Foggett, Katie Gallagher, Giles, Emma Grant, David Haikney, [Damian Hughes](https://liquidthinker.com), Mehran Jalaei, Daniel Jamieson, Matt Jarvis, Jamil Khalil, Ross Keeping, Val Kelly, Kitty, David Levine, Julie Lowndes, Tony McGrath, Chris Marsh, [Amy Mather](https://twitter.com/MiniGirlGeek), Lisa Mather, Claire McDonald, Keith Miller, Geraint North, [Alan O'Donohoe](https://twitter.com/teknoteacher), Tomas Paulik, Damian Payton, Francesco Petrogalli, Paul, Peppi, Phil, Rich, Ros, Miles Rothbury, Paul Sherwood, Howard Simms, Adrian Slatcher, Jason Souloglou, Joe Sparrow, Martyn Spink, [Katie Steckles](https://www.katiesteckles.co.uk/), Matt Squire, Julian Tait, Rob Taylor, Rachel Thompson, Tom, Andrew Toolan, Hannah Tracey, Wesley Verne, Paul Vlissidis, [Tony Walsh](https://en.wikipedia.org/wiki/Tony_Walsh_(poet)), Travis Walton, Ben Webb, Paul Wilshaw and Zoe for friendly Northern support and advice. Thanks to [Andrew Back](https://twitter.com/9600) and [Tim Harbour](https://twitter.com/timharbour) for wuthering my bytes at [wutheringbytes.com](https://wutheringbytes.com/).
+Thanks to Greater Mancunians beyond the University of Manchester: Anna, Mark Anderton, Andrea, Rob Aspin, Jon Atkinson, Charlie Ball, Paul Bason, Iain, Julian Bass, Amul Batra, Dean Belfield, Lisa Chan Brown, Martin Bryant, Gemma Cameron, Matthew Clark, Jeremy Coates, Craig, Darren Dancey, Craig Dean, Farhat Din, Anne Dornan, David Edmundson-Bird, Emily, Diana Erskine, Sherelle Fairweather, Shaun Fensom, Steven Flower, Tony Foggett, Katie Gallagher, Giles, Emma Grant, David Haikney, [Damian Hughes](https://liquidthinker.com), Mehran Jalaei, Daniel Jamieson, Matt Jarvis, Jamil Khalil, Ross Keeping, Val Kelly, Kitty, David Levine, Julie Lowndes, Tony McGrath, Chris Marsh, Amy Mather, Lisa Mather, Claire McDonald, Keith Miller, Geraint North, Alan O'Donohoe, Tomas Paulik, Damian Payton, Francesco Petrogalli, Paul, Peppi, Phil, Rich, Ros, Miles Rothbury, Paul Sherwood, Howard Simms, Adrian Slatcher, Jason Souloglou, Joe Sparrow, Martyn Spink, [Katie Steckles](https://www.katiesteckles.co.uk/), Matt Squire, Julian Tait, Rob Taylor, Rachel Thompson, Tom, Andrew Toolan, Hannah Tracey, Wesley Verne, Paul Vlissidis, [Tony Walsh](https://en.wikipedia.org/wiki/Tony_Walsh_(poet)), Travis Walton, Ben Webb, Paul Wilshaw and Zoe for friendly Northern support and advice. Thanks to Andrew Back and Tim Harbour for wuthering my bytes at [wutheringbytes.com](https://wutheringbytes.com/).
 
 ```{r this-is-the-place-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionlongfella)"}
 knitr::include_url('https://www.youtube.com/embed/PszMmYpQjPo')
@@ -633,7 +632,7 @@ knitr::include_graphics("images/godiva.jpeg")
 So thanks Coventry for naked women on horseback, a [magnificent cathedral](https://en.wikipedia.org/wiki/Coventry_Cathedral) and the industrial experience. Thanks for being the place where I bumped into Bryan Mathers, see section \@ref(visualthinkery). 🙏
 
 ### Thank you Abisko {#abisko}
-Thanks to [Malcolm Press](https://en.wikipedia.org/wiki/Malcolm_Press), Helena Björn van Praagh, [Terry Callaghan](https://en.wikipedia.org/wiki/Terry_Callaghan), [Jackie Potter](https://twitter.com/Jac_Potter), [John Lee](https://www.sheffield.ac.uk/biosciences/people/academic-staff/john-lee), Mats Sonesson, Nils-Åke Andersson, Rosie, Nick, Dylan, Karin, Kjell, Lennart, Marion, Martin, Ulf and everyone else at [Abisko Scientific Research Station](https://en.wikipedia.org/wiki/Abisko_Scientific_Research_Station) / [Abisko Naturvetenskapliga Station](https://sv.wikipedia.org/wiki/Abisko_naturvetenskapliga_station)  (ANS, see figure \@ref(fig:abisko-fig)) for hosting me as a summer research student investigating the effects climate change on subarctic heathlands. [@subarctic]^[You'll find me in the acknowledgements section of this paper] Easily the best summer job I've ever had! 🇸🇪
+Thanks to [Malcolm Press](https://en.wikipedia.org/wiki/Malcolm_Press), Helena Björn van Praagh, [Terry Callaghan](https://en.wikipedia.org/wiki/Terry_Callaghan), Jackie Potter, [John Lee](https://www.sheffield.ac.uk/biosciences/people/academic-staff/john-lee), Mats Sonesson, Nils-Åke Andersson, Rosie, Nick, Dylan, Karin, Kjell, Lennart, Marion, Martin, Ulf and everyone else at [Abisko Scientific Research Station](https://en.wikipedia.org/wiki/Abisko_Scientific_Research_Station) / [Abisko Naturvetenskapliga Station](https://sv.wikipedia.org/wiki/Abisko_naturvetenskapliga_station)  (ANS, see figure \@ref(fig:abisko-fig)) for hosting me as a summer research student investigating the effects climate change on subarctic heathlands. [@subarctic]^[You'll find me in the acknowledgements section of this paper] Easily the best summer job I've ever had! 🇸🇪
 
 ```{r abisko-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionabikso)"}
 knitr::include_graphics("images/abisko.jpeg")
@@ -686,7 +685,7 @@ So thanks Moravians (and Angus) for life changing and formative experiences. �
 
 Some of the most important influences on this guidebook are people I've only met very briefly, virtually or not at all (yet).
 
-* Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell) ([\@gayle](https://twitter.com/gayle)), for your cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
+* Thanks to [Gayle Laakman McDowell](https://en.wikipedia.org/wiki/Gayle_Laakmann_McDowell), for your cracking series of books  [@techcareer; @cracking; @crackingpm; @crackingthepmcareer] which have been very useful resources both for students I've worked with and me personally
 * Thanks to [Yihui Xie](https://en.wikipedia.org/wiki/Yihui_Xie) ([\@yihui](https://github.com/yihui)) and contributors to [bookdown.org](https://bookdown.org), the software used to produce this book alongwith the comprehensive and well-written documentation on using it. [@xie2017; @xie2015; @xie2020]
 * Thanks to [Bronnie Ware](https://en.wikipedia.org/wiki/Bronnie_Ware) for your book *[The Top Five Regrets of the Dying](https://en.wikipedia.org/wiki/The_Top_Five_Regrets_of_the_Dying)* [@regrets] which helped me to re-align my values and priorities when they were all out of kilter
 * Thanks to Jo Hobbs at Lancaster University for advice on placements and employability in undergraduate teaching
@@ -703,40 +702,40 @@ knitr::include_graphics("images/keyboard.png")
 
 So here are some people whose stuff I read, watch, listen to or use, maybe you'll enjoy their words, pictures and software too:
 
-* [Euan Adie](https://twitter.com/stew) at [blog.overton.io/author/euan-adie](https://blog.overton.io/author/euan-adie)
-* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) at [twitter.com/stevenappleby](https://twitter.com/stevenappleby), see figure \@ref(fig:appleby-vid)
+* Euan Adie at [blog.overton.io/author/euan-adie](https://blog.overton.io/author/euan-adie)
+* [Steven Appleby](https://en.wikipedia.org/wiki/Steven_Appleby) see figure \@ref(fig:appleby-vid)
 * [Jonathan Black](https://www.new.ox.ac.uk/node/1003) at [ft.com/dear-jonathan](https://www.ft.com/dear-jonathan)
 * [Tim Bray](https://en.wikipedia.org/wiki/Tim_Bray) at [ongoing](https://www.tbray.org/ongoing/)
 * Geoffrey Challen at [geoffreychallen.com/essays](https://www.geoffreychallen.com/essays)
 * [Jorge Cham](https://en.wikipedia.org/wiki/Jorge_Cham) at [phdcomics.com](https://phdcomics.com/)
 * [Tom Crawford](https://www.linkedin.com/in/tom-crawford-maths/) at [TomRocksMaths](https://www.youtube.com/@TomRocksMaths) 
-* [Paul Downey](https://twitter.com/psd) at [whatfettle.com](https://blog.whatfettle.com/) and [flickr.com/photos/psd](https://www.flickr.com/photos/psd/)
-* [Mike Croucher](https://twitter.com/walkingrandomly) at [walkingrandomly.com](https://walkingrandomly.com/)
-* [Stephen Curry](https://twitter.com/Stephen_Curry) at [occamstypewriter.org/scurry](https://occamstypewriter.org/scurry)
+* Paul Downey at [whatfettle.com](https://blog.whatfettle.com/) and [flickr.com/photos/psd](https://www.flickr.com/photos/psd/)
+* Mike Croucher at [walkingrandomly.com](https://walkingrandomly.com/)
+* Stephen Curry at [occamstypewriter.org/scurry](https://occamstypewriter.org/scurry)
 * [Athene Donald](https://en.wikipedia.org/wiki/Athene_Donald) at [occamstypewriter.org/athenedonald](http://occamstypewriter.org/athenedonald)
 * [Stephen Dubner](https://en.wikipedia.org/wiki/Stephen_J._Dubner) at [freakonomics.com](https://freakonomics.com/)
-* [Alf Eaton](https://twitter.com/invisiblecomma) at [hublog.hubmed.org](https://hublog.hubmed.org/)
+* Alf Eaton at [hublog.hubmed.org](https://hublog.hubmed.org/)
 * [Jonathan Eisen](https://en.wikipedia.org/wiki/Jonathan_Eisen) at [phylogenomics.blogspot.com](https://phylogenomics.blogspot.com/)
 * [Michael Eisen](https://en.wikipedia.org/wiki/Michael_Eisen) at [michaeleisen.org/blog](https://www.michaeleisen.org/blog/)
-* [Julia Evans](https://twitter.com/b0rk) at [jvns.ca](https://jvns.ca/)
-* [Martin Fenner](https://twitter.com/mfenner) at [blog.front-matter.io](https://blog.front-matter.io/)
+* Julia Evans at [jvns.ca](https://jvns.ca/)
+* Martin Fenner at [blog.front-matter.io](https://blog.front-matter.io/)
 * [Kevin Fong](https://en.wikipedia.org/wiki/Kevin_Fong) at [bbc.in/35jDOwI](https://bbc.in/35jDOwI)
 * [Timothy Gowers](https://en.wikipedia.org/wiki/Timothy_Gowers) at [gowers.wordpress.com](https://gowers.wordpress.com/)
 * [Matt Green](https://en.wikipedia.org/wiki/Matt_Green_(comedian)) at [mattgreencomedy.com](https://www.mattgreencomedy.com/)
 * [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial) at [computinged.wordpress.com](https://computinged.wordpress.com/)
 * [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) at [paulgraham.com](http://paulgraham.com/)
-* [Bosco Ho](https://twitter.com/boscoh) at [boscoh.com](https://boscoh.com/)
-* [Pierre Lindenbaum](https://twitter.com/yokofakun) at [github.com/lindenb](https://github.com/lindenb)
+* Bosco Ho at [boscoh.com](https://boscoh.com/)
+* Pierre Lindenbaum at [github.com/lindenb](https://github.com/lindenb)
 * [Andrew Maynard](https://en.wikipedia.org/wiki/Andrew_D._Maynard) at [andrewmaynard.net](https://andrewmaynard.net)
 * [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com](https://xkcd.com/)
 * [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) at [cameronneylon.net](http://cameronneylon.net/)
 * [Peter Norvig](https://en.wikipedia.org/wiki/Peter_Norvig) at [norvig.com](https://norvig.com/)
 * [Samuel Pepys](https://en.wikipedia.org/wiki/Samuel_Pepys) at [pepysdiary.com](https://www.pepysdiary.com/)
-* [Neil Saunders](https://twitter.com/neilfws) because [what he's doing is rather desperate](https://nsaunders.wordpress.com/blog/)
+* Neil Saunders because [what he's doing is rather desperate](https://nsaunders.wordpress.com/blog/)
 * [Sue Sentance](https://en.wikipedia.org/wiki/Sue_Sentance) at [suesentance.net/blog](https://suesentance.net/blog/)
 * [Kristin Stephens-Martinez](https://users.cs.duke.edu/~ksm/) at [csedpodcast.org](https://csedpodcast.org/)
 * [Greg Tyrelle](https://nl.linkedin.com/in/gtyrelle) at [nodalpoint.org](https://web.archive.org/web/20050616015629/http://www.nodalpoint.org/)
-* [Greg Wilson](https://twitter.com/gvwilson) at [third-bit.com](https://third-bit.com/)
+* Greg Wilson at [third-bit.com](https://third-bit.com/)
 
 
 ```{r appleby-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionappleby)"}
@@ -785,7 +784,7 @@ Special wiki-thanks to English speaking Wikipedians [Evan Amos](https://en.wikip
 So, thanks Wikipedians for being Wikipedia. 🙏
 
 ### Thank you Bryan {#visualthinkery}
-Many of the illustrations for this book have been drawn by the very talented Bryan Mathers [\@BryanMMathers](https://twitter.com/BryanMMathers/) shown in figure \@ref(fig:tedx-galway-vid).
+Many of the illustrations for this book have been drawn by the very talented Bryan Mathers shown in figure \@ref(fig:tedx-galway-vid).
 
 Bryan is an artist, visual thinker, entrepreneur and listener who turns stories into pictures. He also happens to have a Bachelors degree in Computer Science from the University of Glasgow. As a [renaissance man](https://en.wikipedia.org/wiki/Renaissance_man), his combined skills in art, science and engineering made him the perfect fit for illustrating this guidebook. You can find out more about Bryan at [bryanmathers.com](https://bryanmmathers.com) and [visualthinkery.com](https://visualthinkery.com). I'm very glad we randomly bumped into each other at the `#wikiedu20` conference: [wikiedusummit.coventry.domains](https://wikiedusummit.coventry.domains/).
 
@@ -891,7 +890,7 @@ So, thanks to all my family scattered around the world for your unconditional lo
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) and I'm currently writing this guidebook for undergraduate and postgraduate students as part of my day job at the University of Manchester where I'm a Senior Lecturer (≈ [Associate Professor](https://en.wikipedia.org/wiki/Associate_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).^[Coding Your Future is currently a Minimum Viable Product (MVP). This is the software engineering way of saying “it isn't finished yet”]
 
-So what's *my* story? I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage packer, computer hacker, pork pie filler, [plongeur](https://en.wikipedia.org/wiki/Plongeur), chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, chairperson, software engineer, lecturer, external examiner, tutor and scholar. Like many people, my path has been a bit of an [Odyssey](https://en.wikipedia.org/wiki/Odyssey) or what [Helen Tupper](https://twitter.com/HelenTupper) and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/books/)”. [@squigglybook] It's highly likely that your career will not follow a neat linear trajectory either, also known as a [portfolio career](https://en.wikipedia.org/wiki/Portfolio_career). [@squigglytalk;@odyssey]
+So what's *my* story? I've been gainfully employed as a paperboy, supermarket cashier, shelf stacker, sausage packer, computer hacker, pork pie filler, [plongeur](https://en.wikipedia.org/wiki/Plongeur), chef, dogsbody, field assistant, database administrator, deli counter server, consultant, matchday steward, envelope stuffer, high school teacher, postdoc, research scientist, chairperson, software engineer, lecturer, external examiner, tutor and scholar. Like many people, my path has been a bit of an [Odyssey](https://en.wikipedia.org/wiki/Odyssey) or what Helen Tupper and Sarah Ellis call a “[squiggly career](https://www.amazingif.com/books/)”. [@squigglybook] It's highly likely that your career will not follow a neat linear trajectory either, also known as a [portfolio career](https://en.wikipedia.org/wiki/Portfolio_career). [@squigglytalk;@odyssey]
 
 Beyond the paid stuff, I've done a range of voluntary work too, serving as a competition judge, fundraiser, [code club](https://codeclub.org) \& [coderdojo](https://coderdojo.com) leader, rabble rouser, [digital council](https://www.manchesterdigital.com/) member, [school governor](https://governorsforschools.org.uk/), curator, librarian, beer drinker, itinerant blogger, [wikipedia trainer](https://wiki-loves-scientists.org.uk/), [journal clubber](https://sigcse.cs.manchester.ac.uk/) and editor. But as [Ronnie Lane](https://en.wikipedia.org/wiki/Ronnie_Lane) and [Ronnie Wood](https://en.wikipedia.org/wiki/Ronnie_Wood) (figure \@ref(fig:faces-fig)) once said, I wish that I knew what I know now, when I was younger.
 
