@@ -253,81 +253,15 @@ The guidelines for prospective contributors to Google's Summer of Code (GSoC) at
 
 ### Google Summer of Code {#gsoc}
 
-Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students and beginners in open source software development see figure \@ref(fig:gsoc-fig) [@gsoc]. As of 2024, the twentieth year of GSoC, applications open around March each year with a deadline in April. <!--In 2024, contributor applications opened on Monday March 18th with a deadline of Tuesday, April 2, 2024 18:00.--> [@stephaniesays] 
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students and beginners in open source software development see figure \@ref(fig:gsoc-fig) [@gsoc]. As of 2025, the twenty first year of GSoC, applications open around March each year with a deadline in April. <!--In 2024, contributor applications opened on Monday March 18th with a deadline of Tuesday, April 2, 2024 18:00.--> [@stephaniesays25] 
 
 ```{r gsoc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
 knitr::include_graphics("images/gsoc.jpeg")
 ```
 (ref:captiongsoc) Google Summer of Code [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) has been running annually since 2004. Students and other beginners get paid to write [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) by fixing bugs and adding features to a range of different software projects. [@gsoc] 🌞
 
-In 2024, there were 195 summmer projects to choose from with experienced mentors from a wide range of organisations including:
+See chapter \@ref(gsocode) for details of Google Summer of Code in 2025. 
 
-* [apache.org](https://apache.org/): software for the public good
-* [appinventor.mit.edu](https://appinventor.mit.edu/): allows everyone (including children) to build fully functional apps for Android phones, iPhones and Android/iOS tablets
-* [archive.org](https://archive.org/): The Internet Archive
-* [blender.org](https://www.blender.org/): 3D Computer graphics
-* [chromium.org](https://www.chromium.org/):  an open-source browser
-* [djangoproject.com](https://www.djangoproject.com/): Python web framework
-* [ga4gh.org](https://www.ga4gh.org/): The  Global Alliance for Genomics and Health (GA4GH) is an international community dedicated to advancing human health through genomic data
-* [gcc.gnu.org](http://gcc.gnu.org/): GNU Compiler Collection (GCC)
-* [gimp.org](https://www.gimp.org/): GNU Image Manipulation Program
-* [haskell.org](https://www.haskell.org/): An advanced, purely functional programming language
-* [hepsoftwarefoundation.org](https://hepsoftwarefoundation.org/): High Energy Physics (HEP) software 
-* [inkscape.org](https://inkscape.org): a free and open source vector graphics editor 
-* [jitsi.org](https://jitsi.org/): secure, flexible and
-completely free video conferencing
-* [julialang.org](https://julialang.org/): bringing usable, scalable technical computing to a greater audience
-* [kotlinlang.org](https://kotlinlang.org/): a modern programming language designed to make developers happier
-* [linuxfoundation.org](https://www.linuxfoundation.org/): provides a neutral, trusted hub for developers and organizations
-* [llvm.org](https://llvm.org/): a collection of modular and reusable compiler and toolchain technologies
-* [metabrainz.org](https://metabrainz.org): creating and maintaining an open encyclopedia of music and arts metadata
-* [mlpack.org](https://mlpack.org/): fast, header-only C++ machine learning library
-* [openclimatefix.org](https://openclimatefix.org/): using computers
-to reduce Carbon Dioxide emissions
-* [opencv.org](https://opencv.org/): an open source computer vision (cv) and machine learning software library
-* [postman.com](https://www.postman.com): an API platform for building and using APIs
-* [python.org](https://www.python.org): advancing open source technology related to the Python programming language
-* [rust-lang.org](https://www.rust-lang.org/): a language empowering everyone
-to build reliable and efficient software
-* [www.sanger.ac.uk](https://www.sanger.ac.uk/): genomic research
-* [submitty.org](https://submitty.org/): course management, assignment submission, exam and grading system
-* [sugarlabs.org](https://www.sugarlabs.org/): promoting collaborative learning
-* [swift.org](https://www.swift.org/): general-purpose programming language
-* [videolan.org](http://www.videolan.org/): cross-platform multimedia player 
-* [wikimedia.org](https://www.wikimedia.org/): bringing free educational content to the world
-* and [many others](https://summerofcode.withgoogle.com/programs/2024/organizations) [@stephaniesays]
-
-Applying for Google Summer of Code isn't like applying for a regular summer internship, you don't just send your CV and covering letter off and wait to be invited to an interview, you have to be more proactive. GSoC advises [contributors to follow eight basic steps](https://developers.google.com/open-source/gsoc/help/student-advice):
-
-1. Read The Friendly Manual ([RTFM](https://en.wikipedia.org/wiki/RTFM)), there's lots of it but it is well-written and self-explantory. See [summerofcode.withgoogle.com/](https://summerofcode.withgoogle.com/)
-1. Write down a list of the skills and knowledge you have. What languages do you know? What tools are you familiar with?
-1. Look through the mentoring organisations on the program site
-1. Browse the organisations site and repositories. Look at the code and the issue tracker, what are the bugs and feature requests? 
-1. Narrow your list down to one or two organisations, then talk to them via whatever chat channel they are using, see [making first contact](https://google.github.io/gsocguides/student/making-first-contact) 
-1. Write your proposal, go for quality over quantity. One or two proposals max
-1. Verify your application meets the requirements, many applicants don't do this
-1. Don't leave it to the last minute, start talking to the organisation long before the deadline.
-
-If you're wondering [if you're good enough for GSoC](https://google.github.io/gsocguides/student/am-i-good-enough), mentors are looking for 
-
-1. soft skills *and* 
-1. technical skills
-
-The softer people skills include: 
-
-* You can find out where to go for help with technical questions
-* You can take and respond well to feedback, including negative feedback
-* You can work independently 
-* You know when to ask questions
-* You can communicate effectively 
-
-... and hard technical skills include:
-
-* You can install and configure software packages on your own
-* You have access to a functioning computer
-* You’ve got experience using the programming language and operating system of the project
-
-If that sounds like you, it is worth applying for GSoC.
 
 ### Voluntary Experience {#volunteering}
 
