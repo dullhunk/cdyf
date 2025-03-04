@@ -5,7 +5,7 @@
 ## Google Summer of Code (GSoC) {#gsocmore}
 
 
-Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students (and beginners) in open source software development see figure \@ref(fig:gsoc2-fig) [@gsoc]. [@stephaniesays25] 
+Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students (and beginners) in open source software development see figure \@ref(fig:gsoc2-fig) [@gsoc;@stephaniesays25] 
 
 ```{r gsoc2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongsoc)"}
 knitr::include_graphics("images/gsoc.jpeg")
