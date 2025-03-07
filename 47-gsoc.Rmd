@@ -2,8 +2,7 @@
 
 (ref:yourfutureblurb)
 
-## Google Summer of Code (GSoC) {#gsocmore}
-
+## Get paid to write Open Source Software {#gsocmore}
 
 Google Summer of Code (GSoC) is a global, online program focused on bringing new contributors into open source software development. GSoC contributors work with an open source organization on a 12+ week programming project under the guidance of mentors. It's open to students (and beginners) in open source software development see figure \@ref(fig:gsoc2-fig) [@gsoc;@stephaniesays25] 
 
@@ -66,6 +65,21 @@ Applying for Google Summer of Code isn't like applying for other kinds of summer
 1. Verify your application meets the requirements, many applicants don't do this
 1. Don't leave it to the last minute, start talking to the organisation long before the deadline.
 
+## Making first contact with an OSS project {#firstcontact}
+
+Here's what GSoC advice on making first contact with an Open Source Software (OSS) project, start by _observing_:
+
+* Join both the development and user mailing lists and spend a few days just reading the conversations
+* Read posts on their mailing list archives
+* Join the project’s discussion forums/chat channel (IRC, Discourse, Discord, Slack) and lurk for a bit
+* Read all the available information on past GSoC projects
+* Take a stab at going through the project documentation, at least to the point where you feel like you can ask questions that are not already extensively covered in the docs.
+
+At the end of yocur “listening and research” phase you’ll understand how, where and when the community interacts and know the best way to ask questions and discuss your proposal. See [making first contact](https://google.github.io/gsocguides/student/making-first-contact) 
+
+
+## Are you good enough for GSoC? {#iagefgsoc}
+
 If you're wondering [if you're good enough for GSoC](https://google.github.io/gsocguides/student/am-i-good-enough), mentors are looking for 
 
 1. soft skills *and* 
@@ -77,7 +91,7 @@ The softer people skills include:
 * You can take and respond well to feedback, including negative feedback
 * You can work independently 
 * You know when to ask questions
-* You can communicate effectively 
+* You can communicate effectively, see figure \@ref(fig:allskills2-fig) 
 
 ... and hard technical skills include:
 
@@ -86,6 +100,12 @@ The softer people skills include:
 * You have experience using the programming language and operating system of the project
 
 If that sounds like you, it is worth applying for GSoC. [@stephaniesays25]
+
+```{r allskills2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionallskills)"}
+knitr::include_graphics("images/Hard and soft skills.png")
+```
+
+
 
 
 
