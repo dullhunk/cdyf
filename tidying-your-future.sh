@@ -137,4 +137,7 @@ echo "replaced sei.html "
 find . -name "*.html" -exec sed -I '' 's/deepmind.html/deepmind/g' {} +
 echo "replaced deepmind.html "
 
+find . -name "*.html" -exec sed -I '' 's/bet365.html/bet365/g' {} +
+echo "replaced bet365.html "
+
 
