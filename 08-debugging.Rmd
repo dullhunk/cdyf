@@ -124,11 +124,18 @@ While referring to this guide, remember that:
 * The main purpose of your CV is to get an interview, not a job. Your CV should catch attention and provide talking points for an interview
 * Your CV will be assessed in seconds, rather than minutes so brevity really is key
 * Bullet points with verbs first (see section \@ref(verbsfirst)) will:
-  + allow your reader to *quickly* skim, scan and scroll through your CV because [employers don't actually read CVs](https://readabilityguidelines.co.uk/content-design/how-people-read/) [@scanning]
+  + allow your reader to *quickly* skim, scan and scroll through your CV because [employers don't actually read CVs](https://readabilityguidelines.co.uk/content-design/how-people-read/) [@scanning], see figure \@r
   + highlight your key activities
   + avoid long sections of [flowery prose](https://en.wikipedia.org/wiki/Prose) which the reader will very probably skip anyway. Instead, you can use your beautiful prose to demonstrate your excellent written communication skills on your covering letters or personal statements instead, see section \@ref(covering-letters)
 
 You're not trying to tell your *whole* life story from section \@ref(story) but to distill the essentials into several short stories which can be summarised into a handful of bullets or sentences. Your CV should be punchy like the [blurb](https://en.wikipedia.org/wiki/Blurb) or synopsis on the back of a novel, can you entice the reader into wanting to find out more (by inviting you to an interview)?
+
+```{r f-shaped-fig, echo = FALSE, fig.show = "hold", fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfshaped)"}
+knitr::include_graphics("images/sketchplanations-f-shaped-reading.png")
+```
+
+(ref:captionfshaped) Employers are unlikely to actually *read* your CV in much depth, especially during a first glance. They are much more likely to be quickly *scanning* it in a hurry, a common pattern is F-shaped reading shown here. Putting the most important information first and leading with verbs (see chapter \@ref(verbalising)) will increase the chances that you'll get your key points across to your readers. [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) image by Jono Hey at [sketchplanations.com](https://sketchplanations.com) [@fshaped]
+
 
 ## Write Something, Anything! {#mycv}
 
