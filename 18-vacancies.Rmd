@@ -6,10 +6,9 @@
 
 ## Current vacancies for students of Computer Science
 
-Current vacancies are highlighted here. These are taken from the Wednesday Waggle, shown in figure \@ref(fig:waggle-fig2). Other places you can look for opportunities are described in chapter \@ref(finding) in particular section \@ref(looking). 
+Current vacancies are highlighted here. These are taken from the Wednesday Waggle, shown in figure \@ref(fig:waggle-fig2). Other places you can look for opportunities are described in chapter \@ref(finding) in particular section \@ref(looking).
 
 * For Google Summer of Code, see chapter \@ref(gsocode)
-* For Bet365, see chapter \@ref(bet365)
 
 ```{r waggle-fig2, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionwaggle)"}
 knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
