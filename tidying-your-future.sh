@@ -125,19 +125,13 @@ echo "replaced asma.html "
 find . -name "*.html" -exec sed -I '' 's/eman.html/eman/g' {} +
 echo "replaced eman.html "
 
-find . -name "*.html" -exec sed -I '' 's/vacancies.html/vacancies/g' {} +
-echo "replaced vacancies.html "
+find . -name "*.html" -exec sed -I '' 's/opportunities.html/opportunities/g' {} +
+echo "replaced opportunities.html "
 
 find . -name "*.html" -exec sed -I '' 's/gsocode.html/gsocode/g' {} +
 echo "replaced gsocode.html "
 
-find . -name "*.html" -exec sed -I '' 's/sei.html/sei/g' {} +
-echo "replaced sei.html "
 
-find . -name "*.html" -exec sed -I '' 's/deepmind.html/deepmind/g' {} +
-echo "replaced deepmind.html "
 
-find . -name "*.html" -exec sed -I '' 's/bet365.html/bet365/g' {} +
-echo "replaced bet365.html "
 
 
