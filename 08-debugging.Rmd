@@ -545,6 +545,27 @@ You could say:
 
 The latter is better because it is more specific, captures the result (`accomplishment`), by giving evidence (`8 different tasks`) and talks about the actions (the `doing` part). Choose the verbs you use carefully, see chapter \@ref(verbalising) for examples.
 
+### Your Numbers {#quantification}
+Carefully chosen verbs and other words are a crucial part of how you communicate with the readers of your CV. Your words will be even more convincing if you back them up with numbers by _quantifying_ any claims that you make. 
+
+```{r numbers-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionnumbers)"}
+knitr::include_graphics("images/numbers-speak-louder-than-words.jpg")
+```
+
+(ref:captionnumbers) [Numbers](https://en.wikipedia.org/wiki/Number) speak louder than words. Some integers and percentges will go a long way to quantifying and evidencing any claims you make on your CV. You don't need complex numbers, and you usually don't need to give more than two significant figures for your degree result (for example). [CC-BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) image of complex, real, natural and rational numbers by HB on Wikimedia Commons [w.wiki/Dkm6](https://w.wiki/Dkm6)
+
+
+````md
+* Helped younger students learn mathematics
+````
+
+is promising but vague, and `helped` is a weaker verb that could be strengthened like his
+
+````md
+* Facilitated the learning of three mathematical concepts: differential calculus, trigonometry and statistical distributions
+* Communicated weekly in face to face meetings with a group of 8 students over one year to improve their grades by 5 percentage points in mock exams
+````
+
 
 ### Your Length {#length}
 How long should your CV be? Many people start with a two page CV, which is a sensible starting point shown in figure \@ref(fig:oneortwopager-vid). Your two pager might serve as a repository of *everything you've ever done*, but it's also advisable to [also create a one page Résumé](https://www.cv-library.co.uk/career-advice/cv/how-long-cv-be/). [@howlong;@armtips] You could tihnk of your one pager as the customised *espresso* version, describing the most important and relevant stuff for that whichever job your aiming it at.
@@ -807,7 +828,7 @@ Like [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande), I'm a believer 
 1. 🔲 Have you avoided using too many personal pronouns? `I, me, my ...` everywhere? See section \@ref(verbsfirst)
 1. 🔲 Have you made it clear what you have actually done using **prominent** `verbs`? Which kinds of verbs are missing? See chapter \@ref(verbalising)
 1. 🔲 Have you given sufficient information on your education without going into too much detail? Have you mentioned courses you are studying now (*and* next semester)? See section \@ref(education)
-1. 🔲 Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(structure)
+1. 🔲 Have you **quantified** and evidenced the claims you have made where you can? See section \@ref(structure) and \@ref(quantification)
 1. 🔲 Is it balanced, including both technical and non-technical (softer) skills? See section \@ref(casual)
 1. 🔲 Does it have a good, clear structure? Not too many headings, around five sections for a one-pager see section \@ref(body)?
 1. 🔲 Have you clearly distinguished between paid, unpaid and voluntary `EXPERIENCE`? Have you done the same for your `PROJECTS`, see section \@ref(projects)? Have you included *all* of the relevant experience that you can fit on including casual work, see section \@ref(casual)?
