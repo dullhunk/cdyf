@@ -128,8 +128,8 @@ echo "replaced eman.html "
 find . -name "*.html" -exec sed -I '' 's/opportunities.html/opportunities/g' {} +
 echo "replaced opportunities.html "
 
-find . -name "*.html" -exec sed -I '' 's/gsocode.html/gsocode/g' {} +
-echo "replaced gsocode.html "
+find . -name "*.html" -exec sed -I '' 's/imago.html/imago/g' {} +
+echo "replaced imago.html "
 
 
 
