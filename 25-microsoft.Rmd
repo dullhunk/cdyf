@@ -1,0 +1,30 @@
+# Microsoft Fundamentals {#mancrosoft}
+
+Are you a student at The University of Manchester? Would you like to get Microsoft certified on AI, Cloud, Data, Security, [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management), [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning), Azure & [365](https://en.wikipedia.org/wiki/Enterprise_resource_planning) this spring / summer? The University are continuing to pilot the introduction of Microsoft Fundamentals Certifications for students. 
+
+```{r mancs-fun-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsfun)"}
+knitr::include_graphics("images/ms-fundamentals.png")
+```
+
+These certifications will enhance your CV and LinkedIn profile with signed digital badges. Gaining these certifications typically involves ~20 hours of study and normally costs $99, but they are currently free to University of Manchester students as part of an ongoing pilot project. These highly marketable, industry-respected certifications offer foundational training and exams that provide a practical overview of Microsoft technology. They can help validate and extend your existing knowledge. Choose from the following badged certifications:
+
+1. Microsoft Azure Cloud Fundamentals: [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+1. Microsoft Azure AI Fundamentals: [AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+1. Microsoft Azure Data Fundamentals: [DP-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+1. Microsoft Security, Compliance and Identity Fundamentals: [SC-900](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
+1. Microsoft Power Platform Fundamentals: [PL-900](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals)
+1. Microsoft 365 Fundamentals: [MS-900](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-365-fundamentals)
+1. Microsoft Dynamics 365 Fundamentals Customer Relationship Management (CRM): [MB-910](https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-customer-engagement-apps-crm)
+1. Microsoft Dynamics 365 Fundamentals Enterprise Resource Planning (ERP): [MB-920](https://learn.microsoft.com/en-us/credentials/certifications/d365-fundamentals-finance-and-operations-apps-erp)
+
+Each certification requires that you:
+
+*  Commit to ~20 hours of online study time per certification between now and June 2025
+* Attend one in-person 50 minute exam per certification in Manchester in before June, see [bit.ly/manchestersoft](https://bit.ly/manchestersoft)
+
+There's more details on these exams, and others like them, in section \@ref(otherbadges).
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7311025084108865536?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
+

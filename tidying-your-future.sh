@@ -131,6 +131,12 @@ echo "replaced opportunities.html "
 find . -name "*.html" -exec sed -I '' 's/imago.html/imago/g' {} +
 echo "replaced imago.html "
 
+find . -name "*.html" -exec sed -I '' 's/disc.html/disc/g' {} +
+echo "replaced disc.html "
+
+find . -name "*.html" -exec sed -I '' 's/mancrosoft.html/mancrosoft/g' {} +
+echo "replaced mancrosoft.html "
+
 
 
 
