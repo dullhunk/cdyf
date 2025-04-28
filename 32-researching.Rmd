@@ -1,6 +1,6 @@
 # Researching Your Future {#researching}
 
-So you want some more, eh? Your undergraduate degree has whetted your appetite. What are the options for postgraduate study and research? Where can they take you and will further study be worth investing your time and money in? You are a curious character. You like the idea of pushing the boundaries of human knowledge a little further, should you do that in the real world or a University shown in figure \@ref(fig:realworld-fig).
+In chapter \@ref(choosing) we briefly mentioned research as one of the many roles that a Computer Science degree can lead to. Maybe your undergraduate degree has whetted your appetite and given you a taste of doing research. Maybe you enjoyed it and would like to do more. What are the options for postgraduate study and research? Where can they take you and will further study be worth investing your time and money in? You are a curious character. You like the idea of pushing the boundaries of human knowledge a little further, should you do that in the real world or a University shown in figure \@ref(fig:realworld-fig).
 
 ```{r realworld-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionrealworld)"}
 knitr::include_graphics("images/University-or-real-world.png")
@@ -111,3 +111,5 @@ This chapter is under construction because I'm using agile book development meth
 ```{r deathstar9-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiondeathstar)"}
 knitr::include_graphics("images/DeathStar2.jpg")
 ```
+
+In the next part, chapter \@ref(ruling) *Ruling your Future* which outlines Ten Simple Rules for Coding your Future, we'll recap of some key points we’ve covered so far.
