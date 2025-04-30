@@ -729,17 +729,26 @@ You can spend ages carefully crafting your job applications. After all your hard
 
 For most people, this kind of rejection or “ghosting” is a normal part of applying for jobs, see for example, Amish's story in chapter \@ref(amish). 
 
-Welcome to the employer **black hole** we met in section \@ref(blackhole) and illustrated in figure \@ref(fig:blackhole-fig).
+Welcome to what can feel like an employer **black hole** we first met in section \@ref(blackhole) and illustrated in figure \@ref(fig:blackhole-fig).
 
 ```{r blackhole-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionblackhole)"}
 knitr::include_graphics("images/Black-hole-CV.png")
 ```
 
-(ref:captionblackhole) Rejection is a normal part of applying for jobs, some of your applications may disappear without trace into the employer “[black hole](https://en.wikipedia.org/wiki/Black_hole)” described in section \@ref(blackhole). Larger employers with a strong gravitational force on candidates like you are likely to behave like [supermassive black holes](https://en.wikipedia.org/wiki/Supermassive_black_hole) for job applications. This *doesn't* mean you shouldn't bother applying, but that you need to think about how to make your application stand out and avoid taking it personally if/when  you don't hear back. CV black hole sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), based on an original image of the supermassive black hole in [Messier 87](https://en.wikipedia.org/wiki/Messier_87) created using the [CHIRP algorithm](https://en.wikipedia.org/wiki/CHIRP_(algorithm)) by the [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope) team via Wikimedia Commons [w.wiki/3RCa](https://w.wiki/3RCa)
+(ref:captionblackhole) Rejection is a normal part of applying for jobs, some of your applications may disappear without trace into what can feel like an employer “[black hole](https://en.wikipedia.org/wiki/Black_hole)” described in section \@ref(blackhole). Larger employers with a strong gravitational force on candidates like you are likely to behave like [supermassive black holes](https://en.wikipedia.org/wiki/Supermassive_black_hole) for job applications. This *doesn't* mean you shouldn't bother applying, but that you need to think about how to make your application stand out and avoid taking it personally if/when  you don't hear back. CV black hole sketch by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), based on an original image of the supermassive black hole in [Messier 87](https://en.wikipedia.org/wiki/Messier_87) created using the [CHIRP algorithm](https://en.wikipedia.org/wiki/CHIRP_(algorithm)) by the [Event Horizon Telescope](https://en.wikipedia.org/wiki/Event_Horizon_Telescope) team via Wikimedia Commons [w.wiki/3RCa](https://w.wiki/3RCa)
 
-What can you do about it? If you're getting too many rejections or all your applications are sucked into black holes, it might be because you need to :
+The good news is, although applying for jobs can sometimes *feel* like communicating with a black hole, it's not. It's actually a funnel as shown in figure \@ref(fig:funnel-fig).
+
+```{r funnel-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captionfunnel)"}
+knitr::include_graphics("images/funnel.png")
+```
+
+(ref:captionfunnel) A typical application funnel: the number of applications (blue) exceeds the number of people who are invited to interview (green). The number of interviewees exceeds the number of job offers (orange). The size, shape and numbers on this funnel will vary depending on the employer and sector, but this data is taken from [the-trackr.com](https://the-trackr.com) mentioned in section \@ref(studentjobs). In 2025, 1 in 75 trackr applications led to a job offer. The top 10% of candidates claimed 35% of interviews and 44% of offers. 51% of applicants received no offers at all. The average candidate submitted 66 internship applications with an interview rates of 7.2%, the interview-to-offer rate was 18.7%. [@trackrdata] Comparable rates have been reported elsewhere for year long placements and graduate roles. [@ise-data]
+
+What can you do about this application funnel that can feel like an impossible black-hole problem? If you're getting too many rejections or your feel all your applications are sucked into black holes, it might be because you need to :
 
 * debug your CV and job applications (again), see section \@ref(checklist), \@ref(cvswap) and \@ref(triangulation)
+* tailor your CV and covering letter to the role, rather than spamming employers with generic applications (they already receive too many of those)
 * refine and/or broaden your job search strategy, see section \@ref(strategies) and chapter \@ref(choosing)
 * get some more `EXPERIENCE`, `PROJECTS` and `SKILLS` to help your applications stand out more in the future. Look beyond paid work as a way to enhance your CV and LinkedIn, see chapter \@ref(experiencing)
 * reflect on which skills are missing from your CV, see chapter \@ref(verbalising). What could you do to show employers you are developing these skills?
