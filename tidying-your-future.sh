@@ -134,6 +134,9 @@ echo "replaced disc.html "
 find . -name "*.html" -exec sed -I '' 's/mancrosoft.html/mancrosoft/g' {} +
 echo "replaced mancrosoft.html "
 
+find . -name "*.html" -exec sed -I '' 's/bny.html/bny/g' {} +
+echo "replaced bny.html "
+
 
 
 
