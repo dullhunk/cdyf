@@ -77,9 +77,9 @@ There are several relationship problems that could lead to you breaking up with 
 
 In the UK, dismissal is rare, but it **does** happen, even to interns and placement students. In this scenario in the UK, the employer has a duty to do everything they reasonably can to prevent this from happening. It's not in your employers interests to fire you because they've invested a lot of time and money in you by this point. If they have sensible recruitment procedures, those procedures will root out unsuitable candidates long before they make it to the workplace where they can cause real and lasting damage to the organisation once in post.
 
-All employers have procedures for making sure that you can agree on work that suits both of your needs. Better employers will have better procedures to ensure this happens. Employers don't want their employees to "dive" and will try prevent this from happening wherever possible. So, speak to your manager(s) and keep the communication channels open. Talking of managers ...
+All employers have procedures for making sure that you can agree on work that suits both of your needs. Better employers will have better procedures to ensure this happens. Employers don't want their employees to "dive" and will try prevent this from happening wherever possible. So, speak to your manager(s) and keep the communication channels open as you navigate the transition from student to professiona.
 
-## Student to Professional {#gradconsult}
+## From Student to Professional {#gradconsult}
 So you're starting a new job? Perhaps you're doing a summer internship, going on a placement year [@placement-handbook] or you've landed a shiny new graduate job? What changes will you have to adapt to as you transition from Student to Professional? Gradconsult have analysed ten of the most common transitions you're likely to encounter while adapting from student life to professional life. [@student2professional;@stp-whitepaper] The key differences between being a student and employee that they identified are:
 
 1. **Pragmatism**: changing from perfection to efficiency
@@ -93,7 +93,7 @@ So you're starting a new job? Perhaps you're doing a summer internship, going on
 1. **Self sufficiency**: changing who you are dependent on
 1. **Wellbeing**: changing how your wellbeing and social life are provided for
 
-These transitions are illustrated in figure \@ref(fig:stp-fig).
+These ten transitions from education to employment are illustrated in figure \@ref(fig:stp-fig).
 
 ```{r stp-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstp)"}
 knitr::include_graphics("images/STP1to10.png")
@@ -255,13 +255,7 @@ working in your final year, see self employment-->
 
 Your future is bright, your future needs starting. Starting your future is the first step of deploying your future. Deploying your future is coding your future.
 
-```{r stpshort-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstpshort)"}
-knitr::include_graphics("images/STP1to3.png")
-```
-
-(ref:captionstpshort) Three of the changes you're likely to encounter on your journey from student to professional, perfection, failure and time management. Image excerpted from an article on [the transition from education into employment](https://www.linkedin.com/pulse/transition-from-education-employment-rebecca-fielding/) by Rebecca Fielding (with permission) [@fielding]
-
-Making the transition from education to employment can be a big and daunting change, see figure \@ref(fig:stpshort-fig). To make the change as smooth as possible, you may need to readjust your expectations because being a student is very different to being an employee. Some key differences include:
+Making the transition from education to employment can be a big and daunting change, see figure \@ref(fig:stp-fig). To make the change as smooth as possible, you may need to readjust your expectations because being a student is very different to being an employee. Some key differences include:
 
 * You have a manager when you are an employee, who you need to maintain a good working relationship with
 * Your performance is much more dependent on other people (your colleagues), unlike in education where you can often work more independently (e.g. when completing coursework or revising for an exam)
@@ -271,7 +265,7 @@ Some of the keys to *surviving your future* are therefore:
 
 * Communicating early and often with your manager(s) about any issues you have in the workplace, see section \@ref(manager)
 * Regularly reflecting on your progress, with and without your manager, see section \@ref(reflecting)
-* Understanding that working with people is challenging for everyone (and enjoyable for many), see figure \@ref(fig:frances-fig)
+* Understanding that working with people is challenging for everyone, and enjoyable for many, see figure \@ref(fig:frances-fig)
 * Being aware of the transitions you'll need to adapt to, see figure \@ref(fig:stp-fig)
 * Staying in school. Despite leaving formal education, you should never stop learning, see section \@ref(neverstoplearning)
 
