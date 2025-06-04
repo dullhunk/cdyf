@@ -79,6 +79,32 @@ In the UK, dismissal is rare, but it **does** happen, even to interns and placem
 
 All employers have procedures for making sure that you can agree on work that suits both of your needs. Better employers will have better procedures to ensure this happens. Employers don't want their employees to "dive" and will try prevent this from happening wherever possible. So, speak to your manager(s) and keep the communication channels open. Talking of managers ...
 
+## Student to Professional {#gradconsult}
+So you're starting a new job? Perhaps you're doing a summer internship, going on a placement year [@placement-handbook] or you've landed a shiny new graduate job? What changes will you have to adapt to as you transition from Student to Professional? Gradconsult have analysed ten of the most common transitions you're likely to encounter while adapting from student life to professional life. [@student2professional;@stp-whitepaper] The key differences between being a student and employee that they identified are:
+
+1. **Pragmatism**: changing from perfection to efficiency
+1. **Fortitude**: changing from failure avoidance to inevitable failure
+1. **Task navigation**: changing the way you manage your time
+1. **Accountability**: changing from a consumer to a producer
+1. **Professional interaction**: changing from friends to colleagues
+1. **Career navigation**: changing from structured to unstructured
+1. **Diverse collaboration**: changing the diversity of your collaborators
+1. **Self assessment**: changing the way you are assessed
+1. **Self sufficiency**: changing who you are dependent on
+1. **Wellbeing**: changing how your wellbeing and social life are provided for
+
+These transitions are illustrated in figure \@ref(fig:stp-fig).
+
+```{r stp-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstp)"}
+knitr::include_graphics("images/STP1to10.png")
+```
+
+(ref:captionstp) Ten changes you're likely to encounter on your journey from student to professional. Image reproduced from an article on [the transition from education into employment](https://www.linkedin.com/pulse/transition-from-education-employment-rebecca-fielding/) by Rebecca Fielding (with permission) [@fielding]
+
+As you prepare for the workplace and start your job, it's useful to regularly reflect on each of these nine challenges you're likely to face and ask yourself support you need to manage them. Which of the nine are going to be top of your list? 
+
+Managing these changes means building a good relationship with your manager, if this is your first job, you may not have had a manager before so let's talk about managing your manager.
+
 ## Managing your manager {#manager}
 Building a good relationship with your manager(s) will be key to determining which of the *dive, survive or thrive* scenarios above plays out. At University, you didn't have a manager. Yes you had deadlines, but you didn't have a boss. That changes when you're an employee so it's in your interests to understand what your boss expects of you.
 
@@ -229,7 +255,13 @@ working in your final year, see self employment-->
 
 Your future is bright, your future needs starting. Starting your future is the first step of deploying your future. Deploying your future is coding your future.
 
-Making the transition from education to employment can be a big and daunting change. To make the change as smooth as possible, you may need to readjust your expectations because being a student is very different to being an employee. Some key differences include:
+```{r stpshort-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionstpshort)"}
+knitr::include_graphics("images/STP1to3.png")
+```
+
+(ref:captionstpshort) Three of the changes you're likely to encounter on your journey from student to professional, perfection, failure and time management. Image excerpted from an article on [the transition from education into employment](https://www.linkedin.com/pulse/transition-from-education-employment-rebecca-fielding/) by Rebecca Fielding (with permission) [@fielding]
+
+Making the transition from education to employment can be a big and daunting change, see figure \@ref(fig:stpshort-fig). To make the change as smooth as possible, you may need to readjust your expectations because being a student is very different to being an employee. Some key differences include:
 
 * You have a manager when you are an employee, who you need to maintain a good working relationship with
 * Your performance is much more dependent on other people (your colleagues), unlike in education where you can often work more independently (e.g. when completing coursework or revising for an exam)
@@ -240,6 +272,7 @@ Some of the keys to *surviving your future* are therefore:
 * Communicating early and often with your manager(s) about any issues you have in the workplace, see section \@ref(manager)
 * Regularly reflecting on your progress, with and without your manager, see section \@ref(reflecting)
 * Understanding that working with people is challenging for everyone (and enjoyable for many), see figure \@ref(fig:frances-fig)
+* Being aware of the transitions you'll need to adapt to, see figure \@ref(fig:stp-fig)
 * Staying in school. Despite leaving formal education, you should never stop learning, see section \@ref(neverstoplearning)
 
 ```{r frances-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionfrances)"}
