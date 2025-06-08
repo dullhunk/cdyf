@@ -137,6 +137,8 @@ echo "replaced mancrosoft.html "
 find . -name "*.html" -exec sed -I '' 's/bny.html/bny/g' {} +
 echo "replaced bny.html "
 
+find . -name "*.html" -exec sed -I '' 's/amf1.html/amf1/g' {} +
+echo "replaced amf1.html "
 
 
 
