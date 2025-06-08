@@ -51,8 +51,3 @@ You must also confirm that you are available to attend on 3rd July and are able 
 knitr::include_graphics("images/amanda-helen.jpeg")
 ```
 (ref:captionamanda) Amanda Conway and Helen Frost from the University of Manchester careers service visiting Aston Martin earlier this year. [@frost;@consultants]
-
-
-```{r aramco-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "aramco"}
-knitr::include_graphics("images/aramco.png")
-```
