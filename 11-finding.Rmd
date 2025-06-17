@@ -118,7 +118,17 @@ cat('<script src="https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b702
 cat('see https://gist.github.com/dullhunk/61bf8c20b4eb2da9a168ebb29b7026fd')
 ```
 
-Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search.
+Picking a specific technology can sometimes help you narrow down the options, for example by using these keywords in your search. The emphasis you put on technical skills in your degree will depend on which kind of employer you are applying to. Do they accept applicants with any degree, prefer a [STEM](Science, technology, engineering, and mathematics) degree or are they looking specifically for Computer Scientists, see figure \@ref(fig:degreeometer-fig).
+
+
+```{r degreeometer-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondegreeometer)"}
+knitr::include_graphics("images/degreeometer.png")
+```
+
+(ref:captiondegreeometer) What kind of degree is the employer you are applying to looking for? Degree O'Meter by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). [Remix by Yours Truly](https://remixer.visualthinkery.com/r/HlXp6oNvrEDb5G3JmzFb), make your own at [remixer.visualthinkery.com](https://remixer.visualthinkery.com/)
+
+
+
 
 ### Search by location {#by-location}
 If you were an [estate agent](https://en.wikipedia.org/wiki/Estate_agent), you might argue that the three most important parameters of your job search are:
@@ -388,7 +398,7 @@ knitr::include_graphics("images/gradcracker.jpg")
 knitr::include_graphics(rep("images/Wednesday_Waggle.png", 3))
 ```
 
-(ref:captionwaggle) If you're a University of Manchester student, the *Wednesday Waggle* is your weekly roundup of opportunities before and after graduation. The jobs newsletter is delievered to your inbox by email and is also archived at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). What's with all the bees? Bees symbolise community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
+(ref:captionwaggle) If you're a University of Manchester student, the *Wednesday Waggle* is your weekly roundup of opportunities before and after graduation. The jobs newsletter is delievered to your inbox by email (search for `waggle` in your inbox) and is also archived at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/). What's with all the bees? Bees symbolise community and work ethic and have been a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester) since the industrial revolution in the 19th Century. [Waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) artwork by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) 🐝
 
 
 ### For any job seekers {#generaljobs}
