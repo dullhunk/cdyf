@@ -55,10 +55,10 @@ performance
 ### Technical Stack Suggestions
 * Language: Python (preferred for prototyping), or JavaScript (if browser-based).
 * Libraries/Tools:
-    +  OpenCV for video processing.
+    +  [opencv.org](https://opencv.org/) for video processing.
     +  MediaPipe / OpenPose for pose estimation.
-    + TensorFlow or PyTorch (optional for custom ML models).
-    +  Streamlit, PyQt, or Electron for UI.
+    + [tensorflow.org](https://www.tensorflow.org/) or [PyTorch.org](https://pytorch.org/) (optional for custom ML models).
+    +  [streamlit.io](https://streamlit.io/), PyQt, or [electronjs.org](https://www.electronjs.org/) for UI.
 * Hardware: Compatible with 4K cameras (AI enabled camera will be provided).
 
 ## Timeline

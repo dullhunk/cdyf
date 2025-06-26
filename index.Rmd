@@ -24,7 +24,7 @@ always_allow_html: true
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = ""}
 knitr::include_graphics("images/CDYF-vision.png")
 ```
-Your future is bright, your future needs coding. Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and `code` your future in computing at [`www.cdyf.me`](https://www.cdyf.me). Also available as a free ebook and pdf (see section \@ref(downloading)), this guide is aimed at ALL students in higher education. While this guide supports teaching and learning at the University of Manchester, it doesn't actually matter:
+Your future is bright, your future needs coding. Welcome to *Coding Your Future*: the guidebook that will help you to design, build, test and `code` your future in computing at [`www.cdyf.me`](https://www.cdyf.me). This guidebook is aimed at ALL students in higher education. While this guide supports teaching and learning at the University of Manchester, it doesn't actually matter:
 
 * *where* in the world you are studying
 * what *stage* of your degree you are at, from first year through to final year
@@ -244,12 +244,9 @@ knitr::include_graphics("images/goldengate.png")
 
 ## Downloading Your Future {#downloading}
 
-The full text of this guidebook is freely available at [`www.cdyf.me`](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
+The full text of this guidebook is freely available at [`www.cdyf.me`](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet, laptop or desktop computer. If you'd prefer to read this guidebook in a single ebook or pdf file, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact).
 
-* [cdyf.pdf](https://www.cdyf.me/cdyf.pdf)
-* [cdyf.epub](https://www.cdyf.me/cdyf.epub)
-
-If you'd like to read this guidebook on your Kindle you can transfer the epub to your Kindle using [amazon.com/gp/sendtokindle](https://www.amazon.com/gp/sendtokindle).
+<!--If you'd like to read this guidebook on your Kindle you can transfer the epub to your Kindle using [amazon.com/gp/sendtokindle](https://www.amazon.com/gp/sendtokindle).-->
 
 In the future, a traditional printed paper copy from a publisher may also be available. If you're a publisher who'd like to publish this book the old fashioned way, please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact).
 
@@ -329,11 +326,10 @@ Besides bagging some swag, we'll be eternally grateful to you for telling us how
 
 ### For Everyone Else {#elseif}
 
-If you don't want to (or can't) use `git` and [github.com](https://github.com/) then you can:
+If you don't want to (or can't) use `git` and [github.com](https://github.com/) then you can just [email me suggestions for improvements](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
 
-* Add comments by annotating [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) or [cdyf.epub](https://cdyf.me/cdyf.epub) using your personal tablet of choice (iPad, [reMarkable](https://en.wikipedia.org/wiki/ReMarkable) or whatever) and [emailing your updated version to me](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
-* Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the typesetting algorithms in Word aren't anything like as good as the [LaTeX ones](https://latex4year1.netlify.app/) used to create the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) (output) from the [cdyf.tex](https://github.com/dullhunk/cdyf/blob/master/_book/cdyf.tex) (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a), one of it's [killer features](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.
-* Just [email me suggestions for improvements](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact)
+<!--* Suggest changes by editing the Microsoft Word version at [cdyf.docx](http://cdyf.me/cdyf.docx). The text is all there, but the images are all over the place. This is because the typesetting algorithms in Word aren't anything like as good as the [LaTeX ones](https://latex4year1.netlify.app/) used to create the [cdyf.pdf](https://www.cdyf.me/cdyf.pdf) (output) from the [cdyf.tex](https://github.com/dullhunk/cdyf/blob/master/_book/cdyf.tex) (input).^[Don't say I didn't warn you!] Make sure you've [turned on track changes in Word](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a), one of it's [killer features](https://en.wikipedia.org/wiki/Killer_feature) that allows your corrections to be easily identified from the original text.-->
+
 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
@@ -474,7 +470,7 @@ There is a wider community of scientists, engineers and scholars that have influ
 * Thanks to [David Malan](https://en.wikipedia.org/wiki/David_J._Malan) ([\@malan](https://cs.harvard.edu/malan/)) for [CS50](https://en.wikipedia.org/wiki/CS50) which is full of good ideas. [@cs50;  @cs50zoom; @CS502021] Thanks to [Cristian Bodnar](https://www.cdyf.me/cristian) for inviting David to run [CS50 in Manchester](http://cs50.hacksoc.com) in 2017 which was a great introduction to David's work [@cs50mcr]
 * Thanks to [Santiago Perez De Rosso](https://github.com/spderosso) for some great examples of badly written documentation in section \@ref(communicating). [@sigman07; @youtube-git]
 * Thanks to [Laurie Santos](https://en.wikipedia.org/wiki/Laurie_R._Santos), for *The Science of Well-being* (TSOWB) [@lauriesantos] which was been a big influence on this book had a gradual but significant effect on my personal and professional life. I've tried to distill some of the ideas into chapter \@ref(nurturing) on *Nurturing your future*
-* Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)), [Mine Çetinkaya-Rundel](https://en.wikipedia.org/wiki/Mine_%C3%87etinkaya-Rundel) ([\@mine-cetinkaya-rundel](https://github.com/mine-cetinkaya-rundel)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds; @r4ds2] which helped me get started with R and bookdown. If you're reading this page in some kind of web browser, the stylesheet used here is re-used from the first edition of the book [r4ds.had.co.nz](https://r4ds.had.co.nz/)
+* Thanks to [Hadley Wickham](https://en.wikipedia.org/wiki/Hadley_Wickham) ([\@hadley](https://github.com/hadley)), [Mine Çetinkaya-Rundel](https://en.wikipedia.org/wiki/Mine_%C3%87etinkaya-Rundel) ([\@mine-cetinkaya-rundel](https://github.com/mine-cetinkaya-rundel)) and Garrett Grolemund ([\@garrettgman](https://github.com/garrettgman)) for *R for Data Science* [@r4ds; @r4ds2] which helped me get started (and keep going) with R and its associated of [markdowns](https://en.wikipedia.org/wiki/Markdown). If you're reading this page in some kind of web browser, the stylesheet used here is re-used from the first edition of the book [r4ds.had.co.nz](https://r4ds.had.co.nz/)
 * Thanks to [David Walker](https://en.wikipedia.org/wiki/David_A._Walker_(scientist)) for his book *Energy, Plants & Man* which inspired the conversations and pictures idea behind this book. [@epm]
 * Thanks to [Dave Cliff](https://en.wikipedia.org/wiki/Dave_Cliff_(computer_scientist)) for your entertaining guest lectures for COMP101, see also figure \@ref(fig:cliff-vid)
 
@@ -830,13 +826,13 @@ knitr::include_graphics("images/fitzmaurice-grammar-school.jpeg")
 
 Thanks to the rest of my St Laurence school teachers not pictured in figure \@ref(fig:fitzmaurice-fig). In alphabetical order: Phil Arthur, Sally Arthur, [Maggie Bignell](https://www.wiltshiretimes.co.uk/memorials/death-notices/death/30515821.maggie-bignell/), [Jackie Bolton](https://www.wiltshiretimes.co.uk/news/11774162.the-life-of-mrs-jackie-bolton/), Tony Brooks, Dave Brush, Mrs. Buthlay, [Andrew Butterworth](https://www.youtube.com/watch?v=Hg9irmFwFr8), Cathy Cooper, Ed Corrin, Mrs Davies, Brian Ellis, Myra Ettridge, Sue Glanville, Ms. Gledhill, Roger Greenwood, Barry Hales, Amanda Hodges, [Steven Hollas](https://www.bathminervachoir.co.uk/our-accompanist), Maddy James, Mr Jones, Madame Lindsay, [Karen Long](https://www.amazon.co.uk/Karen-Long/e/B00NMARBTS), Sheila Macdonald, Simon Mitchell, Lee Musselwhite, Tim Noble, Roger Norgrove, Dave Pegg, Angela Pendennis, Sally Rose, Brian Reynolds, Steve Stretch, Mr Sadler, Mike Sullivan, Phil Smith, Rob Townhill, Beryl Tucker, Chris Watters, [James Wetz](https://www.sourcewatch.org/index.php/James_Wetz) and [Bill Wheeler](https://www.gazetteandherald.co.uk/news/7412797.school-marks-25th-with-street-party/).^[No, we didn't address teachers by their first names, it was always `Mr X`, `Mrs Y` or `Miss Z` but a bit of investigation has revealed their full identities.]
 
-Thanks to all of the [school governors](https://governorsforschools.org.uk/) for holding the leaders of St. Laurence to account. I'm a `#StateSchoolProud` member of the [93percent.club](https://www.93percent.club/). 💪
+Thanks to all of the [school governors](https://governorsforschools.org.uk/) for holding the leaders of St. Laurence to account. I'm a `#StateSchoolProud` member of the [93percent.club](https://www.93percent.club/). [@chrisleaver]
 
 ```{r laurence-fig, echo = FALSE, fig.show = "hold", out.width = "9.09%", fig.cap = "(ref:captiongudgeon)"}
 knitr::include_graphics(rep("images/st-laurence-school-logo.png", 11))
 ```
 
-(ref:captiongudgeon) The badge of St. Laurence School. The emblem is an adaptation of the Fitzmaurice badge with a pair of [gudgeon fish](https://en.wikipedia.org/wiki/Gudgeon_(fish)) symbolising the union of the two schools St. Laurence was created from: Trinity secondary modern school and Fitzmaurice Grammar School.
+(ref:captiongudgeon) The badge of St. Laurence School. The emblem is an adaptation of the Fitzmaurice badge with a pair of [gudgeon fish](https://en.wikipedia.org/wiki/Gudgeon_(fish)) symbolising the union of the two schools St. Laurence was created from: Trinity secondary modern school and Fitzmaurice Grammar School. 🐟🐟
 
 
 So, thank you to the community that is St. Laurence School, for enabling my GCSE's followed by A-levels in Physics, Chemistry, Biology and General Studies. Thanks for educating me (and many others) the [West Country](https://en.wikipedia.org/wiki/West_Country) way. Proper job! 🙏 [@bristle]
@@ -898,7 +894,7 @@ Beyond the paid stuff, I've done a range of voluntary work too, serving as a com
 ```{r faces-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfaces)"}
 knitr::include_graphics("images/faces.jpeg")
 ```
-(ref:captionfaces) Hindsight is a great teacher. Poor old grandad I laughed at all his words but I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)) [@faces] I've written some of what I know now in this guidebook, I hope you find it useful.
+(ref:captionfaces) Time is a great teacher. Poor old grandad I laughed at all his words but I wish that I knew what I know now, when I was younger, see [Ooh La La](https://en.wikipedia.org/wiki/Ooh_La_La_(Faces_song)) [@faces] I've written some of what I know now in this guidebook, I hope you find it useful.
 
 This guidebook documents some of what I know now, that I wish I'd known, when I was younger. If you're starting your career, I hope you find these insights and exercises useful. I've sat on both sides of many interview tables, as interviewer and interviewee. I have had some spectacular failures, alongside some modest successes, and have included personal stories where they are relevant.
 
