@@ -1,6 +1,6 @@
 # Opportunities with CodeCrafters {#crafting}
 
-CodeCrafters is a tool that helps you to sharpen your engineering skills and build your portfolio with a wide range of structured projects. Why? Because: 
+CodeCrafters is a tool that helps you to sharpen your engineering skills, build your knowledge and improve your portfolio with a wide range of structured projects. Why? Because: 
 
 * “_If You Build It, They Will Come_” see figure \@ref(fig:wikicome-fig).
 
@@ -8,29 +8,34 @@ CodeCrafters is a tool that helps you to sharpen your engineering skills and bui
 knitr::include_graphics("images/wikicome.jpg")
 ```
 
-(ref:captionwikicome) The phrase “_If You Build It, They Will Come_” is a slight misquote from the film _Field of Dreams_ where the lead character, played by Kevin Costner pictured above, hears a voice in his head telling him that “_If You Build It, He Will Come_”. [@fieldofdreams]
+(ref:captionwikicome) The phrase “_If You Build It, They Will Come_” is a quote from the film _[Field of Dreams](https://en.wikipedia.org/wiki/Field_of_Dreams)_ where the lead character, played by Kevin Costner pictured above, hears a voice in his head telling him that “_If You Build It, He Will Come_”. [@fieldofdreams] Fair use image from Wikimedia Commons. ⚾️
 
 If you build it, they _will_ come because:
 
 * Building stuff will help you learn new things
 * Building interesting software and hardware will help your CV stand out from your competitors
 * Building *anything* will supercharge your skills and knowledge by _applying_ what you have learned in your formal education
-* Building a range of projects will give you lots to talk about in job applications and interviews
-* Building stuff for curiosity can be fun!
+* Building a range of projects will give you _lots_ to talk about in job applications and interviews
+* Building stuff for curiosity can be fun! Build because you _want_ to, _because it's there_, not just because some Professor made you! 
 
-These are all strong arguments for working on `PROJECTS`, not just University coursework but personal, solo, voluntary, hacking, collaborative, freelance, tinkering and side projects done for _because it's there_, as outlined in section \@ref(projects). But:
+These are all strong arguments for working on all kinds of `PROJECTS`: personal, solo, voluntary, hacking, collaborative, freelance, tinkering or a pet side project, as outlined in section \@ref(projects). But:
 
 * where do you start? 
 * how can you keep going? 
 * when will you finish, if you finish at all?
 
-Open source software is great for portfolios but can be intimidating projects for beginners and outsiders, see section \@ref(opensource). Whether it's open or closed, building a portfolio can feel like drawing the owl shown in figure \@ref(fig:owl-fig): `Step 1`: draw some simple lines ...  `Step 2`: ... draw the rest owl. There's a **BIG** piece missing in the middle, the missing docs, to help you keep going and help you finish your engineering project(s). 
+Open source software projects are great fodder for portfolios but can be intimidating for beginners and outsiders, see section \@ref(opensource). Whether it's open or closed, building a portfolio can feel like drawing the owl shown in figure \@ref(fig:owl-fig): 
+
+1. draw some simple lines 
+1.  draw the rest owl 
+
+There's a **BIG** piece missing in the middle, the missing docs, to help you keep going and help you finish your engineering project(s). 
 
 ```{r owl-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionowl)"}
 knitr::include_graphics("images/owldraw.png")
 ```
 
-(ref:captionowl) Drawing an owl step by step should be an easy project: `Step 1` just your draw an oval and some simple lines, then `Step 2` fill in the rest of the owl. Easy? Not really, most people need more steps and help from the `missing docs`. Creative Commons licensed screenshot taken from Google's Tech Writing course, see section \@ref(techwriting). 🦉
+(ref:captionowl) Drawing an owl step by step should be an easy project: `Step 1` just your draw an oval and some simple lines, then `Step 2` fill in the rest of the owl. Easy? Not really, most people need more steps and help from the elusive `missing docs`. Creative Commons licensed screenshot taken from Google's Tech Writing course, see section \@ref(techwriting). 🦉
 
 ## Crafting Your Future with CodeCrafters {#codecrafters}
 
@@ -42,11 +47,11 @@ knitr::include_graphics("images/screenshot-codecrafters.jpg")
 
 (ref:captioncodecrafters) Become a better software engineer with CodeCrafters. Stop following tutorials designed for beginners. Start working on `PROJECTS` that actually challenge you. Become a better engineer through deliberate structured practice, screenshot from [codecrafters.io](https://codecrafters.io/)
 
-Co-founded by [Sarup Banksota](https://www.linkedin.com/in/sarupbanskota/) and [Paul Kuruvilla](https://www.linkedin.com/in/rohitpaulk/), CodeCrafters was backed by [ycombinator.com](https://www.ycombinator.com/) in 2022. The free tier of codecrafters gives you limited content access and community features, but we're excited to offer you something better. 
+Co-founded by [Sarup Banksota](https://www.linkedin.com/in/sarupbanskota/) and [Paul Kuruvilla](https://www.linkedin.com/in/rohitpaulk/), CodeCrafters was backed by [ycombinator.com](https://www.ycombinator.com/) in 2022. The free tier of codecrafters gives you limited content access and community features, but if you're a student at the University of Manchester, we're excited to offer you something better. 
 
 ## Free CodeCrafters for UoM students  {#freecode}
 
-If you're a student at the University of Manchester (UoM), we are pleased to be able to offer a one year membership for professionals, which [normally costs $30 per month](https://codecrafters.io/pricing) for free, **YES free!** via [manchester.ccio.dev](https://manchester.ccio.dev/).
+If you're a student at the University of Manchester (UoM), we are pleased to be able to offer a one year membership for professionals, which [normally costs $30 per month](https://codecrafters.io/pricing) for free (**YES free!**) via [manchester.ccio.dev](https://manchester.ccio.dev/).
 
 ```{r mancraft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionarpan)"}
 knitr::include_graphics("images/screenshot-arpan.jpg")
@@ -56,7 +61,7 @@ knitr::include_graphics("images/screenshot-arpan.jpg")
 
 ## Summertime and the Coding is Easy {#summertime}
 
-Unfortunately, Summertime coding^[summertime or _any_ vacation, holiday, weekends or down-time] isn't always easy. Building a portfolio of interesting projects takes time and resilience. Codecrafters makes this _easi-er_ by giving you structured projects to work through in your own time at your own pace. Their projects will help you build your knowledge and provide a portfolio of concrete evidence of your skills that you can use in your job applications and job interviews.
+Unfortunately, Summertime coding^[summertime or _any_ vacation, holiday, evening, weekend or down-time] isn't always as easy as we might hope. Building a portfolio of interesting projects takes time and resilience. Codecrafters doesn't make this *easy* but it does make it _easi-er_ by giving you structured projects to work through in your own time at your own pace. Their projects will help you build your knowledge and provide a portfolio of concrete evidence of your skills that you can use in your job applications and job interviews.
 
 Apart from any career considerations, it is fun to challenge yourself to build stuff just for the sheer enjoyment of it. _To engineer is human_, engineering can satisfy some of our most basic human impulses. [@henrypetroski]
 
