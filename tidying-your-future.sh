@@ -140,8 +140,8 @@ echo "replaced bright.html "
 # find . -name "*.html" -exec sed -I '' 's/imago.html/imago/g' {} +
 # echo "replaced imago.html "
 
-find . -name "*.html" -exec sed -I '' 's/w3a.html/w3a/g' {} +
-echo "replaced w3a.html "
+# find . -name "*.html" -exec sed -I '' 's/w3a.html/w3a/g' {} +
+# echo "replaced w3a.html "
 
 find . -name "*.html" -exec sed -I '' 's/crafting.html/crafting/g' {} +
 echo "replaced crafting.html "
