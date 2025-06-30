@@ -175,7 +175,14 @@ So as soon as after that, like me and my sister we put it back on our playlist b
 
 Good choice. Okay. So the other thing and is one podcast. I don't know if you listen to podcast but other if there are good podcasts out there that you listen to would you is the one that you recommend?
 
-> I don't really tend to listen to many. But one podcast I do is rotten mango. [@rottenmango] It's very, it's more. Like, if you're into [true crime](https://en.wikipedia.org/wiki/True_crime) obviously dark topics, but she takes it from a psychological perspective and a legal perspective, all these different things, it's tied in a more lighthearted way.
+> I don't really tend to listen to many. But one podcast I do is rotten mango, see \@ref(fig:truecrime-fig). [@rottenmango] If you're into [true crime](https://en.wikipedia.org/wiki/True_crime) obviously dark topics, but she takes it from a psychological perspective and a legal perspective, all these different things, it's tied in a more lighthearted way.
+
+```{r truecrime-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontruecrime)"}
+knitr::include_graphics("images/wikitruecrime.jpg")
+```
+
+(ref:captiontruecrime) [True crime](https://en.wikipedia.org/wiki/True_crime) a genre of non fiction dealing with violent crimes such as murders and serial killers, including high-profile cases. The [rottenmangopodcast.com](https://www.rottenmangopodcast.com/) is a popular true crime podcast. [@rottenmango] Public domain image a 1961 cover of _True Detective_ magazine from Wikimedia Commons [w.wiki/Ebrs](https://w.wiki/Ebrs) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238). 🪓
+
 
 Obviously in a more, it's still respectful. But in a very, you know, you're not feeling like groggy and like upset about the things you're listening to. It's very like interesting. So, if you're into that, it's really good. Okay. And then one film, was it gonna be the same film that you would just talk about using a different filter?
 
