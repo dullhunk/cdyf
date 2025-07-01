@@ -81,3 +81,8 @@ Big thanks to [Arpan Pandey](https://simple.arpanpandey.dev/) for negotiating an
 
 _Summertime_ is an aria composed by George Gershwin for the opera _Porgy and Bess_. [@summertime] Many versions of the song have been recorded by different artists including Ella Fitzgerald and Louis Armstrong shown in figure \@ref(fig:ella-vid). [@ella]
 
+```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
+cat('
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7343983844406009860" height="1211" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
+
