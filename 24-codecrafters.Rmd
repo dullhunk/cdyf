@@ -1,8 +1,8 @@
 # Opportunities with CodeCrafters {#crafting}
 
-CodeCrafters is a tool that helps you to sharpen your engineering skills, build your knowledge and improve your portfolio with a wide range of structured projects. Why? Because: 
+CodeCrafters is a tool that helps you to sharpen your engineering skills, build your knowledge and improve your portfolio with a wide range of structured projects. Why? 
 
-* “_If You Build It, They Will Come_” see figure \@ref(fig:wikicome-fig).
+> Because “_If You Build It, They Will Come_” see figure \@ref(fig:wikicome-fig).
 
 ```{r wikicome-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionwikicome)"}
 knitr::include_graphics("images/wikicome.jpg")
