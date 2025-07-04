@@ -1,6 +1,6 @@
 # Opportunities with CodeCrafters {#crafting}
 
-CodeCrafters is a tool that helps you to sharpen your engineering skills, build your knowledge and improve your portfolio with a wide range of structured projects. Why? 
+CodeCraftfers is a tool that helps you to sharpen your engineering skills, build your knowledge and improve your portfolio with a wide range of structured projects. Why? 
 
 > Because “_If You Build It, They Will Come_” see figure \@ref(fig:wikicome-fig).
 
@@ -24,12 +24,12 @@ These are all strong arguments for working on all kinds of `PROJECTS`: personal,
 * how can you keep going? 
 * when will you finish, if you finish at all?
 
-Open source software projects are great fodder for portfolios but can be intimidating for beginners and outsiders, see section \@ref(opensource). Whether it's open or closed, building a portfolio can feel like drawing the owl shown in figure \@ref(fig:owl-fig): 
+[https://en.wikipedia.org/wiki/Open-source_software](Open-source software) is great fodder for portfolios but can be intimidating projects for beginners and outsiders, see section \@ref(opensource). Whether it's open or closed, building a portfolio can sometimes feel like drawing the owl shown in figure \@ref(fig:owl-fig): 
 
 1. draw some simple lines 
 1. draw the rest owl 
 
-There's a **BIG** piece missing in the middle, the missing docs, to help you keep going and help you finish your engineering project(s). 
+There's a **BIG** piece missing in the middle, the missing docs, to help you start, keep going and help you finish your engineering project(s). 
 
 ```{r owl-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionowl)"}
 knitr::include_graphics("images/owldraw.png")
@@ -61,7 +61,7 @@ knitr::include_graphics("images/screenshot-arpan.jpg")
 
 ## Summertime and the Coding is Easy {#summertime}
 
-Unfortunately, Summertime coding^[summertime or _any_ vacation, holiday, evening, weekend or down-time] isn't always as easy as we might hope. Building a portfolio of interesting projects takes time and resilience. Codecrafters doesn't make this *easy* but it does make it _easi-er_ by giving you structured projects to work through in your own time at your own pace. Their projects will help you build your knowledge and provide a portfolio of concrete evidence of your skills that you can use in your job applications and job interviews.
+Unfortunately, Summertime coding^[summertime or _any_ vacation, holiday, evening, weekend or down-time] isn't always as easy as we might hope. Building a portfolio of interesting projects takes time and resilience. These demands need to be balanced with your academic commitments, social life and possibly a part-time job if you have one. Codecrafters doesn't make this *easy* but it does make it _easi-er_ by giving you structured projects to work through in your own time at your own pace. Their projects will help you build your knowledge and provide a portfolio of concrete evidence of your skills that you can use in your job applications and job interviews.
 
 Apart from any career considerations, it is fun to challenge yourself to build stuff just for the sheer enjoyment of it. _To engineer is human_, engineering can satisfy some of our most basic human impulses. [@henrypetroski]
 
