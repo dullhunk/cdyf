@@ -149,6 +149,8 @@ echo "replaced crafting.html "
 find . -name "*.html" -exec sed -I '' 's/china.html/china/g' {} +
 echo "replaced china.html "
 
+find . -name "*.html" -exec sed -I '' 's/graduating.html/graduating/g' {} +
+echo "replaced graduating.html "
 
 
 
