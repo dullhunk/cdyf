@@ -1,4 +1,4 @@
-
+# Raw machine-generated podcast transcript, contains errors
 
 Right. So um, Welcome. Hello. Welcome to hearing your future, so, In this interview, I want to just catch up with you here a little bit more about your story. So, And let's start with um what's your name and where'd you come? So my full name is a bit of a mouth so I usually go by bonjour from Bulgaria.
 

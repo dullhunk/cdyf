@@ -1,11 +1,11 @@
 # Minahil's Story {#minahil}
 
-Meet Minahil Tariq, shown in figure \@ref(fig:minahil-fig). Minahil graduated with a Bachelor of Science degree in Artificial Intelligence in 2025. During her study, she did a summer internship at [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) and served as Chair of [unicsmcr.com](https://unicsmcr.com): the University of Manchester Computer Science society. After this episode was recorded she started a job with the Virtual Engineering Centre [virtualengineeringcentre.com](https://www.virtualengineeringcentre.com/) (VEC) at the University of Liverpool.
+Meet Minahil Tariq, shown in figure \@ref(fig:minahil-fig). Minahil graduated with a Bachelor of Science degree in Artificial Intelligence in 2025. During her study, she did summer internships at the University of Manchester and [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services), see figure \@ref(fig:minahil-internships-fig). She served as Chair of [unicsmcr.com](https://unicsmcr.com): the University of Manchester Computer Science society. After this episode was recorded she started a job with the Virtual Engineering Centre [virtualengineeringcentre.com](https://www.virtualengineeringcentre.com/) (VEC) at the University of Liverpool.
 
 ```{r minahil-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionminahil)"}
 knitr::include_graphics("images/linkedinminahil.jpg")
 ```
-(ref:captionminahil) Minal Tariq [linkedin.com/in/minahil-h-tariq](https://uk.linkedin.com/in/minahil-h-tariq). Picture re-used from LinkedIn with permission, thanks Minahil. 🙏
+(ref:captionminahil) Minahil Tariq [linkedin.com/in/minahil-h-tariq](https://uk.linkedin.com/in/minahil-h-tariq). Picture re-used from LinkedIn with permission, thanks Minahil. 🙏
 
 (ref:podcastblurb)
 
@@ -16,7 +16,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## What's Your Story Minahil? {#minahil-story}
 
-We talked about switching from studying law to studying computer science and the benefits of slowing down. We also discussed why _The Intern_ is one of her favourite films and _Surely You're Joking, Mr. Feynman!_ is one of her favourite books. We also discussed her experience of being a member of under-represented and minority groups, particularly women in computing.
+We talked about switching from studying law to studying computer science, and switching from studying in the USA to studying in Manchester. We chatted about the benefits of slowing down. We also discussed why _The Intern_ is one of her favourite films and _Surely You're Joking, Mr. Feynman!_ is one of her favourite books. We also discussed her experience of being a member of under-represented and minority groups, particularly women in computing.
 
 During her study Minahil presented at the BCS Women Lovelace Colloqium at the University of Glasgow: [bcswomenlovelace.bcs.org](https://bcswomenlovelace.bcs.org/) see figure \@ref(fig:bcswomen-fig), [@minahilwomen] There's a [raw, unedited, machine generated transcript of the podcast here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-minahil.md).
 
@@ -24,6 +24,14 @@ During her study Minahil presented at the BCS Women Lovelace Colloqium at the Un
 knitr::include_graphics("images/minahil-bcs.jpg")
 ```
 (ref:captionbcswomen) Minahil presenting her undergraduate thesis [@minahilthesis] at the BCS Women Lovelace Colloqium [bcswomenlovelace.bcs.org](https://bcswomenlovelace.bcs.org/). [@minahilwomen]. Pictures re-used from LinkedIn with permission, thanks Minahil.
+
+We discussed interning at the University of Manchester and AWS, shown in figure \@ref(fig:minahil-internships-fig).
+
+```{r minahil-internships-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionminahilinterns)"}
+knitr::include_graphics("images/minahil-internships.jpg")
+```
+(ref:captionminahilinterns) Minahil did summer internships at the University of Manchester (left) and [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (right). AWS is a subsidiary of Amazon that provides on-demand cloud computing platforms to individuals, companies, and governments, on a metered, pay-as-you-go basis.
+
 
 
 ## One Book {#minahil-book}

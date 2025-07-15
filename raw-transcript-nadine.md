@@ -1,5 +1,5 @@
 
-## UNSPLICED
+# Raw machine-generated podcast transcript, contains errors
 
 Thank you Nadine for joining us today. Can you say a little about who you are and where you're from? 
 

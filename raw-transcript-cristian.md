@@ -1,3 +1,5 @@
+# Raw machine-generated podcast transcript, contains errors 
+ 
  Okay. So, Welcome, Christian. And could you start by saying a little bit about? And who you are and wait from. My name is Christian Botner, I'm a senior researcher at Microsoft and I'm originally from Romania, and also graduated from Manchester in 2018 18.
 
 So five, probably five years ago. Yeah. Okay. Good. Thank you. So, what I wanted to do today is is capture a little bit of A your story from. Starting studying peer signs even longer ago, eight, eight years ago now, and then your journey to where you are now in a short space of time.

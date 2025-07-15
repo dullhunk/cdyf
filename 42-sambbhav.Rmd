@@ -1,6 +1,8 @@
 # Sambbhav's Story {#sambbhav}
 
-Meet Sambbhav Khare, shown in figure \@ref(fig:sambbhav-fig). Sambbhav graduated with an MEng degree in Computer Science with Industrial Experience in 2025. During his study, he did an internship at Atmos International [atmosi.com](https://www.atmosi.com) in Manchester and served in several societies including [Google Developer Groups (GDG) on Campus](https://gdg.community.dev/gdg-on-campus-the-university-of-manchester-manchester-united-kingdom/). There's a [raw, unedited, machine generated transcript of the podcast here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-sambbhav.md).
+Meet Sambbhav Khare, shown in figure \@ref(fig:sambbhav-fig). Sambbhav graduated with an Master of Engineering (MEng) degree in Computer Science in 2025. During his study, he did an internship at Atmos International [atmosi.com](https://www.atmosi.com) in Manchester and served in several societies including [Google Developer Groups (GDG) on Campus](https://gdg.community.dev/gdg-on-campus-the-university-of-manchester-manchester-united-kingdom/).
+
+There's a [raw, unedited, machine generated transcript of the podcast here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-sambbhav.md), summarised below.
 
 ```{r sambbhav-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionsambbhav)"}
 knitr::include_graphics("images/linkedinsambbhav.jpeg")
@@ -17,7 +19,13 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## What's Your Story Sambbhav? {#sambbhav-story}
 
-During the podcast we discussed the experience of moving from India to the UK, student societies, working for Atmos International and the graduate visa and skilled worker visas.
+During the podcast we discussed the experience of moving from Kanpur in India (see figure \@ref(fig:kanpur-fig)) to the UK, student societies, working for Atmos International and seeking graduate visas and skilled worker visas.
+
+```{r kanpur-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionkanpur)"}
+knitr::include_graphics("images/wikikanpur.jpg")
+```
+(ref:captionkanpur) Sambbhav moved ot Manchester from [Kanpur](https://en.wikipedia.org/wiki/Kanpur) the largest city of the Indian state of Uttar Pradesh sometimes known as the “Manchester of the East”, for its chemical, textile and leather industries. 🇮🇳
+
 
 We also discussed voluntary work and student societies, such as working with Parrs Wood High School in Manchester. 
 
@@ -31,7 +39,7 @@ For his tune, Sambbhav chose Spotify [Coding Music: Programming Playlist](https:
 
 ## One Podcast {#sampod}
 
-Sambbhav doesn't really listen to podcasts, but the next best thing Sambbhav chose was [Movie Recaps](https://www.youtube.com/channel/UCyXD1jAZBdZ4u0K-GLYC77Q), film summaries on YouTube, see figure \@ref(fig:movierecaps-vid).
+Sambbhav doesn't listen to podcasts much, but the next best thing Sambbhav chose was [Movie Recaps](https://www.youtube.com/channel/UCyXD1jAZBdZ4u0K-GLYC77Q), film summaries on YouTube, see figure \@ref(fig:movierecaps-vid).
 
 
 ```{r movierecaps-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionmovierecaps)"}
@@ -43,7 +51,7 @@ knitr::include_url('https://www.youtube.com/embed/Yr_PkUDH0mQ')
 
 ## One Book {#sambook}
 
-For his book, Sambbhav chose Harry Potter (any of them), see figure \@ref(fig:potter-fig).
+For his book, Sambbhav chose Harry Potter, see figure \@ref(fig:potter-fig).
 
 ```{r potter-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionpotter)"}
 knitr::include_graphics("images/wikipotter.jpg")

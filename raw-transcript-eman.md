@@ -1,3 +1,5 @@
+# Raw machine-generated podcast transcript, contains errors
+
 An introduction. Just say a little about who you are. Yes, my name is Eman and I am from originally from Pakistan. I grew up there. And when I was 18, I moved here with my family, my whole family.
 
 And yeah, I've been living in Manchester since then I started going to Uni in 2019. I did a foundation year. Then I also did a place in the air, so I have been here a total of five years. It was a very long time. It seems like and a lot's happened in the last five years.

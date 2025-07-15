@@ -1,3 +1,4 @@
+# Raw machine-generated podcast transcript, contains errors
 
 So welcome. Can you tell us a little bit about? What's your name? And how did you get to be here today? Yeah, thank you for having me. First of all. Um, I'm Mona Hassan. I did my degree in computer, science and Mathematics, and I'll be graduating this year. So, got graduation next week.
 

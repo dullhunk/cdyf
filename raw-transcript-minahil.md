@@ -1,3 +1,5 @@
+# Raw machine-generated podcast transcript, contains errors
+
 So Welcome. Thank you, uh, for coming on the show.
 
 Um, could you start by saying a little bit about if you want what your name is and how you got to hear today? I'm manahu. I'm from Pakistan originally. And I came here, I think around three years ago in Manchester Um, and um, Can you remember your first exposure to Computing?

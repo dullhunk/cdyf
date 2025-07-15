@@ -1,3 +1,4 @@
+# Raw machine-generated podcast transcript, contains errors
 
 So let's start the beginning and what your name and where you come from. 
 

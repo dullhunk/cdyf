@@ -1,3 +1,5 @@
+# Raw machine-generated podcast transcript, contains errors
+
 So my name is Stefania. Chaplin, I am a University of Manchester computer science, graduate from the year 2013 and currently I am working as a Solutions architect at git lab which is my main job. And then I also do a lot of professional speaking and workshop under my own brand, which is Dev step Ops, which is a play on the word Dev setups.
 
 Okay, great. So, um, Go go a little bit back in time to a high school. So, where does this interest in Computing from? Can you remember, what your first exposure to Computing was as a high school, or maybe even a primary school student? It was probably um, primary school because it would have been about 2001 when the original Sims was there, right?

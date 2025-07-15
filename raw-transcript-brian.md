@@ -1,3 +1,5 @@
+# Raw machine-generated podcast transcript, contains errors
+
 So thank you for coming in today, Brian and telling us a little bit more about your journey as a computer science student and can you before we start? So can you tell us a little bit about yourself and how you've got to how you came to study, computer science?
 
 > Brian: Yeah sure. So I'm originally from Spain and honestly I've always been sort of interested in computers and technology in general. So choosing computer science says a degree was kind of natural to me more less. And in my case I went for the option of computer science with business and management which I don't think is an option anymore. Nonetheless it sort of combines computer science with some business subjects. So you kind of get exposure to both fields and I started in Manchester in 2018.

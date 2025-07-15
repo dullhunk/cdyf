@@ -1,3 +1,5 @@
+# Raw machine-generated podcast transcript, contains errors
+
 Okay, so welcome Amish. Could you say a little bit about? Who you are and where you're from. Yeah. So my name is Amish, I'm from Ashton which is just outside. Manchester It's where the Ike here is.
 
 I'm just, I just, I've just finished exams now, You just finished exam So you actually had I think you've just had a break and come back from. Yeah, so I had like two or three weeks right between examples. So thanks for coming back in after your exams back to university.
