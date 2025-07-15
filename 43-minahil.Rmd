@@ -11,7 +11,7 @@ knitr::include_graphics("images/linkedinminahil.jpg")
 
 
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
-cat('<iframe></iframe>')
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/37399310/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
 ## What's Your Story Minahil? {#minahil-story}
@@ -38,6 +38,7 @@ knitr::include_graphics("images/surely-joking.jpeg")
 (ref:captionjoking) _Surely You're Joking, Mr. Feynman! Adventures of a
 Curious Character_ is an edited collection of reminiscences by the Nobel Prize-winning
 physicist Richard Feynman. [@surelyjoking]
+
 
 
 ## One Film {#minahil-film}
