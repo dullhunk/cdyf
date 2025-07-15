@@ -18,7 +18,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 We talked about switching from studying law to studying computer science and the benefits of slowing down. We also discussed why _The Intern_ is one of her favourite films and _Surely You're Joking, Mr. Feynman!_ is one of her favourite books. We also discussed her experience of being a member of under-represented and minority groups, particularly women in computing.
 
-During her study Minahil presented at the BCS Women Lovelace Colloqium at the University of Glasgow: [bcswomenlovelace.bcs.org](https://bcswomenlovelace.bcs.org/) see figure \@ref(fig:bcswomen-fig), [@minahilwomen]
+During her study Minahil presented at the BCS Women Lovelace Colloqium at the University of Glasgow: [bcswomenlovelace.bcs.org](https://bcswomenlovelace.bcs.org/) see figure \@ref(fig:bcswomen-fig), [@minahilwomen] There's a [raw, unedited, machine generated transcript of the podcast here](https://github.com/dullhunk/cdyf/blob/master/raw-transcript-minahil.md).
 
 ```{r bcswomen-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbcswomen)"}
 knitr::include_graphics("images/minahil-bcs.jpg")
@@ -43,7 +43,7 @@ physicist Richard Feynman. [@surelyjoking]
 
 ## One Film {#minahil-film}
 
-For her film chose [The Intern](https://en.wikipedia.org/wiki/The_Intern) [@theintern] for the calm demeanour of the senior intern played by Robert De Niro, see figure \@ref(fig:theintern-fig)
+For her film, Minahil chose [The Intern](https://en.wikipedia.org/wiki/The_Intern) [@theintern] for the calm demeanour of the senior intern played by Robert De Niro, see figure \@ref(fig:theintern-fig)
 
 ```{r theintern-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiontheintern)"}
 knitr::include_graphics("images/the-intern.jpeg")
@@ -54,10 +54,10 @@ knitr::include_graphics("images/the-intern.jpeg")
 
 ## Studio Selfie {#minahil-selfie}
 
-Minahil took this studio selfie, see figure \@ref(fig:minahil-selfie-fig)
+Minahil shared the studio selfie shown in figure \@ref(fig:minahil-selfie-fig)
 
-```{r minahil-selfie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbcswomen)"}
+```{r minahil-selfie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionminaselfie)"}
 knitr::include_graphics("images/minahil-studio-selfie.jpg")
 ```
-(ref:captionselfie) Thanks for the tudio selfie by Minahil 🤳
+(ref:captionminaselfie) Thanks for the studio selfie by Minahil 🤳
 
