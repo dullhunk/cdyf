@@ -152,5 +152,12 @@ echo "replaced china.html "
 find . -name "*.html" -exec sed -I '' 's/graduating.html/graduating/g' {} +
 echo "replaced graduating.html "
 
+find . -name "*.html" -exec sed -I '' 's/minahil.html/minahil/g' {} +
+echo "replaced minahil.html "
 
+find . -name "*.html" -exec sed -I '' 's/sambbhav.html/sambbhav/g' {} +
+echo "replaced sambbhav.html "
+
+find . -name "*.html" -exec sed -I '' 's/muna.html/muna/g' {} +
+echo "replaced muna.html "
 

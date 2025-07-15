@@ -1,0 +1,355 @@
+So Welcome. Thank you. My name is Sambbhav and I'm originally from India. I'm an international student here and fun fact, I'm from Manchester of India. So, all right. Okay. Uh, a city called kanpur, it's called Manchester of India because it's also the industrial Etc.
+
+And I never imagined coming here to Manchester, but like, apparently I came from Manchester of India to Manchester UK. Yeah. And thanks for coming on the show today. So I wanted to talk to you about so the first thing is, um, What's your story? So can you tell us a little bit about?
+
+Let's go back to the beginning. So you're graduating in computers masters of engineering, computer science, computer science, and I'd like to go back to the beginning of like where did you develop that interesting Computing and what was it that made? You think this is something I want to study at University.
+
+Say like my father, he was quite interested in maths Etc. And he was also in banking like he was when he retired, he was DGM of Bangkok Baroda in India so like my interest was towards match and Gcsc, like I selected maths and like GCC equivalent. I selected maths and computer science ins.
+
+And also I was studying physics chemistry but What I saw was like chemistry till gcsc, I really liked and physics also and I thought chemistry in maths, that would be my subject, which I will study, but as soon as I reach, started the a levels for two years That I found that chemistry.
+
+I can't learn because till now it was simple easy, but then comes the exception and I'm like, okay no I will not. I can't do that much and physics. I like but uh, I always get good marks in it, but I didn't have much interest in that, right? So in the end it was maths in computer science.
+
+So I uh, I chose that. And In GCC also I got good marks in a levels, also. Oh, I got full Mark. So I was like, okay this could be the thing which I should uh follow. And I completed my 11, a level equivalence in 2020. But I joined in 2021.
+
+So once did you miss covet you just missed covet or did you finish? So what happened was uh uh in uh, in India, there's uh, entrance example, for engineering colleges. Uh uh Jay means the uh for Indian Institute of Technology. 10 or 12, 000, super competitive. Yes, and only after 99 percent, you get, uh, selected if you are their cost systems as well.
+
+So General category like us, they get only after 99 plus you have. So and then covet hit and It got postponed like for six months and then I lost right? I was like okay uh so then I joined another one which through my marks uh my a level marks.
+
+I got into a college called Ajay Kumar engineering College. It was Neo New Delhi. Uh, study from there. So I thought, okay, I can join there and he could write me through it. And, uh, I joined that I studied there in India. What happens is first year is completely, uh, they teach everything.
+
+So they teach us architecture chemistry physics. Biology everything. Okay. So like they make your Basics completely in all the engineering Fields. And computer, they didn't touch it. Like, I remember in my second semester, the computer science but although my degree was computer science error as well, but they just touched what is CPU and CE programming a little bit that only.
+
+But when I came here, like then my cousin only who studied there. Uh, he's currently in Cisco, Hana in Ireland. So he told me that there are opportunities outside as well. So you should apply and the IIT and Etc. These are like, these are not that good, but here you will get more exposure.
+
+So then I started applying outside in UK, since I had relatives in London, Etc. So I applied here so that I have someone, right? And yeah, experience of studying University in India. Major thing I don't, I mean she finished the year and so it's much more theoretical than practical?
+
+Like the things which I did in first year here that was being taught to them in third year, right? And it's
+
+Bachelor of Technology. Yeah, so first, here is just basic everything and then other, then they go into specialisation of computer science, Etc. So, one year, like, it's excited. So, I did finish that here but, uh, by the time I got the offer and I had the like my marks Etc.
+
+So, they gave me an unconditional offer when they applied to other places but as soon as I got Manchester, I was like, okay, then I Was really expensive and yeah, yeah, okay good. So, um, So, Let's your first year here. How did you find? I mean, that must have been a big step.
+
+Adapting to Unless you speak the language already. But there's a cultural differences that you have to try and navigate as you write it. How did you get on with that one? Major thing was like uh, my English is okay, like uh in my school like I could say, my English was the worst.
+
+I didn't never plan to go out, but I was like, okay. I will be in India and everything, but uh, Know, it's much more better than before but like I also even though I got 80 marks in English and So, that was Another thing, like, when I came here, I got to speak much more English.
+
+Yeah, than before, although I was, I had a lot of Indian friends, so At home Etc. I was speaking Hindi a lot but like that was one thing that I was able to speak and in school, I was a bit shy and I don't know, I was introvert. I, I feel I was because I didn't take part in anything or a extracurricular.
+
+I just study and talk with two, three of my friends and nothing else. But when I came here, Was like, okay, I need to get out and I start going to. I remember my first social, which I went was of actchester, previously called crackchester And there I got to talk with all the people because I wanted something of cyber security to get to know and then unisas and everything.
+
+So, Slowly, like, in first year, I also had to learn everything like in India, we don't have such great system, like transport. I like, uh, clicking the button and then moving, uh, people usually go and sometimes cows Etc, there. So that as well. But, but yeah, I really like the nature of people here.
+
+Uh, India also like it's really nice but like, the rule following. That's much more better here in terms of traffic so that I had to learn. And like, also, there's a yellow red light, uh, like, uh, and I didn't know what it was. But, uh, like so my, uh, my cousin brother and, uh, and sister-in-law who lives in London, they taught me everything right while I was in quarantine there and uh, everything.
+
+Oh, so you arrived in so you write in Thailand of no, hang on. So what year did you start? It's four years ago. September 2021, 21. So we're in uh,
+
+And then a lot of that first year must have been online. I didn't choose to live, like I'm paying International because I'm coming here and studying so you're here. Yeah, uh, yeah, yeah. Okay. Yeah, I came here like I was studying in person only. Yeah, although like, uh, this was the first I never travelled alone, like I always travelled with my parents.
+
+Strip alone. I never travelled like city to City also alone and I travelled a whole country from London to Manchester, yes, also from from Delhi to like, uh, to London and then here and everything. So it was potential big adventure. Really big step. Like, my parents were really nervous about it because I was going alone and they couldn't accompany me because of the covet situation, right?
+
+Yeah. So what it was? Yeah. So you, you adjusted to being here in your first year and then lots of stuff, uh, in your first year, python and a bit. At the end of your first year, were you looking for jobs at that point or So, yeah, the uh, the mistake I did was I wasn't looking for jobs at the end of first year, although I participated in the hackathon, which is a good thing to do.
+
+Yeah. But I didn't submit in that because I didn't know anything. I was just learning and watching YouTube. The thing was, I was so homesick. I like a missing home that I wanted to go back out back because only two, three months are there. Yeah, so, but uh, now I I think like, I should have, uh, done an internship at that time.
+
+That could have benefited me a lot. First enough, I mean you come all the way from India, you arrive here and then I guess in the summer the first thing you want to do is go back home. Yes. Enough. So you you come back into second year and then you were applying for placements at the beginning of the second year, or yes.
+
+Oh, so what made you shift from not being interested in working to, suddenly I'm going to apply for placements. So in uh, I remember, uh, leg towards the end of first year. Well, uh, one thing, uh, like I got to know about the inside weeks from, uh, my past leaders.
+
+Uh, Luke will, and Jeremy. And so they guided me, uh, like to apply to those and I applied to that. And I, I did, uh, to, like namora and Amazon inside weeks, it was just CV and CBI already have made, and because we had together inside weeks in your second year, Easter of your second year, is that right?
+
+Or was it? I it was towards the end of first year, if I'm not wrong.
+
+But you didn't do a summer internship, right? So you did the you got it's a good thing to do. Anyway, right. So, I guess sometimes there's an offer of a summer internship at the end of it, isn't it? Yes. Uh, so Another thing came after that, uh, I think Uh, one thing I, I remember either on the first years and or second years, and I did these inside weeks and then I got to know that in Amazon like, uh, they send us the applications before they release it publicly.
+
+So we got the link first and they don't open it, right? So that's the benefit. And it also has, uh, two mentorship session program. Like first, you have two three days where they tell about everything. And then for in a month you can have two sessions with Amazon. There could be a personal Mentor, you can ask them to interview you or check your CV or like maybe discuss some other topics in depth, Etc.
+
+Called as an in-person in London and but in namura they offered like to do either a placement here or a graduate, like it was for students who would who could do industrial experience or that. Yeah, yeah. Another mistake, which I made was, I couldn't explain my parents, what's an industrial year?
+
+So they were like, what are you saying? It doesn't exist or it's not very common in the universe? Yes, exactly. The thing is internships are quite common but like, because a massive office in Bangkok, isn't it? Yeah. And they do internships. Yeah, so it's a thing. Yes, of course.
+
+The thing is, uh, what my parents like, when I was explaining, I told them as an industrial experience. What they, uh, understood was like, you want to work for a year and then study, right. But I wanted to explain them that it's a year-long internship and then you get to continue that and you get a whole year, right?
+
+So I couldn't, uh, like since it was first second year, I couldn't explain them. Exactly. And plus, those Indian parents. So I can't argue with them. So I was like, okay, leave it and because I had to change my degree also for that. Right, right. And it would become five-year program and or make it three plus.
+
+So you did
+
+I didn't got any opportunities uh, there, uh and I couldn't explain no more. Third year towards the end. I did two internships, right? But in this, uh, like in the third year, uh, like from November to May, I did Imago right students of programming. Like, I did part time what the, what the student software companies.
+
+Okay. So, uh, it's, uh, Of computer science run by Suzanne and it's a company for students who studying in University of Manchester, they bring projects Ah two students and they hire students on Project by project basis on early wage and The best thing is like, they allow us time for like our exams coursework and we don't have to work 20 hours a week, which is allowed in a Visa, but you can work for 8, 10 11 hours, and one hour per time.
+
+Yes, during sometimes. Yes. Yeah, well they do have full time as well. Yeah, they have full time during summer and I think winter vacation as well. Sometimes. I'm trying to get Suzanne to have a placement here at tomorrow. We're working on it, we're not there yet. So at the moment it's just part-time in summer internship.
+
+Maybe in the future. Yeah, I mean that was a really good experience. And one thing I really like those like,
+
+A user story and then made the feature and we were using a Trello board and everything that was really good there and I really like that. And I have talked a lot about that. In, in my interviews to impress them about agile, I could have examples, right? Because the one thing that would differentiate you from People on your course who some of whom you're competing with when you're applying for jobs, is anything that you've done that?
+
+They haven't exactly. So the fact that you've done some agile software engineering and you can, you can talk about examples of. Well, when I was doing this, I used this methodology and this was the result. And that's why like, currently in my CV, I've added more of hackathon projects than University projects, uh, because that was good, right?
+
+Yeah, kind of 500 students in a batch would be doing those projects. So they will have the same content, but you see. I see lots of students TVs that don't have any hackathons on. Yes. So, you know, that doesn't I mean, it's not a requirement true, but if you're showing, if you're looking at two people and one person's got a hackathon on the CB and the other person hasn't and everything else is the same.
+
+Yes. The hackathon person is probably more interesting. Interesting. Just kind of learning and you're just like building stuff for fun. Yeah right. Yeah. And, So so um, we've got so you've done. So this was uh, Imargo. So can you who, who was the client that you're working for? I was working for flag me project, right?
+
+Uh, Like me? Yeah, flag me. So, basically, we were working on a open source hospital run. Uh, Appointment where we were making. Like a flag me logo to pop up in NHS. Kind of softwares where we're talking like a mobile app or a desktop Apple. It's, uh, in both ways.
+
+The because it was the NHS surface, so it would be mostly in uh, Next stop. But like their website was both mobile and laptop in that basically what happens is if a person with disability comes to a chemist And uh, like they put in their details, Etc. They either like as soon as they put the detail, they get a pop-up that.
+
+Okay. Uh, this person has this disability and you could help them in this way. It also, uh, gives a link in the website, which tells all the strategies which in which way you can help them, uh, be more comfortable. Uh, for instance, like, uh, if someone has some, uh, hearing problem, what they can do is instead of like standing or, uh, not, uh, like stand in front of them so that they can listen to them.
+
+Or if someone has eye problems. So stand exactly in front of them. So that, uh, they can focus on us and not any obstacle or if they have hearing problem, maybe take them to a small room if you have office or something like that and talk there and slowly, uh, everything.
+
+So that kind of thing. So when I was working,
+
+This summer Sandhouse was working on, improving it in further, okay? And I was working with will like will and Lucy on that part-time project and uh also a vichit or someone I don't remember. So I think they tend to have kind of Safely responsible kind of confusing. So yeah.
+
+There's a lot of places you can go and work where it's about money and that's something wrong with that. But these tend to have Kind of social Dimension to them. Don't know where it's like, trying to make the world a better place. Cool if we can yeah, with Computing?
+
+Yeah, and also like uh, What I really like this because like I was in Google developer spring club so I wanted like in there it was a solution challenge is done for Community basically to improve the community right? This year, they have just made it to Asia because the timeline splashed with our exams Etc in UK.
+
+So, So like I wanted to do stuff for community and that really came in that scenario. And yeah, also interesting thing for Imago, I think I applied Each year in all the roles. Then the thing was, I only had Like I had University experience, of course, but uh I had more of website development web development uh experiences because I did a match socks website and then Uniscs website.
+
+Etc. So like I had more on website and other universities of everyone does. So, There wasn't a role where I had many skill sets. So Suzanne said, when it will come, uh, like if you are applying for it, uh, we will look into it. So I kept applying for three years then I got the Imago, and, but the thing was in the last like, I think, I applied three, four times and the last one she didn't took interview because she already knew I've gone to multiple times.
+
+So so yeah, sharing remarkable uh resilience and keeping going. And one thing I've noticed about you is that you don't give up easily and you keep going. And I think it is is very difficult finding a job and one of the most important things you can do is just keep doing it.
+
+I would have applied like 500 plus places now. I think so it would be and you've got, I mean, you've got results to show that because you've done Imago what other internships have you done along the way. So, uh, so I did part-time Imago then I did a summer intern at University.
+
+Like GUI for for their tunado VM only like, Is a virtual machine. Presumably, what? I don't know. Too much about it. What does it do? Who's it for? So it's open source. Yes, it's open source, but I was working in one of the algorithms, uh, some K, uh, some, uh, algorithm, uh, in that what happens is, uh, it was used to, uh, like, if you, uh, create a capture a video, it creates a 3D model of it, right?
+
+And, and, uh, so I had to, uh, it works, uh, on terminal Etc. But the GUI it was in, uh, I and Java doesn't support that anymore, right? So I had to work on that. So I had to use a Java effects to work on that. And I build a function like the GY of it, but the back end uh like uh, because a few of the vulnerabilities, uh, we weren't able to finish that, right?
+
+But uh, like, yeah. Okay, experience, yes. It was a really good experience and And also, like I got to show something open source so that really, I really like, I was tough is that you can put it out there. So like often when you're working on software, it's hidden behind some company.
+
+Yes. Firewall, or whatever. And that's to be expected. But the nice thing about open source is you can support photo. You can say look, I did this and even if it's just you fixed one bug, just fixing one bug, might sound trivial, but that's seriously impressive to an employer when they can go and look at it and they can look at the actual evidence and say, okay, This is, you know, this is a pull request and all the rest of it.
+
+Um, so that that's good. So, you did. So you did, um, Imago you've done tornado VM and was that was there where she worked Atmos International. So so there are a pipeline solution company. So they were not talking about computer pipelines, we're talking about oil and gas, is it?
+
+Or yes, it's everything like water oil and gas, right? So what they do is they create hardware and software to create uh, leak detection, and also, uh, batch processing. So what happens is like, in the same pipeline, at some point there might be uh, like petrol or sometime water might be going.
+
+So what they do is uh like because everything pressure is different and everything. So yeah, they created a system and sensors in the pipes. Yes. And you've got some system for monitoring? Yes, yeah, so whole system, I think it's called HMI is a human machine interface, so that's the name of the thing and I was working on that.
+
+So currently, it's a window.
+
+Who finished PhD from here? All right. Okay, I didn't know that. Yeah. So More in chemical engineering or something, was it? I guess they're not computer scientist. I mean, no. I, I think what she did was she worked on these only like the pipeline, uh, Solutions, right. I remember because, uh, another thing, like, in, uh, since I was working on office and she was here only and Lunch.
+
+She used to come. And my timing also match with her. So we used to talk and she was telling she worked at shell after the finishing PhD and then, supper and Company. Yeah, yeah. And then she, uh, like, uh, they wanted her PhD research to make the project, right?
+
+But, uh, then what she did was she left shell and created her own company and started selling to them so like that. It worked. Yeah. All right. Interesting. I didn't know that was Amos. Uh, you there. This was summer intern. Yes. Which was last summer. Uh, yeah. And there have been other students who've done right there as well.
+
+Yes, who was Treasure of Unisas and uh, now is currently working as our industrial student. Yeah, I mean, I would say in Atmos, I really liked and plus since I was going in person every day I got to talk with them and
+
+Looking for 10, 15 years there. And that's why like they were really impressed by my work, but they said if someone retires or quits, then only will have space to add in. And, and like in September Ali also got in because, uh, when I was finishing, a person was retiring that time, right?
+
+So that's how so I was like, okay, if in future it opens I would definitely like consider them and it was a really nice experience. Oh, okay, good. So, that was that puts you into third year? Well, actually, are we talking Serger? Are we talking about, right? So before we get to that.
+
+So if we want to get to want to talk about, um,
+
+So, this is the project. You did not this year, but last year. So can you tell us about what you did? So, uh, some uh, and who was your supervisor, right? Yeah, Danny, yeah. Danny, uh, all right. Okay. So was that the VR one? Yes, right, yeah. So, uh, basically, what I did was my first choice was, uh, like my, uh, First Choice was VR.
+
+Then, second choice was your teaching one, uh, and, uh, then third, uh, I don't remember but, and I remember I, uh, Allocated your project, I remember and I was like yes I would love to do that but then there was a that hackers have happening and we invited Danny right and uh as a speaker because it was his expertise in cyber security.
+
+Yes, so I was uh so I just saw him and I was like, okay, let me ask if something could happen. I, I just talked with him and I said I'm really interested in doing that project and I would really appreciate if you could uh like if there's some way I could get assigned.
+
+Person was allowed to choose that one, right? But then I got, uh, then he assigned me. Uh, he asked and everything happened. I'm like, okay. Uh, so two people were doing, uh, another, uh, I don't remember the other person's name, but two people were doing that. We had a headset.
+
+I can't remember Harper. I remember testing it because it made me feel dizzy. Yeah. But I can't remember what the hardware was. What's the hardware you're using? So basically, from universities Hardware Library, I got a Oculus It was two. It was not the newest one Pro uh because I remember uh like talking with the uh Professor there in Hardware Library.
+
+He asked me what kind of uh you want? I was like if I will ask the most expensive one, that would be bad. Uh so I was like, okay. Let's uh, I just said, uh, any Oculus would be fine, but yeah, it if it could be the newer version and that would benefit me and but at that time, Just using it when playing with it and I knew who he was, but I didn't tell but I was like I really need the project by that time.
+
+I was just doing research so I was like okay. So he said they are like the The date to return, the VR is on this day and after that you can take it. So I kept January came then February came. I was like, now I really need to make the like I need to code and everything and MacBook makes it really difficult to work with unity.
+
+Windows is better for Unity because it connects really well and everything but so and plus my MacBooks. So you're using Unity to develop? Yes. Yeah. Kind of things, right? And uh, so I got uh, then they are when he like, he might have extended it. Uh, the junior. So then they ordered a new one for me.
+
+And I got the new fully like I got to unbox it. I was really happy with that. Like, it was real nice. And then, uh, so my project was basically to, uh, uh, create a virtual, uh, training experience for, in the stream employees is because they have been bored by doing normal, cyber security questionnaire or watching videos, so they want something much more attractive and so the industry I was working like it was an industrial industry uh uh operated uh, project as well.
+
+So uh, I was working with Amy, she is the CEO of cyber Escape room company, right?
+
+We also played their escape room. It was a board game like to do the training, right? Uh so now we have to create our own so what I did was Then I thought, okay, let's create a Escape room home with the puzzles inside that. Then I research that more than 10 minutes of VR could harm the eyes and it's really bad for health.
+
+So then we decided to create only 10 minutes of the game and I researched about like what could be beneficial and what's much more interactive? Since it will be used in industry. So they might like in offices, they might not be space, they would be chairs and everything. So I had to add teleport feature and turn by canvas like you can sit and play everything.
+
+You don't have to move around, although you if you move, it's better. Like I said, as much VR is, it takes it. Often takes quite a lot of time to, um, Develop things, doesn't? It? It's very time consuming because it's, it's not like developing an application in two Dimensions.
+
+You've got. Yeah, extra Dimension to worry about that. I had to add a physics, like I had to add, like, what happened was sometimes, uh, To learn nowadays, there's a lot of YouTube channels which teach you each and everything, right? So I had to like add like, let's say you have a ball so it will go through the table if you don't add physics to it.
+
+Like uh or like a detection and like the weight and everything you have to add and many times what was happening was, I was picking up a ball or the wand it was going through the, uh, through the floor and everything and going uh, down. And I was like, what's happening?
+
+And then I got to understand. Oh, I had to add physics to it. Uh, so that, uh, it should collide with it and stop there. Collision has taken place, and then you can do something that looks realistic. Yeah, yeah. Okay, good. So, uh, that sounds like an interesting projects, um,
+
+Main things that you've got out of your all the internships you've done and whether it was there, anything that's particularly enjoyable. Imagine I think you've mentioned some of those things already but if there's anything that we haven't already talked about. So one thing was, uh, like I got to work in a uh, Industry.
+
+A place where I was learning, firstly stand-up meetings, mostly the software engineering and agile practise. And another thing was because I was going in person, I was able to communicate With the CEO. Like I would never have talked with a CEO of a company, like, randomly if I'm interning at Amazon or something like that.
+
+Yeah, but yeah, in mid-sized companies, the benefit is like, uh, You get to interact with them, and Also, like the manager, he was like a mentor to me. He kept. Uh, like he kept showing mistakes in his code. He wrote five years back and how yes, and how I I should do in future and how he should have done, uh, like the uh, the uh building pattern.
+
+Yes, I think it's an important thing. So I think I think one of the important differences between the workplace, some student life. I don't know if you, you identify. This is that we, we tend to reward, Perfection. Yes. In Academia, like, we're looking for the perfect solution and these are the criteria.
+
+You have to meet. But in Industry, I mean, it's good. If you can be perfect, but it's more often about efficiency. Yeah, and that often means correcting either your own mistakes or somebody else's mistakes.
+
+You know, it's kind of culturally it's quite different. It's quite a subtle shift, I think. But it's quite a big. Yes. Difference in how you approach it and the other thing was in internship. Uh, at Atmos, the code base was much larger than like, you can because you did stand out yeah, ten thousand lines a code, which is, yes.
+
+It's big big, but I'm bigger than anything else we've done, but then Amos was a whole, another magnitude. Yeah, it's like, it's a lot of. And another thing was, they have created many libraries for them like many classes, which you can reuse so that you can't just learn or search for it, but that you need to like, uh, ask, uh, like your fellow colleagues who are much more senior and have experienced that.
+
+And then they tell is it in Java this application because I, uh, because my VR game, it was unity and unity uses C sharp, right? So, I got experience and that helped me, but I
+
+For them. And it was different from the data structures and algorithm thing, which usually happens, but they wanted me to create a supermarket lidl Etc, type checkout system as a assignment, right? Uh, and the time or you given a like a tag, go into it as soon as we can do, right?
+
+But I did it in, uh, Us. They get sometimes you see these things called system design questions? Yes, rather than like solve a particular problems. Yeah. Or you use a particular data structure to solve a problem? You'll be like, well here's a system to do this and you're talking architecture rather than and I use because we learnt MVC in uh standal and that only applied in that and like in that week I created controllers and everything.
+
+So what I did was I told them that I took help from chargpd because at that time, charger was here. But I explained them. My reasoning why I was doing that and uh and then I also told them that what I know and on the spot they asked us to make lots of changes and that I was able to do and I guess BC CBT was doing for you.
+
+Yes. So you were kind of uh using it to write the sort of boring boilerplate. Yeah. What? What? Well, my experience of
+
+Only do architecture. Yeah. Or Unless you specifically ask for it, I guess, maybe they can, I don't not really experimented with that. But you, you give the architecture because that's what you're good at, as a human being and then, okay, the boring like how do you fill in the gaps?
+
+Yes, stuff. You can get a machine to do some of that for you now. So what I did was like I told him that uh, that I want to write in MVC style and these are the things and I want different things. And I also want what I did was, I also asked everybody what questions they can ask on this solution and what extension could be made?
+
+Like how could it does be improved? Yeah, and if you want to add offers Etc to it, like there was buy to get one free and those kind of things in supermarket checkout. So how could I add those? So I I already understood those things and uh, like, uh,
+
+That way, I got interview and there. I also told my knowledge about software, engineering from Imago, and right, I think I was doing agile software pipeline by then. All it was in. What's that policy? Um, within the organisation. So different companies have different policies on this because there are kind of security issues and IP issues around, they use it, uh, quite often especially for tests.
+
+Like, uh, I remember, I had the subscription of GitHub co-pilot uh, in, uh, in Atmos, in my computer and they asked me to use that freely. Uh, but, uh, like also my manager, taught me how to use it for Tess like, yeah, because of broadcasters, you know, well, it depends what cancer writing.
+
+Sometimes it can be quite boring. Sometimes some age cases of some if else or something is missing or something like that. So you can get a uh like desktop kind of thing thing where you have the classes and you have logic like these two three.
+
+I think I might, I think I might have met him Gallagher. Yeah, he was in the hackathon, on the uh, in the great Union. He came out yesterday. Yes. So uh, okay good. So um, We've talked about internships, we've we're running out of time a little bit, but I would like to talk about.
+
+The next thing is You are the vice Chancellor. So I want you to imagine that you've been appointed, Vice Chancellor, the University where you've been studying for the last four years and it's your job now to improve the quality. Of teaching and learning at the University. So what would you do?
+
+That would help students. All how many thousands of students are at the University. 40 000. Get better. Teaching. Okay, so first thing, uh, I would say is, uh, like, in terms of Tas I would assign much more course specific or domain specific TS. Like computer science to subjects could get more computer science specificity is, which have some or little bit knowledge about the background and not from different other subject areas.
+
+And another thing I would like to do is, Like, When? In University in some years, like in my fourth year in my last year. What happened was few subjects, for instance, Auto using, and verification and some other. Also, like, I remember computer vision, my friends were doing they, uh, they had everything in one day.
+
+So my, I remember my ex, my doubt session was from nine in to 10, and then 10 to 12 was Example session or something like in that sort, then it was a lab. So from nine to five, I was a whole day. So immersing yourself in a subject for a whole day, I was sitting at one place for a whole day and It was really daring and only we got 1 hour break for lunch.
+
+So, it was like a school for me, and it was so tiring. And, uh, so you'd rather had a break sort of mix it up a bit? Yes. Like, two three things could happen like, uh, what they can do is like, uh, Or something from 9 to 10 or 11 or 1 or 2R.
+
+And then maybe after, like have one, one class at least one class only. But I understand like there are lots of subjects, lots of schedules so there might be some difficulty. But like yeah, those were Terry and my whole week was free. Only one week. I think of biology I had to come for a digital biology and rest was this uh, one day of Friday, right?
+
+And that Friday I, uh, I'm I was really tired. I I couldn't do anything. I was like, okay, I will go and sleep. That could be the answer. So I'm typing, it might be the course leader might have actually requested to have it all. Sometimes, it's convenient to have it all in one day, but I can see there are downsides to that as well.
+
+Teaching learning at University. Another thing. I mean, it's not overall to the industry, but to the computer science department, I would say. Currently data structures and algorithm. It's a whole one semester topic, which has been, which is being taught, but that teaching us, theoretically And we get to know understand data structures and algorithm.
+
+But The lead code, which is usually asked that practise is not that much given to us and Like, I remember even after doing data switch, I knew the basics that I also studied, uh, before going to University and during the university as well. Yeah. And that I learnt but practising it that wasn't much a thing.
+
+So maybe in that course only maybe have like uh once a week. They just give us a practise questions or something. I know students can do it on their own but You say this Theory you've been learning here. Yes, here's how it might be tested in practise by encoding.
+
+I mean, it's difficult because you don't, we don't know. Sometimes tickles know which here which coding test people are using, and there are some people who say that coding tests are a waste of time. Yeah. And you shouldn't do them. So it's kind of There's conflicting information out now on what, you know what, how to do things and big Tech always take data such as algorithm although I have talked with my friends and everyone, no one is using data such as an algorithm apart from, I think hedge funds, Etc because they are they need fast or at least knowing having memorised an algorithm or knowing a data structure is in in a work, contextual depending on the kind of company Workforce.
+
+Needs to ask you to do. That is just a way of selecting people. My, my school friends are back in India. They work in Goldman Sachs Etc, they are interviewing students. They don't know the answer. They just open it on their side and then they are doing it because they, they learnt it and they did it in University.
+
+Yeah. Yeah. In India they quite focus a lot on DSA so because there are a lot of competition. So you have to be perfect. And now when like the situation Visa situation and everything is changing so they are taking the best of best. Now here, and DSA is really necessary and that's where I am weak and I'm thinking to work on it over summer.
+
+We didn't talk about is uh, I mean talk about some of the struggles you had in finding work. So could you talk about what the main obstacles have been for you? Finding internships? I mean you mentioned of the order of 500 applications a lot of applications and some of them have been successful but what what sort of things have you had?
+
+Data structures is the necessity and also like you should have projects as well. Like whatever job description there. You should have those Technologies in your CV. Plus you should have data structures. Like the first is a hacker and Tess and then there is a coding interview and then a behavioural interview like that usually happens in most big companies.
+
+Companies, what they do is they want They won't have like, if you're they're hiding for internship, Etc. They won't have time to teach you a new language. So for instance, in Atmos, they wanted us to have C. Sharp knowledge is then only apply. So, uh, that's why I studied beforehand and then apply it and I, uh, uh, then I got selected and they had just, they wanted to understand, you understand it, everything and it's not like you just using charge GPT or something blindly.
+
+Yeah, yeah, okay. And in small startup also from
+
+Plus from September till February. This year, I was working at a startup called Apoha. So in those, in these places, what happens is, uh, you need to connect with the people or CEOs or ctOS Etc. And I think what they offered first was to work like, Like unpaid intern, but when I got internships Etc, they saw, I have a skill set and everything.
+
+They offered me to pay more than my internship and on an hourly basis on a part-time work. So I started doing that. So what I will say is for startups, uh the way is to like contact uh like uh, what I did was I searched a top 20, 30 Startups or something like that and then finding an email or something.
+
+Uh speculative. Yes kind of it wasn't a job advertised to just approach them and say yeah, yeah, because I guess a lot of the time those smaller companies, they've obviously limited resources. Even have a marketing department, or a HR department, because, yeah. So what was it? What was the name?
+
+Yeah. Hey, and they do whatever. So basically what they're doing is they are creating a hardware or to detect proteins, Etc. In different, uh, different, uh things. And Basically those CEO and co-founder they did. Phd search in Oxford, right earned, and they had some patented chemicals, Etc, which could detect these things and, uh, like they can identify what components a thing is made of they've created a hardware, it's big.
+
+And they are now compressing it, they there's there are only 25, 20, uh, 20 people in the team, right? And so software team was only like, uh, the software the head of software. He was, he's working from us. Uh, he previously worked in apple and he left it, and he was working here.
+
+And there's another one person working part-time. Even I was working. So, that was much more senior. But I was like, just learning and they helped me. They were open to, like, whatever I want to explore this way. I could also learn and they could also benefit from it. So, I worked on the experiment summary page is, uh, building upon my typescript and react knowledge and also creating few apis fine.
+
+And I would say, yeah.
+
+Also, one thing I did was whenever I go to career fair, what I do is I always take my CV with me and just ask. Yeah, no, it works for feedback. Yeah, ask for feedback, that's my go-to. Uh, like conversation starter uh, hi. I am A company Etc. I was wondering if there's any opening and if you have time, could you look at my CV or give me some pointers which you would like to have it's quite a good conversation start because sometimes it's pretty people to know what to say.
+
+If you don't try and get to know the company a bit, but that's quite a good conversation. And I think a lot of people that come to these kinds of things tend to be People, that's probably why they're doing the job because they enjoy meeting people but Um, okay good.
+
+Um, right. So We, we should we should move on the last bit is all the last bits are. And once you on podcast one book, one film. So there any any any things that you'd like our listeners? Mostly other students like yourself. Uh to recommend. So let's start with one tune.
+
+So one one tune or playlist that you recommend that you. I would say it's quite important to you while coding, uh, I like to listen to a coding. Uh, It'll come up first hit? Yes. Yeah and it's kind of what sort of music is, it a mixture of? It's the Jazz and tunes, basically background Tunes ones and not any words, so that I don't start singing but I can start, uh, by but I can listen to some music.
+
+Like, if some noise is there, if roommate Etc. So you can listen to this background music and with the speed of the music, you'd sometimes tend to start working fast as well, right? So that's really like, it makes me more efficient in my world. Yeah, yeah, sometimes listen to ambient music, it can sometimes.
+
+Yeah. Just yeah. Okay, so that's the, um, Code is it is it called a coding playlist or coders playlist? Recording, programmer playlist. Coding programmer based. Okay? So I'll add a link to that. Yeah. Um, the next one is one tune. One book that I say no sorry. One podcast.
+
+Did you listen to podcast much? I don't listen to podcasts, but I listen to audio book. Uh, audio of, uh, movie summaries on YouTube. Is there a particular channel that does this well, or any anywhere basically, uh, what I do is I see the thumbnail or the headline, if it's something interesting and YouTube usually recommends, you based on what you see.
+
+So okay, I'll just keep listening to those. Uh, there's not any specific and what they are is that kind of somebody's watched a film. Yes. And tries to summarise it in half an hour of audio or less. So what they do is uh they click pictures of main scenes, okay?
+
+So uh picture or like one or two, three seconds of a few scenes, right? Those
+
+Tells you the overall story. And if it's something interesting, you might go and watch the film I guess, right? And are any of these AI generated or are they human generator? Or is it difficult to know? I mean I was watching it before charging booty so it should not be a generator but I are probably awesome.
+
+My idea. Yeah, if they're any good, but yeah. Okay good. So that's the podcast and then the last book in the film. So what book would you recommend? Harry Potter, Harry Potter. Any particular one? Is on the first one, I only heard that once. To also standard voice to film as well.
+
+I've watched them every holiday. My task is to finish all the movies. Okay? So, Is a film. So what film would you recommend? I would say the internship. So it's about, uh, two people who were salesperson I think. And uh, then, uh, they are fired from their current job.
+
+And Although the start is a bit dodgy, like they tend to lie on the CV and get into an interview which we don't recommend. Yeah. They do get this job on the basis of life basically and it's a it's kind of it. It's sort of googly isn't it actually mentioned?
+
+I think it looks like Google doesn't it? Yes. Because they use that funny logo, don't they? Yeah. Yeah. It's uh like they say that it's an internship in Google and they talk a lot about googliness. Okay. Right. And uh I mean I liked it because Like what they did was like, they got into like all other Misfits in the program, right?
+
+They all got grouped together like they were left, uh, with them. And then they started communicating to others and started learning and having sessions like here, we have conferences. Etc. So they went to that learnt HTML, CSS, Etc. And they use their sales, uh, experience as well to pitch the solution, to a local pizza shop.
+
+And then, uh, like they added them to the Google Maps or something like that, right? And this way, uh, and what all they learnt they learnt from, uh, like asking, uh, others in the company. So, right that I really like, I have to watch this. It's been on my list of films.
+
+I wanted to watch a long time, watch that. Now, I think I've seen a little clip of it somewhere. Yeah, but that's so that's the internship.
+
+And, Uh, we've got a, my one of my colleagues, in the physics department has lent us their time machine, uh, and assures me that it works. You can travel back in time to meet yourself arriving here, from India in 2000, 2121. Yourself. I think. I would say first to know about what apprenticeships are, I would have applied through that and joined a university in whichever program, right?
+
+So the concept of what, uh, so apprenticeship's slightly different, but Internship is similar in a period of workwise. Basically, uh, like if you're working, uh, five days a week in a full time, it's like half time. You are working, uh, for the company and half time. You are studying at the University.
+
+Okay. Hey, and I think from netcraft that opportunity was there. Someone I don't remember in first year. I remember someone was working as a apprenticeship. That concept, I haven't heard in India. I didn't know about it. I think only one or two because I was searching for my cousin last year, right?
+
+About apprenticeships in India, but I only found Google and one more. Yeah. So you think we have these things called University. Manchester doesn't offer them but things will degree apprenticeships. So you you study and you work at the same time and you get paid and you don't pay tuition fees, you get a degree and you've been working at the same time, which is a good thing to do the newest equivalent.
+
+We've got to that is what you've done, and what is to do some summer internships along the way and or a placement? Yeah, yeah. And which is similar, but rather than being part-time they tend to be full-time. Full-time study full-time, work full-time, study, again, three three, uh, like three or two days or something like that.
+
+Although, in a way, what you've been doing with Imaga is kind of more apprenticeship style because yeah, it's part-time. So you're doing it while you study.
+
+About inside weeks, because Uh, my uh, the power session in which uh, my past leaders told me about the inside weeks. It was much uh, towards the end. So I only got to apply in two of those, but when I got into those inside weeks, I saw people have done six seven side weeks like from all the big companies and I think is it fair to say, Easier to get on them than it is to get a summer internship or a placement.
+
+Yes, it's relatively easy to get onto an Insight day virtual or actual As you just don't want it. JP Morgan, haven't you? I'll tell you a little bit about that or you've done a it was it an Insight? Or was it the sort? Uh, No more. And Amazon, I have done inside inside week, but in JP Morgan, which I did this year.
+
+It's a insight into software engineering, right? So they just tell you about what soft engineering, how it's done in, you know, in their company and what all application processes like, it's kind of like that. Yeah, I mean, you learn, eventually, you learn a bit about Kafka yeah, along the way, which is kind of useful.
+
+But yeah, I mean, uh, it was a, there's a online company called forage in that. There's a free module of JP Morgan, uh, where that, uh, where they teach you and how basically they give you a problem. There's a video, they tell you, this is the work you are working on and this is the task and this problem has arised.
+
+Now you have to work on this and you have to integrate Kafka and then our rest API as well and like there were five, six stars. Is this something you do completely virtually so is it like an online course or is it with forage? Is it something you do?
+
+Well, actually, you you meet with people.
+
+Engineering experience, right? But it's carefully, curated and put together. It's not just kind of because there are some of these things where it's just kind of banged together. Yeah. Not very well, it was kind of a proper program. Yeah. But, uh, one thing, uh, I think which it lagged was like if there was someone, I could ask doubts about, I know.
+
+Now, RGBT and everything is there, but I wanted to talk to them, like, okay, I am having this bug issue and in, usually you ask your colleague. So if there's some kind of
+
+Bars that could have much more, be useful. Okay, good. So that's time traveller so, is there anything else you tell your former self other than Insight weeks apprenticeships internships? I would say. Uh, I did like in second year I did five societies. I would say don't do that. Just uh like I was in five Society committees and I was talking about Unix, you UNICSA cdsc, Matt song.
+
+Manchester and fifth one was muds uh Manchester University. Yeah, and I was also doing student rep. I was also doing pass leader and I also did peer body skiing and 29 hours of wondering. Also I finished that okay, okay.
+
+Years challenge, which I did. He said they will only get to know after June but I finished everything and I should get stuff. And I mean, fantastic, you've done all those things I guess, but you'd say maybe do a little bit, we'll do more of those right. Spread it out.
+
+Oh All in one year. So you did it all in your second and it was the most hectic year as well. Yeah, the worst, the worst probably a heavier slow. In terms of the thing is third year is equal into that, but Based on your subject choice and your project.
+
+It becomes easier for you. But second year it's like first year is relaxing and then you is exactly. So let me go up a step. Good. All right. So um, I think I think we're done so unless there's anything else you want to say anything like that? No I think thank you so much.
+
+Thank you for coming. So thanks. Um uh, thanks for. We know we didn't talk about what you're doing next. So, um, What have you got planned at most of your parents are here. You're graduating next month? Yes. Uh, what what's, what are your plans beyond that? Currently, I'm interviewing I have an interview 126.
+
+I have to go to Cambridge and Oh, I'm currently looking for jobs here, only. And Apply. I like I will apply for graduate visa but I will apply in September October because it then it what will happen is like it I will have for two years till October. So for people who don't know graduate of Israel is, how much does it cost three thousand pounds?
+
+And that means that you can work here. I think uh for three years, two years or two years. Yeah. Ending on, if you get a job where somebody sponsors a skilled worker Visa, which is what I guess would be your preferred Choice exactly, but you'll do that. But you're looking at doing either one of those two at the moment.
+
+But currently the thing is, uh, since uh like big financial institutions Etc, have stopped sponsoring Visa like banking institutions. So what happened is uh like other companies like midsize and small companies, you're saying, since I already have two years Visa. So what they do is okay, you work on the two-year so that they don't have to get skilled worker Visa.
+
+And if I choose to work there after two years as well, then the sponsor. Okay? So that's quite a good compromise, right? Because yeah.
+
+Which is interesting way to do it but some people do it that way. Yeah. But I, I would say, like, in terms of, uh, but some companies also do like think of it as is like if you are on a graduate Visa then they would have to pay after two years for your sponsor Visa.
+
+So that they think as a cost and I guess big companies are more likely to be able to afford that and smaller companies might struggle to. Yeah, so I don't know what the numbers are, but I'm guessing it probably costs quite a lot of money to do for that.
+
+And also, then there's expertise, you need a massive HR department, people who expert, this kind of stuff.
+
+Congratulations on, finishing my degree. Uh, we look forward to celebrating with your parents and graduation next month. 9th of July 9th of July, it's not long away now, is it? Just two, three weeks away? And good luck with what happens in the future and uh thanks for coming on the show.
+
+Yeah, and I hope everyone listens to it. Great. Thank you. 
