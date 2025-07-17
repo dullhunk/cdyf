@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/pedro
+
 Welcome Pedro
 
 > Pedro: Started to University of Manchester, So it I moved to the.

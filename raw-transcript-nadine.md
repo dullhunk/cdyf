@@ -1,6 +1,8 @@
 
 # Raw machine-generated podcast transcript, contains errors
 
+https://www.cdyf.me/nadine
+
 Thank you Nadine for joining us today. Can you say a little about who you are and where you're from? 
 
 > Nadine: So hi, I'm Nadine and I'm studying Computer Science here.

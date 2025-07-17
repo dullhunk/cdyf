@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/ivo
+
 So welcome Ivo, could you just tell us a little bit about yourself? Watch your name on where to come from? I've already introduced you, but who are you? 
 
 > Ivo: So my name is Ivaylo Iliev but just call me Ivo. That's easier for everybody and that's anywhere what everybody calls me and, I am from Bulgaria from [Sofia](https://en.wikipedia.org/wiki/Sofia), the Capital and right now I'm a final year students, 

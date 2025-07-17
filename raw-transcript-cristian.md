@@ -1,4 +1,6 @@
 # Raw machine-generated podcast transcript, contains errors 
+
+Transcript of https://www.cdyf.me/cristian
  
  Okay. So, Welcome, Christian. And could you start by saying a little bit about? And who you are and wait from. My name is Christian Botner, I'm a senior researcher at Microsoft and I'm originally from Romania, and also graduated from Manchester in 2018 18.
 

@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/sambbhav
+
 So Welcome. Thank you. My name is Sambbhav and I'm originally from India. I'm an international student here and fun fact, I'm from Manchester of India. So, all right. Okay. Uh, a city called kanpur, it's called Manchester of India because it's also the industrial Etc.
 
 And I never imagined coming here to Manchester, but like, apparently I came from Manchester of India to Manchester UK. Yeah. And thanks for coming on the show today. So I wanted to talk to you about so the first thing is, um, What's your story? So can you tell us a little bit about?

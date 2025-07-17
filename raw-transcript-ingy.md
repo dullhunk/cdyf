@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/ingy
+
 So, Welcome Ingy. Have I said that right? 
 
 > Ingy: In "G". Yeah, it's Turkish but in Arabic we don't have a G. I mean Egyptians have, but there's not actual "guh" sound, right? There's only a "juh", Okay? And then in Turkish is like "chuh". 

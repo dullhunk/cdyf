@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/alice
+
 So, welcome Alice, thank you for coming on the show. So, it'd be good to hear more about your journey from student professional. You've been here for four years and lots happened in four years. You've done a lot of things. A lot of things have happened in the world in the last four years, you've had your graduation yesterday. Yeah, which was very cool. And so can you tell us a little bit more about what? Let's start with, what's your name and where'd you come from? 
 
 > Alice: Yes. So, hi thank you for having me. My name is actually Alexandra but I go by Alice, to not confuse people. . 

@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/muna
+
 So welcome. Can you tell us a little bit about? What's your name? And how did you get to be here today? Yeah, thank you for having me. First of all. Um, I'm Mona Hassan. I did my degree in computer, science and Mathematics, and I'll be graduating this year. So, got graduation next week.
 
 Yeah. And, um, How did you get into Computing? Can you remember your first experience of computing at school? My earliest experience with computer science was Doing like just before, like GCSE time, you had like scratch and you get to pick your options, right? For GCSE. And I just thought, oh, this is interesting.

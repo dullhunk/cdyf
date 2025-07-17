@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript of https://www.cdyf.me/bozhidar
+
 Right. So um, Welcome. Hello. Welcome to hearing your future, so, In this interview, I want to just catch up with you here a little bit more about your story. So, And let's start with um what's your name and where'd you come? So my full name is a bit of a mouth so I usually go by bonjour from Bulgaria.
 
 I was born in Wagner the seaside even though I'm never gonna have to swim. Oh really. So um I kind of studied in mathematical high school. I think there was a very big kind of not pressure, but it was very big influence on, like stem related engineering stuff. So, definitely, I think computer science was a big one.
