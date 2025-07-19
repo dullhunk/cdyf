@@ -42,7 +42,7 @@ We also discussed:
 ```{r minahil-internships-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionminahilinterns)"}
 knitr::include_graphics("images/minahil-internships.jpg")
 ```
-(ref:captionminahilinterns) Minahil did summer internships at the University of Manchester in IT services (left) and [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) (right). AWS is a subsidiary of Amazon that provides on-demand cloud computing platforms to individuals, companies, and governments, on a metered, pay-as-you-go basis. Pictures re-used from LinkedIn with permission.
+(ref:captionminahilinterns) Minahil did summer internships at the University of Manchester in IT services (left) and [Amazon Web Services](https://en.wikipedia.org/wiki/Amazon_Web_Services) in London (right). AWS is a subsidiary of Amazon that provides on-demand cloud computing platforms to individuals, companies, and governments, on a metered, pay-as-you-go basis. Pictures re-used from LinkedIn with permission.
 
 Finally we chatted about how we can improve teaching across the University of Manchester, why she enjoyed [Angelo Cangelosi](https://research.manchester.ac.uk/en/persons/angelo.cangelosi)'s robotics classes, how more coursework, fewer exams and using [hypothes.is](https://www.hypothes.is/) could improve learning. [@roache]
 
@@ -79,4 +79,9 @@ Minahil shared the studio selfie shown in figure \@ref(fig:minahil-selfie-fig)
 knitr::include_graphics("images/minahil-studio-selfie.jpg")
 ```
 (ref:captionminaselfie) Thanks for the studio selfie by Minahil 🤳
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7350876417577873408" height="1343" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
 

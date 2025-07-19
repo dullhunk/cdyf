@@ -86,3 +86,7 @@ Sambbhav took this studio selfie, see figure \@ref(fig:sambbhav-selfie-fig)
 knitr::include_graphics("images/studioselfiesambbhav.jpg")
 ```
 (ref:captionsambselfie) Thanks for the studio selfie by Sambbhav 🤳
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7350877753849569283" height="1217" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
