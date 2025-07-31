@@ -394,6 +394,13 @@ knitr::include_graphics("images/ivo-selfie.jpeg")
 
 (ref:captionivoselfie) Post-interview selfie in the studio by Ivo, seated on the left. 
 
+## Audio podcast on YouTube {#ivotube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:ivo-vid)
+
+```{r ivo-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/udq-2DX1w-s')
+```
 
 ## Disclaimer  
 

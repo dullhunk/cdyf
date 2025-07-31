@@ -56,6 +56,13 @@ knitr::include_graphics("images/wikihidden.jpg")
 
 (ref:captionwikihidden) [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures) a 2016 American biographical drama film directed by Theodore Melfi and written by Melfi and Allison Schroeder. It is loosely based on the 2016 non-fiction book of the same name by Margot Lee Shetterly about three female African-American mathematicians: Katherine Goble Johnson (Taraji P. Henson), Dorothy Vaughan (Octavia Spencer), and Mary Jackson (Janelle Monáe), who worked at NASA during the Space Race. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🚀
 
+## Audio podcast on YouTube {#ingtube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:ingy-vid)
+
+```{r ingy-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/KEKiy8uZOiY')
+```
 
 ## Disclaimer  
 

@@ -230,6 +230,15 @@ we look forward to seeing you at graduation next week.
 
 > Sneha: Yeah, so exciting. Okay. Thank you.
 
+## Audio podcast on YouTube {#snehatube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:sneha-vid)
+
+```{r sneha-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/xRg85UogoF4')
+```
+
+
 ## Disclaimer  
 
 ::: {.rmdcaution}

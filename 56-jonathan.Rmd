@@ -213,6 +213,13 @@ Good Well, thanks for joining us Jonathan. Thanks for coming and sharing your st
 
 > Jonathan: Yeah, thank you so much for having me.
 
+## Audio podcast on YouTube {#jontube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:jonathan-vid)
+
+```{r jonathan-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/1t36XBNllzI')
+```
 
 
 

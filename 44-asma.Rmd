@@ -54,6 +54,13 @@ knitr::include_graphics("images/studioselfieasma.jpeg")
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7216531090906230785" height="857" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
 ```
 
+## Audio podcast on YouTube {#asmayou}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:asma-vid)
+
+```{r asma-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/tynizslt08U')
+```
 
 ## Disclaimer  
 

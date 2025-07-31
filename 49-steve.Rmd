@@ -698,6 +698,15 @@ knitr::include_graphics("images/furbyfest.jpg")
 (ref:captionfurbyfest) After 33 years in the Department of Computer Science at the University of Manchester, and more than 50 years in computing, Steve's career was celebrated at a Festschrift on Friday 12th January 2024. Speakers included (from left to right): [Ian Phillips](https://www.linkedin.com/in/ianphillipsuk), [Peter Cheung](https://scholar.google.com/citations?user=vWfUi4kAAAAJ), [Sophie Wilson](https://en.wikipedia.org/wiki/Sophie_Wilson), [Jamie Urquhart](https://www.bloomberg.com/news/articles/2023-03-02/arm-co-founder-says-uk-s-tech-strategy-couldn-t-be-any-worse), [Ran Ginosar](https://scholar.google.com/citations?user=H4wTb9cAAAAJ), [Christian Mayr](https://dl.acm.org/profile/81320492271), [Doug Edwards](https://ieeexplore.ieee.org/author/37278340900), [Marly Roncken](https://ieeexplore.ieee.org/author/37298834500), [Erik Brunvand](https://scholar.google.com/citations?user=Hkw7KOoAAAAJ), [Wayne Luk](https://scholar.google.com/citations?user=2gyOP3QAAAAJ), [Piotr Dudek](https://scholar.google.com/citations?user=0keEUr4AAAAJ), [Alex Yakovlev](https://scholar.google.com/citations?user=0_TDa1kAAAAJ), [Andrew D. Brown](https://ieeexplore.ieee.org/author/37277557300) and [Ivan Sutherland](https://en.wikipedia.org/wiki/Ivan_Sutherland) (seated). Also not pictured here, [Roger Woods](https://ieeexplore.ieee.org/author/37271861100) and [Bashir Al-Hashimi](https://en.wikipedia.org/wiki/Bashir_Al-Hashimi). [@furbyfest] Picture reproduced with kind permission from by [Gavin Brown](https://profgavinbrown.github.io/) 🎸
 
 
+## Audio podcast on YouTube {#furtube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:furber-vid)
+
+```{r furber-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/qIigd5CTZT0')
+```
+
+
 
 ## Epilogue: From Moore's law to chip war {#furberlogue}
 

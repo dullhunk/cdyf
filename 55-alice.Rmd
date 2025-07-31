@@ -630,7 +630,13 @@ and make friends and put yourself out there throughout your university career. S
 > Alice: Thank you so much for having it was lovely. 
 
 
+## Audio podcast on YouTube {#alicetube}
 
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:alice-vid)
+
+```{r alice-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/byUgBwfWFKA')
+```
 
 
 ## Disclaimer  

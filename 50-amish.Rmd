@@ -53,6 +53,14 @@ knitr::include_graphics("images/wikivinglish.jpg")
 (ref:captionwikivinglish) [English Vinglish](https://en.wikipedia.org/wiki/English_Vinglish) is a 2012 Indian Hindi-language comedy-drama film written and directed by [Gauri Shinde](https://en.wikipedia.org/wiki/Gauri_Shinde). The film stars Sridevi as Shashi Godbole, a small entrepreneur who makes snacks and sweets. Shashi enrolls in an English-speaking course to stop her husband and daughter mocking her lack of English skills [@englishvinglish] Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🇮🇳
 
 
+## Audio podcast on YouTube {#amtube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:amish-vid)
+
+```{r amish-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/JwY-aU5Mr9A')
+```
+
 ## Disclaimer  
 
 

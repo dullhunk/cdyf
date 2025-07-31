@@ -65,6 +65,14 @@ knitr::include_graphics("images/wikisex.jpg")
 
 (ref:captionwikisex) [On the Basis of Sex](https://en.wikipedia.org/wiki/On_the_Basis_of_Sex) is a 2018 American biographical legal drama film based on the life and early cases of [Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg), who was the second woman to serve as an Associate Justice of the United States Supreme Court. Directed by Mimi Leder and written by Daniel Stiepleman (Ginsburg's real-life nephew), it stars Felicity Jones as Ginsburg. Armie Hammer, Justin Theroux, Jack Reynor, Cailee Spaeny, Sam Waterston, and Kathy Bates feature in supporting roles.  Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 🇺🇸
 
+## Audio podcast on YouTube {#nadtube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:nadine-vid)
+
+```{r nadine-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/QyDHgQLKrNM')
+```
+
 
 ## Disclaimer  
 

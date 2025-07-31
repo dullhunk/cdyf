@@ -85,3 +85,10 @@ knitr::include_graphics("images/minahil-studio-selfie.jpg")
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7350876417577873408" height="1343" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
 ```
 
+## Audio podcast on YouTube {#minyou}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:minahil-vid)
+
+```{r minahil-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/hm1Zaquzyf8')
+```

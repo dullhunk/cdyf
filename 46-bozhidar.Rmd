@@ -87,6 +87,14 @@ knitr::include_graphics("images/studioselfiebozho.jpeg")
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7222190262943420416" height="1319" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
 ```
 
+## Audio podcast on YouTube {#youboz}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:boz-vid)
+
+```{r boz-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/fxoqRsoSkI4')
+```
+
 
 ## Disclaimer  
 

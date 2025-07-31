@@ -72,6 +72,14 @@ knitr::include_graphics("images/wikitrainingday.jpg")
 
 (ref:captionwikitrainingday) [Training Day](https://en.wikipedia.org/wiki/Training_Day) is a 2001 American crime thriller film directed by Antoine Fuqua and written by David Ayer. It stars Denzel Washington as Alonzo Harris and Ethan Hawke as Jake Hoyt, two LAPD narcotics officers followed over a 24-hour period in the gang-ridden neighborhoods of Westlake, Echo Park, and South Central Los Angeles. Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org)
 
+## Audio podcast on YouTube {#pedtube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:pedro-vid)
+
+```{r pedro-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/VIGD4kmS5Eg')
+```
+
 
 ## Disclaimer  
 

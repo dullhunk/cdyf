@@ -52,6 +52,14 @@ knitr::include_graphics("images/wikipuss.jpg")
 
 (ref:captionwikipuss) [Puss in Boots: The Last Wish](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) is a 2022 American animated adventure fantasy comedy film produced by DreamWorks Animation and distributed by Universal Pictures. [@pussinboots] Fair use image from [commons.wikimedia.org](https://commons.wikimedia.org) 😻
 
+## Audio podcast on YouTube {#steftube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:stefania-vid)
+
+```{r stefania-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/_KNbC7cBqgY')
+```
+
 ## Disclaimer  
 
 

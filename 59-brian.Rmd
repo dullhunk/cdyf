@@ -261,6 +261,13 @@ knitr::include_graphics("images/wise.png")
 ```
 (ref:captionwise) [Wise (formerly TransferWise)](https://en.wikipedia.org/wiki/Wise_(company)) is a UK-based foreign exchange fintech company founded by Estonian businessmen Kristo Käärmann and Taavet Hinrikus in 2011. Screenshot from the [wise.com](https://wise.com/) website from 2023.
 
+## Audio podcast on YouTube {#briantube}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:brian-vid)
+
+```{r brian-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/d9fc0BUYkUA')
+```
 
 ## Disclaimer  
 
