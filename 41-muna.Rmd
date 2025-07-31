@@ -74,3 +74,12 @@ knitr::include_graphics("images/selfiemuna.jpg")
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
 cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7350879757217013761" height="1154" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
 ```
+
+## Audio podcast on YouTube {#munayou}
+
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:muna-vid)
+
+```{r muna-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
+knitr::include_url('https://www.youtube.com/embed/vaO44hx_A3A')
+```
+

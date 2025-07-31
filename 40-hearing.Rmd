@@ -2,7 +2,7 @@
 
 # Hearing Your Future {#hearing}
 
-*Hearing Your Future* is the Coding Your Future podcast which accompanies this guidebook. We talk to [graduands](https://en.wiktionary.org/wiki/graduand) and graduates of computer science, see figure \@ref(fig:collage-fig), to hear more about their journey from student to professional. As part of their [exit interview](https://en.wikipedia.org/wiki/Exit_interview) we ask them what happens after graduation? What comes next?
+*Hearing Your Future* is the Coding Your Future podcast which accompanies this guidebook. We talk to [graduands](https://en.wiktionary.org/wiki/graduand) and graduates of computer science, to hear more about their journey from student to professional, see figure \@ref(fig:collage-fig). As part of their [exit interview](https://en.wikipedia.org/wiki/Exit_interview) we ask them what happens after graduation? What comes next?
 
 ```{r collage-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncollage)"}
 knitr::include_graphics("images/alleighteen.jpg")
@@ -34,8 +34,8 @@ You can subscribe (for free!) by following one of the links below to your favour
 
 * Apple: [apple.co/3JFV5Qe](https://apple.co/3JFV5Qe)
 * Spotify: [open.spotify.com/show/30p4f1iI8hICkJJmey1bS1](https://open.spotify.com/show/30p4f1iI8hICkJJmey1bS1) 
+* YouTube: [youtube.com/\@coding-your-future/podcasts](https://www.youtube.com/\@coding-your-future/podcasts)
 * Amazon: [amzn.to/3OOaS0G](https://amzn.to/3OOaS0G)
-* Google: [music.youtube.com/podcasts](https://music.youtube.com/podcasts) (appearing shorlty)
 * Deezer: [deezer.com/en/show/3839607](https://www.deezer.com/en/show/3839607)
 * Libsyn: [codingyourfuture.libsyn.com](https://codingyourfuture.libsyn.com/)
 
@@ -507,7 +507,7 @@ knitr::include_graphics("images/faces.jpeg")
 
 
 
-What conversations would you have with your younger self? What have you learned? Is there anything you know now, that you wish you'd known when you were younger? See figure\@ref(fig:firstyear-vid).
+What conversations would you have with your younger self? What have you learned? Is there anything you know now, that you wish you'd known when you were younger? See figure \@ref(fig:firstyear-vid).
 
 ```{r firstyear-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionfirstyear)"}
 knitr::include_url('https://www.youtube.com/embed/HHTrEagTjB8')
