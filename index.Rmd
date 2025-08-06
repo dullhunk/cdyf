@@ -334,6 +334,8 @@ If you don't want to (or can't) use `git` and [github.com](https://github.com/) 
 Any corrections or suggestions will be gratefully received and noted in the acknowledgements section \@ref(thanks), unless you tell me otherwise. I welcome all improvements, big and small.
 
 ## Acknowledgements {#thanks}
+The content of this book is based on hundreds of conversations I have had with undergraduate and graduate students of (mostly) Computer Science, Mathematics, Physics and Engineering, since about 2012. It is also based on conversations I've had with their employers too.
+
 The content of this book is based on hundreds of conversations I have had with undergraduate and graduate students of (mostly) Computer Science, Mathematics, Physics and Engineering, since 2012. It is also based on conversations I've had with their employers too.
 
 ::: {.rmdnote}
@@ -344,6 +346,7 @@ This acknowledgements section is really looooooong because I try to practice wha
 If you want to get to the main content of this book you can skip this and go straight to chapter \@ref(rebooting).
 
 :::
+
 
 ### Thank you students {#students}
 First and foremost, I would like to thank all the students who have helped with this book, both directly and indirectly see figure \@ref(fig:giants-fig).
@@ -910,6 +913,7 @@ ggplot(data = evenmoreplacements) + geom_bar(mapping = aes(x = year, y = student
 (ref:ieblurb) Number of undergraduate students completing a year in industry as part of their degrees in Computer Science at the University of Manchester. Since 2008 over 1100 students have completed the program that I have been leading since 2012. We've managed to triple the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
 
 I've documented some of what our students have taught me, so reading this book may help you learn from some of their successes and failures.
+
 
 
 ## Legal Stuff {#legal}

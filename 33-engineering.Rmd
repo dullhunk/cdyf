@@ -23,7 +23,7 @@ If you'd like to keep in touch with us, we have an active alumni network you can
 * Sponsor and support student societies via the University of Manchester Students Union (UMSU) at [manchesterstudentsunion.com](https://manchesterstudentsunion.com/) 
 * Taking part in meet the professionals sessions organised by alumni in collaboration with the University   
 
-As Duncan Ivison said in his presentation, our doors are always open. If you're on LinkedIn, you can also follow the Department of Computer Science and the wider University at:
+As Duncan Ivison said in his presentation in figure \@ref(fig:graduation-vid), our doors are always open. If you're on LinkedIn, you can also follow the Department of Computer Science and the wider University at:
 
 * [linkedin.com/company/csmcr](http://linkedin.com/company/csmcr) (Department of Computer Science)
 * [linkedin.com/school/university-of-manchester](https://uk.linkedin.com/school/university-of-manchester) (University of Manchester)
@@ -55,4 +55,14 @@ Your email and associated IT account will [close on Friday, 1 August 2025](https
 * Helping you access services like Library E-resources that permit alumni access, and the Careers Service described above.
 * To make sure that DDAR can help you, please tell them about any changes to your contact details in the student system _before_ your IT account closes. After your account closes, use the [change your personal details form](https://www.manchester.ac.uk/connect/alumni/update-details/) to stay in touch with the University.
 
-Once again, congratulations on graduating and remember our door is always open as you start the next chapter of your life. 
+## Congradulations! {#congradulations}
+
+Once again, congratulations on graduating and remember, our door is always open as you start the next chapter of your life, see figure \@ref(fig:graduation-vid).
+
+
+```{r graduation-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiongraduation2025)"}
+knitr::include_url('https://www.youtube.com/embed/nAzPJhcZhDY')
+```
+
+
+(ref:captiongraduation2025) The first of two graduations for Computer Science students in 2025, with speeches from Duncan Ivison, Andrew Stewart, Gaven Smith and Ulrike Sattler.
