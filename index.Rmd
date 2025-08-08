@@ -364,9 +364,20 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 
 So, thank you students for being studious. 🙏
 
-### Thank you everyone else {#everyonelse}
+### Thank you Personal Learning Network {#everyonelse}
 
-For everyone else I'd like to thank, see chapter \@ref(thankyou).
+For everyone else in my Personal Learning Network (PLN), thank you and see chapter \@ref(thankyou). 🙏
+
+## Your Future is Dark, Your Future Needs Moding {#darkmode}
+
+If you prefer _Your Future_ to be in dark mode, with [light text on a dark background](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme) rather than the default dark text on a white background, we recommend using [darkreader.org](https://darkreader.org/) show in figure \@ref(fig:darkmode-fig)
+
+```{r darkmode-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondarkmode)"}
+knitr::include_graphics("images/darkmode.png")
+```
+
+(ref:captiondarkmode) A screenshot of _Coding Your Future_ in dark mode. The default configuration for this guidebook is dark text on a white background. If you prefer white text and a dark background (aka [dark mode](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme)) we recommend using [darkreader.org](https://darkreader.org/)
+
 
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) and I'm currently writing this guidebook for undergraduate and postgraduate students as part of my day job at the University of Manchester where I'm a Senior Lecturer (≈ [Associate Professor](https://en.wikipedia.org/wiki/Associate_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).^[Coding Your Future is currently a Minimum Viable Product (MVP). This is the software engineering way of saying “it isn't finished yet”]
