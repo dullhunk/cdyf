@@ -127,6 +127,7 @@ https://www.independent.co.uk/news/education/education-news/ey-firm-says-it-will
 
 ```{r lotsofgrads-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionlotsofgrads)"}
 library(ggplot2)  
+library(dplyr)
 lotsofgrads <- tribble(
   ~year,         ~percentage,
   "1980",       15,
