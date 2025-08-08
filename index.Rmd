@@ -335,7 +335,7 @@ Any corrections or suggestions will be gratefully received and noted in the ackn
 
 ## Your Future is Dark, Your Future Needs Moding {#darkmode}
 
-If you prefer _Your Future_ to be in dark mode, with [light text on a dark background](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme) rather than the default dark text on a white background, we recommend using [darkreader.org](https://darkreader.org/) show in figure \@ref(fig:darkmode-fig)
+Your future is bright, your future needs coding. However, if you prefer _Your Future_ to be in `dark-mode`, with [light text on a dark background](https://en.wikipedia.org/wiki/Light-on-dark_color_scheme) rather than the `default` **dark** text on a white background, we recommend using [darkreader.org](https://darkreader.org/) shown in figure \@ref(fig:darkmode-fig)
 
 ```{r darkmode-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiondarkmode)"}
 knitr::include_graphics("images/darkmode.png")
