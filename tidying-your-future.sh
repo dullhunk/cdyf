@@ -161,6 +161,6 @@ echo "replaced sambbhav.html "
 find . -name "*.html" -exec sed -I '' 's/muna.html/muna/g' {} +
 echo "replaced muna.html "
 
-find . -name "*.html" -exec sed -I '' 's/thanking.html/thanking/g' {} +
-echo "replaced thanking.html "
+find . -name "*.html" -exec sed -I '' 's/thankyou.html/thankyou/g' {} +
+echo "replaced thankyou.html "
 

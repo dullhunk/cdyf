@@ -336,7 +336,6 @@ Any corrections or suggestions will be gratefully received and noted in the ackn
 ## Acknowledgements {#thanks}
 The content of this book is based on hundreds of conversations I have had with undergraduate and graduate students of (mostly) Computer Science, Mathematics, Physics and Engineering, since about 2012. It is also based on conversations I've had with their employers too.
 
-
 ### Thank you students {#students}
 First and foremost, I would like to thank all the students who have helped with this book, both directly and indirectly see figure \@ref(fig:giants-fig).
 
@@ -365,7 +364,9 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 
 So, thank you students for being studious. 🙏
 
-For everyone else I'd like to thank, see chapter \@ref(thanking).
+### Thank you everyone else {#everyonelse}
+
+For everyone else I'd like to thank, see chapter \@ref(thankyou).
 
 ## About me {#duncan}
 Hello, my name is [Duncan Hull](https://personalpages.manchester.ac.uk/staff/duncan.hull/) and I'm currently writing this guidebook for undergraduate and postgraduate students as part of my day job at the University of Manchester where I'm a Senior Lecturer (≈ [Associate Professor](https://en.wikipedia.org/wiki/Associate_professor)) in the [Department of Computer Science](https://www.cs.manchester.ac.uk/).^[Coding Your Future is currently a Minimum Viable Product (MVP). This is the software engineering way of saying “it isn't finished yet”]
