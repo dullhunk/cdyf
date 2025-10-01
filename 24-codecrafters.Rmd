@@ -47,6 +47,7 @@ knitr::include_graphics("images/screenshot-codecrafters.jpg")
 
 (ref:captioncodecrafters) Become a better software engineer with CodeCrafters. Stop following tutorials designed for beginners. Start working on more open-ended `PROJECTS` that actually challenge you. Become a better engineer through deliberate structured practice, screenshot from [codecrafters.io](https://codecrafters.io/)
 
+
 Co-founded by [Sarup Banskota](https://www.linkedin.com/in/sarupbanskota/) and [Paul Kuruvilla](https://www.linkedin.com/in/rohitpaulk/), CodeCrafters was backed by [ycombinator.com](https://www.ycombinator.com/) in 2022. The free tier of codecrafters gives you limited content access and community features, but if you're a student at the University of Manchester, we're excited to offer you something better. 
 
 ## Free CodeCrafters for UoM students  {#freecode}
@@ -54,10 +55,10 @@ Co-founded by [Sarup Banskota](https://www.linkedin.com/in/sarupbanskota/) and [
 If you're a student at the University of Manchester (UoM), we are pleased to be able to offer a one year membership for professionals, which [normally costs $30 per month](https://codecrafters.io/pricing) for free (**YES free!**) via [manchester.ccio.dev](https://manchester.ccio.dev/).
 
 ```{r mancraft-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionarpan)"}
-knitr::include_graphics("images/screenshot-arpan.jpg")
+knitr::include_graphics("images/codecraftersmcr.png")
 ```
 
-(ref:captionarpan) Move beyond basic tutorials and classroom exercises. Build real-world projects that push your technical boundaries. Develop industry-ready skills through hands-on practice with [codecrafters.io](https://codecrafters.io/). If you're a University of Manchester student, you can register using your student credentials at [manchester.ccio.dev](https://manchester.ccio.dev/)
+(ref:captionarpan) Move beyond basic tutorials and classroom exercises. Build real-world projects that push your technical boundaries. Develop industry-ready skills through hands-on practice with [codecrafters.io/uom](https://codecrafters.io/uom)
 
 ## Summertime and the Coding is Easy {#summertime}
 
@@ -81,8 +82,5 @@ Big thanks to [Arpan Pandey](https://simple.arpanpandey.dev/) for negotiating an
 
 _Summertime_ is an aria composed by George Gershwin for the opera _Porgy and Bess_. [@summertime] Many versions of the song have been recorded by different artists including Ella Fitzgerald and Louis Armstrong shown in figure \@ref(fig:ella-vid). [@ella]
 
-```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
-cat('
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7343983844406009860" height="1211" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
-```
+See Sarup's post at [linkedin.com/posts/activity-7377250580769116160-Y4Vj](https://www.linkedin.com/posts/activity-7377250580769116160-Y4Vj/)
 
