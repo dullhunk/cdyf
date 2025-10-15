@@ -1,5 +1,7 @@
 # Raw machine-generated podcast transcript, contains errors
 
+Transcript created by https://recorder.google.com 
+
 Welcome Todd, thank you for coming on hearing your future. Could you start by saying a little bit about who you are? Yeah. How are you came to be here today? 
 
 > Thank you so much for having me. It's great to be on the podcast. So my name is Todd Davis. I was here back in 2013, originallyto do my bachelor's degree and I'm back here for the open day tomorrow. Manchester where I, I'll be speaking in the engineering faculty. And and also, of course, to visit the friends that I have. So Manchester I'm always looking for reasons to come back excuses. Yeah, yeah. Um, so it's always nice to be back.
@@ -394,7 +396,7 @@ Same swimming pool in London, that the Alistair Campbell who's the host of Class
 
 It's good. It's a good podcast. It's fun. Um, So as from Pakistan, we've got one book, could be fiction non-fiction. Yeah, okay, so I have, I have two books, I'm so sorry. And so my book for computer science, people actually they're both looking to be science people. But but I think the one that really um, helped me as a engineer, I guess is the art of doing science and engineering by Richard Hamming, right?
 
-I came across timing in my third year, um, where Barry Cheatham who's wonderful wonderful lecture here. I don't know if he's still retired now, but yeah, and but he was teaching us about things like having codes and and stuff like that and I stumbled across Richard having's book and he's basically this like very very distinguished.
+I came across Hamming in my third year, um, where [Barry Cheetham](https://www.cs.man.ac.uk/~barry) who's wonderful wonderful lecture here. I don't know if he's still retired now, but yeah, and but he was teaching us about things like having codes and and stuff like that and I stumbled across Richard having's book and he's basically this like very very distinguished.
 
 Now I'm using this policies to terminology. Uh he's this distinguished um professor of mathematics and computer science. He's sadly passed away now but this book is his like Grand Grandpa, wisdom of career basically and it's about being an academic, it's about being a researcher, it's about being a good engineer.
 
