@@ -400,29 +400,27 @@ I came across Hamming in my third year, um, where [Barry Cheetham](https://www.c
 
 Now I'm using this policies to terminology. Uh he's this distinguished um professor of mathematics and computer science. He's sadly passed away now but this book is his like Grand Grandpa, wisdom of career basically and it's about being an academic, it's about being a researcher, it's about being a good engineer.
 
-Yeah, how to interact with colleagues, how to choose problems, how to make your own look, etc. Etc. Um, and just Reflections basically and and also there's an addition from stripe press, which is quite beautiful. It's like an aesthetic object as well. So the hardback a hardback. Yeah, yeah, it's, it's very nice.
+Yeah, how to interact with colleagues, how to choose problems, how to make your own luck. Etc. Um, and just Reflections basically and and also there's an [edition from stripe press](https://press.stripe.com/the-art-of-doing-science-and-engineering), which is quite beautiful. It's like an aesthetic object as well. So the hardback a hardback. Yeah, yeah, it's, it's very nice.
 
-So, that's one recommendation. The other one, which I've spied on your shelf actually is, uh, gold lasher. Embark. All right, yes. Um, which I had I, I guess it's the fortune, but also the misfortune of having recommended to me when I was 14. So, for 14 year olds, it was a lot.
+So, that's one recommendation. The other one, which I've spied on your shelf actually is, Gödel, Escher, Bach. All right, yes. Um, which I had I, I guess it's the fortune, but also the misfortune of having recommended to me when I was 14. So, for 14 year olds, it was a lot.
 
 And I don't think I really got it back then. But at the same time, it kind of late put these seeds in my head of like, uh, of being interested in systems being interested in philosophy and being interested in ideas about like what is cognition self-reference, that kind of thing.
 
-And yeah, the book is the book is about this thing called a strange Loop. So, this idea that, um, there's a hierarchy of things, and then when you get to the top of the hierarchy,
+And yeah, the book is the book is about this thing called a [strange loop](https://en.wikipedia.org/wiki/Strange_loop). So, this idea that there's a hierarchy of things, and then when you get to the top of the hierarchy,
 
 Super recessive law and which is also something that hofstra talks about. Um if if we have a disagreement and then we go to court and then let's say you went the court case and then I appeal and I guess the appeals court and then I win and then because of the Supreme Court and then you win I'm still not happy.
 
-Then the only quote that's higher than the Supreme Court is the court of public opinion. Outside of the court system and back in the domain of public life, which is why we have the dispute in the first place, right? And this is like a strange Loop. So this concept pops up all over the place and I mean we've got seen a thing with God Elisha back is a lot of people struggle with the length of it.
+Then the only quote that's higher than the Supreme Court is the court of public opinion. Outside of the court system and back in the domain of public life, which is why we have the dispute in the first place, right? And this is like a strange Loop. So this concept pops up all over the place and I mean we've got seen a thing with Gödel, Escher, Bach is a lot of people struggle with the length of it.
 
 It isn't. How did you? Tackle that any strategies for tackling it, because It's got lots of interesting important things to say, but it is quite The Bose. Yeah. What can we say? Yeah, the way the way I tackled that is but is is by, you know, trying to read it over an entire summer, right?
 
-Very slowly dipping into it. Like yeah. And, and I wouldn't recommend that because there's many, many more productive and useful, and fulfilling ways than you can spend your summer and bashing your head against this book repeatedly. Um, I think the, I think the author, uh, Douglas hofstra has, actually answered this question where she's produced a sequel called.
-
-I am a strange Loop? Oh okay. Um, which is is I I have to say it's a really beautiful book, there's a section on it about his wife who passed away um, and about his relationship with her and how like he, um,
+Very slowly dipping into it. Like yeah. And, and I wouldn't recommend that because there's many, many more productive and useful, and fulfilling ways than you can spend your summer and bashing your head against this book repeatedly. Um, I think the, I think the author, [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) has, actually answered this question where she's produced a sequel called [I am a strange Loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) Oh okay. Um, which is I have to say it's a really beautiful book, there's a section on it about his wife who passed away um, and about his relationship with her and how like he, um,
 
 And how he knew her. So well that she's kind of like a copy of her exist within him. Right. And then like but this is explained and framed in the whole story. Yeah. Strangely, it's a bit more accessible. Would you say? I would say it's more accessible. It's more concise, it's more focused and on the arguement.
 
 Yeah. And and the reason why I think he wrote that book was because people were confused about what exactly good life was trying to say. Okay, which is understandable. Yeah. Uh gold leschenbach is extremely impacted. Yeah, yeah.
 
-I think we've done my books so I think we've done my books. Yeah we've got well the last one is one film. Yeah, people don't watch. So I I was last year I went to the British Film Festival. It was the BFI Film Festival, sorry. Um and I watched this wonderful Brazilian movie called, I'm still here by Walter Salas and it's a movie set in 1971.
+I think we've done my books so I think we've done my books. Yeah we've got well the last one is one film. Yeah, people don't watch. So I I was last year I went to the British Film Festival. It was the BFI Film Festival, sorry. Um and I watched this wonderful Brazilian movie called, [I'm still here by Walter Salles](https://en.wikipedia.org/wiki/I%27m_Still_Here_(2024_film)) and it's a movie set in 1971.
 
 I think, um, under the Brazilian dictatorship at the time It's a movie about the false disappearances that were happening. So it kind of dictated which was taking political the important figures and making them go away. Um and but really the movie is about the family. It's about the preciousness of the family.
 
@@ -434,9 +432,9 @@ Little bit about that in terms of Why you did it? Yeah, I got from it. Well some
 
 If that makes sense. And that's exactly what happened. You're sort of person who can't say no or are you uh is it one of those words? Can't say no. But it's tempting. Not to say yeah. Because, you know, it's going to be hard but you know, it's going to be also be interesting.
 
-Exactly. Yeah. I I might my curiosity get to the better of me. Basically. And that's exactly what happened and basically, this course was a sustainable stand-up course. It's called and run by this wonderful facility. It's called billina uh bellina Rafi. Um and and the idea is is to communicate ideas about um sustainability and the predicament that we Face relating to that, which is a heavy thing, you know, it's a tough thing.
+Exactly. Yeah. I I might my curiosity get to the better of me. Basically. And that's exactly what happened and basically, this course was a sustainable stand-up course. It's called and run by this wonderful facility. It's called [Belina Raffy](https://www.linkedin.com/in/belina-raffy). Um and and the idea is is to communicate ideas about um sustainability and the predicament that we Face relating to that, which is a heavy thing, you know, it's a tough thing.
 
-If you take things like the ipcc reports and Tipping Points, seriously, it's not an easy topic and to communicate those ideas in a way that is obviously humorous, but with compassion and with love, right? So it's a tough brief basically. Um, you can't resort to sarcasm.
+If you take things like the IPCC reports and Tipping Points, seriously, it's not an easy topic and to communicate those ideas in a way that is obviously humorous, but with compassion and with love, right? So it's a tough brief basically. Um, you can't resort to sarcasm.
 
 Me all sorts of things. Um, about trying to tell stories, right? And making sure that the person you're telling the story to has all the information that they need to understand the story, right about the narrative, how that works because the joke, really? It's, it's supposed to be a story where there's kind of a missing bit of information that's unexpected, right?
 
@@ -452,7 +450,7 @@ The final thing is the first session and the fighting future. Yeah, in person an
 
 Excellent. Um, so we're on to the last thing which is time, traveller. So you mentioned physics. There somebody in physics, in Manchester has invented a time machine. Well, they've lent us great. And they assure me that it works. And you can travel back in time to meet yourself. At any point, really?
 
-But I suppose, the interesting point is starting University. What would you? What would you tell your former self? Yeah, I have. I have an obvious bit of advice and a deeper bit of advice to the obvious bit of advice is in 2013, Todd Davis by Bitcoin as much as you can.
+But I suppose, the interesting point is starting University. What would you? What would you tell your former self? Yeah, I have. I have an obvious bit of advice and a deeper bit of advice to the obvious bit of advice is in 2013, Todd Davis buy Bitcoin as much as you can.
 
 Yeah. All that money, that you end being a web developer reinvest it like do not spend any of it. Um, you know, like live off beans. Yeah, eat beans. Yeah. And yeah, because back then it was like, 400 dollars. And what is it? Now, I think it's over 100 000 around after that.
 
