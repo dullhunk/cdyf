@@ -402,7 +402,7 @@ Now I'm using this policies to terminology. Uh he's this distinguished um profes
 
 Yeah, how to interact with colleagues, how to choose problems, how to make your own luck. Etc. Um, and just Reflections basically and and also there's an [edition from stripe press](https://press.stripe.com/the-art-of-doing-science-and-engineering), which is quite beautiful. It's like an aesthetic object as well. So the hardback a hardback. Yeah, yeah, it's, it's very nice.
 
-So, that's one recommendation. The other one, which I've spied on your shelf actually is, Gödel, Escher, Bach. All right, yes. Um, which I had I, I guess it's the fortune, but also the misfortune of having recommended to me when I was 14. So, for 14 year olds, it was a lot.
+So, that's one recommendation. The other one, which I've spied on your shelf actually is, [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/Gödel,_Escher,_Bach). All right, yes. Um, which I had I, I guess it's the fortune, but also the misfortune of having recommended to me when I was 14. So, for 14 year olds, it was a lot.
 
 And I don't think I really got it back then. But at the same time, it kind of late put these seeds in my head of like, uh, of being interested in systems being interested in philosophy and being interested in ideas about like what is cognition self-reference, that kind of thing.
 
