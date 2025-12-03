@@ -164,3 +164,6 @@ echo "replaced muna.html "
 find . -name "*.html" -exec sed -I '' 's/thankyou.html/thankyou/g' {} +
 echo "replaced thankyou.html "
 
+find . -name "*.html" -exec sed -I '' 's/umsu.html/umsu/g' {} +
+echo "replaced umsu.html "
+

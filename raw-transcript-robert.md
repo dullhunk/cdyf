@@ -1,10 +1,14 @@
 # Raw machine-generated podcast transcript, contains errors
 
-So um, welcome Robert, thank you for coming on. Thank you. Uh, let's start with well can you say a little bit about who you are? Um and hadn't came to be here. Well I I Robert Stevens a long long time ago. 1983 to 86. My first degree was in biochemistry.
+So um, welcome Robert, thank you for coming on the show. Let's start with well can you say a little bit about who you are and how you came to be here. 
 
-And for some reasons, we'll come on to, I ended up in computer science, then postdocs lectureship. Trailed through senior lecturer reader Professor and then head of Department and then returning to be a, just another member of staff. And then retirement that that's the timeline Lori. So and that you actually retired on Friday.
+> Well I'm Robert Stevens a long long time ago. 1983 to 1986 my first degree was in biochemistrya nd for some reasons, we'll come on to, I ended up in computer science, then postdocs and a lectureship through senior lecturer, Reader, Professor and then head of Department and then returning to be just another member of staff. And then retirement  that's the timeline 
 
-So yes. Uh well, it actually Sunday technically So, can we go back to the beginning? And so, um, You're studying what a levels were you studying? And what how did you come to choose biochemistry as a degree? So I did maths pure statistics uh biology and chemistry a level.
+So and that you actually retired on Friday.
+
+> So yes. Uh well, it actually Sunday technically So, 
+
+can we go back to the beginning? And so, um, You're studying what a levels were you studying? And what how did you come to choose biochemistry as a degree? So I did maths pure statistics uh biology and chemistry a level.
 
 Yeah, I've always I always just loved biology. It's one of those subjects that I could just do. I just didn't have to try. I've got A's at O level and a level and revised for neither of them really because I, I could just do I just loved it. Yeah, I went to do biochemistry so partly because it was a mixture of biology.
 
