@@ -170,3 +170,6 @@ echo "replaced umsu.html "
 find . -name "*.html" -exec sed -I '' 's/bbc.html/bbc/g' {} +
 echo "replaced bbc.html "
 
+find . -name "*.html" -exec sed -I '' 's/novacoast.html/novacoast/g' {} +
+echo "replaced novacoast.html "
+
