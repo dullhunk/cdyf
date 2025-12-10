@@ -765,7 +765,14 @@ My chequer told me sew
 ---Anon
 ```
 
-While automation can help improve your writing, ultimately there is no substitute for people (you know: actual *humans*) reading your CV, and the more people that read it the better. This could be potential employers, your critical friends shown in figure \@ref(fig:wonderfuldarling-fig) or just reading it **out loud** to yourself described in section \@ref(dogfooding).
+While automation and AI can help improve your writing, ultimately there is no substitute for people (you know: actual *humans*) reading your CV, and the more people that read it the better. This could be potential employers, your critical friends shown in figure \@ref(fig:wonderfuldarling-fig) or just reading it **out loud** to yourself described in section \@ref(dogfooding).
+
+Typos and spelling mistakes will distract your reader from the key messages you're trying to communicate. Instead of noticing all the great stuff you have to offer, your reader will notice the typos instead. There's good evidence to suggest that the number of typos in a CV are one of the strongest indicators of progression to the next round of application. [@typos]
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7392606438143062016" height="1421" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
+
 
 ### Your References {#referees}
 

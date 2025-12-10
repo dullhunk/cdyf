@@ -1,15 +1,15 @@
 # Opportunities with UMSU {#umsu}
 
-Are you a Manchester student who loves building things behind the scenes with systems, pipelines, and the invisible architecture that makes great insights possible? Do you enjoy turning messy, complex data into something structured, efficient, and powerful? Join the Students’ Union’s Insight & Data Team as a Student Data Engineer and help shape the foundations of our growing data ecosystem.
+Do you enjoy turning messy, complex data into something structured, efficient, and powerful? Are you a Manchester student who loves building things behind the scenes with systems, pipelines, and the invisible architecture that makes great insights possible? Join the Students’ Union’s Insight & Data Team as a Student Data Engineer and help shape the foundations of our growing data ecosystem.
 
-The [University of Manchester Students’ Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU), is the biggest Students’ Union in the country, supporting over 48,000 students throughout their time at university. They help to make student life the best it can be by supporting students to campaign for change, creating opportunities to meet new people, providing employment opportunities, providing advice and support and being a safe place on campus. They have a part-time vacancy for a student data engineer described below.
+The [University of Manchester Students’ Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU), is the biggest Students’ Union in the UK, supporting over 48,000 students throughout their time at university. They help to make student life the best it can be by supporting students to campaign for change, creating opportunities to meet new people, providing employment opportunities, providing advice and support and being a safe place on campus. They have a part-time vacancy for a student data engineer described below.
 
 
 ```{r umsu-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionumsu)"}
 knitr::include_graphics("images/union-panorama.jpg")
 ```
 
-(ref:captionumsu) The Students' Union at the University of Manchester on the Oxford Road.
+(ref:captionumsu) A panoramic picture of the Students' Union at the University of Manchester on the Oxford Road.
 
 
 ## Student Data Engineer {#data-engineer}
