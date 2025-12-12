@@ -1,0 +1,3 @@
+Over the past 15 years, Chess in Schools and Communities has supported over 2,700 UK state schools with chess lessons, clubs, equipment, and training. Find out why chess will help your pupils, and how we can help.
+
+In addition, CSC runs chess projects in libraries, prisons, hospitals, with older people, and with refugees. We also organise an annual world-class chess tournament, the London Chess Classic, and ChessFest, a mass engagement event held each July in Trafalgar Square.
