@@ -1,6 +1,6 @@
 # Opportunities with CERN {#cern}
 
-Did you know that CERN employs **ten times more engineers** and technicians than research physicists, see figure \@ref(fig:cern-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and most of them won't be physicists. [@hullcern] - see figure \@ref(fig:cern3-fig).
+Did you know that CERN employs **ten times more engineers** and technicians than research physicists, see figure \@ref(fig:cern3-fig). For physicists to understand the data that pours off the [Large Hadron Collider](https://en.wikipedia.org/wiki/Large_Hadron_Collider) (LHC), you need armies of engineers to enable the scientists to do their work. A *lot* of those engineers are working on hardware and software, and most of them won't be physicists. [@hullcern]
 
 ```{r cern3-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncern)"}
 knitr::include_graphics("images/cern-engineering.jpeg")
