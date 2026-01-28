@@ -137,6 +137,9 @@ echo "replaced mancrosoft.html "
 find . -name "*.html" -exec sed -I '' 's/bright.html/bright/g' {} +
 echo "replaced bright.html "
 
+find . -name "*.html" -exec sed -I '' 's/forage.html/forage/g' {} +
+echo "replaced forage.html "
+
 # find . -name "*.html" -exec sed -I '' 's/imago.html/imago/g' {} +
 # echo "replaced imago.html "
 
@@ -148,6 +151,9 @@ echo "replaced crafting.html "
 
 find . -name "*.html" -exec sed -I '' 's/china.html/china/g' {} +
 echo "replaced china.html "
+
+find . -name "*.html" -exec sed -I '' 's/cern.html/cern/g' {} +
+echo "replaced cern.html "
 
 find . -name "*.html" -exec sed -I '' 's/graduating.html/graduating/g' {} +
 echo "replaced graduating.html "
@@ -164,12 +170,12 @@ echo "replaced muna.html "
 find . -name "*.html" -exec sed -I '' 's/thankyou.html/thankyou/g' {} +
 echo "replaced thankyou.html "
 
-find . -name "*.html" -exec sed -I '' 's/umsu.html/umsu/g' {} +
-echo "replaced umsu.html "
+# find . -name "*.html" -exec sed -I '' 's/umsu.html/umsu/g' {} +
+# echo "replaced umsu.html "
 
-find . -name "*.html" -exec sed -I '' 's/bbc.html/bbc/g' {} +
-echo "replaced bbc.html "
+# find . -name "*.html" -exec sed -I '' 's/bbc.html/bbc/g' {} +
+# echo "replaced bbc.html "
 
-find . -name "*.html" -exec sed -I '' 's/novacoast.html/novacoast/g' {} +
-echo "replaced novacoast.html "
+# find . -name "*.html" -exec sed -I '' 's/novacoast.html/novacoast/g' {} +
+# echo "replaced novacoast.html "
 
