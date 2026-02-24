@@ -1,4 +1,4 @@
-# Opportunities at the University of Manchester {#sei}
+# Opportunities at the University of Manchester {#soe}
 
 (ref:yourfutureblurb)
 
