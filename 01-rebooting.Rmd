@@ -135,8 +135,8 @@ lotsofgrads <- tribble(
   "2018",       50
 )
 
-ggplot(data = lotsofgrads) +
-  geom_bar(mapping = aes(x = year, y = percentage), stat = "identity")
+ggplot(data = lotsofgrads) + theme_minimal () +
+  geom_bar(mapping = aes(x = year, y = percentage), stat = "identity") 
 ```
 (ref:captionlotsofgrads) Percentage of young people in the UK going into higher education between 1980 and 2018. Over the last forty years, the proportion of young people going into higher education has more than doubled from 15% in 1980 to over 50% in 2018. Data taken from BBC news article on [the symbolic target of 50% at university reached](https://www.bbc.co.uk/news/education-49841620) [@lotsofgrads]
 
