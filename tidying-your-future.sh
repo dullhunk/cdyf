@@ -143,6 +143,12 @@ echo "replaced bright.html "
 find . -name "*.html" -exec sed -I '' 's/forage.html/forage/g' {} +
 echo "replaced forage.html "
 
+find . -name "*.html" -exec sed -I '' 's/mcs.html/forage/g' {} +
+echo "replaced mcs.html "
+
+find . -name "*.html" -exec sed -I '' 's/paola.html/forage/g' {} +
+echo "replaced paola.html "
+
 # find . -name "*.html" -exec sed -I '' 's/imago.html/imago/g' {} +
 # echo "replaced imago.html "
 
