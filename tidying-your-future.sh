@@ -182,6 +182,9 @@ echo "replaced thankyou.html "
 find . -name "*.html" -exec sed -I '' 's/phd.html/phd/g' {} +
 echo "replaced phd.html "
 
+find . -name "*.html" -exec sed -I '' 's/linking.html/linking/g' {} +
+echo "replaced linking.html "
+
 # find . -name "*.html" -exec sed -I '' 's/umsu.html/umsu/g' {} +
 # echo "replaced umsu.html "
 
