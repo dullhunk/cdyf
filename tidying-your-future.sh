@@ -185,6 +185,12 @@ echo "replaced phd.html "
 find . -name "*.html" -exec sed -I '' 's/linking.html/linking/g' {} +
 echo "replaced linking.html "
 
+find . -name "*.html" -exec sed -I '' 's/rosie.html/rosie/g' {} +
+echo "replaced rosie.html "
+
+find . -name "*.html" -exec sed -I '' 's/afruli.html/afruli/g' {} +
+echo "replaced afruli.html "
+
 # find . -name "*.html" -exec sed -I '' 's/umsu.html/umsu/g' {} +
 # echo "replaced umsu.html "
 

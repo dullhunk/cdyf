@@ -53,6 +53,42 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
+## Episode 23: Uli Sattler & Aphrodite Galata on presentations {#ep23}
+
+Meet Afrodite Galata and Uli Sattler, see figure \@ref(fig:afruli2-fig) and the show notes in chapter \@ref(afruli).
+
+```{r afruli2-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionafruli)"}
+knitr::include_graphics("images/afruli.png")
+```
+
+(ref:podcastblurbshort)
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/42328625/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
+## Episode 22: Rosie Halsall on switching from Physics and working at BNY.com {#ep22}
+
+Meet Rosie, see figure \@ref(fig:rosie2-fig) and the transcript and show notes in chapter \@ref(rosie).
+
+```{r rosie2-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionrosie)"}
+knitr::include_graphics(rep("images/linkedinrosie.png", 3))
+```
+
+(ref:captionrosie) Rosie Halsall, portrait re-used from [linkedin.com/in/rosiehalsall](https://www.linkedin.com/in/rosiehalsall/) with permission, thanks Rosie. 🙏
+
+
+(ref:podcastblurbshort)
+
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/37487265/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
+
 ## Episode 21: Muna Hassan on Couchbase and Lloyds Banking Group {#ep21}
 
 Meet Muna Hassan, see figure \@ref(fig:muna2-fig) and the transcript and show notes in chapter \@ref(muna).
