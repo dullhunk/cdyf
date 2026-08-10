@@ -53,6 +53,22 @@ knitr::include_graphics(rep("images/Hearing-your-future.png", 3))
 
 If you'd like to be a guest on the show, see section \@ref(you).
 
+## Episode 24: Todd Davies on Google, Morgan Stanley and Competition Law {#ep24}
+
+Meet Todd Davies, see figure \@ref(fig:todd-fig) and the show notes in chapter \@ref(todd).
+
+```{r todd-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionlinkedintodd)"}
+knitr::include_graphics(rep("images/linkedintodd.png", 3))
+```
+
+(ref:captionlinkedintodd) Todd Davies, portrait re-used from [linkedin.com/in/daviestodd](https://www.linkedin.com/in/daviestodd/) with permission, thanks Todd. 🙏
+
+(ref:podcastblurbshort)
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/42375540/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
+```
+
 ## Episode 23: Uli Sattler & Aphrodite Galata on presentations {#ep23}
 
 Meet Afrodite Galata and Uli Sattler, see figure \@ref(fig:afruli2-fig) and the show notes in chapter \@ref(afruli).
