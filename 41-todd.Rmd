@@ -15,6 +15,8 @@ knitr::include_url('https://www.youtube.com/embed/9oCSds8kFcg')
 cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-player.libsyn.com/embed/episode/id/42375540/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>')
 ```
 
+The transcript below was machine generated and subsequently edited by Todd, thanks again Todd. 🙏
+
 ## What's Your Story Todd? {#todds-story}
 
 Welcome Todd, thank you for coming on hearing your future. Could you start by saying a little bit about who you are? Yeah. How are you came to be here today? 
@@ -372,7 +374,7 @@ That's okay. Yeah. Um, and I think some people are better that that than others 
 
 I think we've done vice Chancellor now. So let's move on to the last two questions. So, one tune, one podcast, one book and one film. Yeah. Uh, so should we start with one tune, a piece of music or pieces of music that are important to you? That you can recommend to other people. Say why they're important.
 
-> So I am a huge Muse fan. I absolutely love Muse. So I have two pieces, or two songs from Muse. The first one is called [Map of the Problematique](https://en.wikipedia.org/wiki/Map_of_the_Problematique). I think with a lot of the Muse songs that I like, I like them because of the musicality, and you never quite know what you're going to get from Muse because they're quite eclectic. But one of the reasons I like Map of the Problematique is, for the references. So the problematique is this idea that you have all these different kind of coinciding problems, and that in order to try and address one of them, you need to also address all the other ones. So for example, or some of the other ones. So, for example, like the climate process today, you know, if we are to address it, we also need to be thinking about inequality.
+> So I am a huge [Muse](https://en.wikipedia.org/wiki/Muse_(band)) fan. I absolutely love Muse. So I have two pieces, or two songs from Muse. The first one is called [Map of the Problematique](https://en.wikipedia.org/wiki/Map_of_the_Problematique). [@problematique]  I think with a lot of the Muse songs that I like, I like them because of the musicality, and you never quite know what you're going to get from Muse because they're quite eclectic. But one of the reasons I like Map of the Problematique is, for the references. So the problematique is this idea that you have all these different kind of coinciding problems, and that in order to try and address one of them, you need to also address all the other ones. So for example, or some of the other ones. So, for example, like the climate process today, you know, if we are to address it, we also need to be thinking about inequality.
 
 Yeah.
 
@@ -380,28 +382,39 @@ Yeah.
 
 > The lyrics of the song talk about this. At some point they say "no one thinks they are to blame", as in, everybody is doing their life, but in the end that our lifestyles (collectively) produce these kinds of systemic issues, and then, "why can't we see, that when we bleed, we bleed the same", as in like, in order to overcome some of these questions, or big dilemmas that we face as a collective, we need to have empathy for each other, and see that we're all in this kind of predicament [together]. To overcome it, we need to work together.
 
-> So that's one of my one of the ones I love. Then related to that, Muse has this other song called Butterflies and Hurricanes. It draws on this this idea from [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory), you know, [when a butterfly flaps its wings](https://en.wikipedia.org/wiki/Butterfly_effect) in Tokyo, then there might be a hurricane in in New York or something like that.
+> So that's one of my one of the ones I love. Then related to that, Muse has this other song called [Butterflies and Hurricanes](https://en.wikipedia.org/wiki/Butterflies_and_Hurricanes). [@butterflies] It draws on this this idea from [Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory), you know, [when a butterfly flaps its wings](https://en.wikipedia.org/wiki/Butterfly_effect) in Tokyo, then there might be a hurricane in in New York or something like that.
 
 > But ultimately, it's a song about hope actually. It's a song about when you're in these predicaments, when you have this apparently intractable problematique, there are there's gonna be a way. There are things that you can do. And, if you look at the lyrics of the song, I feel a bit guilty saying what they are becuase they're a bit cheesy in a sense.
 
 Sometimes they don't translate well, when it works well in a musical sense.
 
-> Yeah, I don't have Matt Bellamy's riz to be able to pull that off, I think I'll leave that as homework for the listener.
+> Yeah, I don't have [Matt Bellamy](https://en.wikipedia.org/wiki/Matt_Bellamy)'s riz to be able to pull that off, I think I'll leave that as homework for the listener.
 
 We'll add those to the coder's playlist then. Next one is one podcast, so you kind of touched on one podcast already, but I think there was another one you wanted to mention?
 
 ## One Podcast {#toddcast}
 
 
-> Yeah, so any podcasts, I love podcasts! A podcast I really got a lot from is [Philosophize This!](https://www.philosophizethis.org/) It's, it's quite a popular one, I think. But there's basically one episode on most of the big philosophers. It goes all the way from [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) and Ancient Greece, all the way up to [Zizek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) today. It's kind of Western in its view, but it's also not only exclusively Western. And it's just so fascinating to do a deep dive in all these different perspectives.
+> Yeah, so any podcasts, I love podcasts! A podcast I really got a lot from is [Philosophize This!](https://www.philosophizethis.org/) It's quite a popular one, I think. But there's basically one episode on most of the big philosophers. It goes all the way from [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) and Ancient Greece, all the way up to [Zizek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) today. It's kind of Western in its view, but it's also not only exclusively Western. And it's just so fascinating to do a deep dive in all these different perspectives
+
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/2sXUn3LLwOz0pqZwmy0jku" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>')
+```
+
 
 Is it done a kind of accessible way? It doesn't assume that you know about philosophy already?
 
-> No, it tries to make it fun. And I would say it's successful. I mean, most the time I half listen while I'm exercising. So it's not that intense, as far as philosophy podcasts go at least. Then there's so many others that I'd like to fit in. There's one there's one in London called, [Make Poetry Weird Again](https://open.spotify.com/show/4ZsriZKcZdNMtpSImKQnHV?si=541801153c604344), which is basically what it says on the tin. [Emergence Magazine](https://emergencemagazine.org/podcast/) has a great podcast about, like, the things that I talked about before. The problematique, a lot of that. And then I can't not say [The Rest is Politics](https://www.youtube.com/@restispolitics). My connection that that one, is that I swim in the same swimming pool in London, that the [Alistair Campbell](https://en.wikipedia.org/wiki/Alastair_Campbell) who's one of the hosts of The Rest is Politics, who is always talking about the pool and occasionally I see him in the pool... But so far, he's never talked about something I've told him to talk about on the podcast. So maybe one day.
+> No, it tries to make it fun. And I would say it's successful. I mean, most the time I half listen while I'm exercising. So it's not that intense, as far as philosophy podcasts go at least. Then there's so many others that I'd like to fit in. There's one there's one in London called, [Make Poetry Weird Again](https://open.spotify.com/show/4ZsriZKcZdNMtpSImKQnHV?si=541801153c604344), which is basically what it says on the tin. [Emergence Magazine](https://emergencemagazine.org/podcast/) has a great podcast about, like, the things that I talked about before. The problematique, a lot of that. And then I can't not say [The Rest is Politics](https://en.wikipedia.org/wiki/The_Rest_Is_Politics). [@restispolitics] My connection that that one, is that I swim in the same swimming pool in London, that the [Alistair Campbell](https://en.wikipedia.org/wiki/Alastair_Campbell) who's one of the hosts of The Rest is Politics, who is always talking about the pool and occasionally I see him in the pool... But so far, he's never talked about something I've told him to talk about on the podcast. So maybe one day.
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1MUnGa6upWR55VDFVd6Wd7" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></iframe>')
+```
+
 
 It's a good podcast. So we've got one book. Could be fiction non-fiction.
 
-## One book {#toddbook}
+## One Book {#toddbook}
 
 > Yeah, so I have two books, I'm so sorry. My book for computer science people, actually they're both for computer science people, but I think the one that really helped me as an engineer, is [The Art of Doing Science and Engineering](https://worrydream.com/refs/Hamming_1997_-_The_Art_of_Doing_Science_and_Engineering.pdf) by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming). I came across Hamming in my third year, where [Barry Cheetham](https://www.cs.man.ac.uk/~barry) who's wonderful wonderful lecturer here. I don't know if he's still around.
 
@@ -427,7 +440,7 @@ All right, yes.
 
 Quite a lot for a 14 year old!
 
-> It was a lot! And I don't think I really "got it" back then. But at the same time, it kind of, put these seeds in my head. Of being interested in systems, being interested in philosophy, and being interested in ideas about like, what is cognition, self-reference, that kind of thing. The book is about this thing called a [strange loop](https://en.wikipedia.org/wiki/Strange_loop). So, this idea that there's a hierarchy of things, and then when you get to the top of the hierarchy, you end up back at the bottom of the hierarchy. Which, pops up in all kinds of place. It popped up recent in the law, for me, where I was reading a book called [Law as an Autopoietic System](https://cadmus.eui.eu/entities/publication/4ab6ecd5-9765-561a-8620-470a4176a905). Autopoiesis is also something that [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) talks about. But let's say that we have a disagreement, and then we go to court, and then let's say you win the court case, and then I appeal, and I go to the appeals court, and then I win, and then you go to the Supreme Court, and then you win, but I'm still not happy... Then the only court that's higher than the Supreme Court is the court of public opinion, which is outside of the court system. And then we're back in the domain of public life, which is where had the dispute in the first place. And that's a strange Loop. So this concept pops up all over the place.
+> It was a lot! And I don't think I really "got it" back then. But at the same time, it kind of, put these seeds in my head. Of being interested in systems, being interested in philosophy, and being interested in ideas about like, what is cognition, self-reference, that kind of thing. The book is about this thing called a [strange loop](https://en.wikipedia.org/wiki/Strange_loop). So, this idea that there's a hierarchy of things, and then when you get to the top of the hierarchy, you end up back at the bottom of the hierarchy. Which, pops up in all kinds of place. It popped up recent in the law, for me, where I was reading a book called _Law as an Autopoietic System_. [@autopoietic] Autopoiesis is also something that [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter) talks about. But let's say that we have a disagreement, and then we go to court, and then let's say you win the court case, and then I appeal, and I go to the appeals court, and then I win, and then you go to the Supreme Court, and then you win, but I'm still not happy... Then the only court that's higher than the Supreme Court is the court of public opinion, which is outside of the court system. And then we're back in the domain of public life, which is where had the dispute in the first place. And that's a strange Loop. So this concept pops up all over the place.
 
 One thing we've seen with Gödel, Escher, Bach is a lot of people struggle with the length of it. How did you tackle that? Any strategies for tackling it? Because it's got lots of interesting important things to say, but it is quite verbose, shall we say?
 

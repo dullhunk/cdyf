@@ -10,7 +10,7 @@ knitr::include_graphics("images/afruli.png")
 
 ## What makes a good presentation? {#3pillars}
 
-Good presentations the three pillars shown in figure \@ref(fig:pillars-fig), which are:
+The three pillars of a good presentation are shown in figure \@ref(fig:pillars-fig), they are:
 
 1. The narrative (story)
 1. The visuals 
@@ -35,7 +35,7 @@ cat('<iframe title="Libsyn Player" style="border: none" src="https://html5-playe
 
 ## Audio podcast on YouTube {#afruliyou}
 
-You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:minahil-vid)
+You can listen to this episode wherever you get your podcasts including Apple, Spotify, Amazon, YouTube and more, see section \@ref(subscribing) and figure \@ref(fig:afruli-vid)
 
 ```{r afruli-vid, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionyoupodcast)"}
 knitr::include_url('https://www.youtube.com/embed/MtvZrJeYVwU')
