@@ -578,3 +578,7 @@ knitr::include_url('https://www.youtube.com/embed/LNqbReMDR_o')
 (ref:transcript-disclaimer)  
 
 :::
+
+```{r test-fig, echo = FALSE, fig.align = "center", out.width = "100%"}
+knitr::include_graphics("images/walkingandtalking.png")
+```
