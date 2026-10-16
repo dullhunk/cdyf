@@ -1,7 +1,7 @@
 name: Daily task
 on:
   schedule:
-    - cron: 00 07 * * 1-5
+    - cron: 00 01 * * 1-5
 
 jobs:
   create_issue:
